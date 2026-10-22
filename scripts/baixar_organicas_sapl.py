@@ -140,7 +140,7 @@ def limpar_carimbo_campinas(corpo):
     return corpo, notas
 
 
-def executar(fontes, rps, modo="organicas", max_documentos=0, ano=None, siglas=()):
+def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, siglas=()):
     ibge = json.loads((RAIZ / "_indice/ibge-municipios.json").read_text())
     registro_path = RAIZ / "_indice/organicas-sapl/municipios.json"
     registro = json.loads(registro_path.read_text()) if registro_path.exists() else {
@@ -211,7 +211,7 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano=None, siglas=(
                 page = 1
                 vistos = set()
                 while True:
-                    d = api(f"norma/normajuridica/?tipo={tipo['id']}&page_size=100&page={page}" + (f"&ano={ano}" if ano else ""))
+                    d = api(f"norma/normajuridica/?tipo={tipo['id']}&page_size=100&page={page}" + (f"&ano={ano_filtro}" if ano_filtro else ""))
                     if any(n["tipo"] != tipo["id"] for n in d["results"]):
                         raise RuntimeError("API ignorou o filtro de tipo; índice não confiável")
                     vistos.update(n["id"] for n in d["results"])
@@ -307,16 +307,16 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano=None, siglas=(
                             raise RuntimeError("contagem do índice diverge do total oficial")
                         break
                     page += 1
-            parcial = bool(ano or siglas)
+            parcial = bool(ano_filtro or siglas)
             nome_indice = "indice.json" if modo == "organicas" else "indice-legislacao.json"
             if parcial:
-                nome_indice = f"indice-legislacao-parcial-{'-'.join(sorted(siglas)) or 'todos'}-{ano or 'todos'}.json"
+                nome_indice = f"indice-legislacao-parcial-{'-'.join(sorted(siglas)) or 'todos'}-{ano_filtro or 'todos'}.json"
             escrever(cache / nome_indice, json.dumps({"fonte": f"https://{host}/api/norma/normajuridica/",
                      "municipio": nome, "uf": uf, "codigo_ibge": codigo, "modo": modo, "tipos_reais": tipos_reais, "tipos": tipos,
                      "normas": indice, "consultado_em": dt.date.today().isoformat()}, ensure_ascii=False).encode())
             presentes = {n["id"] for n in indice if "https://" + host + "/norma/" + str(n["id"]) in fontes_md}
             if parcial:
-                print(host, "IBGE", codigo, "PARCIAL", f"ano={ano or 'todos'} siglas={','.join(sorted(siglas)) or 'todas'}",
+                print(host, "IBGE", codigo, "PARCIAL", f"ano={ano_filtro or 'todos'} siglas={','.join(sorted(siglas)) or 'todas'}",
                       "novos", ok, "já existentes", pulado, "índice", len(indice), "com md", len(presentes), flush=True)
                 continue
             registro = json.loads(registro_path.read_text())
