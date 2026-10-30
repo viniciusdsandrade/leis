@@ -467,6 +467,18 @@ def baixar_binario(rede, url, destino, timeout=300):
     return bruto
 
 
+CAMPO_PAGINA_WORD = re.compile(r"[^\n]{0,80}\bPAGE \d+(?: de NUMPAGES \d+)?")
+
+
+def sem_campo_pagina_word(corpo):
+    """Tira do fim o cabeçalho/rodapé do Word que o textutil anexa com o código de campo ("LM 4637 Página PAGE 32")."""
+    fim = corpo[len(corpo.rstrip("\n")):]
+    paragrafos = corpo.rstrip("\n").split("\n\n")
+    while paragrafos and CAMPO_PAGINA_WORD.fullmatch(paragrafos[-1].strip()):
+        paragrafos.pop()
+    return "\n\n".join(paragrafos) + fim
+
+
 def ole_doc_para_md(bruto):
     """Converte o .doc OLE oficial (ex.: LOMBH-atual.doc) sem inventar PDF derivado."""
     with tempfile.TemporaryDirectory() as tmp:
@@ -476,7 +488,7 @@ def ole_doc_para_md(bruto):
         if shutil.which("textutil"):
             r = subprocess.run(["textutil", "-convert", "html", "-stdout", src],
                                capture_output=True, timeout=300)
-            corpo = html_para_md(r.stdout.decode("utf-8", "replace"))
+            corpo = sem_campo_pagina_word(html_para_md(r.stdout.decode("utf-8", "replace")))
         elif shutil.which("antiword"):
             r = subprocess.run(["antiword", "-w", "0", src], capture_output=True, timeout=300)
             if r.returncode != 0 or not r.stdout.strip():

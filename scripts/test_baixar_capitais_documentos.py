@@ -7,7 +7,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from baixar_capitais_documentos import (
     CATALOGO, PULAR, gravar_markdown, limpar_chrome_dom, limpar_chrome_md,
-    numero_epigrafe, recortar_lei_dom,
+    numero_epigrafe, recortar_lei_dom, sem_campo_pagina_word,
 )
 from auditar import validar
 
@@ -135,6 +135,11 @@ class CapitaisSalvadorTest(unittest.TestCase):
         self.assertNotIn("leismunicipais", louos["fonte"])
         self.assertEqual(PULAR[0]["numero"], "7186")
         self.assertEqual(PULAR[0]["status"], "sem_fonte_https")
+
+    def test_campo_pagina_word_so_no_fim(self):
+        corpo = "**Art. 1º** O PAGE 3 do texto fica.\n\n**AUTORIA: COMISSÃO**\n\nLM 4637 Página PAGE 32\n"
+        self.assertEqual(sem_campo_pagina_word(corpo), "**Art. 1º** O PAGE 3 do texto fica.\n\n**AUTORIA: COMISSÃO**\n")
+        self.assertEqual(sem_campo_pagina_word("Página PAGE 2 de NUMPAGES 9\n\nArt. 1º\n"), "Página PAGE 2 de NUMPAGES 9\n\nArt. 1º\n")
 
     def test_gravar_passa_auditoria(self):
         item = next(x for x in CATALOGO if x["slug"] == "plano-diretor-9069-2016")
