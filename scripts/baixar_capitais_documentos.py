@@ -1,4 +1,4 @@
-"""Captura documentos estruturantes das capitais em publicações oficiais identificadas.
+"""Captura documentos estruturantes das capitais (e de outros municípios) em publicações oficiais identificadas.
 
 Catálogo explícito de fontes: não adivinha URLs, datas ou números. Preserva os
 binários, o corte da compilação e anexos, sem contar cada anexo como nova norma.
@@ -277,6 +277,18 @@ CATALOGO = [{
     'observacao': 'Código Municipal de Limpeza Urbana; PDF da API em http, capturado por HTTPS 200.',
     'marcas_obrigatorias': ['LEI COMPLEMENTAR Nº 1.060', 'Código Municipal de Limpeza Urbana',
                            'Município de Porto Alegre'],
+}, {
+    # Fora das capitais: no SAPL a Lei Orgânica é do tipo "Lei Municipal", que o modo organicas não seleciona.
+    'municipio': 'Nova Friburgo', 'uf': 'RJ', 'codigo_ibge': '3303401',
+    'tipo': 'Lei Orgânica', 'tipo_na_fonte': 'Lei Municipal', 'categoria': 'lei-organica',
+    'numero': '4637', 'data': '2018-07-12', 'data_publicacao': '2018-07-28',
+    'titulo': 'Lei Municipal nº 4.637, de 12 de julho de 2018',
+    'slug': 'lei-organica-4637-2018-sapl-1519', 'cache': 'nova-friburgo-organica-4637-2018.doc',
+    'fonte': 'https://sapl.novafriburgo.rj.leg.br/norma/1519',
+    'fonte_texto': 'https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2018/1519/1519_texto_integral.doc',
+    'versao_texto': 'texto integral anexado no SAPL da Câmara Municipal de Nova Friburgo (norma/1519), redação original de 2018, a mesma do PDF "Nova Lei Orgânica" do portal da Câmara; não incorpora as Emendas à Lei Orgânica nº 1 a 5 (2019 a 2024), mantidas à parte em emendas-lei-organica; não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE NOVA FRIBURGO', 'LEI MUNICIPAL Nº 4.637/18',
+                           'NÓS, representantes do povo friburguense'],
 }]
 
 PULAR = [{
