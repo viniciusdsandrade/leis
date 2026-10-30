@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1250"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2016/1250/1250_texto_integral.doc"
 sha256_fonte: "4c6eb3d3edb19cff56f873746eecef87c476d7cc3867aa4214754dbb11f2bcd1"
-sha256_texto: "4d4a7e5deb4c590986a433323966415f923a5f92233a1f51e7d474a2c91f4d1c"
+sha256_texto: "1fe79af23c3f4b2e9e03a4666c7355835c96a380d2c5ff64c6316ed9f3894359"
 baixado_em: "2026-10-30"
 ---
 
@@ -44,8 +44,4 @@ Nova Friburgo, 18 de agosto de 2016.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Eder Carpi dos Santos - 2º Secretário***
 
 **AUTORIA: VEREADOR MARCELO VERLY – P. 1438/16**
-
-EM LOM 50 Página PAGE 2
-
-EM LOM 51 Página PAGE 1
 

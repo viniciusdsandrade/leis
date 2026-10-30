@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1087"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2015/1087/1087_texto_integral.doc"
 sha256_fonte: "9ef89fedcca6b32b897834c080cc758617bf6a7b468fffb9cd9eff54dd3ed463"
-sha256_texto: "7e370f9d2d6c98b45edff30c84655316c59ffb5819c4c5bcb0b864b6ff53b5cb"
+sha256_texto: "f3627674ca63e0099339b2355804f5caa1449496fa492fc60fc9370577f62d92"
 baixado_em: "2026-10-30"
 ---
 
@@ -42,8 +42,4 @@ Nova Friburgo, 17 de junho de 2015.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Eder Carpi dos Santos - 2º Secretário***
 
 **AUTORIA: VEREADOR NAMI NASSIF – P. 1003/14**
-
-EM LOM 47 Página PAGE 2
-
-EM LOM 49 Página PAGE 1
 

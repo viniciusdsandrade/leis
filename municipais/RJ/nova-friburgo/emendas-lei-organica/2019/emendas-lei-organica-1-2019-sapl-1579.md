@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1579"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2019/1579/1579_texto_integral.doc"
 sha256_fonte: "556d2ccb6d20762ec1066b7d81d0bb3222ff2568a3dc07d81032f8a5668c9dbd"
-sha256_texto: "46dea8f02a27212c613cdac51a116cc4dcd4ab453a764282b6c15fdd95c71721"
+sha256_texto: "e1c97cc045b2e909616e6ace263b93842073802c70ae6f8f2f276f6007bd938d"
 baixado_em: "2026-10-30"
 ---
 
@@ -58,8 +58,4 @@ Nova Friburgo, 13 de março de 2019.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Carlos Alberto Nogueira Blaudt - 2º Secretário***
 
 **AUTORIA: MESA DIRETORA – P. 500/19**
-
-EM LOM 1 Página PAGE 2
-
-EM LOM 1 Página PAGE 1
 

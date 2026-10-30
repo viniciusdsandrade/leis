@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/2158"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2024/2158/emenda_5_lo.2018.doc"
 sha256_fonte: "f7bfe548ea8eeac3986abb6e055b51850de5895eb9a7702f7b25185fde49cdb5"
-sha256_texto: "8b3af4a92fa5c852ccf25c70f959f531ea431c83bfdc7743c956f238a870510e"
+sha256_texto: "27dba78039f74fb2f2de0e7c14d1df76799e0c74aba26f0b35fde822a08ed898"
 baixado_em: "2026-10-30"
 ---
 
@@ -44,8 +44,4 @@ Nova Friburgo, 18 de abril de 2024.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereadora Vanderléia Pereira Lima - 2º Secretária***
 
 **AUTORIA: VEREADOR JOELSON DO POTE – PEMLO 06/2023**
-
-EM LOM 2 Página PAGE 2
-
-EM LOM 5 Página PAGE 1
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1996"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2022/1996/emenda_2.doc"
 sha256_fonte: "3d3b2e8f3ece74dfe827f8df0a28d5c099eab8e9621640df0a6260f6477111e2"
-sha256_texto: "f180657aa9b8469c5e9ef4fe22df6a5dcf854d8e2e6289873d710a2120ecab50"
+sha256_texto: "0c5318305a713d1a60ec98d987923bcef47e59d138c32d0ed0722029403072d3"
 baixado_em: "2026-10-30"
 ---
 
@@ -54,8 +54,4 @@ Nova Friburgo, 11 de maio de 2022.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereadora Vanderléia Pereira Lima - 2º Secretária***
 
 **AUTORIA: PODER EXECUTIVO – P. 001/2022**
-
-EM LOM 2 Página PAGE 2
-
-EM LOM 2 Página PAGE 1
 

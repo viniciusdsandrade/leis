@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/2052"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2022/2052/emenda_3_lo.2018.doc"
 sha256_fonte: "a03e5ce6c7ea55c5657e6e6c88e131605439c56ddc42c7105d1a748592c8a1d8"
-sha256_texto: "8c916d0abc88f7fb88ff7865ad35fa894ae70c0278561d74f822003f0b519288"
+sha256_texto: "c9e68e07ace523b03e097854bf64f6da9a1d544e95be20619432957e48b2776b"
 baixado_em: "2026-10-30"
 ---
 
@@ -46,8 +46,4 @@ Nova Friburgo, 19 de dezembro de 2022.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereadora Vanderléia Pereira Lima - 2º Secretária***
 
 **AUTORIA: PODER EXECUTIVO – PEMLO. 02/2022**
-
-EM LOM 2 Página PAGE 2
-
-EM LOM 3 Página PAGE 1
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1084"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2015/1084/1084_texto_integral.doc"
 sha256_fonte: "c40d4dc4e585c57b786cd30a1d276f7333a05e364558c0ac5b11f999191c74f2"
-sha256_texto: "d2df0cab7a11216903fb7750c7f5f1c1b7e89cf1fc52af2a0e2be96791b57bc8"
+sha256_texto: "4aab67a50ba7d81efbf05b21ecf0c03e6b80f85878a160ea98d40d443c58b1fe"
 baixado_em: "2026-10-30"
 ---
 
@@ -44,8 +44,4 @@ Nova Friburgo, 01 de abril de 2015.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Eder Carpi dos Santos - 2º Secretário***
 
 **AUTORIA: VEREADOR PROFESSOR PIERRE – P. 957/14**
-
-EM LOM 47 Página PAGE 2
-
-EM LOM 48 Página PAGE 1
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1020"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2015/1020/1020_texto_integral.doc"
 sha256_fonte: "b3f6fd51fff990fab9abf91a981c6180190c5927286fbb77d751985973d9cf8c"
-sha256_texto: "a28301b53d34e796e970c562ca1b76a871d89646ce92d5c13e452ed3f92cb203"
+sha256_texto: "e8c003b0451a123311e3516bca93892fb9c690fa3d8c1b2d824a78a44df2d754"
 baixado_em: "2026-10-30"
 ---
 
@@ -46,8 +46,4 @@ Nova Friburgo, 12 de março de 2015.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Eder Carpi dos Santos - 2º Secretário***
 
 **AUTORIA: VEREADOR GABRIEL MAFORT – P. 951/14**
-
-EM LOM 47 Página PAGE 2
-
-EM LOM 47 Página PAGE 1
 

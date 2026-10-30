@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1326"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2017/1326/1326_texto_integral.doc"
 sha256_fonte: "f41bf162db75516a4bb9015b60b3d3fd677ccaaac2b46efcdda3ad741e7d0914"
-sha256_texto: "5f4e9626b42a1aa4c5e1b702cf9e8cda5ddbc4380575517246fc91404582cd48"
+sha256_texto: "5597843a98329629f5eb1d6f9c8637f0001541df9f46a62b181bed47deff88b0"
 baixado_em: "2026-10-30"
 ---
 
@@ -362,8 +362,4 @@ Nova Friburgo, 08 de março de 2017.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Carlos Alberto Nogueira Blaudt - 2º Secretário***
 
 **AUTORIA: VEREADOR PROFESSOR PIERRE – P. 18/17**
-
-EM LOM 50 Página PAGE 10
-
-EM LOM 55 Página PAGE 11
 
