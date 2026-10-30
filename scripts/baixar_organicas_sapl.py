@@ -92,7 +92,7 @@ def categoria_norma(tipo, norma=None):
     t = normalizar_chave(tipo)
     if re.search(r"projeto|proposta|requerimento|indicacao|veto|mensagem|parecer", t):
         return None
-    if re.search(r"\blei delegada\b", t):
+    if re.search(r"\bleis? delegadas?\b", t):
         return None  # tipo distinto; não rotular silenciosamente como lei ordinária
     if "organica" in t or t == "loman" or t == "emenda a loman":
         return ("emendas-lei-organica", "Emenda à Lei Orgânica") if "emenda" in t else ("lei-organica", "Lei Orgânica")
@@ -102,7 +102,7 @@ def categoria_norma(tipo, norma=None):
         return "decretos", "Decreto"
     if "resolucao" in t:
         return "resolucoes", "Resolução"
-    if re.search(r"\blei\b|codigo", t):
+    if re.search(r"\bleis?\b|codigo", t):  # "Leis Até 1948" (Campinas) no plural
         e = normalizar_chave((norma or {}).get("ementa", ""))
         if re.match(r"(?:institui|aprova|dispoe sobre) (?:o |a |um |uma )?(?:novo )?plano diretor", e):
             return "plano-diretor", "Plano diretor"

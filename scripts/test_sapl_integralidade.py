@@ -15,6 +15,8 @@ class IntegralidadeSAPLTest(unittest.TestCase):
         self.assertEqual(categoria_norma('Emenda à Loman')[0], 'emendas-lei-organica')
         self.assertIsNone(categoria_norma('Lei Delegada'))
         self.assertIsNone(categoria_norma('Projeto de Lei Ordinária'))
+        self.assertEqual(categoria_norma('Leis Até 1948'), ('leis-ordinarias', 'Lei ordinária'))
+        self.assertIsNone(categoria_norma('Leis Delegadas'))
 
     def test_retencao_so_se_aplica_aos_bytes_revisados(self):
         with tempfile.TemporaryDirectory() as tmp:
