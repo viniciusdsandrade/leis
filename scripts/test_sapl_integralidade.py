@@ -18,6 +18,8 @@ class IntegralidadeSAPLTest(unittest.TestCase):
         self.assertEqual(categoria_norma('Leis Até 1948'), ('leis-ordinarias', 'Lei ordinária'))
         self.assertIsNone(categoria_norma('Leis Delegadas'))
         self.assertEqual(categoria_norma('Resoluções Até 1948'), ('resolucoes', 'Resolução'))
+        self.assertEqual(categoria_norma('Decreto-lei'), ('decretos', 'Decreto-Lei'))
+        self.assertEqual(categoria_norma('Decretos Até 1948'), ('decretos', 'Decreto'))
 
     def test_retencao_so_se_aplica_aos_bytes_revisados(self):
         with tempfile.TemporaryDirectory() as tmp:
