@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; Ausencia da pagina 90"
 fonte: "https://sapl.campinas.sp.leg.br/norma/31714"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1968/31714/31714_texto_integral.pdf"
 sha256_fonte: "9def10b9c05efb8068590ff4ceec482e34e154dbc8081b15a4fa8cd65f181dcb"
-sha256_texto: "32c0cd539d7630a60df36ec6585fecf196d6bd946de852dd70bcca089d9dd8d8"
+sha256_texto: "304732c10058eb9bd8a8c854a528259b39f36c64f9819410ae67053cf19e822e"
 baixado_em: "2026-10-30"
 ---
 
@@ -804,8 +804,6 @@ Experiência: 730 dias do Conhocimentro de aritmética / clotivo exercício na c
 - 116 Nível: :5 CEASSE: 2850022230 Requisicos mínimos para provimento Instrução: Secundária, 10 Idade: ciclo completo. Experiência: 730 dias de /
 
 efetivo ezercício na clas- Conhocimontos de aritmética / se de Tesoureiro Auxiliar, fazer cáleu suficientes pera 1os com rapidez e precisão. / Conhecimentos dos trabalhos / do Tesoureria. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dombra os / ocupantes da classe de le- so de Recomeiro-Chefe: someiro Auxiliar. Possibilita acesso:
-
-- 117 -
 
 Nivel: ÷7 CLASSE: I2SOURBIRO-CREET Recuisitos mínimos para provimento Instrução: secundária, 10 Idade: ciclo completo.
 

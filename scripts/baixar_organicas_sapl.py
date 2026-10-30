@@ -92,7 +92,7 @@ def categoria_norma(tipo, norma=None):
     t = normalizar_chave(tipo)
     if re.search(r"projeto|proposta|requerimento|indicacao|veto|mensagem|parecer", t):
         return None
-    if re.search(r"\blei delegada\b", t):
+    if re.search(r"\bleis? delegadas?\b", t):
         return None  # tipo distinto; não rotular silenciosamente como lei ordinária
     if "organica" in t or t == "loman" or t == "emenda a loman":
         return ("emendas-lei-organica", "Emenda à Lei Orgânica") if "emenda" in t else ("lei-organica", "Lei Orgânica")
@@ -102,7 +102,7 @@ def categoria_norma(tipo, norma=None):
         return "decretos", "Decreto"
     if "resolucao" in t:
         return "resolucoes", "Resolução"
-    if re.search(r"\blei\b|codigo", t):
+    if re.search(r"\bleis?\b|codigo", t):  # "Leis Até 1948" (Campinas) no plural
         e = normalizar_chave((norma or {}).get("ementa", ""))
         if re.match(r"(?:institui|aprova|dispoe sobre) (?:o |a |um |uma )?(?:novo )?plano diretor", e):
             return "plano-diretor", "Plano diretor"
@@ -188,6 +188,8 @@ PAGINA_CAMPINAS = re.compile(
 # com o rodapé tirado como linha repetida, o cabeçalho com contador se cola ao que vem depois na mesma folha
 # ("CÂMARA MUNICIPAL DE CAMPINAS 1/18 Publicada no Diário Oficial..."); sem o contador, não há como distinguir do texto
 PAGINA_NO_INICIO_CAMPINAS = re.compile(r"CÂMARA MUNICIPAL DE CAMPINAS \d+/\d* (?=\S)")
+# número de página de livro de leis impresso, às vezes duas por linha ("- 58 - - 59 -")
+MARCA_PAGINA_CAMPINAS = re.compile(r"(?:-\s*\d{1,3}\s*-\s*)+")
 SUPLEMENTO_CAMPINAS = re.compile(r"TABELAS? [^.\n]{0,80}PUBLICADAS? EM SUPLEMENTO", re.I)
 CONTADOR_FOLHA = re.compile(r"(\d+)/(\d+)")
 
@@ -245,7 +247,7 @@ def limpar_carimbo_campinas(corpo):
         if cabecalho:
             plano = par = plano[cabecalho.end():]
             quebra_de_pagina = True
-        if PAGINA_CAMPINAS.fullmatch(plano) or i in contadores:
+        if PAGINA_CAMPINAS.fullmatch(plano) or i in contadores or MARCA_PAGINA_CAMPINAS.fullmatch(plano):
             quebra_de_pagina = True
             continue
         if AVISO_NAO_SUBSTITUI_CAMPINAS.fullmatch(plano):

@@ -176,6 +176,15 @@ class CabecalhoDePagina(unittest.TestCase):
             corpo, _ = limpar_carimbo_campinas("\n\n".join([LEI, *fracoes]))
             self.assertEqual(corpo, "\n\n".join([LEI, *fracoes]), fracoes)
 
+    def test_numero_de_pagina_de_livro_sai_e_a_frase_se_reune(self):
+        corpo, _ = limpar_carimbo_campinas("\n\n".join([LEI, "- 58 - - 59 -", "§ 10 - Thesouraria"]))
+        self.assertEqual(corpo, "\n\n".join([LEI, "§ 10 - Thesouraria"]))
+        corpo, _ = limpar_carimbo_campinas("\n\n".join(["Fica a despesa fixada na", "- 117 -", "quantia de Rs. 1:000$000."]))
+        self.assertEqual(corpo, "Fica a despesa fixada na quantia de Rs. 1:000$000.")
+        # traço com número dentro do texto fica
+        par = "- 5 % sobre o valor -"
+        self.assertEqual(limpar_carimbo_campinas("\n\n".join([LEI, par]))[0], "\n\n".join([LEI, par]))
+
     def test_aviso_colado_ao_fim_da_assinatura_sai(self):
         fim = "a) DR. SALVADOR SCARPELLI Chefe do Gabinete"
         corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, fim + " Texto somente para consulta, sem valor legal."]))
