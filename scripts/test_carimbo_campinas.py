@@ -171,6 +171,11 @@ class CabecalhoDePagina(unittest.TestCase):
             corpo, _ = limpar_carimbo_campinas("\n\n".join([LEI, *fracoes]))
             self.assertEqual(corpo, "\n\n".join([LEI, *fracoes]), fracoes)
 
+    def test_aviso_para_leitura_vira_nota(self):
+        corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, "Texto somente para leitura, sem valor legal"]))
+        self.assertEqual(corpo, LEI)
+        self.assertEqual(notas, ["cópia de consulta da Câmara, sem valor legal"])
+
     def test_folha_unica_1_de_1_sai(self):
         corpo, _ = limpar_carimbo_campinas("\n\n".join(["1/1", LEI]))
         self.assertEqual(corpo, LEI)

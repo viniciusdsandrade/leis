@@ -173,7 +173,7 @@ AVISO_REPRODUZIDO_CAMPINAS = re.compile(
     r"Texto para consulta, reproduzido conforme (?:a )?publicação(?: extra)? (?:no|do) Diário Oficial do Município em \d{1,2}º? de \w+ ?de \d{4}")
 # às vezes sob um fio de sublinhados, que o conversor escapa como "\_"
 AVISO_SEM_VALOR_LEGAL_CAMPINAS = re.compile(
-    r"(?:(?:\\_)+ )?Texto somente para consulta, sem valor legal(?:, reproduzido de acordo com a publicação oficial)?\.?")
+    r"(?:(?:\\_)+ )?Texto somente para (?:consulta|leitura), sem valor legal(?:, reproduzido de acordo com a publicação oficial)?\.?")
 # leis de 1995 copiadas do site da Prefeitura: o aviso diz de onde veio a compilação
 AVISO_COMPILADO_PMC_CAMPINAS = re.compile(r"Texto somente para consulta, sem valor legal, COMPILADO do site da P\.M\.C\.?")
 # cabeçalho de cada folha dos PDFs antigos; o total some em alguns ("CÂMARA MUNICIPAL DE CAMPINAS 10/") e há folhas sem contador.
