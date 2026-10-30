@@ -100,7 +100,7 @@ def categoria_norma(tipo, norma=None):
         return "decretos-legislativos", "Decreto legislativo"
     if "decreto" in t:
         return "decretos", "Decreto"
-    if "resolucao" in t:
+    if re.search(r"resoluc(?:ao|oes)", t):  # "Resoluções Até 1948" (Campinas) no plural
         return "resolucoes", "Resolução"
     if re.search(r"\bleis?\b|codigo", t):  # "Leis Até 1948" (Campinas) no plural
         e = normalizar_chave((norma or {}).get("ementa", ""))
