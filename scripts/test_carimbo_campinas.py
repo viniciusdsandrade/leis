@@ -171,6 +171,16 @@ class CabecalhoDePagina(unittest.TestCase):
             corpo, _ = limpar_carimbo_campinas("\n\n".join([LEI, *fracoes]))
             self.assertEqual(corpo, "\n\n".join([LEI, *fracoes]), fracoes)
 
+    def test_aviso_colado_ao_fim_da_assinatura_sai(self):
+        fim = "a) DR. SALVADOR SCARPELLI Chefe do Gabinete"
+        corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, fim + " Texto somente para consulta, sem valor legal."]))
+        self.assertEqual(corpo, "\n\n".join([LEI, fim]))
+        self.assertEqual(notas, ["cópia de consulta da Câmara, sem valor legal"])
+        # no meio do texto a frase fica, e o aviso solto continua sendo uma nota só
+        meio = "Diz o carimbo: Texto somente para consulta, sem valor legal."
+        corpo, _ = limpar_carimbo_campinas("\n\n".join([meio, LEI]))
+        self.assertEqual(corpo, "\n\n".join([meio, LEI]))
+
     def test_aviso_para_leitura_vira_nota(self):
         corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, "Texto somente para leitura, sem valor legal"]))
         self.assertEqual(corpo, LEI)
