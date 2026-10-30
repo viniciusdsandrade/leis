@@ -1,0 +1,71 @@
+---
+titulo: "Leis Até 1948 nº 261, de 29 de outubro de 1920"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Leis Até 1948"
+numero: "261"
+data: "1920-10-29"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.campinas.sp.leg.br/norma/40035"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1920/40035/40035_texto_integral.pdf"
+sha256_fonte: "e5fed5b8f5b39d5cacc4215f5e17f1b79c895998319b37d5ea129fe26bdb1892"
+sha256_texto: "42512b1b9027bc9a8895a285a17b293ba2e43895b9027e8064cda2124f10aae9"
+baixado_em: "2026-10-30"
+---
+
+# Leis Até 1948 nº 261, de 29 de outubro de 1920
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+- 8 —
+
+Lei N. 259 (Proroga o praso de execução da lei n. 235) Orçamento para 1921
+
+Art. 1.\* — Fica prorogado até 31 de Dezembro de 1922 o prazo para a execução da lei n. 235, de 10 de Outubro de 1918, mantidas integralmente as suas disposições. Raphael de Andrade Duarte, Prefeito Municipal de Campinar, ele. Faço saber que a Camara Municipal decretou e eu promuigo a seguiate
+
+**Art. 2.** — Revogam-se as disposições em contrario. Mando, portanto, a todas as autoridades a quem o conhecimento e execução da presente lei competir, que a cumpram e façam cumprir
+
+Lei N. 261 tão inteiramente como nella se contem. ( Orça a receita e fixur a despera para o esercido de 192T) Campinas, 4 de Outubro de 1920. CAPITULO 1 Raphael de Andrade Duarte: Publicada na Secretaria da Prefeitura, aos 4 de Ontubro Da Despesa de 1920. Art. L" — A despeza ordinaria da Municipalidade de Campinas, no exer- cício de 1921, é fixada na quantia de reis 1.133:0008000, sendo réis O Secretario, 1.341:805000 na cidade e réis 91:1205000 nas Sub-Prefeituras, pela formi Andrelino Perno NA CIDADE Raphael de Andrade Duarte, Prefeito Municipal de Campinas, etc.
+
+Art. 2.-— Por conta da verba fixada no artigo antecedente, fica a Pro Faço saber que a Camara Municipal decretou e eu promulgo a: feitura autorizada a despender, mediante requisição da Presidencia da Ca- seguinte mara, e com os serviços a cargo desta, a quantia de réis 7:0005000, cuja appplicação será :
+
+Lei N. 260 E unico — Secretaria da Camara : ( Dispõe sobre o não funcionamento, Secretario - 6:0008000 nocturno da Escola Corréa de Mello ) sabbados, do cursor Expediente, publicações, etc. 1:0005000 7:0008000 Art. I.\* — Não funcionará aos sabbados, a contar da data desta
+
+Art. 3.°— Por conta da verba fixada no art. 1.\*. fica a Prefeitura autorizada a despender com os serviços a seu lei, o curso nocturno da Escola Corrêa de Mello. cargo a quantia de 1.174:000$000, assim distribuida, de ae.
+
+Art. 2." — Revogam-se as disposições em contrario. cordo com as leis e tabellas vigentes : Mando, portanto, a todas as autoridades a quem o conhecimento Prejeitura : e execução da presente lei competir, que a cumpram e façam cum- Subsidio ao Prefeito 12:0005000 prir tão inteiramente como nella se contem. Expediente, publicações, etc. 21:000$000 Campinas, 13 de Outubro de 1920. $ 2.°— Secretaria da Prefeitura : Pessoal 12:6008000 Repartição fiscal: Raphael de Andrade Duarte 3 3.-- Publicada na Secretaria da Prefeitura, aos 13 de Outubro Pessoal 26:6108000 de 1920. { 1"- Aposentadoria : Pessoal aposentado 11:2338300 O Secretario. - Thesouro : Andrelino Perna: Pessoal 49:0208000 A transportar 130:4938300
+
+- 10 — Transporte 130:4935300 - 11 - 1) Pessoat de 7 recolas da cidade 25:20190k 5:7003000 935-8168310 5 6." - Repartição de Obras : 18:0005000 Pesoal: : Idem de 5 escolas dos bairros 15:0008000 57— Matadoaro : Adjunta da escola do Guana- bara - Pessoal 2:1005000 12:6008000 6:9605000 35:100$000 Transporte de carne. esc Pessoal da Escola Ferreira Penteado = 8."- Corpo de Bombeiros : 7:0309000 Idem da Escola Correa de 32:3408000 Pessoal Mello .. 11:0405000 18:1205000 06:4205000 Material e fardumento 4:0565000 36:3968000 1 19"- Obras publicas : 3 9" - Cenriterio : Conservação das vias publicas Pessoal : + . = da cidade 15:0008000 Obras publicas e conservação de proprios 15:0008000 bi 130-0005000 : 10.°— Reguladores publicos : Estradas de rodagem : Conservação Encarregado, inclusivé pequenos concertos . 50:000$000 600$000 Obras de · 11."-Mercado : 5:000$000 Ordenado do inspector de Fiscal 3:6008000 tradas . 58:6005000 3:210$000 $ 12 — Locação de predios : d) Indemnisações de terrenos e predios para o Aluguel dos predios onde funcionam a Escola Normal, o alargamento da rua Benjamin Constant 25:000$000 Crupo Escolar Modelo e o Posto Policial de José Paulino Para o monumento do general Francisco Glycerio 13:500$000 25:000$000 y 13/ — Bosque dos Jequitibas : Extinção de formigas 2:0005000 255:6005000 Zelador $ 20."— Auxilios e subtençõ 1:8005000 Porteiro Alimentação dos animaes 1805000 Asylo de Morpheticos , 20:0008000 5005000 Asylo de Invalidos 2:7808000 s 14.--Jardins : Associação Damas de Caridade Pessoal e conservação • 5009000 Coucertos musicas no jardins 7:500S000 3 15." — Diida consolidada : Centro de Sciencias, Letras e Artes 22:0008000 600$000 Collegio Santo Antonio Juros do emprestimo de 1911 6005000 Externato São João : Resgate de 320 titulos . 2:5008000 316-9308000 Jockey Club Campineiro Pagamento ao Governo do Estado 2:5008000 32:000S000 Maternidade 1:5005000 15:4778540 364:4078510 r 16." — Limpeza e illuminação: Sociedade S. Vicente de Paulo 3:0008000 Iluminação da cidade, tunel, Bosque . Sociedade Amiga dos Pobres 1:0008000 Escola de Limpeza, capinação, varrição Aviação 1:000$000 16:700$000 161:0008000 Para compra de muares 100-0008000 21." — Eventudes: 10:000$000 $ 17. Despezas imprevistas. - Arrecadação da divida activa : 274:000$000 37:343$160 Porcentagem ao Procurador Judicial e cobradores Total nn cidade Rs. 1.341:3805000 Costas a despendes em escutivos fiscaes 15:000$000 bI NAS SUB-PREFEITURAS = 18."— Instrucção publico: 5:0005000 20:0005000
+
+Art. 4°— Por conta da verha fixada no art. l." desta Inspector escolar a) lei. fica a Prefeitura nutorizada a despender nas Sub-Prefci. Diarias 4:300$000 zuras, com os serviços a cargo destas, a quantia de 91:120$000, 900$000 5:700$000 assim distribuida, de acordo com as leis e tabellas vigentes: A transportar 5:7008000 935:8163310
+
+5 1. - Filla Americana e Nozz Odessa : quantia de Rs. 1.133:0008000, sendo 1 tos vigentes, GEMINENH 2 Fiscaes 6:1205000 254:5005000 na cidade e Rs. 178:5005000 nas Sub-Pref Limpeza publica 6:0108000 turas, pela maneira seguinte Iluminação. Locação do predio para as escolas reunidas Imposto de industrias e profissões, 31:0005000 13:4103000 329:000S000- Predial inclusivé José Paulino e Carlos Gomes Obras publicas e crentuava 210:5008000 Imposto de viação (metros corridos) Arraial dos Sousas e Jonguin Egodio : 12- 138:00050b0 Imposto de cafeeiros 1:800$000 11:000$000 Fiscal'- Imposto de ambulantes 5:0008000 59-0005000 Limpez publica. Imposto sobre vehiculos ruraes 3:5808000 57:0008000r Iluminação do Arraial . Imposto sobre vehiculos urbanos e garages 11:0005000 Idem de Joaquim Egydio : T:2005000 do Matadouro Kenda 124:000$000 3:000$000 Instrução publica Renda do Cemiterio . 27:0008000 1:8008000 Locação do predio para as cocolas reunidas Emolumentos 32:6008000- 3:5805000 Obras publicas e eventuaes Taxa de aferição de pesos e medidas 11:0005000 Menos : Adiantamento para a cana- Locação de proprios municipaes 5:0008000 1:0003000 lização de aguas . 2:5808000 Arrecadação da divida activa 18:9605000 60:0008000 Subvenção do Governo para o Asylo de Morpheticos • 53. - Fallinhos: 5:0005000 Multas por infracções de posturas 4:300$000 Fiscal . 1:8008000 Quota de fiscalização das Companhias que têm contractos com Limpeza publica 3:210$000 a Municipalidade 9:9008000- Iluminação. 3:200$000 Contribuição do Mercado . Locação do predio para as escolas reunidas 5:000S000 1:800$000 fiscaes Custas a arrecadar em executivos 5:0008000 Obras publicas e eventuaes 3:820$000 Venda de terrenos do patrimonio 13:860$000 privado 10:0005000 Cosmopolis : Porcentagem de 6 por cento E 40 38:000S0CHF Fiscal Diversões 10:000S000 1:800S000 Limpeza publica Receita imprevista 35:0005000 3:3608000 Huminação - 1.254:5005000 3:202$500 Locação do predio para as escolas reunidas 1:8008000 Obras publicas e eventures.
+
+Art. 6."— Por conta da verba fixada no art. 5.9. e de 8:859$700 Menos : adiantamento para o sanea- fica o Prefeito acordo com as leis e regulamentos em vigor. autorizado a arrecadar nas Sub-Prefeituras a quantia de Rs. tento 2:222S200 6:6378500 16:800S000 178:5005000 pela maneira seguinte: $ 50 - Rebouças : Fiscal
+
+§ 1."—Villa Americana e Nova Odessa : Limpeza publica. 1:800$000 32:5008000 - Imposto de industrias e profissões #uninação. 3:000$000 Locação do predio para as escolas reunidas Predial e muros 12:000$000 1:7008000 Obras publicas e eventunes • 17:503$000 62:0008000» - Imposto sobre ambulantes 1:8008000 2:2008000 10:500$000 Souzas e Joaquim Egrdio : Total das Sub-Prefeituras Rs. - Arraial dos S 2.- 91:1208000 Idem da Cidade 22:5008000 1- Imposto de industrias e profissões • : • 1.311:8808000 6:000S000 2- Predial e muros 1.433:0008000- 3 — Imposto sobre ambulantes 9:0008000 37:5005000 CAPITULO I $ 3." — Fallinhos : Da Receita
+
+Art. 5."— Fica o Prefeito autorizado a arrecadar, du- rante o exercicio de 1921, de accordo com as leis e regulamen- 11:5005000 1-Imposto de industrias e profissões . 5:500$000 2 Predial e muros 4:400$000 21:10080007 3 — Imposto sobre ambulantes. •
+
+14\*- Cosmopolis:
+
+Art. 11.- — Fica abolida a cobranca de importo sanitario dus bairris e 1 - Imposto de industrias e profissões ubetituido pelo predíal que será cobrado pelo systema adoptado nu cidade 16:9008000 6:5005000 incluindo José Paulino, Nosa Odesa. Joaquim Egydio e Carlos Comei, secre 2 - Prolial e mura 10:2005000 3 - Imposto solre ambulantes 33:600$000 cido de quinhentos réis por metro corrido nas ruas e praças iluminados e revogada a legislação em contrario. 3 5. - Rebougar : - Os automoveis de praça que se destinareti a racarsões além
+
+Art. 12."- 1 - Imprato de industrias e profissões 13:5003000 pagarão uma taxa supplementar de 209000 pur anno. do perimetro urbano. 2:500$000 2 - Prodial e muros.- para a conservação de estradas de rodagem. As garagns ficam sujeitas ao pa- 5:0008000 5 - Imposto sobre ambulantes • 21:0008000 gamento das seguintes taxas : 1.433:0008000 Receita Total Rs. De aluguel até 3 automoveis, 1005000 e 5 por cento de propirciunal : De aluguel para mais de 3 automoveis, 1508000 e 5 por cente de pro- CAPITULO II porcional; Particular para um automovel, 25$000 : Disposições geraes Particular para dois ou mais automoveis, 50500). Art. T: — Fica • Prefeito autorizado a transferir para as verhas que
+
+Art. 13.- — A arrecadação das taxas devidas à Companhia C. de Aguis forem insuficientes co saldos dus outras que tiverem tido dotação escedente e Esgotos, durante o exercicio, somente será feita mediante a retribuição de is suas necessidades, bo encerramento do esercicio. 6 % em vez de 3 % observadas as condições anteriores
+
+**Art. 8.** — Fica o Prefeito autorizado a fazer oportunamente, quando sejam reclamados, os seguintes pagamentos : 50:000$000 ao Governo do Es-
+
+Art. 14." —Se até 31 de Dezembro de 1920, não estiver executuda = Resolução n. 578, de 10 de Março do corrente anno. por meio de um con- ão, para a primeira prestação do auxilio votado para a construcção d tracto regular em que fiquem determinados o custo e prazo du entregu do. ma Escola Normal : 10:000$000 no mesmo Governo, par pagamento da Monumento á memoria do General Francisco Glycerio, é autorizada a Pre- cimeira prestação do auxilio votado para a construcção de uma Leprosaria Modelo: 15:1778540, ainda ao mesmo Governo, para amortização da divida feitura a abrir concorrencia publica para esse fim, dentro da verba consigna- contrañida pelo contracto de 16 de Maio de 1912. da neste orcamento.
+
+Art. 15."— Ficam sujeitos ao imposto de 1505000 por anno os nego-
+
+**Art. 9.** — As subvenções consignadas no art. 3." : 20 serão entregues ciantes sem estabelecimento que comprarem hortaliças, fruetas, ovos, gall- is seguintes associações, nas condições abaixo mencionadas : nhas e outros productos da pequena lavoura para revenda, dentro ou fôra do Ao Centro de Sciencias, Letras e Artes, mediante prova de publicação de Municipio. ela revista, pelo menos duas vezes no exercicio e a obrigação de ser franquea-
+
+Art. 16.°— Se o orçamento de Vallinhos comportar, fica o prefeito au- da a sua bibliotheca á consulta dos estudantes dos estabelecimentos de ensino torizado a construir um matadouro na séde desse districta, secundario desta cidade. Ao Jockey Club Campineiro, mediante a organização de corridas no em vigor os arts. 9° e 10.° da lei n. 172, de Art. 17.° — Continuam Hippodromo local.: 19 de Outubro de 1912, assim como todas as disposições de caracter perma- nente das anteriores leis orçamentarias que não tenham sido expressamente Ao Externato S, João, mediante prova da manutenção dos seus cursos primarios gratuitos diario e nocturno, devendo o Lyceu de Artes e Officios revogadas ou não sejam contrarias a esta. concluir a instrução dos alumnos que lá se acham internados por conta da Art. 18." — Revogam-se as disposições em contrario. Municipalidade: Mando, portanto, a todas as autoridades a quem o conhecimento e exe cução da presente lei competir, que a cumpram e façam cumprir tão intei- A" Escola de Aviação após o inicio de seu funcionamento. ramente como nella se contem.
+
+Art. 10."- Ficam restabelecidas as disposições do art. 9." da lei n. 202, de 28 de Outubro de 1914, nos theatros urbanos com direito a outras es- Campinas, 29 de Outubro de 1920; hibições até a hora regulamentar e reduzido a 108000 por mez o imposto men- Raphael de Andrade Duarte sal para exhibições cinematographicas em povoados que não sejam sédes de districto, desde que o preço da entrada, tanto na cidade como nos districtos Publicada na Secretaria da Prefeitura, aos 29 de Outubro de 1920. e povoados, não esceda o limite de oitocentos réis por pessõa, ficando aggra- vado com mais 105000 por função quando esse limite for elevado até 18000 O Secretario, .. com 255000, tambem por funcção, quando a entrada fôr cobrada por mais de mil réis por pessoa. Andrelina Penna
+
