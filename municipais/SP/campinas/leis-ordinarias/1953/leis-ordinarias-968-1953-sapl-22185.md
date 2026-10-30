@@ -1,0 +1,25 @@
+---
+titulo: "Lei nº 968, de 07 de julho de 1953"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "968"
+data: "1953-07-07"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; PROCESSO 4867 , PLO 256/52"
+fonte: "https://sapl.campinas.sp.leg.br/norma/22185"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1953/22185/22185_texto_integral.pdf"
+sha256_fonte: "43fb7900987827b9a7a98b577a3b4fd727f547c1f96f44ffc95c53321f1a2e2d"
+sha256_texto: "59b5a766282faac8de429669b37502ca2dba10cd31198cf2ce31a18b707a8512"
+baixado_em: "2026-10-30"
+---
+
+# Lei nº 968, de 07 de julho de 1953
+
+LEI Nº. 968, DE 07 DE JULHO DE 1953 AUTORIZA A RECEBER A DOAÇÃO DE CINCO ÁREAS DE TERRENO, PARA ALARGAMENTO DA AVENIDA BARÃO DE ITAPUS
+
+A Câmara Municipal decreta e eu, Prefeito do Município de Campinas, promulgo a seguinte Lei: Artigo 1º. - Fica o Prefeito Municipal autorizado a adquirir por doação pura e simples, dos senhores José Antunes de Vasconcelos, Gabriel Jorge, Fioravante Milani, Antônio Rezek Andery, e José Rezek Andery, as áreas de terreno abaixo descritas, necessárias ao alargamento da Avenida Barão de Itapura, nesta cidade, à saber: Área pertencente a José Antunes de Vasconcelos: Uma faixa de terreno Situada em frente ao prédio nº. 2.680 da Avenida Barão de Itapura com 76,50m² (Setenta e seis metros e cinqüenta decímetros quadrados), de área, confrontando na frente 21,00m (vinte e um metros) com o alinhamento antigo da Av. Barão de Itapura, do lado direito 7,00m (Sete metros) com a Rua Amélia Bueno, do lado esquerdo 3,50m três metros e cinquenta centímetros) coar o lote n. 6 de propriedade do senhor Gabriel Jorge, e nos fundos, numa linha quebrada cujo 1º. trecho, chanfro da Rua Amélia Bueno com Avenida Barão de Itapura, mede 3,50m (três metros e cinquenta centímetros) com o mesmo proprietário e o 2º. trecho 17,00m (dezessete metros) no alinhamento novo da Av. Barão de Itapura, com o mesmo proprietário. Área pertencente a Gabriel Jorge: Uma faixa Situada em frente aos lotes nºs. 04,05 e 06 da Av. Barão de Itapura, com 119,00m² (cento e dezenove metros quadrados) de área, confrontando na frente 34,00m (trinta e quatro metros) no alinhamento antigo da Av. Barão de Itapura do lado direito 3,50m (três metros e cinquenta centímetros) com o prédio nº. 2.680 da mesma Avenida, de propriedade do Sr. José Antunes de Vasconcelos, do lado esquerdo 3,50m (três metros e cinquenta centímetros) com o lote nº. 0 da mesma Avenida, de propriedade do Sr Fioravante Milani e nos fundos 34,00m (trinta e quatro metros) com Sobra de terrenos do mesmo proprietário, no novo alinhamento da Avenida Barão de Itapura. Área de propriedade de Fioravante Milani: Uma faixa situada na frente do lote nº. 03 da Avenida Barão de Itapura, de forma retangular, com a área de 38,50m² (trinta e oito metros e cinquenta decímetros quadrados) confrontando na frente 11,00m (onze metros) no alinhamento antigo da Av. Barão de Itapura, do lado direito 3,50m (três metros e cinquenta centímetros) com o lote nº. 04 de Gabriel Jorge, do lado esquerdo, 3,50m (três metros e cinquenta centímetros) com o lote nº. 02 de Antonio Rezek Andery e nos fundos 11,00m (onze metros) no novo alinhamento da Avenida Barão de Itapura, com Sobra de terreno do mesmo proprietário. Área de propriedade de Antônio Rezek Andery: Uma faixa de terreno Situada em frente ao lote nº. 02 da Avenida Barão de Itapura, de forma retangular, com a área de 38,50m² (trinta e oito metros e cinquenta decímetros quadrados) confrontando na frente 11,00m (onze metros) com o alinhamento antigo da Avenida Barão de Itapura, do lado direito 3,50m (três metros e cinquenta centímetros) com o lote nº. 03 de propriedade do Sr. Fioravante Milani, do lado esquerdo 3,50m (três metros e cinqüenta centímetros) com o lote 01 de propriedade do Sr. José Rezek Andery e nos fundos 11,00m (onze metros) com Sobra de terreno do mesmo proprietário no novo alinhamento da Av. Barão de Itapura. Área de propriedade de José Rezek: Uma faixa de terreno Situada na frente do lote nº. 01, com a área de 53,00m² (cinquenta e três metros quadrados) confrontando na frente 14,30m (catorze metros e trinta centímetros) no alinhamento antigo da Avenida Barão de Itapura, do lado direito, 3,50m (três metros e cinquenta centímetros) com o lote nº. 02 de propriedade do Senhor Antônio Rezek Andery, do lado esquerdo 7,00m (Sete metros) com a Rua D. Bosco e nos fundos, numa linha quebrada, cujo 1º., trecho mede 11,00m (onze metros) e 3,50m (três metros e cinquenta centímetros) no chanfro da Rua D. Bosco e Avenida Barão de Itapura, com o mesmo proprietário, no alinhamento novo da Av. Barão de Itapura. Artigo 2º. - Esta Lei entrará em vigor na data de Sua publicação, revogadas as disposições em contrário.
+
+Paço Municipal de Campinas, aos 07 de julho de 1953 A. Mendonça de Barros Prefeito Municipal Publicada no Departamento do Expediente da Prefeitura Municipal, em 07 de julho de 1953 O Diretor Admar Maia
+

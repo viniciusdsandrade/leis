@@ -1,0 +1,42 @@
+---
+titulo: "Lei nº 1.839, de 25 de novembro de 1957"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1839"
+data: "1957-11-25"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; PROCESSO 9669 , PLO 60/57; cópia de consulta da Câmara, sem valor legal"
+fonte: "https://sapl.campinas.sp.leg.br/norma/29123"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1957/29123/29123_texto_integral.pdf"
+sha256_fonte: "41c6b0b8315aeea87667fb025a6054324df14846329abf68b561e9c019d7b163"
+sha256_texto: "5b9aa315bc267040492801d03180f41870e15a6bf96a8438fb545f4bbab1db06"
+baixado_em: "2026-10-30"
+---
+
+# Lei nº 1.839, de 25 de novembro de 1957
+
+Publicada na Secretaria da Câmara Municipal de Campinas, em 25 de novembro de 1957.\_\_\_\_
+
+LEI Nº 1839, DE 25 DE NOVEMBRO DE 1957.
+
+AUTORIZA RECEBER DOAÇÃO DE ÁREAS DE TERRENOS NO “JARDIM DO TREVO”
+
+A Câmara Municipal decreta e eu, Prefeito do Município de Campinas, promulgo a seguinte Lei:
+
+**Artigo 1º** – Fica o Prefeito do Município de Campinas autorizado a receber, em doação pura e simples, as áreas que no projeto de arruamento e loteamento do “Jardim do Trevo”, de propriedade da Sociedade Imobiliária São Paulo Limitada, constituem: ruas, avenidas, praças, passagens de pedestres e quaisquer outros logradouros, e bem assim a receber, sem ônus para o Município, as áreas que no mesmo projeto constituem vielas sanitárias traçadas pelo Departamento de Águas e Esgotos.
+
+**Artigo 2º** – Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Paço Municipal de Campinas, aos 25 de novembro de 1957.
+
+Ruy Hellmeister Novaes Prefeito Municipal
+
+Eng. Paulo Silva Pinheiro Secretário de Obras e Serviços Públicos
+
+Dr. Camilo Geraldo de Souza Coelho Secretário dos Negócios Internos e Jurídicos
+
+Publicada no Departamento do Expediente da Prefeitura Municipal, em 25 de novembro de 1957.
+
+O Diretor Álvaro Ferreira da Costa
