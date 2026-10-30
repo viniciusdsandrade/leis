@@ -377,12 +377,9 @@ def gravar_markdown(destino, item, corpo, sha_fonte, baixado_em):
     linhas = ["---"]
     for k, v in meta.items():
         linhas.append("%s: %s" % (k, yaml_str(v)))
-    linhas += ["revogada: null", "---", "", "# " + item["titulo"], "", corpo]
-    if not corpo.endswith("\n"):
-        linhas.append("")
+    # corpo + uma quebra de linha, sempre: a auditoria SAPL tira uma e confere o hash do corpo
+    linhas += ["revogada: null", "---", "", "# " + item["titulo"], "", corpo, ""]
     texto = "\n".join(linhas)
-    if not texto.endswith("\n"):
-        texto += "\n"
     destino.parent.mkdir(parents=True, exist_ok=True)
     with destino.open("x") as f:
         f.write(texto)
