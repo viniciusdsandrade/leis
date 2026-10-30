@@ -24,6 +24,7 @@ from urllib.parse import urlsplit
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from comum import Rede, documento_para_md, html_para_md, normalizar_chave, texto_pdf_para_md, yaml_str
 from baixar_dioly import juntar_hifen, texto_raw, url_segura
+from cmbh_sil import ANEXOS_PLANO_DIRETOR, cache_anexo, url_download, url_ficha
 
 RAIZ = Path(__file__).resolve().parent.parent
 API_DIOLY = "https://portal-api.dioly.com.br/api/diarios/"
@@ -170,7 +171,59 @@ CATALOGO = [{
     'versao_texto': 'texto integral HTML da Câmara Municipal do Rio de Janeiro (Domino/contlei.nsf); Código de Vigilância Sanitária, Vigilância de Zoonoses e de Inspeção Agropecuária; a fonte declara que o texto não substitui o Diário Oficial',
     'marcas_obrigatorias': ['LEI COMPLEMENTAR Nº 197',
                            'Código de Vigilância Sanitária',
-                           'Vigilância de Zoonoses'],
+                           'Vigilância de Zoonoses'],}, {
+    'municipio': 'Belo Horizonte', 'uf': 'MG', 'codigo_ibge': '3106200',
+    'tipo': 'Lei Orgânica', 'categoria': 'lei-organica', 'numero': '', 'data': '1990-03-21',
+    'titulo': 'Lei Orgânica do Município de Belo Horizonte, de 21 de março de 1990',
+    'slug': 'lei-organica-belo-horizonte-1990', 'cache': 'belo-horizonte-organica.doc',
+    'fonte': 'https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-legislacao/lei-organica',
+    'fonte_texto': 'https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoDaNorma?idDocDaNorma=2c907f76a0ee650c01a0fc97127701cf',
+    'versao_texto': 'compilação oficial da Câmara Municipal de Belo Horizonte (LOMBH-atual.doc no SIL), atualizada até setembro/2026, inclusive a Emenda nº 45, de 23/9/2026; promulgação 21/03/1990 e publicação 22/03/1990; não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE BELO HORIZONTE',
+                           'Belo Horizonte, 21 de março de 1990',
+                           'O Município de Belo Horizonte integra, com autonomia político-administrativa',
+                           'Atualizada até setembro/2026'],
+}, {
+    'municipio': 'Belo Horizonte', 'uf': 'MG', 'codigo_ibge': '3106200',
+    'tipo': 'Plano diretor', 'categoria': 'plano-diretor', 'numero': '11181', 'data': '2019-08-08',
+    'data_publicacao': '2019-08-09',
+    'titulo': 'Lei nº 11.181, de 8 de agosto de 2019',
+    'slug': 'plano-diretor-11181-2019', 'cache': 'lei11181-atual.doc',
+    'fonte': url_ficha('lei', 11181, 2019),
+    'fonte_texto': url_download('2c907f7693d91e4901941d35b6360152'),
+    'sil_id_doc_da_norma': '2c907f7693d91e4901941d35b6360152',
+    'versao_texto': 'compilação oficial da CMBH (lei11181-atual.doc no SIL), promulgação 08/08/2019 e publicação 09/08/2019; 32 anexos oficiais (mapas I–X e VII.1–VII.13, glossário XI, parâmetros XII, classificação XIII–XVI, coeficientes XVII, OUS XVIII–XIX) preservados como binários da mesma norma, sem contar cada anexo como lei nova; não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI Nº 11.181, DE 8 DE AGOSTO DE 2019',
+                           'Aprova o Plano Diretor do Município de Belo Horizonte',
+                           'Belo Horizonte, 8 de agosto de 2019'],
+    'anexos': [{'nome': n, 'cache': cache_anexo(n), 'fonte_texto': url_download(i),
+               'sil_id_doc_da_norma': i} for n, i in ANEXOS_PLANO_DIRETOR],
+}, {
+    'municipio': 'Belo Horizonte', 'uf': 'MG', 'codigo_ibge': '3106200',
+    'tipo': 'Código municipal', 'categoria': 'codigos', 'numero': '8616', 'data': '2003-07-14',
+    'data_publicacao': '2003-07-15',
+    'titulo': 'Lei nº 8.616, de 14 de julho de 2003',
+    'slug': 'codigos-8616-2003', 'cache': 'lei8616-atual.doc',
+    'fonte': url_ficha('lei', 8616, 2003),
+    'fonte_texto': url_download('2c907f76a10b73fb01a163fc57c401e0'),
+    'sil_id_doc_da_norma': '2c907f76a10b73fb01a163fc57c401e0',
+    'versao_texto': 'compilação oficial da CMBH (lei8616-atual.doc no SIL); promulgação 14/07/2003 e publicação 15/07/2003 pelo Prefeito; republicação pela Presidência da CMBH em 26/09/2003 (publicação 30/09/2003); não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI Nº 8.616, DE 14 DE JULHO DE 2003',
+                           'Contém o Código de Posturas do Município de Belo Horizonte',
+                           'Este Código contém as posturas destinadas a promover a harmonia'],
+}, {
+    'municipio': 'Belo Horizonte', 'uf': 'MG', 'codigo_ibge': '3106200',
+    'tipo': 'Código tributário', 'categoria': 'codigo-tributario', 'numero': '1310', 'data': '1966-12-31',
+    'data_publicacao': '1967-01-03',
+    'titulo': 'Lei nº 1.310, de 31 de dezembro de 1966',
+    'slug': 'codigo-tributario-1310-1966', 'cache': 'lei1310-atual.doc',
+    'fonte': url_ficha('lei', 1310, 1966),
+    'fonte_texto': url_download('2c907f767c5f60f7017c79ac98120097'),
+    'sil_id_doc_da_norma': '2c907f767c5f60f7017c79ac98120097',
+    'versao_texto': 'compilação oficial da CMBH (lei1310-atual.doc no SIL), promulgação 31/12/1966 e publicação 03/01/1967; não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI Nº 1.310, DE 31 DE DEZEMBRO DE 1966',
+                           'Institui o Código Tributário do Município de Belo Horizonte',
+                           'Belo Horizonte, 31 de dezembro de 1966'],
 }]
 
 PULAR = [{
