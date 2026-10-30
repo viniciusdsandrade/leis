@@ -1,0 +1,17 @@
+{
+ "_sobre": "Normas cujo PDF no SAPL foi anexado ao registro de outra norma. A norma da chave usa o texto anexado a id_fonte, conferido pelo sha256_fonte; a identidade (número e data da epígrafe) foi conferida contra o cadastro da norma da chave antes de entrar aqui.",
+ "sapl.campinas.sp.leg.br": {
+  "7701": {
+   "id_fonte": 7702,
+   "texto_integral": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1993/7702/7702_texto_integral.pdf",
+   "sha256_fonte": "78630bcfd6c1ee9516d2eb7d74035766ad1144675a7a7e220f17c92255131ffa",
+   "nota": "texto do PDF anexado no SAPL à norma 7702 (cadastrada como Lei 7597), que traz a epígrafe e a data desta lei; o PDF anexado a esta norma é o de outra lei"
+  },
+  "7702": {
+   "id_fonte": 7701,
+   "texto_integral": "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1993/7701/7701_texto_integral.pdf",
+   "sha256_fonte": "e0f78837b2c077b0f6331f36afeb6f5c69de3eebd215b57cef3e62cad8288724",
+   "nota": "texto do PDF anexado no SAPL à norma 7701 (cadastrada como Lei 7596), que traz a epígrafe e a data desta lei; o PDF anexado a esta norma é o de outra lei"
+  }
+ }
+}

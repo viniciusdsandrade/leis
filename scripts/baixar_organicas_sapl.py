@@ -124,6 +124,10 @@ def escrever(p, b):
 def corpo_integral_reconhecivel(corpo, emenda=False):
     if re.search(r"art(?:igo)?\.?\s*1(?:[º°o]|\b)|art(?:igo|\.)\s*[úu]nico", corpo, re.I):
         return True
+    # o OCR de leis digitalizadas lê "Artigo 1º" como "Antigo 1º" (Campinas, 1985 e 1990); só vale como
+    # rótulo no começo da linha e seguido do separador do dispositivo, para não confundir com "antigo 1º Distrito"
+    if re.search(r"(?m)^\W*Antigo\s*1\s*[º°o]\s*[-–—\u00ad.]", corpo):
+        return True
     # Algumas emendas transcrevem primeiro o artigo que alteram; o próprio ato
     # usa PROMULGA/PROMULGAM e traz sua cláusula de vigência, sem um Art. 1º.
     # Não corrige nem adivinha numeração eventualmente reconhecida por OCR.
@@ -135,6 +139,16 @@ def corpo_integral_reconhecivel(corpo, emenda=False):
     # Presidente no texto transcrito não basta.
     assinatura = re.search(r"\d{1,2}º?\.? de \w+ de \d[\d.]*\W.{0,120}?\bPresidente\b", corpo[promulga.end():], re.I | re.S)
     return bool(re.search(r"vigorar|vigor", corpo, re.I) or assinatura)
+
+
+TEXTO_DE_OUTRA_NORMA = Path(__file__).resolve().parent / "dados/sapl-texto-de-outra-norma.json"
+
+
+def texto_de_outra_norma(host, identificador):
+    """PDF anexado à norma errada no SAPL: esta norma usa o texto anexado a outra, conferido pelo SHA-256."""
+    if not TEXTO_DE_OUTRA_NORMA.exists():
+        return None
+    return json.loads(TEXTO_DE_OUTRA_NORMA.read_text()).get(host, {}).get(str(identificador))
 
 
 def motivo_retencao(cache, identificador, bruto):
@@ -393,13 +407,17 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 continue
                             if max_documentos and ok >= max_documentos:
                                 continue
-                            url = n.get("texto_integral") or texto_integral_alternativo(n.get("observacao") or "", host)
+                            troca = texto_de_outra_norma(host, n["id"])
+                            url = troca["texto_integral"] if troca else (
+                                n.get("texto_integral") or texto_integral_alternativo(n.get("observacao") or "", host))
                             if not url:
                                 raise RuntimeError("norma sem texto integral")
                             if urlsplit(url).hostname == host:
                                 url = https_mesmo_host(url, host)
-                            fonte = RAIZ / "_fonte/organicas-sapl" / host / f"{n['id']}.bin"
+                            fonte = RAIZ / "_fonte/organicas-sapl" / host / f"{troca['id_fonte'] if troca else n['id']}.bin"
                             b = obter(url, fonte)
+                            if troca and hashlib.sha256(b).hexdigest() != troca["sha256_fonte"]:
+                                raise RuntimeError("PDF de outra norma registrado mudou na fonte; revisar a troca")
                             retencao = motivo_retencao(cache, n["id"], b)
                             if retencao:
                                 raise RuntimeError("fonte retida para revisão de integralidade: " + retencao)
@@ -409,6 +427,8 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                             notas_texto = []
                             if host == "sapl.campinas.sp.leg.br":
                                 corpo, notas_texto = limpar_carimbo_campinas(corpo)
+                            if troca:
+                                notas_texto.append(troca["nota"])
                             granularidade = alertas_multiplos_atos(corpo, tipo["descricao"], n["numero"])
                             outras_publicacoes = alertas_outras_publicacoes(corpo)
                             if outras_publicacoes:
