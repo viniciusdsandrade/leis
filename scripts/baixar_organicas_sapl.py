@@ -141,6 +141,16 @@ def corpo_integral_reconhecivel(corpo, emenda=False):
     return bool(re.search(r"vigorar|vigor", corpo, re.I) or assinatura)
 
 
+TEXTO_DE_OUTRA_NORMA = Path(__file__).resolve().parent / "dados/sapl-texto-de-outra-norma.json"
+
+
+def texto_de_outra_norma(host, identificador):
+    """PDF anexado à norma errada no SAPL: esta norma usa o texto anexado a outra, conferido pelo SHA-256."""
+    if not TEXTO_DE_OUTRA_NORMA.exists():
+        return None
+    return json.loads(TEXTO_DE_OUTRA_NORMA.read_text()).get(host, {}).get(str(identificador))
+
+
 def motivo_retencao(cache, identificador, bruto):
     path = cache / "retidos-integralidade.json"
     if not path.exists():
@@ -397,13 +407,17 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 continue
                             if max_documentos and ok >= max_documentos:
                                 continue
-                            url = n.get("texto_integral") or texto_integral_alternativo(n.get("observacao") or "", host)
+                            troca = texto_de_outra_norma(host, n["id"])
+                            url = troca["texto_integral"] if troca else (
+                                n.get("texto_integral") or texto_integral_alternativo(n.get("observacao") or "", host))
                             if not url:
                                 raise RuntimeError("norma sem texto integral")
                             if urlsplit(url).hostname == host:
                                 url = https_mesmo_host(url, host)
-                            fonte = RAIZ / "_fonte/organicas-sapl" / host / f"{n['id']}.bin"
+                            fonte = RAIZ / "_fonte/organicas-sapl" / host / f"{troca['id_fonte'] if troca else n['id']}.bin"
                             b = obter(url, fonte)
+                            if troca and hashlib.sha256(b).hexdigest() != troca["sha256_fonte"]:
+                                raise RuntimeError("PDF de outra norma registrado mudou na fonte; revisar a troca")
                             retencao = motivo_retencao(cache, n["id"], b)
                             if retencao:
                                 raise RuntimeError("fonte retida para revisão de integralidade: " + retencao)
@@ -413,6 +427,8 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                             notas_texto = []
                             if host == "sapl.campinas.sp.leg.br":
                                 corpo, notas_texto = limpar_carimbo_campinas(corpo)
+                            if troca:
+                                notas_texto.append(troca["nota"])
                             granularidade = alertas_multiplos_atos(corpo, tipo["descricao"], n["numero"])
                             outras_publicacoes = alertas_outras_publicacoes(corpo)
                             if outras_publicacoes:

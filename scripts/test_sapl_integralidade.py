@@ -35,6 +35,20 @@ class IntegralidadeSAPLTest(unittest.TestCase):
         self.assertFalse(corpo_integral_reconhecivel(base + "Fica criado no antigo 1º - Distrito o posto."))
         self.assertFalse(corpo_integral_reconhecivel(base + "Antigo 1º Distrito de Campinas passa a bairro."))
 
+    def test_texto_de_outra_norma_le_o_registro_por_host_e_id(self):
+        import baixar_organicas_sapl as b
+        with tempfile.TemporaryDirectory() as tmp:
+            reg = Path(tmp) / "reg.json"
+            reg.write_text(json.dumps({"sapl.x.leg.br": {"10": {"id_fonte": 11, "texto_integral": "https://sapl.x.leg.br/a.pdf",
+                                                                 "sha256_fonte": "ab", "nota": "n"}}}))
+            original, b.TEXTO_DE_OUTRA_NORMA = b.TEXTO_DE_OUTRA_NORMA, reg
+            try:
+                self.assertEqual(b.texto_de_outra_norma("sapl.x.leg.br", 10)["id_fonte"], 11)
+                self.assertIsNone(b.texto_de_outra_norma("sapl.x.leg.br", 11))
+                self.assertIsNone(b.texto_de_outra_norma("sapl.y.leg.br", 10))
+            finally:
+                b.TEXTO_DE_OUTRA_NORMA = original
+
     def test_data_do_cadastro_de_outro_ano_e_retida(self):
         # Campinas, Lei 11.551: data "2000-03-05" no cadastro, ano 2003, publicada em 2003-05-13
         self.assertTrue(data_diverge_do_ano({'data': '2000-03-05', 'ano': 2003, 'data_publicacao': '2003-05-13'}))
