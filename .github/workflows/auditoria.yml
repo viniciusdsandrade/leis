@@ -1,0 +1,127 @@
+name: Auditoria
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: auditoria-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  acervo:
+    name: Auditoria do acervo
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      # O tree de HEAD tem ~21 GB em 1,5 milhão de arquivos, mais do que o disco do runner:
+      # clone sem blobs e checkout só dos scripts, dos .md municipais (~0,4 GB) e do PROGRESSO.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/*.py
+            /scripts/dados/pendencias-integralidade-publicadas.json
+            /municipais/[A-Z][A-Z]/**/*.md
+            /PROGRESSO.md
+            /progresso.svg
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cadastro de municípios do IBGE
+        env:
+          # o mesmo arquivo de municipais/_indice/ibge-municipios.json usado nas auditorias locais
+          IBGE_SHA256: d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c
+        run: |
+          mkdir -p municipais/_indice
+          curl -fsSL --retry 3 -o municipais/_indice/ibge-municipios.json \
+            "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?orderBy=nome"
+          echo "$IBGE_SHA256  municipais/_indice/ibge-municipios.json" | sha256sum -c - || {
+            echo "::error::o cadastro do IBGE mudou; confira e atualize IBGE_SHA256"; exit 1; }
+
+      - name: Lote do intervalo
+        id: lote
+        env:
+          EVENTO: ${{ github.event_name }}
+          BASE_PR: ${{ github.event.pull_request.base.sha }}
+          ANTES: ${{ github.event.before }}
+        run: |
+          if [ "$EVENTO" = pull_request ]; then
+            base="$BASE_PR"
+          elif [ "$EVENTO" = push ] && [ -n "$ANTES" ] && [ "$ANTES" != 0000000000000000000000000000000000000000 ]; then
+            base="$ANTES"
+          else
+            git fetch --no-tags --deepen=1 --filter=blob:none origin
+            base=$(git rev-parse HEAD^)
+          fi
+          git fetch --no-tags --depth=1 --filter=blob:none origin "$base"
+          # O índice fica com o commit auditado e HEAD vai para a base: o intervalo vira o
+          # "staged" que auditar.py e auditar_municipal.py leem com --staged.
+          git reset -q --soft "$base"
+          git diff --cached --raw --no-abbrev --diff-filter=ACMR -- '*.md' | awk '{print $4}' > "$RUNNER_TEMP/oids.txt"
+          echo "md=$(wc -l < "$RUNNER_TEMP/oids.txt" | tr -d ' ')" >> "$GITHUB_OUTPUT"
+          echo "Base $base; $(wc -l < "$RUNNER_TEMP/oids.txt") .md novos ou alterados"
+          # blobs fora do checkout esparso (federal, estaduais...) vêm num pedido só
+          if [ -s "$RUNNER_TEMP/oids.txt" ]; then
+            git -c fetch.negotiationAlgorithm=noop fetch --no-tags --no-write-fetch-head \
+              --recurse-submodules=no --filter=blob:none origin --stdin < "$RUNNER_TEMP/oids.txt"
+          fi
+
+      - name: auditar.py no lote
+        if: steps.lote.outputs.md != '0'
+        run: python3 -I scripts/auditar.py --staged
+
+      - name: auditar_municipal.py no lote e no acervo municipal inteiro
+        run: python3 scripts/auditar_municipal.py --staged --saida "$RUNNER_TEMP/auditoria-municipal.json"
+
+      - name: PROGRESSO.md em dia
+        run: |
+          cp PROGRESSO.md "$RUNNER_TEMP/PROGRESSO.publicado.md"
+          python3 -I scripts/progresso.py --git-index > /dev/null
+          # linhas empatadas saem em ordem variável; a data de geração muda sempre
+          diff <(grep -v '^Gerado em' "$RUNNER_TEMP/PROGRESSO.publicado.md" | sort) \
+               <(grep -v '^Gerado em' PROGRESSO.md | sort) || {
+            echo "::error::PROGRESSO.md desatualizado: rode python3 -I scripts/progresso.py --git-index"; exit 1; }
+
+  testes:
+    name: Testes dos scripts
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/*.py
+            /.github/testes-ci.txt
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependências do sistema
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Testes
+        working-directory: scripts
+        run: |
+          falhas=0
+          while read -r t; do
+            case "$t" in ''|'#'*) continue ;; esac
+            echo "::group::$t"
+            python3 "$t" || { echo "::error::$t falhou"; falhas=$((falhas + 1)); }
+            echo "::endgroup::"
+          done < ../.github/testes-ci.txt
+          echo "$falhas arquivo(s) de teste com falha"
+          [ "$falhas" -eq 0 ]
