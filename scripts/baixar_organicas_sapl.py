@@ -98,6 +98,9 @@ def categoria_norma(tipo, norma=None):
         return ("emendas-lei-organica", "Emenda à Lei Orgânica") if "emenda" in t else ("lei-organica", "Lei Orgânica")
     if "decreto legislativo" in t:
         return "decretos-legislativos", "Decreto legislativo"
+    if re.search(r"decreto[ -]?lei\b", t):
+        # municipais do Estado Novo: ficam com os decretos do plano, sem perder o tipo
+        return "decretos", "Decreto-Lei"
     if "decreto" in t:
         return "decretos", "Decreto"
     if re.search(r"resoluc(?:ao|oes)", t):  # "Resoluções Até 1948" (Campinas) no plural
