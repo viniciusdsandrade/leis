@@ -125,6 +125,13 @@ class CabecalhoDePagina(unittest.TestCase):
             self.assertEqual(corpo, LEI, aviso)
             self.assertEqual(notas, ["cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município"])
 
+    def test_aviso_de_reproducao_do_diario_oficial_da_camara(self):
+        for aviso in ("Texto para consulta, reproduzido conforme a publicação no Diário Oficial da Câmara Municipal de Campinas em 13 de junho de 2022",
+                      "Texto para consulta, reproduzido conforme a publicação no Diário Oficial da Câmara Municipal de Campinas, em 17 de fevereiro de 2022"):
+            corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, aviso]))
+            self.assertEqual(corpo, LEI, aviso)
+            self.assertEqual(notas, ["cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial da Câmara Municipal"])
+
     def test_aviso_de_reproducao_sem_dizer_onde(self):
         corpo, notas = limpar_carimbo_campinas("\n\n".join(["Texto para consulta, reproduzido conforme a publicação", LEI]))
         self.assertEqual(corpo, LEI)
