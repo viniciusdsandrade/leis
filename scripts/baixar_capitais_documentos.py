@@ -22,8 +22,9 @@ import tempfile
 from urllib.parse import urlsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from comum import Rede, documento_para_md, html_para_md, normalizar_chave, texto_pdf_para_md, yaml_str
+from comum import Rede, html_para_md, normalizar_chave, texto_pdf_para_md, yaml_str
 from baixar_dioly import juntar_hifen, texto_raw, url_segura
+from baixar_organicas_sapl import corpo_de_fonte
 from cmbh_sil import ANEXOS_PLANO_DIRETOR, cache_anexo, url_download, url_ficha
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -223,7 +224,59 @@ CATALOGO = [{
     'versao_texto': 'compilação oficial da CMBH (lei1310-atual.doc no SIL), promulgação 31/12/1966 e publicação 03/01/1967; não certifica atualização posterior',
     'marcas_obrigatorias': ['LEI Nº 1.310, DE 31 DE DEZEMBRO DE 1966',
                            'Institui o Código Tributário do Município de Belo Horizonte',
-                           'Belo Horizonte, 31 de dezembro de 1966'],
+                           'Belo Horizonte, 31 de dezembro de 1966'],}, {
+    'municipio': 'Porto Alegre', 'uf': 'RS', 'codigo_ibge': '4314902',
+    'tipo': 'Lei Orgânica', 'categoria': 'lei-organica', 'numero': '', 'data': '1990-04-03',
+    'titulo': 'Lei Orgânica do Município de Porto Alegre, de 3 de abril de 1990',
+    'slug': 'lei-organica-porto-alegre-1990', 'cache': 'porto-alegre-organica.pdf',
+    'fonte': 'https://legislacao.camarapoa.rs.gov.br/lei-organica/',
+    'fonte_texto': 'https://legislacao.camarapoa.rs.gov.br/wp-content/uploads/documents/lei_organica/Lei%20Org%C3%A2nica%20do%20Munic%C3%ADpio%20de%20Porto%20Alegre%20atualizada%20at%C3%A9%20emenda%20n%C2%BA%2049.pdf',
+    'versao_texto': 'compilação oficial da Câmara Municipal de Porto Alegre (Diretoria Legislativa), atualizada até a Emenda nº 49, de 12/12/2022; captura Wayback 20240422221213id_ do PDF oficial, porque legislacao.camarapoa.rs.gov.br esgotou conexão no IP do agente (página e PDF da Emenda 51); o Google indexa o nome “atualizada até emenda nº 51”, mas esse PDF não está no Wayback (Save Page Now HTTP 520); a PGM/SAPL só publica compilação até a Emenda 48/2022; o PDF da Prefeitura/SMPS é imagem sem texto nativo; emendas 50 e 51 (28/08/2024) existem no SAPL como atos isolados e não integram esta compilação; não certifica atualização posterior',
+    'marcas_obrigatorias': ['LEI ORGÂNICA DO MUNICÍPIO DE PORTO ALEGRE',
+                           'Atualizada até Emenda n.º 49, de 12.12.2022',
+                           'O Município de Porto Alegre, pessoa jurídica de direito público interno'],
+}, {
+    'municipio': 'Porto Alegre', 'uf': 'RS', 'codigo_ibge': '4314902',
+    'tipo': 'Plano diretor', 'categoria': 'plano-diretor', 'numero': '1075', 'data': '2026-07-14',
+    'titulo': 'Lei Complementar municipal nº 1.075, de 14 de julho de 2026',
+    'slug': 'plano-diretor-porto-alegre-2026', 'cache': 'porto-alegre-plano-diretor-1075-2026.pdf',
+    'fonte': 'https://legislacao.portoalegre.rs.gov.br/norma/51485',
+    'fonte_texto': 'http://legislacao.portoalegre.rs.gov.br/media/sapl/public/normajuridica/2026/51485/lc1075_atualizada_ate_24.09.2026.pdf',
+    'versao_texto': 'texto integral anexado no SAPL da PGM/Porto Alegre (norma/51485), PDF atualizado até a derrubada de veto de 24/09/2026; não certifica atualização posterior',
+    'observacao': 'Plano Diretor Urbano Sustentável; PDF da API em http, capturado por HTTPS 200.',
+    'marcas_obrigatorias': ['LEI COMPLEMENTAR Nº 1.075', 'Institui o Plano Diretor Urbano Sustentável',
+                           'Município de Porto Alegre'],
+}, {
+    'municipio': 'Porto Alegre', 'uf': 'RS', 'codigo_ibge': '4314902',
+    'tipo': 'Código municipal', 'categoria': 'codigos', 'numero': '284', 'data': '1992-10-27',
+    'titulo': 'Lei Complementar municipal nº 284, de 27 de outubro de 1992',
+    'slug': 'codigo-edificacoes-porto-alegre-1992', 'cache': 'porto-alegre-codigo-edificacoes-284-1992.pdf',
+    'fonte': 'https://legislacao.portoalegre.rs.gov.br/norma/26743',
+    'fonte_texto': 'http://legislacao.portoalegre.rs.gov.br/media/sapl/public/normajuridica/sirel/lc%20284.pdf',
+    'versao_texto': 'texto integral anexado no SAPL da PGM/Porto Alegre (norma/26743, arquivo SIREL); 5ª edição CORAG de 2001 do Código de Edificações (LC 284/1992); não certifica compilação posterior',
+    'observacao': 'Código de Edificações; PDF da API em http, capturado por HTTPS 200.',
+    'marcas_obrigatorias': ['CÓDIGO DE EDIFICAÇÕES', 'Porto Alegre'],
+}, {
+    'municipio': 'Porto Alegre', 'uf': 'RS', 'codigo_ibge': '4314902',
+    'tipo': 'Código tributário', 'categoria': 'codigo-tributario', 'numero': '7', 'data': '1973-12-07',
+    'titulo': 'Lei Complementar municipal nº 7, de 07 de dezembro de 1973',
+    'slug': 'codigo-tributario-porto-alegre-1973', 'cache': 'porto-alegre-codigo-tributario-7-1973.doc',
+    'fonte': 'https://legislacao.portoalegre.rs.gov.br/norma/17478',
+    'fonte_texto': 'http://legislacao.portoalegre.rs.gov.br/media/sapl/public/normajuridica/sirel/lc%2007.doc',
+    'versao_texto': 'texto integral anexado no SAPL da PGM/Porto Alegre (norma/17478, arquivo SIREL .doc); não certifica compilação posterior',
+    'observacao': 'Código Tributário Municipal; DOC da API em http, capturado por HTTPS 200.',
+    'marcas_obrigatorias': ['LEI COMPLEMENTAR N', 'tributos de competência do Município'],
+}, {
+    'municipio': 'Porto Alegre', 'uf': 'RS', 'codigo_ibge': '4314902',
+    'tipo': 'Código municipal', 'categoria': 'codigos', 'numero': '1060', 'data': '2025-12-22',
+    'titulo': 'Lei Complementar municipal nº 1.060, de 22 de dezembro de 2025',
+    'slug': 'codigo-limpeza-urbana-porto-alegre-2025', 'cache': 'porto-alegre-codigo-limpeza-urbana-1060-2025.pdf',
+    'fonte': 'https://legislacao.portoalegre.rs.gov.br/norma/50791',
+    'fonte_texto': 'http://legislacao.portoalegre.rs.gov.br/media/sapl/public/normajuridica/2025/50791/lc_1060.pdf',
+    'versao_texto': 'texto integral anexado no SAPL da PGM/Porto Alegre (norma/50791); não certifica atualização posterior',
+    'observacao': 'Código Municipal de Limpeza Urbana; PDF da API em http, capturado por HTTPS 200.',
+    'marcas_obrigatorias': ['LEI COMPLEMENTAR Nº 1.060', 'Código Municipal de Limpeza Urbana',
+                           'Município de Porto Alegre'],
 }]
 
 PULAR = [{
@@ -458,7 +511,7 @@ def corpo_do_item(item, bruto, fonte, url):
     if bruto.startswith(OLE):
         corpo, motivo = ole_doc_para_md(bruto)
     else:
-        corpo, motivo = documento_para_md(bruto, url)
+        corpo, motivo = corpo_de_fonte(bruto, url)
     if motivo:
         raise ValueError(motivo)
     return corpo, None
