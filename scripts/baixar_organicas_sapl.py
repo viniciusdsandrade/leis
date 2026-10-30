@@ -193,6 +193,22 @@ AVISO_CONSULTA_SO_CAMPINAS = re.compile(r"Texto para consulta\.?")
 # resoluções de 2022: reproduzido conforme o Diário Oficial da Câmara, não o do Município
 AVISO_REPRODUZIDO_DOCM_CAMPINAS = re.compile(
     r"Texto para consulta, reproduzido conforme (?:a )?publicação (?:no|do) Diário Oficial da Câmara Municipal de Campinas,? em \d{1,2}º? de \w+ ?de \d{4}")
+# família geral do aviso de consulta (decretos legislativos de 2021 a 2026): "(re)publicado/(re)publicação",
+# "no/na", edição extra(ordinária) e o Diário Oficial do Município, da Câmara ou do Legislativo; só depois
+# das variantes acima, para não mudar as notas que elas já dão
+AVISO_CONSULTA_FAMILIA_CAMPINAS = re.compile(
+    r"Texto (?:somente )?para consulta[.,] (?P<forma>Não substitui o (?P<re1>re)?publicado|reproduzido conforme (?:a )?(?P<re2>re)?publicação) "
+    r"n[oa] (?:Edição Extra(?:ordinária)? do )?Diário Oficial (?P<orgao>do Município(?: de Campinas)?|da Câmara(?: Municipal)? de Campinas|do Legislativo),? "
+    r"em ?\d{1,2}º? de \w+ ?de \d{4}")
+
+
+def nota_aviso_consulta(m):
+    orgao = "do Município" if m["orgao"].startswith("do Município") else "da Câmara Municipal"
+    if m["forma"].startswith("Não substitui"):
+        return f"cópia de consulta da Câmara, não substitui o Diário Oficial {orgao}"
+    return f"cópia de consulta da Câmara, reproduzida conforme a {'re' if m['re2'] else ''}publicação no Diário Oficial {orgao}"
+
+
 # nas leis de 1954 o aviso para em "publicação", sem dizer onde
 AVISO_REPRODUZIDO_SEM_FONTE_CAMPINAS = re.compile(r"Texto para consulta, reproduzido conforme (?:a )?publicação\.?")
 # às vezes sob um fio de sublinhados, que o conversor escapa como "\_"
@@ -288,6 +304,8 @@ def limpar_carimbo_campinas(corpo):
             notas.append("cópia de consulta da Câmara, sem valor legal")
         elif AVISO_COMPILADO_PMC_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta sem valor legal, compilada do site da Prefeitura Municipal de Campinas")
+        elif AVISO_CONSULTA_FAMILIA_CAMPINAS.fullmatch(plano):
+            notas.append(nota_aviso_consulta(AVISO_CONSULTA_FAMILIA_CAMPINAS.fullmatch(plano)))
         elif not any(r.fullmatch(plano) for r in CARIMBO_CAMPINAS):
             if quebra_de_pagina and mantidos and frase_continua_na_pagina_seguinte(mantidos[-1], par):
                 mantidos[-1] = mantidos[-1] + " " + par
