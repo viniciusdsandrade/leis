@@ -174,6 +174,8 @@ AVISO_REPRODUZIDO_CAMPINAS = re.compile(
 # às vezes sob um fio de sublinhados, que o conversor escapa como "\_"
 AVISO_SEM_VALOR_LEGAL_CAMPINAS = re.compile(
     r"(?:(?:\\_)+ )?Texto somente para consulta, sem valor legal(?:, reproduzido de acordo com a publicação oficial)?\.?")
+# leis de 1995 copiadas do site da Prefeitura: o aviso diz de onde veio a compilação
+AVISO_COMPILADO_PMC_CAMPINAS = re.compile(r"Texto somente para consulta, sem valor legal, COMPILADO do site da P\.M\.C\.?")
 # cabeçalho de cada folha dos PDFs antigos; o total some em alguns ("CÂMARA MUNICIPAL DE CAMPINAS 10/") e há folhas sem contador.
 # Anexos copiados de suplementos do Diário Oficial trazem o cabeçalho corrente dele, com número de folha e às vezes a data.
 PAGINA_CAMPINAS = re.compile(
@@ -248,6 +250,8 @@ def limpar_carimbo_campinas(corpo):
             notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município")
         elif AVISO_SEM_VALOR_LEGAL_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta da Câmara, sem valor legal")
+        elif AVISO_COMPILADO_PMC_CAMPINAS.fullmatch(plano):
+            notas.append("cópia de consulta sem valor legal, compilada do site da Prefeitura Municipal de Campinas")
         elif not any(r.fullmatch(plano) for r in CARIMBO_CAMPINAS):
             if quebra_de_pagina and mantidos and frase_continua_na_pagina_seguinte(mantidos[-1], par):
                 mantidos[-1] = mantidos[-1] + " " + par
