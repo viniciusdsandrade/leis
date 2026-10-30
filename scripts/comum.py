@@ -391,6 +391,7 @@ def ocr_pdf_tesseract(bruto):
 
 def ocr_pdf(bruto):
     """OCR com o Vision do macOS (scripts/bin/ocr) ou Tesseract no Linux."""
+    texto = ""
     if os.path.exists(OCR_BIN):
         with _ocr_vagas, tempfile.TemporaryDirectory() as tmp:
             pdf = os.path.join(tmp, "a.pdf")
@@ -400,7 +401,8 @@ def ocr_pdf(bruto):
             texto = r.stdout.decode("utf-8", "replace")
             if len(re.sub(r"\W", "", texto)) >= 80:
                 return texto
-    return ocr_pdf_tesseract(bruto)
+    # sem Tesseract, o pouco que o Vision leu continua valendo, como antes do fallback
+    return ocr_pdf_tesseract(bruto) or texto
 
 
 def ocr_imagem(bruto):
