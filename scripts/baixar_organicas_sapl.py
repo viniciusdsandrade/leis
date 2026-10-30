@@ -171,6 +171,8 @@ AVISO_NAO_SUBSTITUI_DOCM_CAMPINAS = re.compile(
     r"Texto somente para consulta\. Não substitui o publicado no Diário Oficial da Câmara Municipal de Campinas em \d{1,2}º? de \w+ ?de \d{4}")
 AVISO_REPRODUZIDO_CAMPINAS = re.compile(
     r"Texto para consulta, reproduzido conforme (?:a )?publicação(?: extra)? (?:no|do) Diário Oficial do Município em \d{1,2}º? de \w+ ?de \d{4}")
+# nas leis de 1954 o aviso para em "publicação", sem dizer onde
+AVISO_REPRODUZIDO_SEM_FONTE_CAMPINAS = re.compile(r"Texto para consulta, reproduzido conforme (?:a )?publicação\.?")
 # às vezes sob um fio de sublinhados, que o conversor escapa como "\_"
 AVISO_SEM_VALOR_LEGAL_CAMPINAS = re.compile(
     r"(?:(?:\\_)+ )?Texto somente para (?:consulta|leitura), sem valor legal(?:, reproduzido de acordo com a publicação oficial)?\.?")
@@ -252,6 +254,8 @@ def limpar_carimbo_campinas(corpo):
             notas.append("cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal")
         elif AVISO_REPRODUZIDO_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município")
+        elif AVISO_REPRODUZIDO_SEM_FONTE_CAMPINAS.fullmatch(plano):
+            notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação")
         elif AVISO_SEM_VALOR_LEGAL_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta da Câmara, sem valor legal")
         elif AVISO_COMPILADO_PMC_CAMPINAS.fullmatch(plano):
