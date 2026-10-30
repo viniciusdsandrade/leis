@@ -22,7 +22,7 @@ import tempfile
 from urllib.parse import urlsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from comum import Rede, html_para_md, normalizar_chave, texto_pdf_para_md, yaml_str
+from comum import Rede, html_para_md, normalizar_chave, sem_campo_pagina_word, texto_pdf_para_md, yaml_str
 from baixar_dioly import juntar_hifen, texto_raw, url_segura
 from baixar_organicas_sapl import corpo_de_fonte
 from cmbh_sil import ANEXOS_PLANO_DIRETOR, cache_anexo, url_download, url_ficha
@@ -477,18 +477,6 @@ def baixar_binario(rede, url, destino, timeout=300):
     with destino.open("xb") as f:
         f.write(bruto)
     return bruto
-
-
-CAMPO_PAGINA_WORD = re.compile(r"[^\n]{0,80}\bPAGE \d+(?: de NUMPAGES \d+)?")
-
-
-def sem_campo_pagina_word(corpo):
-    """Tira do fim o cabeçalho/rodapé do Word que o textutil anexa com o código de campo ("LM 4637 Página PAGE 32")."""
-    fim = corpo[len(corpo.rstrip("\n")):]
-    paragrafos = corpo.rstrip("\n").split("\n\n")
-    while paragrafos and CAMPO_PAGINA_WORD.fullmatch(paragrafos[-1].strip()):
-        paragrafos.pop()
-    return "\n\n".join(paragrafos) + fim
 
 
 def ole_doc_para_md(bruto):

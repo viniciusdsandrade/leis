@@ -433,6 +433,18 @@ def pdf_escaneado(texto):
     return len(re.sub(r"\W", "", texto)) / paginas < 300
 
 
+CAMPO_PAGINA_WORD = re.compile(r"[^\n]{0,80}\bPAGE \d+(?: de NUMPAGES \d+)?")
+
+
+def sem_campo_pagina_word(corpo):
+    """Tira do fim o cabeçalho/rodapé do Word que a conversão anexa com o código de campo ("LM 4637 Página PAGE 32")."""
+    fim = corpo[len(corpo.rstrip("\n")):]
+    paragrafos = corpo.rstrip("\n").split("\n\n")
+    while paragrafos and CAMPO_PAGINA_WORD.fullmatch(paragrafos[-1].strip()):
+        paragrafos.pop()
+    return "\n\n".join(paragrafos) + fim
+
+
 def documento_para_md(bruto, url="", content_type="", remover_inicio=()):
     """Converte um documento baixado (HTML, PDF, DOC...) em Markdown. Retorna (corpo, None) ou (None, motivo)."""
     if b"\0" in bruto[:4096] and not (imagem_bruta(bruto) or bruto.startswith(
@@ -457,6 +469,8 @@ def documento_para_md(bruto, url="", content_type="", remover_inicio=()):
             return None, "a fonte informa que o texto não está no acervo"
         return aviso + corpo, None
     corpo = html_para_md(html, remover_inicio)
+    if bruto.startswith(b"\xd0\xcf\x11\xe0") or bruto[:2] == b"PK" or bruto[:5] == b"{\\rtf":
+        corpo = sem_campo_pagina_word(corpo)  # DOC/DOCX/ODT/RTF convertidos via HTML
     if len(re.sub(r"\W", "", corpo)) < 40:
         return None, "documento vazio"
     return corpo, None
