@@ -100,7 +100,7 @@ def categoria_norma(tipo, norma=None):
         return "decretos-legislativos", "Decreto legislativo"
     if "decreto" in t:
         return "decretos", "Decreto"
-    if "resolucao" in t:
+    if re.search(r"resoluc(?:ao|oes)", t):  # "Resoluções Até 1948" (Campinas) no plural
         return "resolucoes", "Resolução"
     if re.search(r"\bleis?\b|codigo", t):  # "Leis Até 1948" (Campinas) no plural
         e = normalizar_chave((norma or {}).get("ementa", ""))
@@ -175,8 +175,8 @@ CARIMBO_CAMPINAS = [
     # nas leis de 2002 a capa ainda não tinha a Diretoria de Gestão Documental
     re.compile(r"(?:CÂMARA MUNICIPAL DE CAMPINAS (?:Estado de São Paulo )?)?(?:Diretoria de Gestão Documental )?Coordenadoria de Biblioteca "
                r"\S+@campinas\.sp\.leg\.br(?: –| -)? ?(?:Ramal:? ?\d+)?"),
-    # o OCR lê os travessões como hífen
-    re.compile(r"Avenida da Saudade, nº 1\.004 [–-] Ponte Preta [–-] CEP: 13041-670 [–-] Campinas [–-] SP [–-] PABX: \(19\) 3736-1300\.?(?: www\.campinas\.sp\.leg\.br)?"),
+    # o OCR lê os travessões como hífen; às vezes sob um fio de sublinhados ("\_\_\_ Avenida...")
+    re.compile(r"(?:(?:\\_)+ )?Avenida da Saudade, nº 1\.004 [–-] Ponte Preta [–-] CEP: 13041-670 [–-] Campinas [–-] SP [–-] PABX: \(19\) 3736-1300\.?(?: www\.campinas\.sp\.leg\.br)?"),
 ]
 # a fonte tem erros de grafia nesta linha ("Municipio", "Municípo", "Campina"); a data também varia ("1º de outubro", "novembrode")
 AVISO_NAO_SUBSTITUI_CAMPINAS = re.compile(
@@ -185,6 +185,11 @@ AVISO_NAO_SUBSTITUI_DOCM_CAMPINAS = re.compile(
     r"Texto somente para consulta\. Não substitui o publicado no Diário Oficial da Câmara Municipal de Campinas em \d{1,2}º? de \w+ ?de \d{4}")
 AVISO_REPRODUZIDO_CAMPINAS = re.compile(
     r"Texto para consulta, reproduzido conforme (?:a )?publicação(?: extra)? (?:no|do) Diário Oficial do Município em \d{1,2}º? de \w+ ?de \d{4}")
+# resolução de 1967: só "Texto para consulta", sem dizer de onde
+AVISO_CONSULTA_SO_CAMPINAS = re.compile(r"Texto para consulta\.?")
+# resoluções de 2022: reproduzido conforme o Diário Oficial da Câmara, não o do Município
+AVISO_REPRODUZIDO_DOCM_CAMPINAS = re.compile(
+    r"Texto para consulta, reproduzido conforme (?:a )?publicação (?:no|do) Diário Oficial da Câmara Municipal de Campinas,? em \d{1,2}º? de \w+ ?de \d{4}")
 # nas leis de 1954 o aviso para em "publicação", sem dizer onde
 AVISO_REPRODUZIDO_SEM_FONTE_CAMPINAS = re.compile(r"Texto para consulta, reproduzido conforme (?:a )?publicação\.?")
 # às vezes sob um fio de sublinhados, que o conversor escapa como "\_"
@@ -270,6 +275,10 @@ def limpar_carimbo_campinas(corpo):
             notas.append("cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal")
         elif AVISO_REPRODUZIDO_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município")
+        elif AVISO_CONSULTA_SO_CAMPINAS.fullmatch(plano):
+            notas.append("cópia de consulta da Câmara")
+        elif AVISO_REPRODUZIDO_DOCM_CAMPINAS.fullmatch(plano):
+            notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial da Câmara Municipal")
         elif AVISO_REPRODUZIDO_SEM_FONTE_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação")
         elif AVISO_SEM_VALOR_LEGAL_CAMPINAS.fullmatch(plano):
