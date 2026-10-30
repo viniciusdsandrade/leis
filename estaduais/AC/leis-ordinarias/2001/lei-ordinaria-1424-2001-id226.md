@@ -56,7 +56,3 @@ nos Quadros de Praças Policiais Militares
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

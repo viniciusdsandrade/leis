@@ -493,7 +493,3 @@ Situações de incidência: Arts. 51, inciso I; 54, Parágrafo único; 55, caput
 | XV – Degravação de Fitas | 35,00 |
 | XVI – Oficial Contador | 5,00 |
 | XVII – Desarquivamento de processo | 5,00 |
-
-PAGE
-
-PAGE 1

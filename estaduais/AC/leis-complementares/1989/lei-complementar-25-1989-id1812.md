@@ -502,7 +502,3 @@ baixado_em: 2026-10-13
 **FLAVIANO FLÁVIO BAPTISTA DE MELO**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 18

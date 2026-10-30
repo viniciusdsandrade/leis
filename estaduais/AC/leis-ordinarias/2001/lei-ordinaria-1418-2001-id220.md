@@ -506,7 +506,3 @@ Grupo Superior.
 | Nível II | R$ 400,00 | Técnico de Nível Médio (Fiscal II) |
 | Nível III | R$ 500,00 | Tecnólogo |
 | Nível IV | R$ 600,00 | Técnicos de Nível Superior |
-
-PAGE
-
-PAGE 1

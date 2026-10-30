@@ -62,7 +62,3 @@ baixado_em: 2026-10-13
 | 1.108 | Cartório | Xapuri | Complexo Industrial Florestal |
 | Processo n. 3476/2000 | Cartório | Xapuri | Distrito Industrial |
 | 2.376 | Cartório | Brasiléia | Agro-Indústria |
-
-PAGE
-
-PAGE 2

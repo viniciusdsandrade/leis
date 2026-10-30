@@ -48,7 +48,3 @@ EMBED Word.Picture.6
 ***ESTADO DO ACRE***
 
 ***ASSEMBLÉIA LEGISLATIVA***
-
-PAGE
-
-PAGE 2

@@ -172,7 +172,3 @@ ECONÔMICO-SUSTENTÁVEL
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 3

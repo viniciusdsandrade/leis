@@ -56,7 +56,3 @@ baixado_em: 2026-10-13
 | TIPO B | 3.500,00 |
 | TIPO C | 3.650,00 |
 | TIPO D | 3.800,00 |
-
-PAGE
-
-PAGE 2

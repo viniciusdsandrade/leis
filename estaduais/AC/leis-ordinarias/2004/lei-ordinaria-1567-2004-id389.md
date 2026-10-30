@@ -1681,7 +1681,3 @@ Fonte: Balanço Geral do Estado 2003
 Fonte: Gerência de Administração Tributária – SEFAZ
 
 Secretaria de Estado de Planejamento e Desenvolvimento Sustentável - SEPLANDS
-
-PAGE
-
-PAGE 9

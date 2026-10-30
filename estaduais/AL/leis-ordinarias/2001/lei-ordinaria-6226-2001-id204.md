@@ -285,5 +285,3 @@ R$1,00
 G o v e r n a d o r
 
 (\*) Publicada no DOE de 16/01/2001.
-
-PAGE 1

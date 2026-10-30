@@ -143,7 +143,3 @@ Recursos de Outras Fontes 14.000,00
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

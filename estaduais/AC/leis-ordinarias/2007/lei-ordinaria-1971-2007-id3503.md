@@ -284,7 +284,3 @@ inflação baseados nas projeções do Ministério da Fazenda e da Secretaria do
 **ARNÓBIO MARQUES DE ALMEIDA JÚNIOR**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 9

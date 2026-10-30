@@ -537,7 +537,3 @@ c) na ação penal privada subsidiária, o querelante fica isento do recolhiment
 Nota:
 
 a) Nos demais processos originários e serviços prestados cobrar-se-ão as mesmas custas e emolumentos fixados para primeira instância.
-
-PAGE
-
-PAGE 10

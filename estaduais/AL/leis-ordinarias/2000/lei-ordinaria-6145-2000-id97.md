@@ -656,7 +656,3 @@ Governador
 (\*) Publicada no DOE de 14/01/2000.
 
 (\*\*) Art. 56 promulgado pela Assembléia Legislativa Estadual e publicado no DOE de 14/05/00. Republicado no DOE de 16/05/00.
-
-PAGE
-
-PAGE 16

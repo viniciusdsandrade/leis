@@ -74,7 +74,3 @@ baixado_em: 2026-10-13
 | --- | --- |
 | **Escola Tipo C** | **3.700,00** |
 | **Escola Tipo D** | **3.850,00** |
-
-PAGE
-
-PAGE 2

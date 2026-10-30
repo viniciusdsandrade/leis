@@ -1341,7 +1341,3 @@ IRRECUPERAVEL
 | 30 | DERACRE | Caminhão basculante | FORD | 9BFWTNRM1PDB19546 | 1993 | Cruzeiro do Sul Ac, | R$ 5.000,00 |
 | 31 | DERACRE | Caminhão basculante | FORD | 9BFXTNSMXNDB02594 | 1992 | Cruzeiro do Sul Ac, | R$ 5.000,00 |
 |  |  |  |  |  |  | **TOTAL** | **R$ 120.100,00** |
-
-PAGE
-
-PAGE 10

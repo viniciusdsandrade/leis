@@ -40,7 +40,3 @@ baixado_em: 2026-10-13
 **Deputado SÉRGIO OLIVEIRA**
 
 **Presidente da Assembléia Legislativa do Estado do Acre**
-
-PAGE
-
-PAGE 2

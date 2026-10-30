@@ -52,7 +52,3 @@ Inicia-se no marco **F-18**, localizado na divisa entre os Estados do Acre e Ama
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

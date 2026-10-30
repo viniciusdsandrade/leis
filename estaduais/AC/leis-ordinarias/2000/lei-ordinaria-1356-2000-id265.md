@@ -44,5 +44,3 @@ Capitão QOABM, equivalente a vinte e cinco por cento do efetivo de Capitães, p
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE 1

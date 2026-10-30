@@ -60,7 +60,3 @@ Partindo do marco **X-105**, localizado na confluência do Igarapé Riozinho com
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

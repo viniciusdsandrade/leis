@@ -1024,7 +1024,3 @@ baixado_em: 2026-10-13
 **FRANCISCO WANDERLEY DANTAS**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

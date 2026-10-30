@@ -58,7 +58,3 @@ Inicia-se no marco **PW-01**, localizado à margem esquerda do Rio Juruá, na fo
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

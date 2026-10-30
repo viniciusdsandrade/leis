@@ -1084,7 +1084,3 @@ b) por prática de ato que justifique seu desligamento.
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE 45
-
-PAGE 35

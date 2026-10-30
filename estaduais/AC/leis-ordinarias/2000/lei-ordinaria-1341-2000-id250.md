@@ -372,7 +372,3 @@ Chefe de Gabinete DAS – 01 1
 **. Atribuições Sumárias:**
 
 . Dirigir veículos automotores em geral; transportar pessoas ou materiais em veículos; fazer entrega de materiais e documentos, auxiliar no embarque e desembarque de quaisquer materiais; promover o abastecimento de combustível do veículo; efetuar reparos de emergência no veículo; zelar pela segurança de passageiros e cargas que lhe forem confiadas e pela limpeza e conservação dos veículos, observando o calendário de manutenção; observar medidas de segurança contra acidentes, operar guindastes e MUNK acoplados aos veículos; e executar tarefas afins.
-
-PAGE 1
-
-PAGE 2

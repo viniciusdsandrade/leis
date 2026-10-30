@@ -56,7 +56,3 @@ Inicia-se no marco **B-09**, localizado na divisa entre o Estados do Acre e Amaz
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

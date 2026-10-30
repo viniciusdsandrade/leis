@@ -3834,7 +3834,3 @@ PALÁCIO MARECHAL FLORIANO PEIXOTO, em Maceió, 19 de abril de 2001, 112º da Re
 Governador
 
 Publicada no DOE de 20/04/2001.
-
-PAGE 85
-
-PAGE 13

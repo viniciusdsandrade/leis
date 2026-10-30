@@ -365,5 +365,3 @@ Governador
 | Função Gratificada | FG-3 | 11 | 203,00 |
 
 Quadro de cargos e funções estabelecido pela Lei n.º 6.259, de 31 de julho de 2001, publicada no DOE de 01/08/2001, que alterou a Lei n.º 6.192, de 29 de agosto de 2000, publicada no DOE de 30/08/2000.
-
-PAGE 7

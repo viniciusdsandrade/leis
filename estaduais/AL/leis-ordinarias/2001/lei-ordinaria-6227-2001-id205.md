@@ -303,7 +303,3 @@ G o v e r n a d o r
 | Diretor do PRODETUR | DS-2 | 03 | 1.517,00 |
 | Função Gratificada PRODETUR | FG-1 | 01 | 271,00 |
 | Função Gratificada PRODETUR | FG-4 | 01 | 169,00 |
-
-PAGE
-
-PAGE 3

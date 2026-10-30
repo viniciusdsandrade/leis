@@ -106,7 +106,3 @@ Elemento de Despesa – 3.1.3.2.00 – 1 RP
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

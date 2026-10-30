@@ -329,7 +329,3 @@ Vencimento inicial: R$ 1.200,00 (um mil e duzentos reais).
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 4

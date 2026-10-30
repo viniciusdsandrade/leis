@@ -240,7 +240,3 @@ dedetização domiciliar ou de ambiente de uso coletivo.........................
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | **POR VEZ UNIDADE** | **MENSAL** | **ANUAL** |  |  |  |
 | **25** | g) idem, idem para empresas com mais de 20 (vinte) homens................................................................................. h) licença para empresas que mantenham serviços próprios de vigias e guardiões, por homens......................... i) sistema de alarme por agência bancária, certificado de regularidade anual................................................................ j) alvará para veículos blindado de transportes de valores, de acordo com a legislação em vigor.................................... k) por alvará ou revalidação simestral.................................. l) licença para funcionamento de empresa fornecedora, locadora ou instaladora de sistema de alarme para instalação bancárias, caixas econômicas e cooperativas de créditos que funcionam em lojas ou escritórios.................... **HÓTEIS**: a) sem estrela - até 20 (vinte) quartos.................................. |  |  | **3,00** | **UPF** | **25,00** **10,00** **10,00** **10,00** **5,00** **10,00** | **UPF** **UPF** **UPF** **UPF** **UPF** **UPF** |
-
-PAGE
-
-PAGE 11

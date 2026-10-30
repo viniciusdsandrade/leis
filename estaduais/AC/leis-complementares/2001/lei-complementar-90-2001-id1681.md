@@ -497,7 +497,3 @@ GRUPO – APOIO DE NÍVEL MÉDIO PARA CADA TURMA RECURSAL DOS JUIZADOS ESPECIAIS
 | Técnico Judiciário | PJ-AJ-022 | 01 |
 | Auxiliar Judiciário | PJ-AJ-011 | 01 |
 | Atendente Judiciário | PJ-AJ-012 | 01 |
-
-PAGE
-
-PAGE 22

@@ -50,7 +50,3 @@ baixado_em: 2026-10-13
 **Deputado HELDER PAIVA**
 
 **Presidente da Assembléia Legislativa do Estado do Acre, em exercício**
-
-PAGE
-
-PAGE 2

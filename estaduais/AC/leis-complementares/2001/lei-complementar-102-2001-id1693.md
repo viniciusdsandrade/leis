@@ -245,7 +245,3 @@ Grupo Superior.
 | **Grupo** **Básico II** **Máximo 15%** | **2º Grau** - cinco por cento do vencimento básico **Somatória de cursos totalizando 80 horas** - cinco por cento do vencimento básico **Curso Profissionalizante** - dez por cento do vencimento básico |
 | **Grupo** **Médio** **Máximo 20%** | **3º Grau** - vinte por cento do vencimento básico **Somatória de cursos totalizando 100 horas** - cinco por cento do vencimento básico **Por Curso de 80 horas** - cinco por cento do vencimento básico |
 | **Grupo** **Nível Superior** **Máximo 20%** | **Somatória de cursos totalizando 150 horas** - cinco por cento do vencimento básico **Especialização -** cinco por cento do vencimento básico **Mestrado** - dez por cento do vencimento básico **Doutorado** - quinze por cento do vencimento básico |
-
-PAGE
-
-PAGE 10

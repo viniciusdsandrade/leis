@@ -217,7 +217,3 @@ baixado_em: 2026-10-13
 | **R$ 200,00** | Auxiliar de Discotecário |
 | **R$ 300,00** | Operador de Transmissão Discotecário Operador de Som Iluminador Operador de Edição Cinegrafista Repórter Técnico em Eletrônica Locutor Editor Técnico de Manutenção Agente Comunicação Social |
 | **R$ 500,00** | Técnico em Assuntos Culturais |
-
-PAGE
-
-PAGE 1

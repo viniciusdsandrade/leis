@@ -108,7 +108,3 @@ baixado_em: 2026-10-13
 **ROMILDO MAGALHÃES DA SILVA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 3

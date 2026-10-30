@@ -517,7 +517,3 @@ Total 24 Bem(ns) Selecionado(s) R$ 1.461,15
 Total Geral - 959 Bem(ns) Selecionado(s) 161.611,17
 
 =====================================================================
-
-PAGE 1
-
-PAGE 2

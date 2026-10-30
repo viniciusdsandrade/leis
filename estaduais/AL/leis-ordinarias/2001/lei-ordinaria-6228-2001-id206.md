@@ -208,7 +208,3 @@ G o v e r n a d o r
 (\*) Publicada no DOE de 17/01/2001.
 
 Modificada pela Lei nº 6.314, de 03 de maio de 2002.
-
-PAGE
-
-PAGE 4

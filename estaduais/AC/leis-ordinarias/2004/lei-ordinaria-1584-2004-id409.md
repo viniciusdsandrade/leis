@@ -58,7 +58,3 @@ Inicia-se no marco **RA-01**, localizado na confluência da BR-364 com Igarapé 
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

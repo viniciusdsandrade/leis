@@ -60,7 +60,3 @@ distância de 28.023,05 metros até o marco **CP-02**, de coordenadas geográfic
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

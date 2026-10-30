@@ -56,7 +56,3 @@ baixado_em: 2026-10-13
 **JORGE VIANA**
 
 **Gorvenador do Estado do Acre**
-
-PAGE 2
-
-PAGE 2

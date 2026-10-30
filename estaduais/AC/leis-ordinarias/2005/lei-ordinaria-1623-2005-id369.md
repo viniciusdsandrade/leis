@@ -62,9 +62,3 @@ Duração do pulso de 10 mseg. (milisegundos);
 **Deputado HELDER PAIVA**
 
 **Presidente da Assembléia Legislativa do Estado do Acre, em exercício**
-
-PAGE
-
-PAGE
-
-PAGE 2

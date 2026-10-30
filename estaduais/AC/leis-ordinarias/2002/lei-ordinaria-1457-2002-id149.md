@@ -54,7 +54,3 @@ um pão de massa de trigo de 50 gramas ou similar, com recheio de manteiga, marg
 **SÉRGIO OLIVEIRA**
 
 **Presidente da Assembléia Legislativa do Estado do Acre**
-
-PAGE 1
-
-PAGE 2

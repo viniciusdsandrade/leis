@@ -70,7 +70,3 @@ energia elétrica.
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

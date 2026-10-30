@@ -238,9 +238,3 @@ Regulamentada através do Decreto nº 310, de 13/09/2001.
 | Assessor Técnico | AS-4 | 02 | 509,00 |
 | Função Gratificada | FG-2 | 09 | 237,00 |
 | Função Gratificada | FG-3 | 12 | 203,00 |
-
-PAGE
-
-PAGE
-
-PAGE 5

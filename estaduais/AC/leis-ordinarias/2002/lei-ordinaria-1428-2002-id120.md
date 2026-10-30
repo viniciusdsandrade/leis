@@ -305,7 +305,3 @@ DE INTERESSE PÚBLICO DO ESTADO DO ACRE
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE 1
-
-PAGE 13

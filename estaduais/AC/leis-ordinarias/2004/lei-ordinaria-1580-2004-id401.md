@@ -58,7 +58,3 @@ Inicia-se no marco **AC-24**, localizado na divisa entre os Estados do Acre e Am
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

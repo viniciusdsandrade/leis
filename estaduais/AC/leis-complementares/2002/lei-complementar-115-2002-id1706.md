@@ -846,7 +846,3 @@ Departamento de Administração Penitenciária – DAP.”(NR)
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 24

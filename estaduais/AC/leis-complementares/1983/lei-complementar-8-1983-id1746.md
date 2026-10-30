@@ -1242,7 +1242,3 @@ baixado_em: 2026-10-13
 **NABOR TELES DA ROCHA JÚNIOR**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 43

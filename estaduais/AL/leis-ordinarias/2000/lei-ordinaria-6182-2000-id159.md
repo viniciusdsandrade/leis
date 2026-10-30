@@ -40,7 +40,3 @@ Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
 G o v e r n a d o r
 
 (\*) Publicada no DOE de 14/08/2000.
-
-PAGE 2
-
-PAGE 2

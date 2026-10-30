@@ -58,7 +58,3 @@ Inicia-se no marco **J-01**, localizado a margem direita do Rio Tarauacá, na fo
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

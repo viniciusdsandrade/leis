@@ -66,7 +66,3 @@ baixado_em: 2026-10-13
 | 15 | Serviços Topográficos (demarcação/acesso regular) | Km | 800,00 |
 | 16 | Serviços Topográficos (demarcação/acesso bom) | Km | 650,00 |
 | 17 | Serviços Topográficos (demarcação/acesso ótimo) | Km | 500,00 |
-
-PAGE
-
-PAGE 2
