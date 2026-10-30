@@ -52,6 +52,7 @@ suplementar, por arrecadação a maior, conforme segue:
 
 Art. 2.º - Ficam ratificadas todas os demais termos da Lei Municipal nº
 5447/2005.
+
 Art. 3.º - Esta Lei Municipal entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

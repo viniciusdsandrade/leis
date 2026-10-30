@@ -37,6 +37,7 @@ Art. 1.º - Fica o Poder Executivo Municipal, autorizado a repassar uma
 subvenção de R$ 500,00 (quinhentos reais), à Câmara Cultural da Indústria, Comércio e
 Serviços de Nova Prata e Região, para fins de ressarcimento pela participação no Concurso da
 Rainha da Indústria e Comércio do Rio Grande do Sul.
+
 Parágrafo único - O concurso foi realizado nos dias 23, 24 e 25 de outubro em
 Bento Gonçalves - RS.
 

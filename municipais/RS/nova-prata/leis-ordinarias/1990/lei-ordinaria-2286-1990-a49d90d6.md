@@ -26,13 +26,16 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É alterado o parágrafo único do artigo 5º da Lei Municipal nº
 2081 de 20.12.89 que estabelece normas relativas à cobrança de taxas de competência
 do Município e dá outras providências, que passa a ter a seguinte redação:
 “Art. 5º - ...
+
 Parágrafo único – A Unidade Referência vigente no Município será
 igual a 3 (três) MVR – Maior Valor de Referência vigente para a União ou outro índice
 que venha a substituí-lo.”
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor a partir de 1º de janeiro de 1991.
 

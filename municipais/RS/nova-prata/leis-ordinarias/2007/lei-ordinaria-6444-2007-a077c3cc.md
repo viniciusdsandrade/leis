@@ -78,11 +78,17 @@ III – sete representantes eleitos por cada uma das áreas culturais, nos
 seguintes segmentos:
 
 a) música;
+
 b) artes cênicas – teatro, dança, cinema;
+
 c) literatura;
+
 d) artesanato;
+
 e) folclore;
+
 f) museu;
+
 g) patrimônio histórico e cultural.
 
 IV – três membros eleitos por movimentos culturais e populares -

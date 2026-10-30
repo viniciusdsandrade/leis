@@ -96,6 +96,7 @@ rodoviários
 3.1.3.2 – Outros Serviços e Encargos.................Cr$ 2.810.000,00
 _ total ......................................Cr$ 9.460.000,00
 ( nove milhões, quatrocentos e sessenta mil cruzeiros).
+
 Art. 3º - revogada as disposições em contrário, esta lei entrará em vigor na
 data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA,EM 23

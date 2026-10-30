@@ -28,6 +28,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica autorizado ao Poder Executivo Municipal a abrir crédito especial
 no orçamento vigente, por redução orçamentária, dentro da Secretaria Municipal da Saúde, na
 atividade 1032 - Aquisição de Equipamentos para Unidade e Secretaria, com a seguinte

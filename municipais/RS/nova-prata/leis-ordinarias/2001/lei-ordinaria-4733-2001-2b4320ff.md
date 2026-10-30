@@ -36,7 +36,9 @@ multas de mora de que trata o artigo 146 do Código Tributário Municipal Lei n�
 “Art. 146 - O pagamento dos tributos após o prazo fixado em lei ou na
 forma da lei, determina a incidência de multa e juros, além da correção
 monetária, a razão de:
+
 I - Multa de 2% (dois por cento) sobre o valor do tributo corrigido.
+
 II - Juros de 1% (um por cento) ao mês, devidos a partir do vencimento,
 considerado como mês qualquer fração e calculado sobre o valor
 corrigido.”
@@ -47,8 +49,10 @@ vigor com a seguinte redação:
 “I - Altera-se o anexo II, a que se refere o artigo 57, no seu item 04, o
 valor da certidão de localização, por unidade será de R$ 10,00. (dez
 reais)”.
+
 II - Altera-se o anexo II, a que se refere o artigo 57, no seu item 14, o
 valor de certidão de CCIR, por unidade será de R$10,00. (dez reais).
+
 III - Inclui-se no Anexo II, do artigo 57, os serviços do item 18, cuja
 denominação é - Alteração de projetos (nome do proprietário, divisões,
 etc), por projeto o custo de R$ 10,00 (dez reais)

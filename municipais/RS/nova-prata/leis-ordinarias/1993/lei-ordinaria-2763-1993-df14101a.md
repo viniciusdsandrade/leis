@@ -28,25 +28,31 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ Fica autorizada a cedência de funcionário público municipal à
 Secretaria Estadual da Agricultura e Abastecimento para desempenho da função de
 Recepcionista na 12ª Coordenadoria Regional do Departamento de Produção Animal de
 Nova Prata.
+
 Art. 2º ‑ A cedência a que se refere o artigo anterior é pelo prazo de 01
 (um) ano, podendo ser renovado por igual período, observadas as disponibilidades do
 Município e a necessidade da Secretaria.
+
 Art. 3º ‑ O funcionário ora cedido desempenhará as mesmas funções de
 Recepcionista no órgão cessionário, percebendo a mesma remuneração do cargo, cujo
 pagamento, encargos sociais e promoção, ficam de total responsabilidade do órgão
 cedente.
+
 Parágrafo único ‑ O funcionário poderá ainda perceber remuneração
 equivalente a horas‑extras de trabalho eventualmente prestadas, atendendo às
 necessidades e convocação do órgão cessionário, que também serão pagas pelo
 Município cedente.
+
 Art. 4º ‑ A 12ª Coordenadoria Regional do Departamento de Produção
 Animal de Nova Prata fica obrigada, durante o período de cedência com ônus para o
 município, para os fins do parágrafo único do artigo anterior, a comunicar o Município
 quaisquer ocorrências relativas à vida funcional.
+
 Art. 5º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

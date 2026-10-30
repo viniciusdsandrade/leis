@@ -33,13 +33,18 @@ anualmente no Município de Nova Prata, em data fixada pelo Poder Executivo por
 Decreto.
 Par. 1º - O Dia de Integração Municipal consistirá na confraternização
 entre Nova Prata, com os Municípios:
+
 I - Dos quais Nova Prata se originou:- Santo Antônio da Patrulha, Lagoa Vermelha e
 Veranópolis;
+
 II - Com a cidade legalmente instituída como irmã - Noblesville (EUA);
+
 III - Com os Municípios que se emanciparam de Nova Prata - Guabiju, Nova Araçá,
 Nova Bassano, Paraí, Protásio Alves, São Jorge e Vista Alegre do Prata;
+
 IV - Com os Municípios que pela origem comum, são considerados de fato como
 cidades irmãs -Cotiporã, Fagundes Varela e Vila Flores;
+
 V - Com o Município de André da Rocha, pela afinidade e proximidade.
 Par. 2º - O Município de Nova Prata criará um espaço público, destinado
 a homenagear as bandeiras ou os brasões do Brasil, do Rio Grande do Sul e todos os

@@ -32,9 +32,11 @@ Art. 1.º - Fica autorizada a cedência de 03 (três) funcionários públicos
 municipais à Associação de Pais e Amigos de Excepcionais- APAE, para desempenho
 das funções de professores e operários, para fins de renovação da cedência autorizada
 consoantes as Leis Municipais números 2214, 2213 e 2212 de 08.08.90.
+
 Art. 2.º - As cedências a que se refere o artigo anterior é pelo prazo certo
 de 1(um) ano, podendo ser renovadas por igual período, observadas as disponibilidades
 do Município e a necessidade da APAE.
+
 Art. 3.º - Os funcionários ora cedidos desempenharão as mesmas funções
 de professores e operários no órgão cesionário, percebendo a mesma remuneração dos
 respectivos cargos, cujo pagamento, encargos sociais e promoção ficam de total
@@ -43,9 +45,11 @@ Parágrafo Único - Os funcionários cedidos poderão ainda perceber
 remuneração equivalente a horas-extras de trabalho eventualmente prestadas, atendendo
 às necessidades e convocação da APAE, que também serão pagas pelo Município
 cedente.
+
 Art. 4.º - A APAE fica obrigada, durante o período de cedência, a
 comunicar ao Município, todas as ocorrências relativas à vida funcional, inclusive para
 fins do disposto no parágrafo único do artigo anterior.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

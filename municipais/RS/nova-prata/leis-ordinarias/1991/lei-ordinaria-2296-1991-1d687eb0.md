@@ -40,6 +40,7 @@ Decreto-Lei nº 2300/86 e alterações.
 Art 3º - É o Executivo Municipal autorizado também a contratar, nos
 termos do Art. 2º da presente Lei, quaisquer outros serviços técnicos afins, para
 elaboração de projetos técnicos que vierem a ser objeto de empréstimo do PIMES.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

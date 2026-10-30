@@ -26,6 +26,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - Fica reajustado a partir de 1.º de outubro de 1993, em 40%
 (quarenta por cento) os vencimentos dos serviços públicos municipais e do quadro de
 cargos comissionados e funções gratificadas, sobre os valores vigentes em 30 de setembro

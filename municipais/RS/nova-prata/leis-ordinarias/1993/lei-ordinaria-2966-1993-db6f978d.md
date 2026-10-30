@@ -26,6 +26,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - É concedido um auxílio financeiro a Senhora Maria M.
 Marchesini, no valor de CR$ 2.500,00 (dois mil e quinhentos cruzeiros reais), para
 pagamento e/ou reembolso de despesas com cirurgia de amigdalite e adenóides de seu filho

@@ -83,17 +83,25 @@ Aplicação em anexo.
 2º) Prestar contas da verba recebida conforme o constante na Instrução
 Normativa nº 003, de 27 de dezembro de 1990 do Ministério da Economia,
 apresentando relatório de atingimento do objeto, acompanhado de:
+
 a) Plano de Aplicação;
+
 b) Cópia do Termo de Convênio;
+
 c) Relatório de Execução Físico- Financeiro;
 ...
 ... folha 02
 d) Execução da Receita e Despesa, evidenciando o saldo;
+
 e) Relação de Pagamentos;
+
 f) Conciliação do saldo bancário, quando for o caso;
+
 g) Cópia do extrato da conta bancária específica;
+
 h) Comprovante do recolhimento dos recursos não aplicados, se for o
 caso, à conta indicada pelo responsável pelo programa e;
+
 i) Cópia do despacho adjudicatório das licitações realizadas ou
 justificadas para sua dispensa, com o respectivo embasamento legal.
 3º) As faturas, recibos, notas fiscais e quaisquer outros documentos

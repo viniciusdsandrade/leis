@@ -33,9 +33,11 @@ Senhora Aparecida, nesta cidade.
 Parágrafo Único ‑ O auxílio ora concedido será de 50% (cinqüenta por
 cento) do valor da mensalidade do aluno, num prazo de 03 (três) meses, reajustados pela
 UFIR.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta lei correrão por
 conta de rubrica orçamentária: 08421882.055 ‑ Manutenção e Desenvolvimento do
 Ensino de 2º Grau; 3.2.5.4 ‑ Apoio Financeiro a Estudantes de 2º Grau.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

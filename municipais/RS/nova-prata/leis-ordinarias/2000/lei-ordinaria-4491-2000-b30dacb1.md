@@ -40,6 +40,7 @@ escritura pública de doação, de que trata o Artigo anterior.
 
 Art. 3.º - Todas as despesas decorrentes da formalização da correspondente
 escritura pública e seu registro correrá por conta de rubrica orçamentária própria.
+
 Parágrafo único - Fica a presente transação isenta de recolhimento de
 Imposto de Transmissão de Bens Imóveis - ITBI, em virtude do relevante interesse do
 Município em sua concretização.

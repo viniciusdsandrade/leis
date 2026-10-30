@@ -27,17 +27,21 @@ JOÃO CARLOS SCHMITT, PREFEITO NUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ Fica autorizado o Executivo Municipal a firmar Termo Aditivo
 ao Convênio entre o Município de Nova Prata e a Emater‑RS e Ascar, para manutenção
 do Escritório de Extensão Rural, estabelecido neste Município.
+
 Art. 2º ‑ Pelo Termo Aditivo referido no artigo anterior e aprovado por
 esta Lei, cuja minuta faz parte integrante da mesma, o Município participará
 financeiramente nas atividades da Emater/RS e Ascar em sua circunscrição, com o valor
 correspondente a Cr$ 1.500.000,00 (um milhão e quinhentos mil cruzeiros) por técnico
 lotado no Escritório aqui estabelecido, voltado com cumprimento das atividades objeto
 do convênio, valor este que será corrigido mensalmente pela Taxa Referencial.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei, correrão por
 conta de rubrica orçamentária própria.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação e produzirão seus efeitos a partir de 1º de janeiro de
 1993.

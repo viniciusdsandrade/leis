@@ -28,6 +28,7 @@ PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu, em cumprimento
 ao disposto no artigo 66 da Lei Orgânica Municipal, sanciono e promulgo a seguinte
 Lei:
+
 Art. 1º ‑ A Receita do Município de Nova Prata para o exercício de 1993,
 é orçada em Cr$ 45.817.357.561,00 (quarenta e cinco bilhões, oitocentos e dezessete
 milhões, trezentos e cinqüenta e sete mil e quinhentos e sessenta e um cruzeiros), a qual
@@ -52,9 +53,12 @@ Art. 2º ‑ É fixada a despesa do Município de Nova Prata, para o exercício
 de 1993 em Cr$ 45.817.357.561,00 (quarenta e cinco bilhões, oitocentos e dezessete
 milhões, trezentos e cinqüenta e sete mil e quinhentos e sessenta e um cruzeiros) e será
 realizada conforme os quadros de dotação anexos.
+
 Art. 3º - É o poder Executivo Municipal, de conformidade com a Lei
 4320/64, autorizado a:
+
 I - Abrir, durante o exercício, créditos suplementares:
+
 a) até o limite de 20% (vinte por cento) da despesa total autorizada.
 (VETADO)
 II - Realizar em qualquer mês do exercício financeiro operações de crédito

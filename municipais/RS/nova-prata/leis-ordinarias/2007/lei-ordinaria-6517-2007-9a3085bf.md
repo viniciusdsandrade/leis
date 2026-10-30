@@ -34,7 +34,9 @@ de 2006, no artigo 1º, § 1º, inciso III, § 2º, inciso IV, artigo 5º, §2º
 Art.2.º – O artigo 1º, inciso III da Lei Municipal acima mencionada passa
 a ter a seguinte redação :
 Artigo 1º, (......)
+
 §1º (......)
+
 III - doação de glebas de terra para cooperativas
 habitacionais legalmente organizadas e que atendam população de baixa renda,
 mediante assinatura de convênio com essas entidades prevendo participação pecuniária
@@ -43,7 +45,9 @@ dessas como contribuição para o Fundo Municipal de Habitação.
 Art. 3.º - O artigo 1º, § 2º, inciso IV da Lei Municipal suscitada no
 “caput” do artigo 1º, passa a ter a seguinte redação:
 Artigo 1º (.....)
+
 §2º (.....)
+
 IV – doar glebas de terra para cooperativas
 habitacionais legalmente organizadas e que atendam população de baixa renda,
 mediante assinatura de convênio com essas entidades prevendo participação pecuniária
@@ -52,6 +56,7 @@ dessas como contribuição para o Fundo Municipal de Habitação.
 Art.4.º - O artigo 5º, § 2º da Lei Municipal mencionada passa a ter a
 seguinte redação:
 Artigo 5º (.....)
+
 § 2º - No caso de doação de glebas de terra para
 cooperativas habitacionais, mediante assinatura de convênio com essas entidades
 prevendo participação pecuniária das mesmas como contribuição para o Fundo

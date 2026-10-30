@@ -32,6 +32,7 @@ Art. 1.º - É o Executivo Municipal autorizado a firmar convênio com a
 Universidade de Caxias do Sul, para a realização de curso denominado “Curso de
 Qualificação para Atuar em Classes de Pré-escola”, pela segunda, aos docentes inscritos
 pelo Município de Nova Prata.
+
 Art. 2.º - O curso será ministrado pela Universidade no período
 compreendido entre setembro a dezembro de 1992, por cujo serviço prestado o
 Município pagará o valor de Cr$ 4.577.156,00 (Quatro milhões, quinhentos e setenta e
@@ -40,14 +41,18 @@ Parágrafo Único - Caberá ao Município também, o pagamento de
 despesas relativas a estadia e alimentação dos docentes e, do material didático a ser
 distribuído ao professores, as quais não poderão ultrapassar a Cr$ 2.000.000,00 (Dois
 milhões de cruzeiros).
+
 Art. 3.º - O Município receberá de cada Professor inscrito do âmbito
 municipal, o valor de Cr$ 50.000,00 a título de taxa de inscrição e, Cr$ 155.000,00 de
 cada professor inscrito de outros Municípios, até o total de 45 vagas existentes.
+
 Art. 4.º - O convênio a ser firmado obedecerá as cláusulas conforme a
 minuta anexa, que faz parte integrante da presente Lei.
+
 Art. 5.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0501.08421882.007 - Manutenção e Desenvolvimento
 do Ensino Fundamental.
+
 Art. 6.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

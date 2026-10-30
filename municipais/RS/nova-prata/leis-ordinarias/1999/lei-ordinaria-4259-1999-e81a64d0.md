@@ -45,9 +45,12 @@ real).
 
 Art. 4º - O Município subscreverá, no mínimo, 95% (noventa e cinco por
 cento) do capital social e o integralizará mediante a utilização de:
+
 I - bens e direitos que possuir, relacionados com o objetivo da sociedade;
+
 II - dotações provenientes de créditos orçamentários, adicionais ou
 especiais;
+
 III - qualquer outros recursos previstos em Lei.
 
 Art. 5º - O Município poderá, em qualquer tempo, subscrever aumentos
@@ -62,6 +65,7 @@ percentual estabelecido no artigo anterior.
 Art. 7º - A TERMAS PRATA será administrada por uma diretoria
 composta de 3 (três) diretores e por um Conselho Administrativo e Financeiro, eleitos
 pela Assembléia Geral para um mandato de 4 (quatro) anos.
+
 Parágrafo único - Eventual cobrança de tarifa ou preço pelos serviços de
 fornecimentos da TERMAS PRATA, será apresentado ao Prefeito Municipal para
 homologação, mediante a aprovação da Câmara Municipal de Vereadores e obedecerão

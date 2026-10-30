@@ -26,15 +26,18 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica autorizado o Poder Executivo a ressarcir o Prefeito
 Municipal Vitor Antonio Pletsch, das despesas pagas em virtude do deslocamento da
 comitiva oficial que esteve em viagem nos Estados Unidos, nos dias 08 a 19 de outubro
 de 1996.
+
 Art. 2º - O valor da despesa referida no Artigo anterior é de R$ 1.026,40
 (um mil, vinte e seis reais e quarenta centavos), que corresponde ao comprovante anexo
 de R$ 1.000,00 (um mil reais), relativas ao deslocamento da cidade de Noblesville a
 Chicago para assinatura de acordo de interesses entre as duas cidades, despesas estas
 não cobertas pelas diárias recebidas.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -29,6 +29,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1º - É autorizado o Poder Executivo Municipal a assinar convênio com o
 Ministério da Educação, através do Fundo Nacional de Desenvolvimento da Educação para o
 fim de recebimento de recursos descritos na Cláusula Primeira do Convênio N.º 643/93.

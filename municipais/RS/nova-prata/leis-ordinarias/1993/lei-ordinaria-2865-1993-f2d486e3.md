@@ -31,8 +31,10 @@ Art. 1º ‑ É abonado o pagamento de Contribuição de Melhoria do
 Contribuinte Antonio José Correia, no valor de Cr$ 11.562.632,27 (onze milhões,
 quinhentos e sessenta e dois mil, seiscentos e trinta e dois cruzeiros e vinte e sete
 centavos), em atraso nos cofres municipais.
+
 Art. 2º ‑ É abonado também os acréscimos legais que porventura
 existirem sobre o mesmo débito.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

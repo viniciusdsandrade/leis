@@ -35,8 +35,10 @@ centavos) e Cr$ 683.828,64 (seiscentos e oitenta e três mil, oitocentos e vinte
 cruzeiros e sessenta e quatro centavos), sobre a remuneração fixa dos servidores
 públicos municipais integrantes de cargo em comissão (CC1) e cargo em extinção de
 calceteiros, respectivamente.
+
 Art. 2º ‑ 0 abono ora concedido será pago somente no período
 compreendido do mês de março do corrente exercício.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

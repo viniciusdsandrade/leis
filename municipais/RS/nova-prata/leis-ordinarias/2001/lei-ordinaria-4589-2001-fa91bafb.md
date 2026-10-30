@@ -32,16 +32,22 @@ Art. 1.º - Fica o Município de Nova Prata, autorizado a realizar os seguintes
 eventos, constantes no Calendário Esportivo do ano de 2001, de responsabilidade da
 Secretaria Municipal de Turismo e Desporto, ficando autorizado também, a dispender os
 valores que discrimina:
+
 I - 4.º Campeonato Municipal de Futebol de Campo, valor até R$1.300,00
 (um mil e trezentos reais);
+
 II - 6.º Campeonato de Integração Regional de Voleibol Feminino, valor até
 R$1.400,00 (um mil e quatrocentos reais);
+
 III - 10.º Campeonato de Integração das categorias de Base - Futsal e
 Voleibol, valor até R$6.000,00 (seis mil reais);
+
 IV - Corrida Rústica do Dia do Trabalho, valor até R$700,00 (setecentos
 reais);
+
 V - 5.º Campeonato Regional de Veteranos de Futsal, valor até R$1.800,00
 (um mil e oitocentos reais);
+
 VI - 2.ª Olimpíada Escolar de Nova Prata, valor até R$3.800,00 (três mil e
 oitocentos reais).
 

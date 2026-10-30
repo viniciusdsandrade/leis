@@ -9,6 +9,7 @@ test_auditar_cache_rfb.py
 test_auditar_lotes_sapl.py
 test_auditar_municipal_hashes.py
 test_baixar_capitais_documentos.py
+test_baixar_cittatec.py
 test_baixar_dioly.py
 test_baixar_uberlandia.py
 test_baseline_municipal_head_20261027.py
@@ -31,8 +32,8 @@ test_gates_reguladores_cache.py
 test_gates_textos_articulados_sapl.py
 test_granularidade_sapl.py
 test_html2md_posicoes.py
-test_identidade_decreto_revisao.py
 test_identidade_decreto.py
+test_identidade_decreto_revisao.py
 test_imagens_pdf_sapl.py
 test_indice_materializacao_ta_v5.py
 test_integralidade_pdf_sapl.py

@@ -35,6 +35,7 @@ Comissão Central Permanente dos Congressos Florestais e Festas do Basalto, insc
 CNPJ sob n.º 89.985.923/0001-53, o valor de R$1.500,00 (um mil e quinhentos reais),
 para viabilizar o pagamento ou ressarcimento de valores para providenciar a
 regularização da Comissão perante a Receita Federal.
+
 Parágrafo único – Fica fazendo parte integrante desta Lei Municipal o
 requerimento da Comissão Central Permanente dos Congressos Florestais e Festas do
 Basalto.

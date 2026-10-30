@@ -33,6 +33,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a participar em
 uma obra de extensão de rede de BT, referente a mão de obra, na localidade de Povoado
 Colla, beneficiando uma família.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, memorial técnico descritivo, projeto da obra e orçamento do material e mão
 de obra.
@@ -40,6 +41,7 @@ de obra.
 Art. 2.º - O valor da participação do Município nas obras, será de
 R$600,00 (seiscentos reais), os quais serão pagos diretamente à empresa responsável
 pela obra, mediante emissão de Nota Fiscal.
+
 Parágrafo único - Eventuais gastos a maior, em relação ao valor
 constante no caput deste artigo, serão de responsabilidade do beneficiado.
 

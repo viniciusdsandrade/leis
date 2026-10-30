@@ -28,14 +28,18 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ Fica o Executivo autorizado a doar à Fibras Prata Indústria e
 Comércio Ltda., uma área de terras com 3.000m2 (três mil metros quadrados), no
 Distrito Industrial do Município para instalação de Indústria.
+
 Parágrafo único ‑ A Empresa obriga‑se a atender às determinações do
 órgão responsável pela defesa do Meio Ambiente.
+
 Art. 2º ‑ Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área doada, obedecendo aos dispositivos da Legislação própria da Área
 Industrial.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 

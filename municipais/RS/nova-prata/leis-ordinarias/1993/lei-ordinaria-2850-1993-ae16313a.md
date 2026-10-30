@@ -32,9 +32,11 @@ promulgo a seguinte Lei:
 Art. 1º ‑ Fica o Executivo autorizado a usar do recurso de Cr$
 1.500.000,00 (um milhão e quinhentos mil cruzeiros), para pagamento do CONASEMS
 ‑ Conselho Nacional de Secretários Municipais de Saúde.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 13754282.039 ‑ Manutenção das Atividades da
 Secretaria; 3.1.3.2 ‑Outros Serviços e Encargos.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

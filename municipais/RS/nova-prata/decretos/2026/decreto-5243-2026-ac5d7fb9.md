@@ -25,6 +25,7 @@ Cabrais, em exercício, Estado do Rio Grande do Sul, no uso de suas
 atribuições legais e de conformidade com a Lei Municipal nº
 2845/2025, de 18 de dezembro de 2025.
 D E C R E T A:
+
 Art. 1º - Fica aberto crédito suplementar por redução no valor de R$
 10.184,00 (dez mil cento e oitenta e quatro reais) na Lei Orçamentária
 Anual Exercício de 2026, nas seguintes classificações orçamentárias:

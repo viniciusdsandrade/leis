@@ -39,6 +39,7 @@ Santana.
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar uma
 subvenção ao Hospital São João Batista, no valor de R$1.525,00 (um mil, quinhentos e
 vinte e cinco reais), até o final do ano de 2001.
+
 Parágrafo único - O valor de que trata o caput deste artigo, é referente à
 aquisição de 500 (quinhentas) camisetas, ao preço unitário de R$3,05 (três reais e cinco
 centavos), que servirão para arrecadação de valores, para serem aplicados no objetivo

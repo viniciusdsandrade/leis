@@ -31,6 +31,7 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1o. - Fica o Poder Executivo Municipal autorizado a proceder
 remissão de dívida de Imposto Predial e Territorial Urbano, ao Senhor Ari Favretto.
+
 Parágrafo único - A remissão prevista no “caput” do presente Artigo,
 refere-se ao pagamento do IPTU do ano de 1998 e 1999, no valor de R$171,68 (cento e
 setenta e um reais e sessenta e oito centavos), corrigidos até 31/05/1999.

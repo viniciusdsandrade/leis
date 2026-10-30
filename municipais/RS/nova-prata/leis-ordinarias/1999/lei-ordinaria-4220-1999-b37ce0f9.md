@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívidas, correspondente a Imposto Predial Territorial Urbano - IPTU a
 Senhora Nadir Anzanello Pieta, que encontra-se em nome de Laurindo Pieta.
+
 Parágrafo único - O valor da remissão é de R$112,86 (cento e doze
 reais e oitenta e seis centavos), correspondentes aos anos de 1998 e 1999.
 

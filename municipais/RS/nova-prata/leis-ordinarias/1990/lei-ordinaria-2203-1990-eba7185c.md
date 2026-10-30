@@ -30,6 +30,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - É cancelado o pagamento da taxa de licença e/ou vistoria,
 devido ao Município de Nova Prata do Contribuinte Perci Piaceski, inscrito em dívida
 ativa, dos períodos de 1986 a 1988.
+
 Art. 2º - É cancelado também o respectivo alvará de funcionamento de
 bar e restaurante do mesmo contribuinte, em função da paralização das atividades.
 

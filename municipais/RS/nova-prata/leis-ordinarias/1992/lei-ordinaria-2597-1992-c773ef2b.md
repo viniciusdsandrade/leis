@@ -35,10 +35,13 @@ central a ser instalada, correrão por conta do Município.
 
 Parágrafo 2º. - As despesas para instalação do ramal e sua manutenção,
 correrão por conta do Município.
+
 Art. 2.º - Para instalação de referida central telefônica, preferencialmente
 será utilizado o sistema que dispensa a telefonista.
+
 Art. 3.º - No caso do artigo 2.º, serão dispensados de contribuição os
 interessados, para fins de rateamento das despesas de instalação da central telefônica.
+
 Art. 4.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

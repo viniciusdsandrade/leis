@@ -29,12 +29,15 @@ promulgo a seguinte Lei:
 
 Art. 1º ‑ Fica o Executivo Municipal autorizado a pagar despesas no
 valor de Cr$ 1.200.000,00 (um milhão e duzentos mil cruzeiros), com alimentação.
+
 Parágrafo único ‑ Esta despesa é referente a alimentação de 02 (dois)
 Operadores de Máquinas do Departamento Autônomo de Estradas de Rodagem (DAER)
 no período de janeiro/93.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 16885342.052.000 - Construção, Manutenção,
 Pavimentação Estradas Vicinais; 3.1.3.2 - Outros Serviços e Encargos.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

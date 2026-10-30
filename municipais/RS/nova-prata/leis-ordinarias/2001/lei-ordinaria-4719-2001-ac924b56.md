@@ -31,6 +31,7 @@ MARIO MINOZZO, NA CONDIÇÃO DE PREFEITO
 MUNICIPAL DE NOVA PRATA.
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu
 sanciono e promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar
 convênio com a Associação Pratense de Proteção Ambiental - APPA, inscrita no CNPJ
 sob n.º 04230735/0001-62, com objetivo de possibilitar a cedência em comodato de

@@ -44,6 +44,7 @@ do convênio a ser firmado nos termos do caput deste artigo.
 
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a ceder uma sala
 de aula dentro dos espaços físicos pertencentes ao Município de Nova Prata.
+
 Parágrafo único - A Secretaria Municipal de Educação e Cultura fica
 responsável pela escolha do local a ser cedido, bem como a fiscalização deste uso e
 destinação conforme consta na presente Lei Municipal.

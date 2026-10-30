@@ -32,6 +32,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É incluso o projeto de “Reforma do Prédio da Abem, aquisição
 de equipamentos e instituições de cursos profissionalizantes”, nas Metas e Prioridades
 para o exercício de 1991, constante da Lei Municipal nº 2256 de 05.11.90 que Dispõe
@@ -41,6 +42,7 @@ instituição de cursos profissionalizantes.
 OBJETIVO: Visa o presente projeto a reforma do prédio da ABEN,
 aquisição de equipamentos e materiais de consumo profissionalizante, sendo que o
 FNDE participará com 70% e o Município de Nova Prata com 30%.”
+
 Art. 2º - Para execução do projeto ora incluso, é o Executivo autorizado a
 abrir crédito especial no valor de Cr$ 22.993.000,00 (vinte e dois milhões , novecentos
 e noventa e três mil cruzeiros), com a seguinte destinação.

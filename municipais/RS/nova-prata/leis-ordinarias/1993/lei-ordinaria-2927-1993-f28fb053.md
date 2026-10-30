@@ -26,6 +26,7 @@ MUNICIPAL DE NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e
 eu sanciono e promulgo a seguinte Lei:
+
 Art. 1.º - É aberto um crédito suplementar na
 importância de CR$ 20.000.000,00 (vinte milhões de cruzeiros reais), nas seguintes unidades
 orçamentárias:
@@ -96,6 +97,7 @@ orçamentárias:
 15840212.054000.3280000 - Cont. p/form.do PASEP (353) ....................................CR$ 400.000,00
 Total ........................................................................................................................CR$20.000.000,00
 (vinte milhões de cruzeiros reais).
+
 Art. 2.º - Servirá de recursos para dar cobertura ao
 crédito suplementar de que trata o artigo anterior, a arrecadação a maior de recursos previstos no
 orçamento do exercício de 1993, no valor de CR$ 20.000.000,00 (vinte milhões de cruzeiros reais).

@@ -45,6 +45,7 @@ quando então, o Imposto Sobre Serviço de qualquer Natureza, poderá ser
 cobrado ou retido na fonte por ocasião do licenciamento da obra, à uma
 alíquota de 3%(três por cento) sobre o preço do serviço, calculado nos
 termos que dispuser regulamento a ser baixada pelo Executivo.
+
 Parágrafo único – Ocorrendo qualquer diferença de preço que venha ser
 efetivamente apurada em relação ao declarado pelo sujeito passivo,
 contribuinte ou responsável solidário, acarretará a exigibilidade do
@@ -54,6 +55,7 @@ imposto sobre o respectivo montante.”
 Sobre Serviços de Qualquer Natureza todo aquele que, mesmo incluído
 nos regimes de imunidade ou isenção, se utilizar de serviços de terceiros,
 quando”:
+
 I – O prestador do serviço for empresa ou equiparado e não emitir nota
 fiscal de serviço ou outro documento permitido, contendo, no mínimo,
 seu nome e número de inscrição no cadastro fiscal de atividades
@@ -64,13 +66,18 @@ econômicas do Município;
 II – O serviço for prestado em caráter pessoal e o prestador, profissional
 autônomo, não apresentar comprovante de inscrição no cadastro fiscal de
 atividades econômicas do município.
+
 III – O prestador alegar e não comprovar imunidade ou isenção.
+
 IV – Empresas localizadas fora do município aqui vierem prestar seus
 serviços, mesmo que devidamente licenciadas.
+
 § 1º - O Executivo regulamentará a forma de recolhimento do imposto
 retido na fonte.
+
 § 2º - A alíquota incidente sobre a retenção na fonte aquela constante no
 anexo I da presente Lei.
+
 § 3º - Toda empresa pública ou privada, órgãos da administração direta
 da União e do Estado, bem como suas autarquias, sociedades de
 economia mista sob seu controle e as fundações instituídas pelo Poder
@@ -79,6 +86,7 @@ Público, ficam sujeitos ao disposto no presente artigo.”
 “Art. 31 – Na hipótese de não efetuar a retenção a que estava obrigado a
 efetuar, ficará o usuário do serviço, responsável pelo pagamento do valor
 correspondente ao tributo não retido.
+
 Parágrafo único – Além das sanções no artigo 93 incisos I a V da
 presente Lei, será considerado apropriação indébita a retenção pelo
 usuário, por prazo superior a 15 (quinze) dias contados da data em que

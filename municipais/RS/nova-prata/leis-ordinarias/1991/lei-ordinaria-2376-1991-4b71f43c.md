@@ -33,6 +33,7 @@ autoriza o pagamento de despesas com a promoção Semana do Município de 03 a
 “Art. 4º - É o Poder Executivo autorizado a pagar as despesas relativas a
 jantares e gêneros alimentícios decorrentes da referida promoção, bem como aluguéis
 de clube e salões, som, impressos, fotografia e publicações diversas.”
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

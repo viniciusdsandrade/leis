@@ -33,8 +33,10 @@ Art. 1º ‑ É o Executivo Municipal autorizado a conceder abono salarial
 de Cr$ 427.435,80 (quatrocentos e vinte e sete mil, quatrocentos e trinta e cinco
 cruzeiros e oitenta centavos), sobre a remuneração fixa dos servidores públicos munici-
 pais integrantes dos cargos em extinção de calceteiros.
+
 Art. 2º ‑ 0 abono ora concedido será pago somente no período
 compreendido do mês de abril do corrente exercício.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

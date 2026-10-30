@@ -30,8 +30,10 @@ promulgo a seguinte Lei:
 
 Art. 1.º - A arrecadação do Imposto Predial e Territorial Urbano no
 exercício de 1991, processou-se-á da seguinte forma:
+
 a) quando pago integralmente até 12.04.91 com redução de 25% (vinte
 cinco por cento) sobre o valor lançado;
+
 b) quando o pagamento for parcelado, pelo valor do lançamento,
 
 dividido em 3 (três) parcelas consecutivas, com vencimento em

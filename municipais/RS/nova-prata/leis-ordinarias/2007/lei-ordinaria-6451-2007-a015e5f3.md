@@ -30,7 +30,9 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Município de Nova Prata, autorizado a ceder 03 (três)
 servidores públicos municipais à Associação Beneficente e Educacional de Nova Prata -
 ABEN, para desempenho das seguintes funções:
+
 I - Dois operários;
+
 II - Um marceneiro.
 
 Art. 2.º - As cedências a que se refere o artigo anterior é pelo prazo de 01
@@ -46,6 +48,7 @@ Art. 4.º - O setor competente da ABEN fica obrigado durante o período
 de cedência com ônus para o Município, fornecer regularmente o atestado de
 efetividade dos servidores cedidos, bem como informar ao Poder Executivo de
 eventuais ocorrências relativas à vida funcional dos mesmos.
+
 Art. 5º - A ABEN, enquanto entidade educacional suplementar, deverá
 submeter, semestralmente, a Secretaria Municipal de Educação e Cultura, seu Plano de
 Atividades, bem como seu Projeto político-pedagógico (PPP).

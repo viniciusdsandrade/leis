@@ -46,6 +46,7 @@ Art. 3º - A organização do Quadro de Pessoal do Instituto fica assim
 constituído:
 
 I - Quadro dos cargos de provimento efetivo;
+
 II - Quadro dos cargos em comissão e funções gratificadas.
 
 Art. 4º - Para efeitos desta Lei, considera-se:
@@ -59,12 +60,16 @@ formam carreiras;
 II - Categoria funcional, o agrupamento de cargos da mesma
 denominação, com iguais atribuições e responsabilidades, constituída de padrões e
 classes;
+
 III - Carreira, o conjunto de cargos de provimento efetivo para os quais
 os servidores poderão ascender através das classes, mediante promoção;
+
 IV - Padrão, a identificação numérica do valor do vencimento da
 categoria funcional;
+
 V - Classe, a graduação de retribuições pecuniárias dentro da categoria
 funcional, constituindo a linha da promoção;
+
 VI - Promoção, a passagem do servidor de uma determinada classe para a
 imediatamente superior da mesma categoria funcional.
 
@@ -117,9 +122,13 @@ dificuldades de trabalho, bem como às qualificações exigíveis para o provime
 cargos que as integram.
 
 Art. 10 - A especificação de cada categoria funcional deverá conter:
+
 I - Denominação da categoria funcional;
+
 II - Padrão de vencimento;
+
 III - Descrição sintética e analítica das atribuições:
+
 IV - Condições de trabalho, incluindo o horário semanal e outras
 específicas; e
 V - Requisitos para provimento, abrangendo o nível de instrução, a idade
@@ -163,9 +172,13 @@ cada classe e ao de merecimento.
 
 Art. 18 - O tempo de exercício na classe imediatamente anterior para
 fins de promoção para a seguinte será de:
+
 I - Cinco anos para a Classe “B”;
+
 II - Cinco anos para a Classe “C”;
+
 III - Cinco anos para a Classe “D”;
+
 IV - Cinco anos para a Classe “E”.
 
 Art. 19 - Merecimento é a demonstração positiva do servidor no
@@ -179,10 +192,14 @@ ser promovido de classe.
 Parágrafo Segundo - Fica prejudicado o merecimento, acarretando a
 interrupção da contagem do tempo de exercício para fins de promoção, sempre que o
 Servidor:
+
 I - Somar duas penalidades de advertência;
+
 II - Sofrer pena de suspensão disciplinar, mesmo que convertida em
 multa:
+
 III - Completar três faltas injustificadas ao serviço;
+
 IV - Somar dez atrasos de comparecimento ao serviço e/ou saídas antes
 do horário marcado para término da jornada.
 Parágrafo Terceiro - Sempre que ocorrer qualquer das hipóteses
@@ -190,9 +207,12 @@ previstas no parágrafo anterior, iniciar-se-á nova contagem para fins do exigi
 promoção, quando da última ocorrência.
 
 Art. 20 - Suspendem a contagem do tempo para fins de promoção:
+
 I - As licenças e afastamentos sem direito a remuneração;
+
 II - As licenças para tratamento de saúde no que excederem de noventa
 dias, mesmo quando em prorrogação, exceto as decorrentes de acidente de serviço;
+
 III - As licenças para tratamento de saúde em pessoas da família no que
 excederem a trinta dia, mesmo em prorrogação.
 
@@ -273,11 +293,15 @@ conferir matérias e suprimentos em geral com as faturas, conhecimentos ou notas
 entrega; levantar freqüência de servidores; executar outras tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho de 33 horas semanais:
+
 b) Outras: viagens, freqüência a cursos especializados.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Escolaridade: 1.º grau completo;
+
 b) Idade: mínima de 18 anos.
 
 RECRUTAMENTO:
@@ -301,12 +325,17 @@ demais documentos relativos ao movimento de valores; preencher e assinar cheques
 bancários; executar tarefas afins.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Geral: Carga horária semanal de 33 horas;
+
 b) Especial: Atendimento público.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Idade: Mínima de 18 e máxima de 45 anos.
+
 b) Instrução: 2.º grau completo;
+
 c) Outros: Declaração de bens e valores que constituem o seu patrimônio,
 por ocasião da posse.
 
@@ -334,12 +363,16 @@ transcrevendo dados estatísticos e emitindo pareceres; executar tarefas afins, 
 as editadas no respectivo regulamento da profissão.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga Horária de 33 horas semanais.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Idade: Mínima de 18 e máxima de 45 anos;
+
 b) Instrução: Habilitação legal para o exercício da profissão de técnico
 em contabilidade;
+
 c) Outros: Declaração de bens e valores que constituem o seu patrimônio,
 por ocasião da posse.
 
@@ -372,14 +405,19 @@ obrigatório, para cooperar na prevenção das afeções dentárias, executar ou
 correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho 22 horas semanais;
+
 b) Outras: o exercício de cargo poderá determinar a realização de
 viagens.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Escolaridade: Nível Superior;
+
 b) Habilitação Profissional: habilitação legal para o exercício da
 profissão de cirurgião-dentista;
+
 c) Idade: mínima de 18 anos.
 
 RECRUTAMENTO:

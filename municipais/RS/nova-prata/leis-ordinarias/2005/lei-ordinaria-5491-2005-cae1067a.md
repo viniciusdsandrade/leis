@@ -35,6 +35,7 @@ mediante Escritura Pública, uma nesga de terras, atingida pelo prolongamento da
 Tancredo de Almeida Neves, com área de 993,41 m2, dentro de um todo maior,
 pertencente aos Srs. Décio Todeschini e Edília Ferri Todeschini, matriculado sob nº
 14.216 do Registro de Imóveis de Nova Prata.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, levantamento topográfico, memorial descritivo, laudo de avaliação e o
 registro do imóvel em questão.

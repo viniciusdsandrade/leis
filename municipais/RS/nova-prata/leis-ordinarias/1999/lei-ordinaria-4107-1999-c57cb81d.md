@@ -50,6 +50,7 @@ os Municípios da região abrangida pela competência do Posto da Justiça do Tr
 4ª Região, estabelecendo a obrigatoriedade de cada um dos Municípios, pagar um mês
 de aluguel e condomínio, de forma sucessiva e em ordem alfabética, até o final do
 contrato de locação a ser realizado.
+
 Parágrafo único - Os Municípios a conveniarem-se, deverão fazer o
 repasse diretamente ao município de Nova Prata (RS), que nos termos do Artigo
 primeiro da presente Lei Municipal, assumirá a obrigação de realizar os pagamentos

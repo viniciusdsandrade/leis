@@ -40,6 +40,7 @@ Frison. Após deflete no sentido SUL por 2,05m, onde deflete para LESTE-SUDESTE
 por 6,85 e, finalmente, deflete para NORDESTE por mais 3,71m, encontrando o ponto
 de partida, confrontando nestes três segmentos de reta com o leito da Rua Brasil, na
 matrícula nº 8.982, do Registro de Imóveis da Comarca de Nova Prata.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, levantamento topográfico, memorial descritivo, laudo de avaliação e o
 registro do imóvel em questão.

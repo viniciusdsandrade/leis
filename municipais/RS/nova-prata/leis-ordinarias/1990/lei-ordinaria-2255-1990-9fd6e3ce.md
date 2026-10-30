@@ -38,20 +38,26 @@ exercício de 1991 obedecerá as seguintes diretrizes gerais, sem prejuízos das
 financeiras estabelecidas pela Legislação Federal.
 
 I - O montante das despesas não poderá ser superior ao das receitas.
+
 II - as unidades orçamentárias projetarão suas despesas correntes até o
 limite fixado para o exercício em curso, a preços de agosto de 1990, considerando os
 aumentos ou as diminuições de serviços.
+
 III - as estimativas das receitas serão feitas a preço de agosto de 1990;
 considerar-se-ão a tendência do presente exercício e os efeitos das modificações na
 legislação tributária os quais serão objeto de lei a ser encaminhado a Câmara Municipal
 até o final do exercício de 1990.
+
 IV - os projetos em fase de execução terão prioridade sobre os novos
 projetos, não podendo ser paralizados sem autorização legislativa.
+
 V - o pagamento do serviço da dívida de pessoal e de encargos terá
 prioridade sobre as ações de expansão.
+
 VI - o Município aplicará 25% (vinte e cinco por cento) de sua receita
 resultante de impostos, conforme dispõe o artigo 212 da constituição federal,
 prioritariamente na manutenção do ensino.
+
 VII - constará da proposta orçamentária o produto das operações de
 crédito autorizadas pelo Legislativo, com destinação específica e vinculadas ao projeto,
 conforme item III do artigo 167da Constituição Federal.
@@ -80,6 +86,7 @@ Transitórias).
 I - entendem-se como receitas correntes para efeitos de limites do presente
 artigo o somatório das receitas correntes da administração, excluídas as receitas oriundas
 de convênios.
+
 II - o limite estabelecido para as despesas de pessoal de que trata este artigo,
 abrange os gastos da administração nas seguintes despesas:
 - salários;
@@ -87,6 +94,7 @@ abrange os gastos da administração nas seguintes despesas:
 - proventos de aposentadoria e pensões;
 - remuneração do Prefeito e Vice-Prefeito;
 - remuneração dos Vereadores.
+
 III - a concessão de qualquer vantagem ou o aumento de remuneração além
 dos índices inflacionários , a criação de cargos ou alteração de estruturas de carreira , bem
 como a admissão de pessoal, a qualquer título, pela Administração, só poderão ser feitas se
@@ -101,9 +109,11 @@ primeiro trimestre de 1991.
 
 I - os pagamentos serão efetuados após a aprovação pelo Poder Executivo,
 dos planos de aplicações apresentados pelas entidades beneficiadas.
+
 II - os prazos para prestação de contas serão fixados pelo Poder Executivo,
 dependendo do plano de aplicação, não podendo ultrapassar os 30 dias do encerramento do
 exercício.
+
 III - fica vedada concessão de ajuda financeira à entidades que não
 prestaram contas dos recursos anteriormente recebidos, assim como as que não tiveram as
 suas contas aprovadas pelo Executivo Municipal.

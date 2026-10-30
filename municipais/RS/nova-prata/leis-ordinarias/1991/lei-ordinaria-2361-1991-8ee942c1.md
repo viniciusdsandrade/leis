@@ -30,8 +30,10 @@ Art. 1.º - É concedido um auxílio financeiro a menina KARINA
 SPILLER, residente nesta cidade, no valor de Cr$ 140.000,00 (cento e quarenta mil
 cruzeiros), para custeio de despesas relativas a anestesia para realização de
 CRANIOPLASTIA.
+
 Art. 2.º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária própria.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

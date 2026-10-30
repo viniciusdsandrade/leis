@@ -48,11 +48,15 @@ presente Lei, de acordo com a regulamentação do projeto.
 
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos aos contratados:
+
 I – jornada de trabalho de 40 horas semanais para o Coordenador Geral e
 de 20 horas semanais para os Coordenadores de Núcleos e Monitores;
+
 II – repouso semanal remunerado e gratificação natalina proporcional,
 nos termos da Lei Municipal 5760/05;
+
 III – férias proporcionais, ao término do contrato;
+
 IV – inscrição no regime Geral de Previdência Social.
 
 ...

@@ -33,9 +33,11 @@ Art. 1º ‑ É aberto um crédito suplementar na importância de Cr$
 4.1.2.0 - Equipamento e Material Permanente....................................Cr$ 10.000.000,00
 ‑ total .......................................................................................Cr$ 10.000.000,00
 (dez bilhões de cruzeiros).
+
 Art. 2º ‑ Servirá de recursos para dar cobertura ao crédito suplementar de
 que trata o artigo anterior, a arrecadação a maior de recursos previstos no orçamento do
 exercício de 1993, no valor de Cr$ 10.000.000.000,00 (dez bilhões de cruzeiros).
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

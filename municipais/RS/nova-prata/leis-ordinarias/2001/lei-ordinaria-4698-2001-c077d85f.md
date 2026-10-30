@@ -55,7 +55,9 @@ sendo os paralelepípedos fornecidos pela Rádio Prata s/a.
 Art. 4.º - Fica o Poder Executivo Municipal autorizado a permutar uma
 área de terras de sua propriedade com outras de propriedade da Rádio Prata s/a, para
 viabilizar o Reloteamento da Antena.
+
 Parágrafo único - Os imóveis a serem permutados, são os seguintes:
+
 I - O Município cede à Rádio Prata s/a, um imóvel com área de 1.854,00
 m2, matriculado sob n º 5409 do CRI de Nova Prata;
 ...

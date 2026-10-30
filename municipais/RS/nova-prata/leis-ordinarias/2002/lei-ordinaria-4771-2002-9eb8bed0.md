@@ -32,19 +32,27 @@ Art. 1.º - Fica o Município de Nova Prata, autorizado a realizar os seguintes
 eventos, constantes no Calendário Esportivo do ano de 2002, de responsabilidade da Secretaria
 Municipal de Turismo e Desporto, ficando autorizado também, a despender os valores que
 discrimina:
+
 I - 1.º Campeonato Aberto de Futebol Sete Masculino - Categorias livres e
 Master, valor até R$ 2.100,00 (dois mil e cem reais);
+
 II - 5.º Campeonato Municipal de Veteranos de Futebol de Campo, valor até
 R$1.800,00 (um mil e oitocentos reais);
+
 III - 7.º Campeonato Integração Regional de Voleibol Feminino e Masculino,
 valor até R$1.800,00 (um mil e oitocentos reais);
+
 IV - Corrida Rústica do Dia do Trabalho, valor até R$900,00 (novecentos
 reais);
+
 V - 11.º Campeonato Integração das Categorias de Base de Futsal e Voleibol
 Masculino e Feminino, valor até R$ 8.000,00 (oito mil reais);
+
 VI - 12.ª Rallye de Nova Prata, valor até R$ 1.500,00 (um mil e quinhentos
 reais);
+
 VII - Rallye Veraprata, valor até R$ 2.000,00 (dois mil reais);
+
 VIII - Manutenção da Escolinha Núcleo São João Bosco, valor até R$ 1.000,00
 (um mil reais) mensais de fevereiro a julho de 2002.
 

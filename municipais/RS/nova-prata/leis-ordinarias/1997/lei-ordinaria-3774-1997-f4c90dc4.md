@@ -33,12 +33,19 @@ Art. 1º - Ficam alteradas as penalidades fixadas na Lei Municipal N.º
 2.728, de 16 de dezembro de 1.992, que instituiu o Código Municipal de Limpeza
 Urbana, passando as mesmas, a serem fixadas em UFIR, com base nos seguintes
 parâmetros:
+
 I - Onde consta 0,10 URM, passa a ser 4,935 UFIRs;
+
 II - Onde consta 0,25 URM, passa a ser 12,338 UFIRs:
+
 III - Onde consta 0,50 URM, passa a ser 24,675 UFIRs;
+
 IV - Onde consta 1,00 URM, passa a ser 49,35 UFIRs;
+
 V - Onde consta 1,25 URM, passa a ser 61,688 UFIRs;
+
 VI - Onde consta 2,50 URM, passa a ser 123,375 UFIRs;
+
 VII - Onde consta 5,00 URM, passa a ser 246,750 UFIRs.
 Parágrafo Único - As modificações constantes no presente Artigo, são em
 virtude da extinção da URM, por força de Lei Federal.

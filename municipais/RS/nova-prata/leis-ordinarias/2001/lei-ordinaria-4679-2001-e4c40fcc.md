@@ -36,6 +36,7 @@ Art. 1º - Fica o Poder Executivo autorizado a pagar despesas da
 programação oficial do “projeto segundo lançamento de produtos de Nova Prata”, em
 convênio com o SEBRAE e a ATUASERRA, a ser realizado no dia 18 de setembro de
 2001, na sede social do Grêmio Pratense.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, resumo de produtos turísticos de Nova Prata.
 

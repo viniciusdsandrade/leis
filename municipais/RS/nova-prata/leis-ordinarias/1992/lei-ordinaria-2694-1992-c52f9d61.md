@@ -26,23 +26,29 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - Fica autorizada a cedência de um funcionário público municipal
 do Município de Nova Prata à Agência do IPERGS desta cidade, para desempenho de
 função de auxiliar de administração.
+
 Art. 2.º - A cedência a que se refere o artigo anterior é pelo prazo certo de
 1 (um) ano, podendo ser renovada por igual período, observadas as disponibilidades do
 Município e a necessidade do IPERGS.
+
 Art. 3.º - O funcionário ora cedido desempenhará as mesmas funções de
 Auxiliar de Administração no órgão cessionário percebendo a mesma remuneração do
 cargo, cujo pagamento, encargos sociais e promoção ficam de total responsabilidade do
 órgão cedente.
+
 Parágrafo único - O Funcionário poderá ainda perceber remuneração
 equivalente a horas-extras de trabalho eventualmente prestadas, atendendo às
 necessidades e convocação do IPERGS, que também serão pagas pelo Município
 cedente.
+
 Art. 4º - O IPERGS fica obrigado, durante o período de cedência com
 ônus para o Município, para os fins do parágrafo único do artigo anterior, e outras
 ocorrências relativas à vida funcional.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação e seus efeitos far-se-ão sentir a partir de 12 de dezembro
 de 1992.

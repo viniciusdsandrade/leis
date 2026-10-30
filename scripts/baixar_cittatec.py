@@ -113,6 +113,25 @@ class Portal:
         return None
 
 
+# Artigo, parágrafo, inciso (numeral romano válido) ou alínea no começo da linha.
+DISPOSITIVO = re.compile(r"(?:Art\.? ?\d|§ ?\d|Parágrafo único|(?=[IVXLC])C{0,3}(?:XC|XL|L?X{0,3})(?:IX|IV|V?I{0,3}) ?[-–—] |[a-z]\) )")
+
+
+def separar_dispositivos(texto):
+    """Abre parágrafo antes de cada dispositivo que o PDF deixou na linha seguinte, sem tocar no texto.
+
+    Só quebra depois de linha terminada em ".", ";" ou ":", para não partir citação ("conforme o\\nArt. 5º da Lei").
+    """
+    linhas = texto.split("\n")
+    saida = []
+    for i, linha in enumerate(linhas):
+        anterior = linhas[i - 1].rstrip() if i else ""
+        if anterior and DISPOSITIVO.match(linha) and re.search(r"[.;:][\"”’)]*$", anterior):
+            saida.append("")
+        saida.append(linha)
+    return "\n".join(saida)
+
+
 def texto_do_pdf(caminho):
     bruto = subprocess.run(["pdftotext", "-layout", "-enc", "UTF-8", str(caminho), "-"], capture_output=True, check=True).stdout
     paginas = bruto.decode("utf-8", errors="replace").split("\f")
@@ -203,13 +222,14 @@ def gravar_norma(portal, item, chave, a, pasta_municipio, cache, falhas):
            f"tipo: {yaml_str(tipo)}", f"numero: {yaml_str(numero)}", f"data: {data if data else yaml_str('')}",
            f"ano: {yaml_str(ano)}"]
     if item["processo"].get("descricao"):
-        cab.append(f"ementa: {yaml_str(re.sub(r'\s+', ' ', item['processo']['descricao']).strip())}")
+        ementa = re.sub(r"\s+", " ", item["processo"]["descricao"]).strip()
+        cab.append(f"ementa: {yaml_str(ementa)}")
     cab += ["revogada: null", 'versao_texto: "texto disponibilizado no Portal Legislativo da Câmara"']
     if observacoes:
         cab.append(f"observacao: {yaml_str(' '.join(observacoes))}")
     cab += [f"sha256_pdf: {yaml_str(sha)}", f"documento_ged: {yaml_str(doc)}",
             f"fonte: {yaml_str(fonte)}", f"baixado_em: {dt.date.today().isoformat()}", "---", ""]
-    corpo = f"# {titulo}\n\n{texto}\n"
+    corpo = f"# {titulo}\n\n{separar_dispositivos(texto)}\n"
     md.parent.mkdir(parents=True, exist_ok=True)
     with LOCK:
         if sha in GRAVADOS:

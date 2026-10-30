@@ -33,6 +33,7 @@ metros quadrados e trinta e cinco centímetros quadrados), de propriedade de Siv
 Empreendimentos Imobiliários Ltda, situado na margem Oeste da RST-470 e a 122,00
 m2 (cento e vinte e dois metros quadrados), da esquina da Rua Cristo Rei, lado Sul da
 cidade.
+
 Art. 2º ‑ O Projeto, observados os requisitos da Lei Municipal n.º 1592 de
 13.12.82, constitui-se de 64 (sessenta e quatro) lotes, conforme a prancha e memorial
 descritivo de parcelamento de solo, que faz parte integrante desta Lei, devidamente

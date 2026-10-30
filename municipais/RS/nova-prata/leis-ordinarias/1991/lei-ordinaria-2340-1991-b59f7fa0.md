@@ -32,11 +32,14 @@ promulgo a seguinte Lei:
 Art. 1.º - Às pessoas idosas, maiores de 65 anos de idade, consoante o art.
 210 da Lei Orgânica do Município de Nova Prata, fica assegurada a gratuidade do
 transporte coletivo por ônibus urbano e municipal.
+
 Art. 2º - O ingresso dos idosos no ônibus será feito pela porta dianteira,
 mediante apresentação, ao motorista, de documento de identidade idôneo que comprove
 a idade.
+
 Art. 3º - O número de passageiros transportados beneficiados por esta
 Lei, não será incluído para efeito do cálculo de tarifas.
+
 Art. 4º - Esta Lei entrará em vigor na data de sua publicação, revogadas
 as disposições em contrário.
 

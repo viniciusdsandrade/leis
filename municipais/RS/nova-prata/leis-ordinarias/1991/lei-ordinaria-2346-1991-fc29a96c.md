@@ -28,6 +28,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a realizar operação de Crédito com
 o Estado do Rio Grande do Sul, através de Fundos de Investimento Urbano -
 FUNDURBANO/RS, da Secretaria de Coordenação e Planejamento no valor de Cr$
@@ -39,14 +40,18 @@ Governo Federal decreta.
 Inciso II - o valor da correção referida no Inciso I do Parágrafo Único deste
 artigo, será debitada mensalmente na Conta do Município, sendo que as amortizações serão
 praticadas trimestralmente após o término do período de carência.
+
 Art. 2º - Fica o Poder Executivo autorizado a dar em garantia da operação de
 crédito quota-parte municipal do Imposto de Circulação de Mercadorias e Serviços de
 Comunicação e transportes (ICMS).
+
 Art. 3º - O produto do empréstimo será aplicado na execução do projeto para
 iluminação da Estrada Buarque de Macedo, saída para o trevo de acesso sul e na instalação das
 luminárias na rua Imperatriz Leopoldina, na Área Industrial.
+
 Art. 4º - anualmente o orçamente consignará recursos para as amortizações e
 encargos decorrentes desta operação de crédito.
+
 Art. 5º - Revogada as disposições em contrário, esta Lei entrará em vigor na
 data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em 24 de

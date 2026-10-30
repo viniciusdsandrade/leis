@@ -33,12 +33,15 @@ mensais e consecutivas, para pagamento da dívida total de R$ 525.210,55 (quinhe
 vinte e cinco mil, duzentos e dez reais e cinqüenta e cinco centavos), do Município para
 com o IPRAM, referente à atrasos de repasses da parte patronal da previdência social
 dos servidores municipais, que é composta dos seguintes valores:
+
 I – R$ 363.790,73 (trezentos e sessenta e três mil, setecentos e noventa
 reais e setenta e três centavos) correspondente ao não pagamento de 13 parcelas
 instituídas pela Lei Municipal 5070/2003;
+
 II – R$ 127.272,96 (cento e vinte e sete mil, duzentos e setenta e dois
 reais e noventa e seis centavos) correspondente ao não pagamento integral de valores
 referentes aos meses de agosto, setembro, outubro e novembro de 2004;
+
 III – R$ 34.146,86 (trinta e quatro mil, cento e quarenta e seis reais e
 oitenta e seis centavos) correspondente à correção, multa e juros referentes aos atrasos
 descritos nos itens anteriores.

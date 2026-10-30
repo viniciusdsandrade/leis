@@ -37,18 +37,22 @@ Delegacia de Polícia desta Cidade.
 Art. 2.º - A cedência a que se refere o artigo anterior é pelo prazo certo de
 1 (um) ano, podendo ser revogada por igual período, observadas as disponibilidades do
 Município e a necessidade do órgão cessionário.
+
 Art. 3.º - A funcionária ora cedida desempenhará as mesmas funções de
 operária na Delegacia de Polícia , estabelecida nesta cidade e mantido pelo órgão
 cessionário, percebendo a mesma remuneração do cargo, cujo pagamento, encargos
 sociais e promoção ficam de total responsabilidade do órgão cedente.
+
 Parágrafo único - A funcionária poderá ainda perceber remuneração
 equivalente a horas-extras de trabalho eventualmente prestados, atendendo a
 convocação do Consepro - Conselho Comunitário Pró-Segurança Pública de Nova
 Prata, que também serão pagas pelo Município cedente.
+
 Art. 4.º - O Consepro - Conselho Comunitário Pró-Segurança Pública de
 Nova Prata, fica obrigado, durante o período de cedência com ônus para o Município, a
 comunicar oficialmente, todos os meses, a frequência ao serviço , para os fins do
 parágrafo único do artigo anterior, e outras ocorrências relativas à vida funcional.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

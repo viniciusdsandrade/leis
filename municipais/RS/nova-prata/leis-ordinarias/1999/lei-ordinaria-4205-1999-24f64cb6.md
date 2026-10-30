@@ -32,10 +32,13 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a proceder a
 troca de materiais, fornecendo sucata de plástico mole, recebendo embalagens plásticas
 para lixo, para uso em lixeiras públicas na cidade.
+
 Parágrafo único - As embalagens plásticas para lixo, possuem a seguinte
 capacidade:
+
 I - capacidade de 100 litros e 50 litros, com densidade de 0,08 mm, no
 valor de R$0,08 cada embalagem;
+
 II - capacidade de 30 litros, com densidade de 0,06 mm, no valor de
 R$0,06 cada embalagem.
 

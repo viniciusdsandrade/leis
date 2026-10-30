@@ -26,12 +26,15 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É o Executivo Municipal autorizado a pagar as despesas
 relativas a taxas judiciárias decorrentes de ação de retificação do registro de imóvel de
 Delvino V. Stedile, transferido ao Município, consoante a Lei Municipal N.º 2625 de
 26.08.92.
+
 Art. 2º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária própria.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

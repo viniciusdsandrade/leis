@@ -47,6 +47,7 @@ contratação de professores, vedada a contratação que foram contratados tamb�
 emergencialmente nos últimos dois anos.
 
 I – Habilitação;
+
 II – Disponibilidade de Horário.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,

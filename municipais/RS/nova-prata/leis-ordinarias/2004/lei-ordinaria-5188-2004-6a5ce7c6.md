@@ -32,26 +32,37 @@ Art. 1.º - Fica o Município de Nova Prata, autorizado a realizar os
 seguintes eventos, constantes no Calendário Esportivo do ano de 2004, de
 responsabilidade da Secretaria Municipal de Turismo e Desporto, ficando autorizado
 também, a despender os valores que discrimina:
+
 I – Campeonato de Futebol Veteranos masculino – de março a maio de
 2004, valor até R$2.600,00 (dois mil e seiscentos reais);
+
 II – Campeonato de Futsal de Veteranos masculino – junho e julho de
 2004, valor até R$2.050,00 (dois mil e cinqüenta reais);
+
 III – Campeonato Integração das Categorias de Base – maio a dezembro
 de 2004, valor até R$5.000,00 (cinco mil reais);
+
 IV – Campeonato Regional de Voleibol, masculino e Feminimo – de
 junho a agosto de 2004, valor até R$2.850,00 (dois mil oitocentos e cinqüenta reais);
+
 V – Campeonato Inter-Horários de Futsal masculino – de agosto a
 dezembro de 2004, valor até R$2.350,00 (dois mil trezentos e cinqüenta reais);
+
 VI – Campeonato Futebol Amador masculino – de setembro a dezembro
 de 2004, valor até R$4.400,00 (quatro mil e quatrocentos reais);
+
 VII - Olimpíada Escolar de Nova Prata, masculino e feminino – mês de
 maio de 2004, valor até R$2.900,00 (dois mil e novecentos reais);
+
 VIII – Olimpíada Primaveril de Veteranos, masculino e feminino – meses
 de setembro e outubro de 2004, valor até R$1.200,00 (um mil e duzentos reais);
+
 IX – Jogos Guri Bom de Bola masculino, valor até R$1.250,00 (um mil
 duzentos e cinqüenta reais);
+
 X – Copa Unimed Futsal e Voleibol – de setembro a novembro de 2004,
 valor até R$500,00 (quinhentos reais);
+
 XI – Rústica do Trabalhador, masculino e feminino – mês de maio de
 2004, valor até R$700,00 (setecentos reais).
 
@@ -65,6 +76,7 @@ da presente Lei Municipal.
 Art. 3.º - Fica o Poder Executivo Municipal autorizado a cobrar inscrição
 das equipes que tiverem interesse em participar dos eventos previstos nos incisos I a VI
 do artigo primeiro desta lei.
+
 Parágrafo único – O Poder Executivo regulamentará por Decreto a forma
 e os valores da inscrição.
 

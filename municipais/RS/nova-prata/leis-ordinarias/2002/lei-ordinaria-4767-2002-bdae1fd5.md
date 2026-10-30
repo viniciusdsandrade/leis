@@ -31,8 +31,11 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Ficam estabelecidos novos valores para vencimento dos cargos
 em comissão abaixo discriminados e suas funções gratificadas correspondentes, a
 incidirem a partir de janeiro de 2002:
+
 I - CC 1 - R$258,00.............FG 1 - R$180,00;
+
 II - CC 2 - R$367,00............FG 2 - R$256,00;
+
 III - CC 3 - R$607,00...........FG 3 - R$424,00.
 
 Art. 2.º - As despesas decorrentes da execução da presente Lei

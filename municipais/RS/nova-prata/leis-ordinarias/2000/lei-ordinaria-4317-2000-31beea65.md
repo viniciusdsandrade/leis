@@ -31,6 +31,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívidas, correspondente a Alvará (taxa de fiscalização e ou vistoria) e
 Imposto Sobre Serviços de Qualquer Natureza, ao Senhor Orides Rodrigues.
+
 Parágrafo único - O valor da remissão é de R$135,50 (cento e trinta e
 cinco reais e cinqüenta centavos), corrigidos até 31 de dezembro de 1999,
 correspondentes ao período de 1998 e 1999.
@@ -38,6 +39,7 @@ correspondentes ao período de 1998 e 1999.
 Art. 2.º - O fundamento da remissão, é o fato do contribuinte encontrar-
 se em situação de dificuldade financeira, em vista de problemas de doença em sua
 família.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, requerimento do interessado e comunicação interna da Secretaria de
 Finanças informando o valor atualizado.

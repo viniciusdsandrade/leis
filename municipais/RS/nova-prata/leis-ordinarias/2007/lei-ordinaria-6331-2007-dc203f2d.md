@@ -43,6 +43,7 @@ com terras de Geraldo Felix Frison, atingida pelo leito da Rua Brasil, em seguid
 encontrando o ponto de partida e confrontando no primeiro segmento com o leito da
 Rua Brasil, e no segundo segmento, com terras de Irmãos Pegoraro, atingidas pelo leito
 da Rua Brasil.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, levantamento topográfico, memorial descritivo, laudo de avaliação e o
 registro do imóvel em questão.

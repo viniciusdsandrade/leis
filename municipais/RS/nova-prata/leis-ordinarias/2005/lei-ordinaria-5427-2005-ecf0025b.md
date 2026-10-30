@@ -95,12 +95,16 @@ enfermeiro e as referidas no artigo 9º do Decreto nº 94.406/87; integrar a equ
 saúde e executar outras tarefas semelhantes.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: carga horária normal de trabalho de 40 horas semanais;
+
 b) Outras: uso de uniforme a ser fornecido pelo Município e
 possibilidade de convocação para trabalhar em sábados, domingos ou
 feriados.
 REQUISITOS PARA PROVIMENTO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade: Curso de Técnico de Enfermagem concluído e registro
 no conselho profissional da categoria.
 

@@ -32,9 +32,11 @@ Art. 1º ‑ Fica autorizado o Poder Executivo Municipal a dispender dos
 cofres municipais Cr$ 3.500.000,00 (três milhões e quinhentos mil cruzeiros), para
 pagamento de despesas do 1º Encontro Regional de Radialistas de Música Italiana do
 RS, que se realizará em nossa cidade no dia 14 de maio/93.
+
 Art. 2º ‑ A despesa correrá por conta da rubrica orçamentária:
 0501.08482472.023 ‑ Eventos Culturais e Turísticos; 3.1.3.2 ‑ Outros Serviços e
 Encargos, da Secretaria da Educação e Cultura.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

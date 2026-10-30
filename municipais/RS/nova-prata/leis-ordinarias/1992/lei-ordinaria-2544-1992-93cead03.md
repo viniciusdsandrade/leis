@@ -33,10 +33,13 @@ Art. 1.º - Aos Professores do Quadro do Magistério Público Municipal
 que estiverem no efetivo exercício em classe de alunos excepcionais e cedidos será
 atribuída uma gratificação mensal no valor de 20% de salário básico do nível 1 do
 Quadro de Vencimentos do Magistério Público Municipal.
+
 Art. 2.º - A gratificação de que trata esta Lei, será paga durante todos os
 afastamentos legais do Professor.
+
 Art. 3º - A despesa decorrente desta Lei, será atendida por conta das
 dotações orçamentárias próprias.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação, produzindo efeitos a partir do primeiro dia do mês
 seguinte.

@@ -34,18 +34,22 @@ fim do recebimento de recursos financeiros para atendimento de projetos a serem
 executados pela Associação Beneficente e Educacional de Nova Prata - ABEN, no
 desenvolvimento de atividades Pré-qualificantes como: marcenaria; panificadora, horta,
 viveiro florestal, artesanato, reforço escolar e alimentar.
+
 Art. 2.º - É autorizado o Executivo Municipal também, a comprometer-se
 com a participação de 40% (quarenta por cento) sobre o total dos recursos recebidos,
 com verba do orçamento do Município de Nova Prata, a ser aplicada nos mesmos fins
 previsto no aludido Convênio.
+
 Art. 3.º - Os recursos efetivamentes recebidos da CBIA deverão ser
 transferidos diretamente a entidade beneficiada, mediante termo de convênio,
 obrigando-se a ABEN a prestar contas ao Município na forma prescrita no Convênio
 com a CBIA.
+
 Art. 4.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 06 - Secretaria de Habitação e Bem Estar Social; 0601 -
 Unidades Subordinadas; 0601.10070212.007 - Manutenção e Desenvolvimento das
 Atividades da Secretaria; 3.2.3.1 - Subvenções Sociais.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

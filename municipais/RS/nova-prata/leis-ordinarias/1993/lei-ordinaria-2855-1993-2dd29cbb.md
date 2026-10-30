@@ -36,6 +36,7 @@ início em 26.05.93, com jogos no Ginásio de Esportes do Rio Branco, reunindo
 participantes do Distrito.
 Parágrafo Único ‑ Os auxílios ora concedidos serão correspondentes à
 aquisição de troféus e pagamento de arbitragem.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 05 ‑ Secretaria de Educação e Cultura;
 0501.08462242.019 ‑ Desporto Amador; 3.1.2.0 ‑ Material de Consumo; 3.1.3.2 ‑

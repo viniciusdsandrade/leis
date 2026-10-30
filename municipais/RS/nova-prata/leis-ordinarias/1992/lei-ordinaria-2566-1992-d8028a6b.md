@@ -32,9 +32,11 @@ residente nesta cidade, no valor de Cr$ 150.000,00 (cento e cinqüenta mil cruze
 para aquisição de um par de óculos a seu filho Jacson Alex Aiolfi.
 Parágrafo Único - O auxílio financeiro ora concedido faz exceção à Lei
 N.º 2170/90 e suas alterações.
+
 Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.137544282.038 - Assistência Médica à População;
 3.2.5.9 - Outras Tranferências a Pessoas.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

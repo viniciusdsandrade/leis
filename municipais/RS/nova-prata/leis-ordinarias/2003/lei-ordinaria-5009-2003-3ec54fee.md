@@ -49,8 +49,10 @@ vida funcional dos mesmos.
 
 Art. 5º - A ACEASNOP em contrapartida destinará ao Município 20 (vinte)
 meia bolsas de estudo por servidor cedido.
+
 § 1º - As meia bolsas serão destinadas a alunos carentes matriculados na Escola
 de Ensino Médio Nossa Senhora Aparecida.
+
 § 2º - A distribuição será feita através de sorteio quando o número de inscritos
 for maior do que o número de meias bolsas disponíveis.
 

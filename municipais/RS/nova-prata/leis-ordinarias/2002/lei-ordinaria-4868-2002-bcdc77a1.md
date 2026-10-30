@@ -44,6 +44,7 @@ a Câmara de Dirigentes Lojistas de Nova Prata, no valor de R$3.000,00 (três mi
 com objetivo de auxiliar na organização dos eventos e possibilitar programações
 complementares a serem realizadas nas datas aprazadas para o evento de que trata o
 artigo primeiro.
+
 Parágrafo único - Os valores serão repassados até o final do ano de 2002,
 dentro da disponibilidade financeira do erário público.
 

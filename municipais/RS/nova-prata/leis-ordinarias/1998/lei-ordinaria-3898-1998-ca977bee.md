@@ -36,6 +36,7 @@ Art. 2.º - Além do contido no Artigo anterior, fica o Poder Executivo Municipa
 autorizado a conceder 40% (quarenta por cento) de desconto, no lançamento do IPTU no
 exercício de 1998, sobre o valor total do tributo dos imóveis localizados nas quadras 240, 241,
 242, 243, 244, 245, 246, 247, 248, 249, 250, 251 e 252.
+
 Parágrafo único - As Quadras citadas no caput deste artigo referem-se aos
 Loteamentos Promorar, Colméia I, Colméia II e Mutirão.
 

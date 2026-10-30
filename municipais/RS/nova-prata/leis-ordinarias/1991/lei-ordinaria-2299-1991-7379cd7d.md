@@ -35,6 +35,7 @@ seguinte redação:
 “Art. 3º - As alíquotas dos terrenos baldios serão aumentadas
 progressivamente na base de 1% (um por cento) ao ano, iniciando-se no ano de 19991,
 até 15% (quinze por cento).”
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei estará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

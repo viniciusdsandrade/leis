@@ -35,6 +35,7 @@ material de construção e contratar mão de obra, no valor de até R$3.000,00 (
 reais), para reconstrução de um paiol, que foi destruído na enchente do ano de 2001, de
 propriedade da senhora Terezinha Giacomelli, residente na Capela Gramadinho, Linha
 Senador Otaviano.
+
 Parágrafo único - A aquisição e a contratação será por parte do Município,
 ficando a Secretaria Municipal de Agricultura e Abastecimento, responsável pela
 fiscalização e recebimento da obra.

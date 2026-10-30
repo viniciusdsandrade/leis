@@ -40,11 +40,15 @@ atribuições, o salário e a carga horária do Assistente Social a ser contrata
 no anexo único da presente Lei.
 Par. 3º - O salário e a carga horária do Assistente Social a ser contratado
 está fixado no anexo único da presente Lei.
+
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos ao contratado:
+
 I – repouso semanal remunerado e gratificação natalina proporcional, nos
 termos da Lei Municipal 5154/03;
+
 II – férias proporcionais, ao término do contrato;
+
 III – inscrição no regime Geral de Previdência Social.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,
@@ -101,6 +105,7 @@ REQUISITOS
 a) Escolaridade: nível superior
 b) Habilitação Profissional: habilitação legal para o exercício da
 profissão de Assistente Social;
+
 c) Idade: mínima de 18 anos.
 
 SALÁRIO MENSAL: R$ 1.765,08

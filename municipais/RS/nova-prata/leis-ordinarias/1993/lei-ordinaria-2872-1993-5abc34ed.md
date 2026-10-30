@@ -34,6 +34,7 @@ especial na seguinte unidade orçamentária:
 4.3.2.2 ‑ Transf. a Estados e ao Distrito Fed......... ............................Cr$ 20.000.000,00
 ‑ total .......................................................................................Cr$ 20.000.000,00
 (vinte milhões de cruzeiros).
+
 Art. 2º ‑ Servirá de recursos para dar cobertura ao crédito especial acima
 citado, a transferência de verba da seguinte unidade orçamentária:
 0301 ‑ Secretaria de Administração
@@ -41,6 +42,7 @@ citado, a transferência de verba da seguinte unidade orçamentária:
 3.1.2.0 ‑ Material de Consumo ............................................................Cr$ 20.000.000,00
 - total .....................................................................................Cr$ 20.000.000,00
 (vinte milhões de cruzeiros).
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

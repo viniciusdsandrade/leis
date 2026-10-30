@@ -36,6 +36,7 @@ Municipal de Turismo e Desporto.
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a dispender o
 valor de até R$1.500,00 (um mil e quinhentos reais), para realização do evento de que
 trata o Artigo primeiro.
+
 Parágrafo único - As despesas de que trata o caput deste artigo serão
 realizadas para fins de inscrição do evento.
 Par. 2º - O evento se realizará nos meses de julho a setembro do ano de

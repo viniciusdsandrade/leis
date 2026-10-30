@@ -28,12 +28,15 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder remissão de
 débitos do IPTU - Imposto Predial e Territorial e Urbano, da Contribuinte Marilurdes
 Sanches Peruzzo, relativos aos anos de 1991 à 1996, cujo valor total é de R$ 1.025,48
 (um mil e vinte e cinco reais e quarenta e oito centavos).
+
 Art. 2º - A remissão ora concedida refere-se ao imóvel localizado na Rua
 Presidente Vargas, Bairro São Cristóvão.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

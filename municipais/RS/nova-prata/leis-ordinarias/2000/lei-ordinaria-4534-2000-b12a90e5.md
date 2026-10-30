@@ -39,6 +39,7 @@ especial, a Lei Federal Nº 6766 de dezembro de 1979.
 
 Art. 3º - As áreas verdes existentes manterão os espaços e margens de
 forma a adequar-se às imposições legais e respeito ao meio ambiente.
+
 Parágrafo único - Compete a Administração Municipal preservar as
 atuais canalizações das áreas atingidas.
 

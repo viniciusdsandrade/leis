@@ -33,6 +33,7 @@ com o Serviço Social do Comércio - SESC do Rio Grande do Sul, com o objetivo d
 reunir esforços, para implantação do projeto denominado OdontoSESC, para o
 atendimento odontológico de comerciários e dependentes, através do desenvolvimento
 de atividades educativas, preventivas e curativas.
+
 Parágrafo único - As atividades descritas no caput deste artigo serão
 realizadas no Módulo Móvel do SESC/RS, o qual ficará instalado em frente à Prefeitura
 Municipal.

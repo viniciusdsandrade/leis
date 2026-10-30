@@ -33,6 +33,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1º - Fica dispensado do Imposto Predial e Territorial Urbano - IPTU,
 relativo aos exercícios de 1990 e 1991, a Sra. Iracema Benatto, inclusive os acréscimos
 que porventura incidirem sobre o mesmo.
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 

@@ -32,26 +32,37 @@ Art. 1.º - Fica o Município de Nova Prata, autorizado a realizar os
 seguintes eventos, constantes no Calendário Esportivo do ano de 2005, de
 responsabilidade da Secretaria Municipal de Turismo e Desporto, ficando autorizado
 também, a despender os valores que discrimina:
+
 I – Campeonato de Futebol Veteranos masculino – de maio a julho de
 2005, valor até R$2.900,00 (dois mil e novecentos reais);
+
 II – Campeonato Regional de Voleibol masculino e feminino de junho a
 agosto de 2005.,valor até R$4.900,00 (quatro mil e novecentos reais);
+
 III – Campeonato Integração das Categorias de Base – maio a dezembro
 de 2005, valor até R$5.000,00 (cinco mil reais);
+
 IV – Campeonato de inter-horários de futsal masculino de agosto a
 dezembro de 2005,valor até R$2.500,00 (dois mil e quinhentos reais);
+
 V – Campeonato de Futebol amador masculino de agosto a novembro de
 2005, valor até R$4.800,00 (quatro mil e oitocentos reais);
+
 VI – Olimpíada escolar de Nova Prata masculino e feminino maio de
 2005, valor até R$2.000,00 (dois mil reais);
+
 VII – Jogos escolares (JERGS), masculino e feminino – mês de maio de
 2005, valor até R$1.500,00 (hum mil e quinhentos reais);
+
 VIII – Olimpíada Primaveril de Veteranos, masculino e feminino – meses
 0de setembro e outubro de 2005, valor até R$1.100,00 (um mil e cem reais);
+
 IX – Jogos Guri Bom de Bola masculino, meses de setembro a outubro
 de 2005 valor até R$1.250,00 (um mil duzentos e cinqüenta reais);
+
 X – Copa Unimed Futsal e Voleibol – de setembro a novembro de 2005,
 valor até R$800,00 (oitocentos reais);
+
 XI – Rústica do Trabalhador, masculino e feminino – mês de maio de
 2005, valor até R$500,00 (quinhentos reais).
 
@@ -64,6 +75,7 @@ da presente Lei Municipal.
 Art. 3.º - Fica o Poder Executivo Municipal autorizado a cobrar inscrição
 das equipes que tiverem interesse em participar dos eventos previstos nos incisos I a VI
 do artigo primeiro desta lei.
+
 Parágrafo único – O Poder Executivo regulamentará por Decreto a forma
 e os valores da inscrição.
 

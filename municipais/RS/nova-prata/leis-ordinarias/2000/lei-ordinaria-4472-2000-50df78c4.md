@@ -31,26 +31,36 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica criado o Conselho de Alimentação Escolar - CAE, como órgão
 deliberativo, fiscalizador e de assessoramento ao Município, no âmbito de sua jurisdição, em
 especial para:
+
 I - acompanhar a aplicação dos recursos federais transferidos à conta do PNAE;
+
 II - zelar pela qualidade dos produtos, em todos os níveis, desde a aquisição até
 a distribuição, observando sempre as boas práticas higiênicas e sanitárias;
+
 III - receber, analisar e remeter ao FNDE, com parecer conclusivo, as prestações
 de contas do PNAE encaminhadas pelo Município.
 
 Art. 2.º - O Conselho de Alimentação Escolar, terá a seguinte composição:
+
 I - um representante do Poder Executivo, indicado pelo Prefeito Municipal;
+
 II - um representante do Poder Legislativo, indicado pela Mesa Diretora da
 Câmara Municipal de Vereadores;
+
 III - dois representantes dos professores, indicados pelo respectivo órgão de
 classe;
+
 IV - dois representantes de pais de alunos, indicados pelos Conselhos Escolares,
 ou pelas Associações de Pais e Mestres ou entidades similares;
+
 V - um representante dos demais segmentos da sociedade civil.
+
 Parágrafo único - A nomeação será por ato do Chefe do Poder Executivo,
 nomeando-se também, um suplente para cada um dos titulares do CAE.
 
 Art. 3.º - O mandato dos senhores conselheiros, será de 2 (dois) anos, podendo
 ser reconduzidos uma única vez.
+
 Parágrafo único - Os serviços prestados pelos senhores conselheiros será
 considerado serviço público relevante e não será remunerado.
 

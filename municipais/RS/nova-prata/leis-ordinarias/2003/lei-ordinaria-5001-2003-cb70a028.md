@@ -38,8 +38,10 @@ Art.2º Para os efeitos desta Lei, entende-se como tempo razoável para
 atendimento:
 
 I - até 30 (trinta) minutos em dias normais;
+
 II - até 45 (quarenta e cinco) minutos em véspera ou após feriados
 prolongados;
+
 III - até 30 (trinta) minutos nos dias de pagamentos dos funcionários
 públicos municipais, estaduais e federais, de vencimento de contas de concessionária
 de serviços públicos e de recebimento de tributos municipais, estaduais e federais.
@@ -63,10 +65,13 @@ Art. - 4º O não cumprimento das disposições desta Lei sujeitará o
 infrator à seguintes punições:
 
 I - advertência;
+
 II - multa de 200 (duzentas) URM (Unidade de Referência
 Municipal);
+
 III - multa de 400 (quatrocentas) URM (Unidade de Referência
 Municipal) até a (quinta) reincidência;
+
 IV - SUSPENSÃO DO Alvará de Funcionamento, após a 5ª (quinta)
 reincidência.
 (alterada pela Lei Municipal nº 5013/2003).

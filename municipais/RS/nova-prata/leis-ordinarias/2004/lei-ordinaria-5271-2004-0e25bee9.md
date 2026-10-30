@@ -71,6 +71,7 @@ Art. 4º - Para concorrer aos sorteios de que trata esta Lei, os abrangidos
 pelo Artigo 3º, os parágrafos primeiro, terceiro e quarto, receberão cautelas a partir de
 R$ 50,00 (cinqüenta reais) e para o parágrafo segundo, receberão cautelas a partir da
 soma de R$ 20,00 (vinte reais).
+
 Parágrafo único - Para Notas de que trata o artigo terceiro, parágrafos
 primeiro, segundo, terceiro e quarto com valores acima de R$ 500,00 (quinhentos reais)
 serão entregues somente 10 (dez) cautelas.

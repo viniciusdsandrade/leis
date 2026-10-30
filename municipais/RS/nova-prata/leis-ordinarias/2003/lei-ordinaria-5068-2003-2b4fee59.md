@@ -35,6 +35,7 @@ Art. 1º - Fica autorizado o Poder Executivo Municipal a pagar
 diárias aos servidores públicos estaduais que trabalham nas Unidades Sanitárias
 Municipais, vinculadas a Secretaria Municipal de Saúde em virtude do Processo
 de Descentralização das Ações e Serviços de Saúde.
+
 Parágrafo único - Os valores e os parâmetros serão os mesmos pagos
 pelo Poder Executivo aos seus servidores.
 

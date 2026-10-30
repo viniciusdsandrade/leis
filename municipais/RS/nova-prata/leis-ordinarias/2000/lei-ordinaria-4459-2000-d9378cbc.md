@@ -33,6 +33,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a participar com
 até R$3.000,00 (três mil reais), na perfuração de poços artesianos de 2,5 polegadas na
 Linha Silva Jardim, para pagamento da empresa responsável.
+
 Parágrafo único – Os poços beneficiarão 07 (sete) famílias.
 
 Art. 2.º - O Município só participará com o montante previsto no Artigo

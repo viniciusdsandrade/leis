@@ -33,6 +33,7 @@ Art. 1.º - Fica o Poder Executivo Municipal autorizado a participar com
 até R$2.000,00 (dois mil reais), referente ao projeto de rede de alta tensão na Capela
 Santa Catarina - Linha Bento Gonçalves, para ligação de força (31,0 cv) para uma
 lixadeira de basalto.
+
 Parágrafo único - O projeto de que trata o caput deste artigo, beneficiará
 uma família.
 

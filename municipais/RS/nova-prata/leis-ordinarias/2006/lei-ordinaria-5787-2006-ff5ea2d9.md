@@ -50,6 +50,7 @@ Gabinete do Prefeito.
 Parágrafo Único - Além do plano de trabalho a entidade beneficiada deverá
 apresentar certidão negativa de tributos estaduais, federais e municipais, INSS e FGTS,
 CNPJ atualizado e documentação da constituição jurídica da entidade.
+
 Art. 5.º - As despesas decorrentes da execução da presente Lei Municipal,
 correrão por conta de dotação orçamentária, classificada sob código: 05 - Secretaria de
 Educação e Cultura; 03 - Livres da Educação; 13.392.0054.1021 - Apoio Financeiro a

@@ -31,12 +31,14 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívidas, correspondente a Imposto predial territorial urbano, ao Senhor
 Adão Viater Vieira, referente aos exercícios de 1997, 1998 e 1999, incidente sobre um
 imóvel de sua propriedade.
+
 Parágrafo único - O valor da remissão é de R$222,21 (duzentos e vinte
 e dois reais e vinte e um centavos), corrigidos até 30 de novembro de 1999.
 
 Art. 2.º - O fundamento da remissão, é o fato do contribuinte, perceber o
 valor equivalente a um salário mínimo de aposentadoria, tendo que sustentar sua família
 e possuir muitos gastos com medicamentos.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, fotocópia do requerimento firmado pelo Sr. Adão Viater Vieira, dirigido ao
 Gabinete do Prefeito Municipal.

@@ -87,14 +87,18 @@ produção de soros, vacinas, hormônios, purificação e tratamento de águas r
 para permitir sua aplicação na indústria, medicina, saúde pública e outros campos.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: Período normal de trabalho de 22, 33 ou 44 horas semanais.
+
 b) Outras: O exercício do cargo poderá determinar o trabalho aos
 sábados, domingos e feriados.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Escolaridade: Nível Superior
 b) Habilitação Profissional: Habitação para executar trabalhos de
 bioquímico.
+
 c) Idade: mínmo de 18 anos
 
 RECRUTAMENTO:
@@ -135,14 +139,18 @@ práticas, colaborando nas demonstrações de laboratório, fornecendo instrumen
 indicando a localização de aparelhos.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: Período normal de trabalho de 22, 33 ou 44 horas semanais.
+
 b) Outras: O exercício do cargo poderá determinar o trabalho aos
 sábados, domingos e feriados.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Escolaridade: Nível Médio
 b) Habilitação Profissional: Habitação para executar trabalhos de
 Auxiliar de Laboratório.
+
 c) Idade: mínmo de 18 anos
 RECRUTAMENTO:
 Edital para Concurso Público.

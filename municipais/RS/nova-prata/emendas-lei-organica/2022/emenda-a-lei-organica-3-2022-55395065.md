@@ -36,6 +36,7 @@ quando versarem sobre o início de investimentos com duração de mais de um
 exercício financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto
 de emenda pela mesma bancada, a cada exercício, até a conclusão da obra ou
 empreendimento.
+
 I – A mesma programação poderá receber destinação de
 recursos decorrentes de bancadas distintas.
 

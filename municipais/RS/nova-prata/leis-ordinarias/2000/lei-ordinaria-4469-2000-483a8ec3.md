@@ -36,6 +36,7 @@ Art. 1.º - Fica ratificada a assinatura do Chefe do Poder Executivo
 Municipal, em convênio com o Tribunal Regional Eleitoral do Rio Grande do Sul, com
 objetivo de prestar auxílio ao cartório eleitoral da Comarca de Nova Prata e na
 realização das eleições que ocorreram em nosso Município.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, fotocópia do convênio explicitado no caput do artigo.
 

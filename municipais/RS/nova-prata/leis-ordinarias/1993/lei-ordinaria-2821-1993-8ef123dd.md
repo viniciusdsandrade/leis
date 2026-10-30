@@ -30,10 +30,13 @@ Art. 1º ‑ É abonado o pagamento de Imposto Sobre Serviços de Qualquer
 Natureza ‑ ISSQN e TLL ‑ Taxa de Licença para Localização do Contribuinte Claudino
 Demartini, em atraso com os cofres municipais, incidentes nos exercícios de 1991 e
 1992.
+
 Art. 2º ‑ É abonado também os acréscimos legais que porventura
 existirem sobre o mesmo, inclusive se houver lançamento em dívida ativa.
+
 Art. 3º ‑ O abono concedido não cancela a inscrição de contribuinte
 autônomo, que permanece exercendo a atividade de Carpinteiro.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

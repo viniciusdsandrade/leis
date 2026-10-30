@@ -30,6 +30,7 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder remissão
 de dívidas, correspondente a 9 (nove) horas de serviços de máquinas (retroescavadeira), ao
 Sr. Alcides Prescendo.
+
 Parágrafo único - O valor da remissão é de R$324,44 (trezentos e vinte e
 quatro reais e quarenta e quatro centavos), atualizados até 31/05/1998.
 

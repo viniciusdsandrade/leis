@@ -36,6 +36,7 @@ reservatório de 20,00 m3 (vinte metros cúbicos), em fibra de vidro; e, 01 (uma
 submersa trifásica de 6 HP e 10 estágios, quadro de comando dotado com dispositivo
 para pára-raios, entrada de luz trifásica, para uso na obra de rede de abastecimento de
 água.
+
 Parágrafo único - Os familiares beneficiados, se responsabilizarão em
 definitivo pela manutenção da obra, como também, pela aquisição de 2.550 m (dois mil,
 quinhentos e cinqüenta metros) de cano PVC, 80 m (oitenta metros) de cabo duplex
@@ -46,6 +47,7 @@ de cavaletes e hidrômetros, e, demais despesas decorrentes da mesma.
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a cedê-lo em
 caráter definitivo para a Comunidade Vila Hípica, onde servirá par o fim descrito no
 Artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do
 Município, realizará verificação da efetiva utilização do material na obra, de
 conformidade com os objetivos declinados no Artigo primeiro.

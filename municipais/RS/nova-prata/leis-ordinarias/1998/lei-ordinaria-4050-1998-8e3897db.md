@@ -56,6 +56,7 @@ Matrícula n.º 6866 do Registro de Imóveis de Nova Prata.
 Art. 2.º - Fica autorizado o Chefe do Poder Executivo, a assinar Escritura
 pública de doação, referente aos imóveis, de que trata o Artigo primeiro da presente Lei
 Municipal.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei Municipal entrará em
 vigor na data de sua publicação.
 

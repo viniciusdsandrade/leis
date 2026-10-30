@@ -32,6 +32,7 @@ Art. 1º - Fica alterado o teor do item I – CARGOS DE PROVIMENTO
 EFETIVO, do ANEXO I da Lei Municipal 5985 de 29 de junho de 2006, que fixa os
 valores dos vencimentos dos cargos de provimento efetivo, vigentes, especificamente a
 partir do Padrão Base 9, que passam a ser os seguintes:
+
 I - CARGOS DE PROVIMENTO EFETIVO
 
 Padrão Base A B C D E
@@ -55,6 +56,7 @@ Parágrafo único – Permanecem inalterados os valores dos Padrões Base 1 à
 Art. 2º - Ficam alterados os Padrões de Vencimento dos cargos de
 provimento efetivo, fixados nas Leis Municipais 3760/97, 4741/2001, 5449/2005 e
 5767/2005, conforme seguem:
+
 I – o padrão de vencimento dos cargos de Técnico em Computador (Lei
 4741/2001), Técnico em Contabilidade (Lei 3760/97) e Técnico em Topografia (Lei
 3760/97) passa a ser o Padrão de Vencimento 10;
@@ -72,6 +74,7 @@ Enfermeiro (Lei 3760/97), Engenheiro Agrônomo (Lei 5449/2005), Engenheiro Civil
 4741/2001), Médico Veterinário (Lei 3760/97), Nutricionista (Lei 4741/2001), Odontólogo
 (Lei 3760/97), Psicólogo (Lei 3760/97 e Lei 4741/2001) e Zootecnista (Lei 3760/97) passa
 a ser o Padrão de Vencimento 11;
+
 III - o padrão de vencimento do cargo de Assistente Administrativo (Lei
 5767/2005) passa a ser o Padrão de Vencimento 12.
 

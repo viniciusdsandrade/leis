@@ -45,10 +45,13 @@ _____________________________________________________________________
 
 Parágrafo 3º - Os cargos ora criados integram a série Administrativa,
 contida no Plano de Classificação de Cargos.
+
 Art. 2.º - As especificações do cargo criado por esta Lei constam do
 Anexo I que dela fazem parte integrante.
+
 Art. 3º - São ratificadas as demais disposições contidas no atual Plano de
 Classificação de Cargos.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 
@@ -85,11 +88,15 @@ para assegurar a conservação do material: difundir o acervo da biblioteca, org
 exposições e distribuindo catálogos, para despertar no público o interesse pela leitura:
 executar outras tarefas correlatas.
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho de 33 horas semanais;
+
 b) Outras: O exercício do cargo poderá determinar a realização de
 viagens e, frequência em cursos especializados.
 REQUISITOS PARA PROVIMENTO:
+
 a) escolaridade: superior;
+
 b) habilitação Profissional: habilitação legal para exercício da profissão
 de Bibliotecário.
 REGULAMENTO:
@@ -127,8 +134,10 @@ usuários.
 Pode limpar os livros ou supervisionar a limpeza dos mesmos.
 Pode carimbar e conferir documentos.
 CONDIÇÕES DE TRABALHO:
+
 a) horário: período normal de 33 horas semanais.
 REQUISITO PARA PROVIMENTO:
+
 a) escolaridade: 1º Grau completo
 b) idade: mínima de 18 anos.
 RECRUTAMENTO:

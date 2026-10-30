@@ -35,10 +35,12 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica alterado o termo de convênio com o Hospital São João
 Batista, que institui o pronto atendimento, nos termos da Lei Municipal nº 4526/2000,
 nos seguintes tópicos:
+
 I - A cláusula quarta do convênio, passa a vigorar com a seguinte
 redação: “O Hospital, em contrapartida dos valores repassados, deverá em complemento
 ao SUS, promover o atendimento universal e totalmente gratuito, a todos os cidadãos
 que necessitarem do serviço de que trata este convênio.”
+
 II - A cláusula quinta do convênio, passa a vigorar com a seguinte
 redação: “O valor a ser repassado mensalmente, serve para pagamento dos profissionais
 que atuarão no plantão médico e ao ressarcimento de despesas havidas com o Hospital.”

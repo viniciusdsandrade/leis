@@ -30,13 +30,16 @@ promulgo a seguinte Lei:
 Art. 1.º - É concedida uma Subvenção ao CTG Querência do Prata, até o
 valor de Cr$ 1.200.000,00 (Um milhão e duzentos mil cruzeiros) para pagamento de
 despesas com a promoção da Semana Farroupilha de 1992.
+
 Art. 2.º - A entidade ora subvencionada obriga-se a prestar contas dos
 recursos concedidos no prazo de 15 dias.
+
 Art. 3º - As despesas decorrentes da aplicação desta lei, correrão por
 conta de rubrica orçamentária: 05 - Secretaria de Educação e Cultura; 0501 - Secretaria
 de Educação e Cultura; 0501.08 - Educação e Cultura; 0501.0848 - Cultura;
 0501.0848247 - Difusão Cultural; 0501.08482472.019 - Apoio Financeiro a Entidades
 Culturais; 3.2.3.1 - Subvenções Sociais.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -32,6 +32,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a proceder
 permuta de um imóvel, com o Sr. Luiz Agnini, inscrito no CPF/MF sob n.º 057691080-
 53, em virtude de tomada de parte de seu imóvel, pelo alargamento da Rua Dorvalino
 Colla, assim descritos:
+
 I - O imóvel pertencente ao Município de Nova Prata, que pela permuta
 passa a pertencer a Luiz Agnini, possui a seguinte descrição: “Uma gleba de terras
 parte do Lote MAT. 84 de propriedade da Prefeitura Municipal de Nova Prata, com área
@@ -40,6 +41,7 @@ m de extensão, da frente ao fundo, por ambos os lados, o qual entesta ao fundo 
 onde tem a mesma medida da frente, com terras de sucessores de Albino Boito,
 dividindo-se por um lado ao LESTE com terras de Delvino Stédile, e pelo outro lado ao
 OESTE, com remanescente do mesmo lote MAT. 84.”
+
 II - O imóvel pertencente a Luiz Agnini, que pela permuta passa a
 pertencer ao Município de Nova Prata, possui a seguinte descrição: “Uma gleba de
 terras atingida pelo alargamento da Rua Dorvalino Colla, parte do imóvel MAT. 7867,

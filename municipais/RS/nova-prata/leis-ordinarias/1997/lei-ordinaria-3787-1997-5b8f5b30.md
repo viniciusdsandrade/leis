@@ -33,6 +33,7 @@ Art. 1o. - Fica autorizado o Poder Executivo Municipal, a isentar de
 pagamento de Imposto Transmissão Bens Imóveis - ITBI, o Sr. Altamir Comin, em
 virtude da permuta de imóvel realizado em decorrência da Lei Municipal no. 3735/97,
 de 15 de maio de 1.997.
+
 Parágrafo único - A isenção tem por base, o fato de que a permuta,
 decorreu em virtude de ampliação da Rua Polônia, em virtude de interesse público.
 

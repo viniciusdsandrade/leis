@@ -50,9 +50,12 @@ TOTAL DA RECEITA ORÇAMENTÁRIA .......Cr$ 196.585.033.00
 Art. 2º - É fixada a despesa do Instituto, para o exercício de 1992 em Cr$
 196.585.033.00 (Cento e noventa e seis milhões, quinhentos e oitenta e cinco mil e
 trinta e três cruzeiros) e será realizada conforme os quadros de dotação anexos.
+
 Art. 3º - É o Poder Executivo Municipal, de conformidade com a Lei
 4320/64 autorizado a:
+
 I - Abrir, durante o exercício, créditos suplementares:
+
 a) - Até o limite de 50% (cinqüenta por cento) da despesa total
 autorizada.
 ...
@@ -63,6 +66,7 @@ Parágrafo Único. A Autorização contida neste artigo não se onera quando
 a suplementação se destinar ao atendimento de despesas relativas a pessoal e encargos
 sociais ou a reserva de contingência, em decorrência de maior arrecadação verificável
 sobre a previsão da Receita.
+
 II - Realizar em qualquer mês do exercício financeiro, operações de
 crédito por antecipação da receita para atender insuficiência de caixa, até o limite de
 25% (vinte e cinco por cento).

@@ -26,12 +26,15 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder remissão de
 débitos da Taxa de Fiscalização e/ou Vistoria (Alvará), sobre a atividade de Comércio e
 Representações dos anos de 1995 à 1996, no valor de R$ 110,46 (cento e dez reais e
 quarenta e seis centavos), a Empresa SAWAG Comércio e Representações Ltda.
+
 Art. 2º - A remissão ora concedida refere-se a atividade que a Empresa
 desempenhava na Av. Presidente Vargas, s/n.º, Cadastro Municipal N.º 32.136/002.5.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

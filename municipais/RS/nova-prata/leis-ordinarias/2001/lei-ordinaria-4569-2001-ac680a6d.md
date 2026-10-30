@@ -33,6 +33,7 @@ Art. 1.º - Fica o Poder Executivo Municipal autorizado a participar com
 até R$ 2.000,00 (dois mil reais), referente ao projeto de rede trifásica e instalação de um
 transformador na Linha Terra Gorda, para atendimento de agricultores residentes em
 Nova Prata.
+
 Parágrafo único - O projeto de que trata o caput deste artigo, beneficiará
 uma família.
 

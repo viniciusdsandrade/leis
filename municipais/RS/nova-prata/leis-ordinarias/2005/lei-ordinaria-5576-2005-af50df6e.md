@@ -49,6 +49,7 @@ Auxiliar de Limpeza 04 40 horas R$ 336,78
 
 § 1º - As especificações dos empregos criados por este artigo são as que
 constam no Anexo Único, que faz parte integrante desta Lei.
+
 § 2º - Será instalado junto a Unidade Sanitária de Nova Prata, um relógio
 ponto digital para que haja um controle efetivo no cumprimento do horário bem como
 das horas do contrato de todos os servidores.
@@ -58,6 +59,7 @@ seguintes dotações orçamentárias: 08 – Secretaria Municipal da Saúde; 01 
 Municipal da Saúde; 10.301.0107.2052 – Manutenção das atividades da secretaria;
 3.1.9.0.11.00.00.00.00 – Vencimentos e vantagens fixas (1444); 3.1.9.0.13.00.00.00.00
 – Obrigações Patronais (1245).
+
 Art. 3º - Esta Lei entrará em vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
 18 de agosto de 2005.
@@ -87,8 +89,10 @@ esta providência; executar outras tarefas semelhantes.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo e especialidade em Ginecologia e
 Obstetrícia.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -117,7 +121,9 @@ atividades visando a reintegração do doente na comunidade e no mercado de trab
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo e especialidade em Psiquiatria.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -144,7 +150,9 @@ correlatas.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo e especialidade em Pediatria.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -168,7 +176,9 @@ executar outras tarefas semelhantes.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo e especialidade em Cardiologia.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -188,7 +198,9 @@ tarefas correlatas.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo e especialidade em Neurologia.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -208,8 +220,10 @@ executar outras tarefas correlatas.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo e especialidade em Ultra-Sonografia pela
 Sociedade Brasileira de Ultra-Sonografia.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -229,7 +243,9 @@ outras tarefas correlatas.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo em Farmácia/Bioquímica.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -277,8 +293,11 @@ dificuldades momentâneas; pode também atuar na área de propaganda, visando de
 motivações e descobrir a melhor maneira de atendê-las; executar outras tarefas
 correlatas.
 REQUISITOS PARA PROVIMENTO:
+
 a) Idade mínima de 18 anos;
+
 b) Instrução: Superior completo em Psicologia;
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 RECRUTAMENTO:
@@ -307,7 +326,9 @@ executar outras tarefas correlatas.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo em Odontologia.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -330,7 +351,9 @@ tarefas afins, inclusive as editadas no respectivo regulamento da profissão.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo em Nutrição.
+
 c) Habilitação: habilitação legal para o exercício da profissão, registro no
 respectivo conselho da categoria.
 
@@ -356,8 +379,11 @@ na Unidade Básica da Saúde da família e espaços sociais identificados; Regis
 Siab os procedimentos de sua competência realizados.
 
 REQUISITOS PARA INGRESSO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade: Ensino Fundamental completo;
+
 c) Comprovação de experiência na função, de pelo menos um ano.
 
 RECRUTAMENTO: através de concurso público.
@@ -374,6 +400,7 @@ café, chá, suco ou semelhantes e servi-los e executar outras tarefas semelhant
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Ensino Fundamental incompleto.
 
 RECRUTAMENTO:

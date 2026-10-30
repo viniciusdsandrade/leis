@@ -25,6 +25,7 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É aberto um crédito suplementar na importância de
 Cr$151.030.000,00 (cento e cinqüenta e um milhões e trinta mil cruzeiros), nas
 seguintes unidades orçamentárias:
@@ -80,6 +81,7 @@ rodoviários
 3.2.8.0 ‑ Contrib. p/Formação do PASEP ............................................Cr$ 15.000.000,00
 - total ....................................................................................... Cr$151.030.000,00
 (cento e cinqüenta e um milhões e trinta mil cruzeiros).
+
 Art. 2º - Servirá de recursos para dar cobertura ao crédito suplementar de
 que trata o artigo anterior igual redução nas seguintes unidades orçamentárias:
 0501 ‑ Secretaria de Educação e Cultura

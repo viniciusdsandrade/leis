@@ -56,39 +56,52 @@ Municipal, terá prazo de vigência até o final do ano de 1999.
 ... Folha 02
 Art. 4º - O valor repassado mensalmente será destinado ao que abaixo
 segue:
+
 a) Pagamentos de salários e encargos sociais de funcionários contratados
 pelo Corpo de Bombeiros;
+
 b) Fornecimento de alimentação a estes funcionários;
+
 c) Aquisição de material necessário ao trabalho, tais como, alojamento,
 cozinha, higiene, limpeza e material de expediente e fardamento.
 
 Art. 5º - É de competência da Sociedade Civil Corpo de Bombeiros de
 Nova Prata:
+
 a) Formação especializada dos Bombeiros;
+
 b) Atender as atividades de Prevenção de Incêndio, Combate ao Fogo,
 Salvamento, Socorros de Emergência, Vistorias, Atividades de Defesa Civil do
 Município;
+
 c) Mobilizar e preparar o Corpo de Bombeiros Voluntários para as
 diversas atividades afins, tais como, Brigadas de Salvamento, Brigadas de Primeiros
 Socorros, Brigadas de Alpinismo, além da Estrutura de Defesa Civil;
+
 d) Organizar todas as atividades de Defesa Civil;
+
 e) Colocar a disposição da Prefeitura Municipal, através da Secretaria
 Municipal de Obras e Secretaria Municipal de Finanças, Bombeiros Voluntários
 preparados para executarem as atividades de vistoria e fazer cumprir a legislação em
 vigor;
+
 f) Fornecer as Secretarias Municipais competentes laudos, vistorias e
 alvarás específicos de cada área;
+
 g) Manter o equipamento colocado a disposição pela Prefeitura
 Municipal e comunidade para a prestação de serviços no mais alto padrão de
 conservação;
+
 h) Quando receber auxílio em dinheiro para atender as necessidades do
 ítem I, deveria no prazo de quinze dias prestar contas obedecendo o modelo
 determinado pela Secretaria Municipal de Finanças
 i) Aquisição e substituição do material especializado e de consumo,
 incluindo veículos, equipamentos e material de comunicação, de acordo com as normas
 técnicas regidas pela Associação Brasileira de Normas Técnicas - ABNT;
+
 j) Aquisição de material de consumo (combustíveis e lubrificantes),
 cargas extintoras, líquidos geradores de espuma e manutenção;
+
 k) È de inteira responsabilidade do Corpo de Bombeiros a contratação, o
 pagamento e qualquer encargo decorrentes da contratação de seus funcionários.
 

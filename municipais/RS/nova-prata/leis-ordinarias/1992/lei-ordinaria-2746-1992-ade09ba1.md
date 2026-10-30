@@ -26,11 +26,14 @@ JOÃO CARLOS SCHMITT, PREFEITO NUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ A gratificação de difícil acesso, será incorporada na
 aposentadoria, ao provento do servidor municipal que a tenha percebido, no mínimo,
 por 05 (cinco) anos.
+
 Parágrafo único ‑ A gratificação de difícil acesso será incorporada,
 independente do exercício da função ser intercalada.
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

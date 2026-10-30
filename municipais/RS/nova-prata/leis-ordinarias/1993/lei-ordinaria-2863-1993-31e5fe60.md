@@ -30,6 +30,7 @@ promulgo a seguinte Lei:
 Art. 1º ‑ É concedido um auxílio financeiro a Doralice F. R. Fassbinder,
 no valor de Cr$ 1.500.000,00 (um milhão e quinhentos mil cruzeiros), para pagamento
 de despesas e/ou reembolso, com anestesia referente a procedimento cirúrgico.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 - Assistência Médica à População;
 3.2.5.9 - Outras Transferências à Pessoas.

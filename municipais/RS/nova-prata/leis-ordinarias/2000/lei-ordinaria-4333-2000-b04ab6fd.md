@@ -37,6 +37,7 @@ Art. 1.º - Fica o Poder Executivo Municipal autorizado a proceder perfuração 
 Poço Artesiano, na Comunidade de Rio Branco, Capela Santa Líbera em Nova Prata, até 60
 (sessenta) metros de profundidade, ao preço unitário de R$ 45,00 (quarenta e cinco reais) o
 metro, totalizando o valor máximo de R$ 2.700,00 (dois mil e setecentos reais).
+
 Parágrafo único - Os serviços de Geologia e o projeto básico do poço artesiano,
 serão de responsabilidade da empresa a ser contratada. O Poder Executivo se compromete até a
 perfuração total de poço, sendo que os interessados arcarão com as demais despesas.
@@ -44,6 +45,7 @@ perfuração total de poço, sendo que os interessados arcarão com as demais de
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a ceder o poço
 artesiano em caráter definitivo para a comunidade de Rio Branco, Capela Santa Líbera, onde
 servirá para o fim descrito no Artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do Município,
 realizará fiscalização nas obras.
 

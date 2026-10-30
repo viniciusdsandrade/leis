@@ -27,6 +27,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo Municipal autorizado a dispender recursos
 municipais até o valor de Cr$ 30.000,00 (trinta mil cruzeiros reais) para sediar o Encontro de
 Bombeiros Voluntários do Estado, em Nova Prata, na data de 06 de novembro de 1993.

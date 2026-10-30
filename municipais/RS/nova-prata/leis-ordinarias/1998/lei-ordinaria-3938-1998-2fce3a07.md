@@ -33,14 +33,18 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Município de Nova Prata, autorizado a participar da
 edição e do lançamento de livros de escritores pratenses, com objetivo de apoiar a
 cultura no âmbito municipal.
+
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a realizar gastos
 de até R$5.000,00 (cinco mil reais), com a participação na elaboração e lançamento dos
 livros, aos escritores e valores abaixo especificados:
+
 I - R$1.330,00 (um mil, trezentos e trinta reais), como participação na
 edição e lançamento do Livro denominado Segundo Livro de Poesias;
+
 II - R$2.340,00 (dois mil, trezentos e quarenta reais), como participação
 na edição e lançamento do Livro denominado Segundo Livro - Cem Anos da Cidade de
 Nova Prata;
+
 III - R$1.330,00 (um mil, trezentos e trinta reais), como participação na
 edição e lançamento do Livro denominado Terceiro Livro de Poesias.
 
@@ -48,6 +52,7 @@ Art. 3o. - Os escritores beneficiados, deverão comprovar os gastos
 realizados, através de apresentação de recibos e notas fiscais comprobatórias das
 despesas realizadas, no prazo máximo de 60 dias, contados a partir da liberação dos
 valores.
+
 Art. 4.º - As despesas decorrentes da execução da presente Lei Municipal,
 correrão por conta de dotação orçamentária, classificada sob código: 05 - Secretaria de
 Educação e Cultura; 01 - Unidades Subordinadas; 08482472.027 - Promoção de

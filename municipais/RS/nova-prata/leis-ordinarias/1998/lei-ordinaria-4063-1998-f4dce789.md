@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1o. - Fica o Poder Executivo Municipal autorizado a proceder remissão
 de dívida de Imposto Predial e Territorial Urbano, a Senhora Lucia Bonatto Alves.
+
 Parágrafo único - A remissão prevista no “caput” do presente Artigo, refere-
 se ao pagamento do IPTU do ano de 1997 e 1998, no valor de R$79,05 (setenta e nove
 reais e cinco centavos), corrigidos até 31/10/1998.

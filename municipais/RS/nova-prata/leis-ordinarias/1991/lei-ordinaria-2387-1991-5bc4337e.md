@@ -31,9 +31,11 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Executivo autorizado a doar à Compensados
 Dallgir Ltda, uma área de terra com 2.000m2 (dois mil metros quadrados), no Distrito
 Industrial do Município, para instalação de indústria.
+
 Art. 2.º - Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área doada, obedecendo aos dispositivos da Legislação própria da área
 industrial.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

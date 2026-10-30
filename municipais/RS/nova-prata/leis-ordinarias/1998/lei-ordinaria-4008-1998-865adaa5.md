@@ -46,6 +46,7 @@ Art. 3.º - Os consumidores que adquirirem seus produtos nas industrias e
 comércios associados poderão trocar suas notas por cautelas nos termos do regulamento
 da CDL e, poderão participar novamente da campanha trocando suas notas fiscais junto
 a prefeitura municipal, nos termos desta lei.
+
 Art. 4.º - A Campanha que trata o artigo 1º, consiste em premiar
 consumidores, produtores, usuários de serviços e contribuintes municipais, portadores
 de documentos válidos para a troca, constantes desta Lei, emitidos a partir de 01 de
@@ -102,10 +103,12 @@ serem adquiridos pela entidade.
 ... folha 03
 Parágrafo segundo - A CDL participará com premiação no mesmo valor
 gasto pelo município.
+
 Art. 10 - Fica autorizado o Poder Executivo a firmar convênio com a
 CDL, contemplando todas as normas constantes na presente Lei.
 Parágrafo Único - O Poder Executivo, remeterá fotocópia do convênio
 ao Poder legislativo.
+
 Art. 11 - A distribuição dos prêmios será feita mediante um sorteio a ser
 realizado no mês de dezembro de 1998, em local, data e horário a ser divulgado com
 antecedência mínima de 10 dias.

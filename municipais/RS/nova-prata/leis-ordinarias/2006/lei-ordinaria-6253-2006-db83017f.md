@@ -57,6 +57,7 @@ na extensão na extensão de 25,00m.”.
 Art. 2.º - A Concessão de uso de que trata o artigo anterior, será por 30
 (trinta) anos, contados da assinatura do termo de concessão, admitida a prorrogação por
 outro período igual, desde que presente o interesse público.
+
 Parágrafo único - As demais condições constam especificamente no
 termo de concessão de direito real de uso.
 

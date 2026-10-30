@@ -51,6 +51,7 @@ Municipal, correrão por conta de dotação orçamentária classificada sob o c�
 Gabinete do Prefeito; 01 – Unidades Subordinadas; 04.122.0004.2003 – Manutenção
 Atividades do Gabinete; 3.3.90.48.00.000000 - Outros Auxílios Financeiros a Pessoa
 Física.
+
 Art. 5.o – Esta Lei Municipal entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

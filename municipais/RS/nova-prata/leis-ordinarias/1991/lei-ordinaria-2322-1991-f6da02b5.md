@@ -42,10 +42,12 @@ constante de sua nomeação:
 Art. 2º - As cedências a que se refere o artigo anterior é pelo prazo
 certo de 01 (um) ano, podendo ser renovada por igual período observadas as
 disponibilidades do Município e a necessidade da Associação.
+
 Art. 3º - As servidoras ora cedidas desempenharão as mesmas
 funções de professoras do órgão cessionário, percebendo a mesma remuneração do
 cargo, cujo pagamento, encargos sociais e promoção ficam de total responsabilidade do
 órgão cedente.
+
 Art. 4º - A ABEN - Associação Beneficente e Educacional de
 Nova Prata fica obrigada, oficialmente todos os meses, a frequência ao serviço e outras
 ocorrências relativas à vida funcional.

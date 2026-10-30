@@ -25,6 +25,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - altera redação do art. 48 em seu parágrafo 2º:
 “Art. 48 - ...
 Parágrafo 2º - Vetado o projeto e devolvido à Câmara, será ele
@@ -32,6 +33,7 @@ submetido, dentro de trinta dias, contados da data do seu recebimento, com ou se
 parecer, à discussão única, só pode ser rejeitado pelo voto da maioria absoluta dos
 Vereadores, em escrutíneo secreto. Se o veto não for mantido será o projeto enviado
 para produção, ao Prefeito Municipal.”
+
 Art. 2º - Revogada as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -27,17 +27,21 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É o Executivo Municipal autorizado a pagar as despesas
 relativas à contratação, hospedagem, alimentação e transporte dos artistas do “Galpão
 Grioulo”, pela produção do Show nesta cidade, a realizar-se em 19.08.90.
+
 Parágrafo único - As despesas a que se refere este artigo não poderão
 ultrapassar os seguintes limites:
 - até Cr$ 105.000,00 pelo contrato com a promotora RBS/TV;
 - até Cr$ 50.000,00 pelo contrato com os produtores do som;
 - até Cr$ 100.000,00 com hospedagem, alimentação e tranporte da
 equipe e dos artistas;
+
 Art. 2º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentaria própria.
+
 Art. 3º - Revogadas as disposições em contrário esta Lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

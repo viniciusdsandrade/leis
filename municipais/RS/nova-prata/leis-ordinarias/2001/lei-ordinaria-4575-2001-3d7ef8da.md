@@ -34,6 +34,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a participar em
 cinco obras de entrada de luz monofásica, na localidade da Fazenda Pratinha II (Linha
 Strapazzon), beneficiando cinco famílias.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, dois orçamentos de empresas para realização da obra, bem como relação dos
 beneficiados.
@@ -41,6 +42,7 @@ beneficiados.
 Art. 2.º - O valor da participação do Município nas obras, será de
 R$857,80 (oitocentos e cinqüenta e sete reais e oitenta centavos), os quais serão pagos
 diretamente à empresa responsável pela obra, mediante emissão de Nota Fiscal.
+
 Parágrafo único - Eventuais gastos a maior, em relação ao valor
 constante no caput deste artigo, serão de responsabilidade dos beneficiados.
 

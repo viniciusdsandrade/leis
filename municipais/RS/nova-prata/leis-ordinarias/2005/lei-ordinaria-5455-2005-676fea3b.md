@@ -35,6 +35,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a firmar Termo
 Aditivo ao Convênio com os Bombeiros Voluntários Nova Prata, autorizado pela Lei
 Municipal nº 5378/2004, com o objetivo de possibilitar a manutenção das atividades tão
 primordiais desempenhadas pela entidade favorecida.
+
 Parágrafo único - O valor do repasse será de R$ 750,00 (setecentos e
 cinqüenta reais) mensais, repassados mensalmente de maio a dezembro de 2005, sem
 prejuízo do repasse estabelecido no convênio autorizado pela Lei Municipal N.º

@@ -31,6 +31,7 @@ e promulgo a seguinte Lei:
 
 Art. 1º - A retribuição pela prestação de serviços telefônicos pelo
 Município será feita por meio de tarifas.
+
 Parágrafo único - O fato gerador da tarifa de telefone, é o efetivo uso do
 mesmo, bem como a manutenção e conservação das redes telefônicas municipais,
 oriundas de Convênio firmado entre o Município e a CRT.
@@ -55,6 +56,7 @@ Art. 6o. - A tarifa fixa será determinada por Decreto do Poder Executivo,
 sendo as demais calculadas de forma a ressarcir o Município do preço do material,
 transporte, legislação social e mão-de-obra, empregados, acrescidas de 15% (quinze por
 cento) de despesas de administração.
+
 Parágrafo único - O valor da tarifa variável será o fixado pela CRT para
 os seus serviços. ...
 
@@ -80,6 +82,7 @@ parcelamento mensal, em valor inferior ao preço de uma tarifa fixa mensal.
 
 Art. 11o. - É proibido qualquer extensão do serviço de telefone, de uma
 unidade imobiliária para outra, sem a autorização do Município.
+
 Parágrafo único - Extensões internas, na mesma unidade imobiliária,
 poderão ser efetivadas, com o custo todo de responsabilidade do usuário.
 

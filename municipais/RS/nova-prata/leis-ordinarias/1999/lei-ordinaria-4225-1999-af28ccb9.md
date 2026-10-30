@@ -44,6 +44,7 @@ obra.
 Art. 4.º - Para o contribuinte cabe a responsabilidade de fornecer todas as pedras
 (cordão e paralelepípedos), relativos a parte que lhe couber, adquiridos por ele, que devem ser
 colocadas à disposição no local da obra, no momento da execução da mesma.
+
 Parágrafo único - As pedras - cordões e paralelepípedos deverão atender os
 requisitos das exigências técnicas estabelecidas pela Lei pertinente sob fiscalização do setor
 responsável da Prefeitura Municipal.

@@ -34,6 +34,7 @@ Art. 1º ‑ Fica prorrogado o prazo para o pagamento do IPTU referente a
 Parágrafo 1º ‑ Ficam mantidos até a data mencionada no caput do artigo
 anterior, os valores vigentes em 31.03.93 bem como desconto citado na Lei N.º 2752 de
 17.02.93.
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

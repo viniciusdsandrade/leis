@@ -29,6 +29,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte lei:
+
 Art. 1º - Fica autorizado o Executivo Municipal a firmar Convênio
 com a Cooperativa-Escola dos Alunos da Escola Agrotécnica Federal de Bento Gonçalves Ltda,
 para manutenção de alunos procedentes deste Município, no ano letivo de 1993, e que são: Daniel

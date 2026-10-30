@@ -38,6 +38,7 @@ Saúde, do 2º semestre de 1991
 
 Art. 2.º - As verbas recebidas pelos compromissos firmados serão
 aplicadas em despesas de custeio do sistema de saúde do Município.
+
 Art. 3.º - O Convênio e seu aditivo obedecerão as cláusulas constantes
 da minuta anexa que fazem parte integrante da presente Lei.
 

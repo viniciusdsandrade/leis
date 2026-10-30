@@ -34,9 +34,11 @@ Companhia Rio Grandense de Telecomunicações - CRT, um imóvel com 360,00 m2,
 parte de área maior constante da matrícula n.º 1978, situada na Comunidade de Retiro,
 ao lado da Escola Municipal Reinaldo Cherubini, bem como de um prédio de alvenaria,
 com área de 26,25 m2.
+
 Art. 2.º - A área e o prédio a serem doados nos termos do Artigo anterior,
 serão utilizados para instalação de uma Central Telefônica para Comunidade daquele
 local.
+
 Art. 3.º - Fica fazendo parte integrante da presente Lei Municipal,
 Escritura, Mapa e Termo de Avaliação dos bens descritos no Artigo primeiro.
 

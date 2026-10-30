@@ -33,6 +33,7 @@ do Município de Nova Prata, em uma gleba de terras com 47.462,40 m2 (quarenta e
 mil, quatrocentos e sessenta e dois metros e quarenta decímetros quadrados), localizado
 frente à Estrada Buarque de Macedo, que liga a cidade de Nova Prata ao distrito de Rio
 Branco.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, levantamento e memorial descritivo do imóvel objeto do caput deste artigo.
 

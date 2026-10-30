@@ -33,6 +33,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a adquirir
 alevinos de espécies nativas, destinados ao repovoamento de rios existentes no
 Município, com a finalidade de realizar programa de controle do mosquito borrachudo.
+
 Parágrafo único - As despesas na aquisição de que trata o caput deste
 Artigo, não poderá ultrapassar o valor de R$5.000,00 (cinco mil reais).
 

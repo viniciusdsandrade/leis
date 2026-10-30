@@ -35,6 +35,7 @@ demais edis, com suporte no art. 35 III c/c art. 39 I da LOM, apresentar Emenda
 a Lei Orgânica Municipal, que institui o “ORÇAMENTO IMPOSITIVO POR
 EMENDAS DE BANCADAS - por todas as emendas de iniciativa de bancada de
 parlamentares – Poder Legislativo, no Município de Nova Prata RS.
+
 Art. 1º Acrescenta o artigo 121-B, a Lei Orgânica Municipal de Nova
 Prata, que passa a vigorar com a seguinte redação:
 Artigo 121-A. É obrigatória a execução orçamentária e financeira das
@@ -42,31 +43,38 @@ programações incluídas por emendas de iniciativa de bancada de parlamentares
 do Legislativo Municipal de Nova Prata em Lei Orçamentária Anual, no montante
 de até 1% (um por cento) da receita corrente líquida realizada no exercício
 anterior.
+
 § 1º O valor destinado para cada bancada corresponde ao valor
 destinado a menor bancada, multiplicado pelo número de membros de cada
 bancada, quando o for o caso, de forma a manter a equidade entre os edis.
+
 § 2º Para fins de cumprimento do disposto neste Artigo, os órgãos de
 execução deverão observar, nos termos da lei de diretrizes orçamentárias,
 cronograma para análise e verificação de eventuais impedimentos das
 programações e demais procedimentos necessários à viabilização da execução
 dos respectivos montantes.
+
 § 3º Os restos a pagar poderão ser considerados para fins de
 cumprimento da execução financeira prevista neste artigo, até o limite de 0,5%
 (cinco décimos por cento) da receita corrente liquida realizada no exercício
 anterior, para as programações das emendas de iniciativa de bancada de
 parlamentares.
+
 § 4º Para fins do disposto no caput deste artigo, a execução da
 programação orçamentária será demonstrada em dotações orçamentárias
 específicas da Lei Orçamentária Anual, preferencialmente em nível de
 subunidade orçamentária vinculada à secretaria municipal correspondente à
 despesa, para fins de apuração de seus respectivos custos e prestação de contas;
+
 Art. 2 º As programações de que trata o § 4º deste artigo, quando
 versarem sobre o início de investimentos com duração de mais de um exercício
 financeiro ou cuja execução já tenha sido iniciada, deverão ser objeto de emenda
 pela mesma bancada, a cada exercício, até a conclusão da obra ou
 empreendimento.
+
 § 1º A mesma programação poderá receber destinação de recursos
 decorrentes de bancadas distintas.
+
 Art. 3º Esta Emenda à Lei Orgânica entra em vigor na data de sua
 publicação.
 

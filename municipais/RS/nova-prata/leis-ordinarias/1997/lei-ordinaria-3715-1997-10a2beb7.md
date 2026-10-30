@@ -36,6 +36,7 @@ na Localidade do Gramado.
 Art. 2º - O valor autorizado para aquisição do implemento é de R$ 672,00
 (seiscentos e setenta e dois reais), correspondente a 20% (vinte por cento) do valor total do
 implemento.
+
 Parágrafo único - O Município realizará o pagamento do valor declinado no
 “caput” do presente Artigo, diretamente à empresa, onde a Associação Agropecuária
 Gramadense adquirir o implemento de que trata o Artigo primeiro da Lei Municipal.

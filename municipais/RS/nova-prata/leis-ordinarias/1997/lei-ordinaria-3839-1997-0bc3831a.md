@@ -40,6 +40,7 @@ Prata, a ser realizado em data de 7 de dezembro, na Comunidade de Gramado.
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a repassar o valor de
 R$1.250,00 (um mil, duzentos e cinqüenta reais), a COPRAJUR, referentes a 50% do custo de
 organização e realização dos X Jogos Rurais.
+
 Parágrafo único - As despesas previstas no “caput” deste Artigo, serão
 pagamento de material de expediente e divulgação, material esportivo e premiação.
 

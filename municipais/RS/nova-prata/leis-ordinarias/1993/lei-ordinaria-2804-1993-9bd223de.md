@@ -30,11 +30,14 @@ promulgo a seguinte Lei:
 Art. 1º ‑ É concedida uma Subvenção a Sociedade Esportiva Recreativa
 Cultural Bochófila Pratense, no valor de Cr$ 12.000.000,00 (doze milhões de
 cruzeiros), para fins de reforma, e melhoria da sua Sede.
+
 Art. 2º ‑ A entidade ora subvencionada fica obrigada a prestar contas da
 Subvenção recebida no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 08482472.022 ‑ Apoio Financeiro à Entidades Culturais;
 3.2.3.1 ‑ Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -34,6 +34,7 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a conceder auxílio
 financeiro de R$400,00 (quatrocentos reais), ao Senhor João Pedro Mazzotti, com
 objetivo de auxiliar no pagamento e/ou reembolso de despesas de tratamento com
 radioterapia em sua pessoa.
+
 Parágrafo único - O beneficiário, deverá comprovar o pagamento, no
 prazo de 2 (dois) meses, mediante entrega de fotocópia do recibo ou nota fiscal, sob
 pena de devolução dos valores concedidos e, ainda, não concessão de novos auxílios.

@@ -41,12 +41,14 @@ pais, bem estar físico, psíquico e social através de local adequado
 para os filhos dos trabalhadores e equipá-la conforme suas
 necessidades, utilizando recursos tomados por empréstimo do
 PIMES, do Governo Estadual.
+
 II - PROGRAMAS DE PLANEJAMENTO FAMILIAR
 OBJETIVO: Instituir programas de ação junto à comunidade,
 educando para o planejamento familiar de forma a evitar o
 crescimento populacional desordenado, bem como fornecendo aos
 mais carentes a assistência necessária como orientação técnica,
 auxílios médico-hospitalares e farmacêuticos.
+
 III - EXECUÇÃO DO PROJETO DE DESENVOLVIMENTO
 INSTITUCIONAL COM RECURSOS DO PIMES
 OBJETIVO: Reavaliação do Plano Diretor Urbano, revisão e

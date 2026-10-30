@@ -34,6 +34,7 @@ promulgo a seguinte Lei.
 Art. 1º - Fica autorizado o Poder Executivo Municipal, a firmar Convênio com a
 Banda Municipal de Integração Estudantil - BANMIES, com o objetivo de proporcionar
 condições de manutenção da Banda, preservando e difundindo a cultura em Nova Prata.
+
 Art. 2º - Fica autorizado o Poder Executivo Municipal, a repassar a importância
 de R$8.000,00 (oito mil reais) à Banda Municipal de Integração Estudantil - BANMIES,
 objetivando a manutenção de suas atividades até o final do ano de 1998, a serem repassados em

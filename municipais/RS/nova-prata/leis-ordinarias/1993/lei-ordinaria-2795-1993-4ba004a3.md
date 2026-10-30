@@ -31,12 +31,15 @@ Art. 1º ‑ Fica o Executivo Municipal autorizado a contratar
 temporariamente (01) um Professor de Língua Inglesa, atendendo excepcional interesse
 público, nos termos do artigo 232 e seguintes da Lei Municipal N.º 2154 de 25 de abril
 de 1990, em especial o item III do artigo 233.
+
 Art. 2º ‑ A contratação referida será pelo prazo certo de 03 (três) meses a
 contar da aprovado desta lei, assegurados todos os direitos do contratado, definidos no
 Regime Jurídico Único dos Servidores Municipais.
+
 Art. 3º ‑ As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária: 05 ‑ Secretaria da Educação e Cultura; 08421882.009 ‑ Manutenção e
 Desenvolvimento do Ensino Fundamental; 3.1.1.1 ‑ Pessoal Civil.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

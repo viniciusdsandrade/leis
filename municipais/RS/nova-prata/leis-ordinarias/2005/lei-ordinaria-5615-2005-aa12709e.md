@@ -28,6 +28,7 @@ PREFEITO MUNICIPAL DE NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu
 sanciono e promulgo a seguinte Lei:
+
 Art 1.º - Fica autorizado ao Poder Executivo Municipal a incluir nas
 metas do Plano Plurianual vigente, criado pela Lei Municipal 4701/01, o
 programa que abaixo segue:
@@ -36,6 +37,7 @@ programa que abaixo segue:
 OBJETIVO – Realizar a manutenção de veículo da secretaria para desempenho
 de suas atividades.
 Recursos: Próprios.
+
 Art. 2.º - Fica o Poder Executivo autorizado a incluir nas metas da
 Lei de Diretrizes Orçamentárias de 2005, Lei Municipal 5402/04, o projeto 2102,
 constante no artigo 1.º para ser desenvolvido dentro das atividades da Secretaria
@@ -45,6 +47,7 @@ Municipal de Planejamento e Ambiente, a seguinte meta:
 OBJETIVO – Realizar a manutenção de veículo da secretaria para desempenho
 de suas atividades.
 Recursos: Próprios.
+
 Art. 3.º - Fica autorizado o Poder Executivo Municipal a abrir
 crédito especial no orçamento vigente, por redução orçamentária, com a seguinte
 especificação:

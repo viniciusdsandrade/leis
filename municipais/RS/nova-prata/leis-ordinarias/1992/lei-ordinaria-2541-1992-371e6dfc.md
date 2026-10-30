@@ -32,6 +32,7 @@ Art. 1º - É isento do pagamento de Imposto Predial e Territorial Urbano -
 IPTU o Sr. José Roni Dal Prá Machado, incidente sobre o imóvel de sua propriedade,
 localizado na Rua Onze de Agosto, n.° 354, nesta cidade, referente ao exercício de
 1992, inclusive os encargos sobre o mesmo existentes.
+
 Parágrafo único - A isenção ora concedida o será em virtude do
 contribuinte ser portador de deficiência física.
 

@@ -29,6 +29,7 @@ promulgo e seguinte lei:
 Art. 1.º - O Museu Municipal instituído pela Lei nº 1.322 de 13 de
 setembro de 1978 passa a denominar-se “MUSEU MUNICIPAL DOMINGOS
 BATTISTEL”.
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei entrará
 em vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA,

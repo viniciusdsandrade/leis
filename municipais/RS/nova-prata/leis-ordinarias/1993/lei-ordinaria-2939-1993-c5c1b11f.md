@@ -26,17 +26,23 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE NOVA PRATA
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É instituído o programa de incentivo a Indústria e Comércio,
 através de venda de brita e prestação de serviços de máquinas com preço reduzido.
+
 Art. 2º - O programa de que trata o artigo 1º visa a venda de brita aos
 interessados e a execução de serviços de máquinas, aos estabelecimentos comercial e
 industrial do Município, mediante ações que constituir-se-ão preferencialmente de:
+
 a) venda de bruta com desconto de 50% sobre o preço de tabela;
+
 b) prestação de serviços de máquinas com desconto de 40% sobre o
 preço de tabela;
+
 Art. 3º - Os serviços e a venda de que trata o artigo 2º somente serão
 executados desde que a Prefeitura Municipal tenha disponibilidade de atendimento e
 não cause prejuízo aos trabalhos programados pela Secretaria de Obras.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE

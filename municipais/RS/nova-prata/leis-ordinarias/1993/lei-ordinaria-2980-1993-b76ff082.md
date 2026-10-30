@@ -25,6 +25,7 @@ VITOR ANTONIO PLESTCH, PREFEITO DE NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É o Executivo Municipal autorizado a abrir um crédito especial
 no valor de CR$ 100.000,00 (cem mil cruzeiros reais), destinados a atender dotação
 especial na seguinte unidade orçamentária:
@@ -33,6 +34,7 @@ especial na seguinte unidade orçamentária:
 3.2.3.1 - Subvenções Sociais..............................................CR$ 100.000,00
 - total.......................................................................CR$ 100.000,00 (cem mil
 cruzeiros).
+
 Art. 2º - Servirá de recursos para dar cobertura ao crédito especial acima
 citado, a transferência de verba da seguinte unidade orçamentária:
 0501 - Secretaria de Educação e Cultura

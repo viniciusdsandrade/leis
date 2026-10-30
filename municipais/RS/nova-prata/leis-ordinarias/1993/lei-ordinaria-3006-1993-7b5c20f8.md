@@ -28,6 +28,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder uma Subvenção ao CTG
 Os Maragatos, do Distrito do Rio Branco, e autoriza a celebrar Convênio, na forma estabelecida
 pelo Art. 116, da Lei Federal N.º 8.666, de 21 de junho de 1993.
@@ -98,13 +99,16 @@ de não ser aprovado pelo órgão competente do Executivo.
 ... Folha 02
 
 Parágrafo Único - Constituirá motivo para a suspensão do repasse da Subvenção pelo Município:
+
 a) quando não houver comprovação da boa e regular aplicação
 da parcela anteriormente recebida, na forma da legislação aplicável inclusive mediante
 procedimentos e fiscalização local, realizados, periodicamente pelo Município;
+
 b) quando verificados desvio de finalidade na aplicação dos
 recursos, práticas atentatórias aos princípios fundamentais de Administração Pública, nas
 contratações e demais atos praticados na execução deste Convênio, ou o inadimplemento de
 qualquer obrigação estabelecida por cláusulas conveniais básicas;
+
 c) quando a entidade convenente deixar de adorar as medidas
 saneadoras apontadas pelo Município repassador da Subvenção.
 CLAÚSULA NONA - Quando da conclusão, denúncia, rescisão, ou extinção do Convênio, os

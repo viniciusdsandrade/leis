@@ -28,6 +28,7 @@ PREFEITO MUNICIPAL DE NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu
 sanciono e promulgo a seguinte Lei:
+
 Art 1.º - Fica autorizado ao Poder Executivo Municipal a incluir nas
 metas do Plano Plurianual vigente, criado pela Lei Municipal 4701/01, o
 programa que abaixo segue:
@@ -39,6 +40,7 @@ OBJETIVO – Criar a Secretaria Municipal de Captação de Recursos e Assuntos
 Internacionais, para os objetivos estabelecidos em Lei específica e dar condições
 para o bom funcionamento da mesma.
 Recursos: Próprios.
+
 Art. 2.º - Fica o Poder Executivo autorizado a incluir nas metas da
 Lei de Diretrizes Orçamentárias de 2005, Lei Municipal 5402/04, o projeto
 1.118, constante no artigo 1.º, a seguinte meta:
@@ -50,6 +52,7 @@ OBJETIVO – Criar a Secretaria Municipal de Captação de Recursos e Assuntos
 Internacionais, para os objetivos estabelecidos em Lei específica e dar condições
 para o bom funcionamento da mesma.
 Recursos: Próprios.
+
 Art. 3.º - Fica autorizado o Poder Executivo Municipal a abrir
 crédito especial no orçamento vigente, por redução orçamentária, com a seguinte
 especificação:

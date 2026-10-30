@@ -26,14 +26,18 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É abonado o pagamento de serviço de máquinas executado na
 propriedade do Sr. Triestino Picinini, na localidade da Linha Senador Otaviano, neste
 Município, serviço realizado em 11 de março de 1991.
+
 Parágrafo único ‑ É abonado também todos os valores lançados sobre o
 débito principal até a presente data.
+
 Art. 2º ‑ O abono ora concedido o é em virtude desta municipalidade ter
 usado material de propriedade do Sr. Triestino Picinini, para a instalação de um
 depósito de água para a comunidade.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 

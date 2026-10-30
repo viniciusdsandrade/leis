@@ -34,6 +34,7 @@ Art. 1.º - Fica autorizada a realização de acordo de composição de
 dívidas, a ser firmado entre o Município de Nova Prata e a Urbanizadora Colorado Ltda,
 relativamente aos processos números 717, 727, 9013, 9107, 9108 e 9297, que tramitam
 no Juízo de Nova Prata.
+
 Parágrafo único - O crédito do Município é consubstanciado pelos
 processos constantes no caput deste artigo e o débito, refere-se a dívida de 120.000
 paralelepípedos, usados nos Loteamentos Santa Cruz I e II.
@@ -41,6 +42,7 @@ paralelepípedos, usados nos Loteamentos Santa Cruz I e II.
 Art. 2.º - Fica fazendo parte integrante da presente lei municipal, fotocópia
 da proposta de acordo de composição de dívidas, cálculos da Contadoria do Forum local e
 comprovante de preços da unidade de paralelepípedos.
+
 Parágrafo único - Os valores constantes na proposta de que trata o caput
 deste artigo, serão atualizados até a data que seja firmado o acordo ora autorizado.
 

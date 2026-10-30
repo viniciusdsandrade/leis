@@ -36,13 +36,16 @@ Art. 1.º - Fica o Poder Executivo Municipal autorizado a proceder
 perfuração de poço artesiano, na Vila Sabia em Nova Prata, até 92 (noventa e dois)
 metros de profundidade, ao preço unitário de R$30,00 (trinta reais) o metro, totalizando
 o valor máximo de R$2.760,00 (dois mil, setecentos e sessenta reais).
+
 Parágrafo único – Os serviços de geologia e o projeto básico do poço
 artesiano, serão de responsabilidade da empresa a ser contratada. O Poder Executivo se
 compromete até a perfuração total do poço, sendo que os interessados arcarão com as
 demais despesas.
+
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a ceder o poço
 artesiano em caráter definitivo para a Comunidade da Vila Sabia, onde servirá para o
 fim descrito no Artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do
 Município, realizará fiscalização nas obras.
 
@@ -51,6 +54,7 @@ Municipal, correrão por conta de dotação orçamentária, classificada sob có
 Secretaria da Agricultura e Abastecimento; 01 - Unidades Subordinadas;
 04070211.025 - Programas de Poços Artesianos; 3.1.3.2 - Outros Serviços e Encargos
 (159).
+
 Art. 4.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 

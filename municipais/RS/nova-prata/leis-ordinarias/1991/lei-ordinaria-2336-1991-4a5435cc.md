@@ -32,13 +32,16 @@ Art. 1.º - O produto obtido na reciclagem de lixo ignorância, pelo sistema
 de separação da usina instalada pelo Município, será alienado através de doação à
 Associação Casa da Cultura de Nova Prata e Associação Beneficente de Nova Prata
 (ABEN).
+
 Art. 2º - As entidades donatárias disporão do produto reciclado para uso
 em suas atividades, podendo inclusive comercializá-lo para fins de obter renda que
 deverá ser aplicada na própria associação.
 Parágrafo Único - Quaisquer encargos decorrentes da comercialização do
 produto reciclado, será de responsabilidade das entidades donatárias.
+
 Art. 3º - A Prefeitura Municipal auxiliará também as entidades no
 transporte do produto reciclado.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

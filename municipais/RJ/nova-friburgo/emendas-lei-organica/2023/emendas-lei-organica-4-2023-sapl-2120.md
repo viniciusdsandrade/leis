@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/2120"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2023/2120/emenda_4_lo.2018.doc"
 sha256_fonte: "0dd0890351f1ba48a065af360fa7c543ccd658b138f9f91d5fa4069bd778a96d"
-sha256_texto: "b516cacdc9677e7791a28c25e11cdcee1d5b95e8af60654301e314854976ef35"
+sha256_texto: "3a45e286a3173c002d28b36630fec2af0a824730980d0e4fef01a1a910d75ab2"
 baixado_em: "2026-10-30"
 ---
 
@@ -48,8 +48,4 @@ Nova Friburgo, 06 de setembro de 2023.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereadora Vanderléia Pereira Lima - 2º Secretária***
 
 **AUTORIA: TODOS OS VEREADORES – PEMLO 04/2023**
-
-EM LOM 2 Página PAGE 2
-
-EM LOM 4 Página PAGE 1
 

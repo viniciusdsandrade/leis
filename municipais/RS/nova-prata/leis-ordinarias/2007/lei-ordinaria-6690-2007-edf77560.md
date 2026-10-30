@@ -47,11 +47,13 @@ Art. 2.º - Para garantia do principal e encargos da operação de crédito,
 fica o Poder Executivo autorizado a ceder ou vincular em garantia, em caráter
 irrevogável e irretratável, a modo pro solvendo as receitas a que se refere o artigo 159,
 inciso I da Constituição Federal.
+
 § 1º - Para a efetivação da cessão ou vinculação em garantia dos recursos
 previstos no caput deste artigo fica o Banco do Brasil S/A, autorizado a transferir os
 recursos cedidos ou vinculados à conta e ordem do BNDES, nos montantes necessários
 à amortização da dívida nos prazos contratualmente estipulados, em caso de cessão, ou
 ao pagamento dos débitos vencidos e não pagos, em caso de vinculação.
+
 § 2º - Fica o Poder Executivo obrigado a promover o empenho das
 despesas nos montantes necessários à amortização da dívida nos prazos contratualmente
 estipulados, para cada um dos exercícios financeiros em que se efetuar as amortizações

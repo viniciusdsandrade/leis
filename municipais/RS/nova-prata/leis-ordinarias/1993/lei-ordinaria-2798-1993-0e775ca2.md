@@ -25,14 +25,18 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É concedido a Subvenção ao C.T.G "Os Maragatos", no valor de
 Cr$ 8.000.000,00 (oito milhões de cruzeiros), para pagamento das despesas do Torneio
 de Laço de 18.04.93.
+
 Art. 2º ‑ A Entidade ora subvencionada obriga‑se a prestar contas dos
 recursos concedidos no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta lei correrão por
 conta de rubrica orçamentária: 0501.08482472.022 ‑ Apoio Financeiro à Entidades
 Culturais; 3.2.3.1 ‑ Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

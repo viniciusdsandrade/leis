@@ -29,19 +29,24 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder subvenção À
 Câmara de Indústria e Comércio de Nova Prata e a celebrar Convênio, na forma
 estabelecida pelo Art. 116, da Lei Federal Nº 8.666, de 21 de junho de 1993.
+
 Art. 2º - O valor da Subvenção será de CR$ 300.000,00 ( trezentos mil
 cruzeiros reais), e deverá ser aplicado, exclusivamente , na finalidade prevista na
 minuta do Convênio, que passa a fazer parte integrante da presente Lei.
+
 Art. 3º - A concessão da Subvenção pelo Município ficará condicionada à
 apresentação do PLANO DE TRABALHO E DE APLICAÇÃO por parte da entidade
 interessada e à sua aprovação antecipada pelo Poder Executivo, assim como, à
 celebração do respectivo Convênio.
+
 Art. 4º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 02 - Gabinete do Prefeito; 03070202.002 - Manutenção
 da Atividade do Gabinete do Prefeito; 3.2.3.1 - Subvenção Sociais.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua aplicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -89,14 +94,17 @@ Subvenção, se o CONSELHO deixar de apresentar o PLANO DE TRABALHO E DE
 APLICAÇÃO ou na hipótese de não ser aprovado pelo órgão competente do Executivo.
 Parágrafo Único - Constituirá motivo para a suspensão do repasse da
 Subvenção pelo Município.
+
 a) quando não houver comprovação da boa e regular
 aplicação da parcela anteriormente recebida, na forma da Legislação a aplicável
 inclusive mediante procedimentos e fiscalização local, realizados, periodicamente pelo
 Município;
+
 b) quando verificado desvio da finalidade na aplicação dos
 recursos, práticas atentatórias aos princípios fundamentais de Administração Pública,
 nas contratações e demais atos praticados na execução deste Convênio, ou o
 inadimplemento de qualquer obrigação estabelecida por cláusulas conveniais básicas;
+
 c) quando a entidade convenente deixar de adotar as medidas saneadoras
 apontadas pelo Município repassador da Subvenção.
 CLÁUSULA NONA - Será feito o repasse financeiro em 02 (duas)

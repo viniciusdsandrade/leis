@@ -63,13 +63,17 @@ dotações anexas.
 
 Art. 3º - Ë o Poder Executivo Municipal, de conformidade com a Lei
 4320/64, autorizado a:
+
 I - Abrir, durante o exercício, créditos suplementares até o limite de 5%
 (cinco por cento) da despesa total autorizada.
+
 II - Realizar remanejamento de dotações orçamentárias dentro do mesmo
 Projeto ou Atividade.
+
 III - Realizar em qualquer mês do exercício financeiro operações de
 crédito por antecipação da receita para atender insuficiência de caixa, até o limite de 1%
 (um por cento).
+
 IV - Dentro do mesmo elemento de despesa, abrir, por Decreto do
 Executivo, novos sub-elementos que se fizerem necessários.
 

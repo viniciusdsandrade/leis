@@ -31,11 +31,14 @@ Art. 1º ‑ É concedida uma Subvenção a Liga Cultural Pratense de
 Bochas, no valor de Cr$ 2.000.000,00 (dois mi1hões de cruzeiros), para pagamento de
 despesas de viagem e acomodações com a 5ª Festa Campeira, nos dias 19 a 21 do
 corrente, na cidade de Palmeiras das Missões.
+
 Art. 2º ‑ A entidade ora subvencionada fica obrigada a prestar contas da
 Subvenção recebida no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta lei correrão por
 conta de rubrica orçamentária: 08462242.019 ‑ Esporte Amador; 3.2.3.1 ‑ Subvenções
 Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

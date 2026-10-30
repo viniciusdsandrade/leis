@@ -50,6 +50,7 @@ Municipal, correrão por conta de dotação orçamentária, classificada sob có
 Secretaria de Educação e Cultura; 01 - Unidades Subordinadas; 08421882.030 - Apoio
 Financeiro a Entidade Cultural Educacional Beneficente e Filantrópica; 3.2.3.1 -
 Subvenções Sociais(111).
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 

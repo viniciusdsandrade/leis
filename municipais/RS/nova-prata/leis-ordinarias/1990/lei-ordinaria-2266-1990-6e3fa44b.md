@@ -33,6 +33,7 @@ de São João Batista e Nossa Senhora Aparecida de Nova Prata, que passa a ter a
 seguinte redação:
 “Art. 3º - O prazo para execução do contido nesta lei é por tempo
 indeterminado”.
+
 Art. 2º - É revogada a disposição contida no artigo 4º da referida Lei.
 
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em

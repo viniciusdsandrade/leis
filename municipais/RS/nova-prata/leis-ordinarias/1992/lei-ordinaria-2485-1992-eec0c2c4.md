@@ -26,9 +26,11 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É o Executivo Municipal autorizado a abrir um crédito
 suplementar na importância de Cr$ 3.000.000,00 (três milhões de cruzeiros), destinados
 a atender dotações orçamentárias.
+
 Art. 2º - O crédito suplementar ora autorizados, receberá a seguinte
 classificação:
 05 - Secretaria de Educação e Cultura
@@ -46,6 +48,7 @@ classificação:
 Art. 3.º - Servirá de recursos para dar cobertura ao crédito suplementar
 acima citado, a transferência de verba da Secretaria de Educação e Cultura do Estado do
 Rio Grande do Sul, no valor de Cr$ 3.000.000,00.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

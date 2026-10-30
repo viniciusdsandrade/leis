@@ -33,26 +33,47 @@ públicos, que o Poder Executivo nominará e identificará mediante Decreto Exec
 aprovação dos projetos de loteamentos.
 
 Art. 2.º - O banco de dados, é composto pelos seguintes nomes:
+
 I - Paraná;
+
 II - Rio de Janeiro;
+
 III - São Paulo;
+
 IV - Goiás;
+
 V - Brasília;
+
 VI - Pernambuco;
+
 VII - Espirito Santo;
+
 VIII - Amazonas;
+
 IX - Ceará;
+
 X - Minas Gerais;
+
 XI - Floresta;
+
 XII - Cruzeiro;
+
 XIII - Piratini;
+
 XIV - República;
+
 XV - Das Nações;
+
 XVI - Alvorada;
+
 XVII - Riachuelo;
+
 XVIII - Antonio Grisa;
+
 XIX - Arturo Ghidini;
+
 XX - Domingos Rissi;
+
 XXI - Valdemar Colla.
 
 Parágrafo Único – Os nomes constantes desta relação, poderão ser utilizados sob forma

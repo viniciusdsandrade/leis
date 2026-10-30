@@ -38,6 +38,7 @@ o Instituto Filantrópico Evangélico - LAR ESPERANÇA de Guaporé, inscrito no 
 do sexo feminino encaminhadas pela Secretaria Municipal de Assistência Social, Conselho
 Tutelar de Nova Prata ou Ministério Público, que estejam em situação de desamparados ou em
 situação de risco.
+
 Parágrafo único - O prazo do convênio é até o final do exercício financeiro de
 2003, podendo ser prorrogado até o final de 2004, desde que haja interesse das partes.
 

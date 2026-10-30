@@ -31,9 +31,11 @@ Art. 1.º - É concedido um auxílio financeiro à Rosani Brezezinski Rui,
 residente na Linha Bento Gonçalves, neste Município, no valor de Cr$ 80.000,00
 (Oitenta mil cruzeiros), para custeio e reembolso de despesas com anestesia decorrente
 de cezariana.
+
 Art. 2.º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária: 0801.13754282.038 - Assistência Médica a População; 3.2.5.9 - Outras
 Transferências a Pessoas.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

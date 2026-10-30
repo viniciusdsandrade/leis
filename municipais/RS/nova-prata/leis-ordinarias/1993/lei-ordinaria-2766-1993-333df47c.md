@@ -31,6 +31,7 @@ passa a ter a seguinte redação:
 "Art. 1º ‑ Fica o Executivo Municipal autorizado a doar à Empresa
 Polidora de Basalto Calcada Ltda., uma área de terras com 1.478,00m2 (um mil,
 quatrocentos e setenta e oito metros quadrados), para instalação de Indústria."
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

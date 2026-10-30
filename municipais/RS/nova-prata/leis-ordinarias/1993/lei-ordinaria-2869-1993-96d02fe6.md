@@ -32,11 +32,14 @@ BPM “BTL CEL. SOBRAL” - 3ª CIA PM - 3º Pel. PM, desta cidade no valor de C
 12.300.000,00 (doze milhões e trezentos mil cruzeiros), para pagamento das despesas
 referentes a compra de 2 (dois) pneus dianteiros da VTR BM 1058 da Brigada Militar
 de Nova Prata e compra e instalação de um aquecedor para veículo na mesma viatura.
+
 Art. 2º - A Brigada Militar ora subvencionada fica obrigada a prestar
 contas da Subvenção recebida no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 06301772.006 - Auxílio a Brigada Militar do Município;
 3.2.3.1 - Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

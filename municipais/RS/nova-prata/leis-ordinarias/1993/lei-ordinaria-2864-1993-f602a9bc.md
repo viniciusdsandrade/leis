@@ -33,9 +33,11 @@ despesas coma a realização da Prova de Quilometro de Arrancada, no Autódromo
 Internacional de Guaporé, no dia 20 de maio de 1993.
 Ar. 2º - A Entidade ora subvencionada obriga-se a prestar contas dos
 recursos recebidos no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 08462242.019 - Esporte Amador; 3.2.3.1 - Subvenções
 Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

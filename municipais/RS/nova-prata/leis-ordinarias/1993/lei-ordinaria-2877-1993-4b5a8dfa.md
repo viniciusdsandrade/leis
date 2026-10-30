@@ -32,9 +32,11 @@ Art. 1º ‑ É autorizado um auxílio financeiro ao Grupo do Lar da Fazenda
 do Herval, Distrito de Rio Branco, Neste Município, no valor de Cr$ 1.800.000,00 (um
 milhão e oitocentos mil cruzeiros), para pagamento de despesas com a realização de um
 Curso para fabricação de queijo, que será realizado no dia 23 de junho de 1993.
+
 Art. 2º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 08421882.009 - Manutenção e Desenvolvimento do
 Ensino Fundamental; 3.1.3.2 - Outros Serviços e Encargos.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

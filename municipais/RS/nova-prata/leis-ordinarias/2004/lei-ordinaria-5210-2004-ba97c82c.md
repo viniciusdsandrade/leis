@@ -33,19 +33,23 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica instituído, no âmbito deste município, o Programa de
 Apoio a Irrigação, Abastecimento, Tratamento e Perfuração de Poços em Nova Prata,
 coordenado pela Secretaria Municipal de Agricultura e Abastecimento.
+
 § 1.º - O Programa de que trata o caput deste artigo, consiste na
 Construção de Redes de Água nas Capelas do Interior do Município, para suprir as
 necessidades de falta de água para irrigação, abastecimento para consumo humano e
 animais (aviários e pocilgas), como também melhor qualidade de vida no que diz
 respeito a potabilidade da água.
+
 § 2.º - O Programa disponibilizará o valor de até R$25.000,00 (vinte e
 cinco mil reais) para cada Projeto de rede de água, a título de contrapartida do
 Município na implantação do programa, possibilitando a implantação das redes de água
 e tratamento previstos em lei.
+
 § 3º - Os valores serão repassados aos proprietários habilitados no
 programa, mediante apresentação de notas fiscais, com a devida descriminação do
 material ou serviço prestado, conferindo com o projeto técnico de investimento
 apresentado ao Poder Executivo Municipal.
+
 § 4.° - Todas obras de programa será acompanhada e fiscalizada pela
 Secretaria Municipal de Agricultura e Abastecimento, através de relatos e registro
 fotográfico, para devida comprovação das etapas do mesmo.
@@ -53,6 +57,7 @@ fotográfico, para devida comprovação das etapas do mesmo.
 Art. 2.º - As comunidades a serem beneficiados com o programa de que
 trata o artigo anterior, deverão cumprir as seguintes exigências, as quais serão
 analisadas pela Secretaria Municipal de Agricultura e Abastecimento:
+
 I – A construção e tratamento das redes de água deverão ser
 acompanhadas por técnicos e empresas habilitadas pelo Ministério da Saúde,
 coordenado pela Secretaria Municipal de Agricultura e Abastecimento, para as
@@ -63,24 +68,30 @@ instalações de Unidades de tratamento e redes hídricas.
 II – As comunidades a serem beneficiadas pelo programa ora criado
 deverão apresentar na Secretaria Municipal de Agricultura e Abastecimento, projeto
 técnico da obra.
+
 III – Deverá ser apresentado a Secretaria Municipal de Agricultura e
 Abastecimento, fotocópia da documentação da empresa e técnico responsável pela
 assistência técnica da unidade de tratamento da rede de água.
+
 IV – As comunidades interessadas terão 6 (seis) meses para se inscrever
 neste programa, o qual será amplamente divulgado pelo Poder Público Municipal.
+
 V – As comunidades que não forem contemplados agora, permanecerão
 num banco de dados a ser criado pela Secretaria Municipal de Agricultura e
 Abastecimento que serão chamados posteriormente ao prazo estipulado, mediante
 pedido protocolado na Prefeitura pelas comunidades.
+
 VI – As comunidades serão atendidas pela ordem dos pedidos
 protocolados no Poder Público.
 
 Art. 3.º - Os valores deverão ser devolvidos pelos proprietários, no caso
 do descumprimento de suas obrigações, o que será fiscalizado e certificado, se for o
 caso, pela Secretaria responsável pelo programa.
+
 § 1.º - Ocorrendo o constante no caput deste artigo, os valores deverão
 ser devolvidos no prazo de 10 (dez) dias, contados da Notificação da comunidade,
 devidamente corrigidos pela variação do IGP-M e acrescidos de juros de 0,5% am.
+
 § 2.º - Fica garantido o direito de ampla defesa a comunidade, com
 possibilidade de recurso ao Gabinete do Prefeito Municipal.
 

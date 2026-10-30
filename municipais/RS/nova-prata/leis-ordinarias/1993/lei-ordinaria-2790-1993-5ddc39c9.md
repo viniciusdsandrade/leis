@@ -35,6 +35,7 @@ seguintes:
 seleção será feita através da Secretaria Municipal de Saúde e Meio Ambiente, que
 manterá um cadastro próprio e abrirá processo para cada caso com o histórico
 respectivo, o qual irá a despacho do Prefeito Municipal.
+
 Art. 3º ‑ Para efeitos dessa Lei, considera‑se carente, o Munícipe cuja
 renda familiar seja de até 1,5 (um e meio) salários mínimo, verificada através de
 levantamento social expedido na forma do artigo anterior."

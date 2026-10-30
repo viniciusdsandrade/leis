@@ -36,6 +36,7 @@ Art. 1.º - Fica o Poder Executivo Municipal autorizado a proceder
 perfuração de poço artesiano, na Comunidade da Fazenda da Pratinha em Nova Prata,
 até 80 (oitenta) metros de profundidade, ao preço unitário de R$45,00 (quarenta e cinco
 reais) o metro, totalizando o valor máximo de R$ 3.600,00 (três mil e seiscentos reais).
+
 Parágrafo único – Os serviços de geologia e o projeto básico do poço
 artesiano, serão de responsabilidade da empresa a ser contratada. O Poder Executivo se
 compromete até a perfuração total do poço, sendo que os interessados arcarão com as
@@ -44,6 +45,7 @@ demais despesas.
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a ceder o poço
 artesiano em caráter definitivo para a Comunidade da Fazenda da Pratinha, onde servirá
 para o fim descrito no Artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do
 Município, realizará fiscalização nas obras.
 

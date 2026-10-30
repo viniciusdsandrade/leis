@@ -37,6 +37,7 @@ com a Comunidade Terapêutica Centro Vita de Caxias do Sul, inscrito no CNPJ sob
 92.873.967/0001-04, com a finalidade de assegurar 5 (cinco) vagas para abrigamento de
 crianças ou adolescentes de ambos os sexos encaminhadas pela Secretaria Municipal de
 Assistência Social, Conselho Tutelar de Nova Prata ou Ministério Público.
+
 Parágrafo único - O prazo do convênio é até o final do exercício
 financeiro de 2004, podendo ser prorrogado até o final de 2005, desde que haja interesse
 das partes.

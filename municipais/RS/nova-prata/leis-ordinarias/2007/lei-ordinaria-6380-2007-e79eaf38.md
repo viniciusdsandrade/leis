@@ -27,6 +27,7 @@ MUNICIPAL DE NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica autorizado ao Poder Executivo Municipal a abrir crédito
 adicional suplementar no orçamento vigente, por redução orçamentária, no valor de R$
 180.000,00 (Cento e Oitenta Mil Reais), na seguinte classificação orçamentária:

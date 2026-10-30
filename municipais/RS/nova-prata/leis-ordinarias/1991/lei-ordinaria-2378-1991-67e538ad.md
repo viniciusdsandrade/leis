@@ -30,6 +30,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1º - É isento do pagamento de Imposto Predial e Territorial Urbano
 (IPTU) devido ao Município pelo Contribuinte Cine Lux Ltda. referente ao exercício de
 1991.
+
 Parágrafo único - É isento o mesmo Contribuinte, do pagamento de
 qualquer encargos que porventura incidirem sobre o mesmo débito.
 

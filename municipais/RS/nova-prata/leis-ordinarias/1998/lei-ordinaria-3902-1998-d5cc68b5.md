@@ -35,9 +35,13 @@ Art. 1.º - Fica o Poder Executivo Municipal autorizado a conceder auxílio
 financeiro a pessoas carentes do Município, nos valores que específica, com objetivo de
 auxiliar no pagamento do medicamento ROVAMICINA 1.500 mg, as seguintes
 cidadãs:
+
 I - Neiva C. Petrikoski, valor de R$304,50;
+
 II - Maria Alice T. Dias, valor de R$304,50;
+
 III - Lucilene Farina, valor de R$345,10.
+
 Parágrafo único - Os valores correspondem ao menor preço cotado nas
 Farmácias existentes no Município de Nova Prata, conforme levantamento de preços
 realizado pela Secretaria Municipal de Saúde e Meio Ambiente, que fica fazendo parte

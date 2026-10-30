@@ -43,6 +43,7 @@ Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar subvenção 
 Associação dos Universitários Pratenses, no valor de R$9.840,00 (nove mil, oitocentos e
 quarenta reais) e autorizado a repassar subvenção a União Acadêmicos Pratenses, no valor de
 R$10.160,00 (dez mil, cento e sessenta reais).
+
 Parágrafo único - O repasse a AUPRA, será em oito parcelas de R$1.230,00 e o
 repasse a UNAP, será em oito parcelas de R$1.270,00, ambos a partir do mês de março de 1999,
 repassados até o dia 30 de cada mês.

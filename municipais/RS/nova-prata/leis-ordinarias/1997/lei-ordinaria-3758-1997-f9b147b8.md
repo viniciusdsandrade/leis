@@ -36,6 +36,7 @@ Art. 1º - Fica o Poder Executivo Municipal, autorizado a ceder a área
 usada pela Avenida Fato Guidini, entre a Avenida Imperatriz Leopoldina e Rua Itália,
 para desenvolvimento de projeto de conservação ambiental na área industrial de Nova
 Prata, a ser realizada pela empresa Borrachas Vipal S/A .
+
 Parágrafo único - Será elaborado um convênio regulamentando o uso da
 área cedida, assim como os procedimentos a serem tomados na adoção da área verde
 correspondente aos pinheiros, de modo a serem respeitados tanto a proposta da empresa

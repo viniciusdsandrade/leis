@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1270"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2016/1270/1270_texto_integral.doc"
 sha256_fonte: "0330b99109a742fa0184946425e1279f12614b6bd2d09accc7192ae4d09c8ec8"
-sha256_texto: "cc4b2055ffe42522ce60e2878206f97b353790f06f17e188c286f82839f2df3c"
+sha256_texto: "4a4f80914c7e956c7fe555acf267ad4b97ba7b00dbe52327af8583704c2bc49f"
 baixado_em: "2026-10-30"
 ---
 
@@ -46,8 +46,4 @@ Nova Friburgo, 22 de setembro de 2016.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Eder Carpi dos Santos - 2º Secretário***
 
 **AUTORIA: VEREADOR PROFESSOR PIERRE – P. 1285/15**
-
-EM LOM 50 Página PAGE 2
-
-EM LOM 53 Página PAGE 1
 

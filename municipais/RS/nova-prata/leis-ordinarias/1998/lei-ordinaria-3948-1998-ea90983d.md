@@ -45,6 +45,7 @@ Art. 3º- Os servidores que forem cedidos, deverão exercer suas atividades,
 cumprindo o horário inerente ao seu cargo, diretamente na ABEN, percebendo a remuneração
 compatível do cargo, cujo pagamento, encargos sociais e promoção, ficam todos a cargo do
 Município.
+
 Art. 4.º - A ABEN, deverá comunicar mensalmente, a efetividade dos
 servidores cedidos, para fins de confecção de folha de pagamento, bem como comunicar
 eventuais ocorrências relativas à vida funcional dos servidores.

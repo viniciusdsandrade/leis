@@ -34,7 +34,9 @@ Lei de Diretrizes Orçamentárias de cada exercício e do orçamento anual.
 
 Art. 2º - Integram o anexo de metas prioritárias na presente Lei, de
 acordo com o § 1º do art. 165 da Constituição Federal, os programas relativos:
+
 a) às despesas de capital;
+
 b) às delas decorrentes; e
 c) aos de duração continuada.
 

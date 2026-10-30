@@ -30,9 +30,11 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizada a cedência de um funcionário público
 municipal ao Posto do Instituto Nacional de Seguridade Social desta cidade, para
 desempenho da função de auxiliar de administração.
+
 Art. 2º - A cedência a que se refere o artigo anterior é pelo prazo certo de
 1 (um) ano, podendo ser renovada por igual período, observadas as disponibilidades do
 Município e a necessidade do INSS.
+
 Art. 3.º - O funcionário ora cedido desempenhará as mesmas funções de
 Auxiliar de Administração no órgão cessionário percebendo a mesma remuneração do
 cargo, cujo pagamento, encargos sociais e promoção ficam de total responsabilidade do
@@ -41,9 +43,11 @@ Parágrafo Único - O funcionário cedido poderá ainda perceber
 remuneração equivalente a horas-extras de trabalho eventualmente prestadas,
 atendendo às necessidades e convocação do INSS, que também serão pagas pelo
 Município cedente.
+
 Art. 4.º - O INSS fica obrigado, durante o período de cedência com ônus
 para o Município, para os fins do Parágrafo Único do artigo anterior, e outras
 ocorrências relativas à vida funcional.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entra em vigor
 na data de sua publicação.
 

@@ -35,16 +35,20 @@ Cooperativa - Escola dos Alunos da Escola Agrotécnica Federal de Bento Gonçalv
 Ltda, para manutenção de alunos procedentes deste Município, no ano letivo de 1992, e
 que são: Márcio Dalmás, Eudes M. Petrikoski, Demétrio Comachio, Gilson E. Stella,
 Fernando Marchesini, Luiz Fernando Ponzoni, Fábio Catani e Francisco José Martins.
+
 Art. 2.º - Fica autorizado também, para cumprimento do referido
 convênio, o pagamento de uma Subvenção no valor de Cr$ 141.000,00 (cento e
 quarenta e um mil cruzeiros), fixado para o mês de março/92, para cada aluno inscrito,
 cujo pagamento o será diretamente a crédito da Cooperativa.
+
 Art. 3.º - Pelo benefício recebido, os alunos subvencionados prestarão
 serviços de assistência técnica na área agrícola, ao Município de Nova Prata, sem
 qualquer ônus, durante o período de férias, quando for requisitado à Escola.
+
 Art. 4º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 03070202.002 - Manutenção das Atividades do Gabinete
 do Prefeito; 3.2.3.1 - Subvenções Sociais.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

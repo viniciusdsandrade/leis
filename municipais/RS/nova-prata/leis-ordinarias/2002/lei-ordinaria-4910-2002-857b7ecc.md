@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1º - Fica autorizado o Poder Executivo Municipal a quitar o
 parcelamento nº 55.734.541-3, contraído junto ao Instituto Nacional do Seguro Social -
 INSS.
+
 Parágrafo único - A quitação deverá ocorrer até o dia 29 de novembro de
 2002, no valor de R$22.737,36 (vinte e dois mil, setecentos e trinta e sete reais e trinta e
 seis centavos), em vista do benefício instituído pela Medida Provisória nº 75, de 24 de

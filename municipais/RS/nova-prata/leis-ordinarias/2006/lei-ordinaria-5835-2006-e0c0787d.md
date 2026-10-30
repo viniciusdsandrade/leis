@@ -43,6 +43,7 @@ subvenção a Banda Municipal de Integração Estudantil - BANMIES, no valor tot
 R$33.000,00 (trinta e três mil reais), para possibilitar o objetivo declinado no artigo
 anterior, os quais serão repassados em parcelas mensais, a contar do mês de fevereiro a
 dezembro de 2006, em parcelas mensais no valor de R$ 3.000,00 (três mil reais).
+
 Parágrafo único - Os valores serão usados para pagamento de instrutores
 e os encargos incidentes, manutenção de instrumentos, adquirir uniformes e materiais
 necessários, bem como custeio de transporte dos membros da BANMIES.

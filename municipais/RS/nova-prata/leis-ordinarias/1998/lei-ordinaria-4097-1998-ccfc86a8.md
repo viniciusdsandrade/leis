@@ -33,6 +33,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a doar a empresa Yoki
 Alimentos Ltda, duas áreas de terras constantes do Decreto Executivo N.º 2252/98 de 20 de
 julho de 1998, conforme descrição a seguir:
+
 a) Uma área de terras, com 44.000,00 (quarenta e quatro mil metros quadrados).
 Matriculado sob N.º 3473 do Registro de Imóveis de Nova Prata, desapropriada pelo Decreto
 Executivo N.º 2252, de 20 de julho de 1998, dentro de uma área maior, assim descrita o todo:
@@ -42,6 +43,7 @@ Acco, João Martignoni, Emilio Pocai e a Linha Bento Gonçalves; ao Sul, com Uli
 Antonio Alcides e Nelson Pandolfo; a LESTE, com o Rio Retiro e com João Ghellere Sobrinho,
 com a Mitra Diocesana de Caxias do Sul e com a estrada geral Buarque de Macedo, e ao
 OESTE, com Emilio Pocai.
+
 b) Uma área de terras com 70.000,00 (setenta mil metros quadrados),
 Matriculado sob N.º 5352 do Registro de Imóveis de Nova Prata, desapropriada pelo Decreto
 Executivo N.º 2252, de 20 de julho de 1998, dentro de uma área maior, assim descrita o todo:

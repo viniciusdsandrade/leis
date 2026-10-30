@@ -38,6 +38,7 @@ exercício seguinte.
 Artigo 2º O Pagamento das dívidas de natureza não tributárias pagas após
 o vencimento, além da correção monetária instituída no artigo primeiro, terá a incidência
 de:
+
 I - Multa de 2% (dois por cento) sobre o valor da dívida corrigida.
 
 II - Juros de 1% (um por cento) ao mês, sobre o valor corrigido, devidos a

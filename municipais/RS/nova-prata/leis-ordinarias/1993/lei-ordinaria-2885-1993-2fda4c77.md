@@ -35,12 +35,14 @@ especial na seguinte unidade orçamentária:
 3.2.3.0 ‑ Transferências a Inst. Privadas................................................Cr$ 20.000.000,00
 - total.........................................................................................Cr$ 20.000.000,00
 (vinte milhões de cruzeiros).
+
 Art. 2º ‑ Servirá de recursos para dar cobertura ao crédito especial acima
 citado, a transferência de verba da seguinte unidade orçamentária:
 0901.11650212.O4l ‑ Manutenção Desenvolvimento das Atividades da Secretaria
 3.1.3.2 ‑ Outros Serviços e Encargos .................................................Cr$ 20.000.000,00
 - total.......................................................................................Cr$ 20.000.000,00
 (vinte milhões de cruzeiros).
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

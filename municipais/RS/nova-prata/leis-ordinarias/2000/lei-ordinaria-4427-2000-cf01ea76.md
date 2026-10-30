@@ -34,6 +34,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a participar do
 REPRODER - Programa de Emprego e Renda, de responsabilidade do SEBRAE,
 conforme Ofício dirigido pelo Senhor Diretor-Superintendente da referida Entidade.
+
 Parágrafo único - Fica autorizado o Chefe do Poder Executivo, a firmar
 convênio com o SEBRAE, para possibilitar a concretização do programa, de que trata o
 caput deste Artigo.

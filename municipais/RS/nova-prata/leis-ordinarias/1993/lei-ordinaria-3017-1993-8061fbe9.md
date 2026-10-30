@@ -28,6 +28,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a dipender recursos
 municipais até o valor de Cr$ 40.000,00 (quarenta mil cruzeiros reais) pra a realização da
 promoção conjunta do Município com o Automóvel Clube de Nova Prata, que se realizará
@@ -60,6 +61,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a conceder auxílio
 financeiro a 28 estudantes do Curso Técnico em Contabilidade do Colégio Nossa Senhora
 Aparecida, nesta cidade.

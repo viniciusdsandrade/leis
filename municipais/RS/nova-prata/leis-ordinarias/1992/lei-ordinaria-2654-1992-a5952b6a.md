@@ -26,13 +26,16 @@ PRATA.
 
 Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1.º - É concedido um auxílio financeiro a Altamiro Vuelma, no valor
 de Cr$ 100.000,00 (cem mil cruzeiros), para pagamento e reembolso de despesas com
 anestesia e tratamento médico decorrentes de parto de gêmeos de sua esposa Salete
 Vuelma.
+
 Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 - Assistência Médica a População;
 3.2.5.9 - Outras Transferências a Pessoas.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -49,13 +52,16 @@ NOVA PRATA.
 
 Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1.º - É concedido um auxílio financeiro ao Sr. Zeferino Angelo
 Baccarin, residente na Capela de Santo Isidoro, Neste Município, no valor de Cr$
 13.450,00 (treze mil quatrocentas e cinquenta cruzeiros), para custeio de despesas
 relativas à aquisição e adaptação de um colete ortopédico fornecido pela Ortopedia
 Wernick - Indústria de Aparelhos Ortopédicos.
+
 Art. 2.º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária própria.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -35,15 +35,18 @@ providências, passam a vigorar com as seguintes alterações:
 Prefeito nas funções políticas, administrativas, sociais e de cerimonial e, especialmente,
 as de relações públicas e representação.
 Parágrafo Único - Integram o Gabinete do Prefeito:
+
 I - Assessoria de Gabinete
 II - Motorista do Prefeito
 Art. 6º - ...
 Parágrafo Único - Integram a Coordenadoria de Supervisão e
 Planejamento:
+
 I - Equipe de Coordenação e Assistência
 II - Equipe de Supervisão e Planejamento
 Art. 7.º - ...
 Parágrafo Único - Integram a Secretaria de Administração:
+
 I - Equipe de Compras
 II - Equipe de Licitações
 III - Equipe de Almoxarifado
@@ -52,6 +55,7 @@ V - Equipe de Pessoal.
 
 Art. 10 - ...
 Parágrafo Único - Integram a Secretaria de Obras e Saneamento:
+
 I - Núcleo de Serviços Urbanos
 II - Núcleo de Serviços Rodoviários
 III - Equipe de Obras Públicas
@@ -65,21 +69,25 @@ VII - Equipe de Iluminação, Telefonia e Abastecimento de Água
 VIII - Núcleo de Manutenção de Veículos
 Art. 11 - ...
 Parágrafo Único - Integram a Secretaria de Educação e Cultura:
+
 I - Equipe de Educação
 II - Equipe de Cultura
 III - Equipe de Atividades Artísticas
 Art. 12 - ...
 Parágrafo Único - Integram a Secretaria de habitação e Bem Estar Social:
+
 I - Equipe de Habitação
 II - Núcleo de Bem Estar Social
 III - Setor de Creches
 Art. 13 - ...
 Parágrafo Único - Integram a secretaria de Agricultura e Abastecimento:
+
 I - Equipe de Fomento e Inspeção Pecuária
 II - Núcleo de Silvicultura
 III - Núcleo de Assistência Técnica e Abastecimento
 Art. 14 - ...
 Parágrafo Único - Integram a Secretaria da Saúde e Meio Ambiente:
+
 I - Equipe de Saúde
 II - Equipe de Meio Ambiente
 III - Núcleo de Assistência à Saúde no Interior.”

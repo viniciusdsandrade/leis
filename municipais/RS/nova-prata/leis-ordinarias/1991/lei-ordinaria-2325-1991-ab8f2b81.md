@@ -35,6 +35,7 @@ sem fins lucrativos, reconhecidas de utilidade pública nas áreas de saúde, ed
 assistência social, comunitárias, esportivas e culturais estabelecidas no Município, cuja
 distribuição de auxílio será submetida à apreciação de Poder Legislativo
 tempestivamente.”
+
 Art. 2º - Revogadas as disposições em contrário esta Lei entrará em vigor
 na data de sua publicação.
 

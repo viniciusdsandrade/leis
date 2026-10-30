@@ -44,6 +44,7 @@ movimentação na forma de seu Regimento Interno.
 Par. 2.º - A realização dos atos previstos no caput deste artigo e no
 parágrafo anterior, ficam vinculados ao interesse do Município e a disponibilidade do
 erário.
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na de sua publicação.
 

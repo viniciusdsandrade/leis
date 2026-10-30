@@ -29,11 +29,13 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É autorizado o Poder Executivo Municipal a conceder remissão
 de débitos à Empresa L’Anita Salão de Cabeleireiros e Estética Ltda - ME, do ISSQN -
 Imposto Sobre Serviços de Qualquer Natureza, relativos ao período de janeiro de 1991 à
 setembro de 1996, cujo valor total perfaz R$ 299,46 (duzentos e noventa e nove reais e
 quarenta e seis centavos).
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

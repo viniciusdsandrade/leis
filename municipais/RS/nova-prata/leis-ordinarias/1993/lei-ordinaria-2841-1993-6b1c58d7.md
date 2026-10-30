@@ -28,15 +28,19 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É concedida uma Subvenção ao Grêmio Atlético Literário
 Esportivo Recreativo Assistencial ‑ GALERA, no valor de Cr$ 50.000.000,00
 (cinqüenta milhões de cruzeiros), para pagamento de despesas com a disputa do
 Campeonato Estadual de Futebol de Salão.
+
 Art. 2º ‑ A Entidade ora subvencionada fica obrigada a prestar contas da
 Subvenção recebida no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 08462242.019 ‑ Esporte Amador; 3.2.3.1 ‑ Subvenções
 Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

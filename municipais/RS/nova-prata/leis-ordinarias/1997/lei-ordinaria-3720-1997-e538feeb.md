@@ -34,6 +34,7 @@ Art. 1º - Fica o Poder Executivo Municipal, autorizado a proceder a contrataç�
 temporária de excepcional interesse público, de 30(trinta) pessoas, para exercerem funções de
 operário, pelo prazo de 60(sessenta) dias, podendo ser prorrogado por mais 30(trinta) dias,
 obedecendo-se o prazo máximo previsto no Artigo 234 da Lei Municipal n 2.154/90.
+
 Parágrafo único - A contratação temporária de excepcional interesse público,
 prevista no “caput” deste Artigo, tem como fundamento o Artigo 233, Inciso III da Lei
 Municipal n 2.154/90, caracterizada pelo estado de emergência que se encontra a limpeza

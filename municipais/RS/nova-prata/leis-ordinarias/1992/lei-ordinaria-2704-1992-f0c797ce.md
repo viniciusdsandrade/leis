@@ -27,11 +27,13 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É alterado o parágrafo único do artigo 1º da Lei Municipal n.º
 2579 de 15.07.92, que Autoriza a participação do Município na Obra de Eletrificação
 Rural de Ernesto Borges Vieira e Outros e dá outras providências, passando a constar
 como limite da participação do Município na referida obra, o valor de Cr$
 32.000.000,00, em virtude do reajuste do orçamento inicial para execução da obra.
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

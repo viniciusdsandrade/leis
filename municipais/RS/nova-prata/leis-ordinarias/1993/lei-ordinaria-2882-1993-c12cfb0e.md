@@ -31,11 +31,14 @@ Art. 1º ‑ É concedida uma Subvenção a Brigada Militar CPA/5 ‑ 10º
 BPM “BTL CEL. SOBRAL" ‑ 3ª CIA PM ‑ 3º Pel. PM, desta cidade no valor de Cr$
 10.672.000,00 (dez milhões, seiscentos e setenta e dois mil cruzeiros) para pagamento
 de despesas de consertos na viatura BM 1058, FIAT UNO.
+
 Art. 2º ‑ A Brigada Militar ora subvencionada fica obrigada a prestar
 contas da Subvenção recebida no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 06301772.006 ‑ Auxílio a Brigada Militar do Município;
 3.2.3.1 ‑Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

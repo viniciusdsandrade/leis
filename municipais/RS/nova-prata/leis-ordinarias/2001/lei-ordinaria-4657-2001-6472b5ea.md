@@ -56,6 +56,7 @@ rubrica orçamentária:
 3.1.1.1.01.03 - Remuneração dos Demais Servidores (1)......................................R$ 5.000,00
 Total ......................................................................................................................R$ 5.000,00
 (Cinco Mil Reais).
+
 Art. 3.o - Revogadas as disposições em contrário, esta Lei Municipal entrará
 em vigor na data de sua publicação.
 

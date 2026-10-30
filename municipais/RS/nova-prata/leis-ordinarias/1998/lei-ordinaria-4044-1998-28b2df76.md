@@ -30,6 +30,7 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder remissão
 de dívidas, correspondente a Contribuição de Melhoria, ao Senhor Deniz Zampieron,
 referente ao Edital n. 15/89.
+
 Parágrafo único - O valor da remissão é de R$1.679,23 (um mil, seiscentos
 e setenta e nove reais e vinte e três centavos), conforme comunicação interna, que fica
 fazendo parte integrante da presente Lei Municipal.

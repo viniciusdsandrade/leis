@@ -38,18 +38,26 @@ fazendo parte integrante desta Lei Municipal, nos termos declinados nos artigos 
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a auxiliar as pessoas
 consideradas carentes no Município, na porcentagem de 100% (cem por cento) do valor gasto, nos
 seguintes casos:
+
 I – Laucir Francisco Ramos de Oliveira, o valor de R$72,00 (setenta e dois reais);
+
 II – Juraci Bristot Peres Strapazzon, o valor de R$348,00 (trezentos e quarenta e oito
 reais);
+
 III – João Pelizzaro de Oliveira, o valor de R$20,40 (vinte reais e quarenta centavos);
+
 IV – Julio Adelino E. Machado, o valor de R$350,00 (trezentos e cinqüenta reais);
+
 V – Magali De Paula, o valor de R$50,00 (cinqüenta reais).
 
 Art. 3.º - Fica autorizado o Poder Executivo Municipal, a auxiliar as demais pessoas do
 Município, os quais não se enquadram como carentes, no valor de R$240,00 (duzentos e quarenta reais)
 cada, aos seguintes casos:
+
 I – Dirceu Pimentel;
+
 II – Antonio Moretto;
+
 III – Valdir Zalamena.
 
 Art. 4.º - As despesas decorrentes da execução da presente Lei Municipal, correrão por

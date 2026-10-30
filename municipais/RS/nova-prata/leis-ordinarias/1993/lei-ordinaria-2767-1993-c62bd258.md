@@ -32,8 +32,10 @@ contribuintes Sérgio e Elza Giugno, referente à pavimentação realizada frent
 de sua propriedade, na Estrada Buarque de Macedo, nesta cidade, inclusive os
 acréscimos que porventura existirem sobre o valor lançado, até a data da promulgação
 da presente Lei.
+
 Art. 2º ‑ 0 abono concedido o é por se tratar de contribuintes sem
 condições financeiras para efetuarem o pagamento.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

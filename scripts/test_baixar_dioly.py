@@ -630,6 +630,23 @@ class TestDecretos(unittest.TestCase):
         self.assertNotIn("SÁBADO", achados[0][2])
         self.assertIn("TOTAL GERAL", achados[0][2])
 
+    def test_ocr_le_ordinal_como_NO(self):
+        # DOM 5586/2012, digitalizado: o OCR lê "Nº" como "NO" e o decreto seguinte grudava no anterior
+        segundo = ("DECRETO NO 22.747 de 03 de abril de 2012\n"
+                   "Altera o valor do Auxilio Alimentação.\n"
+                   "O PREFEITO MUNICIPAL DO SALVADOR, CAPITAL DO ESTADO DA BAHIA, no uso de suas atribuições,\n"
+                   "DECRETA:\n"
+                   "Art. 1º Fica alterado o valor do auxílio alimentação.\n"
+                   "GABINETE DO PREFEITO MUNICIPAL DO SALVADOR, em 03 de abril de 2012.\n"
+                   "JOÃO HENRIQUE\n"
+                   "Prefeito\n")
+        txt = DEC_2026.replace("DECRETOS SIMPLES\n", segundo + "DECRETOS SIMPLES\n")
+        achados, _ = blocos_dec(txt)
+        blocos = {(n, a): b for n, a, b in achados}
+        self.assertEqual(sorted(blocos), [("22747", "2012"), ("41680", "2026")])
+        self.assertNotIn("22.747", blocos[("41680", "2026")])
+        self.assertTrue(blocos[("22747", "2012")].startswith("DECRETO NO 22.747"))
+
     def test_retificacao_legislativo_e_citacao_nao_entram(self):
         self.assertEqual(blocos_dec(DEC_RUIDO)[0], [])
 

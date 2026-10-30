@@ -28,6 +28,7 @@ MARIO MINOZZO, NA CONDIÇÃO DE PREFEITO MUNICIPAL
 DE NOVA PRATA.
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar Convênio
 com o Centro de Tradições Gaúchas Querência do Prata, inscrito no CNPJ nº
 91.566.521/0001-66, com sede neste Município, com a finalidade de repasse de verba para a

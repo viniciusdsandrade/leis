@@ -46,6 +46,7 @@ Art. 2.º - A dação em pagamento se dará com débitos referentes a Contribui�
 de Melhoria, conforme Edital N.º 15/89, cujo valor total da dívida no mês de março de 1999, é
 de R$2.517,29 (dois mil, quinhentos e dezessete reais e vinte e nove centavos), o qual poderá
 incidir outros acréscimos legais, tais como custas processuais e honorários advocatícios.
+
 Parágrafo único - o Imóvel a ser recebido em dação em pagamento, foi avaliado
 por Comissão nomeada pela Portaria Municipal n.º 390/98, em R$2.420,66 (dois mil,
 quatrocentos e vinte reais e sessenta e seis centavos), valor este que será o objeto da dação,

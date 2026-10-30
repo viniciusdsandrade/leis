@@ -33,8 +33,10 @@ dá outras providências, que passam a Ter a seguinte redação:
 “Art. 88 - O exercício de atividade em condições de insalubridade,
 assegura ao servidor a percepção de um adicional respectivamente de quinze, dez e
 cinco por cento, segundo a classificação nos graus máximo, médio e mínimo.
+
 Art. 89 - O adicional de periculosidade e penosidade, serão,
 respectivamente, de vinte e dez por cento”.
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

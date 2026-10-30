@@ -35,6 +35,7 @@ Art. 1.º - É aberto um crédito suplementar na importância de Cr$
 3.1.2.0 - Material de Consumo (104) ...................................................Cr$ 15.000.000,00
 - Total ......................................................................................Cr$ 30.000.000,00
 (trinta milhões de cruzeiros).
+
 Art. 2.º - Servirá de recursos para dar cobertura ao crédito suplementar
 de que trata o artigo anterior o superávit financeiro do exercício de 1991 de Cr$
 8.688.366,40 e a redução na rubrica orçamentária:
@@ -42,6 +43,7 @@ de que trata o artigo anterior o superávit financeiro do exercício de 1991 de 
 3.1.1.1 - Pessoal Civil (54) ..................................................................Cr$ 21.311.633,60
 - Total .......................................................................................Cr$ 30.000.000,00
 (trinta milhões de cruzeiros).
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

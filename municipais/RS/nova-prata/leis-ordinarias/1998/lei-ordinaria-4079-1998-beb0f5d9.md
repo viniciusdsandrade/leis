@@ -31,10 +31,14 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1.º - Ficam estabelecidas como datas de feriados municipais, os
 seguintes dias comemorativos:
+
 I - Sexta-feira de paixão, data que será móvel a cada ano;
+
 II - Dia 24 de junho de cada ano, comemorativo a São João;
+
 III - Dia 11 de agosto de cada ano, comemorativo a emancipação
 municipal;
+
 IV - Dia 02 de novembro de cada ano, homenagem ao dia de finados.
 
 Art. 2.º - Ficam revogadas as disposições em contrário, em especial a Lei

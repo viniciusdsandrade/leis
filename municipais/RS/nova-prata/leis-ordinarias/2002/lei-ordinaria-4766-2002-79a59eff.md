@@ -38,6 +38,7 @@ OBJETIVO: Executar o Projeto “Morar Melhor” visando atender diminuir as car�
 locais, pertinentes ao programa, em especial, auxiliar e ou construir redes de água,
 banheiros e moradias a população e todas as demais tarefas inerentes ao projeto de nível
 federal.
+
 Art. 2.º - Fica autorizado a inclusão do projeto especificado no artigo 1º,
 na Lei de Diretrizes Orçamentárias do exercício 2002, sob código de projeto a saber:
 Secretaria de Assistência Social
@@ -46,6 +47,7 @@ OBJETIVO: Executar o Projeto “Morar Melhor” visando atender diminuir as car�
 locais, pertinentes ao programa, em especial, auxiliar e ou construir redes de água,
 banheiros e moradias a população e todas as demais tarefas inerentes ao projeto de nível
 federal.
+
 Art. 3.º - Fica autorizado ao Poder Executivo a abrir crédito especial no
 orçamento vigente, no valor de R$ 103.000,00, sendo R$ 100.000,00 por
 TRANSFERENCIA da União, através da Caixa Econômica Federal - Programa Morar

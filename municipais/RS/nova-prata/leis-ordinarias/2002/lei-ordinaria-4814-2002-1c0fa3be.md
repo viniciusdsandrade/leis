@@ -43,7 +43,9 @@ maneira itinerante, nas vias ou logradouros públicos.
 § 2° - Nas condições mencionadas no parágrafo anterior incluem-se os
 detentores de veículos automotores licenciados pela Prefeitura de Nova Prata que
 atendam às seguintes especificações técnicas:
+
 I - não tenham sido fabricados há mais de 10 (dez) anos;
+
 II - o tanque de combustível dos veículos deve ficar situado em local
 distante da fonte de calor;
 
@@ -75,11 +77,17 @@ para o fim declarado.
 essenciais:
 
 I - número de inscrição;
+
 II - nome do vendedor ambulante;
+
 III - endereço do licenciado;
+
 IV - ramo de atividade;
+
 V - fotografia do licenciado;
+
 VI - data e número do expediente que deu origem ao Licenciamento;
+
 VII - horário em que poderá exercer a atividade;
 
 § 2° - O alvará de licença tem validade somente para um exercício e deve
@@ -137,6 +145,7 @@ II - pelo equipamento utilizado, distinguindo-se os apetrechos de
 transporte manual e o tipo do veículo utilizado;
 
 III - pela forma como será exercido, se itinerante ou estacionado;
+
 IV - pelo prazo de licenciamento, em anual, mensal ou diário, tendo em
 vista o período de validade da licença concedida;
 
@@ -152,6 +161,7 @@ Art. 8° - É proibido ao vendedor ambulante:
 
 I - estacionar nas vias e logradouros públicos, salvo o tempo estritamente
 necessário para efetuar as vendas e ressalvado o disposto no art. 8°;
+
 II - impedir ou dificultar o trânsito, nas vias e nos logradouros públicos;
 
 III - apregoar mercadorias em altas vozes ou molestar transeuntes com o
@@ -163,6 +173,7 @@ utilizado, mercadoria estrangeira entrada ilegalmente no País;
 V - vender, transferir, ceder, emprestar ou alugar seu ponto de comércio;
 
 VI - vender mercadorias que não pertençam no ramo autorizado;
+
 VII - transitar pelos passeios conduzindo cestos ou outros volumes de
 grande porte;
 
@@ -201,6 +212,7 @@ concedidas por prazo superior a 90 (noventa) dias.
 
 Art. 11 - A licença para venda de frutas e outros produtos agrícolas
 típicos do estado, poderá ser concedida mediante autorização.
+
 Art. 12 - Não será concedida licença, para o exercício do comércio
 ambulante em vias e logradouros públicos das seguintes atividades:
 
@@ -212,6 +224,7 @@ aprovados pela Secretaria Municipal da Saúde.
 II - preparo de bebidas ou mistura com xaropes, essências e outros
 produtos ou aromáticos, para obtenção dos líquidos ditos refrigerantes, salvo quando
 permitidos pelo órgão sanitário do Estado;
+
 III - venda fracionada ou a copos de refresco e bebidas refrigerantes;
 
 IV - venda de bebidas alcoólicas salvo para distribuidores e entrega a
@@ -225,10 +238,14 @@ centro da cidade, cujos limites se acham entre as avenidas Borges de Medeiros e
 Presidente Vargas somente poderá ser concedido para as seguintes atividades:
 
 I - venda de jornais e revistas;
+
 II - venda de frutas e verduras;
+
 III - venda de cachorro-quente, pipoca, churros, açúcar centrifugado e
 refeição rápida fornecida para consumo no local;
+
 IV - venda de flores;
+
 V - prestação de serviço por engraxates e fotógrafos;
 
 § 1° - A licença especial para estacionamento, de que trata este artigo,
@@ -260,15 +277,20 @@ Presidente Vargas o licenciamento ordinário para vendedores ambulantes, somente
 poderá ser concedido para o exercício das atividades seguintes:
 
 I - venda de bilhetes;
+
 II - distribuição de mercadorias, proibida a venda a varejo;
+
 III - repartição de pão, leite, doces, gelo, bebidas e vendas a domicílio de
 frutas, verduras e artigos de indústrias domésticas;
+
 IV - venda de sorvete e pipocas.
 
 Art. 15 - Fica proibido o estacionamento de veículo automotor, para
 exercer a atividade de comércio ambulante, na avenida Presidente Vargas.
+
 Art. 16 - A ninguém será concedida mais do que uma licença ou para o
 exercício de qualquer atividade admitida por esta Lei.
+
 § 1° - Quando o comércio for desenvolvido em veículo automotor, será
 concedido 1 (um) alvará ao seu proprietário na para o exercício da atividade em no
 máximo 2 (dois) pontos para o mesmo ramo onde deverá ficar estacionado o veículo,
@@ -291,13 +313,19 @@ recipientes para coletar lixo proveniente do seu negócio.
 Art. 18 - os vendedores ambulantes deverão portar obrigatoriamente
 alvará de saúde fornecida pelo órgão sanitário competente e o número fornecido pela
 repartição da Prefeitura com o respectivo nome.
+
 Art. 19 - O não cumprimento das obrigações decorrentes de qualquer
 dispositivo desta lei e de seu Regulamento implica, dependendo da gravidade da
 infração as seguintes penalidades:
+
 I - advertência;
+
 II - multa;
+
 III - apreensão;
+
 IV - suspensão da atividade;
+
 V - cassação da licença;
 
 Parágrafo Único - Quando o infrator praticar simultaneamente duas ou
@@ -307,13 +335,16 @@ Art. 20 - A pena de advertência será aplicada:
 
 I - por escrito, pelo agente do órgão competente, quando em face das
 circunstâncias, entender involuntária e sem gravidade infração punível com multa;
+
 II - por escrito, quando sendo primário, o infrator decidir o órgão
 competente transformar em advertência a multa prevista para a infração.
 Parágrafo Único - A advertência verbal será obrigatoriamente,
 comunicada ao órgão competente, pelo seu agente, por escrito, com indicação da
 infração cometida.
+
 Art. 21 - As multas serão graduadas, segundo a gravidade da infração,
 dentro dos limites e critérios estabelecidos em lei específica.
+
 § 1° A multa inicial será sempre aplicada no seu grau mínimo no de R$
 80,00 (oitenta reais).
 
@@ -344,9 +375,11 @@ aplicada, quando se tratar de multa, suspensão de atividade ou cassação da li
 Art. 23 - Ao licenciado, punido com cassação da licença, é facultado
 encaminhar pedido de reconsideração, autoridade que o puniu dentro do prazo de 30
 (trinta dias), contados da data da decisão que impôs a penalidade.
+
 § 1° - A autoridade referida neste artigo apreciará o pedido de
 reconsideração dentro do prazo de 10 (dez) dias a contar da data de seu
 encaminhamento.
+
 § 2° - O pedido de reconsideração referido neste artigo, não terá efeito
 suspensivo.
 
@@ -354,6 +387,7 @@ Art. 24 - Nos casos omissos nesta Lei, referentes a infrações,
 penalidades, notificações, reclamações, recursos e arrecadação, aplicam-se onde
 couberem as disposições do Código Tributário Municipal e do Código de Posturas do
 Município.
+
 Art. 25 - Executados os casos previstos nesta Lei, compete a Secretaria
 Municipal de Administração e Finanças, fiscalizar a integral execução neste diploma
 legal e de seu regulamento.

@@ -34,6 +34,7 @@ pagamento de Imposto Transmissão Bens Imóveis - ITBI, os Senhores Delvino
 Verginio Stedile e Benvenuto Prescendo, em virtude da permuta de imóvel realizado em
 decorrência das Leis Municipais números 2625/92, de 26 de agosto de 1992 e 4013/98,
 de 09 de setembro de 1998, respectivamente.
+
 Parágrafo único - A isenção no caso da primeira Lei , tem por base, o
 fato de que a permuta, decorreu em virtude da ampliação das Ruas Brasil e Dorvalino
 Colla e no caso da segunda Lei, em virtude de interesse público para fins de preservação

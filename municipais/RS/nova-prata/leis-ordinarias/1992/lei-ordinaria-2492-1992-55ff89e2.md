@@ -32,6 +32,7 @@ Art. 1.º - É o Executivo Municipal autorizado a pagar despesas relativas
 a transporte, estadia e publicidade, decorrente da participação da candidata escolhida
 para representar o Município na Promoção Garota Verão/92 da RBS/TV e torcida, a
 realizar-se nos dias 6, 7 e 8 março próximo, na cidade de Capão da Canoa-RS.
+
 Parágrafo único - As despesas autorizadas no caput deste artigo, não
 poderão ultrapassar a Cr$ 500.000,00 (quinhentos mil cruzeiros).
 

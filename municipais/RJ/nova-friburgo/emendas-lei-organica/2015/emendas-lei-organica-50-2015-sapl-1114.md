@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1114"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2015/1114/1114_texto_integral.doc"
 sha256_fonte: "ddf0ad825563108fc05d525b7b18fec2ced031301bedf35e7c71a07f8d7de968"
-sha256_texto: "810604a4596d8986ef8dd42d7dd2fdf688c03390f0479e344e829d84f9c9dfeb"
+sha256_texto: "eb0a92a4310af9093b0b78670086900a4286a122770cc3bacc8453f941a5071b"
 baixado_em: "2026-10-30"
 ---
 
@@ -46,8 +46,4 @@ Nova Friburgo, 06 de outubro de 2015.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Eder Carpi dos Santos - 2º Secretário***
 
 **AUTORIA: VEREADOR CHRISTIANO HUGUENIN – P. 1240/15**
-
-EM LOM 50 Página PAGE 2
-
-EM LOM 50 Página PAGE 1
 

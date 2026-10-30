@@ -33,6 +33,7 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a realizar
 despesas de até R$735,00 (setecentos e trinta e cinco reais) com hospedagem e
 alimentação com até 35 (trinta e cinco) pessoas, guias de turismo e jornalistas, para
 realização de um FAMTUR nos dias 29 e 30 de junho de 2002.
+
 Parágrafo único - O objetivo do FAMTUR é a divulgação do potencial e
 produtos turísticos de Nova Prata.
 

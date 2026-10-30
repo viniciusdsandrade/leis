@@ -33,14 +33,17 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder um
 imóvel público, pelo prazo de 20 (vinte) anos, com uma área de 62.000 m² (sessenta e
 dois mil metros quadrados), que constitui a Floresta Municipal - Cascata da Usina,
 mediante os seguintes requisitos e regras:
+
 I - Fica autorizada a empresa concessionária, a cobrar um valor de até R$
 2,00, referente à entrada no parque e floresta, devendo eventuais reajustes serem
 submetidos à apreciação do Poder Público Municipal. Fica também a concessionária
 autorizada a explorar economicamente os demais serviços colocados à disposição dos
 visitantes.
+
 II - A empresa concessionária, deverá recolher aos cofres públicos, de
 forma mensal, a importância equivalente a 5% da renda auferida na bilheteria do
 parque, após 5 anos do início do funcionamento.
+
 III - Todas as benfeitorias realizadas no parque, incorporarão de forma
 definitiva o patrimônio público do Município de Nova Prata, não cabendo qualquer
 indenização à empresa concessionária.

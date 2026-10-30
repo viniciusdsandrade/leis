@@ -31,6 +31,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívidas, correspondente a Imposto Predial Territorial Urbano - IPTU a
 Senhora Elza Zugno e o Senhor Sérgio Zugno.
+
 Parágrafo único - O valor da remissão é de R$188,51 (cento e oitenta e
 oito reais e cinqüenta e um centavos), correspondentes aos anos de 1998 a 1999.
 

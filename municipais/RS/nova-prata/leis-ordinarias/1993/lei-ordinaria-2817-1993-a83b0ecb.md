@@ -33,19 +33,24 @@ Art. 1º ‑ Fica autorizada a cedência de 7 (sete) professores, funcionários
 do quadro permanente de cargos do Município de Nova Prata à Associação Comunitária
 de Educação e Ação Social de Nova Prata ‑ ACEASNOP, para desempenho na
 respectiva função.
+
 Art. 2º ‑ As cedências a que se refere o artigo anterior é pelo prazo certo
 de 1 (um) ano, podendo ser renovada por igual período, observadas as disponibilidades
 do Município e a necessidade da ACEASNOP.
+
 Art. 3º ‑ Os funcionários cedidos desempenharão as mesmas funções no
 órgão cessionário, percebendo a mesma remuneração do cargo, cujo pagamento,
 encargos sociais e promoção ficam de total responsabilidade do órgão cedente.
+
 Parágrafo único ‑ Os funcionários cedidos poderão ainda perceber
 remuneração equivalente a horas‑extras de trabalho eventualmente prestadas,
 atendendo as necessidades e convocação da ACEASNOP, que também serão pagas pelo
 Município cedente.
+
 Art. 4º ‑ A ACEASNOP fica obrigada, durante o período de cedência
 com ônus para o Município, a comunicar a efetividade dos funcionários cedidos bem
 como quaisquer outras ocorrências relativas à vida funcional.
+
 Art. 5º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

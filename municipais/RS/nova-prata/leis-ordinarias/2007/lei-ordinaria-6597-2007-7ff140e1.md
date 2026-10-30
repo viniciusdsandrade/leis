@@ -38,6 +38,7 @@ religiosa que agrega praticamente, toda a comunidade de Nova Prata.
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a adimplir até o
 valor de R$ 2.000,00 (dois mil reais), para concretização do objetivo de que trata o
 artigo primeiro desta lei.
+
 Parágrafo único - As despesas previstas no caput deste artigo, serão
 decorrentes do pagamento de foguetes e enfeites para a decoração.
 

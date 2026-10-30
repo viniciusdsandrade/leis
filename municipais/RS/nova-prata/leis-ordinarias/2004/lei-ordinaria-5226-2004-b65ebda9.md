@@ -33,15 +33,20 @@ Art. 1º - No artigo primeiro da Lei Municipal nº 5166/2004, e na cláusula
 primeira do convênio de que trata a referida lei, onde consta “colaborar na organização
 e concretização do Campeonato Estadual de Bochas da Série A (equipes), que será
 realizado em Nova Prata”, passa a vigorar os seguintes objetivos:
+
 I – Pagamento da anuidade de 2004 dos Clubes filiados a Federação
 Riograndense de Bochas;
+
 II – Realização da Copa Ótica Pupila em abril de 2004 entre os Clubes do
 Município;
+
 III – Realização do Campeonato Municipal de Bochas série A e B nos
 meses de agosto e setembro de 2004;
+
 IV – Organização e concretização do Campeonato Estadual série A em
 outubro de 2004, que envolverá despesas com arbitragem, hospedagem de dirigentes da
 Federação, jantar de abertura do Campeonato e premiação.
+
 Parágrafo único – Fica fazendo parte integrante da presente Lei
 Municipal o requerimento encaminhado pela Liga Cultural Pratense de Bochas.
 

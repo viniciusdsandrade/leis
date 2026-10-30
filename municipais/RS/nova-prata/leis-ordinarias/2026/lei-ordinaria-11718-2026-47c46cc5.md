@@ -339,22 +339,31 @@ especificadas:
 I - Infantojuvenil:
 
 a) Categoria Prosa Geral (Conto ou Crônica).
+
 b) Categoria Prosa Municipal (Conto ou Crônica).
+
 c) Categoria Verso Geral (Poema).
+
 d) Categoria Verso Municipal (Poema).
 
 II - Juvenil:
 
 a) Categoria Prosa Geral (Conto ou Crônica).
+
 b) Categoria Prosa Municipal (Conto ou Crônica).
+
 c) Categoria Verso Geral (Poema).
+
 d) Categoria Verso Municipal (Poema).
 
 III - Jovem Escritor:
 
 a) Categoria Prosa Geral (Conto ou Crônica).
+
 b) Categoria Prosa Municipal (Conto ou Crônica).
+
 c) Categoria Verso Geral (Poema).
+
 d) Categoria Verso Municipal (Poema).
 
 LeisMunicipais.com.br - Lei Ordinária 11718/2026 (http://leismunicipa.is/3wyo0) - Gerado em: 15/09/2026 19:02:36
@@ -362,8 +371,11 @@ LeisMunicipais.com.br - Lei Ordinária 11718/2026 (http://leismunicipa.is/3wyo0)
 IV - Adulta:
 
 a) Categoria Prosa Geral (Conto ou Crônica).
+
 b) Categoria Prosa Municipal (Conto ou Crônica).
+
 c) Categoria Verso Geral (Poema).
+
 d) Categoria Verso Municipal (Poema).
 
 Art. 32. A premiação consistirá em:

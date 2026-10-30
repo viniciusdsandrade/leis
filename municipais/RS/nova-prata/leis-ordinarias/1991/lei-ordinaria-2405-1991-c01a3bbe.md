@@ -29,8 +29,10 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica dispensado do pagamento do Imposto Predial e Territorial
 Urbano - IPTU, relativo ao exercício de 1990 e 1991, o Senhor José Roni Dal Prá Machado.
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

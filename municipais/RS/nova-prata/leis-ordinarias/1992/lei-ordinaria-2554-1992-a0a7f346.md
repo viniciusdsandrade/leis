@@ -31,6 +31,7 @@ Art. 1.º - É o Executivo Municipal autorizado a pagar despesas com
 transporte, estadia e alimentação dos componentes do Grupo Teatral da Brigada Militar
 que apresentar-se-á nas escolas municipais durante o mês de junho de 1992, com a peça
 alusiva às leis de segurança no trânsito. .
+
 Parágrafo único - As despesas autorizadas no caput deste artigo não
 poderão ultrapassar a CR$ 500.000,00 (Quinhentos mil cruzeiros).
 

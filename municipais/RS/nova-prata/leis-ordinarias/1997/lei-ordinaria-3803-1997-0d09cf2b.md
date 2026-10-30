@@ -33,11 +33,16 @@ Art. 1º - Fica autorizado o Poder Executivo Municipal, a pagar ao Arquiteto
 Abraham Lincoln Cabral Ribeiro, CREA 69.204D, com escritório profissional na Av.
 Presidente Vargas, 1454, a importância de R$ 5.700,00 (cinco mil e setecentos reais),
 proveniente de serviços profissionais, realizados nas seguintes obras:
+
 I - Capela Santo Isidoro, Linha General Osório, a importância de R$ 1.800,00;
+
 II - Loteamento São João, a importância de R$ 1.300,00;
+
 III - Loteamento Colméia II, a importância de R$ 1.100,00;
+
 IV - Assistência Técnica, no lote do Forum da cidade, a importância de R$
 800,00;
+
 V - Ginásio Santa Cruz, a importância de R$ 700,00.
 Parágrafo Único - O pagamento referido no Artigo 1.º, será efetuado mediante o
 confronto de contas entre o crédito autorizado e o saldo devedor do interessado.

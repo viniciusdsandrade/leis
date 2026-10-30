@@ -35,6 +35,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu promulgo a seguinte
 Lei:
+
 Art. 1º - É incluso o Projeto “Aquisição e Reforma de um prédio para
 Implantação e Manutenção de um Centro de Pesquisas, Biblioteca Estudantil, laboratório
 de Pesquisas para Estudantes e Anfiteatro”, nas metas e propriedades para o exercício de
@@ -46,6 +47,7 @@ com 504m², sobre um terreno com 625m², nesta cidade, destinado a instalação 
 Laboratório de Pesquisas para Estudantes, Biblioteca Estudantil, Anfiteatro para
 Estudantes, bem como aquisição de equipamentos e despesas de manutenção, para seu
 regular funcionamento.”
+
 Art. 2º - Para execução do projeto ora incluso, é o Executivo autorizado a
 abrir crédito especial no valor de Cr$ 40.000,00 (quarenta milhões de cruzeiros) , com a
 seguinte destinação:
@@ -63,6 +65,7 @@ OBJETIVO: Objetiva este projeto a aquisição e reforma de um prédio com
 Laboratório de Pesquisas para Estudantes, Biblioteca Estadual, Anfiteatro para Estudantes,
 bem como aquisição de equipamentos e despesas de manutenção, para seu regular
 funcionamento.
+
 Art 3º - Servirão como recursos para abertura deste crédito especial a
 redução de igual valor nas seguintes dotações orçamentárias:
 0501.08422071.014 – Ensino Superior

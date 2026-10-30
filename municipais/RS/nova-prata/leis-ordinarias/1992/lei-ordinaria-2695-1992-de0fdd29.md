@@ -25,10 +25,13 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É doado um aparelho de telefone usado, de disco, à Escola
 Estadual Caetano Polesello, estabelecida Distrito de Rio Branco, neste Município.
+
 Art. 2.º - O equipamento doado será instalado na sede da própria Escola
 para seu uso cotidiano.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

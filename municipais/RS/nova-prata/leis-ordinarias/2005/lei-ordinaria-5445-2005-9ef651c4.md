@@ -55,6 +55,7 @@ especial no orçamento de 2005, por superávit financeiro, conforme segue:
 
 Parágrafo Único - Servirá de base para a abertura do crédito especial
 acima, superávit financeiro.
+
 Art. 2.º - Esta Lei Municipal entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

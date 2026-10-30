@@ -34,14 +34,18 @@ cofres municipais, constantes da lista anexa que faz parte integrante desta lei 
 abrange todos os valores lançados até 31.12.92, poderão quitar suas dívidas nos termos
 aqui estabelecidos, gozando do benefício da isenção de juros lançados sobre o
 respectivo débito.
+
 Art. 2º ‑ Os contribuintes de ISSQN beneficiados pela isenção de juros,
 poderão ainda parcelar a dívida em até 05 (cinco) vezes mensais e consecutivas,
 mantendo‑se a correção monetária das parcelas nos termos da legislação vigente.
+
 Parágrafo único ‑ Caso os devedores não efetuarem o pagamento da
 primeira prestação nos termos do caput deste artigo, perderão o direito de parcelar a
 dívida.
+
 Art. 3º ‑ Na hipótese do parágrafo único do artigo anterior, o devedor
 perderá inclusive o benefício da isenção de juros.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

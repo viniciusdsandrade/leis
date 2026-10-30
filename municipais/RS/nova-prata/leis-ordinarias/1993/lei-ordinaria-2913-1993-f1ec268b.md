@@ -28,6 +28,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Executivo Municipal autorizado a conceder auxílio
 financeiro a 34 (trinta e quatro) alunos estudantes do Curso Técnico em Contabilidade do Colégio
 Nossa Senhora Aparecida, desta cidade que comprovadamente não disponham de recursos para
@@ -41,6 +42,7 @@ pelo índice oficial de inflação verificado no mês do efetivo pagamento.
 
 Art. 2.º - Fica igualmente autorizado o Poder Executivo Municipal a
 conceder auxílio para o 2.º semestre de 1993 para os alunos mencionados no artigo anterior.
+
 Parágrafo único - O referido auxílio será de 100% (cem por cento) da
 mensalidade dos mesmos, pago mensalmente para o Colégio Nossa Senhora Aparecida.
 

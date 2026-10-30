@@ -35,6 +35,7 @@ e Desporto.
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a despender o
 valor de até R$5.660,00 (cinco mil, seiscentos e sessenta reais), para concretização do
 objetivo de que trata o artigo primeiro desta lei.
+
 Parágrafo único - As despesas previstas no caput deste artigo, serão as
 constantes no ofício encaminhado pela Secretaria Municipal de Turismo e Desporto,
 que faz parte integrante desta Lei.

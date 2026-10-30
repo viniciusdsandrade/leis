@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1o. - Fica o Poder Executivo Municipal autorizado a proceder remissão
 de dívida de Imposto Predial e Territorial Urbano, ao Senhor José de Olivério Tessari.
+
 Parágrafo único - A remissão prevista no “caput” do presente Artigo, refere-
 se ao pagamento do IPTU do ano de 1997 e 1998, no valor de R$136,76 (cento e trinta e
 seis reais e setenta e seis centavos), corrigidos até 31/10/1998.

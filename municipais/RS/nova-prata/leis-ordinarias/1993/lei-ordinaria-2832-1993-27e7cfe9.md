@@ -29,9 +29,11 @@ promulgo a seguinte Lei:
 Art. 1º ‑ É concedido um auxílio financeiro a Leonor Maria Junkoswski
 no valor de Cr$ 1.000.000,00 (um milhão de cruzeiros) para pagamento e/ou reembolso
 de despesas relativas a atendimento médico, por submeter‑se a laqueadura de trompas.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 ‑ Assistência Médica à População;
 3.2.5.9 ‑ Outras Transferências à Pessoas.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 

@@ -26,13 +26,16 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder remissão de
 débitos da Taxa de Fiscalização e/ou Vistoria (alvará) e do ISSQN - Imposto Sobre
 Serviços de Qualquer Natureza, dos anos de 1991 à 1994, no valor de R$ 273,49
 (duzentos e setenta e três reais e quarenta e nove centavos), ao Contribuinte José
 Antonio Maciel.
+
 Art. 2º - A remissão ora concedida refere-se ao Cadastro Municipal de
 Contribuintes N.º 10.252/136.6.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -51,6 +51,7 @@ um dos Municípios conveniados.
 
 Parágrafo Quarto – O presente acordo vigorará até o final do ano de
 2006.
+
 Art. 2.º - As despesas decorrentes da execução da presente Lei
 Municipal, correrão por conta de dotação orçamentária própria.
 

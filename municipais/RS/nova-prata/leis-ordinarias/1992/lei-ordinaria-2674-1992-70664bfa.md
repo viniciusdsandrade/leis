@@ -33,6 +33,7 @@ o seguinte inciso:
 
 “Art. 14 - ...
 ...
+
 XII - Fabricação e comercialização de confeitos, pães e sorvetes, em
 estabelecimento de pequeno porte.”
 

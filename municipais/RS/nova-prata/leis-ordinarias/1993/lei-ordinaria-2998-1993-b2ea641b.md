@@ -26,6 +26,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - O valor das mensalidades devidas pela Associação do Município
 na Atuaserra será o equivalente a até 09 (nove) URMs (Unidade de Referência
 Municipal) por mês, a partir da data de assinatura do respectivo acordo.

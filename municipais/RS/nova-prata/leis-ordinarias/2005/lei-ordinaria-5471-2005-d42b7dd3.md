@@ -40,6 +40,7 @@ deslocam a Caxias do Sul.
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar subvenção a
 Associação dos Universitários de Nova Prata e Nova Bassano, no valor de R$ 9.600,00 (nove
 mil e seiscentos reais).
+
 Parágrafo único - O repasse a AUPRAB, será efetivado nos meses de maio e
 junho de 2005 em 02 (duas) parcelas iguais de R$ 4.800,00 (quatro mil e oitocentos reais).
 

@@ -29,13 +29,16 @@ promulgo a seguinte Lei:
 
 Art. 1.º - Fica oficializada, pela Administração Municipal, a Feira do
 Produtor Rural de Nova Prata, com freqüência semanal e ou diária, nesta cidade.
+
 Art. 2º - O Poder Executivo Municipal emprestará todo o apoio material
 e humano, através da Secretaria Municipal da Agricultura e Abastecimento, para o
 funcionamento da Feira do Produtor Rural de Nova Prata.
+
 Art. 3º - A presente Lei será regulamentada pela Comissão da Feira do
 Produtor Rural de Nova Prata, composta por um (01) representante das seguintes
 entidades: Prefeitura Municipal de Nova Prata, Emater, Coprajur, STR, Coopibi e dois
 (02) Feirantes.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

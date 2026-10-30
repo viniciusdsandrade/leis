@@ -51,20 +51,27 @@ demonstradas segundo a legislação em vigor.
 
 Art. 5º - Na estimativa das receitas serão considerados os efeitos das
 alterações na Legislação Tributária, especificamente sobre:
+
 I - Consolidação da Legislação vigente que regula cada tributo de
 competência do Município;
+
 II - Adequação da Legislação Tributária Municipal as eventuais
 modificações da Legislação Federal;
+
 III - Revisão dos índices já existentes que são indexados de tributos,
 tarifas, multas e criação de novos índices;
+
 IV - Revisão das isenções e incentivos fiscais.
 ...
 ... Folha 02
 Art. 6º - Nos Projetos de Lei Orçamentária constarão as seguintes
 autorizações:
+
 I - Para abertura de Créditos Suplementares;
+
 II - Para a realização de operações de crédito com destinação específica e
 vinculada ao projeto, nos termos da Legislação em vigor;
+
 III - Para realização em qualquer mês do exercício, de operações de
 crédito por antecipação da receita, oferecendo as garantias usuais necessárias nos termos
 da Legislação em vigor.
@@ -74,7 +81,9 @@ utilidade pública, sem fins lucrativos, serão concedidos através de planos de
 subvenções, de acordo com a Lei Municipal.
 
 Art. 8º - Fica o Poder Executivo autorizado:
+
 I - Prover os cargos e funções vagos nos termos da Legislação vigente;
+
 II - Conceder aumento de remuneração ou outras vantagens específica.
 
 Art. 9º - A criação de cargos, a alteração de estrutura de carreira,
@@ -94,12 +103,16 @@ que trata este artigo, abrange os gastos nas seguintes despesas.
 
 Art. 11 - São considerados objetivos da Administração Municipal, o
 desenvolvimento de programas visando a:
+
 I - Proporcionar o desenvolvimento pessoal dos servidores através de
 programas informativos, educativos e culturais;
+
 II - Melhorar as condições de trabalho, especialmente no que concerne a
 saúde, alimentação e segurança no trabalho;
+
 III - Capacitar os servidores para melhor desempenho de funções
 específicas;
+
 IV - Racionalização dos recursos materiais e humanos visando diminuir
 os custos e aumentar a produtividade e eficiência no atendimento dos serviços
 municipais.

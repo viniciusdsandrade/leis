@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.novafriburgo.rj.leg.br/norma/1268"
 fonte_texto: "https://sapl.novafriburgo.rj.leg.br/media/sapl/public/normajuridica/2016/1268/1268_texto_integral.doc"
 sha256_fonte: "44e39397df4f27f7bc361a290cc926dcd034f424ffe300cae4e0b5735bd41a84"
-sha256_texto: "846b3f05cb1bec1d9d29068e84fbd91d50453a780cc3089ac2ddc09500514c7e"
+sha256_texto: "3f1d5a642308a4f00fddf89a59d5d4bb6d8f2a1691dfc642dc9d4ef6b0a73002"
 baixado_em: "2026-10-30"
 ---
 
@@ -46,8 +46,4 @@ Nova Friburgo, 13 de setembro de 2016.
 ***\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Vereador Eder Carpi dos Santos - 2º Secretário***
 
 **AUTORIA: VEREADOR GABRIEL MAFORT – P. 1277/15**
-
-EM LOM 50 Página PAGE 2
-
-EM LOM 52 Página PAGE 1
 

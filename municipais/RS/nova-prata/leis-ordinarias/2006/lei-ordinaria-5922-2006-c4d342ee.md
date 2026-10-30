@@ -49,10 +49,14 @@ a um salário mensal de R$ 750,00 (setecentos e cinqüenta reais).
 
 Art. 3º - Os contratos serão de natureza administrativa, ficando
 assegurados os seguintes direitos aos contratados:
+
 I – jornada de trabalho de 44 horas semanais;
+
 II – serviço extraordinário, repouso semanal remunerado, adicional
 noturno e gratificação natalina proporcional, nos termos da Lei Municipal 5154/03;
+
 III – férias proporcionais, ao término do contrato;
+
 IV – inscrição no regime Geral de Previdência Social.
 
 ...

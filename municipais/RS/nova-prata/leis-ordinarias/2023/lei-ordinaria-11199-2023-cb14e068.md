@@ -31,6 +31,7 @@ Art. 1º. O Caput do art. 1º passa a vigorar com a seguinte redação:
 Art. 1º. Trata a presente Lei sobre as redes de infraestrutura de cabeamento para a
 transmissão de energia elétrica, de telefonia, de comunicação de dados via fibra óptica, de
 televisão a cabo e de outros cabeamentos.
+
 Parágrafo único: Revoga os parágrafos 1º e 2º do art. 1º.
 
 Art. 2º. O caput do art. 2º e os parágrafos 1º e 2º passam a vigorar com a seguinte
@@ -62,6 +63,7 @@ dessa rede, que exijam a instalação de tubulações de cabos subterrâneos, du
 serão executados preferencialmente pelo método não destrutivo, excetuando-se os serviços
 cujos dutos trabalhem como conduto livre ou contenham cabos de linhas de transmissão de
 energia que necessitem de sistemas de proteção complementares.
+
 Art. 4º. O Art. 5º passa a vigorar com a seguinte redação:
 
 Art. 5º. A implantação e implementação das redes subterrâneas e retiradas da fiação,

@@ -54,8 +54,11 @@ CAPÍTULO I
 DOS ASSOCIADOS
 
 Art. 3.º - São associados obrigatórios os servidores municipais:
+
 I - detentores de cargo de provimento efetivo;
+
 II - inativos;
+
 III - os Vereadores, quando no exercício do seu mandato, que optarem
 pela associação.
 ...
@@ -76,9 +79,12 @@ Art. 5.º - O servidor perderá a qualidade de associado quando desligado
 do serviço público ou deixar de contribuir por mais de 3 (três) meses consecutivos.
 Parágrafo Único - Durante o prazo de que trata o “caput” deste artigo, o
 associado ou seus dependentes terão direito:
+
 I - aos serviços gratuitos de atendimento a saúde, até que ingresse em
 qualquer outra instituição de previdência;
+
 II - aos auxílios funeral e natalidade;
+
 III - a pensão.
 
 Art. 6.º - A perda da qualidade de associado importará na perda dos
@@ -99,8 +105,10 @@ DOS DEPENDENTES
 
 Art. 10 - Consideram-se dependentes dos associados, para efeitos desta
 Lei:
+
 I - a mulher ou a companheira mantida há mais de 12 (doze) meses ou
 que tiverem filhos em comum;
+
 II - os filhos de qualquer condição, quando inválidos ou menores de 18
 (dezoito) anos e solteiro;
 ...
@@ -110,18 +118,26 @@ II - os filhos de qualquer condição, quando inválidos ou menores de 18
 III - o marido ou o companheiro mantido há mais de 12 (doze) meses ou
 que tiverem filhos em comum, desde que comprovada a dependência econômica
 exclusiva da associada;
+
 IV - o pai ou a mãe quando inválidos e desde que não participem de outro
 sistema de previdência.
 
 Art. 11 - São considerados filhos de associado, para efeito de associado,
 para efeito do estabelecido no inciso II do Artigo 10:
+
 I - os legítimos;
+
 II - os legítimados;
+
 III - os ilegítimos de qualquer condição;
+
 IV - os adotivos;
+
 V - os enteados;
+
 VI - os menores que, por determinação judicial, se encontrem sob guarda
 do associado;
+
 VII - os menores que se encontrarem sob tutela ou curatela do associado
 e não possuam bens suficientes par ao próprio sustento e educação.
 Parágrafo Único - Os dependentes mencionados nos incisos, V, VI e VII
@@ -137,10 +153,13 @@ DOS PENSIONISTAS
 
 Art. 13 - São considerados como pensionistas, para efeitos desta Lei, por
 morte do associado:
+
 I - na qualidade de titulares: os dependentes na forma do artigo 10 e seus
 incisos;
+
 II - na qualidade de dependentes: os menores ou maiores invalidos que
 sejam dependentes de pensionistas titulares;
+
 III - na qualidade de judiciais: os cônjuges separados e os filhos que
 percebam pensão alimentícia por determinação judicial.
 CAPÍTULO IV
@@ -174,18 +193,31 @@ DAS PRESTAÇÕES EM GERAL
 
 Art. 19 - As prestações asseguradas pelo IPRAM consistem em
 benefícios, a saber:
+
 I - quanto aos associados:
+
 a) - auxílio natalidade.
+
 II - quanto aos dependentes:
+
 a) - auxílio reclusão;
+
 b) - auxílio funeral.
+
 III - quanto aos pensionistas:
+
 a) - pensão;
+
 b) - abono natalino;
+
 c) - auxílio funeral, pela morte do pensionista titular.
+
 IV - quanto aos beneficiários em geral:
+
 a) - assistência a saúde;
+
 b) - assistência financeira.
+
 Art. 20 - As concessões de prestações referidas nesta Capítulo estarão
 sujeitas a uma carência de 12 (doze) meses, a contar da data da inscrição do segurado,
 excetuando-se o que se refere a assistência, a saúde e auxílio natalidade.
@@ -213,7 +245,9 @@ DA ASSISTÊNCIA FINANCEIRA
 Art. 22 - A assistência financeira aos beneficiários, através do associado
 e pensionistas titulares, na forma estabelecida pelo Regulamento desta Lei, será
 concedida:
+
 I - para empréstimo simples;
+
 II - para financiamentos de serviços necessários a proteção da saúde.
 
 CAPÍTULO IV
@@ -237,13 +271,17 @@ será efetuado juntamente com o do pensionista titular.
 
 ... folha 06
 Art. 26 - Pela cessação da condição de pensionista, reverterão as pensões.
+
 I - dos titulares sem responsabilidade sobre pensionistas dependentes: ao
 IPRAM;
+
 II - dos titulares ao IPRAM a quota de 5% (cinco por cento) da parcela de
 manutenção para cada dependência que cessar, se não houver mais de 4 (quatro)
 dependentes;
+
 III - dos dependentes: Ao IPRAM a quota de 5% (cinco por cento) da
 parcela de manutenção para cada dependência que cessar;
+
 IV - dos judiciais integrará a parcela familiar.
 
 Art. 27 - Para efeito do rateio da pensão, considerar-se-ão apenas os
@@ -259,12 +297,16 @@ Art. 28 - Os valores das pensões serão reajustados nos mesmos índices
 concedido aos servidores da ativa.
 
 Art. 29 - A parcela de manutenção se extingue:
+
 I - por morte do pensionista, observado o disposto no inciso II do artigo
 26;
+
 II - pelo casamento de dependente do pensionista ou concubinato por
 mais de 12 (doze) meses;
+
 III - para os filhos, desde que não sendo inválidos, completarem 18
 (dezoito) anos de idade;
+
 IV - para os dependentes inválidos ao cessar a invalidez.
 Parágrafo Primeiro - Os dependentes do pensionista, quando inválidos,
 sob pena de suspensão do benefício, ficam obrigados a submeterem-se aos exames que
@@ -380,6 +422,7 @@ DAS DISPOSIÇÕES DIVERSAS
 
 Art. 43 - Não prescreverá o direito ao benefício, mas prescreverão em 12
 (doze) meses todas as prestações não reclamadas.
+
 Parágrafo único - O prazo mencionado neste artigo conta-se a partir da
 data em que as prestações forem devidas.
 
@@ -427,23 +470,34 @@ CAPÀdTULO I
 DAS FONTES DE RECEITAS
 
 Art. 50 - O custeio do IPRAM - NP, será atendido pelas contribuições:
+
 I - dos associados em geral, na percentagem de 7% (sete por cento) sobre
 o total de seus vencimentos.
+
 II - dos órgãos empregadores, no percentual de 8% (oito por cento) dobtr
 o total da folha de pagamento dos associados;
+
 III - dos pensionistas, em geral, na percentagem de 5% (cinco por cento)
 sobre o valor da pensão;
+
 IV - contribuições suplementares, complementares ou extraordinárias que
 vierem a ser instituídas;
+
 V - rendas resultantes das aplicações financeiras;
+
 VI - reversão de qualquer importância em virtude de prescrição;
+
 VII - rendas resultantes de correções monetárias;
+
 VIII - multas e juros de mora de pagamento de quantias devidas ao
 IPRAM - NP;
+
 IX - prestações pagas pelos mutuários nas operações que realizem com o
 IPRAM - NP;
+
 X - emolumentos, taxas, contribuições, percentagens e outras
 importâncias devidas em decorrência de prestação de serviço;
+
 XI - outras receitas eventuais.
 Parágrafo Único - Integram o salário, para efeito de contribuição, todas
 as importâncias recebidas, a qualquer título, pelo associado, em pagamento de serviço
@@ -467,6 +521,7 @@ forma seguinte:
 ... folha 11
 I - ao órgão empregador caberá, obrigatoriamente, consignar as
 contribuições e importâncias devidas ao IPRAM - NP;
+
 II - ao órgão empregador caberá recolher ao Fundo do IPRAM - NP as
 importâncias consignadas, bem como as por eles devidas.
 
@@ -504,8 +559,11 @@ TÍTULO V
 DA ESTRUTURA ADMINISTRATIVA
 
 Art. 60 - A Diretoria do IPRAM - NP e composta de:
+
 I - Presidente;
+
 II - Vice-Presidente;
+
 III - Conselho Deliberativo.
 ...
 
@@ -513,14 +571,19 @@ III - Conselho Deliberativo.
 Art. 61 - Ao Presidente compete a representação judicial e extrajudicial
 do IPRAM - NP e, assistido pelo Vice, a Administração Geral da Autarquia,
 incumbindo-lhe especialmente:
+
 I - elaborar a proposta orçamentária e suas alterações;
+
 II - autorizar os pagamentos em geral do IPRAM - NP;
+
 III - prover os cargos e funções do IPRAM - NP, bem como praticar
 todos os atos relativos à vida funcional dos servidores, na forma da Lei;
+
 IV - expedir as resoluções, portarias e ordens de serviço necessárias ao
 cumprimento das atribuições do IPRAM - NP.
 Parágrafo Único - O Presidente será substituído em seus impedimentos
 pelo Vice, na forma estabelecida pelo Regulamento.
+
 Art. 62 - O Presidente terá tratamento de Secretário do Município, dentre
 os funcionários do Quadro de Carreira do Município.
 Parágrafo Primeiro - O Presidente e o Vice serão de livre nomeação do
@@ -560,9 +623,12 @@ associados do IPRAM - NP.
 Art. 65 - O Conselho Deliberativo tem por finalidade apreciar os assuntos
 e programas gerais de operações pertinentes aos objetivos da Autarquia, bem como
 deliberar sobre:
+
 I - a organização do quadro de pessoal, respeitadas as normas legais
 vigentes;
+
 II - as propostas orçamentárias do IPRAM - NP e suas alterações.
+
 Art. 66 - A eleição para escolher a Diretoria do IPRAM - NP, pelo voto
 direto e secreto dos associados, se realizará bienalmente no mês de outubro.
 

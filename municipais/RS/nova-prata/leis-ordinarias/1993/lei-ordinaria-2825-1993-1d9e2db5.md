@@ -28,10 +28,13 @@ promulgo a seguinte Lei:
 
 Art. 1º ‑ É abonado o pagamento de ISSQN e TLL relativos ao exercício
 de 1993, do contribuinte Vitor Defaveri.
+
 Parágrafo único ‑ É abonado também o pagamento dos acréscimos que
 porventura existirem sobre o valor lançado.
+
 Art. 2º ‑ É cancelada a inscrição do mesmo como artesão autônomo, pelo
 mesmo não estar exercendo a atividade.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

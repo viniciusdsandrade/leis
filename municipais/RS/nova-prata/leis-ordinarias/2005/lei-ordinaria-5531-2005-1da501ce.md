@@ -49,9 +49,11 @@ explicativo do evento.
 Art. 4.º - A entidade beneficiada deverá apresentar plano de trabalho, dos
 valores repassados como condição para liberação dos valores, que deverá ser aprovado pelo
 Gabinete do Prefeito.
+
 Parágrafo único - Além do Plano de Trabalho a entidade beneficiada deverá
 apresentar Certidão Negativa de Tributos Estaduais, Federais e Municipais, INSS e FGTS,
 CNPJ atualizado e documentação da constituição jurídica da entidade.
+
 Art. 5.º - As despesas decorrentes da execução da presente Lei Municipal,
 correrão por conta das dotações orçamentárias, classificadas sob o código: 05 - Secretaria
 de Educação e Cultura; 03 - Livres da Educação; 13.392.0054.1021 - Apoio Financeiro a

@@ -55,6 +55,7 @@ nas seguintes dotações orçamentárias:
 
 Art. 2.º - Servirá de base para cobrir os recursos para o crédito especial
 acima, superávit financeiro de recurso vinculado de igual valor.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

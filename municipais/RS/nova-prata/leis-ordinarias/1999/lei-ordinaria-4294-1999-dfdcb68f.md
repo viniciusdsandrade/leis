@@ -32,12 +32,14 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívidas, correspondente a alvará e ISSQN, referentes aos anos 1996 e 1998,
 no valor de R$283,28 e de IPTU do ano de 1998, no valor de R$58,68, que constam em
 nome de Carlos Perin.
+
 Parágrafo único - O valor total da remissão é de R$341,96 (trezentos e
 quarenta e um reais e noventa e seis centavos), corrigidos até 31 de dezembro de 1999.
 
 Art. 2.º - O fundamento da remissão, é o fato do contribuinte referido no
 Artigo anterior, ter falecido e a família ter ficado em situação de dificuldades
 financeiras.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, fotocópia da proposição apresentada por Vereador Municipal.
 

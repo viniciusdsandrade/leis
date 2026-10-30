@@ -40,12 +40,16 @@ crianças, jovens e adultos.
 
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a realizar gastos nos valores que
 especifica, nos seguintes eventos:
+
 I - Campeonato Municipal de Veteranos, valores até R$1.800,00 (um mil e oitocentos
 reais);
+
 II - Campeonato de Integração Regional, valores até R$1.800,00 (um mil e oitocentos
 reais);
+
 III - III Campeonato Inter-horários Willibaldo Fensteiseifer, valores até R$2.300,00
 (dois mil e trezentos reais);
+
 IV - VII Campeonato das Categorias de Base do União, valores até R$5.970,00 (cinco
 mil, novecentos e setenta reais).
 

@@ -72,13 +72,18 @@ sua área de atuação determinadas por leis, convênios, acordos, etc... e exec
 tarefas afins.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: carga horária normal de trabalho de 22 horas semanais;
+
 b) Outras: o exercício do cargo exige a prestação de serviço, à noite,
 domingos e feriados.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade: Nível Superior completo.
+
 c) Habilitação: habilitação legal para o exercício da profissão de
 Engenheiro Agrônomo.
 
@@ -105,13 +110,18 @@ relacionadas com sua área de atuação determinadas por leis, convênios, acord
 executar outras tarefas afins.
 
 CONDIÇÕES DE TRABALHO:
+
 c) Horário: carga horária normal de trabalho de 22 horas semanais;
+
 d) Outras: o exercício do cargo exige a prestação de serviço, à noite,
 domingos e feriados.
 
 REQUISITOS PARA PROVIMENTO:
+
 d) Idade: mínima de 18 (dezoito) anos;
+
 e) Escolaridade: Nível Superior completo.
+
 f) Habilitação: habilitação legal para o exercício da profissão de
 Biólogo.
 

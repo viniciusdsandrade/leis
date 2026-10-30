@@ -48,6 +48,7 @@ União (Convênio SUS) ............................Cr$ 1.800.739,44
 TOTAL...........................................Cr$ 2.755.739,64
 (dois milhões, setecentos e cinquenta e cinco mil, setecentos e trinta e nove cruzeiros e
 sessenta e quatro centavos).
+
 Art. 3º - Revogada as disposições em contrário esta lei entrará em vigor na
 data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

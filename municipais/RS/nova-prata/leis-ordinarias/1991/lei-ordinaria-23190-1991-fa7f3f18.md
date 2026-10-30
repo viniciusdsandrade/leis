@@ -39,27 +39,35 @@ próxima ao Bairro Promorar, denominado Loteamento São João.
 Art. 2.º - Fica o Executivo Municipal, dispensado do atendimento das
 exigências contidas na Lei nº1592/82, no que tange as dimensões dos lotes e das
 quadras.
+
 Art. 3º - A área destinada ao Loteamento Especial, bem como a área que
 liga a cidade, passam a integrar a zona urbana do Município.
+
 Parágrafo único - As dimensões dos respectivos lotes, quadras e o todo
 do Loteamento, bem como suas confrontações, estão descritas no memorial discritivo
 anexo, bem como na planta anexa que passam a fazer parte integrante desta Lei.
+
 Art. 4º - O Loteamento autorizado por esta Lei destina-se exclusivamente
 à residência própria de trabalhadores deste Município, com renda familiar de até 05
 ( cinco) salários mínimos.
 
 ...
+
 Art. 5º - O Município realizará as obras de infra-estrutura para
 distribuição de energia elétrica, abastecimento d’água, rede de esgoto e iluminação
 pública.
+
 Art. 6º - Fica o Executivo Municipal autorizado a venda os lotes pelo
 preço básico de Cr$ 1.350,00 ( um mil, trezentos e cinquenta cruzeiros) o metro
 quadrado, à vista ou em prestações mensais, até um total de 04 (quatro) parcelas.
+
 Parágrafo único - Fica o Executivo autorizado a corrigir o valor básico do
 m² , mensalmente através de Decreto de acordo com as variações ocorridas no mercado
 imobiliário.
+
 Art. 7º - O pagamento das prestações mensais será efetuada na Tesouraria
 da Prefeitura.
+
 Art.8º - As alienação dos lotes serão feitas por escritura pública de
 compra e venda, quando o pagamento for à vista, e por contrato de promessa de compra
 e venda quando a alienação for a prazo.
@@ -90,20 +98,26 @@ d - abertas as inscrições, se o número de interessados for superior ao
 número de lotes, após o atendimento dos requisitos anteriores, terão prioridade para
 aquisição dos mesmos, os inscritos que comprovarem o maior tempo de trabalho e
 residência no Município.
+
 Art. 10 - A construção em cada lote deverá ter início no prazo máximo de
 06 (seis) meses da data da escritura ou da data de contrato de promessa de compra e
 venda e deverá estar concluída, com habite-se da Prefeitura, em igual prazo, salvo
 motivos alheios à vontade dos adquirentes aceitos pelo Executivo.
+
 Art. 11 - Inobstante a cláusula de retrovenda, os compradores do que
 trata esta Lei, poderão oferecer os imóveis adquiridos em garantia hipotecária para
 obtenção de financiamento destinada à construção de casa própria, contando para tanto,
 desde já, com anuência do Município.
+
 Art. 12 - As construções no Loteamento ora autorizado deverão
 obedecer às normas públicas estabelecidas pelo Município.
+
 Art. 13 - É proibida a venda de mais de um lote para cada interessado.
+
 Art. 14 -Fica vedada expressamente a concessão a concessão de alvará
 de licença para estabelecimento industriais ou de prestação de serviços no Loteamento
 Popular ora instituído.
+
 Art. 15 - Revogadas as disposições em contrário, está lei entrará em vigor
 na data de sua publicação.
 

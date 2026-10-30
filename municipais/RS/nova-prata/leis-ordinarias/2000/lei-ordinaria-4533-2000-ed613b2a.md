@@ -77,6 +77,7 @@ critério:
 
 a - corte das despesas de manutenção dos órgãos;
 b - demissão de ocupantes de cargos em comissão;
+
 § 5.º - Para efeito do § 3º, art 16 da Lei Complementar 101/2000
 considerar se a irrelevante a despesa de caráter não continuado de até R$ 1.000, 00
 realizada na manutenção de órgãos municipais.
@@ -108,7 +109,9 @@ mediante projeto de lei a ser encaminhado antes da elaboração do orçamento.
 
 Art. 8.º - Nos projetos de lei orçamentária constarão as seguintes
 autorizações:
+
 I - para abertura de créditos suplementares;
+
 II - para a realização de operações de créditos com destinação específica
 e vinculada ao projeto, nos termos da legislação em vigor;
 
@@ -125,6 +128,7 @@ Complementar 101/2000
 Art. 11 - Fica o Poder Executivo autorizado:
 
 I - prover os cargos e funções vagos nos termos da legislação vigente;
+
 II - conceder aumento de remuneração ou outras vantagens mediante
 autorização legislativa especifica,
 
@@ -142,10 +146,13 @@ desenvolvimento de programas visando:
 
 I - proporcionar o desenvolvimento pessoal dos servidores através de
 programas informativos educativos e culturais;
+
 II - melhorar as condições de trabalho, especialmente no que concerne à
 saúde alimentação e segurança;
+
 III - capacitar os servidores para melhor desempenho de funções
 especificas:
+
 IV - racionalização dos recursos materiais e humanos visando diminuir
 os custos e aumentar a produtividade e eficiência no atendimento dos serviços
 municipais;

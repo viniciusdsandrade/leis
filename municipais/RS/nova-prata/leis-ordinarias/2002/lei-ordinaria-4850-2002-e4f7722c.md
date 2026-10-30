@@ -33,25 +33,32 @@ sanciono e promulgo a seguinte Lei.
 Art. 1.o - Ficam alterados os artigos 192, 193 e 194 e seus anexos.
 
 “Art. 192 - .........
+
 § 1º - Não será permitido o uso de alto-falantes nas proximidades do
 hospital e escolas durante o período letivo. A distância mínima permitida é de 250 m.
+
 § 2º - O uso de alto-falantes em logradouros públicos dependerá de
 licença prévia do Município, que só será emitida mediante pagamento da respectiva taxa
 e de acordo com os critérios estabelecidos neste parágrafo:
 a - a licença é de porte obrigatório e deve ser fixada em local visível.
 b - deverá constar na licença, pelo menos, horário, dias e locais
 autorizados, prazo de validade, órgão emissor, responsável pela emissão e valor pago.
+
 § 3º - O valor da taxa para a atividade dos serviços de alto-falantes,
 definidos nesta Lei, é o disposto no art. 2º, capítulo II (“Licença de atividade
 ambulante”), instituída pela Lei Municipal N.º 3880/97 de 30 de dezembro de 1997.
+
 § 4º - Fica a Secretaria de Finanças responsável pela liberação das
 licenças, bem como pela cobrança das respectivas taxas.
 
 Art. 193 - O uso de alto-falantes, excetuando-se o estabelecido no Art.
 192, será permitido:
+
 § 1º - De segundas a sextas feiras, nos horários compreendidos entre 8
 horas às 19 horas.
+
 § 2º - Aos sábados das 8:30 às 12:00 e das 15:30 às 17:30.
+
 § 3º - É vedado o uso de alto-falantes para fins de publicidade de rua aos
 domingos e feriados.
 

@@ -38,12 +38,17 @@ Par. 1.º - A contratação de que trata a presente lei, será pelo prazo de 6
 (seis) meses.
 Par. 2.º - Os requisitos para inscrição no processo de seleção, as
 atribuições, o salário e a carga horária estão fixados no Anexo Único da presente Lei.
+
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos aos contratados:
+
 I – repouso semanal remunerado e gratificação natalina proporcional, nos
 termos da Lei Municipal 5760/05;
+
 II – serviço extraordinário nos termos da Lei Municipal 5760/05;
+
 III – férias proporcionais, ao término do contrato;
+
 IV – inscrição no regime Geral de Previdência Social.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,
@@ -83,12 +88,16 @@ executados pelos ajustes e auxiliares sob a sua direção; dobrar ferro para arm
 concretagem; executar outras tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 44 horas semanais, sujeito à
 trabalhos nos sábados, domingos e feriados.
 
 REQUISITOS PARA CONTRATAÇÃO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade mínima: 4ª Série do 1º Grau;
+
 b) Habilitação Profissional: experiência comprovada em trabalhos de
 construção civil, no mínimo de dois anos.
 

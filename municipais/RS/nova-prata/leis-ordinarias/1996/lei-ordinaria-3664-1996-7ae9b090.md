@@ -26,12 +26,15 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É concedido um Abono de Natal a ser pago no mês de dezembro
 de 1996, aos pensionistas do Município de Nova Prata, que não percebem o 13º salário.
 Parágrafo Único - O Abono a ser pago corresponderá a remuneração
 paga no mês de dezembro/96, ou proporcionalmente, nos períodos incompletos.
+
 Art. 2º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária própria.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -40,6 +40,7 @@ cumprimento de suas obrigações por força contratual, a transferir à Secretar
 o correspondente a 20% (vinte por cento) do valor do contrato, ou seja, a quantia de Cr$
 1.712,80 (um mil setecentos e doze cruzeiros e oitenta centavos), através do Núcleo
 Regional.
+
 Art. 3º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária própria.
 

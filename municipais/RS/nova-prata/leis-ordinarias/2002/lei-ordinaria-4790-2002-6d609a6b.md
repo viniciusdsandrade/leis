@@ -39,14 +39,19 @@ Secretaria Municipal do Meio Ambiente.
 
 Art. 2.º - São classificados como serviço de limpeza urbana as seguintes
 tarefas:
+
 I - Coleta, transporte e disposição final de lixo público, ordinário,
 domiciliar e especial;
+
 II - Conservação da limpeza de vias, balneários, sanitários públicos,
 áreas verdes, parques, margens da faixa de domínio das Rodovias dentro do perímetro
 urbano, bem como demais rodovias do Município e outros logradouros e bens de uso
 comum do povo do Município de Nova Prata;
+
 III - Remoção de bens móveis abandonados nos logradouros públicos;
+
 IV - Outros serviços concernentes à limpeza da cidade;
+
 V - Coleta e destino das embalagens de defensivos agrícolas.
 
 Art. 3.º - Definem-se como lixo público os resíduos sólidos provenientes
@@ -66,17 +71,24 @@ de Meio Ambiente.
 Art. 5.º - Definem-se como lixo especial os resíduos sólidos que, por sua
 composição, peso ou volume, necessitam de tratamento específico, ficando assim
 classificados:
+
 I - resíduos produzidos em imóveis, residenciais ou não, que não possam
 ser dispostos na forma estabelecida para a coleta regular;
+
 II - resíduos provenientes de estabelecimentos que prestam serviços de
 saúde;
+
 III - resíduos gerados em estabelecimentos que prestam serviços de
 saúde;
+
 IV - resíduos provenientes de estabelecimentos que comercializam
 alimentos para consumo imediato;
+
 V - resíduos produzidos por atividades ou eventos instalados em
 logradouros públicos;
+
 VI - resíduos gerados pelo comércio ambulante;
+
 VII - outros que por sua composição, se enquadrem na classificação
 desse artigo, inclusive veículos inservíveis, excetuando-se o lixo industrial, pilhas,
 lâmpadas de mercúrio, baterias de celulares, embalagens de defensivos agrícolas e
@@ -87,14 +99,18 @@ lixo poderá ser através dos processos de reciclagem, compostagem ou incineraç
 aplicados individualmente ou de forma associada, observando a legislação pertinente
 para cada caso, de forma a minimizar os aspectos e impactos ambientais e a
 conseqüente preservação do meio ambiente.
+
 § 1º - Aspecto ambiental é a decorrência de atividades, produtos ou
 serviços que possam interagir com o meio ambiente, que tem ou possam ter um impacto
 ambiental.
+
 § 2º - Impacto ambiental é qualquer alteração no meio ambiente, adversa
 ou benéfica, resultante das atividades, produtos ou serviços.
+
 § 3º - Meio ambiente é toda circunvizinhança, compreendida desde o
 interior de instalações e estendendo-se ao sistema global externo, incluindo ar, água,
 solo, recursos naturais, flora, fauna, seres humanos e suas inter-relações.
+
 Art. 7.º - O usuário deverá providenciar, por meios próprios, os
 recipientes necessários ao acondicionamento seletivo dos resíduos sólidos gerados,
 observando as características e especificações determinadas pelo Executivo. Este, por
@@ -134,13 +150,18 @@ domiciliar são de exclusiva responsabilidade do Executivo Municipal.
 Art. 11 - O acondicionamento e a apresentação do lixo ordinário
 domiciliar à coleta regular deverão ser feitos levando em consideração as determinações
 que seguem:
+
 I - O acondicionamento deverá ser feito em sacos plásticos.
+
 II - O volume dos sacos plásticos ou dos recipientes não deve ser
 superior a cem litros ou inferior a vinte litros, quando utilizados para o lixo seco.
+
 III - O volume dos sacos plásticos, destinados ao acondicionamento do
 lixo orgânico, não deve ser superior a 50 litros ou inferior a 10 litros.
+
 IV - O acondicionamento do lixo ordinário domiciliar será feito
 obrigatoriamente na forma seguinte:
+
 a) Os sacos plásticos ou recipientes indicados devem estar
 convenientemente fechados, em perfeitas condições de higiene e conservação, sem
 líquido em seu interior.
@@ -149,6 +170,7 @@ líquido em seu interior.
 ... Folha 04
 b) Os recipientes que não apresentarem condições mínimas de uso serão
 considerados irregulares e recolhidos pela Secretaria Municipal do Meio Ambiente.
+
 c) Materiais cortantes ou pontiagudos deverão ser devidamente
 embalados, separadamente dos demais acima citados, a fim de evitar lesão aos garis.
 
@@ -175,6 +197,7 @@ capítulo.
 
 Art. 15 - Os dias e horários de coleta para cada rua serão divulgados,
 pelo Executivo Municipal, em material impresso.
+
 Parágrafo único - A disposição do lixo fora do horário estabelecido para
 coleta, será considerada infração e estará sujeita às multas previstas nesta lei.
 
@@ -202,10 +225,13 @@ exista contrato formalizado com a fonte geradora.
 Art. 18 - No que for pertinente à limpeza e conservação dos logradouros
 públicos, as construções e demolições reger-se-ão pelas disposições da presente Lei e
 pelas seguintes obrigações:
+
 I - manter em estado permanente de limpeza e conservação o trecho
 fronteiro à obra;
+
 II - evitar excesso de poeira e queda de detritos nas propriedades
 vizinhas, vias e logradouros públicos;
+
 III - não dispor material no passeio ou via pública, senão o tempo
 necessário para sua descarga ou remoção, salvo quando se destinar a obras a serem
 executadas no próprio logradouro ou muro de alinhamento;
@@ -384,15 +410,19 @@ DOS TERRENOS EDIFICADOS OU NÃO, MUROS, CERCAS E
 PASSEIOS
 
 Art. 38 - Os proprietários de terrenos, edificados ou não, são obrigados a:
+
 I - Murá-los, quando se localizarem em vias e logradouros providos de
 pavimentação, de acordo com as normas estabelecidas em legislação específica. Multa
 de R$ 63,53.
+
 II - Guardá-los e fiscalizá-los, mantendo-os em perfeito estado de
 limpeza e, à exceção em que se configure a existência de banhados, drenados, evitando
 que sejam usados como depósito de resíduos em qualquer natureza. Multa de R$ 63,53.
+
 III - Nos logradouros que possuam meio fio, executar a pavimentação do
 passeio fronteiro a seus imóveis dentro dos padrões estabelecidos pelo Município e
 mantê-los em bom estado de conservação e limpeza. Multa de R$ 65,00 ao ano.
+
 IV - Nos serviços que se faça necessário à retirada de paralelepípedos em
 vias públicas, deverão ser efetuados de acordo com a lei municipal n° 4187.
 
@@ -462,6 +492,7 @@ CAPÍTULO VIII
 DOS ATOS LESIVOS À LIMPEZA PÚBLICA
 
 Art. 45 - Constituem atos lesivos à Limpeza Urbana:
+
 I - Depositar, lançar ou atirar nos passeios, vias ou logradouros públicos,
 papéis, invólucros, embalagens ou assemelhados, que causem danos à conservação da
 limpeza urbana. Multa de R$ 25,41.
@@ -469,15 +500,19 @@ limpeza urbana. Multa de R$ 25,41.
 II - Realizar triagem ou catação no lixo disposto em logradouros ou vias
 públicas, de qualquer objeto, material, restos ou sobras, seja qual for sua origem. Multa
 de R$ 25,41.
+
 III - Depositar, lançar ou atirar, em quaisquer áreas públicas ou terrenos,
 edificados ou não, de propriedade pública ou privada, resíduos sólidos de qualquer
 natureza. Multa de R$ 63,53
 .
+
 IV - Reparar veículos ou qualquer tipo de equipamento em vias ou
 logradouros públicos quando desta atividade resultar prejuízo à limpeza urbana. Multa
 de R$ 25,41.
+
 V - Descarregar ou vazar águas servidas de qualquer natureza em
 passeios, vias ou logradouros públicos. Multa de R$ 25,41.
+
 VI - Assorear logradouros ou vias públicas, em decorrência de
 decapagens, desmatamentos ou obras. Multa de R$ 25,41.
 
@@ -533,8 +568,11 @@ Art. 51 - Notificação é o processo administrativo formulado por escrito,
 através do qual se dá conhecimento à parte da providência que a ela incumbe realizar.
 
 Art. 52 - O infrator será notificado para ciência do auto de infração:
+
 I – pessoalmente;
+
 II – pelo correio ou via postal;
+
 III- por edital, se estiver em lugar incerto ou não sabido.
 ...
 
@@ -557,13 +595,17 @@ Art. 54 - Em caso de reincidência, a multa será aplicada em dobro,
 persistindo este índice mulplicador para todas as demais infrações.
 
 Art. 55 - A penalidade de interdição poderá ser aplicada:
+
 I – em casos de reincidência;
+
 II- quando da infração resultar:
 
 a) contaminação significativa dos solos, águas superficiais ou
 subterrâneas;
+
 b) degradação ambiental que não comporte medidas de regularização,
 reparação, recuperação pelo infrator ou à custa dele;
+
 c) risco iminente à saúde pública.
 
 Art. 56 - As multas aplicadas em decorrência da transgressão do disposto
@@ -607,18 +649,25 @@ DA EDUCAÇÃO AMBIENTAL
 Art. 62 - O Poder Público Municipal, juntamente com a sociedade
 organizada, desenvolverá políticas visando conscientizar a população sobre a
 importância da adoção de hábitos corretos com relação à limpeza urbana e a reciclagem.
+
 Parágrafo único - Para cumprimento do disposto neste artigo, o
 Executivo Municipal deverá:
+
 a) realizar regularmente programas de limpeza urbana, priorizando
 mutirões e dias de faxina;
+
 b) promover periodicamente campanhas educativas através dos meios de
 comunicação de massa;
+
 c) realizar palestras e visitas às escolas, promover mostras itinerantes,
 apresentar audiovisuais, editar folhetos e cartilhas explicativas;
+
 d) desenvolver programas de informação, através da educação formal e
 informal, sobre materiais recicláveis e matérias biodegradáveis;
+
 e) celebrar convênios com entidades públicas ou particulares,
 objetivando a viabilização das disposições previstas neste capítulo.
+
 f) Incluir nos currículos escolares do ensino fundamental administrado
 nas escolas municipais aulas de educação ambiental.
 

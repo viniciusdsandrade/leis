@@ -30,6 +30,7 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1o. - Fica aprovado o Calendário Oficial de Eventos do Município de
 Nova Prata, conforme consta no Anexo I desta Lei.
+
 Parágrafo único - O Poder Executivo Municipal, regulamentará cada um
 dos Eventos do anexo I, remetendo projeto de lei específico, com previsão de eventuais
 despesas com a organização individual dos mesmos.

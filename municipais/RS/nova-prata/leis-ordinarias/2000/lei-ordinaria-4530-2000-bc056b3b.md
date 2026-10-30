@@ -36,6 +36,7 @@ sanciono e promulgo a seguinte Lei:
 Artº 1 - Ficam transformados em reais, todos os valores fixados em ufirs
 constantes nas legislações municipais, que estipulem valores pelo referido índice extinto
 por lei federal.
+
 Parágrafo único - A transformação ocorrerá de forma retroativa,
 considerando-se a data da referida extinção, pelo valor que vigorava na mesma.
 
@@ -143,6 +144,7 @@ D) Em tendas, estandes, similares, inclusive nas feiras, anexo ou não a
 veículo.................................................................................................53,62
 
 2) Em caráter eventual ou transitório:
+
 a) quando a transitoriedade ou eventualidade não for superior a 10 dias, por dia:
 1. sem veículo..................................................................................10,00
 2. com veículo de tração manual.....................................................12,00
@@ -169,6 +171,7 @@ ANEXO VI
 DA TAXA DE LICENÇA PARA EXECUÇÃO DE OBRAS
 (em reais)
 I. Pela aprovação ou revalidação de projetos de:
+
 a) construção, reconstrução, reforma ou
 aumento de madeira ou misto:
 1. com área de até 100 m2, por

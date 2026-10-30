@@ -39,6 +39,7 @@ que se deslocam a Bento Gonçalves.
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar
 subvenção a União dos Acadêmicos Pratenses, no valor de R$10.947,20 (dez mil,
 novecentos e quarenta e sete reais e vinte centavos).
+
 Parágrafo único - O repasse a UNAP, será em oito parcelas mensais de
 R$1.368,40, a partir do mês de abril de 2001, repassados até o dia 30 de cada mês.
 

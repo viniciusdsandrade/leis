@@ -25,12 +25,15 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - A Rua compreendida entre as Quadras “K” lado norte, “J” lado
 sul, “A” lado norte e “B” lado sul do Bairro Promorar que vai da divisa da ABEN
 passando pela Vila Mutirão, até o final da Vila Colméia, passa a denominar-se RUA
 ALCIDES RIBEIRO DE CARVALHO.
+
 Art. 2º - O Executivo, providenciará num prazo de noventa dias, a
 fixação de placas com a denominação da rua em local adequado.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

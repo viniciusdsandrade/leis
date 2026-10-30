@@ -33,24 +33,32 @@ Art. 1.º - Fica o Município de Nova Prata, autorizado a realizar os
 seguintes eventos, constantes no calendário esportivo do ano de 2001, de
 responsabilidade da Secretaria Municipal de Turismo e Desporto, ficando autorizado
 também, a dispender os valores que discrimina:
+
 I - 4.º Campeonato Municipal Amador de Futebol de Campo, valor até
 R$ 3.800,00 (três mil e oitocentos reais);
+
 II - 4.º Campeonato Municipal Inter-horários de Futsal, valor até R$
 2.500,00 (dois mil e quinhentos reais);
+
 III - 3.ª Olimpíada Primaveril de Veteranos, valor até R$ 1.000,00 (um
 mil reais);
+
 IV - Prova de Rallye na Cidade de Nova Prata, valor até R$ 1.500,00 (um
 mil e quinhentos reais);
+
 V - 26.º Campeonato de Verão Masculino e 2.º Campeonato de Verão
 Feminino, valor até R$ 1.000,00 (um mil reais);
+
 Art. 2.º - O período de realização dos eventos, bem como quem são os
 participantes, constam na programação dos mesmos, que fica fazendo parte integrante
 da presente Lei Municipal.
+
 Art. 3.º - As despesas decorrentes da execução da presente Lei
 Municipal, correrão por conta de dotação orçamentária, classificada sob código: 09 -
 Secretaria de Turismo e Desporto; 01 - Unidades Subordinadas; 11653642.048 -
 Implantação do Calendário Eventos Esportivos e Manutenção CMD; 3.1.3.2.01.00 -
 Serviços e Encargos Gerais (275).
+
 Art. 4.º - Revogadas as disposições em contrário, esta Lei entrará em vigor
 na data de sua publicação.
 

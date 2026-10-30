@@ -31,13 +31,16 @@ da alteração do art. 12 da referida legislação, com a seguinte redação:
 
 Art. 1º - Da nova redação ao caput do artigo 12 da Lei Orgânica
 Municipal, conforme segue:
+
 Art. 12 - A Sessão Legislativa Anual compreenderá o período de primeiro de
 fevereiro até trinta e um de dezembro.
 
 Art. 2º - Fica revogado o parágrafo único, e acrescido o parágrafo
 primeiro e segundo no artigo 12 da Lei Orgânica Municipal de Nova Prata, quais
 passam a ter as seguintes redações:
+
 § 1º - O início do período da Sessão Legislativa independe de convocação.
+
 § 2º - Durante a Sessão Legislativa Ordinária, a Câmara Municipal funcionará no
 mínimo 4 (quatro) vezes por mês.
 

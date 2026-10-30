@@ -26,6 +26,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - Fica reajustado a partir de 1º de janeiro de 1991 em 50%
 (cinquenta por cento) os vencimentos dos funcionários públicos Municipais e do
 Quadro de Cargos Comissionados e Funções Gratificadas, sobre os valores vigentes em

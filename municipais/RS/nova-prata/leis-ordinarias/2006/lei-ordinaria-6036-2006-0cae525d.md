@@ -39,6 +39,7 @@ leito da Av.Borges de Medeiros, ao LESTE na extensão de 20,00m com a Av.Borges 
 Medeiros lado ímpar, donde dista pelo lado sul 40,50m da esquina com a Rua Mário
 Coradin, e finalmente ao OESTE na extensão de 20,00m, confronta com área
 remanescente da transcrição 12.714, do Registro de Imóveis da Comarca de Nova Prata.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, levantamento topográfico, memorial descritivo, laudo de avaliação e o
 registro do imóvel em questão.

@@ -27,6 +27,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - É concedido um auxílio financeiro a Senhora Marilene M. F.
 Peruzzo, no valor de CR$ 2.500,00 (dois mil e quinhentos cruzeiros reais), para pagamento
 e/ou reembolso de despesas com tratamento periodontal e protético no seu filho Fernando,

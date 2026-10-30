@@ -49,6 +49,7 @@ correrão por conta de dotação orçamentária, classificada sob código: 05 - 
 Educação e Cultura; 01 - Unidades Subordinadas; 08421881.013 - Manutenção de
 Escolinhas de Esporte, Danças e Teatros nas Escolas Municipais; 3.2.3.1 - Subvenções
 Sociais (112).
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 

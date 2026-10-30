@@ -35,6 +35,7 @@ Aditivo ao Convênio com a Associação Riograndense de Empreendimentos de Assis
 Técnica e Extensão Rural – EMATER/RS e com a Associação Sulina de Crédito e
 Assistência Rural – ASCAR, no sentido de prorrogar o referido Convênio até o final do
 exercício de 2007.
+
 Parágrafo único – O Convênio foi firmado através da autorização da Lei
 Municipal nº 5048/2003.
 
@@ -94,6 +95,7 @@ A Cláusula Terceira do Convênio Original passa a vigorar com a seguinte altera
 
 CLÁUSULA TERCEIRA: ...
 .
+
 f) contribuir, financeiramente, a partir de janeiro de 2007, com a importância de R$
 919,45 (novecentos e dezenove reais e quarenta e cinco centavos) por técnico utilizado
 no cumprimento das atividades objeto do presente instrumento, o que constituirá

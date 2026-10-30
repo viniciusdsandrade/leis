@@ -54,14 +54,17 @@ esforços para promover e propiciar a recuperação do menor abandonado junto à
 Técnica e Artesanal que funciona na sede da ABEN, assistindo-o material e
 culturalmente.
 2ª Compete ao Município de Nova Prata:
+
 a) ceder até 10 (dez) funcionários, entre professores,
 atendentes e operários, para exercício de seu cargo na
 Sede da Associação Beneficente e Educacional de Nova
 Prata - ABEN.
+
 b) emitir, junto a Administração Municipal, diretrizes e
 normas administrativas para acompanhamento da
 contrapartida e da situação funcional dos funcionários
 cedidos;
+
 c) supervisionar as obrigações decorrentes deste Convênio
 de Colaboração.
 3ª Compete à ABEN:
@@ -74,6 +77,7 @@ c)cumprir os fins da Associação, condicionado meios
 positivos para que a pessoa carente possa tornar-se elemento vivo e
 participante da Comunidade, acatando as sugestões da
 Administração Municipal.
+
 d) estimular participação de pais nas suas promoções;
 e)atender os critérios e procedimentos para execução deste
 Convênio que forem emitidos pelo Município.

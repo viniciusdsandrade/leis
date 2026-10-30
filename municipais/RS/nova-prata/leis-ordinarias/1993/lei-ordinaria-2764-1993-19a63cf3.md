@@ -25,15 +25,19 @@ JURACI PRESECENDO, VICE-PREFEITO EM EXERCÍCIO DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É concedida uma Subvenção ao Clube Grêmio Pratense, no
 valor de Cr$ 3.600.000,00 (Três milhões e seiscentos mil cruzeiros), para pagamento de
 despesas com a promoção do Carnaval/93, como faixas, iluminação, sonorização e
 outros afins.
+
 Art. 2º ‑ A entidade ora subvencionada fica obrigada a prestar contas da
 Subvenção recebida no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 08482472.022 ‑ Apoio Financeiro a Entidades Culturais;
 3.2.3.1 ‑Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

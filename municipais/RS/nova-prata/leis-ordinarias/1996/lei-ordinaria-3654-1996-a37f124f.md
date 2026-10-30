@@ -26,15 +26,18 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei;
+
 Art. 1º - Fica o Executivo autorizado a doar à Empresa de Ughes
 Cherubini, uma área de terras de 2.680,94m2, (dois mil, seiscentos e oitenta metros
 quadrados e noventa e quatro decímetros quadrados), no Distrito Industrial, para
 ampliação da Empresa.
 Parágrafo Único - A empresa obriga-se a atender às determinações do
 órgão responsável pela defesa do Meio Ambiente.
+
 Art. 2º - Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área doada, obedecendo aos dispositivos da Legislação própria da área
 industrial.
+
 Art. 3º - Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

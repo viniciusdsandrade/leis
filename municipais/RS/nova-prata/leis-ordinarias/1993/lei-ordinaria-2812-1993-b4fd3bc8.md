@@ -29,11 +29,14 @@ promulgo a seguinte Lei:
 Art. 1º ‑ É concedida uma subvenção à Brigada Militar de Nova Prata,
 no valor de Cr$ 20.000.000,00 (vinte milhões de cruzeiros) para pagamento de despesas
 pelo conserto da viatura Placas BM‑1058.
+
 Art. 2º ‑ A entidade subvencionada obriga‑se a prestar contas da
 subvenção recebida, no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária; 0301.06301772.006 ‑ Auxílio à Brigada Militar do
 Município; 3.2.3.1 ‑ Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

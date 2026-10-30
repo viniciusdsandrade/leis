@@ -34,6 +34,7 @@ Art. 1º - Fica dispensado do pagamento do Imposto Predial e Territorial
 Urbano - IPTU, o Senhor Evaldo Francisco Schneider, relativo ao exercício de 1991,
 lançado sobre o imóvel de sua propriedade sito à Av. Luiz Marafon, nº 1435, nesta
 cidade, por ser portador de deficiência física.
+
 Parágrafo único - É dispensado também, do pagamento dos acréscimos
 legais que porventura existirem sobre o referido débito.
 

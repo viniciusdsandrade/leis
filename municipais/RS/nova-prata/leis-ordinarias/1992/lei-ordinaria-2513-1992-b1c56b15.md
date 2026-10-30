@@ -33,11 +33,13 @@ físico Francisco Augusto Filbonska, residente na localidade da Capela Santa Cat
 Linha Bento Gonçalves, neste Município.
 Parágrafo Único - O equipamento a ser adquirido não deverá ultrapassar
 o valor de Cr$ 1.800.000,00 (Um milhão e oitocentos mil cruzeiros).
+
 Art. 2.º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária: 08 - Secretaria de Saúde e Meio Ambiente; 01 - Unidades Subordinadas;
 0801.13 - Saúde e Saneamento; 0801.1375 - Saúde; 0801.1375428 - Assistência Médica
 e Sanitária; 0801.13754282.038 - Assistência Médica a População; 3.1.3.2 - Outros
 Serviços e Encargos.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -31,8 +31,10 @@ Art. 1.º - É concedida uma Subvenção ao Conselho Pratense de
 Juventude Rural - Coprajur, até o valor de Cr$ 4.964.600,00,para pagamento de
 despesas relativas à realização dos VII Jogos Rurais de Nova Prata, promovido pelo
 mesmo, no próximo dia 29 de março.
+
 Art. 2.º - A entidade ora subvencionada obriga-se a prestar contas dos
 recursos concedidos no prazo de 10 dias após o evento.
+
 Art. 3º - As despesas decorrentes desta Lei correrão por conta da rubrica
 orçamentária: 0701 - Secretaria da Agricultura e Abastecimento; 0701.04070212.030 -
 Manutenção das Atividades da Secretaria; 3.2.3.1 - Subvenções Sociais.

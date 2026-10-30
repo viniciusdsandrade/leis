@@ -37,6 +37,7 @@ Celsimar Angelo Battistel, Roberto Battistel, Nelson José Battistel e Sandra Ba
 Defaveri, atingido pelo prolongamento da Rua Garibaldi, localizado no quarteirão formado
 pelas Ruas Imigrantes, Miguel Bruno Froener, Conselheiro Stockmans e RS- 324, neste
 Município, matriculado sob nº 11.639 do Registro de Imóveis de Nova Prata.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei Municipal,
 levantamento topográfico, memorial descritivo, declaração dos proprietários concordando
 com a doação com encargos, laudo de avaliação e o registro do imóvel em questão.
@@ -44,6 +45,7 @@ com a doação com encargos, laudo de avaliação e o registro do imóvel em que
 Art. 2.º - A doação de que trata o artigo anterior será recebida pelo
 Município, com encargo para este, consistente na participação com a mão-de-obra na
 execução e abertura do trecho da Rua Garibaldi.
+
 Parágrafo único - O material a ser usado na abertura da Rua Garibaldi, será
 por conta dos proprietários, conforme declaração que faz parte integrante desta Lei.
 

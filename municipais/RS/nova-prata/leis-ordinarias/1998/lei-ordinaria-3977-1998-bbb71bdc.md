@@ -32,13 +32,17 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1.º - Ficam alteradas as denominações de logradouros públicos,
 conforme abaixo especifica:
+
 I - A Rua Armando Lorenzini, denominada pela Lei Municipal n.º
 3825/97, passa a denominar-se de Rua Araucária;
+
 II - A Rua João Bucholz passa a denominar-se de Rua Graciano
 Fochesatto;
+
 III - A Rua Mutirão passa a denominar-se de Rua Estácio Sobiesiak,
 localizada no Loteamento Camargo, com início na Av. Carlos Tarasconi e fim na Rua
 Eutichiano Davi;
+
 IV - A Rua A do Loteamento Vila Verde, com início na Rua Antonio
 Prado e fim na Quadra Q-D, onde localiza-se a Área Verde, passa a denominar-se de
 Rua João Bucholz.

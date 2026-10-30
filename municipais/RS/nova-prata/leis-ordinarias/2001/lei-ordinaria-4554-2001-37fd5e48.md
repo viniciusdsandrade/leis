@@ -34,6 +34,7 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a conceder auxílio
 financeiro de R$600,00 (seiscentos reais), a Senhora Lenira Teresinha Busato, com
 objetivo de auxiliar no pagamento e/ou reembolso de despesas de tratamento de
 fisioterapia, necessário em sua pessoa.
+
 Parágrafo único - A beneficiária, deverá comprovar o pagamento, no
 prazo de 6 (seis) meses, mediante entrega de fotocópia do recibo ou nota fiscal, sob
 pena de devolução dos valores concedidos e, ainda, não concessão de novos auxílios.

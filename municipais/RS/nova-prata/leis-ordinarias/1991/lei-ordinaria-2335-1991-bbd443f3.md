@@ -32,13 +32,16 @@ Art. 1.º - É concedida uma Subvenção ao CTGS Querência do Prata e
 Retorno a Querência, no valor de Cr$ 70.000,00 (setenta mil cruzeiros) para pagamento
 de despesas com transporte das invernadas artísticas à Cidade de Ijuí-RS, onde
 participarão do Concurso de 1ªs Prendas Estaduais, de 23 a 26.05.91.
+
 Art. 2º - As entidades ora subvencionadas obrigam-se a prestar contas
 dos recursos recebidos no prazo de 15 (quinze) dias.
+
 Art. 3º - As despesas decorrentes da aplicação desta Lei, correrão por
 conta da rubrica orçamentária: 09 - Secretaria de Turismo e Desporto; 0901 – Secretaria
 de Turismo e Desporto; 0901.11 - Indústria, Comércio e Serviço; 0901.1165 – Turismo;
 0901.1165363 - Promoção do Turismo; 0901.11653631.035 – Empreendimentos
 Turísticos.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

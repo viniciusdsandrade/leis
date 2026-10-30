@@ -32,12 +32,14 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívidas, correspondente a Imposto predial territorial urbano, a Senhora
 Ophelia Sander Guidini, incidente sobre um imóvel que encontra-se registrado em nome
 de Arthur Guidini, seu falecido esposo.
+
 Parágrafo único - O valor da remissão é de R$71,87 (setenta e um reais
 e oitenta e sete centavos), corrigidos até 30 de novembro de 1999.
 
 Art. 2.º - O fundamento da remissão, é o fato da Senhora referida no
 Artigo anterior, perceber o valor de R$164,45 de aposentadoria, residir sozinha e ser
 pessoa de idade, com muitos gastos com medicamentos.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, fotocópia do requerimento firmado pela Sra. Ophelia Sander Guidini,
 dirigido ao Gabinete do Prefeito Municipal.

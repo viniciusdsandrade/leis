@@ -42,6 +42,7 @@ perfuração total do poço, sendo que os interessados arcarão com as demais de
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a ceder o poço
 artesiano em caráter definitivo para a Comunidade de Gramado, onde servirá para o fim descrito
 no Artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do Município,
 realizará fiscalização nas obras.
 

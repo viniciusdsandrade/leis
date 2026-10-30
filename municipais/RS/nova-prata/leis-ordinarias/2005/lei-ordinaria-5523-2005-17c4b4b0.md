@@ -28,6 +28,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu
 sanciono e promulgo a seguinte Lei:
+
 Art. 1º - São criados os seguintes empregos, regidos pela CLT e providos
 mediante concurso público, destinados ao atendimento dos Programas de Agentes
 Comunitários de Saúde – PACS e Saúde da Família – PSF:
@@ -44,15 +45,19 @@ Dentário
 
 § 1º - As especificações dos empregos criados por este artigo são as que
 constam no Anexo Único, que faz parte integrante desta Lei.
+
 § 2º - A manutenção dos contratos de trabalho firmados com os
 aprovados em concurso público para ocupar os empregos criados pelo caput fica
 condicionada a continuidade do repasse de verba para a execução dos programas
 respectivos.
+
 Art. 2º - Ao Enfermeiro designado para supervisionar e coordenar as
 atividades dos programas referidos no art. 1º, é atribuída a gratificação mensal
 correspondente a 10% (dez por cento) do seu salário básico mensal.
+
 Art. 3º - As despesas decorrentes desta Lei serão atendidas por conta das
 seguintes dotações orçamentárias:
+
 Art. 4º - Esta Lei entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -82,12 +87,16 @@ que promovam a qualidade de vida; desenvolver outras atividades pertinentes à f
 do Agente Comunitário de Saúde.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 40 horas semanais, inclusive em
 regime de plantão e trabalho em domingos e feriados.
 
 REQUISITOS PARA INGRESSO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade: Ensino Fundamental completo;
+
 c) Residir na área da comunidade em que atuar.
 
 RECRUTAMENTO: através de concurso público.
@@ -113,12 +122,16 @@ ambulatoriais; indicar internação hospitalar; solicitar exames complementares;
 e atestar óbito; executar outras tarefas afins.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 40 horas semanais, inclusive em
 regime de plantão e trabalho em domingos e feriados.
 
 REQUISITOS PARA INGRESSO:
+
 a) Idade: mínima de 21 (vinte e um) anos;
+
 b) Escolaridade: Nível Superior completo.
+
 c) Habilitação: habilitação legal para o exercício da profissão de
 Médico. Registro no Conselho Regional de Medicina.
 
@@ -146,12 +159,16 @@ organização do processo de trabalho das Unidades de Saúde da família (USF); 
 outras atividades afins.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 40 horas semanais, inclusive em
 regime de plantão e trabalho em domingos e feriados.
 
 REQUISITOS PARA INGRESSO:
+
 a) Idade: mínima de 21 (vinte e um) anos;
+
 b) Escolaridade: Nível Superior completo.
+
 c) Habilitação: habilitação legal para o exercício da profissão de
 Enfermeiro. Registro no Conselho Regional de Enfermagem.
 
@@ -175,12 +192,16 @@ contagiosas; participar da discussão e organização do processo de trabalho da
 de saúde; exercer outras tarefas afins.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 40 horas semanais, inclusive em
 regime de plantão e trabalho em domingos e feriados.
 
 REQUISITOS PARA INGRESSO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade: Curso Técnico em Enfermagem completo.
+
 c) Habilitação: habilitação legal para o exercício da profissão de
 Técnico em Enfermagem. Registro no Conselho Regional de
 Enfermagem.
@@ -211,11 +232,15 @@ desenvolvido pelo Técnico em Higiene Dental (THD) e o Atendente de Consultório
 Dentário (ACD) e executar outras tarefas afins.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 40 horas semanais.
 
 REQUISITOS PARA INGRESSO:
+
 a) Idade: mínima de 21 (vinte e um) anos;
+
 b) Escolaridade: Curso Superior completo.
+
 c) Habilitação: habilitação legal para o exercício da profissão de
 Odontólogo. Registro no Conselho Regional de Odontologia.
 
@@ -242,10 +267,13 @@ Básica da Saúde da família e espaços sociais identificados; Registrar no Sia
 procedimentos de sua competência realizados.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 40 horas semanais.
 
 REQUISITOS PARA INGRESSO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade: Ensino Fundamental completo.
 
 RECRUTAMENTO: através de concurso público.

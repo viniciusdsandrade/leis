@@ -30,9 +30,11 @@ Art. 1º ‑ É concedido um auxílio financeiro a Marilene Peruzzo, no valor
 de Cr$ 700.000,00 (setecentos mil cruzeiros), para reembolso e/ou pagamento de
 despesas com tratamento periodontal e protético na Clínica Odontológica Savaris Ltda,
 de seu filho Fernando Peruzzo.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 ‑ Assistência Médica à População;
 3.2.5.9 ‑ Outras Transferências a Pessoas.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

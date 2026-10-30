@@ -32,6 +32,7 @@ Município de Guabijú para o fim de estabelecer a prestação de contas definit
 resultante da emancipação do ex-distrito de Guabijú do Município- Mãe Nova Prata.
 
 Art. 2.º - O Termo de Acordo a ser firmado constituirá no seguinte:
+
 a) Obrigações do Município de Nova Prata:
 1º - Fornecimento de 80.000 (oitenta mil) mudas de Eucalipto e Acácia
 Negra a ser entregue no Viveiro Florestal do Município de Nova Prata, em número de
@@ -43,17 +44,21 @@ semanal e carregamento até 30m3 (trinta metros cúbicos);
 3º - Fornecimento de 80 (oitenta) tubos de concreto, diâmetro de 0,40cm
 (quarenta centímetros) a serem entregues no Município de Nova Prata, quantidade de
 entrega totalizando 20 (vinte) tubos e a partir de novembro de 1991;
+
 b) obrigações do Município de Guabijú:
 1º - O transporte dos produtos de circulação ou mercadorias serão de
 inteira responsabilidade da Prefeitura Municipal de Guabijú.
+
 c) Obrigações Mútuas:
 1º - Os honorários profissionais da ação ordinária da cobrança, oriundos
 do processo n.º 8.797-034/90, serão suportadas pelas Prefeituras de Nova Prata e
 Guabijú aos seus respectivos advogados e representantes legais.
+
 Art. 3º - Os saldos acordados se referem somente ao período em que
 Guabijú foi membro de Nova Prata e ficam inexigíveis quaisquer valores,
 independentes de sua natureza, reciprocamente entre os Municípios acordantes,
 ressalvados os termos da autorização legislativa do poder do Município de Guabijú.
+
 Art. 4.º - Revogadas as disposições em contrário esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

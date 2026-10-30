@@ -35,9 +35,11 @@ com 700,00 m2 (setecentos metros quadrados), no Distrito Industrial do Municípi
 instalação de Indústria.
 Parágrafo Único - A empresa obriga-se a atender às determinações do
 órgão responsável pela defesa do Meio Ambiente.
+
 Art. 2.º - Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área doada, obedecendo aos dispositivos da Legislação própria da Área
 Industrial.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

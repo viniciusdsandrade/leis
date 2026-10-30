@@ -29,6 +29,7 @@ promulgo a seguinte Lei:
 
 Art. 1.º - É autorizado pagamento das despesas relativas à refeições dos
 colaboradores no escrutínio das eleições para o Estado de 25.11.90.
+
 Parágrafo único - As despesas autorizadas no caput deste artigo não
 poderão ultrapassar a Cr$ 25.000,00 (vinte e cinco mil cruzeiros).
 

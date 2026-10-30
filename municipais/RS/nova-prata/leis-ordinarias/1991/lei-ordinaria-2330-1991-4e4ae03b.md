@@ -31,6 +31,7 @@ promulgo a seguinte Lei:
 
 Art. 1º - Fica dispensado do pagamento do Imposto Predial e Territorial
 Urbano – IPTU, relativo ao exercício de1991, o Senhor Ilário Primieri.
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -35,20 +35,29 @@ diretrizes de que trata esta Lei e as metas prioritárias constantes do ANEXO I.
 
 § 1.º - Ficam estabelecidos, como parte integrante da presente Lei, o
 Anexo 2, de metas fiscais, conforme § 1º, do art. 4º, da LC 101-2000, compreendendo:
+
 a) cálculo da receita corrente líquida, modelo 4;
+
 b) resultado nominal e primário, modelo 5;
+
 c) consolidação da dívida pública, modelo 6;
+
 d) demonstrativo de despesas com pessoal, modelo 7 para o
 Executivo e modelo 8 e 8-1 para o Legislativo;
+
 e) previsão da receita para os exercícios de 2002, 2003 e 2004, a
 realizada nos exercícios de 1999 e 2000 e a projetada para o exercício corrente, modelo
 9;
+
 f) demonstrativo da aplicação de recursos decorrentes da alienação de
 ativos, modelo 10;
+
 g) demonstrativo da evolução do Patrimônio Municipal, referente aos
 exercícios de 1998,1999 e 2000, modelo 10;
+
 h) demonstrativo da situação patrimonial no exercício de 2000,
 modelo 11.
+
 § 2.º - Integra a presente Lei o Anexo 3, de Riscos Fiscais.
 
 Art. 2.º - A partir das prioridades e objetivos constantes do anexo de
@@ -154,6 +163,7 @@ do exercício e deverão ser apreciadas antes da aprovação da proposta orçame
 
 Art. 8.º - Nos projetos de leis orçamentárias constarão as seguintes
 autorizações:
+
 I - para abertura de critérios suplementares;
 
 3

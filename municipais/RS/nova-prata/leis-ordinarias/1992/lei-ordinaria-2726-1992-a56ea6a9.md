@@ -25,23 +25,32 @@ JOAO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É alterada a redação do artigo 17 da Lei Municipal nº 1593 de
 23.12.82 que Modifica e Amplia o Plano Diretor da Cidade que passa a ter a seguinte
 redagao:
 “Art. 17 - ...
+
 § 1º ‑ ...
+
 § 2º - A divisa lateral poderá ser ocupada para circulação vertical, isto é,
 caixa de escada e elevador.
+
 § 3º ‑ ...
+
 § 4º ‑ Na construção de apartamento de cobertura, deverá ser observado
 um afastamento em pelo menos 2 (dois) lados de 2 (dois) metros dos parâmetros
 externos do prédio e, para esta área não ser computada no índice de aproveitamento, ela
 não poderá ser maior do que 50% (cinqüenta por cento) da do pavimento tipo.
+
 § 5º ‑ ...
+
 § 6º‑ ...
+
 § 7º- Será permitida, em terreno com desnível, a ocupação do subsolo em
 100% (cem por cento) nas seguintes condições:
 I ‑ ter uma altura de no máximo 2 (dois) pavimentos;
+
 II - sua ocupação poderá ser tanto residencial quanto comercial ou
 garagem/dep6sito, desde que satisfaça as condições da Lei;
 III ‑ de garagem ou dep6sito a área não é computada no índice de
@@ -50,9 +59,11 @@ IV ‑ o subsolo poderá ser ocupado em 100% (cem por cento) de modo
 que o seu pé‑direito não ultrapasse a 70 (setenta) centímetros do nível médio do passeio;
 V ‑ Deverá ser apresentado um estudo da taxa de ocupação para a torre
 do prédio.
+
 § 8º ‑ Para terrenos que possuam duas frentes opostas será adotado um
 eixo divis6rio, paralelo às ruas, dividindo o terreno ao meio, sendo que o índice de
 aproveitamento e a taxa de ocupação e alteração sejam pertinentes para cada lado".
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

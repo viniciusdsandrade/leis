@@ -32,20 +32,25 @@ Art. 1º ‑ Fica autorizada a cedência de um marceneiro, dois operários e
 seis professores, funcionários do quadro permanente de cargos do Município de Nova
 Prata à Associação Beneficente e Educacional de Nova Prata - ABEN, para desempenho
 nas respectivas funções.
+
 Art. 2º ‑ As cedências a que se refere o artigo anterior é pelo prazo certo
 de 1 (um) ano, podendo ser renovada por igual período, observadas as disponibilidades
 do Município e a necessidade da ABEN.
+
 Art. 3º ‑ Os funcionários cedidos desempenharão as mesmas funções no
 órgão cessionário, percebendo a mesma remuneração do cargo respectivo, cujo
 pagamento, encargos sociais e promoção ficam de total responsabilidade do órgão
 cedente.
+
 Parágrafo único ‑ Os funcionários cedidos poderão ainda perceber
 remuneração equivalente a horas‑extras de trabalho eventualmente prestadas,
 atendendo às necessidades e convocação da ABEN, que também serão pagas pelo
 Município cedente.
+
 Art. 4º ‑ A ABEN fica obrigada, durante o período de cedência com ônus
 para o Município, a comunicar a efetividade dos funcionários cedidos bem como
 quaisquer outras ocorrências relativas à vida funcional.
+
 Art. 5º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

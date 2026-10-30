@@ -27,17 +27,21 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É o Executivo Municipal autoriza a firmar Convênio com a
 Universidade de Caxias do Sul visando a realização de Custos de Atualização de
 Professores em Currículos de Atividades, a ser ministrado pelo mesma aos professores
 do âmbito municipal.
+
 Art. 2º - O Convênio ora autorizado será firmado segundo as disposições
 da minuta anexa que faz parte integrante desta Lei.
+
 Art. 3º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 05 - Secretaria de Educação e Cultura; 0501 - Secretaria
 de Educação e Cultura; 0501.08 - Educação e Cultura; 0501.0807 - Administração;
 0501.0807021 - Administração Geral; 0501.08070212.005 - Manutenção e
 Desenvolvimento das atividades da Secretaria.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -86,4 +90,5 @@ prédio de alvenaria, construído no Viveiro Florestal de Nova Prata, ambos de p
 MUNICÍPIO, para uso da bolsa de sementes da Secretaria de Agricultura e Abastecimento -
 Departamento de Recursos Naturais Renováveis.
 CLÁUSULA SEGUNDA - Constituem obrigações das partes:
+
 a) da Secretaria de Agricultura e Abastecimento - Departamento de Recursos Renováveis:

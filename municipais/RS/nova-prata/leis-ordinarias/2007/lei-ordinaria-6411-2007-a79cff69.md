@@ -36,8 +36,10 @@ seguintes da lei municipal nº 5760/05, que instituiu o Regime Jurídico Único 
 Município.
 Par. 1.º - A contratação de que trata a presente lei, será pelos seguintes
 períodos:
+
 I – uma contratação com início imediato e término em 30 de dezembro de
 2007;
+
 II – uma contratação pelo período de 4 (quatro) meses, com início na data
 de entrada em licença gestante da titular do cargo;
 Par. 2º - Os professores contratados atuarão no ensino fundamental, área
@@ -48,17 +50,23 @@ horas semanais.
 Par. 4º - Fica fazendo parte integrante da presente Lei Municipal,
 requerimento da Secretaria Municipal de Educação e Cultura, justificando a necessidade
 da contratação que trata o caput deste artigo.
+
 Art. 2º - O contrato será de natureza administrativa, ficando assegurado
 os seguintes direitos aos contratados:
+
 I – repouso semanal remunerado e gratificação natalina proporcional, nos
 termos da Lei Municipal 5760/05;
+
 II – férias proporcionais, ao término do contrato;
+
 III – inscrição no regime Geral de Previdência Social.
+
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,
 correrão por conta das seguintes dotações orçamentárias: 05 – Secretaria Municipal de
 Educação; 02 – Fundef; 12.361.0047.2024 – Fundef; 3.1.90.04.01.01.00.00 –
 Contratação por tempo determinado de professores (1459); 3.1.9.0.04.15.00.00.00 –
 Obrigações Patronais (1460).
+
 Art. 4º - Esta Lei Municipal entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -31,6 +31,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívida, correspondente a Taxa de Fiscalização e Vistoria (Alvará) e ISSQN
 do contribuinte Claudiomiro da Silva.
+
 Parágrafo único - O valor da remissão é de R$ 489,84 (quatrocentos e
 oitenta e nove reais e oitenta e quatro centavos), dos períodos de 1993 à 1999.
 

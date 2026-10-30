@@ -33,18 +33,31 @@ Art. 1.º - O Artigo 21 e Artigo 22 da Lei Municipal N.º 4300/1999,
 passam a vigorar com a seguinte redação:
 “Art. 21 - As prestações asseguradas pelo IPRAM consistem em
 benefícios, a saber:
+
 I - quanto aos associados:
+
 a) - aposentadoria.
+
 II - quanto aos dependentes:
+
 a) - auxílio reclusão;
+
 b) - auxílio funeral.
+
 III - quanto aos pensionistas:
+
 a) - pensão;
+
 b) - abono natalino;
+
 c) - auxílio funeral, pela morte do pensionista titular.
+
 IV - quanto aos beneficiários em geral:
+
 a) - assistência a saúde;
+
 b) - assistência financeira;
+
 b) - assistência complementar.”
 “Art. 22 - Para efeitos da presente Lei, consideram-se como sendo
 Benefícios da Previdência Social, a aposentadoria, a pensão, o auxílio reclusão e o

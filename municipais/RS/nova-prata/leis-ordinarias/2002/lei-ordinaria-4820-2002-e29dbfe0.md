@@ -34,6 +34,7 @@ despesas de até R$1.140,00 (um mil, cento e quarenta reais) com hospedagem e
 alimentação com até 30 (trinta) pessoas, Presidentes de Associações do Rio Grande do
 Sul, dos Grupos Melhor Idade, para realização de um FAMTUR nos dias 15 e 16 de
 junho de 2002.
+
 Parágrafo único - O objetivo do FAMTUR é a divulgação do potencial e
 produtos turísticos de Nova Prata.
 

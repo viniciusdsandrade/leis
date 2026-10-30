@@ -38,6 +38,7 @@ BT, na Estrada Buarque de Macedo – Rio Branco, beneficiando 02 famílias.
 Art. 2.º - O valor da participação do Município na obra, será de R$
 5.000,00 (cinco mil reais), os quais serão pagos diretamente a empresa responsável pela
 obra, mediante emissão de Nota Fiscal.
+
 Parágrafo único – eventuais gastos a maior, em relação ao valor
 constante no caput deste artigo, serão de responsabilidade dos beneficiados.
 

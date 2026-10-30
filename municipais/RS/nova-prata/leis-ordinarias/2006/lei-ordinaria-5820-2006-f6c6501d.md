@@ -42,6 +42,7 @@ CNPJ sob n.º 89.076.236/0001-15, com a finalidade de assegurar 5 (cinco) vagas 
 crianças ou adolescentes do sexo feminino encaminhadas pela Secretaria Municipal de
 Assistência Social, Conselho Tutelar de Nova Prata ou Ministério Público, que estejam
 em situação de desamparados ou em situação de risco.
+
 Parágrafo único - O prazo do convênio é até o final do exercício
 financeiro de 2006, podendo ser prorrogado até o final de 2007, desde que haja interesse
 das partes.

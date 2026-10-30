@@ -27,10 +27,12 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - O inciso I do Artigo 10 da Lei Municipal Nº 2748 de 31.12.92,
 que dispõe sobre a Inclusão do Benefício Aposentadoria nas Prestações Devidas pelo
 IPRAM-NP, e Dá Outras Providências, passa a vigir com a seguinte redação:
 “Art. 10 - ...
+
 I - dos associados em geral, na porcentagem de 9%( nove por cento)
 sobre o total de seu vencimento, inclusive servidores aposentados.
 II -...”

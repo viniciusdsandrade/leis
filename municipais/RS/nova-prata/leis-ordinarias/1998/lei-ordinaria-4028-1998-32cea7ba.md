@@ -33,6 +33,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a firmar Termo
 de Convênio, com a Associação Casa da Cultura, inscrita no CGC/MF sob n.
 91612408/0001-70, com o objetivo de transferir a administração do uso do prédio do
 Cine Lux, alugado pelo Município, através do contrato n. 016/98.
+
 Parágrafo único - O uso do Cine Lux, será para eventos culturais e
 artísticos, compreendendo teatros, palestras, seminários, cursos, projeção de filmes e
 outras atividades de interesse público e comunitário.

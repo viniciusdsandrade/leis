@@ -44,6 +44,7 @@ outro período igual, havendo interesse das partes e, em especial interesse púb
 
 Art. 3.º - Fica autorizado o Chefe do Poder Executivo, a assinar o termo
 de permissão de uso,o qual fica fazendo parte integrante da presente Lei Municipal.
+
 Parágrafo único – As demais condições constam especificamente no
 termo de permissão de uso.
 

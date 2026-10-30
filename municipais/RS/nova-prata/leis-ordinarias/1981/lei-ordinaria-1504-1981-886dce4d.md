@@ -31,12 +31,16 @@ seguinte Lei:
 Art. 1.º - As entidades beneficentes situadas neste Município, poderão ser
 reconhecidas de utilidade pública desde que satisfaçam todos os requisitos exigidos pela
 União e Estado para tal reconhecimento.
+
 Art. 2.º - As entidades interessadas deverão requerer o benefício ao
 Prefeito, comprovando a satisfação dos requisitos legais.i.
+
 Art. 3.º - O Prefeito Municipal fará o reconhecimento perante Decreto.
+
 Art. 4.º - O Prefeito, no prazo de 30 dias da promulgação da Lei, baixará
 Decreto de regulamentação a esta Lei, no qual constarão expressamente todos os
 requisitos exigidos para o reconhecimento.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

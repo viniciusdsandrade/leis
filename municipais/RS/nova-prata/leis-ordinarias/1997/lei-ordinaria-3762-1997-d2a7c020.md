@@ -32,27 +32,38 @@ Art. 1.º - As infrações às disposições tributárias vigentes serão punida
 com seguintes penalidades:
 
 Parágrafo Primeiro - Multa na importância de 50 UFIRS, nos casos de :
+
 a) - Falta de inscrição ou de sua atualização, comunicação de
 transferência de estabelecimento, encerramento ou alteração da atividade feita fora do
 prazo:
+
 b) - Falta de livros fiscais;
+
 c) - Atraso na escrituração dos livros fiscais;
+
 d) - Escrituração incorreta dos livros fiscais.
 
 Parágrafo Segundo - Multa da importância de 100 UFIRS, nos casos de:
+
 a) - Falta de fornecimento de informações solicitadas ou que por força de
 Lei sejam abrigados a fornecer;
+
 b) - Erro, Omissão ou Falsidade nas informações prestadas.
 
 Parágrafo Terceiro - Multa da importância de 150 UFIRS, nos casos de:
+
 a) - Falta de emissão de nota fiscal ou outro documento autorizado pelo
 fisco municipal;
+
 b) - Recusa da entrega, quando solicitado, de livros ou outros
 documentos;
+
 c) - Retirada do estabelecimento ou do domicílio do prestador, de livros
 ou documentos fiscais;
+
 d) - Não apresentação de documentos para apuração do preço dos
 serviços ou da fixação de estimativa;
+
 e) - Embaraçar ou ilidir a ação fiscal.
 ...
 

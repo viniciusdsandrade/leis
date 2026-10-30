@@ -32,9 +32,11 @@ Art. 1.º - Fica o Executivo Municipal autorizado a promover o III
 Concurso Municipal de Sementes Florestais para seleção de coleções de sementes entre
 estudantes de 1ª a 8ª séries do 1º Grau de quaisquer escolas estabelecidas no Município
 de Nova Prata, a realizar-se no período entre 1º a 21 de setembro de 1992.
+
 Art. 2.º - O Concurso objetivará incentivar o aluno a conhecer as florestas
 na sua essência, preservando a flora, coletando e identificando sementes de diversas
 espécies e obedecerá os termos do regulamento anexo que faz parte integrante desta Lei.
+
 Art. 3.º - Às coleções classificadas serão atribuídos os seguintes prêmios,
 as escolas participantes:
 - 1º Grau Incompleto:
@@ -48,6 +50,7 @@ as escolas participantes:
 Art. 4.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta da rubrica orçamentária: 0501.08421882.008 - Promoção de Concursos
 Estudantis; 3.1.3.2 - Outros Serviços e Encargos.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -62,6 +65,7 @@ I - DAS DISPOSIÇÕES PRELIMINARES
 Art. 1º - O III CONCURSO MUNICIPAL DE SEMENTES
 FLORESTAIS é uma promoção de âmbito municipal, com o objetivo de incentivar o
 espírito conservacionista entre os estudantes de 1ª a 8ª série.
+
 Art. 2º - O III CONCURSO MUNICIPAL DE SEMENTES se
 desenvolverá:
 1º - As escolas localizadas na zona rural que atendem alunos de 1ª a 5ª
@@ -73,8 +77,10 @@ a 8ª .
 2º e 3º lugares das escolas localizadas no meio urbano que tendem a 1ª a 8ª séries.
 4º - Será indicado entre os primeiros em cada categoria, a escola que
 representará o Município no Concurso Estadual de Ibirubá.
+
 Art. 3º - O concurso realizar-se-á durante o período de setembro de 1991
 a setembro de 1992.
+
 Art. 4º - O Concurso em nível municipal, deverá envolver os professores,
 pais e alunos da escola participante.
 
@@ -83,8 +89,10 @@ Art. 5º - Poderão inscrever-se no III CONCURSO MUNICIPAL DE
 SEMENTES FLORESTAIS as escolas de 1º grau incompleto, que oferecem de 1ª a 5ª
 séries e as escolas de 1º grau do Município que atendem alunos de 1ª a 8ª séries, no
 período de 1 a 31 de outubro de 1991 na SMEC.
+
 Art. 6º - Os trabalhos deverão ser apresentados a SMEC, até o dia 31 de
 agosto de 1992.
+
 Art. 7º - Serão aceitos trabalhos que apresentarem 30 ou mais espécies
 florestais.
 1º - Cada trabalho não poderá ter mais do que 1 (uma) escola
@@ -95,13 +103,16 @@ Art. 8º - Para efeitos desse concurso, serão considerados as sementes de
 espécies florestais nativas e exóticas.
 Parágrafo Único - As espécies exóticas de que trata este artigo, deverão
 ser aqui reconhecidamente aclimatadas.
+
 Art. 9º - Não serão consideradas, para efeito de classificação neste
 concurso, as frutíferas exóticas e as comuns dos pomares e as espécies herbáreas e
 trepadeiras.
+
 Art. 10º - Será considerado, no julgamento, para efeito de avaliação dos
 trabalhos, os seguintes critérios: maior número de espécies florestais, maior número de
 florestais nativas, exatidão das informações e apresentação. ...
 ...
+
 Art. 11º - As sementes deverão ser acondicionadas em sacos plásticos de
 10x8cm, colados ou grampeados em cartolina ou papel cartaz (tamanho oficial).
 Parágrafo Único - Cada uma das espécies deverá estar identificada
@@ -123,6 +134,7 @@ Art. 13º - O Concurso será coordenado por uma comissão definida pelos
 - Fazer cumprir o regulamento;
 - Estabelecer critérios de avaliação;
 - Elaborar um relatório final e divulgá-lo.
+
 Art. 14º - A comissão organizadora indicará uma comissão com a
 finalidade de julgar os trabalhos e posteriormente classificá-los.
 1º - A comissão julgadora será formada por elementos, com experiência

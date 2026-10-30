@@ -34,6 +34,7 @@ conjunto com a Câmara de Indústria e Comércio - CIC, Clube de Diretores Lojis
 CDL, Rádio Coroados e Serviço Social da Indústria - SESI, do SHOW DE NATAL, a
 ser realizado no dia 11 de dezembro de 1998, com objetivo de despertar o espírito
 Natalino e iniciar todas as programações inerentes as festividades de Natal.
+
 Parágrafo único - No mesmo dia haverá a terceira edição da “sexta-feira
 especial”, que estará integrada nas comemorações do Show de Natal.
 

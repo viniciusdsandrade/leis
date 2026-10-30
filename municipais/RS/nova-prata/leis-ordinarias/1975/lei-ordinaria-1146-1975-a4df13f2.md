@@ -61,9 +61,12 @@ populacional, fará publicar na forma usual, um edital em que será afixado:
 a) - o número dos novos licenciamentos que serão concedidos
 em decorrência do aumento populacional ou da retirada ou da
 baixa definitiva dos veículos licenciados anteriormente;
+
 b) - a localização das praças e pontos de estacionamento com
 número respectivo de vagas a serem preenchidas;
+
 c) - os requisitos para o licenciamento;
+
 d) - o prazo para apresentação dos requerimentos de licen -
 ciamentos novos, nunca inferior a trinta dias.
 
@@ -71,19 +74,25 @@ ciamentos novos, nunca inferior a trinta dias.
 preenchidas na forma e condições previstas no art.º 5º.
 Art.º 6º - para a concessão de novas licenças, são contempladas
 três categorias de pretendentes:
+
 I - Empresas, num total de 10% das vagas existentes;
+
 II - Condutores autônomos, num total de 70% das vagas
 existentes;
+
 III - Motoristas profissionais, num total de 20% das vagas
 existentes;
 Art.º 7º - Para os efeitos do artigo anterior, considera-se como:
+
 I - Empresas, as pessoas jurídicas de direito privado,
 regularmente constituídas, que tem na exploração do
 serviço de taxi o seu principal objetivo;
+
 II - Condutores autônomos, os proprietários dos veículos
 com certificado de propriedades do mesmo, expedido
 pela autoridade competente o registrado como tal na
 seção própria.
+
 III - Motoristas profissionais aqueles que, sem serem
 proprietários dos veículos não possuírem relação
 empregatícia com qualquer empresa, tendo-a contudo
@@ -91,26 +100,37 @@ com motoristas autônomos e sendo contribuinte do
 INPS.
 Art.º 8º - São requisitos para o exercício da função de motorista
 de taxi:
+
 I - Ser portador da Carteira Nacional de Habilitação,
 categoria profissional;
 Fls. 3
 
 II - Apresentar certificado de propriedade do veículo,
 atestado de conduta;
+
 III - Apresentar certificado de vistoria do veículo;
+
 IV - Apresentar folha corrida judicial e policial, expedida
 dentro do período dos três últimos meses;
+
 V - Apresentar atestado de residência de pelo menos dois
 anos no município;
+
 VI - Apresentar certificado de matrícula do veículo com
 qual pretende trabalhar;
+
 VII - Ser portador de Carteira do Ministério do Trabalho e
 Previdência Social;
+
 VIII - Estar cadastrado na seção de levantamento da
 Prefeitura;
+
 IX - Ser portador da Carteira de Reservista;
+
 X - Ser portador do Cartão do CPF;
+
 XI - Ser portador do Título de Eleitor;
+
 XII - Ser filiado na Associação ou Órgão de classe
 municipal, quando existir e estiver devidamente
 reconhecida pelo Poder Executivo.
@@ -118,14 +138,18 @@ Art.º 9º - Verificando-se número de requerimentos superior ao
 de vagas existentes, os licenciamentos, serão
 concedidos obedecendo rigorosamente, os seguintes
 critérios:
+
 a) - Ao pretendente que comprovar maior número de anos de
 efetivo exercício da profissão como motorista de taxi
 no Município;
+
 b) - Ao pretendente que comprovar maior número de anos
 efetivo da profissão como motorista profissional;
+
 c) - Aos pretendentes possuidores de carros de fabricação
 nacional recente e dentre estes os melhores
 conservados;
+
 d) - Ao pretendente a mais tempo domiciliado no Município.
 Art.º 10º - Os veículos, cujos proprietários forem beneficiados
 com concessões, não poderão ter mais de três anos de uso.
@@ -188,8 +212,10 @@ direito de escolha do passageiro.
 Art.º 19º - Fica proibida a transferência de placas de camionetas
 para automóveis.
 Art.º 20º - São deveres dos proprietários e motoristas:
+
 I - Tratarem os passageiros e o público com polidez e
 respeito;
+
 II - Andarem decente e adequadamente trajados?
 III - Transportarem no seu veículo qualquer passageiro,
 com exceção de pessoas perseguidas pela polícia ou
@@ -208,22 +234,29 @@ Art.º 23º - Os taxis, ao se dirigirem para qualquer parte, não
 poderão apanhar passageiros que estejam aguardando linhas oficiais de
 ônibus, salvo casos de extrema necessidade.
 Art.º 24º - Caberá ao Prefeito:
+
 a) - Exigir a fiel observância desta Lei;
+
 b) - Determinar a permanência, pelo sistema de revezamento,
 de no mínimo dois carros de praça no ponto mais
 Fls. 6
 
 movimentado da cidade, durante a noite até às 03 horas e
 30 minutos da madrugada;
+
 c) - Determinar o horário de início das atividades do dia.
 Art.º 25º - Caberá ao Prefeito, aos proprietários e motoristas de
 taxi, zelar pela disciplina e higiene dos pontos de estacionamento.
 Art.º 26º - O não cumprimento das obrigações e exigências
 decorrentes desta Lei, dependendo da gravidade da infração, implica nas
 seguintes penalidades:
+
 a) - advertência;
+
 b) - multa;
+
 c) - suspensão da licença;
+
 d) - cassação da licença.
 Art.º 27º - A pena de advertência será aplicada verbalmente ou
 por escrito, devendo ficar registrada no cadastro do infrator.

@@ -32,8 +32,10 @@ Baccarin, residente na Capela de Santo Isidoro, Neste Município, no valor de Cr
 13.450,00 (treze mil quatrocentas e cinquenta cruzeiros), para custeio de despesas
 relativas à aquisição e adaptação de um colete ortopédico fornecido pela Ortopedia
 Wernick - Indústria de Aparelhos Ortopédicos.
+
 Art. 2.º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária própria.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

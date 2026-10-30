@@ -35,6 +35,7 @@ acréscimos que porventura existirem sobre o mesmo.
 
 Art. 2.º - É cancelado também o respectivo alvará de funcionamento pelo
 contribuinte estar exercendo função em empresa particular nos períodos acima.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

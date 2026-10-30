@@ -43,13 +43,18 @@ Art. 3° - Ao COMTUR compete opinar sobre questões referentes ao
 turismo, tais como:
 
 a) Proteção de defesa dos interesses turísticos do Município;
+
 b) Valorização dos elementos de natureza, tradição, costumes,
 manifestações culturais e outras que constituem atração para o Município;
+
 c) Estímulo à iniciativa privada no sentido de incremento ao turismo;
+
 d) Propaganda turística interna e externa em assuntos que digam
 respeito ao prestígio do Município;
+
 e) Medidas que proporcionem aos turistas melhores condições de
 entrada, transporte, comunicações e estada do Município;
+
 f) Realização de festividades de cunho artístico, esportivo e
 folclórico que, por sua importância e proporção, tenham influência em ponderável
 movimentação de turistas;
@@ -57,14 +62,19 @@ movimentação de turistas;
 ... Folha 02
 g) Estímulo a melhoria e construção de estabelecimentos, balneários,
 hoteleiros, restaurantes e de outros divertimentos de interesse do Município;
+
 h) Promoção de exposições e certames, inclusive culturais e
 artísticos;
+
 i) Fiscalização de hotéis, restaurantes, pousadas e outros locais com
 fins turísticos;
+
 j) Planificação para aproveitamento dos recursos naturais, como
 parques, morros, bosques, etc.;
+
 k) Promoção do turismo rural, estabelecendo formas ordenadas de
 atrair o turista ao Município;
+
 l) Criação de mecanismos que visem a promoção da visita as
 pedreiras de basalto e todos os demais pontos turísticos que são atrativos às pessoas e ao
 Município.
@@ -73,23 +83,37 @@ Art. 4° - O COMTUR compõe-se de 13 membros designados pelo
 Prefeito Municipal, com renovação bienal, a saber:
 
 I – Representante do Poder Executivo:
+
 a) Representante do Gabinete do Prefeito;
+
 b) Secretário Municipal de Turismo e Desporto;
+
 c) Secretário Municipal do Meio Ambiente;
+
 d) Chefe do Departamento de Engenharia do Município;
+
 e) Secretário Municipal da Educação e Cultura;
+
 f) Associação Casa da Cultura;
+
 g) Câmara de Vereadores.
 
 II – Representante de entidades, sem vinculação com o Município, a
 saber:
+
 a) Associação dos estabelecimentos hoteleiros do Município;
+
 b) Câmara Cultural da indústria, comércio e serviços de Nova Prata e
 Região;
+
 c) Câmara de Dirigentes Lojistas - CDL;
+
 d) Comandante da Brigada Militar;
+
 e) Representante das agências de viagens e turismo do Município;
+
 f) Representante do SINDILOJAS;
+
 g) Corpo de Bombeiros Voluntários.
 
 § 1º As entidades com representação no COMTUR indicarão 03 (três)

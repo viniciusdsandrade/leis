@@ -31,6 +31,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder remissão
 de dívidas, correspondente a Taxa de Fiscalização e Vistoria (Alvará) e Imposto Sobre
 Serviços de Qualquer Natureza, ao Senhor Márcio João Vivan, inscrito na atividade de
 pedreiro.
+
 Parágrafo único - O valor da remissão é de R$134,53 (cento e trinta e quatro
 reais e cinqüenta e três centavos), correspondentes aos anos de 1997 e 1998.
 

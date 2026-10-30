@@ -35,29 +35,41 @@ também, a despender os valores que discrimina:
 
 I – Taça Pratense de Tênis Masculino e Feminino de Fevereiro a
 Abril/2006 - Valor até R$ 2.500,00 (dois mil e quinhentos reais);
+
 II – 5º Campeonato de Futebol Sete/Kalábia Masculino, Taça Itacir
 Zamin de Fevereiro a Dezembro/2006 – valor até R$ 4.500,00 (quatro mil e quinhentos
 reais);
+
 III – Torneio Inter/Bairros de Futsal Masculino de Março a
 Dezembro/2006 – valor até R$ 5.000,00;
+
 IV – Rústica Dia do Trabalhador – dia 1º de Maio de 2006 – valor até R$
 1.000,00 (um mil reais);
+
 V – Jogos Escolares – JERGS – de Fevereiro a Dezembro/2006 – valor
 até R$ 2.500,00 (dois mil e quinhentos reais);
+
 VI – Olimpíada escolar de Nova Prata masculino e feminino de Março a
 Dezembro/2006 – valor até R$ 3.500,00 (três mil e quinhentos reais);
+
 VII – Guri Bom de Bola de Fevereiro a Dezembro/2006 – valor até
 R$2.500,00 (dois mil e quinhentos reais);
+
 VIII – Campeonato Amador Masculino de Fevereiro a Dezembro/2006 -
 valor até R$ (sete mil reais);
+
 IX – Campeonato Veterano Masculino de Fevereiro a Dezembro/2006 –
 valor até R$6.000,00 (seis mil reais);
+
 X – Campeonato Regional de Vólei Masculino e Feminino de Março a
 Dezembro/2006 – valor até R$ 6.000,00 (seis mil reais);
+
 XI – Campeonato Integração Categorias de Base de Fevereiro a
 Dezembro/2006 – valor até R$ 5.000,00 (cinco mil reais);
+
 XII – 2ª Copa Rio Branco de Futsal Masculino de Fevereiro a
 Dezembro/2006 – valor até R$ 3.000,00 (três mil reais);
+
 XIII – Super Copa Regional de Futebol de Campo de Fevereiro a
 Dezembro/2006 – valor até R$ 3.500,00 (três mil e quinhentos reais);
 ...
@@ -65,6 +77,7 @@ Dezembro/2006 – valor até R$ 3.500,00 (três mil e quinhentos reais);
 
 XIV – Taça Futebol Cinco Masculino de Fevereiro a Dezembro/2006 –
 valor até R$ 2.000,00 (dois mil reais);
+
 XV – Loto Corrida Masculino e Feminino de Março a Dezembro/2006 –
 valor até R$ 1.000,00 (um mil reais);
 

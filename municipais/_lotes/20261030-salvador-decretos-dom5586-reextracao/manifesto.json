@@ -1,0 +1,46 @@
+{
+  "municipio": "Salvador",
+  "uf": "BA",
+  "codigo_ibge": "2927408",
+  "fonte_api": "https://portal-api.dioly.com.br/api/diarios/",
+  "rps": 1.0,
+  "consultas": [],
+  "completo": true,
+  "intervalo": [
+    "2012-04-04",
+    "2012-04-04"
+  ],
+  "tipo": "DOM",
+  "extrator": "dioly-raw-v2",
+  "extrator_geometria": "geometria-colunas-v2",
+  "sha256_geometria": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "ccc6d1e50b4840eabed171cc1a733e35556962e072cf0e678aed982ffb6d8b42",
+  "edicoes": 1,
+  "so_cache": false,
+  "rps_max": 2,
+  "modo": "decretos",
+  "contagens": {
+    "ok": 1
+  },
+  "arquivos": [
+    "municipais/BA/salvador/decretos/2012/decretos-22747-2012-dom-5586-dec-22747.md"
+  ],
+  "numeros": [
+    "22747/2012"
+  ],
+  "ja_existiam": 0,
+  "novos": [
+    "22747/2012"
+  ],
+  "descartes": [
+    {
+      "numero": "22746",
+      "ano": "2012",
+      "edicao": 5586,
+      "motivo": "sem DECRETA + Art. 1º + gabinete/Prefeito no recorte"
+    }
+  ],
+  "observacao": "Só decretos numerados do Prefeito (epígrafe DECRETO Nº em linha própria, O PREFEITO … DECRETA:, Art. 1º, GABINETE DO PREFEITO datado no ano da epígrafe e até 1 ano antes da edição, assinatura do Prefeito). Decretos legislativos, decretos simples sem número, retificações, citações em parecer e projetos não entram. Anexo próprio (ANEXO …) entra.",
+  "baixado_em": "2026-10-30",
+  "observacao_reextracao": "Reextração da edição DOM 5586 depois de EPIGRAFE_DEC aceitar \"DECRETO NO\" (OCR de \"Nº\"). Entra só o Decreto 22.747, antes colado ao fim do 22.746. O 22.743 saiu com diferenças de espaçamento do pdftotext desta máquina e foi mantido como publicado. O 22.746 foi descartado pelo extrator (a linha do gabinete saiu embaralhada no OCR) e foi mantido com o corpo recortado antes do 22.747, como registra o versao_texto dele."
+}

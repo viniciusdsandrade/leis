@@ -43,11 +43,14 @@ todos os funcionários do IPRAM - NP. sujeitos ao Regime Único.
 
 Art. 3.º - A organização do Quadro de Pessoal do Instituto fica assim
 constituída:
+
 I - Quadro Permanente de Cargos;
+
 II - Quadro de Cargos em Comissão e Funções Gratificadas.
 
 § 1º - O quadro permanente de quadros é constituído por cargos de
 provimento efetivo.
+
 § 2º - O quadro de cargos em comissão e Funções Gratificadas é
 integrado por todos os cargos de provimento em comissão e Funções Gratificadas
 criados por esta Lei.
@@ -82,16 +85,19 @@ ao atendimento das funções essenciais e gerais necessárias à consecução da
 Art. 9º - A sistemática do Quadro permanente de cargos se processa em
 decorrência de três níveis, fixados segundo os graus de dificuldades e complexidade
 dos serviços do IPRAM, a saber:
+
 I - Nível Principal - Funções técnicas, cujo exercício depende de
 certificado de conclusão de curso de nível superior ou médio. Funções administrativa de
 grande responsabilidade, com exigência de instrução correspondente ao 2º grau
 completo, suplementado, quando for o caso, por especialização ou treinamento, ou
 curso de especialização técnica, com o devido cadastro no Conselho Regional da
 Categoria.
+
 II - Nível Médio - Funções administrativas ou técnicas de certa
 complexidade. Exigência de nível de instrução correspondente ao 1.º Grau Completo,
 suplementado, quando for o caso por especialização, ou 1º Grau Incompleto, desde que
 as aptidões profissionais assim o permitirem.
+
 III - Nível Simples - Trabalho, geralmente, de rotina, de pouca
 complexidade, instrução correspondente ao 1º Grau Oitava Série - sem experiência ou
 habilidades especiais; 1º Grau Incompleto, suplementado por alguma experiência
@@ -108,7 +114,9 @@ CAPÍTULO II
 Art. 11 - A estrutura básica do Quadro do Cargo Permanente de Cargos,
 segundo o sistema de classificação de cargos adotado, constitui-se dos seguintes
 serviços:
+
 I - Saúde - Assistência e Previdência;
+
 II - Administração Geral; e
 III - Administração Econômica e financeira.
 
@@ -238,12 +246,16 @@ externos; confeccionar mapas ou boletins de caixa; integrar grupos operacionais 
 executar outras tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho de 33 horas semanais.
+
 b) Outras: contato com o público.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Escolaridade: 2º grau Completo
 b) Idade: mínima de 18 anos.
+
 c) Outras: conforme as instruções reguladoras do processo seletivo.
 
 RECRUTAMENTO:
@@ -269,11 +281,15 @@ suprimentos em geral com as faturas, conhecimentos ou notas de entrega; levantar
 freqüência de servidores; executar outras tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho 33 horas semanais;
+
 b) Outras: viagens, freqüência a cursos especializados
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Escolaridade: 1º Grau Incompleto;
+
 b) Idade: mínima de 18 anos
 
 RECRUTAMENTO:
@@ -309,11 +325,14 @@ despesa verificando a classificação e a existência de saldos nas dotações, 
 outras tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho 33 horas semanais;
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Escolaridade: 2.º Grau Completo com habilitação legal para exercício
 da profissão;
+
 b) Idade: mínima de 18 anos
 c) Outros: conforme as instruções reguladoras do processo seletivo.
 

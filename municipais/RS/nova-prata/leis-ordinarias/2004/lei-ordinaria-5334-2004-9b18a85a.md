@@ -40,6 +40,7 @@ Art. 3° - O subsídio do Vice-Prefeito atenderá aos seguintes critérios:
 Parágrafo Único - Caso o Vice-Prefeito seja nomeado para outro cargo
 público, inclusive o de Secretário Municipal, poderá optar pelo subsídio do mandato ou
 a remuneração do cargo em que esteja investido.
+
 I - caso assuma responsabilidades administrativas permanentes, inclusive
 as correspondentes ao cargo de Secretário do Município, seu subsídio corresponderá a
 50 % (cinqüenta por cento) do subsídio fixado para o Prefeito;
@@ -55,6 +56,7 @@ servidores do Município.
 
 Art. 5.° - Quando em gozo de férias anuais, o prefeito Municipal
 perceberá o subsídio acrescido de um terço.
+
 § 1º - Fica o Poder Executivo autorizado a, no último ano de mandato, no
 mês de dezembro, promover a indenização de férias proporcionais referentes a este
 período, bem como das eventualmente vencidas e não gozadas.

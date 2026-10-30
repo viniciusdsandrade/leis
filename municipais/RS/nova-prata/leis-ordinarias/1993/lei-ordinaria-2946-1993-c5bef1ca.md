@@ -28,6 +28,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica alterado o Mapa de Zoneamento da cidade no que se refere
 a mudança se zoneamento da Rua Conselheiro Guilherme Maschio, de Zona residencial
 para Zona de Comércio especial (ZCE), no trecho compreendido entre a Rua Arcângelo
@@ -35,6 +36,7 @@ Pagnoncelli e Estrada Pinheiro Machado.
 Parágrafo Único - Ficam também adotadas todas as características
 relativas às construções e urbanismo para a rua mencionada no “Caput” do artigo
 anterior, no trecho acima caracterizado.
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

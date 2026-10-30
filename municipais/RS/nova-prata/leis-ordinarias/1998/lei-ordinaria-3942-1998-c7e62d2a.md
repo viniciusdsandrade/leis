@@ -32,6 +32,7 @@ promulgo a seguinte Lei.
 
 Art. 1o. - Fica o Poder Executivo Municipal autorizado a isentar de
 pagamento de Imposto Predial e Territorial Urbano, a Senhora Iracema Benatto.
+
 Parágrafo único - A isenção prevista no “caput” do presente Artigo, refere-se
 ao pagamento do IPTU do ano de 1998, no valor de R$131,97 (cento e trinta e um reais e
 noventa e sete centavos), corrigidos até 31/05/1998.

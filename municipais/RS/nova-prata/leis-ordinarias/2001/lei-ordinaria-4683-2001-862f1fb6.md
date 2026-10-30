@@ -36,6 +36,7 @@ a Associação dos Funcionários da VIPAL - AFUVI, com sede em Nova Prata, com o
 objetivo de executar a construção em regime de condomínio de três prédios de alvenaria
 com 06 unidades residenciais cada um, destinados à solução de habitação para
 funcionários associados a AFUVI.
+
 Parágrafo único - O Município de Nova Prata, apenas terá incumbência
 de promover processos burocráticos que envolvem o poder público, bem como, em
 conjunto com a AFUVI, realizar a seleção das famílias beneficiárias.

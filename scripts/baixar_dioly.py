@@ -1025,8 +1025,9 @@ CONSULTAS_DEC = (
 # Epígrafe = linha inteira em caixa alta: "DECRETO Nº 41.680 de 30 de abril de 2026",
 # "DECRETO Nº 38.212/2024", "DECRETO Nº 37.001/2023, DE 05/01/2023". Nunca LEGISLATIVO,
 # MUNICIPAL (citação em parecer) nem "DECRETOS de …" (decretos simples, não numerados).
+# Nas edições digitalizadas o OCR lê "Nº" como "NO" ("DECRETO NO 22.747", DOM 5586/2012).
 EPIGRAFE_DEC = re.compile(
-    r"^[ \t]*DECRETO[ \t]+N[ \t]*[ºo°]?[ \t]*\.?[ \t]*(?P<num>\d{1,2}\.\d{3}|\d{1,5})[ \t]*"
+    r"^[ \t]*DECRETO[ \t]+N[ \t]*[ºoO°]?[ \t]*\.?[ \t]*(?P<num>\d{1,2}\.\d{3}|\d{1,5})[ \t]*"
     r"(?:/[ \t]*(?P<ano>\d{4})(?:[ \t]*,?[ \t]*(?:DE|de)[ \t]+\d{1,2}/\d{1,2}/\d{4})?"
     r"|,?[ \t]+(?:DE|de)[ \t]+\d{1,2}[º°]?[ \t]+(?:DE|de)[ \t]+[A-Za-zÇç]+[ \t]+(?:DE|de)[ \t]+(?P<ano2>\d{4}))"
     r"[ \t.]*$", re.M)

@@ -31,11 +31,14 @@ Art. 1º ‑ É abonado o pagamento de serviço de máquina executado para
 construção de açude na propriedade do Sr. Ubelino Brena, na localidade de Terra
 Gorda, Distrito de Rio Branco, neste Município, serviço realizado nas datas de 08.01.92
 e 29.09.92.
+
 Parágrafo único ‑ É abonado também todos os valores lançados sobre o
 débito principal até a presente data.
+
 Art. 2º ‑ 0 abono ora concedido o é em virtude do devedor não possuir
 condições financeiras para saldar o débito em função de pessoa deficiente física na
 família.
+
 Art. 3º ‑ Revogadas as disposições em contrario, esta Lei entrará em
 vigor na data de sua publicação.
 

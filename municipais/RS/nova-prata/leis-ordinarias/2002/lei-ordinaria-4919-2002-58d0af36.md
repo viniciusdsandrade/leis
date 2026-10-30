@@ -45,6 +45,7 @@ serão corrigidos monetariamente, com base na variação do índice estabelecido
 anterior, ocorrida a partir do dia seguinte a data de vencimento da obrigação até o dia do seu
 efetivo pagamento, sem prejuízo dos demais acréscimos legais estabelecidos em Lei, cuja
 sistemática fica inalterada.
+
 Parágrafo único – O disposto no “caput” deste artigo, aplica-se, também, aos
 valores dos créditos tributários ou não, vencidos, inscritos ou não em dívida ativa,
 constituídos anteriormente ao início do exercício desta Lei, observado o procedimento

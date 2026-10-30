@@ -26,6 +26,7 @@ MUNICIPAL DE NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e
 eu sanciono e promulgo a seguinte Lei:
+
 Art. 1.º - É aberto um crédito suplementar na
 importância de CR$ 510.000,00 (quinhentos e dez mil cruzeiros reais), no orçamento do Instituto de
 Previdência e Assistência Municipal de Nova Prata, nas seguintes unidades orçamentárias:

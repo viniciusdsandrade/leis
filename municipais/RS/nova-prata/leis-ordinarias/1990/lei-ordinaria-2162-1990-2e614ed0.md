@@ -33,18 +33,28 @@ Município de Nova Prata e estabelece o respectivo Plano de Benefícios e servi�
 passam a vigorar com as seguintes alterações:
 
 “Art. 3.º - São associados obrigatórios os servidores municipais:
+
 I - detentores de cargo de provimento efetivo;
+
 II - inativos;
+
 III - os vereadores, quando no exercício do seu mandato, que optarem
 pela associação;
+
 IV - os detentores de cargo em comissão;
+
 V - os contratados temporariamente, exceto os regidos pela CLT.
+
 Art. 5.º - ...
 Parágrafo Único - ...
+
 I - Aos serviços de atendimento à saúde, até que ingresse em qualquer
 outra instituição de previdência;
+
 II - ...
+
 III - ...
+
 Art. 36 - A assistência à saúde proporcionará atendimento clínico,
 cirúrgico, farmacêutico e odontológico aos beneficiários, em ambulatório, hospital,
 sanatório ou a domicílio, de conformidade com o estabelecido nesta Lei e seu
@@ -54,8 +64,11 @@ porventura se firmarem com instituições afins.
 Art. 38 - O beneficiário que se utilizar de serviço médico fora do quadro
 de médicos credenciados pelo IPRAM - NP se responsabilizará pelos respectivos
 custos.
+
 Parágrafo único - revogado.
+
 Art. 68 - Revogado.
+
 Art. 69 - Anualmente, dentro de 60 (sessenta) dias do encerramento do
 exercício administrativo, a Diretoria convocará assembléia geral ordinária dos
 associados, para prestação de contas, a qual deverá ser submetida para apreciação do
