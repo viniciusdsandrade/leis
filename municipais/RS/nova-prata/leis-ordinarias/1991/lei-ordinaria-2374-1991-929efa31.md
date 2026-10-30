@@ -48,6 +48,7 @@ Integrar-se na Equipe local de saúde visando a implementação de política
 municipal de saúde, considerando-se a intersetorialidade e interdisciplinaridade como
 fundamental para integração da mesma. Promover atividades visando a reintegração do
 doente na comunidade e no mercado de trabalho.
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

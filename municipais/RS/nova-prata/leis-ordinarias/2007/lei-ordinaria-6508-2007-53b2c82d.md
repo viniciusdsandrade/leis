@@ -38,6 +38,7 @@ objetivo de auxiliar no transporte de estudantes universitários, que se desloca
 
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar subvenção a
 Associação Estudantil Pratense, no valor de R$ 6.000,00 (seis mil reais).
+
 Parágrafo único - O repasse a ASSESP, será efetivado nos meses de julho a
 dezembro de 2007, em 06 (seis) parcelas iguais de R$ 1.000,00 (um mil reais) cada..
 

@@ -29,6 +29,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - É autorizado o Poder Executivo Municipal a assinar convênio com
 a Companhia de Habitação do Estado do Rio Grande do Sul e o Sistema Financeiro do
 Estado para o fim de construção de moradias destinadas a famílias de baixa renda do
@@ -91,10 +92,12 @@ competente do Executivo.
 a) quando não houver comprovação da boa e regular aplicação da parcela
 anteriormente recebida, na foram da legislação aplicável inclusive mediante
 procedimentos e fiscalização local, realizados, periodicamente pelo Município;
+
 b) quando verificados desvios de finalidade na aplicação dos recursos,
 práticas atentatórias aos princípios fundamentais de administração pública, nas
 contratações e demais atos praticados na execução deste Convênio, ou o
 inadimplemento de qualquer obrigação estabelecida por cláusulas conveniais básicas;
+
 c) quando a entidade convenente deixar de adotar as medidas saneadoras
 apontadas pelo Município repassador da Subvenção.
 CLÁUSULA NONA - Será feito o repasse financeiro em 02 (duas)

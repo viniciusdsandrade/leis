@@ -40,14 +40,19 @@ artigo é para pagamento a vista.
 Artigo 2º Os débitos poderão ser parcelados até 50 (cinqüenta) vezes, com
 pagamento mensal, vencíveis a cada 30 (trinta) dias da data do parcelamento, com anistia
 de 50% (cinqüenta por cento) dos juros e 100% (cem por cento) da multa devida.
+
 § 1º: O valor de cada contribuição mensal não poderá ser inferior a R$
 30,00 (trinta reais).
+
 § 2º: Débitos de Origem imobiliária (tipo IPTU), o valor mínimo de cada
 parcela trata-se por unidade Imobiliária.
+
 § 3º: O pagamento da primeira parcela deverá ser efetuado no dia da
 formalização do pedido de parcelamento.
+
 § 4º: O não pagamento da parcela na data de seu vencimento acarretará,
 nos acréscimos previstos no Código Tributário Municipal, para a parcela vencida.
+
 § 5°: Caso ocorrer atraso nas parcelas estabelecidas pelo parcelamento
 ocorrido, na totalidade de três, o contribuinte fica sujeito a Execução Fiscal do seu saldo
 devedor, em seu débito original quando do parcelamento, descontando-se então valores que
@@ -56,8 +61,10 @@ até a data tenha efetuado.
 Artigo 3º Para que o contribuinte tenha os benefícios previstos nesta Lei, o
 mesmo deverá fazer a opção escrita da pessoa física ou jurídica devedora, fazendo assim,
 jus ao regime especial de consolidação e parcelamento de seus débitos.
+
 § 1º: A opção deverá ser formalizada quando da publicação desta Lei até a
 data de 12 de dezembro de 2006, através do termo padrão de parcelamento.
+
 § 2º: A consolidação abrangerá todos os débitos existentes em nome da
 pessoa física ou jurídica, na condição de contribuinte ou responsável, inscritos ou não,
 inclusive os acréscimos legais relativos a multas, de mora ou de ofício, a juros moratórios e

@@ -41,6 +41,7 @@ do mesmo lote nº 01, do Município de Nova Prata, ao SUDOESTE, tem a mesma
 medida e faz frente à Rua Arlindo Peruzzo, ao NOROESTE, mede 62,85m, e ao
 SUDOESTE, tem a mesma extensão e se divide em ambos os lados com terreno da
 Rádio Prata S/A.Dito imóvel dista 57,34m da esquina com a Rua Alcides Colla.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, levantamento topográfico, memorial descritivo, laudo de avaliação e o
 registro do imóvel em questão.

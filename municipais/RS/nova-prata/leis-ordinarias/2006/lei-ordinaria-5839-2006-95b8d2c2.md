@@ -50,6 +50,7 @@ Gabinete do Prefeito.
 Parágrafo Único - Além do plano de trabalho a entidade beneficiada deverá
 apresentar certidão negativa de tributos estaduais, federais e municipais, INSS e FGTS,
 CNPJ atualizado e documentação da constituição jurídica da entidade.
+
 Art. 5.º - As despesas decorrentes da execução da presente Lei Municipal,
 correrão por conta de dotação orçamentária, classificada sob código: 02 – Gabinete do
 Prefeito; 02 – Unidades Subordinadas; 04.122.0004.1004 – Subvenções a Entidades

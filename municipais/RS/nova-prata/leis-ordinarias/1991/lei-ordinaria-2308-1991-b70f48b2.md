@@ -54,6 +54,7 @@ orçamentária: 03 – Secretaria de Administração; 03.01 – Secretaria de Ad
 03.0106 – Defesa Nacional e Segurança Pública; 03.010630 – Segurança Pública;
 03.010630179 – Serviços especiais de Segurança; 03.0106301791.005 – Auxílio a
 entidades que promovem a segurança pública.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

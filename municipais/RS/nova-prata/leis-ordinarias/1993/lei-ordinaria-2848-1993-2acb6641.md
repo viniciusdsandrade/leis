@@ -31,10 +31,13 @@ promulgo a seguinte Lei:
 Art. 1º ‑ É abonado o pagamento de serviço de máquina executado para
 construo de açude na propriedade do Sr. Danilo G. Vendramin, na localidade da
 Fazenda da Pratinha, neste Município, serviço realizado em 1991.
+
 Parágrafo único ‑ É abonado também todos os valores lançados sobre o
 débito principal até a presente data.
+
 Art. 2º ‑ O abono ora concedido o é em virtude desta municipalidade ter
 usado material de propriedade do Sr. Danilo G. Vendramin para melhorar as estradas.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

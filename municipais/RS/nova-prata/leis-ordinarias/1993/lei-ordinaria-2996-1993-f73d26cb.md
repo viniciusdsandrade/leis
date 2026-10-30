@@ -25,6 +25,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica aprovado o Projeto do Loteamento Casanova com uma
 gleba de terras com 19.174,75 m² (dezenove mil, cento e setenta e quatro metros
 quadrados e setenta e cinco centímetros quadrados), de propriedade de Rosa M. A .

@@ -28,6 +28,7 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1º - É autorizada a instalação de uma central telefônica rural na
 comunidade da Capela Santo Isidoro, neste Município, para uso dos moradores daquela
 localidade e adjacências.
@@ -35,10 +36,13 @@ Parágrafo 1º - As despesas para aquisição, manutenção e conservação da
 central a ser instalada, correrão por conta do Município.
 Parágrafo 2º - As despesas para instalação do ramal e sua manutenção,
 correrão por conta do usuário.
+
 Art. 2º - Para instalação da referida central telefônica, preferencialmente será
 utilizado o sistema que dispensa a telefonista.
+
 Art. 3º - No caso do artigo 2º, serão dispensadas de constituição os
 interessados, para fins de rateamento das despesas de instalação da central telefônica.
+
 Art. 4º - Revogada as disposições em contrário, esta Lei entrará em vigor na
 data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em 25

@@ -35,6 +35,7 @@ com o Conselho Comunitário Pró-Segurança Pública de Nova Prata - CONSEPRO, c
 o objetivo de reunir esforços, para conceder condições de trabalho e atendimento à
 segurança pública dos cidadãos e órgãos públicos, a ser realizada pela Polícia Civil e
 Brigada Militar.
+
 Parágrafo único - Os objetivos do convênio, serão dirigidos à
 manutenção de viaturas das Polícias locais, bem como aquisição de combustível,
 aquisição de material de expediente e equipamentos, conservação de prédios usados

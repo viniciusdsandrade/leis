@@ -29,6 +29,7 @@ MARIO MINOZZO, NA CONDIÇÃO DE PREFEITO MUNICIPAL
 DE NOVA PRATA.
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono
 e promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar Convênio
 com a BRASPOL de Nova Prata, com objetivo de desenvolver o projeto “Melhoria do
 Repertório Artístico”, sob responsabilidade do Grupo Kalina.
@@ -41,6 +42,7 @@ dentro das disponibilidades financeiras do erário, os quais serão usados para 
 Art. 3.º - Fica fazendo parte integrante da presente Lei Municipal,
 fotocópia do Convênio e do ofício e seus anexos encaminhados ao Gabinete do Prefeito
 Municipal.
+
 Art. 4.º - A entidade beneficiada deverá apresentar plano de trabalho, do
 valor repassado como condição para liberação do valor, que deverá ser aprovado pelo
 Gabinete do Prefeito.
@@ -53,6 +55,7 @@ Municipal, correrão por conta de dotação orçamentária, classificada sob có
 Secretaria de Educação e Cultura; 01 - Unidades Subordinadas; 08421881.014 - Apoio
 Financeiro a Entidade Cultural Educacional Beneficente e Filantrópica; 3.2.3.1.00 -
 Subvenções Sociais (90).
+
 Art. 6.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

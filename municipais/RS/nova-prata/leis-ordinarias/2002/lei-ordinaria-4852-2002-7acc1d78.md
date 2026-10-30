@@ -29,6 +29,7 @@ DE NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar convênio
 com a BRASPOL de Nova Prata, com objetivo de desenvolver o projeto “Melhoria do
 Repertório Artístico”, bem como divulgar a cultura polonesa a nível nacional e

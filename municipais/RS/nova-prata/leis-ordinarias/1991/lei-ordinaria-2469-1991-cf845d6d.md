@@ -42,14 +42,19 @@ preços (IGP) - coluna 2 - Disponibilidade Interna da Fundação Getúlio Vargas
 federais aditadas a partir de 01 de fevereiro de 1991, tendo como data-base o mês de
 dezembro/91 (VETADO) a serem aplicados na execução do Programa Integrado de
 Melhoria Social.
+
 Art. 2.º - ...
+
 Art. 3º - ...
+
 Art. 4º - ...
+
 Art. 5º - Fica o Poder Executivo autorizado a abrir créditos adicionais,
 até o limite de Cr$ 72.365.000,00 (setenta e dois milhões, trezentos e sessenta e cinco
 mil cruzeiros) reajustáveis de acordo com o estipulado no art. 1º, tendo como data-base
 o mês de dezembro/91 (VETADO) para aplicação da contrapartida do Município do
 Programa Integrado de Melhoria Social (PIMES).”
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -29,6 +29,7 @@ MUNICIPAL DE NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu
 sanciono e promulgo a seguinte Lei:
+
 Art. 1º - Fica determinado que os estabelecimentos comerciais em geral,
 que venderem ou entregarem fogos de estampido e de artifícios, exceto aqueles que pelo
 seu reduzido potencial sejam incapazes de provocar qualquer dano físico em caso de

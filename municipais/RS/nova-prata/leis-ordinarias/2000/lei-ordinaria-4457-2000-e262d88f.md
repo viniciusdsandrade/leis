@@ -90,6 +90,7 @@ não poderá ser superior a R$ 5.000,00 (cinco mil reais).
 Art. 8º - A distribuição dos prêmios será feita mediante um (01) sorteio,
 no mês de dezembro, com local e data a ser divulgada com precedência mínima de 10
 dias.
+
 Art. 9.º - O sorteio será realizado em praça pública com a presença da
 maioria absoluta dos membros da Comissão Organizadora.
 

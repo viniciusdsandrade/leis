@@ -55,9 +55,13 @@ Art. 6.º - A presente Lei será regulamentada pelo Poder Executivo
 Municipal, no prazo de 60 (sessenta) dias a partir de sua publicação.
 
 Art.7.º - A COMDEC compor-se-á de:
+
 I - Presidência;
+
 II - Secretaria;
+
 III - Conselho Técnico;
+
 IV - Conselho Comunitário.
 ...
 ... folha 02
@@ -79,6 +83,7 @@ Hospital São João Batista e demais Entidades Sociais.
 Art. 12 - Os servidores públicos designados para colaborar nas ações
 emergenciais exercerão essas atividades sem prejuízos das funções que ocupam, e não
 farão jus a qualquer espécie de gratificação ou remuneração especial.
+
 Parágrafo único - A colaboração referida neste artigo será considerada
 prestação de serviço relevante e constará dos assentamentos dos respectivos servidores.
 

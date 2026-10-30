@@ -32,6 +32,7 @@ Art. 1.º - Fica o Município de Nova Prata, autorizado a realizar o evento,
 constante no Calendário Esportivo do ano de 2003, de responsabilidade da Secretaria Municipal
 de Turismo e Desporto, denominado “6º Campeonato Municipal Amador de Futebol de
 Campo”.
+
 Parágrafo único - Fica o Poder Executivo Municipal autorizado a gastar até
 R$3.500,00 (três mil e quinhentos reais), com sonorização, material esportivo e arbitragem no
 evento que trata o caput deste artigo.

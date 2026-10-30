@@ -25,6 +25,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É aberto um crédito suplementar na importância CR$
 120.000,00 ( cento e vinte mil cruzeiros reais), na seguinte unidade orçamentária:
 05 - Secretaria de Educação e Cultura

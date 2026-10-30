@@ -28,12 +28,15 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É alterado o número de cargos de odontólogo do Instituto da
 Previdência e Assistência Municipal de Nova Prata - IPRAM - NP, criado pela Lei
 Municipal Nº 2691 de 28.10.92, que passa a ser de 02 (dois) cargos.
+
 Art. 2º - São ratificadas as demais disposições contidas na lei citada no
 artigo 1º e na Lei Municipal Nº 2170 de 23 de maio de 1990, que estabelece o Plano de
 Classificação de Cargos do Instituto.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

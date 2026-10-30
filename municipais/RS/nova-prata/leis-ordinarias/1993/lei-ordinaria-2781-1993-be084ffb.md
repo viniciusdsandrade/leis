@@ -30,6 +30,7 @@ Art. 1º ‑ É doado um lote com 4,65m2 (quatro metros quadrados e
 sessenta e cinco centímetros quadrados) localizado no Cemitério Público Municipal a
 Sra. Vitalina Pizzi onde está sepultado seu marido Luiz Aléssio Pizzi, por se tratar de
 família com renda inferior a dois salários mínimos vigentes.
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

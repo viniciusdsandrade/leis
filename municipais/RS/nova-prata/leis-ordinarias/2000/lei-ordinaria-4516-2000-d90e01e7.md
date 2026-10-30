@@ -38,6 +38,7 @@ com a Associação Comunitária de Educação e Ação Social de Nova Prata, com
 neste Município, inscrito no CGC/MF sob n.º 91620179/0001-35, com a finalidade de
 possibilitar realização de estágio sem remuneração, para estudantes do Curso de
 Técnico em Enfermagem, do Colégio Nossa Senhora Aparecida.
+
 Parágrafo único - O convênio será firmado com um prazo de validade de 4
 (quatro) anos.
 

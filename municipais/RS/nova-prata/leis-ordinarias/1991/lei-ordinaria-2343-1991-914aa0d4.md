@@ -34,12 +34,15 @@ de Ratificação de Contrato celebrado entre o Município de Nova Prata e a Secr
 Educação do RS em 30.07.82, com o fim de estabelecer normas de participação
 conjunta para execução e desenvolvimento do programa estadual da alimentação escolar
 (PEAE),nos termos da Minuta que faz parte integrante desta Lei.
+
 Art. 2º - Fica igualmente autorizado o Executivo Municipal, em
 cumprimento de suas obrigações por força contratual, a transferir à Secretaria Estadual,
 o correspondente a 20% (vinte por cento) do valor do Contrato, ou seja, a quantia de
 Cr$ 27.040,00 ( vinte e sete mil e quatrocentos cruzeiros), através do Núcleo Regional.
+
 Art. 3º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária própria.
+
 Art. 4º - Revogada as disposições em contrário, esta Lei entrará em vigor
 na data de sua publicação com efeito retroativo a 29 de maio de 1991.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

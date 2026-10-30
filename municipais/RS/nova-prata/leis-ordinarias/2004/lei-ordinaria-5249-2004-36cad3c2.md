@@ -30,6 +30,7 @@ MARIO MINOZZO NA CONDIÇÃO DE PREFEITO MUNICIPAL
 DE NOVA PRATA.
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu
 sanciono e promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar Termo
 de Convênio com o Piquete de Laçadores Amigos do Rio Grande, inscrita no CNPJ sob
 o n.º 03.703.711/0001-10, com sede na Linha 15 de Novembro, Parque Vô Luiz em
@@ -54,6 +55,7 @@ Municipal, correrão por conta de dotação orçamentária, classificada sob có
 Secretaria de Educação e Cultura; 03 - Livres da Educação; 13.392.0054.1021 - Apoio
 Financeiro a Entidades Educacionais e Culturais; 3.3.50.43.00.00.00 - Subvenções
 Sociais (241).
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 

@@ -29,28 +29,34 @@ MUNICIPAL DE NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a firmar
 Convênio com o Conselho Comunitário Pró Segurança Pública de Nova Prata -
 CONSEPRO, com o objetivo de reunir esforços, para conceder condições de trabalho e
 atendimento à segurança pública dos cidadãos e órgãos públicos, a ser realizada pela
 Polícia Civil e Brigada Militar.
+
 Parágrafo único - Os objetivos do Convênio, serão dirigidos a
 manutenção de 2 (duas) viaturas das Polícias locais, aquisição de material de
 expediente, aluguel de linhas telefônicas, conservação de prédios usados pelos órgãos
 policiais e pagamento de salários a funcionários necessários a manutenção dos serviços
 realizados na Delegacia de Polícia.
+
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar, até o
 final do ano de 2000, ao CONSEPRO de Nova Prata, como participação do Município
 na consecução dos objetivos declinados no Artigo primeiro, a importância de
 R$2.000,00 (dois mil reais) por mês, de janeiro até dezembro.
+
 Art. 3.º - A contraprestação por parte do CONSEPRO, será a de realizar
 programas educativos a estudantes do Município, com instrução de trânsito, segurança,
 etc... a serem desenvolvidos em conjunto com a Administração Pública Municipal, bem
 como realizar programas de segurança em Escolas localizadas na cidade, realizando
 segurança preventiva nas imediações das referidas Escolas.
+
 Art. 4.º - As despesas decorrentes da execução da presente Lei
 Municipal, correrão por conta de dotação orçamentária própria, do orçamento para
 2000.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 

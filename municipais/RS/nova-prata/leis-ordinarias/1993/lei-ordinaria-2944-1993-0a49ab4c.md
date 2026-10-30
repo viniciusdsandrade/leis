@@ -26,11 +26,14 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica autorizada a cedência de um funcionário público municipal
 ao Fórum desta cidade, para desempenho da função de Auxiliar de Administração .
+
 Art. 2º - A cedência a que se refere o artigo anterior é pelo prazo certo de
 01 (um) ano, podendo ser renovado por igual período, observadas as disponibilidades
 do Município e a necessidade do Fórum.
+
 Art. 3º - O funcionário ora cedida desempenhará as mesmas funções de
 Auxiliar de Administração no órgão cessionário percebendo a mesma remuneração do
 cargo , cujo pagamento, encargos sociais e promoção ficam de total responsabilidade do
@@ -39,9 +42,11 @@ Parágrafo Único - O funcionário cedido poderá ainda perceber
 remuneração equivalente a horas - extras de trabalho eventualmente prestadas,
 atendendo às necessidades e convocação do Fórum, que também serão pagas pelo
 município cedente.
+
 Art. 4º - O Fórum fica obrigado, durante o período de cedência com ônus
 para o Município, para os fins do Parágrafo Único do artigo anterior, e outras
 ocorrências relativas à vida funcional, comunicar o Município.
+
 Art. 5º - Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

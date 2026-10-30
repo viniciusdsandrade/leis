@@ -33,6 +33,7 @@ outubro de 1991, que foi alterada pela Lei Municipal n.º 3616/96, passando a vi
 seguinte redação:
 “Art. 4º - O Conselho Municipal de Saúde - CMS, terá a seguinte composição
 paritária, nos termos da Lei, com um (01) representante e um (01) suplente de cada instituição:
+
 I - Governo, Prestadores de Serviços e Profissionais da Saúde:
 - Secretaria Municipal de Saúde e Meio Ambiente;
 - Secretaria Municipal da Habitação e Bem-Estar Social;
@@ -43,6 +44,7 @@ I - Governo, Prestadores de Serviços e Profissionais da Saúde:
 - CORSAN;
 - Trabalhadores do SUS;
 - Representante do Corpo Clínico.
+
 II - Usuários:
 - Associação Beneficente e Educacional de Nova Prata - ABEN;
 - Associação de Pais e Amigos dos Excepcionais - APAE;

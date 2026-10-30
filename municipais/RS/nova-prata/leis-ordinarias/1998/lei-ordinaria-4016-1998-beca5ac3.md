@@ -33,6 +33,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a repassar um
 auxílio pecuniário mensal, no valor de R$ 130,00 (cento e trinta reais), a ser pago
 mensalmente do mês de abril a dezembro de 1998, ao Senhor José de Freitas Vieira.
+
 Parágrafo único - O valor de que trata o caput deste Artigo, será
 repassado até o décimo dia do mês subseqüente ao vencido.
 

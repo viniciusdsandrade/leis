@@ -40,6 +40,7 @@ Comarca de Nova Prata de propriedade do Município.
 Art. 2.º - A Permissão de Uso de que trata o artigo anterior, será por 20
 (vinte) anos, contados da publicação desta Lei, podendo ser prorrogado por outro
 período igual, havendo interesse das partes e em especial interesse público.
+
 Parágrafo único - As demais condições do Termo de Permissão de Uso,
 constam especificamente no mesmo.
 

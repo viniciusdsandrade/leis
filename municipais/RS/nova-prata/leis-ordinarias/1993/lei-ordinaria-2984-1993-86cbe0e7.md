@@ -42,10 +42,12 @@ Art. 3.º - A concessão da Subvenção pelo Município ficará condicionada
 à apresentação do PLANO DE TRABALHO E DE APLICAÇÃO por parte da Entidade
 interessada e à sua aprovação antecipada pelo Poder Executivo, assim como, à
 celebração do respectivo Convênio.
+
 Art. 4.º - As despesas decorrentes da aplicação desta lei correrão por
 conta de rubrica orçamentária: 0501 - Secretaria da de Educação e Cultura;
 08421882.057 - Manutenção e Desenvolvimento do Ensino de 2º Grau; 3.2.3.1 -
 Subvenções Sociais.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 
@@ -97,13 +99,16 @@ Subvenção, se a UNIÃO deixar de apresentar o PLANO DE TRABALHO E DE
 APLICAÇÃO ou na hipótese de não ser aprovado pelo órgão competente do Executivo.
 Parágrafo Único - Constituirá motivo para a suspensão do repasse da
 Subvenção pelo Município:
+
 a) quando não houver comprovação da boa e regular aplicação da parcela
 anteriormente recebida, na forma da legislação aplicável inclusive mediante
 procedimentos e fiscalização local, realizados periodicamente pelo Município.
+
 b) quando verificado desvio de finalidade na aplicação dos recursos,
 práticas atentatórios aos princípios fundamentais de Administração Pública, nas
 contratações e demais atos praticados na execução deste Convênio, ou o
 inadimplemento de qualquer obrigação estabelecida por cláusulas conveniais básicas;
+
 c) quando a entidade conveniente deixar de adotar as medidas saneadoras
 apontadas pelo Município repassador da Subvenção.
 CLÁUSULA NONA - Será feito o repasse financeiro em 02 (duas)

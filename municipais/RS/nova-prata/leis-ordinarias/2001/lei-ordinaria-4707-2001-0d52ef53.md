@@ -29,6 +29,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar convênio com a
 Associação Beneficente e Educacional de Nova Prata - ABEN, inscrita no CNPJ/MF sob n.º
 88991260/0001-17, com a finalidade de estabelecer cooperação mútua, na aquisição de um

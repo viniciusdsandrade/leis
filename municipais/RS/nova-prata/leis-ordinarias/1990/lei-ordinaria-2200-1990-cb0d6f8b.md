@@ -33,20 +33,25 @@ Art. 1.º - Fica autorizada a cedência da funcionária Pública Municipal
 MARA NÚBIA LICKS do Município de Nova Prata à 5ª Delegacia Regional de Saúde,
 para desempenho da função de enfermeira inclusive a chefia do Posto de Saúde
 estabelecido nesta cidade.
+
 Art. 2.º - A cedência a que se refere o artigo anterior é pelo prazo certo de
 1 (um) ano, podendo ser revogada por igual período, observadas as disponibilidades do
 Município e a necessidade do órgão cessionário.
+
 Art. 3.º - A funcionária ora cedida desempenhará as mesmas funções de
 enfermeira inclusive a Chefia do posto de Saúde estabelecido nesta cidade e mantido
 pelo órgão cessionário, percebendo a mesma remuneração do cargo, cujo pagamento,
 encargos sociais e promoção ficam de total responsabilidade do órgão cedente.
+
 Parágrafo único - A funcionária poderá ainda perceber remuneração
 equivalente a horas-extras de trabalho eventualmente prestados, atendendo a
 convocação da Delegacia de Saúde, que também serão pagas pelo Município cedente.
+
 Art. 4.º - A 5ª Delegacia Regional de Saúde fica obrigada, durante o
 período de cedência com ônus para o Município, a comunicar oficialmente, todos os
 meses, a frequência ao serviço , para os fins do parágrafo único do artigo anterior, e
 outras ocorrências relativas à vida funcional.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

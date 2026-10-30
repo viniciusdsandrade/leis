@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1º - Fica fixado em R$2.800,00 (dois mil e oitocentos reais) cada um
 dos terrenos destinados ao Loteamento Popular autorizado pela Lei Municipal
 4319/2000.
+
 Parágrafo único – Fica fazendo parte integrante da presente Lei
 Municipal o laudo de avaliação firmado pelos servidores públicos municipais nomeados
 pela Portaria 157/2004.

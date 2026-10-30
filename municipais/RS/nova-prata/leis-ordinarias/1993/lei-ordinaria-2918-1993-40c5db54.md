@@ -31,6 +31,7 @@ promulgo a seguinte Lei:
 Art. 1.º - É incluso o Projeto abaixo especificado no Plano
 Plurianual do Município para o período de 1991-1993, disposto na Lei Municipal N.º 2252 de 17
 de outubro de 1990, que passa a fazer parte de seus respectivos anexos:
+
 I - DESAPROPRIAÇÃO E DOAÇÃO DE TERRENO URBANO
 PARA EDIFICAÇÃO DO PRÉDIO DO FORUM
 OBJETIVO: Instalar adequadamente e atualizar os serviços do

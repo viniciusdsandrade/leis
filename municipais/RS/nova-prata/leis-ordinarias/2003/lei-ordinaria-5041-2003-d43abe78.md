@@ -35,6 +35,7 @@ pagamento, mediante Escritura Pública, uma área de terras urbanas de 1.573,67 
 mil, quinhentos e setenta e três metros e sessenta e sete decímetros quadrados), de
 propriedade da Mitra Diocesana de Caxias do Sul, localizado na Rua Clemente
 Tarasconi, o qual foi usado pelo Município para alargamento do referido logradouro.
+
 Parágrafo único - O imóvel acima caracterizado, é parte da Transcrição
 nº 650 do CRI de Nova Prata.
 

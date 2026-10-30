@@ -39,8 +39,10 @@ Art. 2.º - O Município destinará à FUCS, dotação equivalente a 2% (dois
 por cento) de sua receita orçamentária, que será aplicada na manutenção e
 funcionamento da Unidade Especial, sendo que no mínimo metade desse valor deverá
 ser aplicado diretamente na Unidade Especial.
+
 § 1º - A referida dotação será transferida à FUCS em 12 (doze) parcelas
 mensais correspondente aos 12 (doze) meses do ano civil.
+
 § 2º - O montante de cada parcela será no valor de 2% (dois por cento)
 da receita orçamentária arrecadada no mês imediatamente anterior ao desta
 transferência.
@@ -112,6 +114,7 @@ legais e o prazo de vigilância será por tempo indeterminado.
 CLÁUSULA PRIMEIRA -
 
 CLÁUSULA SEGUNDA - Constituem obrigações das partes:
+
 a) da Secretaria de Agricultura e Abastecimento - Departamento de Recursos
 Renováveis:
 MINUTA DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS

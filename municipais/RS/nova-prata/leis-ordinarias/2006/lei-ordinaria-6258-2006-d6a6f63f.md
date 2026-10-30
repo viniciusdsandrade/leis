@@ -40,6 +40,7 @@ se divide com área remanescente de José Gentil Frison, por 48,80m. da frente a
 pelo outro lado, ao SUL, donde dista 576,90m.da esquina da Rua Dorvalino Colla, e se
 divide com terreno de Pasqua Albina Miotto, no fundo ao OESTE, mede 14,04m,
 confrontando com terras de José Gentil Frison.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, levantamento topográfico, memorial descritivo, laudo de avaliação e o
 registro do imóvel em questão.

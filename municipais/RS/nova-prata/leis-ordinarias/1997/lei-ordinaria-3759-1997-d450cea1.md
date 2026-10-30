@@ -104,12 +104,19 @@ atos e fatos relacionados com a vida funcional do servidores,
 bem como protocolo e arquivo.
 Parágrafo Único - Integram a Secretaria de
 Administração:
+
 I - Assessoria de Secretaria;
+
 II - Equipe de Pessoal;
+
 III - Equipe de Compras;
+
 IV - Núcleo de Licitações;
+
 V - Núcleo de Almoxarifado;
+
 VI - Núcleo de Arquivo;
+
 VII - Setor de Serviços Administrativos.
 
 Art. 8º - A Secretaria de Finanças compete
@@ -122,10 +129,15 @@ imóveis para fins tributário, recebimento, guarda e
 movimentação de bens e valores.
 Parágrafo Único - Integram a Secretaria de
 Finanças:
+
 I - Núcleo de Contabilidade;
+
 II - Núcleo de Tributação;
+
 III - Núcleo de Cadastro;
+
 IV - Núcleo de Tesouraria;
+
 V - Núcleo de Prestação de Contas.
 
 II - Dos Órgãos de Administração Específica:
@@ -147,32 +159,52 @@ sistema de transportes, oficina, limpeza pública e serviços
 auxiliares correlatos.
 Parágrafo Único - Integram a Secretaria de Obras
 e Saneamento.
+
 I - Assessoria de Secretaria;
+
 II - Equipe de Obras Públicas;
+
 III - Equipe de Telefonia, Iluminação e Água;
+
 IV - Equipe de Motoristas;
+
 V - Equipe de Usina de Asfalto;
+
 VI - Equipe de Máquinas;
+
 VII - Equipe de Oficina;
+
 VIII - Núcleo de Serviços Rodoviários;
+
 IX - Núcleo de Manutenção de Serviços;X - Núcleo
 da Usina de Lixo;
+
 XI - Núcleo de Serviços Técnicos;
+
 XII - Setor de Serviços de Comunicação Rio Branco;
+
 XIII - Setor de Serviços de Comunicação Povoado
 Colla;
 
 XIV - Setor de Serviços de Comunicação Santa
 Catarina;
+
 XV - Setor de Serviços de Comunicação Campestre;
+
 XVI - Setor de Serviços de Comunicação Três
 Mártires;
+
 XVII - Setor de Serviços de Comunicação do
 Gramado;
+
 XVIII - Setor de Limpeza das Vias Públicas;
+
 XIX - Setor de Limpeza de Praças;
+
 XX - Setor de Parques e Jardins;
+
 XXI - Setor de Limpeza Urbana;
+
 XXII - Setor de Limpeza de Próprios Municipais.
 
 Art. 11 - A Secretaria de Educação e Cultura
@@ -185,16 +217,26 @@ bibliotecas e medidas relacionadas com o desenvolvimento
 Cultural, bem como a administração das creches municipais.
 Parágrafo Único - Integram a Secretaria de
 Educação e Cultura:
+
 I - Equipe de Educação;
+
 II - Equipe da Casa da Cultura;
+
 III - Equipe do Centro Social Urbano;
+
 IV - Equipe do Transporte Escolar:
+
 V - Equipe de Apoio de Dificuldades de
 Aprendizagem;
+
 VI - Núcleo de Atividades Artísticas;
+
 VII - Núcleo de Biblioteca;
+
 VIII - Núcleo do Museu Municipal;
+
 IX - Conselho Municipal da Educação;
+
 X - Setor de Creches.
 
 Art. 12 - A Secretaria de Habitação e Bem Estar
@@ -207,10 +249,13 @@ trabalham com esta finalidade e, ainda, o controle do
 Cemitério Público Municipal.
 Parágrafo Único - Integram a Secretaria de
 Habitação e Bem Estar Social;
+
 I - Assessoria de Secretaria;
+
 II - Equipe de Habitação.
 
 .
+
 Art. 13 - A Secretaria de Agricultura e
 Abastecimento compete executar as tarefas relacionadas com
 as atividades agropastoril, silvicultura e extração mineral do
@@ -223,8 +268,11 @@ produtores, controle do matadouro e do viveiro do município.
 5
 Parágrafo Único - Integram a Secretaria de
 Agricultura e Abastecimento:
+
 I - Assessoria de Secretaria;
+
 II - Equipe de Agricultura;
+
 III - Núcleo de Assistência Técnica.
 
 Art. 14 - A Secretaria da Saúde e Meio Ambiente
@@ -234,11 +282,16 @@ ou da rede de postos de saúde pública, bem como promover a
 orientação médica ä pacientes necessitados. Compete ainda,
 desenvolver e controlar a municipalização da saúde e a
 orientação e fiscalização do meio ambiente.
+
 Parágrafo único - Integram a Secretaria da Saúde
 e Meio Ambiente:
+
 I - Equipe de Saúde;
+
 II - Equipe de Meio Ambiente;
+
 III - Núcleo de Prevenção à Saúde;
+
 IV - Conselho Municipal de Saúde.
 
 Art. 15 - A Secretaria de Turismo e Desportos
@@ -247,9 +300,12 @@ aperfeiçoamento da infra-estrutura turística, a
 gastronomia, o artesanato, a hotelaria e o lazer; e promover
 eventos culturais e esportivos, integrando suas atividades com
 as dos Órgãos Estaduais e Federais.
+
 Parágrafo único - Integram a Secretaria de
 Turismo e Desportos:
+
 I - Equipe de Turismo;
+
 II - Núcleo de Atividades Artísticas.
 
 III - Dos Órgãos de Desconcentração
@@ -269,6 +325,7 @@ pelos diferentes Órgãos da Prefeitura na área de sua
 competência.
 
 .
+
 Art. 18 - Ao Núcleo de atividades de interesse
 comum, União e Estado compete realizar as atividades
 relacionadas com o peculiar interesse do município de

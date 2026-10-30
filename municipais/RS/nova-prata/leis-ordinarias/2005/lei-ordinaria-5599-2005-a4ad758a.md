@@ -37,6 +37,7 @@ Art. 2º - Ficam alterados os incisos I e II do artigo 24 da Lei Municipal
 4300 de 30 de dezembro de 1999, que passam a ter a seguinte redação:
 “I – dos associados em geral, na porcentagem de 11% (onze por cento)
 sobre a remuneração;
+
 II – dos órgãos empregadores, na porcentagem de 18% (dezoito por
 cento) sobre o total da folha de pagamento dos associados.”
 

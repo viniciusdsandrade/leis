@@ -25,13 +25,16 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É abonado do pagamento de tributos relativos à Imposto Predial
 e Territorial Urbano e Contribuição de melhoria, incidentes sobre o imóvel de
 propriedade de Pedrinho Lovison, sito na Estrada Buarque de Macedo, acesso ao trevo
 sul, especificamente a diferença apurada na aquisição de área pelo Município por dação
 em pagamento, consoante a Lei Municipal n.º 2532 de 06.05.92.
+
 Parágrafo único - É abonado do pagamento também, dos acréscimos que
 porventura existirem sobre a diferença citada no caput deste artigo, até a presente data.
+
 Art. 2º - Esta Lei entrará em vigor na data de sua publicação, revogadas
 as disposições, em especial o parágrafo único do artigo 3º da Lei Municipal n.º 2532/92.
 

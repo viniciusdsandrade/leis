@@ -27,21 +27,28 @@ ERMÍNIO MINOZZO, VICE-PREFEITO EM EXERCÍCIO DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É o Poder Executivo autorizado a pagar as despesas referentes a
 passagens, refeições e alojamento de hóspedes do Município que, a seu convite, venham
 a participar de Promoções na Semana da Pátria de 1990 que realizar-se-á no período de
 01.09.90 a 07.09.90.
+
 Art. 2º - As despesas autorizadas pelo artigo 1º, não poderão ultrapassar
 a Cr$ 20.000,00 (vinte mil cruzeiros).
+
 Art. 3º - É o Poder Executivo autorizado a pagar as despesas relativas a
 jantares, gêneros alimentícios e premiação em concursos, decorrentes da referida
 promoção, constantes da programação oficial do Município para a Semana da Pátria.
+
 Art. 4º - As despesas a que se refere o artigo 3º não poderão ultrapassar a
 Cr$ 50.000,00 (cinquenta mil cruzeiros).
+
 Art. 5º - O ordenador da despesa juntará aos comprovantes da despesa, a
 justificativa correspondente.
+
 Art. 6º - As despesas decorrentes da aplicação desta Lei correrão por
 conta da dotação de rubrica própria do orçamento vigente.
+
 Art. 7º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

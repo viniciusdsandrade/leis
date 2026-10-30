@@ -26,15 +26,19 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É o contribuinte Cine Lux Ltda isento do pagamento de Imposto
 Sobre Serviços de Qualquer Natureza e Imposto Predial e Territorial Urbano, devidos
 ao Município, dos períodos de 1992 e 1993.
+
 Parágrafo único - É isento também, o mesmo contribuinte, do pagamento
 de quaisquer encargos que porventura incidirem sobre os tributos lançados no exercício
 de 1992.
+
 Art. 2º - O contribuinte beneficiado com a isenção, compromete-se a
 prestar sua colaboração sem ônus, bem como a colocar à disposição do Município, seu
 espaço físico, sempre que o mesmo assim necessitar.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

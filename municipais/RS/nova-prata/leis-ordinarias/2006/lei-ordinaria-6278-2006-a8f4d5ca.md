@@ -43,9 +43,12 @@ do PSF, o Município poderá optar por usar a classificação vigente para a con
 
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos ao contratado:
+
 I – repouso semanal remunerado e gratificação natalina proporcional, nos
 termos da Lei Municipal 5760/05;
+
 II – férias proporcionais, ao término do contrato;
+
 III – inscrição no regime Geral de Previdência Social.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,
@@ -85,12 +88,16 @@ ambulatoriais; indicar internação hospitalar; solicitar exames complementares;
 e atestar óbito; executar outras tarefas afins.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 40 horas semanais, inclusive em
 regime de plantão e trabalho em domingos e feriados.
 
 REQUISITOS PARA CONTRATAÇÃO:
+
 a) Idade: mínima de 21 (vinte e um) anos;
+
 b) Escolaridade: Nível Superior completo.
+
 c) Habilitação: habilitação legal para o exercício da profissão de
 Médico. Registro no Conselho Regional de Medicina.
 

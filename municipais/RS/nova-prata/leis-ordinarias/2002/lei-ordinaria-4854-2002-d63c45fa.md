@@ -31,6 +31,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar termo de
 convênio com a Câmara de Indústria e Comércio de Nova Prata, com objetivo de colaborar na
 realização da escolha da representante de Nova Prata no certame Rainha da Indústria e

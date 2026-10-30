@@ -29,14 +29,17 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É o Executivo Municipal autorizado a conceder abono salarial
 de Cr$ 288.379,60 (duzentos e oitenta e oito mil, trezentos e setenta e nove cruzeiros e
 sessenta centavos) e Cr$ 512.192,68 (quinhentos e doze mil, cento e noventa e dois
 cruzeiros e sessenta e oito centavos), sobre a remuneração fixa dos servidores públicos
 municipais integrantes de cargo em comissão (CC1) e cargo em extinção de calceteiros,
 respectivamente.
+
 Art. 2º ‑ 0 abono ora concedido será pago somente no período
 compreendido do mês de fevereiro do corrente exercício.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

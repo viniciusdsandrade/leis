@@ -35,6 +35,7 @@ canos PVC de 25 mm, para uso em complementação de rede de abastecimento de ág
 
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a cedê-lo em caráter
 definitivo para a Comunidade da Vila Hípica, onde servirá par o fim descrito no Artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do Município,
 realizará verificação da efetiva utilização do material na obra, de conformidade com os
 objetivos declinados no Artigo primeiro.

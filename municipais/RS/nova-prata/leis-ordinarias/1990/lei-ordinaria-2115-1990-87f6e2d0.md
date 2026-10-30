@@ -56,25 +56,34 @@ esforços para promover e incentivar a educação e a assistência aos alunos de
 mentais da Escola Especial de 1º Grau Incompleto “Morada da Ternura” mantida pela
 APAE de Nova Prata;
 2ª Compete ao Município de Nova Prata:
+
 a) ceder até 05 (cinco) professores lotados na Secretaria Municipal de
 Educação e Cultura para exercício do magistério na Escola Especial de 1º Grau
 Incompleto “Morada da Ternura” mantida pela APAE de Nova Prata;
+
 b) emitir, junto com a Secretaria Municipal, diretrizes e normas
 administrativas para acompanhamento da contrapartida e da situação funcional dos
 professores cedidos;
+
 c) supervisionar as obrigações decorrentes deste convênio de colaboração.
 3ª Compete à APAE:
+
 a) manter um nível de matrícula, nunca inferior à proporção de 5 (cinco)
 alunos por professor cedido do Município;
+
 b) dar assistência a alunos deficientes mensais, independentes do grau,
 uma vez que na comunidade inexiste outra instituição que realize este tipo de atividade;
+
 c) estimular a participação de pais nas promoções da escola da APAE;
+
 d) remeter ao Município mensalmente as efetividades dos professores
 cedidos em exercício NA Escola e quaisquer outras informações relativas à situação
 funcional;
+
 e) remeter à Secretaria Municipal semestralmente, relatório da freqüência
 dos alunos encaminhados pelo Município, resumo das atividades promovidas e a
 matrícula real;
+
 f) atender os critérios e procedimentos para execução deste convênio que
 forem emitidos pela Secretaria Municipal.
 4ª O presente convênio de Colaboração vigorará pelo prazo de 1 (um) ano, a
@@ -100,25 +109,34 @@ esforços para promover e incentivar a educação e a assistência aos alunos de
 mentais da Escola Especial de 1º Grau Incompleto “Morada da Ternura” mantida pela
 APAE de Nova Prata;
 2ª Compete ao Município de Nova Prata:
+
 a) ceder até 05 (cinco) professores lotados na Secretaria Municipal de
 Educação e Cultura para exercício do magistério na Escola Especial de 1º Grau
 Incompleto “Morada da Ternura” mantida pela APAE de Nova Prata;
+
 b) emitir, junto com a Secretaria Municipal, diretrizes e normas
 administrativas para acompanhamento da contrapartida e da situação funcional dos
 professores cedidos;
+
 c) supervisionar as obrigações decorrentes deste convênio de colaboração.
 3ª Compete à APAE:
+
 a) manter um nível de matrícula, nunca inferior à proporção de 5 (cinco)
 alunos por professor cedido do Município;
+
 b) dar assistência a alunos deficientes mensais, independentes do grau,
 uma vez que na comunidade inexiste outra instituição que realize este tipo de atividade;
+
 c) estimular a participação de pais nas promoções da escola da APAE;
+
 d) remeter ao Município mensalmente as efetividades dos professores
 cedidos em exercício NA Escola e quaisquer outras informações relativas à situação
 funcional;
+
 e) remeter à Secretaria Municipal semestralmente, relatório da freqüência
 dos alunos encaminhados pelo Município, resumo das atividades promovidas e a
 matrícula real;
+
 f) atender os critérios e procedimentos para execução deste convênio que
 forem emitidos pela Secretaria Municipal.
 4ª O presente convênio de Colaboração vigorará pelo prazo de 1 (um) ano, a

@@ -67,6 +67,7 @@ Extração 14,80
 Parágrafo Único - São também reajustados no mesmo índice
 estabelecido neste artigo, os proventos dos inativos e pensionistas mantidos pelo
 Município.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -63,7 +63,9 @@ anomalia no funcionamento da máquina; zelar pela conservação e limpeza das m�
 sob sua responsabilidade; executar outras tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho de 44 horas semanais;
+
 b) Outras: sujeito ao uso de uniforme fornecido pelo Município; horário
 indeterminado, sujeito a trabalhos noturnos, aos domingos e feriados.
 
@@ -73,6 +75,7 @@ a) Escolaridade mínima: 4.ª série do 1.º Grau;
 b)Habilitação Profissional: Carteira Nacional de Habilitação, no mínimo
 na categoria C e experiência comprovada, de no mínimo cinco anos, em trabalhos com
 escavadeira hidráulica;
+
 c) - Idade: mínima de 18 anos.
 
 RECRUTAMENTO: Através de concurso público.

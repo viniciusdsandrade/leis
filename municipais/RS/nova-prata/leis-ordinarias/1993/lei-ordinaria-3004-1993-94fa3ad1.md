@@ -26,6 +26,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1º - É concedido um auxílio financeiro a Senhora Lourdes Bristot Fidler, no
 valor de Cr$ 10.000,00 (dez mil cruzeiros reais), para pagamento e/ou reembolso de despesas
 com cirurgia, anestesia devido a uma Celulite Óssea, Infecção Óssea.

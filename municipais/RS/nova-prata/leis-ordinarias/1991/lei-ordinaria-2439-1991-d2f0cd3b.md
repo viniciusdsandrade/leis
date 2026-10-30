@@ -37,6 +37,7 @@ Secretaria da Saúde e Meio Ambiente; 0801.13 - Saúde e Saneamento; 0801.1375 -
 Saúde; 0801.1375428 - Assistência Médica e Sanitária; 0801.13754281.033 -
 Programas de Proteção à Saúde e Planejamento Familiar; 3.2.5.9 - Outras
 Transferências a Pessoas.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

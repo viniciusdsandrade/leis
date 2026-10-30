@@ -60,14 +60,19 @@ Art. 3º - Ë o Poder Executivo Municipal, de conformidade com a Lei
 ... Folha 02
 
 I - Abrir, durante o exercício, créditos suplementares:
+
 a) Até o limite de 5% (cinco por cento) da despesa total autorizada.
+
 b) Realizar remanejamento de dotações Orçamentárias dentro do mesmo
 Projeto e Atividade.
+
 II - Realizar em qualquer mês do exercício financeiro operações de
 crédito por antecipação da receita para atender insuficiência de caixa, até o limite de 5%
 (cinco por cento).
+
 c) Dentro do mesmo elemento de despesa poderão ser abertos por
 Decreto do Executivo novos sub elementos que se fizerem necessários.
+
 Parágrafo único - Para fins do previsto no artigo 3º, a autorização
 concedida deve observar o orçamento da Câmara Municipal, do IPRAM e do orçamento
 da Prefeitura Municipal, cabendo a cada um autorização em percentual sobre o seu

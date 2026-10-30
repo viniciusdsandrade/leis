@@ -37,12 +37,15 @@ na extensão de 50,00m, com terras de Bertelle e Elias & Cia Ltda, ao Sul na mes
 extensão com imóvel de Irmãos Ponzoni ou sucessores, ao Leste na extensão de
 30,00m confronta com Bertelle e Elias & Cia Ltda e a oeste por 30,00m faz frente a
 Rua Henrique Lenzi.
+
 Art. 2.º - Fica, também, o Executivo autorizado a
 escriturar, em nome do Donatário, a área doada, obedecendo os dispositivos da
 Legislação.
+
 Art. 3.º - Fica revogada a Lei N.º 641, de 08 de
 junho de 1966, que doa um terreno ao Estado para a Construção do Forum de Nova
 Prata.
+
 Art. 4.º - Revogadas as disposições em contrário,
 esta Lei entrará em vigor na data de sua publicação.
 

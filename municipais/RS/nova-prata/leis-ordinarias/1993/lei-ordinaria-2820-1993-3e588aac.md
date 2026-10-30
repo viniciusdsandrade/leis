@@ -31,12 +31,15 @@ Art. 1º ‑ É concedida uma Subvenção ao Conselho Pratense de Juventude
 Rural - COPRAJUR, no valor de Cr$ 10.000.000,00 (dez milhões de cruzeiros), para a
 realização do I Jogos Rurais de Integração, que se realizará no próximo dia 23 de maio
 de 1993.
+
 Art. 2º ‑ A Entidade ora subvencionada obriga‑se a prestar contas dos
 recursos recebidos no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0701 - Secretaria da Agricultura e Abastecimento;
 0701.04070212.032 ‑ Manutenção e Desenvolvimento das Atividades da Secretaria;
 3.2.3.1 ‑ Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

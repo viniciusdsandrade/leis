@@ -33,9 +33,11 @@ Art. 1.º - É o Executivo Municipal autorizado a firmar Termo de
 Cooperação Técnica com o Instituto Brasileiro do Patrimônio Cultural, órgão vinculado
 à Secretaria da Cultura da Presidência da República, para o fim de inventariação dos
 bens culturais imóveis do município de Nova Prata.
+
 Art. 2º - O serviço a ser realizado pelo Instituto, o será sem ônus ao
 Município, cujo termo obedecerá as cláusulas constantes da minuta que faz parte
 integrante desta lei.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

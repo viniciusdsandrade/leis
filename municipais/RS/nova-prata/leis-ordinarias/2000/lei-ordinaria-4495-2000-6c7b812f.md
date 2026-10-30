@@ -33,6 +33,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a doar a empresa
 ML - POLIDORA DE BASALTO CALÇADA LTDA, inscrita no CNPJ sob n.º
 91799692/0001-35 um terreno de 1.641,00 m2 (um mil, seiscentos e quarenta e um
 metros quadrados), destinado a uso de empresa, conforme documentação em anexo.
+
 Parágrafo único - A descrição do imóvel, é a constante na matrícula n.º
 12.539 do CRI de Nova Prata.
 

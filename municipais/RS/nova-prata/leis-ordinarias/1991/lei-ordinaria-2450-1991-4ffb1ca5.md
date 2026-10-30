@@ -35,11 +35,14 @@ previstas nesta Lei, efetivados fora dos prazos legais terão seus valores atual
 variação do IGP da Fundação Getúlio Vargas ou outro indexador a ser criado pelo
 Governo Federal, além das incidências de multas e juros e das demais cominações
 previstas na Legislação vigente.”
+
 Art. 2.º - Os valores vencidos até 31 de dezembro do corrente ano
 continuarão com a atualização de seus valores nos termos da Legislação vigente.
+
 Parágrafo único - Os valores parcelados terão suas parcelas atualizadas
 pelo IGP da Fundação Getúlio Vargas ou outro indexador a ser criado pelo Governo
 Federal bem como o Valor de Referência Municipal e a Unidade Fiscal.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -43,12 +43,14 @@ Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar subvenção 
 Associação dos Universitários Pratenses, no valor de R$9.840,00 (nove mil, oitocentos e
 quarenta reais) e autorizado a repassar subvenção a União Acadêmicos Pratenses, no valor de
 R$10.160,00 (dez mil, cento e sessenta reais).
+
 Parágrafo único - O repasse a AUPRA, será em oito parcelas de R$1.230,00 e o
 repasse a UNAP, será em oito parcelas de R$1.270,00, ambos a partir do mês de março de 1998,
 repassados até o dia 30 de cada mês.
 
 Art. 3.º - Fica fazendo parte integrante da presente Lei Municipal, fotocópia do
 Convênio.
+
 Art. 4.º - As despesas decorrentes da execução da presente Lei Municipal,
 correrão pôr conta de dotação orçamentaria, classificada sob código: 05 - Secretaria de
 Educação e Cultura; 01 - Unidades Subordinadas; 08441772.022 - Apoio Financeiro a

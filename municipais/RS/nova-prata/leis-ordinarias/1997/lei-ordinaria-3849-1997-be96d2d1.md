@@ -34,6 +34,7 @@ conjunto com a Câmara de Indústria e Comércio - CIC, Clube de Diretores Lojis
 CDL, Rádio Coroados e Serviço Social da Indústria - SESI, do SHOW DE NATAL, a
 ser realizado no dia 30 de novembro de 1997, com objetivo de despertar o espírito
 Natalino e iniciar todas as programações inerentes as festividades de Natal.
+
 Parágrafo único - O total de gastos com as festividades do Show de
 Natal, será de R$ 2.500,00 (dois mil e quinhentos reais).
 

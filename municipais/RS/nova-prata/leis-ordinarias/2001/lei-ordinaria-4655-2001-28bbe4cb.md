@@ -54,6 +54,7 @@ escritura pública de dação em pagamento, de que trata os artigos anteriores.
 Art.4.º - Todas as despesas decorrentes da formalização das
 correspondentes escrituras públicas e seus registros correrão por conta de rubrica
 orçamentária própria.
+
 Parágrafo único - Fica a presente transação isenta de recolhimento de
 Imposto de Transmissão de Bens Imóveis - ITBI, em virtude do relevante interesse do
 Município em sua concretização.

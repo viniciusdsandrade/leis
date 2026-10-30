@@ -39,9 +39,11 @@ Orçamentária:
 3.1.2.0 - Material de Consumo (56) .......................................................Cr$ 1.960.000,00
 - total .........................................................................................Cr$ 1.960.000,00
 (um milhão, novecentos e sessenta mil cruzeiros).
+
 Art. 2.º - Servirá de recursos para dar cobertura ao crédito suplementar
 de que trata o artigo anterior, transferência da SEC-PRADEM no valor de Cr$
 1.960.000,00 (um milhão, novecentos e sessenta mil cruzeiros).
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

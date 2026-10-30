@@ -37,6 +37,7 @@ objetivo auxiliar no transporte de estudantes universitários, que se deslocam a
 
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar subvenção a
 União dos Acadêmicos Pratenses, no valor de R$8.500,00 (oito mil e quinhentos reais).
+
 Parágrafo único - O repasse a UNAP será efetivado até o final do corrente ano,
 em 6 (seis) parcelas mensais, de acordo com a disponibilidade financeira do erário público.
 

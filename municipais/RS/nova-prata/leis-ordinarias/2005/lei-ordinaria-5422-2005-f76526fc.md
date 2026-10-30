@@ -36,16 +36,23 @@ Art. 2º - Respeitadas as competências exclusivas do Legislativo
 Municipal, compete ao Conselho Municipal do Idoso (CMI):
 
 I - Definir as prioridades para a Política do Idoso;
+
 II - Aprovar a Política Municipal do Idoso a ser proposta pelo executivo;
+
 III - Acompanhar, fiscalizar, zelar e avaliar a execução da Política
 Municipal do Idoso;
+
 IV - Participar na formulação de estratégias para a implementação da
 Política Municipal do Idoso e no controle de sua execução;
+
 V - Receber, apreciar e manifestar-se sobre as denúncias e queixas
 formuladas, encaminhando-as aos setores competentes;
+
 VI - Elaborar e aprovar seu Regimento Interno;
+
 VII - Aprovar a Política Municipal do Idoso a ser proposta pelo
 Executivo;
+
 VIII - Fazer proposições objetivando e definindo as prioridades no
 aperfeiçoamento da legislação municipal referente à política de atendimento ao idoso.
 
@@ -56,10 +63,15 @@ atuação no Município.
 I - Do Governo Municipal:
 
 a) Representante do Gabinete do Prefeito;
+
 b) Secretário da Assistência Social;
+
 c) Secretário da Educação;
+
 d) Secretário da Saúde;
+
 e) Representante da Associação da Casa da Cultura;
+
 f) Representante do departamento técnico do órgão da habitação;
 ...
 ... folha 02
@@ -67,11 +79,15 @@ II - Da sociedade civil organizada ligada a área:
 
 a) Representante de Instituições Privadas de ensino de nível superior,
 com trabalho na área de idoso do município de Caxias do Sul;
+
 b) Representante do corpo clínico da Associação Médica e/ou
 Associações que congreguem profissionais nas áreas de geriatria -
 Gerontologia;
+
 c) Representante de associações de Aposentados, Pensionistas e Idosos;
+
 d) Representante da casa do idoso, instituição asilar.
+
 e) Representante do Conselho Municipal da Saúde.
 
 Parágrafo 1º - Os membros do CMI e seus respectivos suplentes serão
@@ -94,6 +110,7 @@ a pessoas e entidades, mediante os seguintes critérios:
 
 I - Poderão ser convidadas pessoas ou instituições de notória
 especialização para assessorar o CMI em assuntos específicos;
+
 II - Poderão ser criadas comissões internas, constituídas por entidades-
 membros do CMI e outras instituições, para promover estudos e emitir pareceres a
 respeito de temas específicos, que tratem da Política do Idoso.
@@ -102,7 +119,9 @@ Art. 7º - A Secretaria Municipal de Assistência Social dará o apoio
 administrativo necessário ao funcionamento do CMI.
 
 Art. 8º - O CMI terá a seguinte estrutura:
+
 I - Plenário;
+
 II - Diretoria.
 
 Art. 9º - O Plenário é órgão soberano do CMI e a ela compete exercer o

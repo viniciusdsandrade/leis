@@ -39,6 +39,7 @@ constituída pelo Edital n.º 02/95, no valor de R$1.678,14 (um mil, seiscentos 
 oito reais e quatorze centavos), o qual o Município se obriga a quitar após assinatura e
 Termo de Dação em Pagamento e compromisso de assinatura da Escritura de que trata o
 Artigo primeiro da presente Lei Municipal.
+
 Parágrafo único - O proprietário, concorda com a dação em pagamento,
 fazendo parte integrante da presente Lei Municipal, Termo de Declaração, no qual
 compromete-se a não reclamar o valor correspondente a diferença entre a avaliação e a

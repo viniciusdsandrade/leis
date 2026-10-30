@@ -52,6 +52,7 @@ celebrado correrão por conta dos convenientes.
 Art. 5º - O Município fica isento de qualquer responsabilidade com
 relação a eventuais saldos devedores de empréstimos concedidos e não quitados
 integralmente.
+
 Art. 6º - Fica fazendo parte integrante da presente lei, cópia do convênio.
 
 Art. 7º - Esta Lei Municipal entrará em vigor na data de sua publicação.

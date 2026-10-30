@@ -36,6 +36,7 @@ Convênio com o Conselho Comunitário Pró Segurança Pública de Nova Prata -
 CONSEPRO, com o objetivo de reunir esforços, para conceder condições de trabalho e
 atendimento à segurança pública dos cidadãos e órgãos públicos, a ser realizada pela
 Polícia Civil e Brigada Militar.
+
 Parágrafo único - Os objetivos do Convênio, serão dirigidos a
 manutenção de 3 (três) viaturas da Polícia Civil e 4 (quatro) viaturas da Brigada Militar,
 aquisição de material de expediente, aluguel de linhas telefônicas, conservação de
@@ -46,6 +47,7 @@ Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar, até o
 final do ano de 1997, ao CONSEPRO de Nova Prata, como participação do Município
 na consecução dos objetivos declinados no Artigo primeiro, a importância de
 R$12.321,00 (doze mil, trezentos e vinte e um reais).
+
 Parágrafo único - O repasse é correspondente a participação de Nova
 Prata, levando-se em consideração as necessidades do CONSEPRO, que é de
 R$14.000,00, os quais serão suportados entre os Municípios de Nova Prata, Vista

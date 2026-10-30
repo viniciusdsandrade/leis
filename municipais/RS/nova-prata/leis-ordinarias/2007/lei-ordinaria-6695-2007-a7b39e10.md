@@ -46,6 +46,7 @@ sujeição a estudo de viabilidade urbanística.
 
 Art. 3.º - Aos requisitos de que trata o artigo anterior, serão agregados os
 seguintes tópicos:
+
 I – quanto a função social; a) um ponto para cada três empregos gerados,
 sendo que, para indústria deverá haver um mínimo de 15 (quinze) empregos e para
 serviços, 10 (dez) empregos gerados.
@@ -53,11 +54,15 @@ serviços, 10 (dez) empregos gerados.
 II – quanto as características:
 
 a) que utilizam matéria-prima local, 50 pontos;
+
 b) que utilizam matéria-prima de outras áreas, 30 pontos;
+
 c) sem similar, 50 pontos
 d) com similar, 30 pontos.
+
 III – quanto ao capital integralizado
 a) de 1.000 a 1.500 salários mínimos, 50 pontos;
+
 b) acima de 1.500 salários mínimos, 70 pontos.
 ...
 ... Folha 02
@@ -151,6 +156,7 @@ Art.12 - Somente o beneficiário poderá fazer uso do imóvel doado, sendo
 vedado expressamente qualquer tipo de locação ou sublocação, sob pena da perda do
 imóvel, aplicando-se, se for o caso, o preceituado no art.10 Parágrafo Segundo desta
 Lei.
+
 Art.13 - Fica indisponível o bem doado pelo Município para alienação,
 de qualquer tipo pelo prazo de 10 (dez) anos, excetuada a hipótese de garantia
 hipotecária para o financiamento da própria edificação ou instalação do

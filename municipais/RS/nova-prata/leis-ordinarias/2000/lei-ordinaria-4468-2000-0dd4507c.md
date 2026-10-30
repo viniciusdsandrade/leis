@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a participar com
 até R$1.000,00 (um mil reais), referente ao projeto de rede de água na Linha Garibaldi,
 distrito de Rio Branco.
+
 Parágrafo único - O projeto beneficiará imediatamente, o abastecimento
 de água de 09 (nove) famílias.
 

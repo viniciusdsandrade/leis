@@ -34,6 +34,7 @@ promulgo a seguinte Lei.
 Art. 1.o - Fica o Poder Executivo Municipal, autorizado a firmar Termo
 Aditivo ao Convênio firmado com a Associação de Pais e Amigos dos Excepcionais –
 APAE, com sede nesta cidade.
+
 Parágrafo único – O Convênio foi firmado através da autorização da Lei
 Municipal nº 2115/1990.
 

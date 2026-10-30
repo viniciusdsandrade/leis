@@ -34,6 +34,7 @@ contratação temporária de excepcional interesse público, de 06 (seis) pessoa
 exercerem funções de operário e, 06 (seis) pessoas, para exercerem funções de gari, pelo
 prazo de até 90 (noventa) dias, obedecendo-se o prazo máximo previsto no Artigo 234
 da Lei Municipal nº 2.154/90.
+
 Parágrafo único - A contratação temporária de excepcional interesse
 público, prevista no “caput” deste artigo, tem como fundamento o Artigo 233, Inciso III
 da Lei Municipal nº 2.154/90, caracterizada pelo estado de emergência que se encontra

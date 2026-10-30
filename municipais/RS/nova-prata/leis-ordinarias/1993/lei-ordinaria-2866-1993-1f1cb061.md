@@ -32,9 +32,11 @@ promulgo a seguinte Lei:
 Art. 1º ‑ Fica autorizado o Poder executivo a pagar despesa de água a
 CORSAN da Sociedade Cultural Beneficente Santa Cruz (Capela Santa Cruz) até
 dezembro/93, inclusive.
+
 Parágrafo único - Esta despesa é a contrapartida do Município pela
 cedência de uma sala de aula que está sendo usado nos termos do Contrato firmado em
 1º de março de 1993 pelas partes e anexo a esta Lei.
+
 Art. 2º ‑ As despesas correrá por conta da dotação orçamentária: 05 -
 Secretaria de Educação e Cultura; 0501.08421882.009 - Manutenção e
 Desenvolvimento do Ensino Fundamental; 3.1.3.2 - Outros Serviços e Encargos.

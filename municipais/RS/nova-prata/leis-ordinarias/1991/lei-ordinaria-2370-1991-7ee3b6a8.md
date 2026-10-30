@@ -40,8 +40,10 @@ OBJETIVO: Visa o presente projeto a reforma do prédio da ABEN -
 Associação Beneficente e Educacional de Nova Prata, aquisição de equipamentos e
 materiais de consumo para instituição de cursos profissionalizantes, sendo que o FNDE
 participará com 70% e o Município de Nova Prata com 30%.”
+
 Art. 2º - O Projeto referido é incluso também no Anexo II do mesmo
 dispositivo legal, respectivamente o objetivo para execução do mesmo.
+
 Art. 3.º - Revogadas as disposições em contrário esta Lei entrará em
 vigor na data de sua publicação.
 

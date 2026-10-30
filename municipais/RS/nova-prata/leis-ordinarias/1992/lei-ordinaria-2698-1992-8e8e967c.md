@@ -26,6 +26,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É aberto um crédito suplementar na importância de Cr$
 4.550.000,00 (quatro milhões e quinhentos e cinqüenta mil cruzeiros), na seguinte
 unidade orçamentária:
@@ -34,9 +35,11 @@ unidade orçamentária:
 3.1.3.2 - Outros Serviços e Encargos....................................................Cr$ 4.550.000,00
 - total .......................................................................................Cr$ 4.550.000,00
 (quatro milhões e quinhentos e cinqüenta mil cruzeiros).
+
 Art. 2.º - Servirá de recursos para dar cobertura ao crédito suplementar acima citado
 transferência da União - FNDE-MEC, no valor de Cr$ 4.550.000,00 (quatro milhões e
 quinhentos e cinqüenta mil cruzeiros).
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

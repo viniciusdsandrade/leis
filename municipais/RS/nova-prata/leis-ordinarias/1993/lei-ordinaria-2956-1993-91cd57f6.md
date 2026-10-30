@@ -28,6 +28,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei :
+
 Art. 1º - Fica aprovado o Plano de Aplicação elaborado pelo Conselho de
 Direitos da Criança e do Adolescente de Nova Prata, nos termos do § 3º do Art. 2º do
 Decreto Executivo N º 1587 de 26 de agosto de 1993.
@@ -35,6 +36,7 @@ Parágrafo Único - O Plano de Aplicação de que trata o “Caput” do artigo
 anterior diz respeito a administração de recursos do Conselho, devendo o mesmo ser
 empregado segundo a demonstração da despesa, programa, sub - programa, projeto e
 atividade a nível de categoria constante no mesmo que segue em anexo a presente Lei.
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -44,6 +44,7 @@ produtores rurais, nos termos do Decreto Federal N.º 75.373, de 14 de fevereiro
 Art. 2º - As obrigações do Município de Nova Prata e os da
 EMATER/RS - ASCAR, são os constantes no Termo de Convênio, que em minuta, fica
 fazendo parte integrante da presente Lei Municipal.
+
 Parágrafo único - O período de vigência do convênio é até o final do
 presente exercício financeiro, sendo que sua prorrogação, para o exercício de 2002,
 deverá ser submetida a apreciação do Poder Legislativo, sendo que um dos itens para
@@ -207,6 +208,7 @@ EIVIATER/RS‑ASCAR os serviços delegados ou contratados com terceiros.
 CLÁUSULA SÉTIMA
 0 prazo de vigência do presente Convênio será de 01(um) exercício
 financeiro, prorrogando‑se nos termos do parágrafo único.
+
 Parágrafo único - O período de vigência do convênio é até o final do
 presente exercício financeiro, sendo que sua prorrogação, para o exercício de 2002,
 deverá ser submetida a apreciação do Poder Legislativo, sendo que um dos itens para

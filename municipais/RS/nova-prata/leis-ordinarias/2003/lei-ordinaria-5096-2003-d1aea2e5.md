@@ -32,13 +32,21 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1.º - Fica autorizado o Município de Nova prata, a proceder a venda
 das seguintes ações pertencentes ao Município:
+
 I - 775 unidades de ações ON da Petrobrás;
+
 II - 246 unidades de ações PN da Petrobrás;
+
 III - 7.091.005 unidades de ações ON da CEEE;
+
 IV - 11.091.062 unidades de ações PN da CEEE;
+
 V - 30.014 unidades de ações ON da Brasil Telecom;
+
 VI - 408.286 unidades de ações PN da Brasil Telecom;
+
 VII - 8.409 unidades de ações PNA da CRT Celular;
+
 VIII - 619 unidades de ações ON da CRT Celular.
 
 Art. 2.º - O Município deverá seguir os trâmites previstos na Lei Federal

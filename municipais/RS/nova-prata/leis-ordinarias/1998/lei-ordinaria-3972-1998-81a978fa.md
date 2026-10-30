@@ -35,8 +35,11 @@ obras, autorizado a doar à Associação Beneficente e Educacional de Nova Prata
 ABEN, inscrita no CGC/MF sob n.º 88991260/0001-17, com a finalidade de estabelecer
 cooperação mútua, para construção do refeitório da ABEN, conforme requerimento,
 elaborado pela entidade, os seguintes materiais de construção:
+
 I - 50 m3 de areia;
+
 II - 80 m3 de entulhos de pedreira;
+
 III - 30 m de brita número 2 e pedrisco para concretagem da viga e
 preparação do piso em sua base.
 

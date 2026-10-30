@@ -47,6 +47,7 @@ fiscais e recibos comprobatórios de despesas
 
 Art. 3.º - Fica fazendo parte integrante da presente Lei Municipal, cópia
 do Convênio.
+
 Art. 4.º - As despesas decorrentes da execução da presente Lei
 Municipal, correrão por conta de dotação orçamentária: 03 - Secretaria de
 Administração; 01 - Unidades Subordinadas; 03070212.011 - Auxílio Entidades que

@@ -36,6 +36,7 @@ o vencimento básico dos servidores municipais integrantes do padrão CCI do Qua
 dos cargos em Comissão.
 Parágrafo Único - O abono concedido no caput deste artigo, está pago
 somente no período compreendido do mês de setembro de 1991.
+
 Art. 2º - Esta Lei entrará em vigor a partir da data de sua publicação e
 produzirá efeitos a partir de 1º de setembro do corrente exercício.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

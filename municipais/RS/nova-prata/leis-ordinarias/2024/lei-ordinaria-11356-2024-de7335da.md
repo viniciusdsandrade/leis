@@ -43,36 +43,46 @@ Art. 2º - São objetivos da Política Municipal de Orientação, de Prevenção
 Conscientização da Depressão, do Transtorno de Ansiedade, da Síndrome do Pânico, da
 Síndrome de Burnout ou Síndrome do Esgotamento Profissional, da Doença ou Mal de
 Alzheimer e da tendência ao Suicídio:
+
 I – oferecer aos munícipes informações sobre a depressão, o transtorno de ansiedade, a
 síndrome do pânico, a doença ou mal de Alzheimer e riscos de suicídio, suas causas e seus
 sintomas, meios de prevenção, tratamento e recuperação.
+
 II – incentivar a busca pelo diagnóstico e tratamento dos acometidos pelos distúrbios
 mencionados no Inciso I;
+
 III – promover enfrentamento aos preconceitos sociais em relação ao segmento social
 afetado pelas patologias mencionadas com o intuito de combatê-los e de orientar a sociedade
 para a necessidade de atenção, de compreensão e de acompanhamento;
+
 IV – informar a sociedade acerca dos meios de tratamento e de acolhimento nos
 serviços de saúde disponíveis nas redes municipal de Nova Prata, do Estado e da União.
+
 V – oportunizar encontros de grupos dos acometidos pelas doenças contempladas por
 esta Lei para trocas de experiências, discussões, debates e vivências, sempre com
 acompanhamento de profissionais do setor.
 
 Art. 3º - Fica instituído o mês de setembro como “Setembro Amarelo”, que integrará o
 Calendário Oficial do Município.
+
 § 1º. A Política Municipal à qual se refere esta Lei deverá ser desenvolvida o ano todo,
 sendo que durante o mês de setembro, “Setembro Amarelo”, as atividades devem ser
 intensificadas, tendo em vista que o dia 10 de setembro é o Dia Mundial de Prevenção ao
 Suicídio.
+
 § 2º. Fica instituída a “Semana Municipal de Prevenção ao Suicídio e de Valorização
 da Vida”, que integrará o Calendário Oficial do Município de Nova Prata, e será realizada,
 anualmente na semana que compreender o dia 10 de setembro, com o objetivo de intensificar
 a concretização das políticas públicas previstas nesta Lei.
+
 § 3º. Para o enfrentamento da Síndrome de Burnout ou do Esgotamento Profissional,
 reconhecida pela Organização Mundial de Saúde (OMS) como doença ocupacional e tendo
 como data comemorativa anual o dia 15 de outubro, o município promoverá encontros entre
 empregadores e empregados para incentivar ações preventivas.
+
 § 4º. Acolhe a Lei nº 11.736/2008, que instituiu o 21 de setembro como Dia Nacional
 de Conscientização da Doença de Alzheimer, em especial envolvendo familiares e cuidadores.
+
 § 5º. As datas alusivas ao tema previstas neste artigo têm também por finalidade
 promover o debate, a reflexão, a conscientização da sociedade sobre a valorização da vida e
 do suporte emocional por parte de familiares.

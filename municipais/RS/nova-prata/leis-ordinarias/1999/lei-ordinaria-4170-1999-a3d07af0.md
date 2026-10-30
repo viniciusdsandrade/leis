@@ -31,6 +31,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívida, correspondente a Imposto Predial Territorial Urbano - IPTU ao
 Senhor Libório Telles de Souza.
+
 Parágrafo único - O valor da remissão é de R$ 124,13 (cento e vinte e
 quatro reais e treze centavos), correspondente aos anos de 1997, 1998 e 1999.
 

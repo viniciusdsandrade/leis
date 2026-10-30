@@ -31,6 +31,7 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1.o - A Secretaria de Habitação e Bem Estar Social, passa a
 denominar-se de Secretaria de Assistência Social.
+
 Parágrafo único - Ficam mantidos os objetivos da Secretaria e os órgãos
 que a integram.
 

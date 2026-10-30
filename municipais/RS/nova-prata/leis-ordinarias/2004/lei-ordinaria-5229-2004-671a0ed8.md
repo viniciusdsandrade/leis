@@ -35,6 +35,7 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a firmar Termo Aditivo
 ao Convênio firmado com a Associação Riograndense de Empreendimentos de Assistência
 Técnica e Extensão Rural – EMATER/RS e com a Associação Sulina de Crédito e Assistência
 Rural – ASCAR, no sentido de prorrogar o referido Convênio até o final do exercício de 2004.
+
 Parágrafo único – O Convênio foi firmado através da autorização da Lei
 Municipal nº 5048/2003.
 

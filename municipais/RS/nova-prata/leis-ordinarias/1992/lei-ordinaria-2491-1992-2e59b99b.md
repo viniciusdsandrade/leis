@@ -30,6 +30,7 @@ promulgo a seguinte Lei:
 Art. 1.º - É o Executivo Municipal autorizado a abrir um crédito
 suplementar na importância de Cr$ 152.905.000,00 (cento e cinqüenta e dois milhões,
 novecentos e cinco mil cruzeiros), destinados a atender dotações orçamentárias.
+
 Art. 2º - O Crédito suplementar ora autorizado, receberá a seguinte
 classificação:
 

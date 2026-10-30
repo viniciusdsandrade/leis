@@ -26,13 +26,16 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a pagar ao Cine Lux Ltda, o
 valor de R$ 100,00 (cem reais) correspondente a aluguel da sala à Justiça Eleitoral para
 efetuar a Diplomação do Prefeito, Vice-Prefeito e Vereadores.
+
 Art. 2º - As despesas decorrentes da aplicação desta Lei, correrão por
 conta da rubrica orçamentária: 11 - Encargos Gerais do Município; 01 - Encargos
 Gerais do Município; 03070212.062 - Encargos Gerais do Município; 3.1.3.2 - Outros
 Serviços e Encargos.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

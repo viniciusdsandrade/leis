@@ -35,6 +35,7 @@ Art. 1.º - Fica o Poder Executivo Municipal, autorizado a conceder
 auxílio financeiro para pagamento e/ou reembolso de despesas funerais junto a empresa
 Funerária de Paulo R. Pandolfo ME, em virtude da morte da Senhorita Kelen Truccullo
 de Mello, o qual era caracterizada, como uma pessoa carente.
+
 Parágrafo único - O pagamento será de R$200,00 (duzentos reais),
 mediante entrega de nota fiscal correspondente e será liberado a Sra. Ivanete Truccollo,
 a qual firmou requerimento, que fica fazendo parte integrante da presente Lei

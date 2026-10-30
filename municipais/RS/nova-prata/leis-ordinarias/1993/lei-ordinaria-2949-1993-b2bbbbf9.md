@@ -25,6 +25,7 @@ VITOR ANTONIO PLESTCH, PREFEITO DE NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É aberto crédito suplementar na importância de CR$
 2.3000.000,00 (dois milhões e trezentos mil cruzeiros reais), na seguinte unidade
 orçamentária:
@@ -39,10 +40,12 @@ orçamentária:
 16880212.051.31200000 - Material de Consumo..........CR$ 1.100.000,00
 - total...............................................................................CR$2.300.000,00 (dois milhões
 e trezentos mil cruzeiros de reais).
+
 Art. 2º - Servirá de recursos para dar cobertura ao crédito suplementar de
 que trata o artigo anterior, a arrecadação a maior de recursos previstos no orçamento do
 exercício de 1993, no valor de CR$ 2.300.000,00 (dois milhões e trezentos mil cruzeiros
 de reais).
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -33,13 +33,18 @@ Art. 1.º - O artigo 12 da Lei Municipal nº 5107/2003 passa a vigorar com
 a seguinte redação:
 “Art. 12 - Ficam isentos do pagamento de qualquer taxa instituída por
 esta Lei, os seguintes bens imóveis:
+
 I - Os próprios pertencentes a Administração Pública direta, autárquica e
 fundacional;
+
 II - As entidades que comprovarem a condição de filantropia;
+
 III - Construções residenciais de até 2 (dois) pavimentos ou de até 500
 m2 (quinhentos metros quadrados) de área construída;
+
 IV - Os estabelecimentos comerciais e prestação de serviços com área útil
 de até 250 m2.
+
 Parágrafo único - Ficam ressalvados da isenção de que trata o presente
 artigo, os estabelecimentos comerciais e de prestação de serviços
 considerados de alto risco.”
@@ -53,6 +58,7 @@ da Administração Pública.”
 Art. 2.º - Fica instituída multa a ser aplicada as empresas que não
 cumprirem o estabelecido no Artigo 2º, Inciso VI da Lei Municipal nº 5107/2003, nos
 seguintes termos:
+
 I - A empresa que for notificada e não apresentar no prazo de 60 dias um
 Plano de Proteção Contra Incêndios - PPCI estará sujeita a multa correspondente a 25
 VRM;

@@ -36,6 +36,7 @@ mediante Escritura Pública, três áreas de terras urbanas, de 1.100,00 m2, 863
 nesta cidade, conforme levantamento planimétrico, que comprova a tomada de parte do
 imóvel pelas Ruas Rui Barbosa, Caetano Pelluzzo e Avenida Augusto Pestana,
 respectivamente.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, levantamento planimétrico das áreas e memorial descritivo firmado pelo
 profissional responsável.

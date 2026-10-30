@@ -33,17 +33,22 @@ Art. 1.º - É o Executivo Municipal autorizado a firmar Protocolo de Ação
 Conjunta com a Secretaria da Justiça do Estado, através da Superintendência dos
 Serviços Penitenciários - Fundo Penitenciário, visando a utilização de mão-de-obra
 prisional pelo Município, para trabalhos na Usina de Lixo e na Coleta de Lixo.
+
 Art. 2.º - A mão-de-obra prisional será propiciada pelo Presídio
 Municipal de Nova Prata, até o máximo de 15 (quinze) apenados.
+
 Art. 3.º - O Município remeterá mensalmente ao Fundo Penitenciário o
 pagamento pelos serviços prestados a cada preso, o valor de Cr$ 42.000,00 (quarenta e
 dois mil cruzeiros), reajustáveis conforme o aumento dos funcionários públicos
 municipais.
+
 Art. 4.º - O Protocolo de Ação Conjunta ora autorizado, será firmado
 conforme os termos da minuta anexa que faz parte integrante desta Lei.
+
 Art. 5º - As despesas decorrentes da aplicação desta Lei, correrão por
 conta de rubrica orçamentária: Manutenção e Desenvolvimento das Atividades da
 Secretaria, 1001.03070212.011; Outros Serviços e Encargos - 3.1.3.2.
+
 Art. 6º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -32,9 +32,11 @@ Art. 1º ‑ É autorizada a transferência de recurso financeiro a Eloy
 Moreira Lacerda, no valor de Cr$ 1.500.000,00 (um milhão e quinhentos mil cruzeiros),
 para pagamento e /ou reembolso de despesas decorrente da taxa de inscrição da VII
 Maratona de Blumenau, Santa Catarina.
+
 Art. 2º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária: 05 - Secretaria de Educação e Cultura; 0501.08462242.019 - Esporte
 Amador; 3.1.3.2 - Outros Serviços e Encargos.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

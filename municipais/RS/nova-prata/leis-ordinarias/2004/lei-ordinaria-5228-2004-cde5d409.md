@@ -37,6 +37,7 @@ beneficiando 01 (uma) família.
 Art. 2.º - O valor da participação do Município na Obra, será de até R$
 2.500,00 (dois mil e quinhentos reais), os quais serão pagos diretamente a empresa
 responsável pela obra, mediante emissão de Nota Fiscal.
+
 Parágrafo único – Eventuais gastos a maior, em relação ao valor
 constante no caput deste artigo, será de responsabilidade do beneficiado.
 

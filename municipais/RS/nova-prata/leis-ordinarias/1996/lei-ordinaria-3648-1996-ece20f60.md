@@ -27,17 +27,22 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder subvenção à
 Associação Comunitária de Deficientes de Nova Prata, no valor de R$ 700,00
 (setecentos reais).
+
 Art. 2º - A Subvenção concedida tem a finalidade de cobrir despesas com
 o Encontro de Deficientes à realizar-se no dia 17 de novembro de 1996.
 Parágrafo Único - Consideram-se despesas as realizadas com divulgação
 e promoção.
+
 Art. 3º - A subvencionada obriga-se a prestar contas dos recursos
 recebidos no prazo de até 30 dias após o recebimento.
+
 Art. 4º - As despesas decorrentes da aplicação desta Lei correrão por
 conta da rubrica orçamentária do Gabinete do Prefeito; Subvenções Sociais.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

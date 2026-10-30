@@ -32,6 +32,7 @@ promulgo a seguinte Lei.
 
 Art. 1o. - Fica o Poder Executivo Municipal autorizado a isentar de
 pagamento de Imposto Predial e Territorial Urbano, o Senhor Evaldo Francisco Schneider.
+
 Parágrafo único - A isenção prevista no “caput” do presente Artigo, refere-se
 ao pagamento do IPTU do ano de 1998, no valor de R$112,53 (cento e doze reais e
 cinqüenta e três centavos), corrigidos até 31/08/1998.

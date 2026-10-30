@@ -34,6 +34,7 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a conceder auxílio
 financeiro de R$400,00 (quatrocentos reais), a senhora Olga Frare, com objetivo de
 auxiliar no pagamento e/ou reembolso de despesas com tratamento de saúde em sua
 pessoa.
+
 Parágrafo único - A beneficiária, deverá comprovar o pagamento, no
 prazo de 2 (dois) meses, mediante entrega de fotocópia do recibo ou nota fiscal, sob
 pena de devolução dos valores concedidos e, ainda, não concessão de novos auxílios.

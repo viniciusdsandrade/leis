@@ -38,6 +38,7 @@ e Casca.
 
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar subvenção a
 União dos Acadêmicos Pratenses, no valor de R$ 6.600,00 (seis mil e seiscentos reais).
+
 Parágrafo único - O repasse a UNAP será até o final do corrente ano, de acordo
 com a disponibilidade financeira do erário público.
 

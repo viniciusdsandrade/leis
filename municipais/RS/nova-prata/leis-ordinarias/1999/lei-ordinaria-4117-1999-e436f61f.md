@@ -35,12 +35,15 @@ seguintes redações:
 “Art. 102 - É obrigatória a concessão e gozo de férias regulamentares, em
 um só período, nos doze meses subseqüentes a data em que o servidor
 tiver adquirido o direito.
+
 Parágrafo único - As férias somente poderão ser interrompidas por
 motivo de calamidade pública, comoção interna ou por motivo de
 superior interesse público.
+
 Art. 103 - A concessão de férias, mencionando o período de gozo, será
 participado, por escrito, ao servidor, com antecedência de, no mínimo 15
 dias, cabendo a este assinar o respectivo aviso.
+
 Art. 104 - Vencido o prazo estabelecido no Artigo 102, sem que a
 Administração tenha concedido as férias, o servidor apresentará
 requerimento no sentido da concessão.

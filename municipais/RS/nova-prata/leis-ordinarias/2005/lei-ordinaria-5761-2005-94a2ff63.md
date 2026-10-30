@@ -41,9 +41,11 @@ agosto de 1998 passam a vigorar com a seguinte redação:
 
 “Art. 2º - . . .
 I-...
+
 II – Aos Secretários Municipais, ao Chefe de Gabinete e aos
 servidores que respondem por secretaria, o valor correspondente a 40% do menor
 padrão de vencimento;
+
 III – Aos servidores municipais e aos empregados públicos, o valor
 correspondente a 30% do menor padrão de vencimento.”
 

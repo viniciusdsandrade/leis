@@ -30,9 +30,11 @@ promulgo a seguinte Lei:
 Art. 1º ‑ É concedido um auxílio financeiro ao Sr. Vanderlei Goin, no
 valor de Cr$ 1.500.000,00 (um milhão e quinhentos mil cruzeiros) para pagamento e/ou
 reembolso de despesas com uma cesariana realizada em sua esposa Sra. Elenice Goin.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 ‑ Assistência Médica à População;
 3.2.5.9 ‑ Outras Transferências à Pessoas.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -27,32 +27,44 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - A elaboração da proposta orçamentária do IPRAM para o
 exercício de 1993 obedecerá as seguintes diretrizes gerais, sem prejuízo das normas
 financeiras estabelecidas pela Legislação Federal.
+
 I - O montante das despesas não deverão ser superior ao das receitas.
+
 II - As unidades orçamentárias projetarão suas despesas correntes até o
 limite fixado para o exercício em curso.
+
 III - Nas estimativas das receitas, considerar-se-ão a tendência do
 presente exercício.
+
 IV - Os projetos em fase de execução terão prioridades sobre os novos
 projetos, não podendo ser paralisado sem autorização legislativa.
+
 V - O pagamento do serviço da dívida de pessoal e de encargos terá
 prioridade sobre as ações de expansão.
+
 VI - Constará da proposta orçamentária o produto das operações de
 crédito autorizadas pelo Legislativo, com destinação específica e vinculadas ao projeto,
 conforme item III do artigo 167 da Constituição Federal.
+
 Art. 2º - A Presidência do Instituto, tendo em vista a capacidade
 financeira do IPRAM e o Plano Plurianual, observará a seleção das prioridades dentre as
 relacionadas no anexo I integrante desta Lei.
+
 Parágrafo único - Poderão ser incluídos programas não elencados, desde
 que financiados com recursos de outras esferas do Governo.
+
 Art. 3º - As despesas com pessoal da Administração Autárquica ficam
 limitadas a 65% da receita corrente (atendendo ao disposto no artigo 38 das
 Disposições Constitucionais Transitórias).
+
 I - Entendem-se como Receitas correntes para efeitos de limites do
 presente artigo o somatório das receitas correntes da Administração, excluídas as
 receitas oriundas de convênios.
+
 II - A concessão de qualquer vantagem ou o aumento de remuneração
 além de índices inflacionários, a criação de cargos ou alterações de estrutura de carreira,
 bem como a admissão de pessoal, a qualquer título, pela Administração autárquica, só
@@ -64,6 +76,7 @@ projeções de despesas até o final do exercício, obedecendo o limite fixado n
 
 Art. 4º - As operações de crédito por antecipação da receita contratadas
 pelo Instituto, serão totalmente liquidadas até 30 dias após o encerramento.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

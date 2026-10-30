@@ -31,6 +31,7 @@ Art. 1.º - É o Executivo Municipal autorizado a pagar despesas com o
 Torneio de trio de bochas, denominado Torneio da Saudade, promovido pelo Conselho
 Municipal de Desportos, com início para 1º de maio de 1992, como troféus, medalhas e
 divulgação.
+
 Parágrafo único - As despesas autorizadas no caput deste artigo não
 poderão ultrapassar a Cr$ 50.000,00 (Cinqüenta mil cruzeiros).
 

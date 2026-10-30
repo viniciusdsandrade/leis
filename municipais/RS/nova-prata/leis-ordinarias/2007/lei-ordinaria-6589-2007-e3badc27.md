@@ -39,7 +39,9 @@ vigir com a seguinte redação :
 “Art.2 º - O Conselho será constituído por 12 (doze) membros, sendo:
 
 ...
+
 IX – um representante de Alunos;
+
 X – um representante do Poder Executivo.”
 
 Art. 2º - Esta Lei Municipal entrará em vigor na data de sua publicação.

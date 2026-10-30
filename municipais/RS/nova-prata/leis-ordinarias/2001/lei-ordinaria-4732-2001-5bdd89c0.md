@@ -37,6 +37,7 @@ de 2001, até a importância de R$150.000,00 (cento e cinqüenta mil reais).
 Art. 2.o - Fica o Poder Executivo Municipal, autorizado a realizar
 suplementação por arrecadação a maior, através de Decreto Executivo, no orçamento
 de 2001, até a importância de R$200.000,00 (duzentos mil reais).
+
 Parágrafo único - A suplementação a que se refere o caput deste artigo,
 somente será realizada com a efetiva apuração de arrecadação a maior da receita
 prevista.

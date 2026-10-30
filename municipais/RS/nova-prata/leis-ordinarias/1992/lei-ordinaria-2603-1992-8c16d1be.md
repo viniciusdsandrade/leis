@@ -45,6 +45,7 @@ Parágrafo Único - O funcionário cedido poderá ainda perceber
 remuneração equivalente a horas-extras de trabalho eventualmente prestadas, atendendo
 às necessidades e convocação do INSS, que também serão pagas pelo Município
 cedente.
+
 Art. 4.º - O INSS, fica obrigado, durante o período de cedência com ônus
 para o Município, para os fins do Parágrafo Único do artigo anterior, e outras
 ocorrências relativas à vida funcional, comunicar o Município.

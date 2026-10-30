@@ -33,9 +33,11 @@ Art. 1.º - A cada período de três anos de exercício no serviço público
 municipal, caberá ao servidor acupante do cargo em extinção, assim estabelecido
 conforme Lei Municipal nº 2136 de 30 de março de 1990, um avanço (triênio) a razão
 de cinco por cento, incidente sobre o valor de seu salário-base.
+
 Art. 2.º - Os períodos anteriores a data de promulgação desta Lei, já
 computados na concessão do avanço adquirido, não serão contados para fins de
 percepção de triênios devidos a partir desta Lei.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação e produzirá efeitos a partir do 1º dia mês seguinte à sua
 aprovação.

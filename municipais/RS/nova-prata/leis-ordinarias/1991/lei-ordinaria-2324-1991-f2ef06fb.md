@@ -34,14 +34,18 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Executivo Municipal a firmar Convênio com
 a Cooperativa – Escola de Alunos da Escola Agrotécnica Federal de Bento Gonçalves
 Ltda, para manutenção de alunos procedentes deste Município, no ano letivo de 1991.
+
 Art. 2º - Fica autorizado, também, para cumprimento do referido
 convênio o pagamento de uma Subvenção no valor equivalente a 02 (dois) MVR –
 Maior Valor de Referência para cada aluno inscrito, até o máximo de 10 (dez) alunos.
+
 Art. 3º - Pelo benefício ora recebido, os alunos subvencionados prestarão
 serviço de assistência técnica na área agrícola, ao Município de Nova Prata, sem
 qualquer ônus, durante o período de férias, quando for requisitado à Escola.
+
 Art. 4º - As despesas decorrentes desta Lei correrão por conta de rubricas
 orçamentária própria.
+
 Art. 5º - Revogada as disposições em contrário, esta Lei entrará em vigor
 na data de sua publicação.
 
@@ -70,4 +74,5 @@ prédio de alvenaria, construído no Viveiro Florestal de Nova Prata, ambos de p
 MUNICÍPIO, para uso da bolsa de sementes da Secretaria de Agricultura e Abastecimento -
 Departamento de Recursos Naturais Renováveis.
 CLÁUSULA SEGUNDA - Constituem obrigações das partes:
+
 a) da Secretaria de Agricultura e Abastecimento - Departamento de Recursos Renováveis:

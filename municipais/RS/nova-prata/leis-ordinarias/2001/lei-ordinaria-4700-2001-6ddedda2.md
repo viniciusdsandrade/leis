@@ -41,6 +41,7 @@ projeto de construção da ponte sobre o Arroio Não Sabia.
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a realizar contrapartida
 no projeto que trata o artigo primeiro desta Lei, na ordem de 20% (vinte por cento) em serviços
 de máquinas.
+
 Parágrafo único - A contrapartida será efetivada de acordo com cronograma das
 obras.
 

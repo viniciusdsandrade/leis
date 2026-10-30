@@ -32,6 +32,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a doar a empresa
 Plásticos Pandolfo Ltda, inscrita no CNPJ sob nº 00254769/0001-36, uma área de
 500,00 m2 (quinhentos metros quadrados), área esta a ser usada para fins de reserva
 técnica de ampliação da empresa.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, requerimento da empresa e ata do Conselho Municipal de Desenvolvimento
 Econômico.

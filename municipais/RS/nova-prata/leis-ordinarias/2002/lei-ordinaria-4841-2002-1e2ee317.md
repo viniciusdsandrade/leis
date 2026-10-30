@@ -33,20 +33,28 @@ Art. 1.º - Fica o Município de Nova Prata, autorizado a realizar os
 seguintes eventos, constantes no calendário esportivo do 2º semestre do ano de 2002, de
 responsabilidade da Secretaria Municipal de Turismo e Desporto, ficando autorizado
 também, a dispender os valores que discrimina:
+
 I - 5.º Campeonato Regional de Futsal - Taça Desportiva Romano
 Cechin, valor até R$ 1.800,00 (um mil e oitocentos reais);
+
 II - Rústica Estadual Dia do Município, valor até R$ 1.000,00 (um mil
 reais);
+
 III - 5.º Campeonato Municipal Amador de Futebol, valor até R$
 3.300,00 (três mil e trezentos reais);
+
 IV - 3.ª Olimpíada Escolar de Nova Prata, valor até R$ 4.000,00 (quatro
 mil reais);
+
 V - 5.º Campeonato Municipal Inter Horários de Futsal, valor até R$
 1.500,00 (um mil e quinhentos reais);
+
 VI - 3.ª Olimpíada Primaveril de Veteranos, valor até R$ 1.000,00 (um
 mil reais);
+
 VII - Campeonato Futsal Distrito de Rio Branco - Taça Desportiva Nelo
 De Nardi, valor até R$ 2.000,00 (dois mil reais);
+
 VIII - Projeto Guri Bom de Bola, valor até R$ 2.000,00 (dois mil reais).
 
 Art. 2.º - O período de realização dos eventos, bem como quem são os

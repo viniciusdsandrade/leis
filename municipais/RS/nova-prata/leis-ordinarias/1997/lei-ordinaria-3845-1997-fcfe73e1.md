@@ -34,6 +34,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a realizar doação
 de uma linha telefônica, à Associação Comunitária Santa Terezinha, com sede na Linha
 Severino Ribeiro, Capela Santa Terezinha, Município de Nova Prata, inscrita no
 CGC/MF sob n.º 86880390/0001-57.
+
 Parágrafo único - A doação refere-se apenas a linha telefônica,
 desvinculada de qualquer ação da Companhia Riograndense de Telecomunicações -
 CRT, que serão mantidas na propriedade do Município de Nova Prata.

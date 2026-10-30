@@ -38,23 +38,30 @@ Parágrafo Único - O Fundo de que trata este artigo será identificado pela sig
 “FUNREBOM”.
 
 Art. 2.º - Os recursos financeiros do FUNREBOM, serão constituídos de:
+
 I - Receitas provenientes de:
+
 a) Taxas de Exames de Projetos
 b) Taxa de Inspeção
 c) Taxa de Credenciamento
 II - Auxílios, subvenções, doações, dotações orçamentárias e créditos adicionais
 que venham a serem autorizados ao Corpo de Bombeiros;
+
 III - Recursos provenientes de alienação de material e/ou bens e equipamentos
 considerados inservíveis, adquiridos pelo próprio Fundo;
+
 IV - Recursos oriundos da co-participação dos demais municípios abrangidos
 pela área de responsabilidade do Corpo de Bombeiros Voluntários da cidade de Nova Prata,
 ajustada em convênios que regulem a forma de prestação de serviço do mesmo, para a execução
 das atividades pertinentes ao Corpo de Bombeiros no cumprimento dos dispositivos contidos na
 Lei Municipal de Prevenção Contra Incêndio deste Município;
+
 V - Juros bancários e rendas de capital provenientes de imobilização ou
 aplicações financeiras do FUNREBOM;
+
 VI - Multas aplicadas em edificações ou empresas que não dispuserem ou não
 apresentarem os sistemas de segurança contra incêndios, na forma da Lei;
+
 VII - Dotação orçamentária do Município, repassada mensalmente em forma de
 duodécimo.
 
@@ -67,18 +74,29 @@ Diretor do Fundo.
 ...folha 02
 Art. 4.º - O FUNREBOM será administrado pelo Corpo de Bombeiros
 Voluntários em consonância com um Conselho Diretor, assim composto:
+
 I - Comandante do Corpo de Bombeiros Voluntários de Nova Prata com
 responsabilidade territorial no Município - Presidente Nato;
+
 II - Prefeito Municipal - Vice-Presidente Nato;
+
 III - Vice-Comandante dos Bombeiros Voluntários de Nova Prata;
+
 IV - Presidente da Câmara Cultural de Indústria, Comércio e Serviços de Nova
 Prata e Região - CIC;
+
 V - Presidente do Corpo de Bombeiros Voluntários de Nova Prata;
+
 VI - Presidente da Subsecção OAB - Nova Prata;
+
 VII - Presidente da Câmara de Vereadores - Nova Prata;
+
 VIII - Presidente da Câmara de Diretores Lojistas - Nova Prata;
+
 IX - Presidente do Sindilojas - Nova Prata;
+
 X - Presidente do Rotary Club de Nova Prata;
+
 XI - Presidente do Lions Club de Nova Prata.
 Parágrafo 1º - Por indicação do Presidente Nato e mediante aprovação por
 maioria absoluta do Conselho Diretor, a Presidência poderá ser exercida por outro Conselheiro.
@@ -108,6 +126,7 @@ fixadas pelo Comandante do Corpo de Bombeiros Voluntários de Nova Prata.
 Art. 9º - Semestralmente serão prestadas contas da movimentação financeira do
 FUNREBOM, a Secretaria de Finanças do Município de Nova Prata e após será publicado nos
 jornais locais.
+
 Art. 10 - Os bens adquiridos pelo FUNREBOM serão destinados ao uso da
 Seção de combate a incêndio com responsabilidade territorial no Município, e incorporados ao
 patrimônio do Corpo de Bombeiros Voluntários de Nova Prata.
@@ -117,8 +136,11 @@ patrimônio do Corpo de Bombeiros Voluntários de Nova Prata.
 
 Art. 11 - Para a realização das receitas do FUNREBOM previstos no artigo 2º,
 inciso I, desta Lei, ficam instituídas as seguintes taxas no Município:
+
 a) Taxa de Exame de projetos;
+
 b) Taxa de Inspeção;
+
 c) Taxa de Credenciamento.
 Parágrafo 1º - A taxa de exame será devida pela análise dos projetos de
 edificações e será cobrada de acordo com o fim a que se destina a construção, de conformidade

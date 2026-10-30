@@ -32,15 +32,20 @@ localizado no lugar denominado Pedral, no Primeiro Distrito deste Município, en
 Loteamentos Promorar e Basalto, de propriedade do Sr. José Floribaldo Rigon,
 matrícula sob os nºs 535-R.27 / 535; 535-R.29-535 e 8893 no Registro de Imóveis desta
 Comarca.
+
 Art. 2º - O imóvel será adquirido por preço não superior a Cr$
 17.797.560,00 (dezesseis milhões, setecentos e noventa e sete mil e quinhentos e
 sessenta cruzeiros).
+
 Art. 3º - Fica autorizado também, o Executivo Municipal a providenciar
 na escritura de compra e venda e registros respectivos, decorrentes da transação.
+
 Art.4º - Fica por conta do Município de Nova Prata o pagamento das
 despesas relativas à aquisição do imóvel referido no artigo 1º.
+
 Art.5º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária própria.
+
 Art.6º - Revogadas as disposições em contrário, esta Lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

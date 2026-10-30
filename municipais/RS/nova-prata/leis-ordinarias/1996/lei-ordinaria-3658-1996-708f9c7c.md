@@ -26,12 +26,15 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder remissão de
 débitos da Taxa de Fiscalização e/ou Vistoria (Alvará), sobre a atividade de Produções e
 Publicidade, dos anos de 1992 à 1995, no valor de R$ 265,47 (duzentos e sessenta e
 cinco reais e quarenta e sete centavos), a Empresa J. R. Produções e Publicidade Ltda.
+
 Art. 2º - A remissão ora concedida refere-se a atividade que a Empresa
 desempenhava na Av. Presidente Vargas, s/n.º.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -27,10 +27,12 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder remissão de
 débitos ao Contribuinte Osvaldo Alves, relativo ao Imposto Predial e Territorial Urbano
 - IPTU do período de 1991 à 1996, no valor de R$ 226,45 (duzentos e vinte e seis reais
 e quarenta e cinco centavos).
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -65,6 +65,7 @@ código: 02 – Gabinete do Prefeito; 01 - Unidades Subordinadas;
 04.122.0004.1004 – Subvenções a Entidades Privadas;
 3.3.50.43.000000000 – Subvenções Sociais (1376).
 .
+
 Art. 6.º - Esta Lei Municipal entrará em vigor na data de sua
 publicação.
 

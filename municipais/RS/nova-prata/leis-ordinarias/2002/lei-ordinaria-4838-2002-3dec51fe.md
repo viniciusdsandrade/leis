@@ -42,6 +42,7 @@ Banda Municipal de Integração Estudantil - BANMIES, no valor total de R$25.000
 cinco mil reais), para possibilitar o objetivo declinado no artigo anterior, os quais serão
 repassados em seis parcelas mensais, no final de cada mês, de julho até dezembro de 2002,
 obedecendo-se as disponibilidades financeiras do erário.
+
 Parágrafo único - Os valores serão usados para pagamento de instrutores e os
 encargos incidentes, manutenção de instrumentos, adquirir uniformes e materiais necessários,
 bem como custeio de transporte dos membros da BANMIES.

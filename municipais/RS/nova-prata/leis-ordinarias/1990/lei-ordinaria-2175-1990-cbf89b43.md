@@ -30,11 +30,17 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Executivo Municipal a desenvolver
 atendimento assistencial à população carente, através do pagamento a fornecedores pela
 prestação de:
+
 I - Consultas Médicas.
+
 II - Serviços Ambulatóriais.
+
 III - Remédios.
+
 IV - Passagens Rodoviárias.
+
 V - Exames Laboratoriais.
+
 VI - Despesas com Funerais.
 
 Parágrafo Primeiro - As consultas médicas, serviços ambulatoriais e

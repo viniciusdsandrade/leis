@@ -28,6 +28,7 @@ MUNICIPAL DE NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e
 eu sanciono e promulgo a seguinte Lei:
+
 Art. 1.º - É o Executivo Municipal autorizado a
 conceder abono salarial de CR$ 407,55 (quatrocentos e sete cruzeiros reais e cinqüenta e cinco
 centavos), e CR$ 2.018,61 (doais mil, dezoito cruzeiros reais e sessenta e um centavos), sobre a

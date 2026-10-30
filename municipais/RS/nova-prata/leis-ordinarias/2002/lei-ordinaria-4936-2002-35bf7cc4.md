@@ -105,6 +105,7 @@ lixo.
 Quantidade de URM
 
 1. Residencial:
+
 a) imóvel edificado com área até 60,00m2, por ano..................................8,00
 b) imóvel edificado com área superior a 60,00 m2,por ano......................21,00
 
@@ -127,6 +128,7 @@ Quantidade de URM
 b) Comércio de gás de cozinha e explosivos....................................................80,00
 6. Profissionais liberais.........................................................................................28,00
 7. Diversões públicas:
+
 a) Estabelecimentos com fornecimento de música ao vivo ou mecânica, por
 ano.......................................................................................................128,00
 b) Parques, circos, por mês ou fração.....................................................128,00

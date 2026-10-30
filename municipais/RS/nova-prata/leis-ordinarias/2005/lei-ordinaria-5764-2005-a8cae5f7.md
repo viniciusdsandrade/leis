@@ -53,6 +53,7 @@ Municipal 2027 de 12 de setembro de 1989, que passam a ter a seguinte redação:
 Parágrafo Primeiro – No quadro permanente de cargos, sujeito ao
 Regime Jurídico do Município, são criados 220 (duzentos e vinte) cargos de provimento
 efetivo.”
+
 Art. 3º - Esta Lei Municipal entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

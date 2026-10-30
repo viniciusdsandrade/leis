@@ -36,6 +36,7 @@ ou reclamar entre si, referente a dívidas provenientes de Imposto Sobre Serviç
 Natureza - ISSQN, relativas ao período de dezembro de 1.989, até julho de 1.997, com a
 empresa CONSTRUTORA SULTEPA S/A, com sede na Trav. Francisco Leonardo Truda,
 40/98, Bairro Centro, em Porto Alegre.
+
 Parágrafo único - O valor da dívida da empresa com o Município, é de
 R$32.718,39 e o valor do Município para com a empresa (valores à restituir), é de R$46.108,38.
 

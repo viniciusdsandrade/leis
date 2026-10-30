@@ -31,11 +31,14 @@ promulgo a seguinte Lei:
 Art. 1º ‑ Fica o Executivo autorizado a doar à Indústria Hiper‑Química ‑
 Indústria e Comércio Ltda., uma área de terra com 1.200m 2 (um mil e duzentos metros
 quadrados), no Distrito Industrial do Município, para instalação de Indústria.
+
 Parágrafo único ‑ A empresa obriga‑se a atender às determinações do
 órgão responsável pela defesa do Meio Ambiente.
+
 Art. 2º ‑ Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área doada, obedecendo aos dispositivos da Legislação própria da Área
 Industrial.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

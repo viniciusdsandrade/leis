@@ -31,27 +31,38 @@ promulgo a seguinte Lei:
 Art. 1.º - Ficam estabelecidas, para elaboração dos orçamentos da
 administração pública municipal, direta e indireta, relativos ao exercício de 2005, as
 diretrizes de que trata esta Lei e as metas prioritárias constantes do ANEXO I.
+
 § 1.º - Ficam estabelecidos, como parte integrante da presente Lei, o
 Anexo 2, de metas fiscais, conforme § 1º, do art. 4º, da LC 101-2000, compreendendo:
+
 a) cálculo da receita corrente líquida;
+
 b) resultado nominal e primário;
+
 c) consolidação da dívida pública;
+
 d) demonstrativo de despesas com pessoal, para o Executivo e para o
 Legislativo;
+
 e) previsão da receita para os exercícios de 2005, 2006 e 2007, a
 realizada nos exercícios de 2002, 2003 e a realizada e projetada para o exercício
 corrente;
+
 f) demonstrativo da aplicação de recursos decorrentes da alienação de
 ativos;
+
 g) demonstrativo da evolução do Patrimônio Municipal, referente aos
 exercícios de 2001, 2002 e 2003;
+
 h) demonstrativo da situação patrimonial no exercício de 2003.
+
 § 2.º - Integra a presente Lei o Anexo 3, de Riscos Fiscais.
 
 Art. 2.º - A partir das prioridades e objetivos constantes do anexo de
 metas prioritárias desta Lei, serão elaboradas as propostas orçamentárias para 2005, de
 acordo com as disponibilidades de recursos financeiros que trata o art. 3º da presente
 Lei.
+
 § 1.º - Os investimentos em fase de execução terão preferência sobre os
 novos projetos.
 
@@ -71,12 +82,15 @@ seiscentos e setenta e quatro reais e oitenta centavos), sendo R$ 19.284.774,80
 oitenta centavos) da Prefeitura Municipal e R$ 2.567.900,00 (dois milhões, quinhentos e
 sessenta e sete mil, novecentos reais) do Instituto de Previdência e Assistência
 Municipal, IPRAM, devendo ter a seguinte destinação:
+
 a) para reserva de contingência, atendendo ao disposto no inciso III do
 artigo 5º da LC 101-2000, para suplementações orçamentárias e para pagamentos de
 restos a pagar.
+
 b) para atendimento da manutenção da administração dos órgãos
 municipais, o valor será o suficiente para atender as despesas de funcionamento dos
 órgãos;
+
 c) para atendimento de programas de custeio, continuados ou não,
 dirigidos diretamente ao atendimento da população e comunidade, será no valor que
 atenda aos programas propostos; e
@@ -103,6 +117,7 @@ especificação em separado, quando cabível, das medidas de combate à evasão 
 sonegação, da quantidade e valores de ações ajuizadas para cobrança da dívida ativa,
 bem como da evolução do montante dos créditos tributários passíveis de cobrança
 administrativa;
+
 § 3.º - Os recursos vinculados serão utilizados unicamente para atender
 os objetivos das suas vinculações, ainda que em exercício diverso daquele que
 aconteceu, de acordo com o parágrafo único do art. 8º da LC 101-2000.
@@ -151,8 +166,10 @@ diminuição permanente da despesa.
 Art. 7.º - As alterações na legislação tributária vigente serão propostas
 mediante projeto de lei a ser encaminhado à Câmara Municipal antes do encerramento
 do exercício e deverão ser apreciadas antes da aprovação da proposta orçamentária.
+
 Art. 8.º - Nos projetos de leis orçamentárias constarão as seguintes
 autorizações:
+
 I - para abertura de critérios suplementares;
 ...
 
@@ -161,13 +178,16 @@ I - para abertura de critérios suplementares;
 II - para realização de operações de créditos com destinação específica e
 vinculada ao projeto, nos termos da legislação em vigor, em especial a Seção IV,
 Subseção I, da LC 101-2000;
+
 III - para realização de operações de crédito por antecipação específica e
 vinculada ao projeto, nos termos da legislação em vigor, em especial a Seção IV,
 Subseção III, da LC 101-2000;
+
 Art. 9.º - As transferências de recursos ou de benefícios às entidades
 privadas e às pessoas, de acordo com o art. 26 da LC 101-2000, atenderão as exigências
 do Plano de Auxílios instituídos por lei municipal e, ao art. 116 da Lei Federal 8.666-
 93.
+
 Art. 10 - Para haver contribuição para custeio de outros entes da
 Federação deverá atender ao artigo 116 da Lei Federal 8.666/93 e ao artigo 62, letra “f”
 do inciso I, do artigo 4º da Lei Complementar 101/2000.
@@ -178,6 +198,7 @@ I - prover os cargos e funções vagos nos termos da legislação vigente;
 
 II - conceder aumento de remuneração ou outras vantagens, mediante
 autorização legislativa específica.
+
 III - terceirizar os serviços necessários.
 
 Art. 12 - A criação de cargos, a alteração de estrutura de carreira,
@@ -197,6 +218,7 @@ função gratificada nos vencimentos, que serão concedidas por lei específica.
 Art. 13 - As despesas com pessoal elencadas no artigo 18 da Lei
 Complementar 101-2000 não poderão exceder o limite previsto no artigo 20, III, letras
 “a” e “b” da referida lei.
+
 Art. 14 - São considerados objetivos da Administração Municipal o
 desenvolvimento de programas visando:
 

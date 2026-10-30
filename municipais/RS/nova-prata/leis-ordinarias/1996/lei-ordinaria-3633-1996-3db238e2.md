@@ -26,6 +26,7 @@ LINO JOSÉ BIDESE, PRESIDENTE DA CÂMARA MUNICIPAL
 DE VEREADORES DE NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica alterado o Projeto “Reestruturação e Modernização do
 Poder Público”, nas metas e prioridades do Plano Plurianual do Município de Nova
 Prata para o período de 1994 à 1997, Lei Municipal N.º 3090 de 29 de novembro, que
@@ -37,6 +38,7 @@ OBJETIVO: Dotar e adequar a administração ao crescimento do
 Município a uma nova organização administrativa, mais eficiente, moderna e ágil na
 prestação e execução dos serviços junto a coletividade.
 Recursos Próprios.
+
 Art. 2º - Ficam inclusas nas metas do Plano Plurianual as seguintes
 atividades:
 06 - Secretaria de Habitação e Bem Estar Social
@@ -51,6 +53,7 @@ MUNICIPAL DA CRIANÇA E DO ADOLESCENTE.
 OBJETIVO: Proporcionar a aquisição de material de consumo, serviços
 e encargos para o Fundo Municipal e possibilitar o repasse de auxílios e subvenções.
 Recursos Próprios e Doações.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 SALA DE SESSÕES DA CÂMARA MUNICIPAL DE

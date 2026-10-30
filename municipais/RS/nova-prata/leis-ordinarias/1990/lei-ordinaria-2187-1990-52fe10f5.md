@@ -97,6 +97,7 @@ bem como de medicina nuclear, serão realizados com autorização prévia da Con
 Socorros credenciados pela UNIMED.
 1.3.5 - Internação hospitalar em quarto privativo ou semi-privativo com
 cobertura integral das seguintes despesas:
+
 a) diárias hospitalares até os seguintes limites de permanência, em cada
 exercício contratual:
 - parto normal ou cirúrgico - até 5 (cinco) dias;
@@ -106,8 +107,11 @@ laudo médico e com concordância da contratante.
 com concordância da contratante.
 - U.T.I. ( Unidade de Tratamento Intensivo) - até 10 (dez) dias,
 prorrogáveis mediante laudo médico e com concordância da contratante.
+
 b) Serviços de enfermagem, durante o período de internação;
+
 c) salas de cirurgia e de parto;
+
 d) anestesias;
 
 ...
@@ -119,11 +123,13 @@ doença do paciente internado:
 - exames radiológicos;
 - eletrocardiogramas;
 - endoscopia digestiva.
+
 f) serviços especializados e ou integrantes do tratamento pelo médico
 assistente:
 - oxigenioterapia;
 - transfusão de sangue ou plasma (só aplicação);
 - alimentação dietética;
+
 g) custeio de honorários profissionais dos médicos assistentes, cirurgiões
 e respectivos auxiliares, correspondentes aos serviços prestados ao paciente
 hospitalizado, nas seguintes especialidades:
@@ -207,18 +213,23 @@ de Extensão Assistencial) os seus segurados, bem como no Plano Péculio observa
 seus regulamentos próprios, mediante o pagamento das mensalidades correspondentes.
 1.10.1 - Os beneficiários quando inscritos no PEA somente prevalecerão
 observadas as seguintes condições:
+
 a) O contratante deverá contar com idade inferior a 65 (sessenta e cinco) anos na data
 de assinatura do contrato;
+
 b) Haverá uma carência especial de 06 (seis) meses contando a partir do
 pagamento da primeira mensalidade;
+
 c) Os dependentes ficarão obrigados a apresentar a certidão de cartório de
 registro de pessoas físicas, atestados de dependência de INAMPS, além de outros
 documentos considerados pela UNIMED, para que se regitime as suas inscrições e
 assim, passem a gozar das vantagens do PEA.
+
 d) os beneficiários do PEA serão atendidos, quando internados, em
 acomodações do plano subscrito neste contrato;
 e)O prazo de 5 (cinco) anos passará a fluir da data do falecimento do
 titular do contrato;
+
 f) cada beneficiário receberá uma identificação especial da Extensão da
 Assistência.
 1.10.2 - Na hipótese de não serem preenchidos os requisitos da alínea C

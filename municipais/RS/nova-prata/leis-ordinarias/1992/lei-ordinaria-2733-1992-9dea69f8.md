@@ -26,14 +26,17 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É o Executivo Municipal autorizado a firmar Convênio com o
 Governo do Estado do Rio Grande do Sul, para fins de acordar a dívida recíproca com o
 Município, relativa a retenção de ICMS e multas e trânsito e, consumo de energia
 elétrica respectivamente, a segunda fornecida pelo órgão estadual, Companhia Estadual
 de Energia Elétrica ‑ CEEE.
+
 Art. 2º ‑ É o Executivo Municipal autorizado também, a negociar o saldo
 devedor das contas de energia elétrica vencidas, após a compensação, em até 20 (vinte)
 parcelas, através de retenção das parcelas futuras de ICMS.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

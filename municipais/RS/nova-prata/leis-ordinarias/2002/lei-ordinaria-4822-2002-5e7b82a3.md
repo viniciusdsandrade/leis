@@ -34,6 +34,7 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a conceder
 auxílio financeiro de R$1.000,00 (um mil reais), a senhora Colorinda Toscan, com
 objetivo de auxiliar no pagamento e/ou reembolso de despesas médico hospitalar em
 seu falecido esposo, Sr. Ermindo Antonio Toscan.
+
 Parágrafo único - A beneficiária, deverá comprovar o pagamento, no
 prazo de 2 (dois) meses, mediante entrega de fotocópia do recibo ou nota fiscal, sob
 pena de devolução dos valores concedidos e, ainda, não concessão de novos auxílios.

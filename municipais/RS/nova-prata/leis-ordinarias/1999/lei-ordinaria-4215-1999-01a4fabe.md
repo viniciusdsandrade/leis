@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1o. - Fica o Poder Executivo Municipal autorizado a isentar de
 pagamento de Imposto Predial e Territorial Urbano, a Senhora Iracema Benatto, em face
 de ser portadora de deficiência.
+
 Parágrafo único - A isenção prevista no “caput” do presente Artigo,
 refere-se ao pagamento do IPTU dos anos de 1999 e 2000.
 

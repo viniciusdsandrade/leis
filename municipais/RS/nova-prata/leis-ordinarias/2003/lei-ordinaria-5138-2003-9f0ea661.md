@@ -34,29 +34,44 @@ Art. 1.º - O artigo 3º da Lei Municipal nº 4517/2000, passa a vigorar com
 a seguinte redação:
 “Art. 3.º - O COMPAM será constituído por quinze (13) membros
 titulares, com seus respectivos suplentes, nomeados pelo Prefeito Municipal, a saber:
+
 I - O titular responsável pela coordenação da gestão ambiental no
 Município;
+
 II - O titular da Secretaria Municipal de Obras e Saneamento;
+
 III - O titular da Secretaria Municipal de Agricultura e Abastecimento;
+
 IV - O titular da Coordenadoria de Supervisão;
+
 V - O titular da Secretaria Municipal de Saúde;
 VI -Um representante da Câmara de Dirigentes Lojistas de Nova Prata -
 CDL;
+
 VII - Um representante da Câmara de Indústria e Comércio de Nova
 Prata - CIC;
+
 VIII - Um representante da Universidade de Caxias do Sul - Núcleo de
 Nova Prata;
+
 IX - Um representante do Movimento Ecológico Pratense - MEP;
+
 X - Um representante do Sindicato dos Trabalhadores Rurais de Nova
 Prata;
+
 XI - Um representante do Escritório da EMATER;
+
 XII - Um representante do Sindicato dos Extratores de Basalto;
+
 XIII - Um representante da Associação dos Engenheiros e Arquitetos do
 Município de Nova Prata.
+
 § 1º - O Mandato dos Conselheiros será de dois (2) anos, admitida à
 recondução;
+
 § 2º - Perderá o mandato o Conselheiro que faltar, sem justificativa, a 3
 (três) reuniões consecutivas ou a 6 (seis) intercaladas;
+
 § 3º - Ocorrendo vaga, assumirá o mandato, o respectivo suplente.
 ...
 ...folha 02

@@ -39,6 +39,7 @@ local onde está construída a Unidade Sanitária, com as seguintes característ
 dos lotes 25 e 27, confrontando: ao Leste, com a Rua General Flores da Cunha; ao
 Oeste, com os lotes de números 26 e 28; ao Norte, com remanescente do lote 25; e ao
 Sul, com remanescente do lote 27.
+
 Art. 4º - É autorizado também o Executivo Municipal a receber em
 doação uma área de terras com 360m2 (trezentos e sessenta metros quadrados) do
 mesmo proprietário, localizada entre as Ruas Flores da Cunha e Av. Presidente Vargas,
@@ -47,6 +48,7 @@ seguintes características: o imóvel a ser doado é constituído de: partes dos
 confrontando: ao Oeste, com a Av. Presidente Vargas; ao Leste, com os lotes números
 25 e 27; ao Norte, com remanescente do lote 26; e ao Sul, com remanescente do lote
 28.”
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

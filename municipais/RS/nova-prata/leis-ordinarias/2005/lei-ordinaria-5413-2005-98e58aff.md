@@ -36,6 +36,7 @@ Art. 1.º - Fica autorizado o Chefe do Poder Executivo Municipal, a firmar
 convênio com o Tribunal Regional Eleitoral do Rio Grande do Sul, com objetivo de
 prestar auxílio ao cartório eleitoral da Comarca de Nova Prata e na realização de
 eventuais eleições que ocorrerem, em conformidade com calendário eleitoral brasileiro.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, fotocópia do convênio explicitado no caput do artigo.
 

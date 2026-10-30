@@ -32,9 +32,11 @@ residente na localidade de Boaretto, neste Município, no valor de Cr$ 1.000.000
 milhão de cruzeiros) para pagamento e/ou reembolso de despesas relativas à
 reconstrução da cobertura de sua residência, avariada pelo vendaval ocorrido no
 Município no último dia 22 de agosto.
+
 Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0602.10573162.028 - Assistência Habitacional; 3.1.3.2 -
 Outros Serviços e Encargos.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -53,6 +53,7 @@ Municipal, correrão por conta de dotação orçamentária, classificada sob có
 Secretaria de Educação e Cultura; 03 - Livres da Educação; 13.392.0054.1021 - Apoio
 Financeiro a Entidades Educacionais e Culturais; 3.3.50.43.01.00.00.000 – Instituição
 de Caráter Assistencial (241).
+
 Art. 5.º - Esta Lei Municipal entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

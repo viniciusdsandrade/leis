@@ -30,6 +30,7 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1.º - Fica aprovado o Calendário Oficial de Eventos Esportivos do
 Município de Nova Prata para o ano de 2001, conforme consta no Anexo I desta Lei.
+
 Parágrafo único - O Poder Executivo Municipal, regulamentará cada um
 dos Eventos e remeterá projeto de lei específico, prevendo eventuais despesas com a
 organização individual dos mesmos.
@@ -108,12 +109,19 @@ Período de realização: dezembro/janeiro e fevereiro
 
 Evento 12 - Participação de equipe (s) representando nosso Município em
 competições a nível regional e estadual tais como:
+
 a) campeonato regional de escolinha de futebol de campo.
+
 b) Copa Sub 17.
+
 c) Copa Sub 21.
+
 d) Campeonato estadual juvenil de futebol de campo.
+
 e) Campeonato Guri Bom de Bola.
+
 f) JIRGS - Jogos Intermunicipais do RS.
+
 g) JERGS - Jogos Estudantis do RS
 
 Evento 13 - Criação do centro de treinamento esportivo.

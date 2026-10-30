@@ -32,21 +32,26 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizada a cedência da funcionária pública municipal
 Lourdes Dall’Agnol do Município de Nova Prata à Câmara Municipal de Vereadores
 desta Cidade, para desempenho de função de confiança.
+
 Art. 2.º - A cedência a que se refere o artigo anterior é pelo prazo certo de
 1 (um) ano, podendo ser revogada por igual período, observadas as disponibilidades do
 Município e a necessidade da Câmara Municipal.
+
 Art. 3.º - A funcionária ora cedida desempenhará as mesmas funções de
 Auxiliar de Administração no órgão cessionário percebendo a mesma remuneração do
 cargo, cujo pagamento, encargos sociais e promoção ficam de total responsabilidade do
 órgão cedente.
+
 Parágrafo único - A funcionária poderá ainda perceber remuneração
 equivalente a horas extras de trabalho eventualmente prestadas, atendendo às
 necessidades e convocação da Câmara Municipal, que também serão pagas pelo
 Município cedente.
+
 Art. 4.º - A Câmara Municipal fica obrigada, durante o período de
 cedência com ônus para o Município, a comunicar oficialmente, todos os meses, a
 freqüência ao serviço, para os fins do parágrafo único do artigo anterior, e outras
 ocorrências relativas à vida funcional.
+
 Art. 5.º - Esta Lei tem efeito retroativo a 14 de abril de 1990.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
 04 de julho de 1990.

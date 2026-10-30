@@ -30,6 +30,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É incluso o Projeto “Aquisição de Materiais para substituição de
 Luminárias com recursos do Pimes”, nas metas e prioridades constantes do Plano
 Plurianual do Município para o período de 1991 a 1992, Lei Municipal Nº 2252 de
@@ -40,6 +41,7 @@ OBJETIVO: Aquisição de materiais elétricos para execução de projetos
 de substituição de luminárias nas avenidas centrais da cidade, com
 recursos do Pimes, para o fim de promover melhorias no sistema de
 iluminação pública.”
+
 Art. 2.º - É incluso também, no mesmo dispositivo legal, o Projeto
 “Execução de Obras de Pavimentação Asfáltica, com recursos do Pimes”, com a
 seguinte especificação:
@@ -50,9 +52,11 @@ contratação de serviço de terraplanagem, construção de microdrenagem e
 demais ações necessárias para execução de obra de pavimentação
 asfáltica, com recursos do Pimes, na Estrada Buarque de Macedo que liga
 a sede municipal ao Distrito de Rio Branco”.
+
 Art. 3.º - Os projetos referidos nos artigos 1º e 2º são inclusos também no
 Anexo II do mesmo Plano Plurianual, respectivamente os objetivos para execução dos
 mesmos.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

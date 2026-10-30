@@ -26,11 +26,13 @@ MARIO MINOZZO, NA CONDIÇÃO DE PREFEITO
 MUNICIPAL DE NOVA PRATA.
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu
 sanciono e promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo autorizado a receber em dação em
 pagamento, mediante Escritura Pública, uma área de terras urbanas de 272,13 m2, da
 Senhora Albina Barilli Giachini e Senhor Mercilo Giachini, situada na Estrada que
 conduz de Nova Prata até Vista Alegre do Prata, que foi atingida em virtude de
 alargamento da referida estrada.
+
 Parágrafo único - O imóvel foi avaliado em R$4.500,00 (quatro mil e
 quinhentos reais), conforme avaliação realizada por membros nomeados pela Portaria
 Municipal n.º 571/97.
@@ -42,6 +44,7 @@ R$601,76 (seiscentos e um reais e setenta e seis centavos) e IPTU referente ao a
 o qual o Município se obriga a quitar após assinatura e Termo de Dação em Pagamento
 e compromisso de assinatura da Escritura de que trata o Artigo primeiro da presente Lei
 Municipal.
+
 Parágrafo único - Os proprietários, concordam com a dação em
 pagamento, fazendo parte integrante da presente Lei Municipal, Termo de Declaração,
 no qual comprometem-se a não reclamar o valor correspondente a diferença entre a

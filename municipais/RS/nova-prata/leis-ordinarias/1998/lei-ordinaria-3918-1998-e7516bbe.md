@@ -39,6 +39,7 @@ recursos provenientes do Fundo Nacional de Assistência Social.
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar os recursos
 de que trata o Artigo primeiro, na importância de R$3.026,20 (três mil, vinte e seis reais e
 vinte centavos) por mês.
+
 Parágrafo único - O repasse inclui os valores depositados nos meses de
 janeiro e fevereiro de 1998 e os restantes até o final do ano de 1998, depositados na conta
 n. 58.080-5 do Banco do Brasil s/a, agência de Nova Prata.
@@ -102,19 +103,25 @@ e às modalidades do tipo de atendimento.
 CLÁUSULA QUARTA - DAS OBRIGAÇÕES
 
 O CONVENENTE obriga-se a:
+
 I- efetuar o repasse dos recursos financeiros à medida que estes
 forem liberados pelo FNAS - Fundo Nacional de Assistência Social;
+
 II- prestar orientação técnica e supervisionar a execução do(s)
 Programa(s), através da Secretaria Municipal de Ação Social e Cidadania e do Conselho
 Municipal de Assistência Social, que esteja(m) relacionado(s) com o objeto deste
 Convênio;
+
 III- coordenar, fiscalizar, acompanhar e avaliar a execução deste
 Convênio, de acordo com a cláusula Primeira;
+
 VI- examinar e aprovar, por parecer técnico, o Plano de Trabalho,
 inclusive sua reformulação, quanto se fizer necessário, desde que não implique a
 alteração do objeto do Convênio;
+
 V- examinar e deliberar quanto à aprovação dos Relatórios de
 Atendimento e da Prestação de Contas e ela apresentada pelo CONVENIADA;
+
 VI- liberar as parcelas, em conformidade com o número de
 beneficiários, constantes do Relatório de Atendimento, até o limite máximo previsto no
 inciso I desta cláusula e Plano de trabalho, à medida em que as citadas parcelas forem
@@ -126,18 +133,24 @@ I- Responsabilizar-se pela correta aplicação dos recursos recebidos
 que não poderão ser destinados a quaisquer outros fins que não estejam estabelecidos na
 Cláusula Primeira deste Convênio e no Plano de Trabalho, sob pena de rescisão deste
 instrumento e responsabilidade de seus dirigentes;
+
 II- ressarcir à CONVENENTE pelos recursos recebidos através
 deste Convênio, quando se comprovar sua inadequada utilização;
+
 III- responsabilizar-se pelos encargos de natureza fiscal, trabalhista
 e previdenciária por danos causados a terceiros e por pagamentos de seguro geral,
 eximindo o CONVENENTE de quaisquer ônus ou reivindicações, perante terceiros, em
 juízo ou fora dele;
+
 IV- responsabilizar-se pelo cumprimento dos prazos estabelecidos
 quanto à utilização dos recursos;
+
 V- submeter-se à supervisão e orientação técnica promovida pelo
 CONVENENTE, fornecendo informações necessárias à sua execução:
+
 VI- encaminhar ao CONVENENTE a Prestação de Contas dos
 recursos recebidos, Conforme cláusula Quinta;
+
 VII- manter conta corrente específica e exclusiva junto ao Banco
 do Brasil s/a para o recebimento e movimentação de recursos provenientes deste
 Convênio;
@@ -149,22 +162,28 @@ caderneta de poupança se a previsão de seu uso for igual ao superior a um mês
 fundo de aplicação financeira do curto prazo ou operação de mercado aberto, lastreada
 em títulos da dívida pública, quando a utilização dos recursos verificar-se em prazos
 menores que um mês;
+
 IX- computar, obrigatoriamente, a crédito do convênio, as receitas
 financeiras auferidas na forma do item anterior as quais serão aplicadas,
 exclusivamente, no objeto de sua finalidade, devendo constar de demonstrativo
 específico que integrará as prestações de contas e ajuste;
+
 X- devolver ao CONVENENTE, saldos financeiros
 remanescentes, inclusive aos provenientes das aplicações financeiras realizadas no
 prazo prorrogável de 30 (trinta) dias da data da conclusão;
+
 XI- propiciar aos credenciados pelo CONVENENTE meios e
 condições necessárias ao acompanhamento à supervisão e à fiscalização da execução do
 convênio, feita pelo Conselho Municipal de Assistência Social, a qualquer tempo ou
 lugar, mantendo atualizada a instrução contábil específica dos atos e fatos relativos à
 execução do Convênio, bem como o cadastro dos usuários dos serviços;
+
 XII- prestar gratuitamente os atendimentos relativos ao objeto deste
 Convênio;
+
 XIII - arcar com o pagamento de toda e qualquer despesa excedente
 aos recursos transferidos pelo CONVENENTE;
+
 XIV - manter em arquivo, pelo prazo de cinco anos, contados da
 data de aprovação das contas pelo CONVENENTE, o cadastro dos usuários do
 programa, os prontuários, as guias de encaminhamento, as fichas e relatórios
@@ -176,16 +195,20 @@ Parágrafo Único. A vedado à CONVENIADA
 
 I- realização de despesas a título de taxa de administração, de
 gerência ou similar;
+
 II- utilização dos recursos em finalidade diversa da estabelecida
 neste convênio, ainda que em caráter de emergência;
+
 III- realização de despesas em data anterior ou posterior à sua
 vigência.
+
 IV- realização de despesas com taxas bancárias, multas, juros ou
 correção monetária, inclusive, referentes a pagamentos ou recolhimentos fora do prazo
 V- realização de despesas com publicidade, salvo as de caráter
 educativo, informativo ou de orientação social, das quais não constem normas,,
 símbolos ou imagens que caracterizam promoção pessoal de autoridade aos servidores
 públicos.
+
 VI- realização de despesas com aquisição de material permanente
 (equipamento em geral, móveis, etc.).
 ...
@@ -196,11 +219,16 @@ A Prestação de Contas dos recursos financeiros totais de que trata a
 Cláusula Terceira, deverá ser apresentada ao CONVENENTE, mensalmente, até o
 quinto dia útil do mês subseqüente ao da realização dos atendimentos, com os seguintes
 documentos:
+
 I- ofício de encaminhamento;
+
 II- relatório de atendimento;
+
 III- demonstrativo da receita e da despesa, evidenciando o saldo e,
 quando for o caso, os rendimentos auferidos da aplicação no mercado financeiro;
+
 IV- cópia do extrato da conta bancária específica;
+
 V- comprovante de recolhimento de recursos não aplicados,
 quando houver, à conta bancária indicada pela CONVENENTE.
 Parágrafo Primeiro. Os formulários para o atendimento dos itens
@@ -227,6 +255,7 @@ superveniência de norma legal ou fato que o torne material ou formalmente inexe
 
 Parágrafo Primeiro. Constitui particularmente, motivo de rescisão
 a constatação das seguintes situações:
+
 I- descumprimento de quaisquer das exigências fixadas nas normas
 e diretrizes que regulam o Programa, especialmente quanto aos patrões de qualidade do
 atendimento.
@@ -235,6 +264,7 @@ atendimento.
 ... folha 05
 II- cobrança aos usuários de quaisquer valores pelo atendimento
 realizado;
+
 III- indeferimento, em caráter definitivo quando, for o caso do
 registro no Conselho Municipal de Assistência Social.
 Parágrafo segundo. Quando ocorrer a denúncia ou rescisão, ficam

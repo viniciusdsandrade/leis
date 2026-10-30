@@ -32,6 +32,7 @@ Parágrafo Único - Além da seção particular, que se refere ao
 Município, indicada no “caput” deste artigo, haverá uma seção geral, que colecionará e
 selecionará material e dados relativos ao Estado e ao País, destinados ao incentivo da
 cultura geral.
+
 Art. 2.º - O Museu instituído por esta Lei integrará a Secretaria
 Municipal de Educação e Cultura e contará com instalações e recursos colocados a sua
 disposição, na forma da Lei, através de consignação orçamentária ou créditos especiais,
@@ -39,6 +40,7 @@ disposição, na forma da Lei, através de consignação orçamentária ou créd
 
 Art. 3.º - Compete ao Executivo, através de decreto, regular seu
 funcionamento, assim como sua estrutura interna.
+
 Art. 4.º - Esta Lei entrará em vigor na data de sua publicação,
 revogadas as disposições em contrário.
 

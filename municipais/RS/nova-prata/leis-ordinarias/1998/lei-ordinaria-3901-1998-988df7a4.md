@@ -41,6 +41,7 @@ Campestre.
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a repassar o valor de
 R$1.500,00 (um mil e quinhentos reais), a COPRAJUR, referentes a parte do custo de
 organização e realização dos 5.º Jogos Rurais de Integração.
+
 Parágrafo único - As despesas previstas no “caput” deste Artigo, serão
 pagamento de material de expediente e divulgação, material esportivo e premiação.
 

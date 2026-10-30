@@ -34,33 +34,52 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1.º - Ficam extintos os seguintes cargos públicos, previstos no
 Quadro de Provimento Efetivo, estabelecido no artigo 8º da Lei Municipal n º 3760/97:
+
 I - dois de contínuo;
+
 II - três de abatedor;
+
 III - um de programador de computador;
+
 IV - três de jardineiro;
+
 V - nove de telefonista;
+
 VI - três de operador de britador;
+
 VII - quatro de carpinteiro;
+
 VIII - dois de vigilante;
+
 IX - um de recepcionista.
 
 Art. 2.º - Ficam criados no Quadro de Provimento Efetivo, estabelecido
 º
 no artigo 8 da Lei Municipal n º 3760/97, os seguintes cargos públicos:
+
 I - um de técnico em computador, padrão de vencimento 09;
+
 II - um de contador, padrão de vencimento 10;
+
 III - um de médico clínico geral, padrão de vencimento 10;
+
 IV - um de médico pediatra, padrão de vencimento 10;
+
 V - um de médico cardiologista, padrão de vencimento 10;
+
 VI - um de médico ginecologista, padrão de vencimento 10;
+
 VII - dois de psicólogo, padrão de vencimento 10;
+
 VIII - três de auxiliar de enfermagem, padrão de vencimento 05;
+
 IX - um de nutricionista, padrão de vencimento 10.
 ...
 
 ... Folha 02
 Art. 3.º - O cargo de telefonista, padrão de vencimento 02 de provimento
 efetivo, passa a denominar-se de telefonista-recepcionista, padrão de vencimento 02.
+
 Parágrafo único - Os atuais servidores efetivos e estáveis, ocupantes dos
 cargos transformados por esta lei, são automaticamente aproveitados nos cargos de
 telefonista-recepcionista.
@@ -71,8 +90,11 @@ de coordenador de supervisão.
 Art. 5.º - O cargo de desenhista, passa para o padrão de vencimento 07.
 
 Art. 6.º - Ficam no quadro de cargos em extinção:
+
 I - um de abatedor, padrão de vencimento 02;
+
 II - um de soldador, padrão de vencimento 04.
+
 Parágrafo único - Os presentes cargos, ficam automaticamente extintos,
 quando desocupados pelos atuais servidores ocupantes dos mesmos.
 
@@ -125,6 +147,7 @@ a) Horário: período normal de trabalho de 36 horas semanais;
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: 1º Grau completo;
 
 RECRUTAMENTO:
@@ -159,12 +182,14 @@ outras tarefas semelhantes.
 CONDIÇÕES DE TRABALHO:
 
 a) Horário: período normal de 44 horas semanais;
+
 b) Outras: uso de uniforme a ser fornecido pelo Município.
 
 REQUISITOS PARA PROVIMENTO:
 
 a) Escolaridade: 1º Grau Completo ou equivalente suplementado por
 curso de especialização adequado;
+
 b) idade: mínima de 18 anos.
 
 RECRUTAMENTO:
@@ -194,15 +219,18 @@ suporte aos sistemas operacionais utilizados; executar tarefas afins.
 CONDIÇÕES DE TRABALHO:
 
 a) Horário: período normal de trabalho de 33 horas semanais;
+
 b) Outras: o exercício do cargo está sujeito à prestação de serviços à
 noite, fim de semana e feriado; trabalho externo.
 
 REQUISITOS PARA PROVIMENTO:
 
 a) Escolaridade: 2º Grau Completo;
+
 b) Habilitação Profissional: experiência comprovada em serviços
 relacionados com as atribuições do cargo ou habilitação legal para o exercício da
 profissão Técnico em Computador;
+
 b) Idade mínima de 18 anos.
 
 RECRUTAMENTO:
@@ -238,7 +266,9 @@ a) Horário de Trabalho: 33 horas semanais.
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior-Curso: Bacharel em Ciências Contáveis.
+
 c) Habilitação: Legal para o exercício da profissão.
 
 RECRUTAMENTO:
@@ -269,7 +299,9 @@ a) Horário: período normal de trabalho de 33 horas semanais
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo.
+
 b) Habilitação: habilitação legal para o exercício da profissão.
 
 RECRUTAMENTO:
@@ -302,7 +334,9 @@ a) Horário: período normal de trabalho de 33 horas semanais
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo.
+
 b) Habilitação: habilitação legal para o exercício da profissão.
 
 RECRUTAMENTO:
@@ -334,7 +368,9 @@ a) Horário: período normal de trabalho de 33 horas semanais
 REQUISITOS PARA PROVIMENTO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Superior completo.
+
 b) Habilitação: habilitação legal para o exercício da profissão.
 
 RECRUTAMENTO:
@@ -363,14 +399,17 @@ atividades de emprego; executar outras tarefas correlatas.
 CONDIÇÕES DE TRABALHO
 
 a) Horário: período normal de trabalho de 33 horas semanais;
+
 b) Outras: serviço externo: dentro do horário previsto o titular do cargo
 poderá prestar serviço em mais de uma unidade.
 
 REQUISITOS PARA PROVIMENTO:
 
 a) Escolaridade: nível superior;
+
 b) Habilitação Profissional: habilitação legal para o exercício da
 profissão de Médico;
+
 c) Idade: mínima de 18 anos.
 
 RECRUTAMENTO:
@@ -400,14 +439,17 @@ correlatas.
 CONDIÇÕES DE TRABALHO:
 
 a) Horário: período normal de trabalho de 33 horas semanais;
+
 b) Outras: serviço externo, dentro do horário previsto o titular do cargo
 poderá prestar serviço em mais uma unidade.
 
 REQUISITOS PARA PROVIMENTO:
 
 a) Escolaridade: nível superior;
+
 b) Habilitação profissional: habilitação legal para exercício da profissão
 de Médico Pediatra.
+
 c) Idade: mínima de 18 anos.
 
 RECRUTAMENTO:
@@ -470,8 +512,10 @@ a) Horário: período normal de trabalho de 33 horas semanais.
 REQUISITOS PARA PROVIMENTO:
 
 a) Escolaridade: nível superior;
+
 b) Habilitação Profissional: habilitação legal para o exercício da
 profissão de Psicólogo;
+
 c) Idade: mínima de 18 anos.
 
 RECRUTAMENTO:

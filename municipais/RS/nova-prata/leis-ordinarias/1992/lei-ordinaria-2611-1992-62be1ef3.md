@@ -30,9 +30,11 @@ promulgo a seguinte Lei:
 Art. 1.º - É concedido um auxílio financeiro a Leocir Von Miilhen, no
 valor de Cr$ 320.000,00 (Trezentos e vinte mil cruzeiros) para pagamento de despesas
 com o funeral de Terezinha Miranda de Carvalho, ocorrido em 27.07.92.
+
 Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária 1001.10603262.051 - Ampliação e Manutenção do
 Cemitério e Auxílio Funeral.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

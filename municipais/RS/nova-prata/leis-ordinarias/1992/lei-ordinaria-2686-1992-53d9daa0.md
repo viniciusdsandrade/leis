@@ -35,6 +35,7 @@ e prioridades constantes do Plano Plurianual do Município para o período de 19
 OBJETIVO: Construção de uma Creche no Bairro Basalto, com recursos
 da Secretaria Estadual de Educação através do Projeto Casa da Criança do Governo do
 Estado, para atender a demanda daquele Bairro.”
+
 Art. 2.º - O projeto referido é incluso também no anexo II do mesmo
 diploma legal, respectivamente o objetivo para execução do mesmo.
 

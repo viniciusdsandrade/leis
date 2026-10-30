@@ -41,31 +41,38 @@ Disponibilidade Interna da Fundação Getúlio Vargas ou outro índice oficial i
 pelo Governo Federal, ou índice que esteja conforme às normas federais editadas a
 partir de 01 de fevereiro de 1991, tendo como data-base o mês de julho/91 a serem
 aplicados na execução do Programa Integrado de Melhoria Social.
+
 Art. 2º - Os prazos de amortização e carência, os encargos financeiros e
 outras condições de vencimento e liquidação da dívida a ser contratada obedecerão às
 normas pertinentes estabelecidas pelas autoridades monetárias federais, e notadamente o
 que dispõe a Resolução nº 58/90 de 13.12.90 do Senado Federal.
+
 Art. 3.º - Fica o Poder Executivo autorizado a dar em garantia das
 operações de crédito de que trata esta Lei as parcelas que se fizerem necessárias do
 produto da arrecadação tributária municipal, inclusive quotas-partes do Imposto Sobre
 Operações Relativas à Circulação de Mercadorias e do Fundo de Participação dos
 Municípios.
+
 Art. 4.º - O Poder Executivo encaminhará à Câmara Municipal dentro de
 30 dias, contados da contratação das operações de crédito autorizadas por esta Lei,
 cópias dos respectivos instrumentos contratuais.
+
 Art. 5º - Fica o Poder Executivo autorizado a abrir créditos adicionais, até
 o limite de Cr$ 100.000.000,00 (cem milhões de cruzeiros) reajustáveis de acordo com
 o estipulado no artigo 1º, tendo como data-base o mês de julho/91 para aplicação da
 contrapartida do Município do Programa Integrado de Melhoria Social (PIMES).
+
 Art. 6º - Os créditos a que se refere o artigo anterior terão como
 ...
 ...folha 02
 
 contrapartida financeira reduções de dotação orçamentária e excesso de
 arrecadação tributária.
+
 Art. 7º - Dos orçamentos anuais do Município constarão as dotações
 orçamentárias necessárias no atendimento dos encargos decorrentes das operações de
 crédito autorizadas pela presente Lei.
+
 Art. 8º - Esta Lei entrará em vigor na data de sua publicação, revogadas
 as disposições em contrário.
 

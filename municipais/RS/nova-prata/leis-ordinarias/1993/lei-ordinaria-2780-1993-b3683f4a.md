@@ -37,13 +37,16 @@ cinqüenta e cinco centímetros quadrados) atingida pela Av. Borges de Medeiros,
 confrontando: ao Norte, Oeste e Sul com a Av. Borges de Medeiros e a Leste com terras
 de propriedade do Sr. Alberto Carpenedo e Outros, nesta cidade, destinadas a
 complementação das mesmas ruas.
+
 Art. 2º ‑ É autorizado também o Executivo Municipal a pagar as despesas
 relativas a taxas judiciais pela retificação de escritura necessária do aludido imóvel,
 escritura e registro decorrente da transferência a mesma área.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta lei correrão por
 conta de rubrica orçamentária: 10 ‑ Secretaria de Obras e Saneamento; 03070212.042 ‑
 Manutenção e Desenvolvimento das Atividades da Secretaria; 3.1.3.2 ‑ Outros Serviços
 e Encargos.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação
 

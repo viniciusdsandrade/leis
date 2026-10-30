@@ -32,6 +32,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a proceder
 permuta de um imóvel, com o Sr. Clementino Roviglio Fochesatto, inscrito no CPF/MF
 sob n.º 057730830-00, em virtude do mesmo estar localizado em área de projeção de
 logradouro público, assim descritos:
+
 I - O imóvel pertencente ao Município de Nova Prata, que pela permuta
 passa a pertencer a Clementino Roviglio Fochesatto, possui a seguinte descrição: “O
 Lote N.º 23, na quadra “C”, do Loteamento Sostisso, nesta cidade, com a área de
@@ -42,6 +43,7 @@ também da frente ao fundo, por outro lado, ao SUL, onde se divide com terras qu
 ou foram de Irmãos Peruzzo; no fundo, ao OESTE dito terreno mede 13,99m,
 entestando com o lote n.º 12, matriculado no Registro de Imóveis da Comarca de Nova
 Prata, sob o n.º 6866.”
+
 II - O imóvel pertencente a Clementino Roviglio Fochesatto, que pela
 permuta passa a pertencer ao Município de Nova Prata, possui a seguinte descrição:
 “Lote Urbano N.º 5, com 392,72m², no quarteirão formado pelas Avenidas Adolfo
@@ -64,6 +66,7 @@ fotocópia das matrículas dos imóveis a serem permutados.
 Art. 4.º - Todas as despesas decorrentes da formalização das
 correspondentes escrituras públicas e seus registros, correrão por conta de dotação
 orçamentária própria.
+
 Parágrafo único - Fica a presente transação isenta do recolhimento de
 Imposto de Transmissão de Bens Imóveis - ITBI, em virtude do relevante interesse do
 Município com sua concretização.

@@ -96,8 +96,10 @@ seguintes rubricas:
 - Total...................................................................................Cr$44.469,792,00
 (quarenta e quatro milhões, quatrocentos e sessenta e nove mil, setecentos e noventa e
 dois cruzeiros).
+
 Art. 2.º - Servirá de recursos para dar cobertura a este Crédito
 suplementar a arrecadação a maior, prevista neste exercício.
+
 Art. 3.º - Esta Lei entrará em vigor na data de sua publicação, revogadas
 as disposições em contrário.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

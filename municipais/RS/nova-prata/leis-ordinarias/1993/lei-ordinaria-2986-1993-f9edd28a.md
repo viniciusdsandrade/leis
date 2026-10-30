@@ -25,6 +25,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É aberto um crédito suplementar na importância CR$
 4.095.000,00 ( quatro milhões e noventa e cinco mil cruzeiros reais), no orçamento do
 Instituto de Previdência e Assistência Municipal de Nova Prata, nas seguintes unidades
@@ -53,10 +54,12 @@ orçamentárias:
 3.2.5.6 - Benefícios da Previdência Social......................CR$ 35.000,000
 - total....................................................................CR$ 4.095.000,00
 (quatro milhões e noventa e cinco mil cruzeiros reais).
+
 Art. 2º - Servirá de recursos para dar cobertura ao crédito de que trata o
 artigo anterior, a arrecadação a maior de recursos previstos no orçamento do exercício
 de 1993, no valor de CR$ 4.095.000,00 ( quatro milhões e noventa e cinco mil cruzeiros
 reais).
+
 Art. 3º - Revogadas as disposições em contrário, está Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

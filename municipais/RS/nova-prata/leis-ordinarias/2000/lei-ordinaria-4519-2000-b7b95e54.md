@@ -39,10 +39,13 @@ dívida pública, demonstrativo de gasto com pessoal e Receita Corrente Líquida
 Art. 2.º - A partir das prioridades e objetivos constantes do ANEXO
 desta Lei, serão elaboradas as propostas orçamentárias para 2001, de acordo com às
 disponibilidades de recursos financeiros.
+
 § 1.º - Os investimentos em fase de execução e a manutenção do
 patrimônio já existente terão preferência sobre os novos projetos.
+
 § 2.º - A programação de novos projetos não poderá se dar a custa de
 anulação de dotações destinadas a investimentos em andamento.
+
 § 3.º - O pagamento das despesas de pessoal, encargos sociais e serviço
 da dívida, terão prioridade sobre as ações de expansão.
 
@@ -51,12 +54,15 @@ deverão estar compatíveis com o Plano Plurianual e com esta Lei.
 
 Art. 4.º - As receitas e as despesas do orçamento do IPRAM-NP, serão
 classificadas e demonstradas segundo a legislação em vigor.
+
 § 1.º - Deverá ser elaborado e publicado até 30 dias após a publicação da
 Lei orçamentária, a programação financeira e o cronograma de execução mensal de
 desembolso.
+
 § 2.º - Os recursos vinculados serão utilizados unicamente para atender
 os objetivos das suas vinculações ainda que em exercício diverso daquele que
 aconteceu.
+
 § 3.º - Quando verificado ao final de um bimestre, que a realização da
 receita não atendeu as metas de resultado primário e nominal os poderes promoverão
 por ato próprio e nos montantes necessários, nos 30 dias subseqüentes, limitação de
@@ -81,8 +87,10 @@ alterações na legislação, especificamente sobre:
 
 I - consolidação da legislação vigente que regula matéria de alcance do
 Instituto;
+
 II - adequação da legislação municipal as eventuais modificações da
 legislação federal;
+
 III - revisão dos índices já existentes que são indexadores de
 contribuições ou participações e criação de novos índices.
 
@@ -90,14 +98,17 @@ Art. 6.º - Nos projetos de lei orçamentária constarão as seguintes
 autorizações:
 
 I - para abertura de créditos suplementares;
+
 II - para a realização de operações de créditos com destinação específica
 e vinculada ao projeto, nos termos da legislação em vigor;
+
 III - para realização de operação de crédito por antecipação da receita
 orçamentária nos limites e prazos estabelecidos pela legislação em vigor.
 
 Art. 7.º - Fica a Presidência do Instituto autorizada:
 
 I - prover os cargos e funções vagos nos termos da legislação vigente;
+
 II - conceder aumento de remuneração, ou outras vantagens, mediante
 autorização legislativa especifica.
 
@@ -117,12 +128,16 @@ visando:
 
 I - proporcionar o desenvolvimento pessoal dos servidores através de
 programas informativos, educativos e culturais;
+
 II - melhorar as condições de trabalho, especialmente no que concerne à
 saúde, alimentação e segurança;
+
 III - capacitar os servidores para melhor desempenho de funções
 específicas;
+
 IV - racionalização dos recursos materiais e humanos visando diminuir
 os custos e aumentar a produtividade e eficiência no atendimento dos serviços;
+
 V- O Instituto deverá desenvolver sistema gerencial e de apropriação de
 despesas com objetivo de demonstrar o custo de cada ação orçamentária e o resultado
 alcançado.

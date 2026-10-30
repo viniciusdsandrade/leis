@@ -32,11 +32,14 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1.º - Fica alterado de URM - Unidade de Referência Municipal, para
 UFIR - Unidade Fiscal de Referência, os dispositivos abaixo arrolados:
+
 I - Lei Municipal n.º 1254 - Código de Posturas do Município: Artigos
 18, 21, 24 a 32, 35, 36, 41, 50, 53, 59, 61, 86, 101, 109, 118, 128, 129, 132, 133 e
 parágrafo único, 141, 154, 163, 170, 179, 180 e parágrafo 1º, 185 e 193;
+
 II - Lei Municipal n.º 1592 - Parcelamento do Solo: Artigo 58, Incisos I,
 II, e III e Artigo 59.
+
 Parágrafo único - A alteração de URM para UFIR, não importará em
 acréscimo nem diminuição dos valores em reais, mas apenas uma adequação a
 Legislação Federal.

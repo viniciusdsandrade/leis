@@ -34,6 +34,7 @@ Cemitério Público Municipal ao Sr. Antonio Peruzzo, transferidos para o fim de
 regularização de permuta de imóvel entre o donatário e o Município, referente a lotes de
 sua propriedade no Bairro São Pelegrino, onde havia um cemitério e atualmente o
 Loteamento do Trabalhador.
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

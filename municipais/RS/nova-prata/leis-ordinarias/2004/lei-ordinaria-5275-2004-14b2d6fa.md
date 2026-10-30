@@ -53,6 +53,7 @@ terras de Sucessores de Santo Conte.”
 Art. 2.º - O comodato de que trata o artigo anterior, será por 10 (dez)
 anos, contados da assinatura do contrato de comodato, podendo ser prorrogado por
 outro período igual, havendo interesse das partes e em especial interesse público.
+
 Parágrafo único - As demais condições do contrato de comodato,
 constam especificamente no mesmo.
 

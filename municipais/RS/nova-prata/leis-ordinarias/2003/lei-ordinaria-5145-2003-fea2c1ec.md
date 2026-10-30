@@ -34,17 +34,26 @@ Lei e as metas prioritárias constantes do ANEXO I.
 
 § 1.º - Ficam estabelecidos, como parte integrante da presente Lei, o Anexo 2, de
 metas fiscais, conforme § 1º, do art. 4º, da LC 101-2000, compreendendo:
+
 a) cálculo da receita corrente líquida;
+
 b) resultado nominal e primário;
+
 c) consolidação da dívida pública;
+
 d) demonstrativo de despesas com pessoal, para o Executivo e para o
 Legislativo;
+
 e) previsão da receita para os exercícios de 2004, 2005 e 2006, a realizada
 nos exercícios de 2001, 2002 e a realizada e projetada para o exercício corrente;
+
 f) demonstrativo da aplicação de recursos decorrentes da alienação de ativos;
+
 g) demonstrativo da evolução do Patrimônio Municipal, referente aos
 exercícios de 2000, 2001 e 2002;
+
 h) demonstrativo da situação patrimonial no exercício de 2002.
+
 § 2.º - Integra a presente Lei o Anexo 3, de Riscos Fiscais.
 
 Art. 2.º - A partir das prioridades e objetivos constantes do anexo de metas
@@ -65,10 +74,13 @@ prioridade sobre as ações de expansão.
 Art. 3.º - A receita prevista para o exercício de 2004 está estimada em
 R$22.295.396,00 (vinte e dois milhões, duzentos e noventa e cinco mil, trezentos e noventa e seis
 reais), devendo ter a seguinte destinação:
+
 a) para reserva de contingência, atendendo ao disposto no inciso III do artigo 5º
 da LC 101-2000, para suplementações orçamentárias e para pagamentos de restos a pagar.
+
 b) para atendimento da manutenção da administração dos órgãos municipais, o
 valor será o suficiente para atender as despesas de funcionamento dos órgãos;
+
 c) para atendimento de programas de custeio, continuados ou não, dirigidos
 diretamente ao atendimento da população e comunidade, será no valor que atenda aos programas
 propostos; e
@@ -94,6 +106,7 @@ receitas previstas serão desdobradas em metas bimestrais de arrecadação, com 
 separado, quando cabível, das medidas de combate à evasão e à sonegação, da quantidade e
 valores de ações ajuizadas para cobrança da dívida ativa, bem como da evolução do montante dos
 créditos tributários passíveis de cobrança administrativa;
+
 § 3.º - Os recursos vinculados serão utilizados unicamente para atender os
 objetivos das suas vinculações, ainda que em exercício diverso daquele que aconteceu, de acordo
 com o parágrafo único do art. 8º da LC 101-2000.
@@ -141,16 +154,21 @@ projeto de lei a ser encaminhado à Câmara Municipal antes do encerramento do e
 deverão ser apreciadas antes da aprovação da proposta orçamentária.
 
 Art. 8.º - Nos projetos de leis orçamentárias constarão as seguintes autorizações:
+
 I - para abertura de critérios suplementares;
+
 II - para realização de operações de créditos com destinação específica e
 vinculada ao projeto, nos termos da legislação em vigor, em especial a Seção IV, Subseção I, da
 LC 101-2000;
+
 III - para realização de operações de crédito por antecipação específica e
 vinculada ao projeto, nos termos da legislação em vigor, em especial a Seção IV, Subseção III, da
 LC 101-2000;
+
 Art. 9.º - As transferências de recursos ou de benefícios às entidades privadas e às
 pessoas, de acordo com o art. 26 da LC 101-2000, atenderão as exigências do Plano de Auxílios
 instituídos por lei municipal e, ao art. 116 da Lei Federal 8.666-93.
+
 Art. 10 - Para haver contribuição para custeio de outros entes da Federação deverá
 atender ao artigo 116 da Lei Federal 8.666/93 e ao artigo 62, letra “f” do inciso I, do artigo 4º da
 Lei Complementar 101/2000.

@@ -39,11 +39,15 @@ candidato classificado em Concurso Público em validade, atendidos os requisitos
 constantes no Anexo Único desta Lei .
 Par. 3º - O salário e a carga horária do Técnico em Enfermagem a ser
 contratado está fixado no Anexo Único da presente Lei.
+
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos ao contratado:
+
 I – repouso semanal remunerado e gratificação natalina proporcional, nos
 termos da Lei Municipal 5760/05;
+
 II – férias proporcionais, ao término do contrato;
+
 III – inscrição no regime Geral de Previdência Social.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,
@@ -101,7 +105,9 @@ enfermeiro e as referidas no artigo 9º do Decreto nº 94.406/87; integrar a equ
 saúde e executar outras tarefas semelhantes.
 
 CONDIÇÕES DE CONTRATAÇÃO:
+
 a) Horário: carga horária normal de trabalho de 40 horas semanais;
+
 b) Curso de Técnico de Enfermagem concluído e registro no conselho
 profissional da categoria.
 

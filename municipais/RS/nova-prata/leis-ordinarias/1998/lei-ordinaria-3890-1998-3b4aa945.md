@@ -45,11 +45,15 @@ reais) por multa processada e arrecadada com base no convênio a ser firmado.
 Art. 3.º - Aos convenientes, além das demais obrigações previstas na
 minuta anexa, competirá:
 Parágrafo primeiro - Ao Departamento Estadual de Trânsito - DETRAN:
+
 I - Proceder à notificação e a cobrança das multas de competência do
 Município;
+
 II - Dar, imediatamente após à arrecadação, o seguinte destino aos
 valores provenientes das multas, via sistema bancário automatizado:
+
 a) ao DETRAN o valor devido nos termos do Art. 2.º desta Lei;
+
 b) à Secretaria da Justiça e Segurança (Fundo Especial de Segurança
 Pública/BM, exclusivamente em relação às multas aplicadas pela Brigada Militar, 50%
 (cinqüenta por cento) do valor arrecadado, após deduzidos o valor referido na alínea a
@@ -65,6 +69,7 @@ bancária especial FAMURS/MULTAS, o saldo remanescente integral nele incluído o
 periocidade e prazos equivalentes aos dos repasses do ICMS.
 
 Parágrafo segundo - ao Município:
+
 I - Providenciar a infra-estrutura necessária para acesso aos sistemas
 informatizados do DETRAN, conforme suas especificações técnicas.
 

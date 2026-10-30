@@ -55,7 +55,9 @@ realizada conforme os quadros de dotações anexos.
 
 Art. 3º - É o Poder Executivo Municipal, de conformidade com a Lei
 4320/64, autorizado a:
+
 I - Abrir, durante o exercício, créditos suplementares:
+
 a) até o limite de 15% (quinze por cento) da despesa total autorizada.
 ...
 ... Folha 02

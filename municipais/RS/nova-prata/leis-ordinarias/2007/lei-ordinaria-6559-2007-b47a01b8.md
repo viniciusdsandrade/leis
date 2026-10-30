@@ -50,10 +50,14 @@ coordenador que executou estes serviços até o mês de agosto de 2007.
 
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos ao contratado:
+
 I – jornada de trabalho de 40 horas semanais;
+
 II – repouso semanal remunerado e gratificação natalina proporcional,
 nos termos da Lei Municipal 5760/05;
+
 III – férias proporcionais, ao término do contrato;
+
 IV – inscrição no regime Geral de Previdência Social.
 
 ...

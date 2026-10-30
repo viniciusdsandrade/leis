@@ -64,11 +64,17 @@ junho de 1997, que passa a vigorar com a seguinte redação:
 
 “Art. 20 – O tempo de exercício na classe imediatamente anterior para
 fins de promoção para a seguinte será de:
+
 I – Cinco anos para a classe “B”;
+
 II – Cinco anos para a classe “C”;
+
 III – Cinco anos para a classe “D”;
+
 IV – Cinco anos para a classe “E”;
+
 V – Cinco anos para a classe “F”;
+
 VI – Cinco anos para a classe “G”.”
 
 Art. 4º - Fica alterado, em parte, o Anexo I da Lei Municipal nº

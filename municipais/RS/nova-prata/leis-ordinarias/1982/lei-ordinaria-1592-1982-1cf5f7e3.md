@@ -37,6 +37,7 @@ as normas complementares da Lei Estadual e com as disposições da presente
 
 Art. 2º - Somente será admitido o parcelamento do solo para fins urbanos
 em zonas urbanas ou de expansão, assim definidas por Lei Municipal.
+
 Parágrafo único – Não será permitido o parcelamento do solo:
 I. em terrenos alagadiços e sujeitos a inundações, antes de tomadas
 as providências para assegurar o escoamento das águas;
@@ -49,50 +50,67 @@ edificação;
 V. em áreas de preservação ecológica ou naquelas onde a poluição
 impeça condições sanitárias suportáveis, até a sua correção;
 VI. em florestas e demais formas de vegetação natural:
+
 a) situadas ao longo do rio ou qualquer curso d’água, em faixa
 marginal cuja largura mínima será igual à metade da largura do mesmo, não podendo,
 esta faixa ser menor que 20 (vinte) metros;
+
 b) situadas nas nascentes, mesmo nos chamados “olhos d’água”, seja
 qual for a situação topográfica;
+
 c) situadas nos topos dos morros.
+
 Art. 3º - Para fins desta Lei, considera-se:
+
 I – AREA URBANA, a destinada à edificação de prédio e equipamentos
 urbanos, especificada em Lei Municipal.
+
 § 1º - A inclusão de determinado perímetro na zona urbana, depende de
 lei Municipal, com prévio e fundamentado parecer do Conselho Municipal do Plano
 Diretor.
+
 § 2º - O Conselho Municipal do Plano Diretor, para emitir o parecer,
 deverá levar em conta a tendência do crescimento natural da cidade, a real necessidade
 da ampliação da zona urbana, as características da área a ser atingida na ampliação,
 compreendendo, entre outros a topografia e proximidade dos equipamentos urbanos
 existentes.
+
 II – ÁREA DE EXPANSÃO URBANA , a destinada a atender as
 necessidades de ampliação da zona urbana da cidade e compreende uma faixa de terras
 situadas numa distância de até 500 (quinhentos) metros, a partir do limite da zona
 urbana.
+
 § 1º - A inclusão de determinada faixa de terra na zona de expansão
 urbana depende de Lei Municipal e obedecerá aos mesmos requisitos estabelecidos nos
 parágrafos do item anterior.
+
 § 2º - A administração municipal, no interesse da coletividade , poderá
 criar restrições de uso dos imóveis compreendidos na zona de expansão urbana e
 também poderá adequar o seu uso ao crescimento da cidade.
+
 III – SISTEMA DE CIRCULAÇÃO, o conjunto de logradouros
 públicos, como avenidas, ruas, passagens de pedestres, praças e parques públicos, que
 possibilitam a interligação dos diversos pontos da cidade e também das atividades nela
 desenvolvidas.
+
 IV – EQUIPAMENTOS URBANOS, os serviços de abastecimento de
 água e luz, iluminação pública, coleta de águas pluviais, esgoto cloacal e rede
 telefônica.
+
 V – EQUIPAMENTOS COMUNITÁRIOS, os de natureza cultural,
 educacional, saúde, lazer e similares, tais como escola, centro comunitário, posto de
 saúde, etc.
+
 VI – ESPAÇOS LIVRES DE USO PÚBLICO, ou reservados a praças,
 parques jardins e similares.
+
 VII – FAIXA DE EDIFICAÇÃO PROIBIDA, prevista no artigo 5º da
 Lei n.º 6.766 de 19 de dezembro de 1979, espaço reservado à implantação dos
 equipamentos públicos, a serem definidos em cada caso.
+
 VIII – PASSEIO PÚBLICO, a fração de terra compreendida entre a
 faixa de edificação proibida e o início do leito da via pública.
+
 IX – QUARTEIRÃO, a área de terra, subdividida ou não, em lotes,
 compreendida e delimitada entre vias de comunicação ou entre essas e outros pontos de
 identificação.
@@ -100,13 +118,16 @@ identificação.
 Art. 4º - O parcelamento dos imóveis situados nas zonas definidas no
 artigo anterior, somente poderá ocorrer por meio de loteamento, desmembramento ou
 condomínio de unidades autônomas.
+
 § 1º - Considera-se loteamento a subdivisão de gleba em lotes destinados
 à edificação, com abertura de novas vias de circulação, de logradouros públicos ou
 prolongamento, modificação ou ampliação das vias existentes.
+
 § 2º - Considera-se desmembramento a subdivisão de glebas em lotes
 destinados à edificação, com aproveitamento do sistema viário existente, desde que não
 implique na abertura de novas vias e logradouros públicos, nem no prolongamento,
 modificação ou ampliação dos já existentes.
+
 § 3º - Considera-se condomínio de unidades autônomas a subdivisão de
 gleba em unidades autônomas para fins residenciais, apresentadas por designação
 especial e insuscetível de divisão ou de alienação destacada, de acordo com o artigo 8º
@@ -141,6 +162,7 @@ Art. 8º - No desmembramento de glebas situadas em logradouros não
 servidos por redes de água, energia elétrica e esgoto pluvial e esgoto cloacal, se for o
 caso, será exigida sua implantação, sob a responsabilidade exclusiva do proprietário da
 gleba.
+
 Parágrafo único – Mediante parecer favorável do Conselho Municipal
 do Plano Diretor, poderá ser isentado destas exigências, o desmembramento de gleba
 com área igual ou inferior a 5.000 (cinco mil) metros quadrados.
@@ -149,6 +171,7 @@ Art. 9º - Os condomínios por unidades autônomas deverão atender as
 que dispõe o artigo 7º da presente Lei, ficando sob exclusiva responsabilidade dos
 condôminos a manutenção das redes e equipamentos que estiverem situados no interior
 da área condominal.
+
 Art. 10 – O sistema de esgoto cloacal a ser implantado será definido pelo
 Departamento de Meio Ambiente da Secretaria da Saúde e Meio Ambiente, que fixará
 as diretrizes para cada caso específico.
@@ -213,6 +236,7 @@ I. Área mínima de 20.000 (vinte mil) meros quadrados.
 II. Extensão máxima de 150 (cento e cinqüenta) metros: se tiver
 passagem para pedestre em cada 150 (cento e cinqüenta) metros, poderá alcançar até
 360 (trezentos e sessenta) metros.
+
 Parágrafo único – Os condomínios por unidades autônomas não
 poderão ocupar área com dimensões superiores às fixadas nos incisos I e II deste artigo.
 
@@ -236,6 +260,7 @@ Art. 23 – Nos loteamentos, deverão ser definidas áreas para
 equipamentos comunitário que correspondem, no mínimo, a 5% (cinco por cento) da
 gleba total, e áreas para espaço livre de uso público, compreendendo, no mínimo, a 10%
 (dez por cento) da gleba total.
+
 Parágrafo único – Aplica-se o disposto neste artigo aos
 desmembramentos.
 
@@ -298,8 +323,10 @@ projetados e executados pelo interessado, quando for o caso;
 IV. as faixas de terrenos necessários ao escoamento das águas pluviais;
 V. A zona ou zonas de uso predominante na área, com indicação dos
 usos compatíveis.
+
 § 1º - A Prefeitura terá o prazo de 30 (trinta) dias para fornecer as
 diretrizes referidas neste artigo, que vigorarão pelo prazo máximo de um ano.
+
 § 2º - O prazo acima poderá ser prorrogado quando a Prefeitura julgar
 necessário o assessoramento técnico estranho ao Município.
 
@@ -341,20 +368,31 @@ Art. 33 – Após a locação do anteprojeto, aprovado pela Prefeitura
 Municipal, que terá prazo de 30 (trinta) dias para tal, o responsável técnico
 encaminhará, para nova aprovação, o projeto urbanístico definitivo, em 3 (três) vias,
 com as medidas exatas da locação de todos os itens do artigo 32 e mais:
+
 I – as dimensões lineares e angulares do projeto, os raios, as cordas, os
 arcos, os pontos de tangência e os ângulos centrais das vias em curva;
+
 II– as indicações de marcos de alinhamento e nivelamento, localizados
 nos nos ângulos ou nas curvas das vias projetadas e amarradas à referência de nível
 adotada pelo Município;
+
 III – projeto de drenagem das águas pluviais;
+
 IV – projeto de rede de distribuição de água;
+
 V – projeto de rede de distribuição de energia elétrica;
+
 VI – projeto de iluminação pública;
+
 VII – projeto da rede de esgoto cloacal, se for o caso;
+
 VIII – projeto de pavimentação, se for o caso;
+
 IX – projeto de obras de arte que se fizerem necessárias.
+
 § 1º - A Prefeitura Municipal terá prazo de 60 (sessenta) dias para exame
 e pronunciamento sobre o projeto urbanístico.
+
 § 2º - O prazo acima poderá ser prorrogado quando for necessário
 assessoramento técnico.
 
@@ -365,33 +403,48 @@ com a indicação das alterações a serem realizadas.
 
 Art. 35 – A aprovação acima fica condicionada à assinatura do Termo de
 Compromisso por parte do interessado, mediante ao qual se obrigará:
+
 I - a executar, às suas expensas, no prazo fixado pela Prefeitura, todas
 as Obras constantes dos projetos aprovados;
+
 II - a executar e colocar os marcos de alinhamento e nivelamento, os
 quais deverão ser de concreto ou pedra, segundo o padrão estabelecido pela Prefeitura;
+
 III - a facilitar a fiscalização permanente da Prefeitura durante a
 execução das obras e serviços;
+
 IV - a fazer constar nos compromissos de compra e venda ou outros atos
 de alienação de lotes, a condição de que os mesmos só poderão receber construções
 depois de executadas as obras e serviços previstos nos projetos constantes no artigo 33.
+
 § 1º - O prazo a que se refere o Inciso I deste artigo não poderá ser
 suprerior a 2 ( dois) anos, podendo a Prefeitura, a juízo do Conselho Municipal do Plano
 Diretor, permitir a execução das obras por etapas, desde que se obedeça ao disposto no
 parágrafo seguinte.
+
 § 2º - A execução por etapa só poderá ser executada quando:
+
 I - o Termo de Compromisso fixa prazo total para a execução completa
 das obras do parcelamento do condomínio;
+
 II - sejam executadas na área, em cada etapa, todas as obras previstas,
 assegurando-se aos compradores dos lotes o pleno uso e gozo dos equipamentos
 implantados.
+
 Art. 36 – A execução das obras a que se refere o artigo 33 deverá ser
 objeto de prestação de garantia por parte do interessado, segundo as seguintes
 modalidades:
+
 I - garantia hipotecária ou anticrética;
+
 II - caução em dinheiro, em títulos ou dívida pública ou fidejussória;
+
 III - fiança bancária;
+
 IV - seguro-garantia;
+
 V - alienação fiduciária.
+
 § 1º - No caso de hipoteca, a mesma será relativa a 50% (cinqüenta por
 cento) da área total da gleba parcelada, em localização, à escolha do Município. Em
 qualquer modalidade de garantia, o valor desta será equivalente ao custo orçamentado
@@ -399,11 +452,13 @@ das obras a serem executadas, aceito pela Prefeitura.
 
 Art. 37 – No ato de garantia, deverão constar, especificamente, as obras
 de responsabilidade do interessado e o prazo de sua execução.
+
 § 1º - Quando se trata de hipoteca, o prazo de prestação de garantia será
 celebrado por escritura pública, onde constará a identificação das áreas dadas em
 garantia, pela individualização correspondente a lotes do projeto aprovado e através do
 sistema de coordenadas, tomando como ponto de referência marcos permanentes,
 determinados pela Prefeitura.
+
 § 2º - As áreas dadas em garantia hipotecária não poderão ser alienadas
 sem a interveniência do Município.
 
@@ -432,10 +487,12 @@ qualquer outras benfeitorias efetuadas pelo interessado nas vias e logradouros p
 em geral e nas áreas destinadas à recreação e ao uso público, passarão a integrar o
 domínio público municipal, desde a data do registro do parcelamento, sem qualquer
 indenização.
+
 § 1º - O Município não poderá alienar as áreas de que trata este artigo,
 nem destiná-las a outros fins que não os previstos nesta Lei, slavo venda ou permuta
 para aquisição de outra área equivalente, a fim de melhor relocalizar a atividade pública
 prevista.
+
 § 2º - O disposto neste artigo não se aplica aos condomínios por unidades
 autônomas.
 
@@ -447,11 +504,14 @@ Art. 43 – Executadas todas as obras e serviços exigidos para a realização
 do parcelamento ou condomínio, a Prefeitura, a requerimento do interessado e após
 vistoria de seu órgão competente, dispensará a garantia prestada, mediante expedição de
 Auto de Vistoria.
+
 § 1º - O requerimento do interessado deverá ser acompanhado de uma
 cópia do certificado de inscrição no Registro de Imóveis.
+
 § 2º - No caso de garantia hipotecária, a área gravada poderá ser liberada
 parceladamente, a critério da Prefeitura conforme forem sendo concluídas as obras e
 serviços de infra-estrutura, segundo cronograma estabelecido.
+
 § 3º - A parcela liberada da garantia hipotecária não poderá ser menor do
 que um quarteirão.
 
@@ -477,12 +537,14 @@ Art. 47 – O projeto deverá atender às diretrizes fornecidas pela Prefeitura
 a ser elaborado na escala de 1:1.000 (um por mil) por profissional devidamente
 habilitado pelo CREA, devendo ser assinado por este e pelo interessado ou seu
 representante legal.
+
 Art. 48 – O projeto deverá ser apresentado em 3 (três) vias, contendo as
 seguintes indicações:
 I. vias existentes no entorno da área;
 II. loteamentos próximos;
 III. uso predominante no local;
 IV. divisão de lotes pretendida na área, com as respectivas dimensões.
+
 Art. 49 – Após examinar o projeto, a Prefeitura Municipal devolverá ao
 interessado 2 (duas) vias do mesmo com o despacho de aprovação ou, quando for o
 caso, com a indicação das alterações a serem realizadas.
@@ -515,6 +577,7 @@ Art. 54 – Constatada a infração a qualquer dispositivo desta Lei, a
 Prefeitura notificará o interessado e o responsável técnico, concedendo prazo de
 regularização de ocorrência, não excedente a 30 (trinta) dias e prorrogável por igual
 tempo, contando da data da expedição da notificação.
+
 Parágrafo único – A verificação da infração poderá ser feita a qualquer
 tempo, mesmo após o término das obras.
 
@@ -522,6 +585,7 @@ Art. 55 – No caso do não cumprimento das exigências constantes da
 notificação dentro do prazo concedido, será lavrado o competente Auto de Infração ou
 Auto de Embargo das Obras, se estas estiverem em andamento, com a aplicação de
 multa em ambos os casos.
+
 Art. 56 – Depois de lavrado o Auto de Embargo, fica proibida a
 continuação dos trabalhos, que serão impedidos, se necessário, com o auxílio de
 autoridades policiais do Estado.
@@ -567,9 +631,11 @@ Art. 62 – O alienante deverá fazer constar nos autos de alienação dos
 lotes as restrições quanto à utilização do terreno imposta à respectiva unidade; em
 decorrência do projeto de parcelamento ou condomínio, bem como o gravame quando o
 lote estiver hipotecado.
+
 Art. 63 – Os proprietários e os responsáveis técnicos são solidariamente
 responsáveis pelo cumprimento das exigências desta Lei, na execução das obras do
 parcelamento ou condomínio.
+
 Art. 64 – Não caberá ao Poder Público Municipal qualquer
 responsabilidade por diferenças de área de lotes ou quadras verificadas em
 parcelamentos ou condomínios aprovados.
@@ -581,6 +647,7 @@ responsáveis técnicos.
 
 Art. 66 – A denominação das vias de comunicação e logradouros
 públicos em geral será fixada pelo Poder Público.
+
 Art. 67 – Os parcelamentos e condomínios já efetuados e não
 regularizados dentro de 30 (trinta) dias, conforme as normas legais anteriores, estarão
 sujeitos à ação da prefeitura para aplicação das normas desta Lei.

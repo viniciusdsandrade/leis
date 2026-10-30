@@ -30,13 +30,16 @@ promulgo a seguinte Lei:
 Art. 1.º - É concedida uma subvenção ao Grêmio Esportivo Pratense,
 valor de Cr$ 600.000,00 (seiscentos mil cruzeiros), para custeio de despesas com suas
 atividades no exercício de 1991.
+
 Art. 2º - A entidade ora subvencionada obriga-se a prestar contas dos
 recursos concedidos no prazo de 15 dias.
+
 Art. 3º - As despesas decorrentes de aplicação desta Lei, correrão por
 conta de rubrica orçamentária: 05 - Secretaria Educação e Cultura; 05.01 - Secretaria
 Educação e Cultura; 0501.08 - Educação e Cultura; 0501.0846 - Educação Física e
 Desporto; 0501.0846224 - Desporto Amador; 0501.08462241.017 - Auxílio Financeiro
 a Entidades Esportivas.
+
 Art. 4º Revogadas as disposições em contrário, esta Lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

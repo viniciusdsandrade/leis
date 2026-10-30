@@ -42,10 +42,14 @@ da contratação que trata o caput deste artigo.
 
 Art. 2º - Os contratos serão de natureza administrativa, ficando
 assegurados os seguintes direitos aos contratados:
+
 I – jornada de trabalho igual aos demais professores municipais;
+
 II – repouso semanal remunerado e gratificação natalina proporcional,
 nos termos da Lei Municipal 5154/03;
+
 III – férias proporcionais, ao término do contrato;
+
 IV – inscrição no regime Geral de Previdência Social.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,

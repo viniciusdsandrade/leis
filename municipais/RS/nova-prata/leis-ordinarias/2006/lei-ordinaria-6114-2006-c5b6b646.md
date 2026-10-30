@@ -32,11 +32,13 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1º - Fica o Poder Executivo autorizado a pagar despesas com
 comemoração do dia da criança, no dia 09 de outubro de 2006.
+
 Parágrafo único: As despesas autorizadas no presente artigo, serão de até
 R$ 3.500,00 (três mil e quinhentos reais).
 
 Art. 2º - Fica o Poder Executivo autorizado a pagar despesas com
 comemoração do dia do Professor, no dia 11 de outubro de 2006.
+
 Parágrafo único: As despesas autorizadas no presente artigo, serão de até
 R$ 850,00 (oitocentos e cinqüenta reais).
 

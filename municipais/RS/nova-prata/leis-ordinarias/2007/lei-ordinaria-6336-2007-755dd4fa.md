@@ -43,9 +43,12 @@ atribuições, o salário e a carga horária estão fixados no anexo único da p
 
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos ao contratado:
+
 I – repouso semanal remunerado e gratificação natalina proporcional, nos
 termos da Lei Municipal 5760/05;
+
 II – férias proporcionais, ao término do contrato;
+
 III – inscrição no regime Geral de Previdência Social.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,
@@ -86,10 +89,13 @@ Básica da Saúde da família e espaços sociais identificados; Registrar no Sia
 procedimentos de sua competência realizados.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 40 horas semanais.
 
 REQUISITOS PARA CONTRATAÇÃO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade: Ensino Fundamental completo e ter concluído ou estar
 cursando curso específico de preparação para desempenho da função.
 

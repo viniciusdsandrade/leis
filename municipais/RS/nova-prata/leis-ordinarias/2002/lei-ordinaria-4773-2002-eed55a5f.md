@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a participar com
 até R$4.000,00 (quatro mil reais), referente ao projeto de rede de alta tensão na Linha
 XV de Novembro, para ligação de força na propriedade rural.
+
 Parágrafo único - O projeto de que trata o caput deste artigo, beneficiará
 uma família.
 

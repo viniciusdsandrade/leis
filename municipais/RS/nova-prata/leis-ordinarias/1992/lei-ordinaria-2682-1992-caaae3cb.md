@@ -44,6 +44,7 @@ seguintes Unidades Orçamentárias:
 3.1.3.2 - Outros Serviços e Encargos....................................................Cr$ 4.550.000,00
 - total ........................................................................................Cr$ 35.995.000,00
 (trinta e cinco milhões, novecentos e noventa e cinco mil cruzeiros).
+
 Art. 2º - Servirá de recursos para dar cobertura ao crédito suplementar de que trata o
 artigo anterior, verba recebida do Fundo Nacional de Desenvolvimento Econômico -
 MEC no valor de Cr$ 28.697.000,00 (vinte e oito milhões, seiscentos e noventa e sete

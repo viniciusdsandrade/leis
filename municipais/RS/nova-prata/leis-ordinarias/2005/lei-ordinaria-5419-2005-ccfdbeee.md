@@ -49,11 +49,15 @@ para esta mesma função.
 
 Art. 3º - Os contratos serão de natureza administrativa, ficando
 assegurados os seguintes direitos aos contratados:
+
 I – jornada de trabalho igual ao cargo de Atendente de Creche do Quadro
 Geral de Servidores efetivos do Município;
+
 II – repouso semanal remunerado e gratificação natalina proporcional,
 nos termos da Lei Municipal 5154/03;
+
 III – férias proporcionais, ao término do contrato;
+
 IV – inscrição no regime Geral de Previdência Social.
 
 ...

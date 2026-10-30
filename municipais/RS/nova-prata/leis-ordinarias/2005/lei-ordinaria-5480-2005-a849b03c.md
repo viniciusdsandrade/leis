@@ -33,6 +33,7 @@ Art. 1º - A letra “a “ do artigo 3º da Lei Municipal nº 4902/2002, passa
 a vigorar com a seguinte redação:
 
 “Art. 3º - ...
+
 a) a soma a adiantar em algarismos e por extenso, que não poderá exceder a R$
 3.500,00 ( três mil e quinhentos reais ).”
 

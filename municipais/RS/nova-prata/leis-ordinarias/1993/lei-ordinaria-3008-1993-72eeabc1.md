@@ -27,6 +27,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo Municipal autorizado a cancelar a dívida da
 Associação Beneficente e Educacional de Nova Prata - ABEN, relativa aos anos de 1992 a
 1993.

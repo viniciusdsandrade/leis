@@ -49,7 +49,9 @@ Público.
 
 Art. 3.º - A autoridade ou o órgão a quem for dirigida a reclamação é
 obrigada a:
+
 I - Imediatamente averiguar a procedência da reclamação;
+
 II - Em caso de procedência da reclamação, fixar prazo razoável, ante as
 exigências da segurança e do interesse público, para correção da irregularidade e
 solução do problema;
@@ -61,23 +63,30 @@ das averiguações e as providências tomadas.
 Parágrafo 1.º - Se a correção da irregularidade ou a solução para o
 atendimento da reclamação ou pedido for prevista para período superior a 15 (quinze)
 dias, o reclamante será informado, também:
+
 I - Do tempo estimado para sua efetivação, no mesmo prazo do inciso III
 do caput;
+
 II - Da efetiva correção da irregularidade e/ou atendimento da
 reclamação/pedido.
 
 Parágrafo 2.º - Quando a reclamação for dirigida a terceiro, prestador
 direto do serviço, este deverá:
+
 I - Imediatamente após receber a reclamação ou pedido, remeter cópia à
 autoridade ou órgão público que o fiscalize;
+
 II - Nos mesmos prazos, cumprir as mesmas obrigações atribuídas neste
 artigo ao Poder Público.
 
 Art. 4.º - Serão responsabilizados a autoridade, e o terceiro prestador
 direto do serviço que:
+
 I - Não acolherem ou não derem tramitação à reclamação;
+
 II - Não fizerem as comunicações ou não cumprirem os prazos
 estipulados no artigo anterior;
+
 III - De qualquer forma, não tomarem as providências que lhes sejam
 afetas.
 

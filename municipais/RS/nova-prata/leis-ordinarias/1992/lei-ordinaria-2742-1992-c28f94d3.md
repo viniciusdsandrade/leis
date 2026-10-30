@@ -30,8 +30,10 @@ promulgo a seguinte Lei:
 
 Art. 1º ‑ É doado um ramal de telefone instalado em central telefônica à
 Escola Estadual Fernando Luzzatto, estabelecida no Povoado Colla, neste Município.
+
 Art. 2º ‑ 0 equipamento doado será instalado na sede da própria Escola
 para seu uso cotidiano.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

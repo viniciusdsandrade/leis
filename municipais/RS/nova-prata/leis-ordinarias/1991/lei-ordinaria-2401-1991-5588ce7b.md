@@ -25,10 +25,12 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - São revogadas as disposições contidas na Lei Municipal nº 2035
 de 28.09.89, que Autoriza o Município a receber contribuição particular para
 implantação de sistemas homologados de telefone da localidade de Santo Isidoro e dá
 outras providências.
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -27,6 +27,7 @@ PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - É concedido um auxílio financeiro a Carolina Telles Borges Vieira
 , no valor de CR$ 2.500,00 (dois mil e quinhentos cruzeiros reais), para pagamento e/ou
 reembolso de despesas com sua internação por problemas cardiovasculares.

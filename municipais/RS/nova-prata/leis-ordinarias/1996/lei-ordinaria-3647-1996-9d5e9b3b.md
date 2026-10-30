@@ -26,6 +26,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É aberto um Crédito Suplementar na importância de R$
 18.099,82 (dezoito mil, noventa e nove reais e oitenta e dois centavos), nas seguintes
 unidades subordinadas:
@@ -52,6 +53,7 @@ unidades subordinadas:
 3.1.3.2 - Outros Serviços e Encargos (498)..................................................R$ 210,60
 - Total............................................................................................R$ 18.099,82
 (dezoito mil, noventa e nove reais e oitenta e dois centavos).
+
 Art. 2º - Servirá de recursos para dar cobertura ao Crédito Suplementar
 de que trata o artigo anterior, transferências de recursos do Estado e União:
 - Transferência de Recursos da União - Fundo Especial.............................R$ 210,60
@@ -63,6 +65,7 @@ de que trata o artigo anterior, transferências de recursos do Estado e União:
 - Rendimentos de Aplicações......................................................................R$ 493,31
 - Total........................................................................................................R$ 18.099,82
 (dezoito mil, noventa e nove reais e oitenta e dois centavos).
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

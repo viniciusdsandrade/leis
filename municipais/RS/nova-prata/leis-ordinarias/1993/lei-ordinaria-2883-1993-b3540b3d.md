@@ -26,12 +26,15 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É concedido um auxílio financeiro ao Sr. Adolfo José Stella, no
 valor de Cr$ 1.500.000,00 (um milhão e quinhentos mil cruzeiros) para pagamento e/ou
 reembolso de despesas com cirurgia de hérnia realizada em seu filho Jones Stella.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 ‑ Assistência Médica a População;
 3.2.5.9 ‑ Outras Transferências à Pessoas.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -36,6 +36,7 @@ programação que fica fazendo parte integrante da presente Lei Municipal.
 
 Art. 2.º - Fica autorizado o Poder Executivo Municipal, a dispender o
 valor até R$12.000,00 (doze mil reais), para realização dos eventos programados.
+
 Parágrafo único - Fica autorizado o Poder Executivo Municipal, a cobrar
 ingressos em eventos, de conformidade com a previsão constante na programação.
 

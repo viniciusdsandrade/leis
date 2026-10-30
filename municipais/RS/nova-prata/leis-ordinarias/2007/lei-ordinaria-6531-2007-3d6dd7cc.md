@@ -41,10 +41,14 @@ atribuições, o salário e a carga horária estão fixados no anexo único da p
 
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos ao contratado:
+
 I – repouso semanal remunerado e gratificação natalina proporcional, nos
 termos da Lei Municipal 5760/05;
+
 II – serviço extraordinário;
+
 III – férias proporcionais, ao término do contrato;
+
 III – inscrição no regime Geral de Previdência Social.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,
@@ -81,12 +85,17 @@ necessários ao seu serviço; conservar e limpar os utensílios que utilizar; ex
 tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Carga horária normal de trabalho de 44 horas semanais;
+
 b) Outras: sujeito ao uso de uniforme fornecido pelo Município.
 
 REQUISITOS PARA CONTRATAÇÃO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 c) Escolaridade: No mínimo, 1º Grau Incompleto;
+
 d) Habilitação Profissional: Experiência comprovada em trabalhos de
 pintura e de preparação de tintas e superfícies para pinturas, de no
 mínimo doze meses.

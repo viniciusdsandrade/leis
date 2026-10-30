@@ -26,13 +26,16 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É concedido um auxílio financeiro a Terezinha Kaczawa, no
 valor de Cr$ 500.000,00 (quinhentos mil cruzeiros), para pagamento de despesas
 relativas a tratamento médico e funeral do seu marido Angelo Kaczawa, falecido em
 15.01.93.
+
 Art. 2º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 ‑ Assistência Médica à População;
 3.2.5.9 ‑ Outras Transferências a Pessoas.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 

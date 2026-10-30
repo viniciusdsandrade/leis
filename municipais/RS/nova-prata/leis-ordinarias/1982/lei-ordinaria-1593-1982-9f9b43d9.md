@@ -31,11 +31,14 @@ Das disposições preliminares
 
 Art. 1º - Fica aprovado, pela presente Lei, o novo Plano Diretor da
 Cidade de Nova prata, em substituição ao da Lei n.º 880 de 31 de janeiro de 1970.
+
 § 1º - O Plano Diretor visa organizar o espaço físico da cidade para a
 plena realização das funções urbanas.
+
 § 2º - A fim de bem desempenhar o seu objetivo, o Plano deverá ser
 continuamente acompanhado, na sua implantação, pelo setor municipal competente e
 pelo Conselho Municipal do Plano Diretor.
+
 § 3º - Fazem parte integrante desta Lei, uma planta topográfica da cidade
 na escala de 1:2.000 (um por dois mil), contendo o traçado atual e futuro (traçado
 comparativo), uma planta na mesma escala, contendo o zoneamento de uso, o sistema
@@ -48,27 +51,42 @@ são adotados os conceitos ali definidos.
 
 Art. 3º - O Conselho Municipal do Plano Diretor, órgão de
 assessoramento do Executivo Municipal, terá por finalidade:
+
 a) divulgar o Plano Diretor a zelar pela fiel aplicação do mesmo;
+
 b) deliberar nos casos omissos desta Lei, bem como suas alterações,
 quando se fizerem necessárias;
+
 c) aprovar, anualmente, o Programa de Prioridades de Obras do Plano
 Diretor, encaminhado pelo Executivo Municipal.
 
 Art. 4º - O Conselho Municipal do Plano Diretor será constituído por um
 representante:
+
 a) do Executivo Municipal;
+
 b) da Câmara de Vereadores, pela situação;
+
 c) da Câmara de Vereadores, pela oposição;
+
 d) da Secretaria de Saúde e Meio Ambiente do Estado;
+
 e) da Secretaria de Segurança Pública;
+
 f) dos Estabelecimentos de Ensino;
+
 g) dos Profissionais Liberais;
+
 h) do Comércio;
+
 i) da Indústria.
+
 § 1º - A critério do prefeito Municipal, poderão ser convidados a
 participarem do C.M.P.D., os técnicos registrados na Prefeitura Municipal, além do
 urbanista responsável pelo Plano.
+
 § 2º - O mandato do Conselheiro é de um ano, podendo ser renovado.
+
 § 3º - O Conselho Municipal do Plano Diretor, reunir-se-á, pelo menos
 uma vez por mês e será presidido pelo Prefeito Municipal.
 
@@ -86,12 +104,15 @@ das obras previstas pelo Plano Diretor.
 
 Art. 8º - A Prefeitura Municipal não realizará nenhuma obra urbana em
 discordância com o Plano Diretor.
+
 § 1º - Não serão consideradas em discordância com o Plano Diretor, as
 obras que constituírem realizações parciais do que é previsto no mesmo e as obras de
 reparo inadiáveis ou de urgência que forem referendadas pelo CMPD.
+
 § 2º - Toda e qualquer obra pública do Estado ou da União, deverá ser
 ouvidos o Órgão Técnico Municipal competente e o Conselho Municipal do Plano
 Diretor.
+
 § 3º - Quando tais obras não estiverem previstas no Plano, deverão ser
 ouvidos o Órgão Técnico Municipal competente e o Conselho Municipal do Plano
 Diretor.
@@ -102,6 +123,7 @@ da Prefeitura Municipal.
 Parágrafo Único – Sem prejuízo de outras penalidades, a prefeitura
 poderá embargar e mandar demolir, às expensas do proprietário, construções iniciadas
 em desacordo com este diploma legal.
+
 Art. 10º - A Prefeitura exigirá, nos termos desta Lei, os recuos de
 alinhamento, bem como a observância, pelas edificações, das normas estabelecidas
 quanto ao uso, taxa de ocupação, índice de aproveitamento, altura e recuos laterais e de
@@ -157,13 +179,16 @@ IV. Manter o afastamento de fundo mínimo, correspondente a 1/10
 (um décimo) do comprimento médio do lote;
 V. Altura máxima de três pavimentos acima do nível médio do
 passeio;
+
 § 1º - As atividades relacionadas no caput
 do Art. 14, incisos II, III, IV e V poderão Ter altura correspondente até 4 (quatro)
 pavimentos e a do inciso VI, sem limite, sempre observando os afastamentos
 correspondentes, conforme especificado no Art. 17.
+
 § 2º - O prédio da esquina deverá recuar
 numa das testadas e na outra poderá manter-se o alinhamento até a extensão máxima de
 20 (vinte) metros.
+
 § 3º - Será permitida, em prédio
 residencial, a construção de garagem ou dependências de serviços, no fundo do terreno,
 as seguintes condições:
@@ -171,6 +196,7 @@ as seguintes condições:
 I. li851Ter uma altura total, inclusive cobertura, no máximo, de 4
 (quatro) metros;
 II. Ter uma profundidade, no máximo, de 6 (seis) metros;
+
 § 4º - A edificação poderá ser erigida nas divisas laterais até a altura de
 dois pavimentos.
 
@@ -220,20 +246,25 @@ pelo mínimo, a partir do terceiro piso, um afastamento mínimo, lateral e de fu
 correspondente a 1/5 (um quinto) da altura total do prédio e recuo frontal de 4 (quatro)
 metros. A divisa lateral poderá ser ocupada para circulação vertical, isto é, caixa de
 escada e elevador.
+
 § 3º - No prédio que for construído sobre colunas, tendo, no mínimo, a
 metade da área do pavimento térreo livre, a área deste pavimento não será computada
 no cálculo do índice de aproveitamento.
+
 § 4º - Na construção de apartamento de cobertura, deverá ser observado
 um afastamento em pelo menos 2 (dois) lados de 2 (dois) metros dos parâmetros
 externos do prédio e, para esta área não ser computada no índice de aproveitamento, ela
 não poderá ser maior do que 50% (cinqüenta por cento) da do pavimento tipo.
+
 § 5º - A edificação de esquina, construída sobre ambos alinhamentos,
 deverá manter, no seu pavimento térreo, um chanfro de 3 (três) metros, normal a
 bissetriz do ângulo, formado pelos alinhamentos para logradouros cujos passeios têm
 largura inferior a 3 (três) metros.
+
 § 6º - A edificação poderá Ter um balanceamento, na sua fachada, a
 partir do segundo pavimento, até um comprimento correspondente a 1/20 (um
 vigésimo) da largura do logradouro (alinhamento a alinhamento).
+
 § 7º - Será permitida, em terreno com desnível, a ocupação do subsolo
 em 100% (cem por cento) nas seguintes condições:
 I. Ter uma altura de no máximo 2 (dois) pavimentos;
@@ -245,6 +276,7 @@ IV. subsolo poderá ser ocupado em 100% (cem por cento) de modo
 que seu pé direito não ultrapasse a 70 (setenta) centímetros do nível médio do passeio;
 V. Deverá ser apresentado um estudo da taxa de ocupação para a
 torre do prédio.
+
 § 8º - Para terrenos que possuam duas frentes opostas será adotado um
 eixo divisório, paralelo às ruas, dividindo o terreno ao meio, sendo que o índice de
 aproveitamento e a taxa de ocupação e altura sejam pertinentes para cada lado.
@@ -254,9 +286,11 @@ Zona de Comércio e Serviços e as de:
 I. Comércio Atacadista;
 II. Oficina em geral;
 III. Indústria de pequeno porte, não nociva e nem incômoda.
+
 § 1º - Nesta zona, serão observadas todas as demais normas do artigo 17,
 salvo quanto ao índice de aproveitamento que, para o presente caso é de 2,5 (dois
 vírgula cinco).
+
 § 2º - O prédio industrial deverá observar afastamento mínimos laterais
 de 3 (três) metros e de frente e fundo, de 4 (quatro) metros.
 
@@ -265,8 +299,10 @@ com exceção de:
 I. Indústria perigosa, que deverá se situar em local especial a ser
 estudado em cada caso;
 II. Hospital e Casa de Saúde.
+
 § 1º - Na Zona Industrial, a edificação deverá observar tudo o que está
 prescrito para a ZCS salvo, quanto ao índice de aproveitamento, que é de 2 (dois).
+
 § 2º - Quando se tratar de prédio industrial, deverá ainda, observar o
 seguinte:
 I. Recuo mínimo, de frente e fundo, de 4 (quatro) metros;
@@ -318,6 +354,7 @@ Art. 25 – Com vistas à implantação dos nosso arruamentos previstos no
 Plano Diretor e ao seu adequado aproveitamento, o órgão técnico municipal promoverá,
 quando necessário, o reloteamento de áreas, tratando cada uma como um conjunto à
 parte.
+
 Art. 26 – Para os efeitos do artigo 25, organizar-se-á um quadro geral da
 área objeto do reloteamento, compreendendo a relação completa das propriedades,
 nome dos proprietários, dimensões, confrontações e avaliação dos imóveis, bem como
@@ -446,6 +483,7 @@ urbanos;
 II. Núcleos decorrentes de parcelamento clandestino do solo,
 irregulares, incompletos, abandonados ou carentes de equipamentos urbanos;
 III. Núcleos deteriorados ou de sub-habitação.
+
 Art. 40 – Áreas de Interesse Ambiental são os espaços físicos que, pelas
 suas características, devam ter a sua ocupação e utilização reguladas, no sentido de
 preservar o patrimônio ambiental.
@@ -460,9 +498,11 @@ vocação natural do solo, em especial o reflorestamento com espécies nativas.
 Art. 43 – As Áreas de Interesse Ambiental podem ser :
 I. Áreas de Preservação Permanente;
 II. Áreas de Interesse Paisagístico e Cultural.
+
 § 1º - Áreas de Preservação Permanente são as previstas nos artigos 2º, 3º
 e 9º do Código Florestal, instituído por Lei Federal n.º 4.771 de 15 de setembro de
 1965.
+
 § 2º - Áreas de Interesse Paisagístico e Cultural, são as áreas de lazer,
 recreação e turismo, previstas no artigo 21 da lei Federal n.º 6.513 de 20 de dezembro
 de 1977.

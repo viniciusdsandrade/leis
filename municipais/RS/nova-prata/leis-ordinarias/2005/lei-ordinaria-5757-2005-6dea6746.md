@@ -35,26 +35,33 @@ Nova Prata, a Secretaria Municipal de Captação de Recursos e Assuntos Internac
 
 Art. 2.º - À Secretaria Municipal de Captação de Recursos e Assuntos
 Internacionais compete:
+
 I – Executar e assessorar na elaboração de planos, projetos e programas
 da Administração Municipal relativos à captação de recursos em órgãos públicos e
 privados, ONGS e quaisquer outras entidades, à nível estadual, federal e também à nível
 internacional ;
+
 II - coordenar a integração da Administração Municipal, com todas as
 entidades que possam oferecer recursos dos mais diversos tipos, para o Poder Público
 Municipal e também para entidades privadas do Município;
+
 III - monitorar e avaliar a aplicação dos programas, planos gerais e
 específicos da Administração Municipal relativos à utilização de recursos advindos de
 seus programas ou projetos;
+
 IV - assessorar a Administração Municipal na busca de projetos e
 programas que visem trazer o desenvolvimento sócio-econômico e cultural à população
 pratense;
+
 V - acompanhar a elaboração de projetos, ou elaborar quando for o caso,
 e controlar a execução das obras públicas advindas de seus projetos, em conjunto com
 as demais secretarias municipais;
+
 VI - buscar a integração das ações municipais com as de outras cidades,
 municípios ou equivalentes, de outros países, buscando o intercâmbio cultural,
 desenvolvimento social e econômico de interesse comum, buscando viabilizar planos e
 programas conjuntos para realização de objetivos comuns;
+
 VII – buscar projetos e programas de interesse do Município, nas áreas
 social, econômica, ambiental, administrativa, educacional, cultural, de preservação e
 desenvolvimento de recursos naturais, de combate à pobreza, de fomento à indústria, de
@@ -66,20 +73,26 @@ adequada ao local, entre outros;
 
 VIII – acompanhar e ampliar o programa “cidades-irmãs” ou programas
 semelhantes, com os mais diversos países do mundo que tiverem interesse no programa;
+
 IX – buscar novas bases de cooperação internacional para o
 desenvolvimento, face a necessidade de buscarmos novas formas de regulação de
 políticas pública na esfera global;
+
 X – promover uma maior capacitação no âmbito da sociedade civil, para
 aproveitamento dos espaços de participação, incentivando o diálogo entre a sociedade
 civil e o Poder Público;
+
 XI – realizar as devidas prestações de contas de quaisquer programas ou
 projetos de sua execução.
 
 Art. 3.º - A Secretaria Municipal de Captação de Recursos e Assuntos
 Internacionais, fica constituída da seguinte estrutura:
+
 I – Coordenadoria de Assuntos Internacionais;
+
 II - Assessoria da Secretaria Municipal de Captação de Recursos e
 Assuntos Internacionais;
+
 III - Equipe de Captação de Recursos.
 
 Art. 4.º - Ficam criados os seguintes cargos no Quadro de Cargos em

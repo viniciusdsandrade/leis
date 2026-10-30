@@ -55,10 +55,12 @@ Art. 3.º - As servidoras ora cedidas desempenharão as mesmas funções
 de professoras no órgão cessionário, percebendo a mesma remuneração do cargo, cujo
 pagamento, encargos sociais e promoção ficam de total responsabilidade do órgão
 cedente.
+
 Art. 4.º - A ACEASNOP - Associação Comunitária de Educação e Ação
 Social de Nova Prata, fica obrigada, durante o período de cedência com ônus para o
 Município, a comunicar oficialmente, todos os meses, a frequência ao serviço e outras
 ocorrências relativas à vida funcional.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

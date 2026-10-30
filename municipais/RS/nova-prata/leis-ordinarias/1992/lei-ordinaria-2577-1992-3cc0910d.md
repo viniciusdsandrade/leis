@@ -34,6 +34,7 @@ Art. 1.º - É o Executivo Municipal autorizado à adquirir e doar troféus e
 medalhas ao Clube Botafogo desta cidade, para premiação às equipes vencedoras da
 copa dos Campeões Municipais, nesta cidade, com encerramento previsto para agosto
 de 1992.
+
 Parágrafo único - As despesas autorizadas no caput deste artigo, não
 poderá ultrapassar a Cr$ 315.000,00 (trezentos e quinze mil cruzeiros).
 

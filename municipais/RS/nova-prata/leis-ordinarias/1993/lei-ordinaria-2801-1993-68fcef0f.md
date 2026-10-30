@@ -38,6 +38,7 @@ cruzeiros), na seguinte unidade orçamentária:
 3.2.5.4 ‑ Apoio Financeiro a Est. do Ens. Superior ............................Cr$ 60.000.000,00
 ‑ total .......................................................................................Cr$ 60.000.000,00
 (sessenta milhões de cruzeiros).
+
 Art. 2º ‑ Servirá como recursos para dar abertura deste crédito especial a
 redução de igual valor na seguinte unidade orçamentária:
 06 ‑ Secretaria de Habitação e Bem-Estar Social
@@ -49,6 +50,7 @@ redução de igual valor na seguinte unidade orçamentária:
 4.1.1.0 ‑ Obras e Instalações ............................................................Cr$ 60.000.000,00
 - total .....................................................................................Cr$ 60.000.000,00
 (sessenta milhões de cruzeiros).
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

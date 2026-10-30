@@ -33,11 +33,14 @@ Art. 1.º - É concedida uma Subvenção ao Sindicato da Indústria da
 Extração de Pedreiras de Nova Prata, RS e Região, até o valor de Cr$ 1.500.000,00 (Um
 milhão e quinhentos mil cruzeiros), para pagamento de despesas com a contratação de
 serviço técnico realizado por geólogo, licenciado para este fim:
+
 Art. 2.º - A entidade ora subvencionada obriga-se a prestar contas dos
 recursos concedidos no prazo de 30 dias.
+
 Art. 3º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária: 03070202.002 - Manutenção das Atividades do Gabinete do Prefeito;
 3.2.3.1 - Subvenções Sociais.
+
 Art. 4.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

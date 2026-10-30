@@ -25,6 +25,7 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É aberto um crédito suplementar na importância de Cr$
 115.785.000,00 (Cento e quinze milhões, setecentos e oitenta e cinco mil cruzeiros) nas
 seguintes rubricas orçamentária:
@@ -48,6 +49,7 @@ Rodoviários
 3.1.3.2 - Outros Serviços e Encargos .................................................Cr$ 16.000.000,00
 - TOTAL...............................................................................Cr$ 115.785.000,00
 (Cento e quinze milhões, setecentos e oitenta e cinco mil cruzeiros).
+
 Art. 2º - Servirá de recursos para dar cobertura ao crédito suplementar de
 que trata o artigo anterior, a redução de igual valor nas seguintes rubricas
 orçamentárias:
@@ -90,6 +92,7 @@ Manutenção.
 3.1.2.0 - Material de Consumo..............................................................Cr$ 810.000,00
 - total ........................................................................................Cr$115.785.000,00
 (cento e quinze milhões, setecentos e oitenta e cinco mil cruzeiros).
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

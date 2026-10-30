@@ -32,6 +32,7 @@ Art. 1.º - É o Executivo Municipal autorizado a firmar convênio com o
 Governo do Estado do Rio Grande do Sul, através da CORSAN, para o fim de realizar
 trabalhos em conjunto de perfuração de poços artesianos no Município, por tempo
 indeterminado.
+
 Art.2º - É o Executivo Municipal autorizado também, por força do
 convênio, a assumir despesas pelo fornecimento de óleo diesel, carvão, peças de
 reposição e serviço de conserto, que forem necessários para funcionamento dos
@@ -39,8 +40,10 @@ equipamentos utilizados na perfuração de poços, de propriedade da Companhia.
 Parágafo Primeiro - Serão pagas ainda pelo Município, as despesas
 relativas a estrada e horas-extras do pessoal operadores das máquinas, cedidos pela
 Corsan, caso for necessário.
+
 Art. 3º - As despesas decorrentes desta Lei correrão por conta da rubrica
 orçamentária própria.
+
 Art. 4º - Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

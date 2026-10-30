@@ -34,6 +34,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a firmar convênio com
 o Conselho Comunitário Pró-Segurança Pública de Nova Prata - CONSEPRO, com o objetivo
 de auxiliar pecuniariamente com a entidade requerente, no curso de formação de soldados da
 Brigada Militar em nosso Município.
+
 Parágrafo único - Os objetivos do convênio, serão dirigidos à pagamento de
 despesas atinentes a alimentação.
 

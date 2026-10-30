@@ -32,12 +32,14 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívidas, correspondente a Imposto predial territorial urbano, a Senhora
 Delfina de Souza Tezzari, referente ao exercício de 1999, incidente sobre dois imóveis
 que constam em nome de seu falecido esposo, Sr. José Olivério Tezzari.
+
 Parágrafo único - O valor da remissão é de R$84,70 (oitenta e quatro
 reais e setenta centavos), corrigidos até 31 de dezembro de 1999.
 
 Art. 2.º - O fundamento da remissão, é o fato da contribuinte, perceber o
 valor equivalente a um salário mínimo de pensão pela morte do marido, tendo
 dificuldades de sustento próprio em vista da idade já avançada e morar sozinha.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, fotocópia do requerimento firmado pela Sra. Delfina de Souza Tezzari,
 dirigido ao Gabinete do Prefeito Municipal, bem como da ficha de cadastro sócio-

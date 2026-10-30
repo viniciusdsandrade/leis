@@ -33,9 +33,11 @@ residente na localidade da Capela de Três Mártires, neste Município, até o l
 tratamento de saúde, por cirurgia da vesícula, ambulância, exames laboratoriais e
 medicamento, bem como p/tratamento de moléstia cardiovascular e perda da
 coordenação motora.
+
 Art. 2.º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária 0801.13754282.038 - Assistência Médica à População; 3.2.5.9 - Outras
 Transferências à Pessoas.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

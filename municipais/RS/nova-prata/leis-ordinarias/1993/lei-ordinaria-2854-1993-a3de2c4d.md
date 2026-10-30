@@ -34,6 +34,7 @@ Art. 1º ‑ Fica o Executivo autorizado a dispor de recursos de até Cr$
 Municipal de Futebol de Campo que terá o nome Taça "Renato Brandão Pandolfo ‑
 Pete", com início em 05.06.93, com jogos alternados de local, reunindo participantes
 (Times) da cidade e do interior.
+
 Parágrafo único ‑ Os auxílios ora concedidos serão correspondentes à
 aquisição de troféus e pagamento de arbitragem.
 

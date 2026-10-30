@@ -39,17 +39,22 @@ normas financeiras estabelecidas pela Legislação Federal.
 
 I - O montante das despesas não deverão ser superior ao das
 receitas.
+
 II - As unidades orçamentárias projetarão suas despesas correntes
 até o limite fixado para o exercício em curso, a preços de agosto, considerando os
 aumentos ou as diminuições de serviços.
+
 III - As estimativas das receitas serão feitas a preço de agosto de
 1991, considerar-se-ão a tendência do presente exercícios.
+
 IV - Os projetos em fase de execução terão prioridades sobre os
 novos projetos, não podendo ser paralizado sem autorização legislativa.
 
 ...
+
 V - O pagamento do serviço da dívida de pessoal e de encargos
 terá prioridade sobre as ações de expansão.
+
 VI - Constará da proposta orçamentária o produto das operações
 de crédito autorizadas pelo Legislativo, com destinação específica e vinculadas
 ao projeto, conforme item III do Artigo 167 da Constituição Federal.
@@ -67,12 +72,15 @@ agosto de 1990 e janeiro de 1991, obedecendo a fórmula a seguir e desprezando a
 frações de mil cruzeiros após o cálculo.
 BTN Janeiro/91 x valor orçamentário = valor corrigido BTN
 Agosto/90.
+
 Art. 5°- As despesas com pessoal Administração ficam limitadas a
 65% da receita corrente (atendendo ao disposto no artigo 38 das Disposições
 Constitucionais Transitórias).
+
 I - Entendem-se como receitas correntes para efeitos de limites do
 presente artigo o somatório das receitas correntes da administração, excluídas as
 receitas oriundas de convênios.
+
 II - A concessão de qualquer vantagem ou o aumento de
 remuneração além dos índices inflacionários, a criação de cargos ou alterações de
 estrutura de carreira, bem como a admissão de pessoal, a qualquer título, pela
@@ -84,9 +92,11 @@ obedecendo o limite fixado no “Caput”.
 
 Art. 6º - O orçamento anual obedecerá a estrutura organizacional
 aprova por Decreto, compreendendo, todas as unidades da Administração.
+
 Art. 7º - As operações de crédito por antecipação da receita
 contratadas pelo Município, serão totalmente liquidadas até 30 dias após o
 encerramento.
+
 Art. 8º - Revogadas as disposições em contrário, está Lei entrará
 em vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA

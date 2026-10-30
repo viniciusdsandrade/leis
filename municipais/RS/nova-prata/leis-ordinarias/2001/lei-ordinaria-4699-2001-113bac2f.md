@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei.
 Art. 1.o - Fica o Poder Executivo Municipal, autorizado a realizar a
 doação de 10 (dez) beliches de madeira de imbuía, com duas camas cada um e
 respectivos colchões, para o Presídio Estadual de Nova Prata, para uso dos presidiários.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei Municipal,
 o comunicado interno da Secretaria Municipal de Turismo e Desporto, onde encontram-
 se inventariados os bens de que trata o caput deste artigo.

@@ -35,10 +35,12 @@ Sociedade.
 
 Art. 2.º - A Entidade ora autorizada a receber a transferência de recursos
 financeiros fica obrigada a prestar contas no prazo de 30 (trinta)dias.
+
 Art. 3.º - As despesas decorrentes decorrentes da aplicação desta Lei
 correrão por conta de rubrica orçamentária: 0901.11650212.041 - Manutenção e
 Desenvolvimento das Atividades da Secretaria; 3.2.3.0 - Transferências a Instituições
 Privadas; 3.2.3.1 - Subvenções Sociais.
+
 Art. 4.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

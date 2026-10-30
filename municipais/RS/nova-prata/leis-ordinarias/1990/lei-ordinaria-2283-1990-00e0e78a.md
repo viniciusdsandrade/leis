@@ -29,6 +29,7 @@ PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu, em cumprimento
 ao disposto no artigo 66 da Lei Orgânica Municipal, sanciono e promulgo a seguinte
 Lei:
+
 Art. 1º - A receita do InstitMunicípio de Nova Prata para o exercício de
 1991, é orçada em R$ 478.622.300,00 (quatrocentos e setenta e oito milhões, seiscentos
 e vinte e dois mil e trezentos cruzeiros), a qual será arrecadada de conformidade com a
@@ -50,8 +51,10 @@ Art. 2º - É fixada despesa do Município de Nova Prata, para o exercício
 de 1991, em R$ 478.622.300,00 (quatrocentos e setenta e oito milhões, seiscentos e
 vinte e dois mil e trezentos cruzeiros) e será realizada conforme os quadros de dotações
 anexos.
+
 Art. 3º - É o Poder Executivo Municipal, de conformidade com a Lei
 4320/64, autorizado a:
+
 a) Abrir créditos suplementares até o limite de 50% (cinqüenta por cento)
 da despesa total autorizada;
 
@@ -59,6 +62,7 @@ da despesa total autorizada;
 b) realizar em qualquer mês do exercício financeiro operações de crédito
 por antecipação da receita para atender insuficiência de caixa, até o limite fixado pela
 Constituição Federal, a oferecer as garantias usuais necessárias.
+
 Art. 4º - A presente Lei entrará em vigor a partir de 1º de janeiro de 1991,
 revogadas as disposições em contrário.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

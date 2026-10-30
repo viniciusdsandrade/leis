@@ -38,6 +38,7 @@ quadrados), localizada na Capela São Miguel, localidade de Fazenda da Pratinha.
 
 Art. 2.º - A cessão de uso de que trata o artigo anterior, será por tempo
 indeterminado, podendo ser rescindido por iniciativa de uma das partes.
+
 Parágrafo único - As demais condições do contrato de cessão de uso,
 constam especificamente no referido contrato.
 

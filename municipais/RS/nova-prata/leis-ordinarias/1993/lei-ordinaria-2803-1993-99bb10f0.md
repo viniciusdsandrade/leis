@@ -34,16 +34,19 @@ com as seguintes características:
 ‑ Ao Norte, por 29,80m com área atingida pela Rua João Bettin;
 ‑ ao Sul, por 30,10m com área de terras de Eliseu Bristot;
 ‑ ao Oeste por 5,50m com área atingida pela Rua Buarque de Macedo.
+
 Art. 2º ‑ Para dação em. pagamento da transação ora realizada, o Poder
 Executivo obriga‑se a quitar o débito do Sr. Eliseu Bristot, junto a Tesouraria
 Municipal, no valor de Cr$ 37.897.552,86 (trinta e sete milhões, oitocentos e noventa e
 sete mil, quinhentos e cinqüenta e dois cruzeiros e oitenta e seis centavos) referentes a
 Contribuição de Melhoria, Imposto Predial e Territorial Urbano, Taxa de Licença para
 Localização e Imposto Sobre Serviços de Qualquer Natureza, até a presente data.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 10 ‑ Secretaria de Obras e Saneamento; 03070212.042 ‑
 Manutenção e Desenvolvimento das Atividades da Secretaria; 3.1.3.2 outros Serviços e
 Encargos.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

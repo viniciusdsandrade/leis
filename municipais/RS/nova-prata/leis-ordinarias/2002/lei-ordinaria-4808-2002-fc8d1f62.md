@@ -34,6 +34,7 @@ Art. 1.º - Fica o Poder Executivo autorizado a receber em dação em pagamento,
 mediante Escritura Pública, uma área de terras urbanas de 180,00m² (cento e oitenta metros
 quadrados), de propriedade do Espólio de Anagilda Cherubini Lenzi, localizado na Rua
 Dosolina Rigo, o qual foi usado pelo Município para construção de um poço sumidouro.
+
 Parágrafo único - O imóvel acima caracterizado, é parte da matrícula n.º 7895
 do Cartório do Registro de Imóveis da Comarca de Nova Prata.
 
@@ -51,6 +52,7 @@ escritura pública de dação em pagamento, de que trata os artigos anteriores.
 
 Art. 4.º - Todas as despesas decorrentes da formalização das correspondentes
 escrituras públicas e seus registros correrão por conta de rubrica orçamentária própria.
+
 Parágrafo único - Fica a presente transação isenta de recolhimento de Imposto
 de Transmissão de Bens Imóveis - ITBI, em virtude do relevante interesse do Município em sua
 concretização.

@@ -32,19 +32,26 @@ Art. 1.º - Fica o Município de Nova Prata, autorizado a realizar os seguintes
 eventos, constantes no Calendário Esportivo do ano de 2003, de responsabilidade da Secretaria
 Municipal de Turismo e Desporto, ficando autorizado também, a despender os valores que
 discrimina:
+
 I - 2.º Campeonato Aberto de Futebol Sete Masculino Taça Desportista Itacir
 Zamin, 4º Campeonato Aberto de Futebol Sete Feminino, 5ª Copa Carlito, valor até R$ 3.980,00
 (três mil, novecentos e oitenta reais);
+
 II - 6.º Campeonato Municipal de Veteranos de Futebol de Campo, valor até
 R$2.120,00 (dois mil, cento e vinte reais);
+
 III - 1ª Rústica Ecológica da Cascata - Taça Caldas de Prata, valor até
 R$1.575,00 (um mil, quinhentos e setenta e cinco reais);
+
 IV - 1ª Copa Regional do Basalto de Futebol Amador Taça Ótica Pupila / Jornal
 Popular / Sindicato do Basalto, valor até R$2.870,00 (dois mil, oitocentos e setenta reais);
+
 V - 12º Campeonato Integração das Categorias de Bases, valor até R$ 7.280,00
 (sete mil, duzentos e oitenta reais);
+
 VI - Rústica no mês de maio, valor até R$ 1.455,00 (um mil, quatrocentos e
 cinqüenta e cinco reais);
+
 VII - Olimpíada Escolar de Nova Prata, valor até R$ 3.500,00 (três mil e
 quinhentos reais).
 Parágrafo Único - Deverão ser aplicados até 5% (cinco por cento) do valor total

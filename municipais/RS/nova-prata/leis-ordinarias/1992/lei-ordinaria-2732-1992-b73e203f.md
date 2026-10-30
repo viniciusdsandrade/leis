@@ -25,10 +25,12 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É alterada a Lei Municipal n.º 2154 de 25.04.90 que Dispõe sobe
 o Regime Jurídico dos Servidores Públicos Municipais, é incluído no artigo 200 da
 citada Lei o seguinte inciso, que passa a integrar o cálculo da aposentadoria:
 "IV ‑ avanços (triênios)."
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

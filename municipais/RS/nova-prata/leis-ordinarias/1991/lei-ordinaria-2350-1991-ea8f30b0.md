@@ -35,16 +35,20 @@ Art. 1.º - É o Executivo Municipal autorizado a firmar convênio com o
 Estado do Rio Grande do Sul, através da Secretaria da Agricultura e Abastecimento e
 com a participação da EMATER/RS, para os fins do Programa Troca-Troca - repasse de
 Sementes.
+
 Art. 2º - Em cumprimento ao convênio ora autorizado, o Município se
 responsabilizará pela distribuição das sementes entre os pequenos agricultores, no
 recebimento das sementes produzidas para devolução ou o equivalente em moeda
 corrente.
+
 Parágrafo único - Para a prestação de contas referidas no caput deste
 artigo, após concluído o programa de distribuição e plantio da semente e recebido dos
 agricultores beneficiados o produto ou o equivalente em moeda corrente, o Município
 repassará ao órgão competente o valor correspondente às sementes recebidas.
+
 Art. 3º - As despesas decorrentes desta Lei, correrão por conta da rubrica
 própria.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 
@@ -72,4 +76,5 @@ prédio de alvenaria, construído no Viveiro Florestal de Nova Prata, ambos de p
 MUNICÍPIO, para uso da bolsa de sementes da Secretaria de Agricultura e Abastecimento -
 Departamento de Recursos Naturais Renováveis.
 CLÁUSULA SEGUNDA - Constituem obrigações das partes:
+
 a) da Secretaria de Agricultura e Abastecimento - Departamento de Recursos Renováveis:

@@ -29,11 +29,14 @@ promulgo a seguinte Lei:
 Art. 1º ‑ É concedida uma Subvenção ao Esporte Clube Botafogo, do
 Bairro Promorar, no valor de Cr$ 15.000.000,00 (quinze milhões de cruzeiros), para a
 realização do Campeonato de Futebol de Campo, aos sábados a tarde.
+
 Art. 2º ‑ A entidade ora subvencionada obriga‑se a prestar contas dos
 recursos concedidos no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0501.08462242.019 ‑ Esporte Amador; 3.2.3.1 ‑
 Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

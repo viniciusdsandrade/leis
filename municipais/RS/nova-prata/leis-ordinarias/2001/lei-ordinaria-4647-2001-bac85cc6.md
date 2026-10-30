@@ -31,6 +31,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a realizar duas
 análises de água, em poços artesianos localizados na Linha Garibaldi, primeiro distrito
 de Nova Prata, com um gasto máximo de R$ 900,00 (novecentos reais).
+
 Parágrafo único - A Secretaria Municipal de Agricultura e
 Abastecimento, realizará fiscalização nas obras.
 

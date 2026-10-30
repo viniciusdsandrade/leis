@@ -30,6 +30,7 @@ MARIO MINOZZO, NA CONDIÇÃO DE PREFEITO MUNICIPAL
 DE NOVA PRATA.
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono
 e promulgo a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a firmar convênio
 com a ASSOCIAÇÃO DOS MORADORES DA COMUNIDADE DE SÃO BELIN,
 com objetivo de auxiliar na construção do salão comunitário na localidade de São Belin.

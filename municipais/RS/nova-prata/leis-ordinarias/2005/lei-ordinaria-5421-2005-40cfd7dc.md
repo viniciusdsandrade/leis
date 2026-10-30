@@ -30,28 +30,38 @@ sanciono e promulgo a seguinte lei:
 
 Art. 1° - É criado o CONSELHO MUNICIPAL DE HABITAÇÃO E
 EXPANSÃO URBANA, com as atribuições de:
+
 I - Promover, debater e apontar diretrizes para a política de moradia e de
 expansão urbana no município;
+
 II - deliberar sobre o que lhe couber em relação aos programas ou fundos
 do município para estas áreas;
+
 III - conciliar os programas do setor no Município com os do Estado e da
 União, com entidades de qualquer espécie, do país ou do exterior, seus recursos e
 diretrizes, bem como propor integração entre os mesmos;
+
 IV - opinar sobre convênios ou projetos necessários ao atendimento das
 necessidades do Município nas áreas de Habitação, Urbanização ou outras melhorias da
 infra-estrutura urbana;
+
 V - Deliberar sobre a operacionalização do FUN-HAB, Fundo
 Habitacional de Urbanização e Melhorias Comunitárias.
 
 Art. 2° - O Conselho Municipal de Habitação e Expansão Urbana terá a
 seguinte composição:
+
 a) 02 (dois) representantes de organizações de profissionais liberais (ARQUITETOS
 e ENGENHEIROS);
+
 b) 01 (um) representante de representante de instituição de Ensino-Superior (UCS);
+
 c) 01 (um) representante de órgãos de segurança pública (CONSEPRO);
+
 d) 01 (um) representante de organização religiosa (PÁROCO GERAL).,
 e) 06 (seis) membros nomeados a cada ano pelo Prefeito Municipal, observados os
 critérios de conhecimentos e afinidades na área.
+
 § 1° - Os membros serão indicados por escrito, anualmente, por suas
 entidades representativas, bem como um suplente.
 ...

@@ -41,9 +41,12 @@ classificação vigente em concurso público já realizado.
 
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos ao contratado:
+
 I – repouso semanal remunerado, serviço extraordinário e gratificação
 natalina proporcional, nos termos da Lei Municipal 5760/05;
+
 II – férias proporcionais, ao término do contrato;
+
 III – inscrição no regime Geral de Previdência Social.
 
 Art. 3º - As despesas decorrentes da execução da presente Lei Municipal,
@@ -51,6 +54,7 @@ correrão por conta das seguintes dotações orçamentárias: 08 – Secretaria 
 Saúde; 01 – Fundo Municipal de Saúde; 10.301.0107.2110 – Manutenção do PSF-
 PACS; 3.1.9.0.04.99.02.00.000 – Contratação por tempo determinado ( );
 3.1.9.0.04.15.00.00.000 – Obrigações Patronais ( ).
+
 Art. 4º - Esta Lei Municipal entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -75,6 +79,7 @@ café, chá, suco ou semelhantes e servi-los e executar outras tarefas semelhant
 REQUISITOS PARA CONTRATAÇÃO:
 
 a) Idade mínima de 18 anos.
+
 b) Instrução: Ensino Fundamental incompleto.
 
 SALÁRIO MENSAL:

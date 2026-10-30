@@ -35,6 +35,7 @@ de contas referente a alugueres, do período de 28 de fevereiro de 1994 a 27 de 
 de 1997 (na época sem contrato) com Dozolina Maria Ghellere, inscrita no CPF nº
 550050800-82, mediante obras no imóvel onde funcionou no período de 28 de fevereiro
 de 1994 até 31 de dezembro de 2001, a central telefônica do Retiro.
+
 Parágrafo único - O valor das obras, será de até R$493,00 (quatrocentos e
 noventa e três reais) referente a mão de obra e até R$602,00 (seiscentos e dois reais) de
 material.

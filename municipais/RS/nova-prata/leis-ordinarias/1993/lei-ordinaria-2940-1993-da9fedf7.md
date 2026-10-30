@@ -27,24 +27,32 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE NOVA PRATA
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É instituído o Programa de Incentivo a Construção de Obras
 Sociais e Populares no Município de Nova Prata , através de ações conjunta entre o
 Poder Público e as partes interessadas, com o fim de proporcionar condições para ao
 desenvolvimento e melhoria de vida da população de baixa renda, visando minimizar a
 grave situação econômica-financeira de parte desta população.
+
 Art. 2º - O programa de Incentivo a construção de obras sociais s
 populares será desenvolvido preferencialmente junto aos proprietários de um lote
 urbano ou de pequenos imóveis rurais.
+
 Art. 3º - As ações a serem desenvolvidas para atingir os objetivos
 constituir-se-ão preferencialmente de:
+
 a) transporte de entulho em geral;
+
 b) transporte de terra para aterro;
+
 c) doação de brita;
+
 d) serviços de máquinas.
 
 Art. 4º - Os serviços, gratuidade e transportes de que trata o artigo 3º
 somente serão executados desde que a Prefeitura Municipal tenha disponibilidade de
 atendimento, sem prejuízos dos trabalhos.
+
 Art. 5º - revogadas as disposições em contrário, esta Lei entrará em vigor
 na data de seu publicação.
 GABINETE DO PREFEITO MUNICIPAL DE

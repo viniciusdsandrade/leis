@@ -47,10 +47,14 @@ contratação que trata o caput deste artigo.
 
 Art. 2º - O contrato será de natureza administrativa, ficando assegurados
 os seguintes direitos ao contratado:
+
 I – jornada de trabalho igual ao cargo de provimento efetivo;
+
 II – repouso semanal remunerado e gratificação natalina proporcional,
 nos termos da Lei Municipal 5154/03;
+
 III – férias proporcionais, ao término do contrato;
+
 IV – inscrição no regime Geral de Previdência Social.
 
 ...

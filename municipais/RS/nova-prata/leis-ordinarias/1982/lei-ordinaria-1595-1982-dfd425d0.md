@@ -501,36 +501,54 @@ construção, com as devidas A.R.T’s do CREA.
 
 Art. 11 – O processo de aprovação do projeto será composto das
 seguintes peças:
+
 a) Requerimento solicitando aprovação do projeto;
+
 b) Planta de localização e situação;
+
 c) Planta baixa de cada pavimento não repetido;
+
 d) Planta de elevação das fachadas principais;
+
 e) Cortes longitudinais e transversais;
+
 f) Projeto das instalações hidráulico-sanitárias;
+
 g) Projeto das instalações elétricas e telefônicas, para unidades acima
 de 300,00m² (trezentos metros quadrados);
+
 h) Cálculo estrutural;
+
 i) Projeto de instalação de elevadores de acordo com as Normas
 Brasileiras;
+
 j) Memorial Descritivo da obra e especificações de materiais.
 ALTERAÇÃO DA LEI l.595: g) Projeto das instalações elétrico
 e telefônicas, para unidades acima de 300,00m² (trezentos metros
 quadrados).
+
 h) Cálculo estrutural quando da existência de laje ou pé
 direito superior a 5,00m (cinco metros), quando a obra exigir sapata isolada.
+
 i) Requerimento solicitando número predial e
 alinhamento.
+
 j) Xerox da escritura.
+
 k) Taxa A. R.T. paga.
+
 l) Memorial Descritivo (4 vias).
+
 m) Projeto de prevenção contra incêndio conforme
 A.B.T.N.
+
 § 1º - No caso de reforma ou ampliação, deverá ser indicado no projeto,
 as partes a serem demolidas, construídas ou conservadas, de acordo com as seguintes
 convenções e cores:
 AMARELO – a ser demolido;
 VERMELHO – a ser construído;
 SEM COR – a ser conservado.
+
 § 2º - As plantas de localização e situação, que poderão constituir o
 mesmo desenho, deverão caracterizar a posição de construção no lote em relação às
 divisas, bem como às outras construções existentes no mesmo. O lote será caracterizado
@@ -538,10 +556,12 @@ pelas suas dimensões, distâncias à esquina mais próxima, indicação das rua
 contorno do quarteirão, orientação magnética, posição do meio-fio, postes, hidrantes;
 arborização e entrada prevista para veículos. A escala a ser usada deverá ser de 1:250 ou
 1:500.
+
 § 3º - As plantas baixas deverão indicar o destino de cada
 compartimento, áreas, dimensões internas, espessura de paredes, aberturas e dimensões
 externas dos blocos. A escala a ser usada será 1:50 e, para grandes dimensões, 1:100. Só
 excepcionalmente poderá ser admitida escala menor.
+
 § 4º - Os cortes longitudinais e transversais, bem como as fachadas e
 elevações, deverão ser apresentados em número suficiente para a perfeita compreensão
 do projeto. Serão convenientemente contados, com andares numerados, registrando,
@@ -549,16 +569,20 @@ ainda, o perfil do terreno. Quando tais cortes resultarem muito extensos, em vir
 pavimentos repetidos, poderão ser simplificados, omitindo-lhes na forma convencional,
 a representação de pavimento iguais, desde que seja cotada a altura total da edificação.
 A escala dos cortes será a mesma das plantas baixas.
+
 § 5º - Os projetos hidráulico-sanitário e elétrico deverão obedecer, além
 das disposições deste Código, as regulamentações das respectivas empresas
 concessionárias (CORSAN e CEEE).
+
 § 6º - O projeto de estrutura constará dos seguintes elementos : cálculo
 estático, distribuição dos pilares, plantas de formas e detalhes das tesouras, quando for o
 caso.
+
 § 7º - Todas as plantas e o memorial relacionados neste artigo deverão
 obedecer às normas brasileiras (ABNT) e serem apresentadas em 3 (três) vias. As vias
 devolvidas ao requerente deverão conter o carimbo de aprovado e a rubrica do
 funcionário encarregado.
+
 § 8º - Para obras de certo porte, será aceito o projeto construído
 unicamente da parte arquitetônica (itens a, b, c, d, e) do caput, para fins de aprovação
 prévia; devendo, após, ser juntado os demais elementos para aprovação final, antes de
@@ -574,6 +598,7 @@ cada caso, pela autoridade competente.
 Art. 13 – Não serão permitidas emendas ou rasuras no projeto, salvo a
 correção de cotas que pode ser feita, em tinta vermelha, pelo profissional responsável
 que a rubricará.
+
 Art. 14 – Qualquer modificação introduzida no projeto deverá ser
 submetida à aprovação da Prefeitura e somente poderá ser executada se forem
 apresentadas novas plantas, contendo detalhadamente todas as modificações previstas.
@@ -604,10 +629,12 @@ DAS ISENSÕES DE PROJETOS E LICENÇAS
 
 Art. 19 – Estão dispensados de apresentação de projeto, ficando contudo
 sujeitos a concessão de licenças, as seguintes obras e serviços:
+
 a) Construção de pendências não destinadas a moradias, nem a uso
 comercial e industrial, tais como: telheiros, galpões, depósitos de uso doméstico,
 viveiros, galinheiros, caramanchões ou similares, desde que não ultrapassem a área de
 15,00m² (quinze metros quadrados);
+
 b) Casas simples de madeira, com área de 80,00m² (oitenta metros
 quadrados), situadas além de um quilômetro da área atingida pelo Plano Diretor.
 
@@ -620,9 +647,11 @@ Art. 21 – De acordo com o que estabelece a Lei Federal n.º 125 de 03 de
 dezembro de 1935, a construção de edifícios públicos federais ou estaduais não poderá
 ser executada sem licença da Prefeitura, devendo obedecer às determinações do presente
 Código, Plano Diretor e as demais posturas e deliberações municipais.
+
 § 1º - Os projetos para as referidas obras estarão sujeitos às mesmas
 exigências dos demais, gozando, entretanto, de prioridade na tramitação e de isenção de
 emolumentos.
+
 § 2º - Os contratantes ou executantes das obras de edifícios públicos
 estarão sujeitos a todos os pagamentos de licenças relativas ao exercício da profissão.
 
@@ -659,8 +688,10 @@ DOS MATERIAIS E ESTRUTURAS
 
 Art. 26 – Todo o material de construção deverá satisfazer às normas de
 qualidade relativas ao seu destino na construção.
+
 § 1º - Os materiais tradicionais devem obedecer ao que dispõe as Normas
 Brasileiras, em relação a cada caso.
+
 § 2º - Em se tratando de materiais novos ou de materiais para os quais
 não tenham sido estabelecidas as normas, os índices qualitativos serão fixados mediante
 estudo e orientação da Fundação de Ciências e Tecnologia – CIENTEC – ou outra
@@ -700,6 +731,7 @@ espessura.
 Art. 31 – As paredes de gabinetes sanitários, banheiros, despensas e
 cozinhas, junto ao fogão e pias, deverão ser revestidas até a altura de 1,50 m (um metro
 e meio), no mínimo, de material impermeável, lavável, liso e resistente.
+
 Art. 32 – Nas edificações de um só pavimento, as paredes externas dos
 dormitórios voltados para o quadrante sul, deverão ter a espessura mínima de 0,25m
 (zero, vinte e cinco metros), as demais paredes deverão ter a espessura mínima de
@@ -810,7 +842,9 @@ garantam a segurança de quem transita pelo logradouro.
 Art. 48 – Tapumes e andaimes não poderão ocupar mais do que 2/3 (dois
 terços) da largura do passeio, deixando o outro terço inteiramente livre e desimpedido
 para os transeuntes.
+
 § 1º - A parte livre do passeio não deverá ser inferior a 1m (um metro).
+
 § 2º - Poderá ser feito o tapume, em forma de galeria, por cima da
 calçada, deixando-se altura livre de, no mínimo, 2,50m (dois metros e meio).
 
@@ -834,10 +868,13 @@ DOS CORETOS E BANCAS DE JORNAIS
 Art. 51 – A Prefeitura Municipal poderá autorizar, nos logradouros
 públicos, de coretos provisórios, destinados a festividades religiosas, cívicas ou de
 caráter popular.
+
 § 1º - Os coretos deverão ser de tipo aprovado pelo setor competente da
 Prefeitura.
+
 § 2º - Não deverão perturbar o trânsito público, nem o escoamento das
 águas pluviais.
+
 § 3º - Deverão ser removidos dentro das 24h (vinte e quatro horas) que se
 seguirem ao encerramento dos festejos, caso contrário, a Prefeitura fará a remoção e
 dará ao material removido o destino que entender e cobrará o custo do serviço.
@@ -845,9 +882,11 @@ dará ao material removido o destino que entender e cobrará o custo do serviço
 Art. 52 – A Juízo do setor competente da Prefeitura, poderão ser
 colocadas nos logradouros, em locais pré-determinados e, sempre a título precário,
 bancas de venda de jornais e revistas.
+
 § 1º - As bancas deverão ser de tipo adredemente aprovado.
 ALTERAÇÃO DA LEI l.595: § 1º - As bancas deverão ser
 previamente aprovadas.
+
 § 2º - Não deverão obstruir, de nenhum modo, o trânsito de pedestres ou
 de veículos pelo logradouro.
 
@@ -877,6 +916,7 @@ vedação, abaixo desta altura.
 ALTERAÇÃO DA LEI l.595: § 1º - Não serão permitidos sobre
 passeios: gárgulas, pingadeiras ou escoadouros de águas pluviais ou de águas
 servidas.
+
 § 2º - Será permitida a construção
 de beirado, desde que o escoamento das águas pluviais seja devidamente
 canalizado.
@@ -915,6 +955,7 @@ estruturais de qualquer forma.
 Art. 59 – As edificações feitas no alinhamento, fora das normas
 comerciais, poderão ter marquises, obedecidas as exigências do artigo anterior.
 ALTERAÇÃO DA LEI l.595: Art. 59 – Nulo.
+
 Art. 60 h As fachadas construídas no alinhamento ou as que dele
 ficarem recuadas em virtude de recuo obrigatório, poderão ser balanceadas, a partir do
 segundo pavimento, nas seguintes condições:
@@ -1077,6 +1118,7 @@ quadrados.
 ALTERAÇÃO DA LEI l.595: § 1º - Na ausência de dependência
 de empregada, os compartimentos designados à dependência de serviços
 deverão satisfazer à condição deste.
+
 § 2º - Nas áreas mínimas
 estabelecidas neste artigo, poderão ser incluídas as áreas de armário embutido
 até o máximo de 1,50m² (um metro e cinqüenta decímetros quadrados).
@@ -1086,6 +1128,7 @@ uma área mínima de 12,00m² (doze metros quadrados). Quando houver mais de uma
 sala, ou outras peças de permanência diurna prolongada, cada uma deverá ter, pelo
 menos, 9,00m² (nove metros quadrados) de área. Em qualquer caso não poderão ter
 dimensão menor que 2,50 m (dois metros e meio).
+
 Art. 75 – As cozinhas, copas e despensas não poderão ter área menor que
 5,00m² (cinco metros quadrados), nem dimensão menor que 2,00m (dois metros).
 
@@ -1120,6 +1163,7 @@ ALTERAÇÃO DA LEI l.595: Art. 82 – As escadas ou rampas
 para pedestres deverão ser dimensionadas do mesmo modo que os
 corredores, quanto a largura, que poderá ser no mínimo, de 1,00m (um metro)
 livre.
+
 § 1º - A escada para edifícios
 residenciais deverá a partir do 3º (terceiro) pavimento, inclusive, ter a largura
 equivalente a um acréscimo de 10cm (dez centímetros) por pavimento,
@@ -1136,6 +1180,7 @@ sendo: L a largura do piso, no mínimo de
 0,25 m (zero, vinte e cinco metros);
 H a altura do espelho, no
 máximo de 0,18m de (zero, dezoito metros).
+
 Art. 85 – Nas escadas circulares e em leque, será obrigatória a largura
 mínima, para o degrau, de 8cm (oito centímetros) junto ao bordo interior e 25cm (vinte
 e cinco centímetros) no centro do degrau.
@@ -1314,10 +1359,12 @@ IX. A distância da porta da sala de aula até a escada de acesso
 ou aos gabinetes sanitários não poderá exceder de 25,00m (vinte e cinco metros).
 X. As escolas mistas deverão ter gabinetes separados para
 ambos os sexos nas seguintes proporções:
+
 a) Até 50 (cinqüenta) alunos: um vaso, um mictório e um
 lavatório para o setor masculino e um vaso e um lavatório para o setor masculino e, um
 vaso e um lavatório para o setor feminino. O vaso sanitário deverá estar em
 compartimento independente.
+
 b) Para cada grupo de 100 (cem) alunos: um vaso, dois mictórios
 e dois lavatórios para o setor masculino e dois lavatórios e dois vasos para o setor
 feminino. Cada vaso sanitário deverá estar em compartimento independente.
@@ -1343,13 +1390,19 @@ II. Deverão haver salas em tamanho e número suficiente para
 que os alunos internos possam ler e estudar. Estas salas também poderão funcionar
 como salas de recreio ou pequenos auditórios.
 III. As instalações sanitárias mínimas para os internatos serão:
+
 a) um vaso sanitário para cada grupo de 7 (sete) alunos;
+
 b) um chuveiro para cada grupo de 7 (sete) alunos;
+
 c) um lavatório para cada grupo de 5 (cinco) alunos;
+
 d) um mictório para cada grupo de 20 (vinte) alunos
 (internato masculino);
+
 e) Um bide para cada grupo de 12 (doze) alunas
 (internato feminino);
+
 f) Um bebedouro de água filtrada para cada grupo de 70
 (setenta) alunos.
 IV. Os refeitórios deverão ser dimensionados de modo que
@@ -1437,8 +1490,10 @@ tratamento, deverão ter uma largura mínima de 100 (cem) centímetros e serem d
 de bandeira móvel.
 IX. Ter instalações sanitárias em cada pavimento para uso do
 pessoal de serviço e de doentes, com separação por sexos, nas seguintes proporções:
+
 a) Quando para uso de doentes: 1 (um) vaso sanitário, 1
 (um) lavatório e 1 (um) chuveiro para cada 10 (dez) leitos;
+
 b) Quando para uso pessoal: 1(um) vaso sanitário, 1 (um)
 lavatório e 1 (um) chuveiro para cada 30 (trinta) leitos.
 X. As escadas deverão ter degraus de, no máximo, 16,50 (dezesseis e
@@ -1651,6 +1706,7 @@ obedecer mais às seguintes:
 I. Deverão ter o pé direito mínimo de 3,50m (três metros e
 meio).
 II. Deverão ter os pisos pavimentados.
+
 Art. 107 – Quando se tratar de depósitos de materiais que pela sua
 natureza possam ser conservados ao tempo, deverão ser conservados de maneira a não
 serem visíveis dos logradouros públicos. Para tanto, será exigido um muro periférico de
@@ -1662,8 +1718,10 @@ Art. 108 – Além das disposições que lhes forem aplicáveis, deverão
 obedecer ainda às seguintes:
 I. O pedido de aprovação das instalações deverá ser acompanhado dos
 seguintes elementos:
+
 a) Planta de localização na qual deverá constar a
 edificação, a implantação do maquinário e a posição dos recipientes e dos tanques.
+
 b) parEspecificação da instalação, mencionando o tipo de
 inflamável , a natureza e a capacidade dos tanques ou recipientes, os dispositivos de
 proteção contra incêndio, aparelhos de sinalização, assim como aparelhamento ou
@@ -1722,8 +1780,11 @@ O – POSTOS DE ABASTECIMENTO
 
 Art. 110 – O abastecimento de combustíveis e lubrificantes para veículos
 automotores somente será permitido:
+
 a) Nos postos de serviço;
+
 b) Nas garagens coletivas;
+
 c) Nos estabelecimentos que tenham frota própria de
 veículos, para exclusivo abastecimento dos mesmos.
 
@@ -1758,9 +1819,12 @@ guarda de veículos automotores, podendo ter serviços de abastecimento ou não.
 Art. 114 – O abastecimento somente será permitido nestas garagens
 quando sua capacidade for maior que 50 (cinqüenta) veículos, devendo as bombas
 satisfazerem as seguintes condições:
+
 a) Serem instaladas no interior da edificação.
+
 b) Terem seu número limitado de uma bomba para cada
 grupo de 100 (cem) veículos estacionados.
+
 c) Obedecerem às demais exigências prescritas para os
 postos de serviço.
 
@@ -1819,15 +1883,18 @@ ALTERAÇÃO DA LEI l.595: Art. 118 – Os edifícios que tiverem 8
 (oito) ou mais pavimentos com média de 500,00m² (quinhentos metros
 quadrados) cada pavimento de área construída, deverão ter no mínimo 2 (dois)
 elevadores.
+
 § 1º - Para cada 7.200,00m² (sete mil e duzentos metros quadrados) de
 área construída suplementar deverá haver um outro elevador.
 ALTERAÇÃO DA LEI l.595: § 1º - Deverão ter 2 (dois)
 elevadores quando menos de oito pavimentos e média de 1.000,00m² (mil
 metros quadrados) cada pavimento de área construída.
+
 § 2º - Para efeito deste artigo, cada elevador deverá ter capacidade
 mínima de 6 (seis) pessoas.
 ALTERAÇÃO DA LEI l.595:§ 2º - Para cada 3.600,00m² de área
 construída suplementar, deverá haver outro elevador.
+
 § 3º - Para efeitos deste artigo,
 cada elevador deverá ter capacidade mínima para 6 (seis) pessoas.
 
@@ -1860,6 +1927,7 @@ INSTALAÇÕES HIDRÁULICAS E SANITÁRIAS - PISCINAS
 Art. 123 – As instalações hidráulicas e sanitárias deverão ser feitas de
 acordo com as exigências da empresa abastecedora e tendo sempre presente as normas
 da A . B.N.T.
+
 Art. 124 – As piscinas deverão atender aos seguintes requisitos:
 I. Terem as paredes e o fundo revestidos de azulejos ou
 material similar.
@@ -1876,26 +1944,34 @@ mediante licença expedida pelo órgão competente da Prefeitura Municipal.
 ALTERAÇÃO DA LEI l.595: Art. 125 – A demolição de qualquer
 edifício, só poderá ser executada mediante licença expedida pelo órgão
 competente da Prefeitura Municipal.
+
 § 1º - Tratando-se de edificações com mais de oito metros de altura, a
 demolição só poderá ser efetuada sob a responsabilidade de profissional legalmente
 habilitado.
+
 § 2º - Tratando-se de edificação no alinhamento do logradouro, ou sobre
 uma ou mais divisas do lote, mesmo que seja de um só pavimento, isto é, menos de
 8,00m (oito metros), será exigida a responsabilidade de profissional habilitado.
+
 § 3º - O requerimento em que for solicitada licença para uma demolição
 compreendida nos parágrafos 1º e 2º (primeiro e segundo), será assinado pelo
 profissional responsável, juntamente com o proprietário.
+
 § 4º - Durante a demolição, o profissional responsável será obrigado a
 manter em local bem visível a placa regulamentar.
+
 § 5º - Em qualquer demolição, o profissional responsável ou o
 proprietário, conforme o caso, porá em prática todas as medidas necessárias e possíveis
 para garantir a segurança dos operários, do público, das benfeitorias dos logradouros e
 das propriedades vizinhas.
+
 § 6º - O órgão municipal competente poderá, sempre que julgar
 conveniente, estabelecer horário dentro do qual uma demolição deva ou possa ser feita.
+
 § 7º - No pedido de licença para demolição, deverá constar o prazo de
 duração dos trabalhos, o qual poderá ser prorrogado, atendendo solicitação justificada
 do interessado e a juízo do órgão competente.
+
 § 8º - Caso a demolição não fique concluída dentro do prazo prorrogado,
 o responsável ficará sujeito às multas previstas no presente código.
 ALTERAÇÃO DA LEI l.595: § 9º - Quando para trabalhos de
@@ -1911,6 +1987,7 @@ de 20% (vinte por cento).
 
 Art. 127 – A Prefeitura Municipal poderá demolir ou mandar demolir,
 total ou parcialmente, construções executadas em desacordo com a legislação vigente.
+
 Art. 128 – Os andaimes e tapumes de uma construção paralisada,
 deverão ser demolidos, no caso de a paralisação se prolongar por mais 60 (sessenta)
 dias, mesmo que a construção seja afastada do alinhamento, desimpedindo o passeio e
@@ -1924,10 +2001,12 @@ Art. 129 – No caso de se verificar a paralisação de uma construção por
 mais de 60 (sessenta) dias, deverá ser feito o fechamento do terreno, ou alinhamento do
 logradouro, por meio de um muro dotado de portão de entrada, observadas as exigências
 deste Código para fechamento dos terrenos nas ruas pavimentadas.
+
 § 1º - Tratando-se de construção no alinhamento, um dos vãos abertos
 sobre o logradouro deverá ser guarnecido com uma porta para permitir o acesso ao
 interior da construção, devendo todos os outros vãos para o logradouro serem fechados
 de maneira segura e conveniente.
+
 § 2º - No caso de continuar paralisada a construção depois de decorridos
 mais de 60 (sessenta) dias, será feito, pelo órgão técnico da Prefeitura Municipal, um
 exame do local, a fim de constatar se a construção oferece perigo e promover as
@@ -1943,15 +2022,21 @@ DOS EMBARGOS
 Art. 131 – A obra em andamento, seja ela de reparo, reconstrução,
 reforma ou construção, será embargada sem prejuízo das multas e outras penalidades,
 quando:
+
 a) Estiver sendo executada sem o alvará de licença nos
 casos em que o mesmo for necessário.
+
 b) For desrespeitado o respectivo projeto, em algum de seus
 elementos essenciais.
+
 c) Não forem observados o alinhamento e a altura da soleira.
+
 d) For recomeçada sem a responsabilidade de profissional
 matriculado na Prefeitura.
+
 e) Estiver em risco sua estabilidade, com perigo para o público
 ou para o pessoal que a execute.
+
 Art. 132 – Para embargar uma obra, deverá o fiscal ou funcionário
 credenciado pela Prefeitura lavrar um auto de infração que conterá os motivos do
 embargo claramente expressos, as medidas que deverão ser tomadas pelo responsável, a
@@ -1988,8 +2073,11 @@ vista o auto de infração lavrado pelo fiscal.
 
 Art. 138 – Serão arbitradas entre os valores de 10% (dez por cento) até 5
 (cinco) vezes o salário mínimo regional, de acordo com:
+
 a) Maior ou menor gravidade da infração.
+
 b) Os antecedentes do infrator.
+
 c) As circunstâncias.
 
 Art. 139 – O infrator deverá pagar a multa até 3 (três) dias após ter
@@ -2003,18 +2091,26 @@ Art. 140 – Além das previstas pela legislação em geral, os profissionais
 registrados na Prefeitura ficam sujeitos às seguintes penalidades:
 I. Suspensão de matrícula na Prefeitura pelo prazo de um a
 6 (seis) meses, quando:
+
 a) apresentarem projetos em evidente desacordo com o
 local ou falsearem medidas, cotas e demais indicadores no desenho.
+
 b) Executarem obras em flagrante desacordo com os
 projetos aprovados.
+
 c) Modificarem os projetos aprovados, introduzindo-
 lhes alterações na forma geométrica, sem a necessária licença.
+
 d) Falsearem cálculos, especificações e memórias
 justificativas em evidente desacordo com o projeto.
+
 e) Acobertarem o exercício ilegal da profissão.
+
 f) Revelarem imperícia na execução de qualquer obra,
 verificada por ocasião de vistoria de técnicos nomeados pelo Prefeito.
+
 g) Iniciarem a obra sem projeto aprovado e sem licença.
+
 h) Entravarem ou impedirem a boa marcha da
 fiscalização.
 II. Suspensão da matrícula pelo prazo de 6 (seis) a 12
@@ -2024,12 +2120,15 @@ um a seis meses.
 Art. 141 – As suspensões serão impostas mediante despacho divulgado
 na imprensa local e mediante ofício ao interessado, assinado pelo Prefeito Municipal e
 pelo responsável pelo setor competente da Municipalidade.
+
 § 1º - O profissional cuja matrícula estiver suspensa não poderá
 encaminhar projeto ou iniciar obras de qualquer natureza, nem prosseguir na execução
 da obra que ocasionou a suspensão, enquanto não findar o prazo desta.
+
 § 2º - É facultado ao proprietário da obra embargada por motivo de
 suspensão de seu responsável técnico, conclui-la desde que seja feita a substituição do
 responsável.
+
 § 3º - Após a aprovação da responsabilidade do outro técnico deverá ser
 imediatamente providenciada a regularização da obra.
 
@@ -2039,6 +2138,7 @@ DOS RECURSOS
 
 Art. 142 – Caberá recurso ao Prefeito Municipal, no prazo de 20 (vinte)
 dias, na forma da legislação vigente.
+
 Art. 143 – Caso o recurso seja resolvido a favor do recorrente, serão
 devolvidas as importâncias pagas a título de multa e serão suspensas as penalidades
 impostas.
@@ -2049,10 +2149,12 @@ DA NUMERAÇÃO DOS PRÉDIOS
 
 Art. 144 – A numeração dos prédios é de exclusiva competência da
 Prefeitura Municipal, que determinará também a origem da mesma nas vias públicas.
+
 § 1º - A numeração das economias que tiverem acesso direto à via
 pública deverá corresponder, aproximadamente, à distância em metros à origem,
 devendo os números pares se situarem à esquerda de quem se desloca no sentido da
 numeração.
+
 § 2º - Quanto às economias internas tais como apartamentos, escritórios,
 lojas em galerias, etc., o número que lhes for atribuído no projeto deverá obedecer ao
 seguinte critério: os números de 101 (cento e um) a 199 (cento e noventa e nove) serão
@@ -2081,6 +2183,7 @@ pela Diretoria de Obras, para o fim de cadastramento e tributação fiscal.
 Parágrafo Único – Os emolumentos relativos à execução das plantas e
 licenciamento da obra serão cobrados pela Prefeitura de acordo com os custos
 atualizados e tributos vigentes, sem prejuízo das penalidades que couberem.
+
 Art. 147 – Para o fiel cumprimento das disposições desta Lei, a
 Prefeitura Municipal poderá, se necessário, valer-se de mandado judicial através de ação
 cominatória, de acordo com o disposto no Código de Processo Civil, artigo 302, inciso

@@ -38,19 +38,29 @@ seguinte redação:
 “Art. 94 - Interrompe o qüinqüênio, para efeitos do Artigo anterior,
 estabelecendo novo período aquisitivo para licença-prêmio após o término das seguintes
 ocorrências:
+
 I - Penalidade disciplinar de suspensão;
+
 II - Afastamento do cargo em virtude de:
+
 a) Licença para tratar de interesse particular;
+
 b) Licença para tratamento em pessoa da família, com mais de 60 dias;
+
 c) Condenação à pena privativa de liberdade, por sentença definitiva;
+
 d) Desempenho de mandato classista;
+
 e) Licença para atividade política;
+
 f) Licença para tratamento de saúde do servidor acima de 120 dias;
+
 III - Faltas injustificadas em número superior a 5 (cinco).
 
 Art. 2.º - Ficam ratificados todos os demais termos legais, constantes na
 Lei Municipal número 2154/90, com a redação das Leis Municipais números 2176/90 e
 3450/95.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei Municipal
 entrará em vigor na data de sua publicação.
 

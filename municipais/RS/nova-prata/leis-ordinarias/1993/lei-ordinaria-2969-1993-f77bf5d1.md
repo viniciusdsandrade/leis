@@ -35,8 +35,10 @@ Artesiano.
 Parágrafo Único - As despesas com a aquisição do material referido no
 caput deste artigo não poderão ultrapassar a CR$ 350.000,00 (trezentos e cinqüenta mil
 cruzeiros de reais).
+
 Art. 2º - O Executivo observará as disposições relativas à licitação pública
 na aquisição do material a ser doado.
+
 Art. 3º - É aberto um crédito suplementar no valor de CR$ 350.00,00
 (trezentos e cinqüenta mil cruzeiros de reais), na seguinte unidade orçamentária, para
 lançamento da despesa decorrente da doação de que trata esta Lei:
@@ -49,6 +51,7 @@ lançamento da despesa decorrente da doação de que trata esta Lei:
 3.1.3.2 - Outros Serviços e Encargos (323).....................CR$ 350.000,00
 - Total..................................................................CR$ 350.000,00
 (trezentos e cinqüenta mil cruzeiros reais).
+
 Art. 4º - Para dar cobertura ao crédito suplementar de que trata o artigo
 anterior, será reduzido igual valor na seguinte unidade orçamentária:
 10 - Secretaria de Obras e Saneamento

@@ -32,12 +32,16 @@ Art. 1.º - Ficam estabelecidas as seguintes regras, a serem observadas
 quando da implantação de loteamentos, que possuam lotes considerados de grande
 porte, assim o sendo, aqueles que possuem mais de 2.000 m2 (dois mil metros
 quadrados):
+
 I - Serão permitidos quarteirões com uma extensão máxima de 500 m
 (quinhentos metros), observado o que dispõe o art. 2.º, e parágrafos, desta Lei.
+
 II - Os lotes de grande porte, não poderão ser fracionados, salvo se
 aprovado um novo loteamento com as regras pertinentes aplicáveis à espécie.
+
 III - Os calçamentos serão de responsabilidade dos loteadores ou dos
 adquirentes.
+
 IV - Deverão ser observadas, todas as demais regras aplicáveis aos
 loteamentos em geral, estabelecidas por Legislação Federal ou Municipal
 

@@ -40,9 +40,12 @@ Art. 2° - Constituem-se recursos do Fundo:
 
 I – Os oriundos da reposição dos valores de contrapartida sobre vendas
 de lotes de propriedade do município em projetos urbanizados e habitações populares;
+
 II – os aprovados em lei;
+
 III – os originários de auxílio, subvenções ou convênios específicos de
 parte de órgão oficiais ou privados;
+
 IV – os provenientes de financiamentos obtidos junto a organismos de
 desenvolvimento ou instituições bancárias oficiais ou privadas.
 
@@ -74,6 +77,7 @@ loteamentos, construções e urbanização, desde que voltados aos seus objetivo
 Art. 6° - As diretrizes, bem como a normatização para a aplicação dos
 recursos do Fundo serão de responsabilidade do Conselho Municipal de Habitação e
 Expansão Urbana.
+
 § 1° - A elaboração de projetos, licitação e fiscalização serão de
 responsabilidade da Prefeitura Municipal, através dos seus órgãos competentes.
 
@@ -89,9 +93,11 @@ capacidade de pagamento do beneficiado.
 Art. 9° - O mutuário que utilizar-se de financiamento do Fundo não
 poderá vender o imóvel para terceiros, durante um período de 15 (quinze) anos, a contar
 da data do recebimento do terreno.
+
 § 1° - Em caso de necessidade de desfazer-se do imóvel antes desse
 prazo, o mesmo deverá ser devolvido as Fundo e o beneficiado receberá os valores
 pagos corrigidos.
+
 § 2° - Edificações construídas sobre lotes adquiridos com financiamento
 do Fundo, em caso de devolução do mesmo, serão indenizadas obedecendo os valores
 estabelecidos para os financiamentos de habitações do Fundo menos a depreciação.

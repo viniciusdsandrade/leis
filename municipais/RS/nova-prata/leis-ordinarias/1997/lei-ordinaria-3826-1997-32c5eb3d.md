@@ -31,6 +31,7 @@ e promulgo a seguinte Lei:
 
 Art.1º - A retribuição pela prestação de serviços de abastecimento de
 água pelo Município será feita por meio de tarifas.
+
 Parágrafo único - O fato gerador da tarifa pelo fornecimento de água,
 ficará caracterizado, pela efetiva ligação do serviço à unidade imobiliária beneficiada.
 

@@ -37,6 +37,7 @@ ultrapassar o valor de R$2.060,00 (dois mil e sessenta reais).
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a ceder os tubos
 e conexões em caráter definitivo à Comunidade de Povoado Colla, onde servirá para o
 fim descrito no Artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do
 Município, realizará fiscalização nas obras.
 

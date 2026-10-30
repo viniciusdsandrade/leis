@@ -25,10 +25,12 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei;
+
 Art. 1º - Fica denominado como Rua Albino Francisco Zardo, o
 Logradouro Público que parte da Travessa do Oleiro, dando acesso a Rua Demétrio
 Lenzi, no Distrito Industrial, tendo como paralela, de um lado a Av. Imperatriz
 Leopoldina e de outro a Rua Itália.
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

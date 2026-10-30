@@ -31,6 +31,7 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica o Executivo autorizado a doar à Dileto Volpato Máquinas
 Agrícolas Ltda., uma área de terras com 5.000m2 (cinco mil metros quadrados), no
 Distrito Industrial do Município, para instalação de uma indústria.
+
 Art. 2.º - Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área de terra doada, obedecendo aos dispositivos da legislação própria da
 área industrial.

@@ -25,15 +25,19 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica autorizado o Poder Executivo a doar uma área de terras de
 390,00m2, objeto da matrícula N.º 7754/146, situada na Comunidade do Retiro, ao lado
 da Escola Municipal Reinaldo Cherubini, conforme escritura e Mapa anexo, que faz
 parte integrante desta Lei.
+
 Art. 2º - A área será doada à Companhia Riograndense de
 Telecomunicações - CRT que a utilizará para a instalação de uma Central Telefônica
 para a Comunidade daquele local.
+
 Art. 3º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária própria.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

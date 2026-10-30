@@ -45,16 +45,27 @@ posterior remessa ao seu destino”.
 “Art. 207-B – Permanece mantida a proibição do ingresso de resíduos
 sólidos ou pastosos de qualquer natureza e origem para disposição final no
 território do município de Nova Prata, incluídos os”:
+
 I – resíduos sólidos urbanos;
+
 II – resíduos sólidos domésticos;
+
 III – resíduos sólidos comerciais;
+
 II – resíduos sólidos industriais;
+
 III – resíduos sólidos dos serviços de saúde;
+
 IV – resíduos da construção civil;
+
 V – resíduos da agropecuária;
+
 VI – resíduos sólidos perigosos;
+
 VII – resíduos da mineração;
+
 VIII – resíduos nucleares.
+
 § 1º - Em não sendo possível ou viável a reciclagem dos resíduos
 mencionados gerados em Nova Prata, estes deverão ser submetidos a
 tratamento compatível e ter destino final na forma da Lei;

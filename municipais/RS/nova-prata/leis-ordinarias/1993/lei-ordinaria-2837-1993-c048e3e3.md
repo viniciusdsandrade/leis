@@ -31,14 +31,18 @@ Art. 1º ‑ Fica o Executivo autorizado a doar à Indústria de Reciclagem de
 Plásticos, de propriedade do Sr. Victor Roque Pandolfo, uma área de terra com 2.100m2
 (dois mil e cem metros quadrados), no Distrito Industrial do Município para instalação
 de Indústria.
+
 Parágrafo único ‑ A empresa obriga‑se a atender às determinações do
 órgão responsável pela defesa do Meio Ambiente.
+
 Art. 2º ‑ Fica autorizada também, a reserva de uma área de terras no
 mesmo local com 1.400m2 (um mil e quatrocentos metros quadrados), para a mesma
 Empresa Donatária.
+
 Art. 3º ‑ Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área doada, obedecendo aos dispositivos da Legislação própria da Área
 Industrial.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 

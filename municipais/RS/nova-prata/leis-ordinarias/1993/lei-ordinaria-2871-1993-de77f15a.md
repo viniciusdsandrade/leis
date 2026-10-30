@@ -31,13 +31,16 @@ Art. 1º ‑ Fica aprovado o Projeto do Loteamento Residencial Lovison
 com uma gleba de terras com 15.388,30 (quinze mil, trezentos e oitenta e oito metros
 quadrados a trinta centímetros), de propriedade de Siviero Empreendimentos
 Imobiliários Ltda, situado na Rua Itália, no Bairro São Cristóvão, lado Sul da cidade.
+
 Art. 2º - O Projeto, observados os requisitos da Lei Municipal N.º 1592
 de 23.12.82, constitui-se de 20 (vinte) lotes, conforme a prancha gráfica e memorial
 descritivo de parcelamento do solo, que faz parte integrante desta Lei, devidamente
 aprovado pelo Conselho Municipal do Plano Diretor da cidade de Nova Prata.
+
 Parágrafo único - A Empresa deverá obedecer a recomendação do
 Conselho Municipal do Plano Diretor, constante na ata da sua aprovação de 27 de julho
 de 1992.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

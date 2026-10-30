@@ -40,6 +40,7 @@ produção de hortifrutigranjeiros nos terrenos dos embriões do Bairro Promorar
 consumo próprio daquela comunidade, fornecendo materiais para demarcação dos
 terrenos e verbas estaduais, bem como com a participação de empresas e dos
 beneficiários.”
+
 Art. 2.º - Para execução do projeto ora incluso, é o Executivo autorizado
 a abrir crédito adicional especial no valor de Cr$ 2.200.000,00 (dois milhões e duzentos
 mil cruzeiros), com a seguinte destinação:

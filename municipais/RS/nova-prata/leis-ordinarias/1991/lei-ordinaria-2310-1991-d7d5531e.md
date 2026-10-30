@@ -58,6 +58,7 @@ V – O prazo de contrato será o mesmo do ano letivo da FERVI podendo
 ser prorrogado por igual período.
 
 VI – O motorista par o ônibus será designado pela Prefeitura Municipal.
+
 Art. 3º - Fica de responsabilidade da Prefeitura Municipal legalizar
 todos os cargos dessa atividade junto aos órgãos competentes.
 

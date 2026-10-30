@@ -38,10 +38,13 @@ Nível Total de Cargos Denominação da Classe Cód.
 Principal (1) 01 Médico Psiquiatra 1.1.99.7
 Parágrafo 2º - O cargo ora criado não integra as séries contidas no Plano
 de Classificação de Cargos.
+
 Art. 2º - As especificações do cargo criado por esta Lei constam do anexo
 I que dela fazem parte integrante.
+
 Art. 3º - São ratificadas as demais disposições contidas no atual Plano de
 Classificação de Cargos.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -82,11 +85,15 @@ eliminar focos cerebrais determinantes de hiperexcitabilidade.
 CONDIÇÕES DE TRABALHO:
 
 a) Horário: período normal de trabalho de 22, 33 ou 44 horas semanais;
+
 b) Outras: o exercício do cargo poderá determinar o trabalho aos sábados,
 domingos e feriados.
 REQUISITOS PARA PROVIMENTO:
+
 a) escolaridade: Nível Superior.
+
 b) habilitação profissional: habilitação para executar trabalhos de Psiquiatria.
+
 c) idade: mínima de 18 anos.
 RECRUTAMENTO:
 Edital para concurso Público.

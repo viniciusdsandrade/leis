@@ -57,6 +57,7 @@ municipal competente.
 
 Art. 4º. As despesas decorrentes da aplicação desta Lei correrão à
 conta de dotações orçamentárias próprias, suplementadas se necessário.
+
 Art. 5º. O Poder Executivo editará os atos necessários à
 regulamentação do disposto nesta Lei, no prazo de sessenta dias após a sua
 publicação.

@@ -35,7 +35,9 @@ Art. 1.º - O Artigo terceiro da Lei Municipal n.º 3718, de 18 de abril de
 “Art. 3.º - O Conselho Municipal de Assistência Social - CMAS é
 composto por 20 membros e respectivos suplentes, de acordo com os
 seguintes critérios:
+
 I - 10 representantes governamentais;
+
 II - 10 representantes da sociedade civil: escolhidos dentre representantes
 das organizações de usuários, das entidades e organizações de assistência
 social e dos trabalhadores do setor, escolhidos em foro próprio, sob

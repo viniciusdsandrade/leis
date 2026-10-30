@@ -35,38 +35,54 @@ DISPOSIÇÕES GERAIS
 
 Art. 1° Esta lei institui a política habitacional de interesse social do
 Município de Nova Prata, voltada à população de baixa renda.
+
 §1° A política habitacional do Município poderá ser implementada
 mediante:
+
 I - venda de habitações populares;
+
 II - venda de terrenos públicos para construção;
+
 III – doação de glebas de terras para cooperativas habitacionais legalmente
 organizadas e que atendam população de baixa renda.
+
 IV - concessão de uso de bem imóvel;
+
 V - concessão de direito real de uso;
+
 VI - permissão de uso.
 
 § 2° Para assegurar a efetividade da política habitacional instituída por esta
 lei, incumbe ao Poder Executivo Municipal:
+
 I - implantar parcelamentos do solo;
 lI - construir habitações populares;
+
 III - financiar a construção e reforma total ou parcial de habitações
 populares;
+
 IV - doar glebas de terra para cooperativas habitacionais legalmente
 organizadas e que atendam população de baixa renda.
 
 Art. 2° Para os efeitos desta lei, consideram-se:
+
 I - população de baixa renda: o grupo familiar com renda de até 5 (cinco)
 salários mínimos, considerada a média mensal;
+
 II - habitação popular: unidade imobiliária edificada com recursos públicos;
+
 III – cooperativa habitacional, entidades organizadas na espécie cooperativa,
 com registro na Junta Comercial do Estado e composta por pessoas de baixa renda, não
 proprietárias de outros imóveis.
 1
 IV - terreno público: unidade imobiliária destinada à edificação;
+
 V - concessão de uso de bem imóvel: transferência do uso de bem público
 edificado para particular, para o fim específico de moradia;
+
 VI - concessão de direito real de uso: transferência do uso de terreno público
 para particular, para que nele edifique sua moradia;
+
 VII - parcelamento de solo: divisão de gleba em lotes, nos termos da
 legislação federal pertinente.
 
@@ -87,10 +103,14 @@ contratos.
 
 Art. 5° Poderão habilitar-se no programa habitacional de interesse social, os
 candidatos que reúnam as seguintes condições:
+
 I - residência no Município há pelo menos 2 (dois) anos;
+
 II - renda familiar mensal não superior a 5 (cinco) salários mínimos;
+
 III - não possuam outro imóvel no Município, em nome próprio ou de
 integrante do grupo familiar;
+
 IV - não tenham sido beneficiários de programa habitacional no âmbito do
 Município.
 
@@ -105,10 +125,14 @@ utilizados para os demais programas.
 
 Art. 6° No ato da inscrição, os candidatos deverão apresentar,
 obrigatoriamente:
+
 I - prova de identificação, através de carteira de identidade, de motorista, ou
 certidão de nascimento;
+
 II - prova de rendimentos, inclusive de seus filhos e dependentes;
+
 III - prova de constituição de grupo familiar;
+
 IV - prova de residência no Município; e
 V - prova de não possuir outro imóvel em seu nome ou de membro do grupo
 2
@@ -122,8 +146,11 @@ o qual também deverá ser afixado no quadro de avisos da Prefeitura.
 inscrição, com a apresentação da documentação exigida nesta Lei.
 
 Art. 7° A seleção dos candidatos considerará, obrigatoriamente:
+
 I - renda familiar até 5 (cinco) salários mínimos mensais;
+
 II - número de filhos e dependentes;
+
 III- residência e local de trabalho; e
 IV - não ter sido proprietário de imóvel no Município nos últimos 5 (cinco)
 anos.
@@ -135,11 +162,15 @@ excluindo-se o candidato cuja renda familiar não estiver nos limites fixados ne
 Art. 8° A classificação dos inscritos selecionados dar-se-á segundo o grau de
 necessidade sócio-econômica e a influência dos seguintes critérios, considerando-se para
 todos eles, a situação existente no dia da inscrição:
+
 I - situação de emprego do candidato ou atividade econômica desenvolvida;
 (A)
 II- idade dos filhos ou dependentes (B);
+
 III- renda mensal média familiar (C);
+
 IV - número de filhos ou dependentes (D);
+
 V - tempo de serviço do candidato no atual emprego ou na atividade
 econômica desenvolvida (E); e
 VI – exercício de trabalho no Município (F).
@@ -171,25 +202,31 @@ DA VENDA DE HABITAÇÕES POPULARES OU TERRENOS
 PÚBLICOS
 
 Art. 13. A venda das habitações populares obedecerá as seguintes condições:
+
 I - o valor do imóvel será o da data da assinatura do contrato de compra e
 venda;
+
 II - o uso do imóvel terá a finalidade exclusiva de estabelecer moradia para o
 beneficiário e sua família, não podendo ser alugado, emprestado ou de qualquer forma
 cedido a terceiros;
+
 III - o beneficiário deverá manter o imóvel em perfeitas condições de uso,
 executando às suas custas todos os serviços de reparação e conservação que se fizerem
 necessários, podendo melhorá-lo, tornando-o mais cômodo ou maior, com o prévio
 consentimento do Município, sem, todavia, possuir qualquer direito à retenção de
 benfeitorias ou indenização de qualquer espécie, na hipótese de rescisão antecipada do
 contrato;
+
 IV - todos os tributos e demais encargos que recaiam ou vierem a recair
 sobre o imóvel serão suportados pelo beneficiário, nas épocas próprias, reservando-se o
 Município o direito de, a qualquer tempo, exigir a respectiva comprovação;
+
 V - o Município concorrerá com recursos humanos, técnicos, materiais e de
 mão-de-obra para a construção das habitações, bem como projetando e implantando os
 equipamentos comunitários de cada núcleo; e
 VI - as habitações serão padronizadas, obedecendo ao projeto e memorial
 descritivo definidos pelo Poder Executivo.
+
 §1° Os contratos de compra e venda, celebrados serão formalizados através
 de termo lavrado em livro próprio, com as cláusulas e condições estipuladas nesta Lei; do
 termo serão extraídos traslados para registro do ofício imobiliário, entregando-se uma (01)
@@ -243,22 +280,28 @@ outorga da escritura definitiva de propriedade do imóvel.
 Art. 19. O preço das habitações populares ou terrenos públicos será
 estabelecido pelo Poder Executivo, através da Secretaria Municipal de Habitação,
 determinado pelos seguintes elementos, conforme o caso:
+
 I - localização e dimensão dos lotes; e
 II - valor dos materiais, instalações e mão-de-obra empregados na
 construção, sua localização e dimensões.
 
 Art. 20. Os limites dos financiamentos serão definidos em função da
 capacidade econômico-financeira do beneficiário, da seguinte forma:
+
 I - no momento da contratação, a prestação inicial não poderá ser superior a
 40% (quarenta por cento) da renda familiar;
+
 II - ultrapassado o limite fixado no inciso anterior, durante a amortização, o
 contrato poderá ser renegociado;
+
 III - todos e quaisquer pagamentos efetuados serão levados à conta de
 débitos existentes, na seguinte ordem preferencial:
 
 5
 a) multas;
+
 b) juros vencidos;
+
 c) amortização.
 
 Art. 21. Caso queira, o beneficiário poderá liquidar as prestações no todo ou
@@ -286,6 +329,7 @@ valor do imóvel.
 
 Art. 26. No contrato de concessão de uso, além dos dispositivos supra,
 deverão constar as seguintes cláusulas:
+
 a) obrigação do concessionário de manter e conservar o imóvel em
 permanentes condições de uso; e
 b) rescisão do contrato, sem direito a qualquer indenização pelas construções
@@ -319,6 +363,7 @@ construção de moradia será gratuita.
 
 Art. 32. No contrato de concessão de direito real de uso, além dos
 dispositivos supra, deverão constar as seguintes cláusulas:
+
 a) obrigação do concessionário de manter e conservar o bem em
 permanentes condições de uso; e
 b) rescisão do contrato, sem direito a qualquer indenização pelas construções
@@ -332,6 +377,7 @@ DA PERMISSÃO DE USO DE BEM PÚBLICO
 Art. 33. Fica o Poder Executivo autorizado a permitir o uso de bem imóvel,
 conforme previsto no artigo 1°, §1°, V, desta Lei, para fins de moradia, nas seguintes
 hipóteses:
+
 I - quando rescindido contrato de venda ou de concessão de uso firmado com
 o Município, por inadimplência justificada na mudança da situação social dos interessados;
 e
@@ -362,13 +408,16 @@ HABITACIONAIS
 Art. 36. Fica o Poder Executivo autorizado a doar bem imóvel para
 cooperativas habitacionais, conforme previsto no artigo 1°, § 1°, III, desta Lei, para fins de
 moradia, nas seguintes hipóteses:
+
 I – quando a cooperativa estiver legalmente organizada e registrada na Junta
 Comercial do Estado do rio Grande do Sul e composta de pessoas consideradas de baixa
 renda, de acordo com parâmetros utilizados pelo Município;
+
 II – desde que a cooperativa aceite repassar os terrenos, de acordo com
 diretrizes determinadas pelo Município, no que diz respeito aos prazos de início e término
 das construções que, não respeitados resultará na devolução dos mesmos para a
 cooperativa;
+
 III – quando a cooperativa se proponha a participar com parte da infra-
 estrutura.
 

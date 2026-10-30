@@ -27,15 +27,18 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei :
+
 Art. 1º - Fica o Executivo Municipal autorizado a pagar despesas com
 publicação de extrato, em órgão oficial competente, do Estatuto do Círculo de Pais e
 Mestres da Escola Municipal de 1º Grau Josué Bardini.
 Parágrafo Único - O extrato a ser publicado será cópia fiel do texto anexo
 que faz parte integrante desta Lei, cujas despesas de publicação ora autorizadas não
 poderão exceder a CR$ 15.000,00 ( quinze mil cruzeiros reais).
+
 Art. 2º - As despesas correrão por conta de rubrica orçamentária:
 0502.08411902.026 - Manutenção das Atividades do Ensino Pré - escolar; 3.1.3.2 -
 Outros Serviços e Encargos.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINATE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -36,6 +36,7 @@ mediante Escritura Pública, uma área de terras urbanas de 5.475,39 (cinco mil,
 setenta e cinco metros e trinta e nove decímetros quadrados), do Senhor Lídio Bristot situada na
 Estrada que conduz a Vista Alegre do Prata, que foi atingida em virtude de alargamento do referido
 logradouro.
+
 Parágrafo único - O imóvel acima caracterizado, é parte da matrícula n.º 12.466 do
 CRI de Nova Prata.
 

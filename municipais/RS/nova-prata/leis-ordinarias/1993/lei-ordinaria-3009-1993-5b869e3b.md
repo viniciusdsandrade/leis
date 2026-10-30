@@ -29,6 +29,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo Municipal autorizado a conceder uma
 Subvenção a Associação de Pais e Amigos dos Excepcionais - APAE, e a celebrar Convênio, na
 forma estabelecida pelo Art. 116, da Lei Federal N.º 8.666 de 21 de junho de 1993.
@@ -91,9 +92,11 @@ CLÁUSULA OITAVA - O MUNICÍPIO suspenderá o repasse da Subvenção, se a ASSOC
 deixar de apresentar o PLANO DE TRABALHO E DE APLICAÇÃO ou na hipótese de não ser
 aprovado pelo órgão competente do Executivo.
 Parágrafo Único - Constituirá motivo para a suspensão do repasse da Subvenção pelo Município:
+
 a) quando não houver comprovação da boa e regular aplicação
 da parcela anteriormente recebida, na forma da aplicação aplicável inclusive mediante
 procedimentos e fiscalização local, realizados periodicamente pelo Município;
+
 b) quando verificado desvio de finalidade na aplicação dos
 recursos, práticas atentatórias aos princípios fundamentais de administração públicas, nas
 contratações e demais atos praticados na execução deste Convênio, ou o inadimplemento de

@@ -31,6 +31,7 @@ Art. 1.º - É o Executivo Municipal autorizado a pagar despesas com
 estadias e refeições fornecidas a painelistas que, a seu convite, promovem durante o
 mês de julho/92, palestras sobre Conselhos Municipais de Saúde e Municipalização da
 Saúde.
+
 Parágrafo único - As despesas de que trata o caput deste artigo, não
 poderão ultrapassar o limite de Cr$ 200.000.00 (Duzentos mil cruzeiros)
 

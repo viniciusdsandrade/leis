@@ -37,24 +37,35 @@ no período de 08 à 15 de agosto de 1998.
 Art. 2º - As despesas autorizadas no Artigo 1º, não poderão ultrapassar à
 R$19.750,00 (dezenove mil, setecentos e cinqüenta reais) e serão efetivadas nos
 seguintes eventos e limites:
+
 I – Gastos com contratação de Bailado Gaúcho e Festival Internacional
 do Folclore, até o valor de R$10.000,00;
+
 II – Gastos com filmagem das programações, até o valor de R$200,00;
+
 III – Gastos com fotografias nas programações, até o valor de R$150,00;
+
 IV – Gastos com material de divulgação dos eventos, até o valor de
 R$1.000,00;
+
 V – Gastos com propaganda em rádios e jornais, até o valor de R$500,00;
+
 VI – Gastos com coroas e faixas para Rainha e Princesas da Festa
 Nacional do Basalto, até o valor de R$1.500,00;
+
 VII – Gastos com Baile da escolha e coroação da Rainha e Princesas da
 Festa
 Nacional do Basalto, até o valor de R$2.700,00;
+
 VIII – Gastos com contratação de filmes, a serem exibidos no Cine Lux,
 até o valor de R$500,00;
+
 IX – Gastos com contratação para apresentação de grupos teatrais, até o
 valor de R$1.500,00;
+
 X – Gastos com programação denominada “Tarde da UCS na cidade”,
 até o valor de R$1.500,00;
+
 XI - Gastos com o Som Delta, durante as programações, até o valor de
 R$ 200,00.
 ...

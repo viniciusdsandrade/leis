@@ -26,12 +26,15 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica autorizada a cedência de um funcionário público municipal
 ao Posto do Instituto Nacional de Seguridade Social desta cidade, para desempenho da
 função de Oficial Administrativo.
+
 Art. 2º - A cedência a que se refere o artigo anterior é pelo prazo certo de
 01 (um) ano, podendo ser renovada por igual período, observadas as disponibilidades do
 Município e a necessidade do INSS.
+
 Art. 3º - O funcionário ora cedida desempenhará as mesmas funções de
 Oficial Administrativo no órgão cessionário percebendo a mesma remuneração do cargo
 , cujo pagamento, encargos sociais e promoção ficam de total responsabilidade do órgão
@@ -40,9 +43,11 @@ Parágrafo Único - O funcionário cedido poderá ainda perceber
 remuneração equivalente a horas - extras de trabalho eventualmente prestadas,
 atendendo às necessidades e convocação do INSS, que também serão pagas pelo
 município cedente.
+
 Art. 4º - O INSS fica obrigado, durante o período de cedência com ônus
 para o Município, para os fins do Parágrafo Único do artigo anterior, e outras
 ocorrências relativas à vida funcional, comunicar o Município.
+
 Art. 5º - Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

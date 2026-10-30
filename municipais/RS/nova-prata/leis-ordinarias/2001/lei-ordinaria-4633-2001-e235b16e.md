@@ -34,6 +34,7 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a conceder auxílio
 financeiro de R$200,00 (duzentos reais), ao senhor Valdir Dias, com objetivo de
 auxiliar no pagamento e/ou reembolso de despesas com funeral de sua esposa, sra.
 Ângela Rizzi Dias.
+
 Parágrafo único - O beneficiário, deverá comprovar o pagamento, no
 prazo de 2 (dois) meses, mediante entrega de fotocópia do recibo ou nota fiscal, sob
 pena de devolução dos valores concedidos e, ainda, não concessão de novos auxílios.

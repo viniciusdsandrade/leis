@@ -36,8 +36,10 @@ objetivos:
 OBJETIVO - Aquisição de repetidora de canais ou televisão,
 proporcionando aos telespectadores novas formas de lazer através da comunicação
 televisionada.”
+
 Art. 2º - A alteração do projeto referido no artigo anterior, passa constar
 também no Anexo II do mesmo dispositivo legal.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

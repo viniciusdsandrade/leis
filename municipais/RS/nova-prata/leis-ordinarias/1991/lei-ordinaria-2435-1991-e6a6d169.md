@@ -31,12 +31,14 @@ Art. 1.º - É concedido um auxílio financeiro a Senhora Dulce Maria da
 Silva, residente nesta cidade, no valor de Cr$ 120.000,00 (cento e vinte mil cruzeiros),
 para custeio de despeas relativas a tratamento de saúde, requisitado por médico e
 denominado cintilografia de esforço com talium.
+
 Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 08 - Secretaria da Saúde e Meio Ambiente; 0801 -
 Secretaria da Saúde e Meio Ambiente; 0801.13 - Saúde e Saneamento; 0801.1375 -
 Saúde; 0801.1375428 - Assistência Médica e Sanitária; 0801.13754281.033 -
 Programas de Proteção à Saúde e Planejamento Familiar; 3.2.5.9 - Outras
 Transferências e Encargos.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -25,6 +25,7 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ Fica reajustado a partir de 1º de dezembro de 1992 em 25%
 (vinte e cinco por cento) os vencimentos dos servidores Públicos Municipais e do
 Quadro de Cargos Comissionados e Funções Gratificadas, sobre os valores vigentes em
@@ -64,6 +65,7 @@ Construção boca de lobo em vias pavimentadas por unidade: Cr$
 ... Folha 02
 Parágrafo Único ‑ São também reajustados ao mesmo índice estabelecido
 neste caput, os proventos dos inativos e pensionistas mantidos pelo Município.
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

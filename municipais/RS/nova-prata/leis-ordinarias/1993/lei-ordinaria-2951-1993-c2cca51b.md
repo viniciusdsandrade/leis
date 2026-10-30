@@ -25,6 +25,7 @@ VITOR ANTONIO PLESTCH, PREFEITO DE NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É aberto crédito suplementar na importância de CR$ 490.000,00
 (quatrocentos e noventa mil cruzeiros de reais), na seguinte unidade orçamentária:
 05 - Secretaria de Educação e Cultura.
@@ -41,6 +42,7 @@ Art. 1º - É aberto crédito suplementar na importância de CR$ 490.000,00
 3.2.5.9 - Outras Transferências à Pessoas ..............CR$ 350.000,00.
 - Total ..........................................................CR$490.000,00 (quatrocentos e noventa mil
 cruzeiros reais).
+
 Art. 2º - Servirá de recursos para dar cobertura ao crédito suplementar de
 que trata o artigo anterior, a redução de igual valor em:
 10 - Secretaria de Obras e Saneamento.
@@ -51,6 +53,7 @@ que trata o artigo anterior, a redução de igual valor em:
 4.1.2.0 - Equipamento e Mat. Permanente ............CR$ 490.000,00
 - Total..........................................................CR$490.000,00 (quatrocentos e noventa mil
 cruzeiros de reais).
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

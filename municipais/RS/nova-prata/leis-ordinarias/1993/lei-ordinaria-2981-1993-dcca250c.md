@@ -28,12 +28,15 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei :
+
 Art. 1º - É o Executivo Municipal autorizado a conceder Abono Salarial
 de CR$ 1.976,15 ( um mil, novecentos e setenta e seis cruzeiros reais e quinze
 centavos ), sobre a remuneração fixa dos servidores públicos municipais integrantes de
 cargo em comissão ( CC1) e cargo em extinção de calceteiros, respectivamente.
+
 Art. 2º - O abono ora concedido será pago somente no período
 compreendido no mês de outubro do corrente exercício.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINATE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

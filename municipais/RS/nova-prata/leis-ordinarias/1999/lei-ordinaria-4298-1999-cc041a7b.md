@@ -31,12 +31,14 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívidas, correspondente a Imposto Predial Territorial Urbano, a Senhora
 Clarinda Theresa Lechmann, incidente sobre imóvel de sua propriedade.
+
 Parágrafo único - O valor da remissão é de R$105,66 (cento e cinco
 reais e sessenta e seis centavos), corrigidos até 31 de dezembro de 1999.
 
 Art. 2.º - O fundamento da remissão, é o fato da contribuinte, perceber
 mensalmente a importância correspondente a um salário mínimo de aposentadoria e ter
 muitos gastos com medicamentos.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, requerimento da interessada, comprovante do recebimento da aposentadoria
 e ficha sócio-econômico.

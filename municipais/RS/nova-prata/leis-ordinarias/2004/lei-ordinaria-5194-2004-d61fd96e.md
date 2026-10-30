@@ -35,6 +35,7 @@ pagamento, mediante Escritura Pública, uma área de terras urbanas de 3.210,13 
 mil, duzentos e dez metros e treze decímetros quadrados), de propriedade da Sra. Gecy
 Maria Catellan, localizado na Rua Arcângelo Pagnoncelli, Bairro São Peregrino, o qual
 foi usado pelo Município para alargamento do referido logradouro.
+
 Parágrafo único - O imóvel acima caracterizado, é parte da Transcrição
 nº 20.717 do CRI de Nova Prata.
 

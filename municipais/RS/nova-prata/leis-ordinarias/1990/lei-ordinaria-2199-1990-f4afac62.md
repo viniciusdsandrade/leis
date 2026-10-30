@@ -60,6 +60,7 @@ Art. 2.º - O material referido no artigo anterior será utilizado para
 instalação da Segunda rede de telefone comunitário no Distrito do Rio Branco, neste
 Município, a ser mantida pela Donatária que se responsabilizará pela substituição dos
 mesmos enquanto prestar os serviços de comunicação naquele local.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

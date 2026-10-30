@@ -30,6 +30,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a conceder uma
 Subvenção ao Pelotaão da Brigada Militar de Nova Prata, e a celebrar Convênio, na forma
 estabelecida pelo Art. 116, da Lei Federal N.º 8.666, de 21 de junho de 1993.
@@ -94,13 +95,16 @@ CLÁUSULA OITAVA - O MUNICÍPIO suspenderá o repasse da
 Subvenção, se à BRIGADA MILITAR deixar de apresentar o PLANO DE
 TRABALHO E DE APLICAÇÃO ou na hipótese de não ser aprovado pelo órgão
 competente do Executivo.
+
 a) quando não houver comprovação da boa e regular aplicação da parcela
 anteriormente recebida, na foram da legislação aplicável inclusive mediante
 procedimentos e fiscalização local, realizados, periodicamente pelo Município;
+
 b) quando verificados desvios de finalidade na aplicação dos recursos,
 práticas atentatórias aos princípios fundamentais de administração pública, nas
 contratações e demais atos praticados na execução deste Convênio, ou o
 inadimplemento de qualquer obrigação estabelecida por cláusulas conveniais básicas;
+
 c) quando a entidade convenente deixar de adotar as medidas saneadoras
 apontadas pelo Município repassador da Subvenção.
 CLÁUSULA NONA - Será feito o repasse financeiro em 02 (duas)

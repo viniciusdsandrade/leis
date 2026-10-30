@@ -33,6 +33,7 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a conceder auxílio
 financeiro de R$300,00 (trezentos reais), ao senhor Moacir Roque Da Silva, com
 objetivo de auxiliar no pagamento e/ou reembolso de despesas com funeral de sua filha
 Aline.
+
 Parágrafo único - O beneficiário, deverá comprovar o pagamento, no
 prazo de 2 (dois) meses, mediante entrega de fotocópia do recibo ou nota fiscal, sob
 pena de devolução dos valores concedidos e, ainda, não concessão de novos auxílios.

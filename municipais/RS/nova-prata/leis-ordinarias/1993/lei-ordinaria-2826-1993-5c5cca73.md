@@ -31,10 +31,12 @@ Art. 1º ‑ Fica o Executivo Municipal autorizado a acordar com o
 contribuinte Gráfica Manfredi Ltda, o débito do mesmo junto a Fazenda Municipal,
 referente a ISSQN dos exercícios entre 1986 e 1990 e, Taxa de Licença para
 Localização do exercício de 1983.
+
 Art. 2º ‑ 0 valor a pagar não poderá ser inferior a Cr$ 13.562.251,90
 (treze milhões, quinhentos e sessenta e dois mil, duzentos e cinqüenta e um cruzeiros e
 noventa centavos), no prazo do mês em curso, sendo abatidos os valores da diferença
 verificada entre o valor atualmente lançado.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -35,6 +35,7 @@ com serviços de máquinas, prestados através da Secretaria de Obras e Saneamen
 inscritos em dívida ativa no ano de 1.992, cujo valor não ultrapasse a R$ 150,00 (Cento
 e cinqüenta reais), conforme relação que fica fazendo parte integrante da presente Lei
 Municipal.
+
 Parágrafo único - A remissão de que trata o “caput” deste Artigo, tem
 como fundamento o fato, de que não há nenhum comprovante junto a Secretaria de
 Obras e Saneamento, para realizar a devida cobrança judicial dos débitos.

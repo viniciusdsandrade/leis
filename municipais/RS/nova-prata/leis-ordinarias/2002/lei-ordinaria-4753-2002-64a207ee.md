@@ -43,6 +43,7 @@ Art. 2.º - Fica o poder executivo municipal, autorizado a repassar subvenção 
 Clube de Diretores Lojistas de Nova Prata, no valor de R$990,00 (novecentos e noventa reais),
 os quais serão repassados no prazo de 90 (noventa) dias, dentro das disponibilidades financeiras
 do erário municipal.
+
 Parágrafo único - O repasse a ser realizado, é a participação do Município de
 Nova Prata, na consecução dos objetivos constantes no artigo primeiro da presente Lei
 Municipal.

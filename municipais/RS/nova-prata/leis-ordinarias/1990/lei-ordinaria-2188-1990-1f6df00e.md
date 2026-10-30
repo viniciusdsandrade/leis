@@ -30,16 +30,21 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Executivo Municipal a conceder
 gratuitamente a terceiros, o uso de espaços internos do muro que atualmente circunda o
 Estádio Municipal de Esportes e as paredes do Ginásio Municipal de Esportes.
+
 Parágrafo único - A concessão se fará mediante o uso de imóveis , muros
 ou paredes, consoante a sua destinação originária que é a locação de espaços para
 publicidade.
+
 Art. 2.º - A concessão de imóveis dependerá de licitação por
 concorrência pública prevista em Lei.
+
 Art. 3.º - Ficam incluídos na concessão ora autorizada, os demais espaços
 que venham a ser construídos nos imóveis citados, tais como muros, paredes divisórias
 e cercas, cuja conveniência assim o permitir.
+
 Art. 4.º - A concessão findará em 31.12.92, iniciando na data do efetivo
 contrato, que dependerá de autorização legislativa.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

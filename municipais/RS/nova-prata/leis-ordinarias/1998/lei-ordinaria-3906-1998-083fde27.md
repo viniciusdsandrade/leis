@@ -38,18 +38,22 @@ I - Projeto 1002 - Auxilio refeições e vale transporte, inclui-se a rubrica
 orçamentaria 3132 00 - Outros Serviços e Encargos, suplementando-se por redução
 orçamentaria no valor de R$ 27.032,80, que será reduzido do referido projeto, da
 rubrica orçamentaria 3231 00 - Subvenções Sociais.
+
 II - Projeto 1015 - Manutenção da educação em creches , inclui-se a
 rubrica orçamentaria 3120 01 - Material e Generos Alimentícios, suplementando-se por
 redução orçamentaria no valor de R$ 500,00 , que será reduzido do referido projeto, da
 rubrica orçamentaria 3111 00 - Pessoal Civil.
+
 III - Atividade 2022 - Apoio financeiro a estudantes do ensino superior,
 inclui-se a rubrica orçamentaria 3231 00 - Subvenções Sociais, suplementando-se por
 redução orçamentaria no valor de R$ 20.000,00, que será reduzido do referido projeto,
 da rubrica orçamentaria 3132 00 - Outros Serviços e Encargos.
+
 IV - Atividade 2018 - Manutenção e desenvolvimento do ensino de 1º
 grau , inclui-se a rubrica orçamentaria 325100 - inativos, suplementando-se por redução
 orçamentaria no valor de R$ 83.000,00 que será reduzido da atividade 2066 - encargos
 gerais do município, rubrica orçamentaria 3251 00 - Inativos.
+
 VI - Atividade 2018 - Manutenção e desenvolvimento do ensino de 1º
 grau , inclui-se a rubrica orçamentaria 3253 00 - salário família, suplementando-se por
 redução orçamentaria no valor de R$ 600,00, que será reduzido da atividade 2066 -

@@ -29,13 +29,18 @@ MARIO MINOZZO, NA CONDIÇÃO DE PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara Municipal de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1o. - Fica alterada a redação do Artigo 9 o. da Lei Municipal N.º 1976, de 10
 de março de 1.989, que passa a vigorar com a seguinte redação:
 
 “Art. 9o. - A alíquota do imposto é:
+
 I- nas transmissões compreendidas pelo sistema financeiro de habitação:
+
 a) sobre o valor efetivamente financiado, 0,5% (meio por cento);
+
 b) sobre o valor restante, 2% (dois por cento).
+
 II - nas demais transmissões, 2% (dois por cento).
 Parágrafo primeiro: A adjudicação de imóvel pelo credor hipotecário ou a sua
 arrematação por terceiro, estão sujeitos a alíquota de 2%, mesmo que o bem tenha sido
@@ -52,6 +57,7 @@ Art. 3o. - Fica incluso no Artigo 26 da Lei Municipal 2006/89, o Inciso IX e X
 com a seguinte redação:
 
 “IX - Promessa de dação em pagamento;
+
 X - Promessa de permuta.”
 
 Art. 4o. - Revogadas as disposições em contrário, esta Lei Municipal entrará em

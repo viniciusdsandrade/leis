@@ -28,14 +28,17 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ É o Executivo Municipal autorizado a conceder abono salarial
 de Cr$ 872.984,38 (oitocentos e setenta e dois mil, novecentos e oitenta e quatro
 cruzeiros e trinta e oito centavos) e Cr$ 1.636.746,54 (um milhão, seiscentos e trinta e
 seis mil, setecentos e quarenta e seis cruzeiros e cinqüenta e quatro centavos), sobre a
 remuneração fixa dos servidores públicos municipais integrantes de cargo em comissão
 (CCI) e cargo em extinção de calceteiros, respectivamente.
+
 Art. 2º ‑ 0 abono ora concedido será pago somente no período
 compreendido do mês de maio do corrente exercício.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 

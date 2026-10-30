@@ -46,6 +46,7 @@ Parágrafo Único - Os Funcionários cedidos poderão ainda perceber
 remuneração equivalente a horas-extras de trabalho eventualmente prestadas, atendendo
 às necessidades e convocação da ABEN, que também serão pagas pelo Município
 cedente.
+
 Art. 4.º - A ABEN fica obrigado a, durante o período de cedência com
 ônus para o Município, para os fins do Parágrafo Único do artigo anterior, comunicar
 todas as ocorrências relativas à vida funcional.

@@ -26,10 +26,13 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Os anexos II, V, VII e VIII, da Lei Municipal N.º 1296/77, que
 foram alterados pela Lei Municipal N.º 2081/89 passam a vigorar conforme tabela e
 valores em anexo.
+
 Art. 2º - O Poder Executivo poderá regulamentar a presente Lei.
+
 Art. 3º - Esta Lei entrará em vigor na data de sua publicação e seus
 efeitos a partir de 1º de janeiro de 1997, revogadas as disposições em contrário.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -50,6 +53,7 @@ d) Ambulantes - Para atividades eventuais ou transitórias por dia... 5
 e) Diversões públicas, em caráter esporádico, por vez ou local....... 25
 
 2 - EXECUÇÃO DE OBRAS OU SERVIÇOS DE ENGENHARIA:
+
 a) Aprovação ou revalidação de projetos de construção, reconstru-
 ção, reforma ou aumento de prédios de madeira ou misto:
 1 - com área de até 100,00 m2 .................................................. 0,25
@@ -63,16 +67,19 @@ d) Loteamento e arruamento, por m2..............................................
 (para cálculo da taxa não serão consideradas as áreas que se des-
 tinarem às ruas e logradouros públicos, assim como as doadas,
 sem ônus para o Município).
+
 e) Desmembramento ou fracionamento, por quadra ou fração........... 10
 f) Fixação de alinhamento em terrenos.............................................. 15
 
 3 - OCUPAÇÃO DE ÁREAS EM VIAS E LOGRADOUROS PÚBLICOS:
+
 a) Tendas, bancas e similares, por unidade e por mês........................ 8
 b) Circos e parques de diversões, por mês......................................... 50
 NOTA: Os valores das taxas de licença compreendem vistorias e Alvará
 pelo licenciamento inicial.
 
 4 - TAXA DE FISCALIZAÇÃO E/OU VISTORIA DE ESTABELECIMENTO:
+
 a) Pessoa Jurídica.............................................................................. 45
 b) Pessoa Física................................................................................. 20
 ...
@@ -80,6 +87,7 @@ b) Pessoa Física...............................................................
 ... Folha 02
 5 - TAXA DE SERVIÇOS DIVERSOS:
 5.1 - EXPEDIENTE:
+
 a) Certidões e atestados, por unidade................................................... 8
 b) Certidões de Habite-se, por unidade................................................ 15
 c) Autenticação de documentos, por unidade....................................... 0,20
@@ -93,6 +101,7 @@ Por emplacamento................................................................
 
 6 - TAXAS DE SERVIÇOS URBANOS:
 6.1 - COLETA DE LIXO:
+
 a) Residencial, por ano......................................................................... 20
 b) Comercial, por ano........................................................................... 30
 c) Industrial, por ano............................................................................ 35
@@ -102,6 +111,7 @@ ser efetuada pela Prefeitura por motivos de asseio, estética urbana e
 de detritos ou animais mortos, cobrados do proprietário ou do inte-
 ressado, por carga............................................................................ 20
 6.2 - CONSERTOS DE PAVIMENTAÇÃO:
+
 a) Levantamento de pavimentação e/ou abertura de leito da via pública
 destinado a interesse particular:
 a/1 - em ruas pavimentadas com camada asfáltica................................. 25

@@ -34,6 +34,7 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o acréscimo da importância de R$900,00
 (novecentos reais), na participação do Município de Nova Prata, na instalação de
 transformador em via pública: Travessa do Oleiro - Distrito Industrial.
+
 Parágrafo único - A participação do Município foi autorizada pela Lei
 Municipal nº 4559/2001.
 

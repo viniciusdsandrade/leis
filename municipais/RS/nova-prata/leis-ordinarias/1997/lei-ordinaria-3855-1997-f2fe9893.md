@@ -37,12 +37,17 @@ Controle Social do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental
 de Valorização do Magistério.
 
 Art. 2.º - O Conselho será constituído por 4 (quatro) membros, sendo:
+
 a) um representante da Secretaria Municipal de Educação e Cultura;
+
 b) um representante dos professores e dos diretores das escolas públicas
 do ensino fundamental;
+
 c) um representante de pais de alunos;
+
 d) um representante dos servidores das escolas públicas de ensino
 fundamental;
+
 e) um representante do Conselho Municipal de Educação.
 Parágrafo Primeiro - Os membros do Conselho serão indicados por seus
 pares ao Prefeito Municipal que os designará para exercer suas funções.
@@ -52,9 +57,12 @@ Parágrafo Terceiro - As funções dos membros do Conselho não serão
 remuneradas.
 
 Art. 3.º - Compete ao Conselho:
+
 I - acompanhar e controlar a repartição, transferência e aplicação dos
 recursos do Fundo;
+
 II - supervisionar a realização do Censo Educacional Anual;
+
 III - examinar os registros contábeis e demonstrativos gerenciais mensais
 e atualizados relativos aos recursos repassados ou retidos à conta do Fundo.
 ...

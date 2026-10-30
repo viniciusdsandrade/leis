@@ -26,6 +26,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É concedido um auxílio financeiro a Lourdes Gabana
 Migliorini, no valor de CR$ 40.000,00 (quarenta mil cruzeiros reais), para pagamento
 e/ou reembolso de despesas hospitalares e funeral de seu marido Aurélio Migliorini.

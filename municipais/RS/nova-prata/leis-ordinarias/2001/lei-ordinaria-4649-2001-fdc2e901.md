@@ -34,6 +34,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a adquirir e doar,
 250 m (duzentos e cinqüenta metros) de fio VPP número 8 e uma bomba centrífuga,
 para uma rede de água na Capela São Roque, com gastos de no máximo R$2.200,00
 (dois mil e duzentos reais).
+
 Parágrafo único - A doação será realizada aos senhores Reni e Inês
 Guadagnin, beneficiando duas famílias.
 

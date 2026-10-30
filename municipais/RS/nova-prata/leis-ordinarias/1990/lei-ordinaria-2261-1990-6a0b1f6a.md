@@ -41,23 +41,35 @@ Art. 3.º - As ações a serem praticadas, com a participação do
 beneficiário, constituirão da prestação de serviços, fornecimento de materiais e
 assistência técnica , dentro das possibilidades do Município, conforme especificação
 abaixo:
+
 I - Redução de 50% no preço de hora-máquina para:
+
 a) construção de açudes;
+
 b) construção de sistemas para irrigação;
+
 c) drenagem;
+
 d) destaca;
+
 e) subsolagem;
+
 f) construção de represas;
+
 g) demais especificações de punho agrícola.
 
 II - Gratuidade nos serviços de máquinas para:
+
 a) construção de aviários;
+
 b) construção de pocilgas.
 
 III - empréstimo de máquinas agrícolas para qualquer empreendimento
 da área, conforme tabela de preços públicos.
+
 IV - fornecimento de insumos, corretivos, fertilizantes, sementes e mudas
 no sistema troca-troca.
+
 Art. 4º. - Poderão ser inclusos também, no aludido programa, projetos de
 iniciativa de órgãos estaduais e entidades particulares, conveniados com o Município e
 autorizados pelo Poder Legislativo.

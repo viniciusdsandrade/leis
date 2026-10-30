@@ -30,8 +30,10 @@ Art. 1º ‑ É cancelado o pagamento de Taxa de Licença para Localização,
 devido ao Município de Nova Prata pelo contribuinte Sorveteria Sorlan Ltda‑ME,
 referente ao exercício de 1991, inclusive os acréscimos que porventura existirem sobre
 o mesmo e cancelada também a inscrição em dívida ativa.
+
 Art. 2º ‑ É cancelado também o respectivo Alvará de funcionamento do
 referido contribuinte, por motivo de paralisação das atividades.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

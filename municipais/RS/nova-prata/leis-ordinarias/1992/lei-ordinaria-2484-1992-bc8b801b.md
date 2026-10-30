@@ -31,11 +31,14 @@ promulgo a seguinte Lei:
 Art. 1.º - Os cargos de motorista e operador de máquinas do Plano de
 Classificação de Cargos do Município, adotada consoante Lei Municipal nº 1988 de
 27.04.89, passam a valer com a seguinte codificação:
+
 a) Motorista - 3.2.08.3;
+
 b) Operador de Máquinas - 2.2.49.4.
 Parágrafo Único - As demais referências aos cargos de motorista e
 operador de máquinas, constante da Lei supracitada, passam a vigir em conformidade
 com a reavaliação dos padrões de vencimento referido no caput deste artigo..
+
 Art. 2.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação e surtirá seus efeitos a partir do 1º dia do mês seguinte à
 sua promulgação.

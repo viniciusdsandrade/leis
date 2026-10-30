@@ -34,6 +34,7 @@ dotação especial, na seguinte unidade orçamentária:
 3.2.5.4 ‑ Apoio Financeiro a Estud. 2º Grau .......................................Cr$ 30.000.000,00
 ‑ total .......................................................................................Cr$ 30.000.000,00
 (trinta milhões de cruzeiros).
+
 Art. 2º ‑ Servirá de recursos para dar cobertura ao crédito especial acima
 citado, a redução de igual valor na seguinte unidade orçamentária:
 0501 ‑ Secretaria de Educação e Cultura
@@ -41,6 +42,7 @@ citado, a redução de igual valor na seguinte unidade orçamentária:
 4.1.1.0 ‑ Obras e Instalações ............................................................Cr$ 30.000.000,00
 - total .....................................................................................Cr$ 30.000.000,00
 (trinta milhões de cruzeiros).
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

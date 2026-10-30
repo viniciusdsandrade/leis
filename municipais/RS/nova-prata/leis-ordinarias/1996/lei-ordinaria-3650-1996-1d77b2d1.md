@@ -28,10 +28,12 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder remissão de
 débitos do Contribuinte Aquilino Loro e Outro, quanto ao IPTU - Imposto Predial e
 Territorial Urbano, referente os exercícios de 1991 à 1996, no valor total de R$ 680,92
 (seiscentos e oitenta reais e noventa e dois centavos).
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

@@ -33,12 +33,14 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a adquirir 01
 (uma) bomba submersa trifásica de 9 HP, para uso na obra de rede de abastecimento de
 água.
+
 Parágrafo único - Os familiares beneficiados, se responsabilizarão em
 definitivo pela manutenção da bomba submersa.
 
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a cedê-lo em
 caráter definitivo para a Comunidade de Gramadinho, onde servirá par o fim descrito no
 artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do
 Município, realizará verificação da efetiva utilização do material na obra, de
 conformidade com os objetivos declinados no artigo primeiro.

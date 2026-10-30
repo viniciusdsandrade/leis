@@ -25,6 +25,7 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ Fica reajustado a partir de 1º de março de 1993 em 40%
 (quarenta por cento) os vencimentos dos servidores públicos municipais e do quadro de
 cargos comissionados e funções gratificadas, sobre os valores vigentes em 28 de
@@ -65,6 +66,7 @@ Construção boca de lobo em vias pavimentadas por unidade: 254.316,08
 
 Parágrafo único ‑ São também reajustados ao mesmo índice estabelecido
 neste caput, os proventos dos inativos e pensionistas mantidos pelo Município.
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

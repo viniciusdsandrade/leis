@@ -34,6 +34,7 @@ R$330,00 (trezentos e trinta reais), para o deslocamento de atletas portadores d
 física, de Caxias do Sul até Nova Prata, para participarem no dia 29 de agosto de 2003 das
 comemorações da Semana do Deficiente Físico de Nova Prata, organizado pela Associação
 Comunitária de Deficientes Físicos - ASCODEF.
+
 Parágrafo único - O pagamento ocorrerá diretamente à empresa de transportes
 contratada, mediante emissão de Nota Fiscal.
 

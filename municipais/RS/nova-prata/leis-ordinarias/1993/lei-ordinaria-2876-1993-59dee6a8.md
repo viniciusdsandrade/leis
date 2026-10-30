@@ -68,6 +68,7 @@ Construção boca de lobo em vias pavimentadas por unidade: 516.579,54
 
 Parágrafo único ‑ São também reajustados ao mesmo índice estabelecido
 neste caput, os proventos dos inativos e pensionistas mantidos pelo Município.
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

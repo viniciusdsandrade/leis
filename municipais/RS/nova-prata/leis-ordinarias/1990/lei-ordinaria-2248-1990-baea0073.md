@@ -32,6 +32,7 @@ Juventude Rural - COPRAJUR, até o valor de Cr$ 250.000,00 (duzentos e cinquenta
 mil cruzeiro), para pagamento de despesas relativas à sua participação nas
 programações do I Jogos Rurais Estadual a realizarem-se no Município, no período de
 07 a 09 de dezembro de 1990.
+
 Art. 2.º - A subvenção ora concedida será aplicada nas despesas à
 confecção de impressos, propagandas, distribuição de troféus, material esportivo e
 demais despesas afins, constantes da programação oficial do I Jogos Rurais.

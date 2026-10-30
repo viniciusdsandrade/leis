@@ -45,6 +45,7 @@ sujeição a estudo de viabilidade urbanística.
 
 Art. 3.º - Aos requisitos de que trata o artigo anterior, serão agregados os
 seguintes tópicos:
+
 I – quanto a função social; a) um ponto para cada três empregos gerados,
 sendo que, para industria deverá haver um mínimo de 06 (seis) empregos e para
 serviços, (03) empregos gerados.
@@ -52,12 +53,17 @@ serviços, (03) empregos gerados.
 II – quanto as características:
 
 a) que utilizam matéria-prima local, 50 pontos;
+
 b) que utilizam matéria-prima de outras áreas, 30 pontos;
+
 c) sem similar, 50 pontos
 d) com similar, 30 pontos.
+
 III – quanto ao capital integralizado
 a) de 200 a 500 salários mínimos, 20 pontos;
+
 b) 500 a 1500 salários mínimos, 50 pontos;
+
 c) acima de 1.500 salários mínimos, 100 pontos.
 ...
 ... Folha 02

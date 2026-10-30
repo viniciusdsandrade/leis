@@ -62,8 +62,11 @@ DA POLÍTICA DE ATENDIMENTO
 
 Art. 8.º - A Polícia de Atendimento dos Direitos da Criança e do
 Adolescente será garantida através dos seguintes órgãos:
+
 I - Conselho Municipal dos Direitos da Criança e do Adolescente;
+
 II - Fundo Municipal dos Direitos da Criança e do Adolescente;
+
 III - Conselho Tutelar dos Direitos da Criança e do Adolescente.
 
 DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO
@@ -74,17 +77,22 @@ Adolescente como órgão deliberativo e controlador das ações em todos os nív
 
 Art. 10 - Compete ao Conselho Municipal dos Direitos da Criança e do
 Adolescente:
+
 I - Formular a Política Municipal dos Direitos da Criança e do
 Adolescente, fixando prioridades para a consecução das ações, a captação e aplicação de
 recursos;
+
 II - zelar pela execução dessa política, atendidas as peculiaridades das
 crianças e dos adolescentes, de suas famílias, de seus grupos de vizinhança, e dos
 bairros ou da zona urbana ou rural em que se lozalizem;
+
 III - formular as prioridades a serem incluídas no planejamento do
 Município, em tudo o que se refira ou possa afetar as condições de vida das crianças e
 dos adolescentes;
+
 IV - estabelecer critérios, formas e meios de fiscalização de tudo quanto
 se execute no Município, que possa afetar as suas deliberações;
+
 V - registrar as entidades não-governamentais de atendimento dos
 direitos da criança e do adolescente que mantenham programa de:
 a. orientação e apoio sócio-familair;
@@ -94,23 +102,29 @@ d. abrigo;
 e. liberdade assistida;
 f. semiliberdade;
 g. internação.
+
 VI - registrar os programas a que se refere o inciso anterior das entidades
 governamentais que operem no Município, fazendo cumprir as normas previstas no
 Estatuto da Criança e do Adolescente (Lei Federal 8.069);
+
 VII - regulamentar, organizar, coordenar, bem como adotar todas as
 providências que julgar cabíveis para a eleição e a posse dos membros do Conselho
 Tutelar do Município;
+
 VIII - dar posse aos membros do Conselho Tutelar, conceder licença aos
 mesmos nos termos do respectivo regulamento e declarar dar licença aos mesmos nos
 termos do respectivo regulamento e declarar vago o posto por perda do mandato, nas
 hipóteses previstas nesta Lei.
+
 Art. 11 - O Conselho Municipal dos Direitos da Criança e do
 Adolescente é composto de 25 (vinte e cinco) membros, sendo:
+
 I - 10 (dez) membros representando o Município, indicados pelos
 seguintes órgãos:
 a. Secretaria Municipal de Habitação e Bem Estar Social;
 b. Secretaria Municipal de Educação e Cultura;
 c. Secretaria Municipal de Saúde e Meio Ambiente.
+
 II - 15 (quinze) ,membros indicados pelas seguintes organizações
 representantivas da participação popular:
 a. Associação Beneficente e Educacional de Nova Prata;
@@ -141,14 +155,19 @@ Adolescente, como captador e aplicador de recursos a serem utilizados segundo as
 deliberações do Conselho dos Direitos, ao qual é órgão vinculado.
 
 Art. 14 - Compete ao Fundo Municipal:
+
 I - Registrar os recursos orçamentários próprios do Município ou a ele
 transferidos em benefício das crianças e adolescentes pelo Estado ou pela União;
+
 II - registrar os recursos captados pelo Município através de convênios,
 ou por doações ao Fundo;
+
 III - manter o controle escritural das aplicações financeiras levadas a
 efeito no Município, nos termos das resoluções do Conselho dos Direitos;
+
 IV - liberar os recursos a serem aplicados em benefício de crianças e
 adolescentes, nos termos das resoluções do Conselho dos Direitos;
+
 V - administrar os recursos específicos para os programas de atendimento
 dos direitos da criança e do adolescente, segundo as resoluções do Conselho dos
 Direitos.
@@ -172,8 +191,11 @@ Criança e do Adolescente.
 
 Art. 19 - São requisitos para candidatar-se a exercer as funções de
 membro do Conselho Tutelar:
+
 I - reconhecida idoneidade moral;
+
 II - idade superior a 21 anos;
+
 III - residir no Município
 IV - reconhecida e comprovada experiência de, no mínimo dois anos, no
 trato com crianças e adolescentes.
@@ -195,6 +217,7 @@ caso de crime comum até julgamento definitivo.
 
 Art. 23 - A função de membro do Conselho Tutelar é considerada de
 interesse público relevante e não será remunerada.
+
 Art. 24 - Perderá o mandato o Conselheiro que for condenado por
 sentença irrecorrível, pela prática de crime ou contravenção.
 Parágrafo Único - Verificada a hipótese prevista nesse artigo, o Conselho

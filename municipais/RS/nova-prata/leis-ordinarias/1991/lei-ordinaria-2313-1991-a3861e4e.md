@@ -32,17 +32,21 @@ Art. 1.º - A letra g do artigo 1º passa viger com a seguinte redação:
 g “ despesas pequenas e de pronto atendimento, desde que, por
 comprovante, não ultrapassem 04 (quatro) vezes a Unidade de Referência vigente no
 Município (URM), exceto para a aquisição de material permanente”.
+
 Art. 2º - A alíena a do art. 3º passa a viger com a seguinte redação:
 a – “ a soma a adiantar, em algarismos e por extenso, que não poderá
 exceder a 50 (cinquenta) Unidade de Referência do Município (URM)”.
+
 Art.3º - A alínea a do art. 6º passa a viger com a seguinte redação:
 a – “as importâncias, relativas a adiantamentos, destinadas a pequenas
 despesas urgentes e inadiáveis, desde que não ultrapasse a 12 (doze) vezes o valor da
 Unidade de Referência vigente no Município (URM)”.
+
 Art.4º - O artigo 13 passa a viger com a seguinte redação:
 “ art. 13 – As despesas até 10% (dez) por cento da Unidade de Referência
 vigente no Município (URM) para as quais não seja possível obter recibos, serão
 individualizadas em relação especial, onde conste sua especificação”.
+
 Art 5º - Revogadas as disposições em contrário, esta Lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

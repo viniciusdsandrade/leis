@@ -31,28 +31,38 @@ promulgo a seguinte Lei:
 Art. 1.º - A elaboração da proposta orçamentária para o exercício de
 1992 abrangerá os Poderes Legislativo e Executivo, bem como a execução orçamentária
 obedecerá as diretrizes aqui estabelecidas.
+
 Art. 2º - A elaboração da proposta orçamentária do Município para o
 exercício de 1992 obedecerá as seguintes diretrizes gerais, sem prejuízo das normas
 financeiras estabelecidas pela Legislação Federal.
+
 I - O montante das despesas não deverá ser superior ao das receitas;
+
 II - As unidades orçamentárias projetarão suas despesas correntes até o
 limite fixado para o exercício em curso;
+
 III - Nas estimativas das receitas considerar-se-ão a tendência do presente
 exercício e os efeitos das modificações na Legislação Tributária os quais serão objeto de
 Lei a ser encaminhado a Câmara Municipal até o final do exercício de 1991;
+
 IV - Os projetos em fase de execução terão prioridade sobre os novos
 projetos, não podendo ser paralisados em autorização Legislativa;
+
 V - O pagamento do serviço da dívida de pessoal e de encargos terá
 prioridade sobre as ações de expansão;
+
 VI - O Município aplicará 25% de sua receita resultante de impostos,
 conforme dispõe o artigo 212 da Constituição Federal, prioritariamente na manutenção
 do ensino;
+
 VII - Constará da proposta orçamentária o produto das operações de
 crédito autorizadas pelo Legislativo, com destinação específica e vinculadas ao projeto,
 conforme item III do artigo 167 da Constituição Federal.
+
 Art. 3º - O Poder Executivo tendo em vista a capacidade financeira do
 Município e o plano plurianual, observará a seleção das prioridades dentre as
 relacionadas no anexo I integrante desta Lei.
+
 Parágrafo único - Poderão ser incluídas programas não elencados, desde
 que financiados com recursos de outras esferas do Governo.
 ...
@@ -63,12 +73,15 @@ do Governo, para desenvolvimento de programas prioritários nas áreas de educa�
 cultura, saúde e assistência social, sem ônus para o Município, constituindo-se de
 projetos específicos e vigorando o prazo somente após o efetivo recebimento dos
 recursos.
+
 Art. 5º - As despesas com pessoal da administração ficam limitadas a
 65% da receita corrente (atendendo ao disposto no artigo 38 das Disposições
 Constitucionais Transitórias).
+
 I - entendem-se como receita correntes para efeitos de limites do presente
 artigo o somatório das receitas correntes da administração, excluídas as receitas
 oriundas de convênio;
+
 II - O limite estabelecido para as despesas de pessoal de que trata este
 artigo, abrange os gastos da administração nas seguintes despesas:
 - salários;
@@ -76,20 +89,25 @@ artigo, abrange os gastos da administração nas seguintes despesas:
 - proventos de aposentadoria e pensões;
 - remuneração do Prefeito e do Vice-Prefeito;
 - remuneração dos Vereadores.
+
 III - A concessão de qualquer vantagem ou o aumento de remuneração
 além dos índices inflacionários, a criação de cargos ou alteração de estrutura de carreira,
 bem como a admissão de pessoal, a qualquer título, pela Administração, só poderão ser
 feitas se houver prévia dotação orçamentária suficiente para atender as projeções de
 despesas até o final do exercício, obedecendo o limite fixado no “caput”.
+
 Art. 6º - Fica autorizado a concessão de ajuda financeira às entidades sem
 fins lucrativos, reconhecidas de utilidade pública nas áreas de saúde, educação,
 assistência social, comunitárias, esportivas e culturais estabelecidas no Município, cuja
 distribuição de auxílios será submetida à apreciação do Poder Legislativo
 tempestivamente.
+
 Art. 7º - O orçamento anual obedecerá a estrutura organizacional
 aprovada por decreto, compreendido todas as unidades da Administração.
+
 Art. 8º - As operações de crédito por antecipação da receita, contratadas
 pelo Município, serão totalmente liquidadas até 30 dias após o encerramento.
+
 Art. 9º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
@@ -271,10 +289,12 @@ tratamento da saúde.
 08-02 - Instituição do Fundo Municipal da Saúde
 OBJETIVO: Captar e aplicar recursos a serem utilizados nas ações
 referentes à municipalização da saúde, segundo as disposições do Conselho, como:
+
 a) continuidade dos programas de assistência médica, odontológica,
 hospitalar, laboratorial e outros exames requisitados por médicos: oferecer assistência
 na área de saúde à população carente e servidores municipais, bem como seus
 dependentes;
+
 b) alimentação e nutrição: aquisição de equipamentos e materiais para
 produção de alimentos e fornecimento à população carente;
 ...
@@ -283,6 +303,7 @@ c) programas de proteção à saúde e planejamento familiar; instituição de
 programas de ação junto às comunidades para proteção à saúde física e mental,
 educando para o planejamento familiar, bem como fornecendo assistência necessária
 como orientação técnica, auxílios médico-hospitalares e farmacêuticos;
+
 d) aquisição de móveis e equipamentos: aquisição de 01 unidade móvel, 01
 ambulância e veículo para agilizar nas campanhas de prevenção às doenças e transporte
 de doentes, dotar as unidades de saúde com móveis e equipamentos médicos.

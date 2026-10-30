@@ -37,6 +37,7 @@ motoniveladora, em dezoito parcelas, a serem pagas no exercício financeiro de 1
 Art. 2o. - Fica determinada a inclusão na proposta de orçamento de 1999, a ser
 remetida à Câmara Municipal de Vereadores, do pagamento das parcelas previstas para o ano de
 1999.
+
 Art. 3.º - A aquisição da motoniveladora será incluída na rubrica: 10 - Secretaria
 de Obras e Saneamento; 01 - Unidades Subordinadas; 16880211.045 - Aquisição de Veículos,
 Máquinas e Implementos Rodoviários; 4.1.2.0 - Equipamento e Material Permanente (247).

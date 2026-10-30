@@ -36,6 +36,7 @@ locação e funcionamento.
 
 Art. 2o. - O benefício de anistia concedida no artigo anterior, não se
 aplica para os débitos ajuizados até a presente data.
+
 Parágrafo único - Os débitos ajuizados, ficam vinculados aos benefícios
 concedidos por Lei própria.
 

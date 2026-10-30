@@ -42,6 +42,7 @@ Art. 3º- O servidor que for cedido, deverá exercer suas atividades,
 cumprindo o horário inerente ao seu cargo, diretamente no INSS, percebendo a
 remuneração compatível do cargo, cujo pagamento, encargos sociais e promoção, ficam
 todos a cargo do Município.
+
 Parágrafo único - Eventualmente, havendo necessidade de realização de
 horas extras, em face de serviços na Autarquia Federal, a responsável pelo referido
 órgão, deverá comunicar imediatamente o Município, que providenciará na inclusão das

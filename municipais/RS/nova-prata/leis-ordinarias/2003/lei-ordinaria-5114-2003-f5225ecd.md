@@ -512,6 +512,7 @@ fornecido pelo tomador do serviço).
 40.01- Obras de arte sob encomenda.”
 
 Art. 23 – O imposto não incide sobre:
+
 I – as exportações de serviços para o exterior do país;
 
 II - a prestação de serviços em relação de emprego, dos trabalhadores
@@ -561,6 +562,7 @@ I desta Lei.
 
 §2º-Não se incluem na base de cálculo do Imposto Sobre Serviços de
 Qualquer Natureza:
+
 I – O valor dos materiais fornecidos pelo prestador dos serviços
 previstos nos itens 7.02 e 7.05 da lista de serviços.
 ...
@@ -613,6 +615,7 @@ congêneres, no caso dos serviços descritos no subitem 7.16 da lista anexa;
 ... folha 14
 XI – da execução dos serviços de escoramento, contenção de encostas e
 congêneres, no caso dos serviços descritos no subitem 7.17 da lista anexa;
+
 XII – da limpeza e dragagem, no caso dos serviços descritos no subitem
 7.18 da lista anexa;
 

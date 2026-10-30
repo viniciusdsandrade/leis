@@ -36,6 +36,7 @@ pagamento, mediante Escritura Pública, uma área de terras urbanas de 180,00m²
 e oitenta metros quadrados), de propriedade de Carlos Roberto Lenzi e outros,
 localizado na Rua Dosolina Rigo, o qual foi usado pelo Município para construção de
 um poço sumidouro.
+
 Parágrafo único - O imóvel acima caracterizado, é parte da matrícula n.º
 7896 do Cartório do Registro de Imóveis da Comarca de Nova Prata.
 

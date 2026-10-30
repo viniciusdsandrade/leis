@@ -34,20 +34,25 @@ Art. 1.º - Fica o Poder Executivo autorizado a adquirir mediante Escritura
 Pública, uma área com 1.659,23m2 (um mil, seiscentos e cinqüenta e nove vírgula vinte
 e três metros quadrados) de propriedade do Sr. Pedrinho Lovison, nesta cidade,
 localizada no Bairro São Cristóvão, frente à estrada Buarque de Macedo.
+
 Art. 2.º - Para dação em pagamento da transação ora realizada, o Poder
 Executivo obriga-se a quitar o débito do mesmo proprietário, relativo à IPTU,
 contribuição de melhoria e encargos, junto à tesouraria Municipal, no valor de Cr$
 22.362.982,65 (vinte e dois milhões, trezentos e sessenta e dois mil, novecentos e
 oitenta e dois cruzeiros e sessenta e cinco centavos).
+
 Art. 3.º - A área ora adquirida, destina-se a complementação da Estrada
 Buarque de Macedo no Bairro São Cristóvão, nesta cidade, avaliada em Cr$
 22.128.000,00 (vinte e dois milhões, cento e vinte e oito mil cruzeiros), conforme termo
 de avaliação que faz parte integrante desta Lei.
+
 Parágrafo único - A diferença verificada entre o débito do contribuinte e
 a avaliação da área adquirida por dação, será paga em moeda corrente nacional.
+
 Art. 4º - As despesas decorrentes desta Lei, correrão por conta de rubrica
 orçamentária: 1001.03070212.041 - Manutenção e Desenvolvimento das Atividades da
 Secretaria; 3.1.3.2 - Outros Serviços e Encargos.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

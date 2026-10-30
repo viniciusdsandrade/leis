@@ -41,8 +41,10 @@ Parágrafo Segundo - A programação de novos projetos não poderá se dar
 a custa de anulação de dotações destinadas a investimentos em andamento.
 Parágrafo Terceiro - O pagamento dos serviços da dívida de pessoal e de
 encargos terão prioridades sobre as ações de expansão.
+
 Art. 3º - Os gastos com educação devem atender a nova Lei de Diretrizes
 e bases da educação, bem como o disposto no art. 212 da Constituição Federal.
+
 Art. 4º - Os projetos e atividades constantes da Lei Orçamentária deverão
 estar compatíveis com o Plano Plurianual e com esta Lei.
 
@@ -52,21 +54,28 @@ demonstradas segundo a legislação em vigor.
 
 Art. 6º - Na estimativa das receitas serão considerados os efeitos das
 alterações na Legislação Tributária, especificamente sobre:
+
 I - A Atualização do Códigos tributário, em especial na legislação que
 rege o Imposto Predial e Territorial Urbano, bem como toda a matéria tributária
 municipal;
+
 II - Adequação da Legislação Tributária Municipal as eventuais
 modificações da Legislação Federal;
+
 III - Revisão dos índices já existentes que são indexados de tributos,
 tarifas, multas e criação de novos índices;
+
 IV - Revisão das isenções e incentivos fiscais.
 ...
 ... folha 02
 Art. 7º - Nos Projetos de Lei Orçamentária constarão as seguintes
 autorizações:
+
 I - Para abertura de Créditos Suplementares;
+
 II - Para a realização de operações de crédito com destinação específica e
 vinculada ao projeto, nos termos da Legislação em vigor;
+
 III - Para realização em qualquer mês do exercício, de operações de
 crédito por antecipação da receita, oferecendo as garantias usuais necessárias nos termos
 da Legislação em vigor.
@@ -76,7 +85,9 @@ utilidade pública, sem fins lucrativos, serão concedidos através de planos de
 subvenções, de acordo com a Lei Municipal.
 
 Art. 9º - Fica o Poder Executivo autorizado:
+
 I - Prover os cargos e funções vagos nos termos da Legislação vigente;
+
 II - Conceder aumento de remuneração ou outras vantagens específica.
 
 Art. 10 - A criação de cargos, a alteração de estrutura de carreira,
@@ -96,12 +107,16 @@ que trata este artigo, abrange os gastos nas seguintes despesas.
 
 Art. 12 - São considerados objetivos da Administração Municipal, o
 desenvolvimento de programas visando a:
+
 I - Proporcionar o desenvolvimento pessoal dos servidores através de
 programas informativos, educativos e culturais;
+
 II - Melhorar as condições de trabalho, especialmente no que concerne a
 saúde, alimentação e segurança no trabalho;
+
 III - Capacitar os servidores para melhor desempenho de funções
 específicas;
+
 IV - Racionalização dos recursos materiais e humanos visando diminuir
 os custos e aumentar a produtividade e eficiência no atendimento dos serviços
 municipais.

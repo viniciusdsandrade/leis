@@ -44,18 +44,23 @@ Municipal.
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a realizar despesas
 com a realização de parte dos eventos programados no projeto PRÓ-ESPORTE 1999,
 conforme termos e valores abaixo relacionados:
+
 I - Nível 1 - Envolve aproximadamente 200 desportistas acima de 35 anos - II
 Campeonato Aberto de Veteranos de Futsal Taça Romano Cechini, autorizado o valor
 de até R$1.800,00 (um mil e oitocentos reais);
+
 II - Nível 3 - Envolve aproximadamente 150 atletas e desportistas acima de 17 anos - IV
 Campeonato Integração Regional de Voleibol Feminino, autorizado o valor de até
 R$1.800,00 (um mil e oitocentos reais);
+
 III - Nível 4 - Envolve aproximadamente 100 desportistas acima de 33 anos - II
 Campeonato Municipal de Veteranos de Futebol de Campo, autorizado o valor de até
 R$ 2.200,00 (dois mil e duzentos reais);
+
 IV - Nível 6 - Envolve aproximadamente 1.1000 atletas masculinos e femininos de toda
 a região dos 05 anos aos 18 anos - VIII Campeonato de Integração das Categorias de
 Base de Futsal e Voleibol, autorizado o valor de até R$6.000,00 (seis mil reais);
+
 V - Nível 10 - Envolve aproximadamente 200 desportistas praticantes de atletismo em
 várias categorias - Corrida Rústica Estadual do Dia do Município, autorizado o valor de
 até R$ 500,00 (quinhentos reais).

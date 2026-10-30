@@ -42,10 +42,13 @@ diárias serão com seus valores multiplicados por três (03).
 Art. 2.º - As diárias serão pagas de acordo com os percentuais fixados na
 seguinte tabela, calculados sobre o valor do menor padrão de vencimento do Quadro de
 Servidores:
+
 I - Ao Prefeito Municipal e ao Vice-Prefeito Municipal, o valor correspondente
 a 60% do menor padrão de vencimento;
+
 II - Aos Secretários Municipais e ao Chefe de Gabinete, o valor correspondente
 a 40% do menor padrão de vencimento;
+
 III - Aos Servidores Públicos Municipais, o valor correspondente a 30% do
 menor padrão de vencimento.
 

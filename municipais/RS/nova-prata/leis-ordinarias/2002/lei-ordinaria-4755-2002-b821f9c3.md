@@ -37,6 +37,7 @@ Vargas, 724 em Nova Prata, inscrita no CNPJ nº 87502498/0001-79, referente a
 despesas havidas com o uso das dependências da entidade, por ocasião da realização do
 “Lançamento de Produtos”, em conjunto com o Sebrae e a Atuaserra e com o Baile da
 escolha da Rainha Regional da Terceira Idade.
+
 Parágrafo único - As despesas cujo ressarcimento refere-se o caput deste
 artigo, são provenientes de energia elétrica, água, limpeza, pintura, mão-de-obra e
 outros pequenos reparos decorrentes do uso do imóvel.

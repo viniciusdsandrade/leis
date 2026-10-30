@@ -26,19 +26,24 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica autorizada a cedência uma Servidora Pública Municipal ao
 Instituto de Previdência do Estado do Rio Grande do Sul - IPERGS, para desempenho
 de suas funções de Auxiliar de Administração.
+
 Art. 2º - A cedência a que se refere o artigo anterior será pelo prazo certo
 de um (01) ano, podendo ser renovado por igual período, observadas as disponibilidades
 do Município e a necessidade do IPERGS.
+
 Art. 3º - A Servidora ora cedida desempenhará as funções de Auxiliar de
 Administração, percebendo a mesma remuneração do cargo, cujo pagamento, encargos
 sociais e promoção ficam de total responsabilidade do órgão cedente.
+
 Art. 4º - O IPERGS fica obrigado durante o período de cedência com
 ônus para o Município, fornecer regularmente o atestado de efetividade da Servidora
 cedida bem como informar ao Executivo eventuais ocorrências à vida funcional da
 mesma.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

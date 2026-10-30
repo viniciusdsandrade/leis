@@ -33,12 +33,17 @@ sanciono e promulgo a seguinte Lei:
 Art. 1.º - Fica o Poder Executivo Municipal, autorizado a proceder a
 alienação de ações pertencentes ao Município de Nova Prata, junto as seguintes
 empresas:
+
 I - Petrobrás S/A, quantidade de 102.186 ações;
+
 II - Rede Ferroviária Federal S/A, quantidade de 112.049 ações;
+
 III - Companhia Estadual de Energia Elétrica(CEEE), quantidade de
 5.541 ações;
+
 IV - Banco do Estado do Rio Grande do Sul S/A, quantidade de 521
 ações.
+
 Parágrafo único - As quantidades de ações, declinadas nos Incisos do
 presente Artigo, são as Contabilizadas junto ao Município, ficando também autorizado o
 Poder Executivo Municipal, a alienar eventuais número de ações, que existam a maior

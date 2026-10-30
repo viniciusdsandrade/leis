@@ -32,8 +32,10 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1o. - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de dívida a contribuintes do Município, abaixo especificados:
+
 I - Cesarina dos Santos, dívida proveniente de Contribuição de Melhoria,
 no valor de R$ 525,91 (quinhentos e vinte e cinco reais e noventa e um centavos);
+
 II - Mari Lourdes Ciotta Carraro, dívida proveniente de Alvará e Imposto
 Sobre Serviços de Qualquer Natureza, no valor de R$ 165,05 (cento e sessenta e cinco
 reais e cinco centavos).
@@ -43,6 +45,7 @@ base a total falta de condições financeiras de pagar o referido tributo e, no 
 Inciso II do mesmo Artigo, a remissão é concedida, em virtude de que a contribuinte é
 servidora do Município, desde 07 de maio de 1.991, portanto não exercendo as
 atividades que motivaram a expedição de Alvará e lançamento do ISSQN.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, fotocópias dos procedimentos internos instaurados, para fundamentar a
 remissão de que trata o Artigo primeiro.

@@ -27,15 +27,19 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É concedido um abono de natal a ser pago no mês de dezembro
 de 1992 aos pensionistas e estagiários do Município de Nova Prata, que não percebem
 13.º Salário.
 Parágrafo Único - O abono aludido no caput deste artigo, corresponderá
 à remuneração vigente no mês de dezembro de 1992, pago pelos cofres municipais.
+
 Art. 2º - O abono deverá ser proporcional ao período compreendido entre
 o benefício concedido e a efetiva prestação de serviços, no caso de estagiários.
+
 Art. 3º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária própria.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação tendo e seus efeitos far-se-ão sentir a data retroativa de
 03 de dezembro de 1992.

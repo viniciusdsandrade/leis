@@ -33,11 +33,14 @@ promulgo a seguinte Lei:
 Art. 1.º - É o Executivo Municipal autorizado a firmar contrato de
 Fornecimento com a Petrobrás Distribuidoras S/A para fins de fornecimento de
 produtos asfálticos.
+
 Art. 2º - O contrato que autorizado será pelo prazo de 12 (doze) meses
 para fornecimento de até 400 (quatrocentas) toneladas de produtos asfálticos e
 obedecerá as cláusulas constantes da minuta anexa que faz parte integrante desta Lei.
+
 Art. 3º - As despesas decorrentes desta Lei, correrão por conta de
 rubrica orçamentária própria.
+
 Art. 4º - Revogadas a disposições em contrário, está lei entrará em
 vigor na data de sua publicação.
 

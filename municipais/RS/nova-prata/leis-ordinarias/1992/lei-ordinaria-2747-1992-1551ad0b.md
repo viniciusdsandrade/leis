@@ -27,12 +27,15 @@ JOÃO CARLOS SCHMITT, PREFEITO NUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ Fica o Executivo Municipal autorizado a doar à Empresa
 Polidora de Basalto Calçada Ltda., uma área de terras com 1.495,00m2 (Um mil,
 quatrocentos e noventa e cinco metros quadrados), para instalação de Indústria.
+
 Art. 2º ‑ Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área doada, obedecendo aos dispositivos da Legislação própria da área
 industrial.
+
 Art. 3º ‑ Revogadas as disposições em contrário, em especial a Lei
 Municipal n.º 1809 de 19.03.87, esta Lei entrará em vigor na data de sua publicação.
 

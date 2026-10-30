@@ -80,9 +80,11 @@ Art. 1º ‑ É aberto um crédito suplementar na importância de Cr$
 03070212.053.31320000 - Outros Ser. e Encargos.........................Cr$ 620.000.000,00
 TOTAL...........................................................................................Cr$ 15.000.000.000,00
 (quinze bilhões de cruzeiros).
+
 Art. 2º ‑ Servirá de recursos para dar cobertura ao crédito suplementar de
 que trata o artigo anterior, a arrecadação a maior de recursos previstos no orçamento do
 exercício de 1993, no valor de Cr$ 15.000.000.000,00 (quinze bilhões de cruzeiros).
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

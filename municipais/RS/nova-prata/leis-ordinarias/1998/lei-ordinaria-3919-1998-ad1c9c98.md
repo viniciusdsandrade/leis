@@ -32,7 +32,9 @@ promulgo a seguinte Lei:
 Art. 1.º - Fica autorizado o Poder Executivo Municipal, a realizar projeto básico
 e análise de água, em poço artesiano, localizado na Comunidade da Linha Senador Otaviano,
 neste Município, nos seguintes limites de valores:
+
 I - Projeto básico, até o valor de R$620,00 (seiscentos e vinte reais);
+
 II - Análise da água, até o valor de R$470,00 (quatrocentos e setenta reais).
 
 Art. 2.º - As despesas decorrentes da execução da presente Lei Municipal,

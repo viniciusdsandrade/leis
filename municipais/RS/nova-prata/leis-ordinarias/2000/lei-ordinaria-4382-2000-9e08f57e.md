@@ -38,6 +38,7 @@ Art. 2.º - Fica o Executivo Municipal autorizado a realizar o referido
 loteamento, em parceria com a iniciativa privada, através da cessão de lotes ao vencedor
 de processo de licitação a ser instaurado, de acordo com o disposto na Lei Federal nº
 8.666/93.
+
 Parágrafo único - VETADO
 
 Art. 3º - A área destinada ao Loteamento integra a zona urbana do

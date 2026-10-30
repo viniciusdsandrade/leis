@@ -28,13 +28,16 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º ‑ Fica o Executivo Municipal autorizado a doar à Empresa
 Fibrassinos Indústria e Comércio Ltda, uma área de terras com 2. 100m2 (dois mil e
 cem metros quadrados), onde será construída sua sede, no Distrito Industrial do
 Município.
+
 Art. 2º ‑ Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área doada, obedecendo aos dispositivos da Legislação própria da área
 industrial.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

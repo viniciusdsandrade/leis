@@ -39,6 +39,7 @@ advocatícios, incidentes no processo nº 8958, que tramita no Juízo de Nova Pr
 Art. 2.º - O fundamento da remissão, é o fato da contribuinte referida no
 Artigo anterior, ter sido vítima de derrame e estar dependente de cuidados hospitalares,
 bem como não ter condições de caminhar e nem se alimentar sozinha.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, fotocópia da Certidão do Senhor Oficial de Justiça, no processo nº 8958 e da
 ficha sócio-econômico da família.

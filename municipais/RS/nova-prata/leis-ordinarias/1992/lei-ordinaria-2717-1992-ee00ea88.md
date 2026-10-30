@@ -27,17 +27,21 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica autorizado o Executivo Municipal a firmar Termo Aditivo
 de Ratificação de Contrato celebrado entre o Município de Nova Prata e a Secretaria de
 Educação do RS em 30.07.82, com o fim de estabelecer normas de participação
 conjunta para execução e desenvolvimento do programa estadual de alimentação escolar
 (PEAE).
+
 Art. 2º - Fica igualmente autorizado o Executivo Municipal, em
 cumprimento de suas obrigações por força contratual, a transferir à Secretaria Estadual,
 o correspondente a 20% (vinte por cento) do valor do contrato, ou seja, a quantia de Cr$
 392.000,00 (trezentos e noventa e dois mil cruzeiros), através do Núcleo Regional.
+
 Art. 3º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária própria.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

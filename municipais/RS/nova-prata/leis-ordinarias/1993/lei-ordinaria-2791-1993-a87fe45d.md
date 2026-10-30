@@ -32,6 +32,7 @@ que passa a ser o seguinte:
 "Art. 4º ‑ As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária: 05 ‑ Secretaria de Educação e Cultura; 0501.08421882.011 ‑ Transporte
 Escolar; 3.1.3.2 ‑ Outros Serviços e Encargos.”
+
 Art. 2º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 
@@ -56,9 +57,11 @@ Art. 1º ‑ Fica autorizado o Poder Executivo Municipal a dispender dos
 cofres municipais Cr$ 3.500.000,00 (três milhões e quinhentos mil cruzeiros), para
 pagamento de despesas do 1º Encontro Regional de Radialistas de Música Italiana do
 RS, que se realizará em nossa cidade no dia 14 de maio/93.
+
 Art. 2º ‑ A despesa correrá por conta da rubrica orçamentária:
 0501.08482472.023 ‑ Eventos Culturais e Turísticos; 3.1.3.2 ‑ Outros Serviços e
 Encargos, da Secretaria da Educação e Cultura.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

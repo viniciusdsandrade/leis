@@ -36,6 +36,7 @@ Aditivo ao Convênio com o Conselho Comunitário Pró Segurança Pública de Nov
 Prata - CONSEPRO, autorizado pela Lei Municipal nº 4952/2003, com o objetivo de
 possibilitar o pagamento de alugueis de policiais militares, mantendo o efetivo da
 Brigada Militar no Município.
+
 Parágrafo único - O valor do repasse será de R$5.400,00 (cinco mil e
 quatrocentos reais) até o final do ano de 2003.
 

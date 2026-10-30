@@ -33,6 +33,7 @@ a transporte, hospedagem e alimentação de docentes e fornecimento de material 
 expediente, decorrente da realização do Curso de Administração em Saúde Coletiva,
 promovido pela Secretaria Municipal da Saúde e Meio Ambiente em conjunto com a
 Universidade de Caxias do Sul, de dezembro de 1991 a julho de 1992.
+
 Parágrafo único - As despesas autorizadas no caput deste artigo, não
 poderão ultrapassar a Cr$ 600.000,00 (seiscentos mil cruzeiros).
 

@@ -76,6 +76,7 @@ em prédio de alvenaria, construído no Viveiro Florestal de Nova Prata, ambos d
 propriedade do MUNICÍPIO, para uso da bolsa de sementes da Secretaria de
 Agricultura e Abastecimento - Departamento de Recursos Naturais Renováveis.
 CLÁUSULA SEGUNDA - Constituem obrigações das partes:
+
 a) da Secretaria de Agricultura e Abastecimento - Departamento de Recursos
 Renováveis:
 1 - Efetuar o pagamento de todas as despesas do caminhão, tais como ;
@@ -93,6 +94,7 @@ perfeito estado de funcionamento.
 5 - Fazer constar em todos os impressos relativos à Bolsa de Sementes do
 Estado do Rio Grande do Sul, nome da Prefeitura Municipal como entidade
 colaboradora.
+
 b) Do Município:
 1- Ceder a Secretaria de Agricultura e Abastecimento - Departamento de
 recursos Naturais Renováveis, para utilização em conjunto com a Prefeitura Municipal

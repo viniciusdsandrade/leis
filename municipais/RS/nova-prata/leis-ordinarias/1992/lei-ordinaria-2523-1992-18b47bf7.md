@@ -40,9 +40,11 @@ Art. 3.º - Os funcionários cedidos desempenharão as mesmas funções de
 operários e professores no órgão cessionário percebendo a mesma remuneração do
 cargo, cujo pagamento, encargos sociais e promoção ficam de total responsabilidade do
 órgão cedente.
+
 Art. 4.º - A Aben fica obrigada, durante o período de cedência com ônus
 para o Município, para os fins do artigo anterior, e outras ocorrências relativas à vida
 funcional.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

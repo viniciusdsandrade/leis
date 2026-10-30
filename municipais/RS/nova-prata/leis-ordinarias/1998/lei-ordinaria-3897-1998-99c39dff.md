@@ -38,12 +38,15 @@ redação:
 e civil, as pessoas físicas ou jurídicas que infringirem as disposições
 desta Lei e seu regulamento, no tocante a poda, corte, mutilação ou
 descaracterização da vegetação, ficam sujeitas as seguintes penalidades:
+
 I - Multa no valor de 150 UFIR por árvore podada, abatida, mutilada ou
 descaracterizada, com diâmetro a altura do peito (DAP) inferior a 0,10 m
 (10 centímetros);
+
 II - Multa no valor de 300 UFIR por árvore podada, abatida, mutilada ou
 descaracterizada, com diâmetro a altura do peito (DAP) entre 0,10 m e
 0,30 m (10 a 30 centímetros);
+
 III - Multa no valor de 600 UFIR por árvore podada, abatida, mutilada ou
 descaracterizada, com diâmetro a altura do peito (DAP) superior a 0,30 m
 (30 centímetros).

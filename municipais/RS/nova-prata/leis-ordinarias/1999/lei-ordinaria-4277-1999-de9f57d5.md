@@ -34,13 +34,17 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a conceder
 remissão de parte do principal e da correção monetária, incidentes sobre 75 m² (setenta
 e cinco metros quadrados) e a totalidade de juros e da multa, incidente sobre dívidas,
 correspondente a imposto predial e territorial urbano ao Senhor João Batista Battistel.
+
 Parágrafo único - O valor da remissão é de:
+
 a) R$164,16 (cento e sessenta e quatro reais e dezesseis centavos), refere-
 se ao principal incidente sobre 75 m²;
+
 b) R$46,34 (quarenta e seis reais e trinta e quatro centavos), refere-se a
 correção monetária incidente sobre 75 m²,
 c) R$126,21 (cento e vinte e seis reais e vinte e um centavos), referentes
 a totalidade de juros;
+
 d) R$593,56 (quinhentos e noventa e três reais e cinqüenta e seis
 centavos), referente a totalidade de multas, todos corrigidos até 15 de outubro de 1999,
 conforme relatório que fica fazendo parte integrante da presente Lei Municipal.

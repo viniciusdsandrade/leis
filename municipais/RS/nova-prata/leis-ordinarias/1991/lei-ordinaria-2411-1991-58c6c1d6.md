@@ -30,6 +30,7 @@ promulgo a seguinte Lei:
 Art. 1.º - É o Executivo Municipal autorizado a doar combustível à
 Comitiva dos Pequenos Agricultores que realizam o movimento dos sem-terra do
 Estado, em sua passagem pelo Município.
+
 Parágrafo único - A quantidade de combustível a ser doado não poderá
 ultrapassar a 300 (trezentos) litros de óleo diesel e 100 (cem) litros de gasolina.
 

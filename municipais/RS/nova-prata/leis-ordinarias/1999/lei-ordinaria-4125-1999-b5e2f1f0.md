@@ -42,6 +42,7 @@ no prazo de 60 dias, com a finalidade de auxiliar no custeio de despesas, com
 premiação, refeições e hospedagem dos representantes da Federação Rio Grandense de
 Bochas e outras despesas inerentes a organização e realização dos eventos de que trata o
 Artigo primeiro.
+
 Art. 3.º - Fica fazendo parte integrante da presente Lei Municipal,
 fotocópia do Convênio e do requerimento firmado pela Liga Cultural de Bochas.
 

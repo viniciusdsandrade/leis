@@ -37,11 +37,17 @@ provimento efetivo ficará sujeito a estágio probatório por período de 36 (tr
 meses, durante o qual a sua aptidão, capacidade e desempenho serão objeto de avaliação
 por Comissão Especial designada para esse fim, com vista à aquisição da estabilidade,
 observados os seguintes quesitos:
+
 I – assiduidade;
+
 II – pontualidade;
+
 III – disciplina;
+
 IV – eficiência;
+
 V – responsabilidade;
+
 VI – relacionamento.
 Par. 1.º - É condição para a aquisição da estabilidade e avaliação do
 desempenho no estágio probatório por Comissão Especial, nos termos deste artigo.

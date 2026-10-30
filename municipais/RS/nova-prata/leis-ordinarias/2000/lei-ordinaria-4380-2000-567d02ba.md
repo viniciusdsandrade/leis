@@ -37,6 +37,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a realizar doação
 ao Município de Protásio Alves, em virtude da emancipação do antigo Distrito
 Municipal, em cumprimento a Lei Estadual n.º 8580/88, que criou o referido Município,
 do bem imóvel matriculado sob nº 13.008 do Cartório de Imóveis de Nova Prata.
+
 Parágrafo único - A matrícula de que trata o presente Artigo, fica fazendo
 parte integrante da Lei Municipal.
 

@@ -40,6 +40,7 @@ prata, não devendo ultrapassar o valor máximo de R$ 1.150,00.
 Art. 2.º - Fica igualmente autorizado, o Poder Executivo a ceder os tubos
 e conexões em caráter definitivo para a Comunidade de Retiro, onde servirá para o fim
 descrito no Artigo anterior.
+
 Parágrafo único - A Secretaria de Agricultura e Abastecimento do
 Município, realizará fiscalização nas obras.
 

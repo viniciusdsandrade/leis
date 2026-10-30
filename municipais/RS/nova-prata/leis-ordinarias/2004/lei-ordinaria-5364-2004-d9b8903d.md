@@ -42,6 +42,7 @@ Art. 3.º - A servidora a ser cedida, desempenhará as mesmas funções de
 Auxiliar de Administração no órgão cessionário, percebendo a mesma remuneração a
 que faz jus, cujo pagamento, encargos sociais e promoções de acordo com o RJU, ficam
 de total responsabilidade do órgão cedente.
+
 Parágrafo único – A Servidora ora cedida poderá ainda perceber
 remuneração equivalente as horas-extras de trabalho eventualmente prestadas,
 atendendo às necessidades e convocação do IPRAM, que também serão pagas pelo

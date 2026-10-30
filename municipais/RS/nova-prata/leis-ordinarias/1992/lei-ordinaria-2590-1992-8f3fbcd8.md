@@ -35,6 +35,7 @@ cidade, mediante cláusulas e condições a serem inseridas no instrumento parti
 contrato, pelo prazo de 06 (seis) meses.
 Parágrafo Único - A área alugada será cedida aos seguintes órgãos, com
 as respectivas metragens e localização:
+
 a) Farmácia do SESI
 1) sala de frente térreo - 57 m2
 2) sala interna térreo - 37m2
@@ -50,9 +51,11 @@ quatro cruzeiros e sessenta e quatro centavos) por metro quadrado das salas situ
 2º piso interno, reajustado semestralmente, pelo índice oficial dos aluguéis comerciais.
 Parágrafo Único - O Município pagará ainda as despesas de condomínio,
 água e energia elétrica, decorrentes do aluguel contratado.
+
 Art. 3º - As despesas decorrentes desta Lei correrão por conta de rubrica
 orçamentária: 11 - Encargos Gerais do Município; 1101.03070212.013 - Encargos
 comuns do Município; 3.1.3.2 - Outros Serviços e Encargos.
+
 Art. 4º - Revogadas as disposições em contrário, esta Lei entra em vigor
 na data de sua publicação, retroagindo seus efeitos para 1º de julho de 1992.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

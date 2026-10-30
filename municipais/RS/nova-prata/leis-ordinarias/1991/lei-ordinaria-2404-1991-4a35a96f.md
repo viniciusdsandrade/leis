@@ -26,6 +26,7 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereador aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1º - É alterado o artigo 1º da Lei Municipal nº 2390 de 02 de setembro
 de 1991, que Autoriza o Recebimento de Lotes em doação do Loteamento de Irmãos Minozzo, que
 passa a ter a seguinte redação:
@@ -33,6 +34,7 @@ passa a ter a seguinte redação:
 e 03 da Quadra C do Loteamento particular de Irmãos Minozzo, nesta cidade, com 377,00m²,
 390,00m² e 371,82m² respectivamente, registrados nas matrículas nºs 10.322, 10.323 e 10.324 no
 Registro de Imóveis desta Comarca”.
+
 Art. 2º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, 25

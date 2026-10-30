@@ -34,8 +34,10 @@ Art. 1.o - Fica o Poder Executivo Municipal, autorizado a realizar divisão
 de um imóvel de sua propriedade, que encontra-se em comunhão com o Sr. Jacir Luiz
 Dall’Agnol e esposa, de conformidade com a matrícula número 10.208 do CRI de Nova
 Prata.
+
 § 1º - A divisão será de acordo com os memoriais e levantamento
 planimétricos que ficam fazendo parte integrante da presente Lei Municipal.
+
 § 2º - Caberá ao Município a área de 45.000 m2 e a Jacir Luiz Dall’Agnol
 a área de 6.486,00 m2.
 

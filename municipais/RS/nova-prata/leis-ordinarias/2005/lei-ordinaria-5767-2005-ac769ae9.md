@@ -196,13 +196,18 @@ manter contatos técnicos com entidades ou órgãos, governamentais ou não, vis
 obtenção de divisas para o Município; executar outras tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho de 22 horas semanais;
+
 b) Outras: sujeito à viagens para fora do Município, Estado ou País e
 prestação de serviços à noite, domingos e feriados.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Idade: mínima de 18 (dezoito) anos;
+
 b) Escolaridade: Curso Superior de Direito, completo;
+
 c) Habilitação profissional: habilitação legal para exercício da profissão
 de advogado, registro na OAB.
 

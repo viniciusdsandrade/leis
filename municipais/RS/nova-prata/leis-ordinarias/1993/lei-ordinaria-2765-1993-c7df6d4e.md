@@ -34,6 +34,7 @@ orçamentária:
 4.1.2.0 ‑ Equipamentos e Material Permanente...........................Cr$ 1.500.000.000,00
 ‑ total ............................................................................Cr$ 1.500.000.000,00
 (um bilhão e quinhentos milhões de cruzeiros).
+
 Art. 2º ‑ Servirá de recursos para dar cobertura ao crédito suplementar de
 que trata o artigo anterior igual redução nas seguintes unidades orçamentárias:
 1001 ‑ Secretaria de Obras e Saneamento
@@ -46,6 +47,7 @@ Rodoviários
 9.9.9.9 ‑ Reserva de Contingência ...................................................Cr$ 550.000.000,00
 - total ....................................................................................Cr$1.500.000.000,00
 (um bilhão e quinhentos milhões de cruzeiros).
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -38,18 +38,24 @@ Habitacional através do Poder Público - PRÓ-MORADIA.
 
 Art. 2º - A Operação referida no Artigo 1º obedecerá as seguintes
 características:
+
 a) valor pretendido R$ 50.797,36;
+
 b) destinação dos recursos: execução de projetos do Programa Pró-
 Moradia;
+
 c) encargos: taxa de juros de 7% ao ano e mais 1% de taxa de
 administração;
+
 d) atualização do saldo devedor: de acordo com a variação do índice de
 atualização das contas vinculadas dos trabalhadores do Fundo de Garantia Por Tempo
 de Serviço - FGTS;
+
 e) Condições de Pagamento:
 Do Principal: em prestações mensais e consecutivas, com carência de
 02 meses após a conclusão da obra pelo prazo de 15 (quinze) anos.
 Dos Juros: mensalmente, inclusive no período de carência.
+
 f) Garantia: vinculação de parcelas do Fundo de Participação dos
 Municípios - FPM.
 

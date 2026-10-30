@@ -40,10 +40,12 @@ Art. 3.º - A funcionária ora cedida desempenhará as mesmas funções de
 operária no órgão cessionário, percebendo a mesma remuneração do cargo, cujo
 pagamento, encargos sociais e promoção ficam de total responsabilidade do órgão
 cedente.
+
 Art. 4.º - A APAE - Associação dos Pais e Amigos dos Excepcionais de
 Nova Prata fica obrigado, durante o período de cedência com ônus para o Município, a
 comunicar oficialmente, todos os meses, a frequência ao serviço , para os fins do
 parágrafo único do artigo anterior, e outras ocorrências relativas à vida funcional.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

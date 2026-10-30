@@ -61,6 +61,7 @@ Suplementar por Superávit no Orçamento vigente, nos termos da Lei Federal N.º
 4.6.90.91.000000000 – Sentenças Judiciais (1340).....................................R$ 140.000,00
 Total ............................................................................................................R$ 895.000,00
 (Oitocentos e Noventa e Cinco Mil Reais).
+
 Art. 2.º - Servirá de base para cobrir os recursos para o crédito
 suplementar acima, superávit financeiro verificado em balanço de final de ano, de igual
 valor.

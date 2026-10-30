@@ -31,8 +31,10 @@ promulgo a seguinte Lei:
 Art. 1º ‑ Fica o Executivo Municipal autorizado a acordar com o
 contribuinte Raimundo Osvaldo Vidi, o débito do mesmo junto a Fazenda Municipal,
 referente a Contribuição de Melhoria.
+
 Art. 2º ‑ O valor a pagar não poderá ser inferior a Cr$ 3.000.000,00 (três
 milhões de cruzeiros), pagos até a data de 30 de junho de 1993.
+
 Art. 3º ‑ Revogadas as disposições em contrário, esta lei entrará em vigor
 na data de sua publicação.
 

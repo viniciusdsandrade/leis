@@ -27,6 +27,7 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1.º - É criado o cargo de Odontólogo no Plano de Classificação de
 cargos de Instituto de Previdência e Assistência Municipal, adotado pela
 Lei Municipal n.º 2170 de 23 de maio de 1990, de caráter efetivo e sob
@@ -38,13 +39,17 @@ Principal 01 Odontólogo 1.3.03.7__
 Parágrafo Segundo - O cargo ora citado integra serviço Saúde e
 Assistência e não integra nenhuma das séries contidas no Plano de Classificação de
 Cargos.
+
 Art. 2.º - As especificações do cargo criado por esta Lei constam no
 anexo I que dela faz parte integrante.
+
 Art. 3º - São ratificadas as demais disposições contidas no atual Plano de
 Classificação de cargos.
+
 Art. 4º - O plano de pagamento para o cargo ora criado, subordina-se
 totalmente à legislação municipal existente e ao disposto na Lei Municipal n.º 2170 de
 23.05.90.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 
@@ -78,14 +83,18 @@ de edição de flúor na água, sal ou outras substâncias do consumo obrigatór
 cooperar na prevenção das afecções dentárias, executar outras tarefas correlatas.
 
 CONDIÇÕES DE TRABALHO:
+
 a) Horário: período normal de trabalho 22, 33 ou 44 horas semanais.
+
 b) Outras: o exercício do cargo poderá determinar a realização de
 viagens.
 
 REQUISITOS PARA PROVIMENTO:
+
 a) Escolaridade: Nível Superior
 b) Habilitação: Profissional: habilitação legal para o exercício da
 profissão de cirurgião-dentista.
+
 c) Idade: mínima 18 anos
 
 RECRUTAMENTO: Edital para Concurso Público

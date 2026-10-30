@@ -35,12 +35,16 @@ vigorar com a seguinte redação:
 
 “Art. 12 - Consideram-se dependentes dos associados, para efeitos desta
 Lei, quanto aos benefícios da Assistência Social:
+
 I - a esposa ou companheira mantida há mais de 12 (doze) meses ou que
 tiverem filhos em comum;
+
 II - os filhos de qualquer condição, quando inválidos ou menores de 18
 (dezoito) anos e solteiros;
+
 III - o pai ou a mãe quando inválidos e desde que comprovada a
 dependência econômica exclusiva do associado.
+
 Parágrafo único - Mediante solicitação do associado e de forma opcional,
 será mantida a condição de dependente para os filhos com idade entre 18
 (dezoito) e 21 (vinte e um) anos, se mantida a condição de solteiros e

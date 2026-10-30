@@ -31,11 +31,14 @@ BPM "BTL CEL. SOBRAL" ‑ 3ª CIA PM ‑ 3º Pel. PM, desta cidade, no valor de 
 4.000.000,00 (quatro milhões de cruzeiros), para pagamento das despesas referentes ao
 conserto da Caixa de Câmbio da viatura BM 1058 da Brigada Militar de Nova Prata, na
 Agência FIAT de Veranópolis.
+
 Art. 2º ‑ A Brigada Militar ora subvencionada fica obrigada a prestar
 contas da Subvenção recebida no prazo de 30 (trinta) dias.
+
 Art. 3º ‑ As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 06301772.006 ‑ Auxílio a Brigada Militar do Município;
 3.2.3.1 ‑ Subvenções Sociais.
+
 Art. 4º ‑ Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

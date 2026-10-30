@@ -40,6 +40,7 @@ objetivos:
 OBJETIVO - Aquisição de repetidoras de canais de televisão,
 proporcionado aos telespectadores novas formas de lazer através da comunicação
 televisionada.
+
 Art. 2ª - Para execução do projeto ora alterado, é o Executivo autorizado a
 abrir crédito suplementar no valor de Cr$ 3.100.000,00O (três milhões e cem mil
 cruzeiros), com a seguinte destinação:
@@ -50,11 +51,13 @@ cruzeiros), com a seguinte destinação:
 Total .............................Cr$ 3.100.000,00
 Art. 3º - Os referidos recursos destinam-se a aquisição de repetidoras de
 canais de televisão a serem instalados no Distrito de Rio Branco.
+
 Art. 4º - Servirão de recursos para abertura deste crédito suplementar a
 redução de igual valor nas seguintes doações orçamentárias:
 1001 - Secretaria de obras e Saneamento
 1001.16880211.069 - Aquisição equipamentos Rodoviários
 4.1.2.0 - Equipamento e Material Permanente (207) ... Cr$3.100.000,00.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em vigor na
 data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

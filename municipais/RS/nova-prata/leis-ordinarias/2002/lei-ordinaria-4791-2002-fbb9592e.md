@@ -73,20 +73,26 @@ conjunto, administrar uma central de reciclagem de embalagens de defensivos.
 
 Art. 7.º - Ao Poder Executivo Municipal, através da Secretaria do Meio
 Ambiente Municipal, compete:
+
 I - promover cursos de orientação sobre o armazenamento das referidas
 embalagens e dos resíduos;
+
 II - fiscalizar o recolhimento das embalagens e o destino final dos
 subprodutos;
+
 III - liberar o local onde serão instalados os depósitos e/ou central de
 reciclagem, respeitando a legislação estadual e federal pertinente;
+
 IV - denunciar à autoridade competente no caso de comprovado dano
 ambiental causado.
 
 Art. 8.º - O descumprimento do disposto nesta Lei implicará a aplicação
 das seguintes penalidades:
+
 I - multa de
 II - persistindo a infração, decorridos trinta dias úteis da aplicação da
 primeira multa, será suspenso o alvará de funcionamento;
+
 III - decorridos trinta dias úteis da segunda multa, o Município procederá
 à cassação do alvará de funcionamento.
 

@@ -30,14 +30,17 @@ promulgo a seguinte Lei:
 Art. 1.º - É o Poder Executivo autorizado a pagar as despesas referentes a
 promoção Semana Farroupilha de 1991 que realizar-se-á no período de 14.09.91 a
 20.09.91, pelo Município.
+
 Parágrafo único - As despesas ora autorizadas, compreendidas de
 premiação às vitrinas participantes do concurso alusivo à Semana Farroupilha e,
 despesas com impresso de seu programa respectivo, não poderão ultrapassar a Cr$
 125.000,00 (cento e vinte e cinco mil cruzeiros).
+
 Art. 2º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 09 - Secretaria de Turismo e Desportos; 0901 -
 Secretaria de Turismo e Desportos; 0901.11 - Indústria, Comércio e Serviços;
 0901.1165363.1034 - Promoção dos Eventos Municipais.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 

@@ -33,6 +33,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a firmar Termo
 de Parcelamento de Dívida, junto ao Instituto Nacional do Seguro Social - INSS,
 referente as Notificações de Débitos números 32.583.576-4, 32.583.577-2 e 32.583.578-
 0, extraídas por débitos existentes do Município para com o INSS.
+
 Parágrafo único - O parcelamento será de 96 (noventa e seis) prestações,
 no que se refere as débitos anteriores a março de 1997, que importam em R$45.845,15
 (quarenta e cinco mil, oitocentos e quarenta e cinco reais e quinze centavos) e em 24

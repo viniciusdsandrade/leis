@@ -36,8 +36,11 @@ construções e dos terrenos.
 
 Art. 2º - Fica estabelecido como forma de pagamento do IPTU 97 em
 cota única ou em 03 parcelas, a saber:
+
 a) cota única ou primeira parcela, até 10.04.1997;
+
 b) segunda parcela, até 09.05.1997;
+
 c) terceira parcela, até 10.06.1997.
 Parágrafo Primeiro - Os contribuintes que optarem pelo pagamento em
 cota única, usufruirão de 5% de desconto sobre o valor do tributo lançado.

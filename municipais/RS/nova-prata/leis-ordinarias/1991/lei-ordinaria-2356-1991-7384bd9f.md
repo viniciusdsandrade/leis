@@ -26,16 +26,21 @@ JOÃO CARLOS SCHMITT, PREFEITO MUNICIPAL DE NOVA
 PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É autorizado o Executivo Municipal a comprar uma área de terras
 com 5.626,10m² localizada na RS-470, nesta cidade, de propriedade da Mitra Diocesana
 de Caxias do Sul.
+
 Art. 2º - O imóvel será adquirido por preço não superior a Cr$
 10.500.000,00 (dez milhões e quinhentos mil cruzeiros), destinado para construção de
 Tribunal Rodoviário.
+
 Art. 3º - Fica autorizado também, o Executivo Municipal a providenciar
 na escritura de compra e venda e registros respectivos, decorrentes da transação.
+
 Art. 4º - Fica por conta do Município de Nova Prata o pagamento das
 despesas relativas à aquisição do Imóvel referido no artigo 1º.
+
 Art. 5º - Para execução do projeto referido nos artigos anteriores, é o
 Executivo Municipal autorizado a abrir um crédito suplementar no valor de Cr$
 6.560.000,00 ( seis milhões, quinhentos e sessenta mil cruzeiros) com a seguinte
@@ -49,6 +54,7 @@ destinação:
 4.1.1.0 - Obras e Instalações...............Cr$ 6.560.000,00
 
 ...
+
 Art. 6º - Servirão de recursos para dar cobertura ao crédito suplementar
 autorizado no artigo anterior a redução de igual valor nas seguintes rubricas:
 0701.0417 - Preservação de Recursos Naturais Renováveis

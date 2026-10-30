@@ -33,6 +33,7 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a doar uma
 ambulância, marca FORD, modelo E302, ano de fabricação 1990, ao Corpo de
 Bombeiros Voluntários de Nova Prata, entidade sem fins lucrativos, inscrita no CNPJ
 sob n.º 91.566.588/0001-09, com sede na Rua Placidina de Araújo, 534 em Nova Prata.
+
 Parágrafo único – A ambulância de que trata o caput deste artigo foi
 recebida em doação da cidade de Noblesville nos Estados Unidos, conforme
 documentação que fica fazendo parte integrante da presente Lei.

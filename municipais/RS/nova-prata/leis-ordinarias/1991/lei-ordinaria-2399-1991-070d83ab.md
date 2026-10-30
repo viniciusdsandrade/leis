@@ -33,6 +33,7 @@ redação:
 “Art. 2º - O recebimento da área se fará por permuta, cabendo ao
 Município o fornecimento de 25 (vinte e cinco) horas de trator e 160m3 (cento e
 sessenta metros cúbicos) de brita ao proprietário da mesma, por prazo indeterminado.”
+
 Art. 2º - Revogada as disposições em contrário esta Lei entrará em vigor
 na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

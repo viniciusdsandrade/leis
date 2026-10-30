@@ -26,13 +26,16 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - É alterado o parágrafo único do Art. 5º da Lei Municipal N]
 2081 de 20.12.89, que estabelece Normas Relativas à Cobranças de Taxas de
 Competência do Município e Dá outras Providências, que passa a ter a seguinte redação:
 “Art. 5º - .......
+
 Parágrafo único - A Unidade de Referência vigente no Município
 (URM) será igual a 49,35 ( quarenta e nove vírgula trinta e cinco) UFIR ( Unidade
 Fiscal de Referência) vigente para a União ou outro índice que venha substituí-lo.”
+
 Art. 2º - Revogadas as disposições em contrário, está Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

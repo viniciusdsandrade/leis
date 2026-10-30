@@ -41,6 +41,7 @@ Prata.
 Art. 2.º - Fica o Poder Executivo Municipal, autorizado a repassar subvenção ao
 Galera, no valor de R$4.000,00 (quatro mil reais), os quais serão repassados em duas parcelas
 de R$2.000,00 (dois mil reais), nos finais dos meses de maio, junho de 1999.
+
 Parágrafo único - O valor deverá ser usado, metade para manutenção do time
 feminino e a outra metade para o time juvenil.
 

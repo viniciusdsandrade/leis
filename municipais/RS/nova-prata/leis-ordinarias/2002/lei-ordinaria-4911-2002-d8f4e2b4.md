@@ -38,19 +38,24 @@ formalizadas através de recomendações, as quais, uma vez aprovadas
 pelo Prefeito ou Presidente da Câmara, possuirão caráter normativo no
 âmbito do respectivo Poder.
 ...
+
 Art. 7º - ...
 ...
+
 X - Câmara Municipal de Vereadores.
 Par. 1º - Cada órgão setorial do Sistema de Controle Interno será
 representado por um servidor, detentor de cargo de provimento efetivo e
 estável, podendo a Câmara, enquanto não contar com servidor com essa
 qualificação, designar detentor de cargo em comissão.
 ...
+
 Art. 8º - ...
 ...
+
 II - Representar, por escrito, ao Prefeito Municipal ou Presidente da
 Câmara Municipal, contra servidor que tenha praticado atos irregulares
 ou ilícitos.
+
 III - Guardar sigilo sobre dados e informações obtidos em decorrência do
 exercício de suas funções pertinente a assuntos sob sua fiscalização,
 utilizando-se exclusivamente para a elaboração de pareceres e

@@ -41,6 +41,7 @@ metas na Lei de Diretrizes Orçamentárias o seguinte projeto:
 1.065 - “PAGAMENTO DE ALUGUEL POSTO SINE”
 OBJETIVO: Pagar despesas com a instalação e manutenção do Posto do Sine para
 atender aos objetivos propostos no Convênio.
+
 Art. 3.º - Fica o Poder Executivo Municipal autorizado a abrir um Crédito Especial no
 orçamento vigente, por redução orçamentária no valor de R$ 5.000,00 (Cinco Mil Reais), na seguinte
 rubrica orçamentária:

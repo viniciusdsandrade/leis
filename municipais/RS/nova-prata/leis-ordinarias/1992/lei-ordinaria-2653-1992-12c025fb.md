@@ -26,13 +26,16 @@ PRATA.
 
 Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a
 seguinte Lei:
+
 Art. 1.º - É concedido um auxílio financeiro a Azir Bussolotto, no valor
 de Cr$ 200.000,00 (duzentos mil cruzeiros), para pagamento e reembolso de despesas
 com atendimento médico e medicamentos decorrente de tratamento de doença da
 cabeça de sua esposa Elizete Bussolotto.
+
 Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 - Assistência Médica a População;
 3.2.5.9 - Outras Transferências a Pessoas.
+
 Art. 3.º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

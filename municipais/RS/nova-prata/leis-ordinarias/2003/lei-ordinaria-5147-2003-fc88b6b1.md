@@ -33,35 +33,58 @@ sanciono e promulgo a seguinte Lei que versa sobre:
 
 Art.1º - A composição do Conselho Municipal de Assistência Social,
 passa a ser a seguinte:
+
 I - Entidades governamentais:
+
 a) 01 representante da Secretaria Municipal de Assistência Social;
+
 b) 01 representante da Secretaria Municipal de Educação e Cultura;
+
 c) 01 representante da Secretaria Municipal da Saúde e Meio Ambiente;
+
 d) 01 representante da Secretaria Municipal da Agricultura e
 Abastecimento;
+
 e) 01 representante da Secretaria Municipal de Obras e Saneamento;
+
 f) 01 representante do Gabinete do Prefeito Municipal;
+
 g) 01 representante da Secretaria Municipal de Turismo e Desporto;
+
 h) 01 representante da Escola de Educação Infantil Recanto da Alegria;
+
 i) 01 representante da Escola de Educação Infantil Primeiros Passos;
+
 j) 01 representante da Escola de Educação Infantil Um Pedacinho do
 Céu;
+
 l) 01 representante do Centro Social Urbano.
 
 II - Dos Profissionais da Área:
+
 a) 01 representante dos Psicólogos.
 
 III - Dos Usuários:
+
 a) 01 representante da APAE;
+
 b) representante da ABEM;
+
 c) representante da ASCODEF - Associação Comunitária de Deficientes
 Físicos;
+
 d) 01 representante do LIONS;
+
 e) 01 representante do ROTARY;
+
 f) 01 representante da Liga Feminina de Combate ao Câncer;
+
 g) 01 representante do Comitê da Fome;
+
 h) 01 representante do Sindicato dos Trabalhadores Rurais;
+
 i) 01 representante da Associação dos Aposentados;
+
 j) 01 representante da EMATER.
 ...
 ... folha 02

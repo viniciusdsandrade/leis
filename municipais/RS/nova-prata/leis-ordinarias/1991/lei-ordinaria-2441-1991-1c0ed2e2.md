@@ -31,6 +31,7 @@ Art. 1.º - É concedido um auxílio financeiro ao Espólio de Angela
 Sangali, no valor Cr$ 200.000,00 (duzentos mil cruzeiros), para custeio de despesas
 relativas a tratamento de saúde realizado na cidade de Passo Fundo, decorrente de
 acidente de trânsito.
+
 Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária : 08 - Secretaria da Saúde e Meio Ambiente; 0801 -
 Secretaria da Saúde e Meio Ambiente; 0801.13 - Saúde e Saneamento; 0801.1375 -

@@ -35,6 +35,7 @@ mediante Escritura Pública, uma área de terras urbanas de 816,60m² (oitocento
 e sessenta decímetros quadrados), da Senhora Júlia Piano e Outros situados no quarteirão formado
 pelas Ruas Arcângelo Pagnoncelli, Guilherme Maschio terras urbanas e rurais nesta Cidade, que foi
 atingida pelo alargamento da Rua Arcângelo Pagnoncelli.
+
 Parágrafo único - O imóvel acima caracterizado, é parte da matrícula n.º 2987 do
 Cartório do Registro de Imóveis da Comarca de Nova Prata.
 
@@ -53,9 +54,11 @@ pública de dação em pagamento, de que trata os Artigos anteriores.
 
 Art. 4.º - Todas as despesas decorrentes da formalização das correspondentes
 escrituras públicas e seus registros correrão por conta de rubrica orçamentária própria.
+
 Parágrafo único - Fica a presente transação isenta de recolhimento de Imposto de
 Transmissão de Bens Imóveis - ITBI, em virtude do relevante interesse do Município em sua
 concretização.
+
 Art. 5.º - Revogadas as disposições em contrário, esta Lei entrará em vigor na data
 de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em 16 de

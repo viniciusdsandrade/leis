@@ -26,12 +26,15 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a conceder remissão de
 débitos da Taxa de Fiscalização e/ou vistoria (Alvará), sobre a Atividade de Bar, dos
 anos de 1993 à 1995, no valor de R$ 189,03 (cento e oitenta e nove reais e três
 centavos), à Empresa Danilo Guidolin - ME.
+
 Art. 2º - A remissão ora concedida refere-se a atividade que a Empresa
 desempenhava na Linha Severino Ribeiro, neste Município.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

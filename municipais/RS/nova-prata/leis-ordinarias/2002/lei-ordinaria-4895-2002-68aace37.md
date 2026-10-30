@@ -32,6 +32,7 @@ sanciono e promulgo a seguinte Lei:
 
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a participar em
 uma obra de extensão de rede de BT e instalação de TR, na Capela São Belim.
+
 Parágrafo único - Fica fazendo parte integrante da presente Lei
 Municipal, ofício recebido da RGE, condições gerais de obras da RGE, Termo de
 Opção a ser firmado entre as partes, memorial técnico descritivo e projeto da obra.
@@ -40,6 +41,7 @@ Art. 2.º - A participação do Município na obra, será o adiantamento do
 valor de R$4.642,56 (quatro mil, seiscentos e quarenta e dois reais e cinqüenta e seis
 centavos), os quais serão pagos pela RGE ao Município, no prazo de 12 meses após a
 ligação da unidade consumidora.
+
 Parágrafo único - Eventuais gastos a maior, em relação ao valor
 constante no caput deste artigo, serão de responsabilidade dos beneficiados.
 

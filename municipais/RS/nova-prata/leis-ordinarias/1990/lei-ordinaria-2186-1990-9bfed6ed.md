@@ -30,8 +30,10 @@ promulgo a seguinte Lei:
 Art. 1.º - Os dispositivos adiante indicados da Lei Orgânica Municipal,
 passam a vigorar com a seguinte redação:
 “Art. 121 - ...
+
 I - O projeto de lei do plano plurianual, até 31 de julho do primeio ano do
 mandato do Prefeito;
+
 II - O projeto de diretrizes orçamentárias, anualmente, até 30 de outubro.
 “Art. 220 - O projeto de lei do plano plurianual previsto no artigo 121,
 inciso 1º, da atual legislatura, deverá ser apresentado até 31 de julho de 1990.”

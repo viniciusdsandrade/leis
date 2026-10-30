@@ -34,6 +34,7 @@ Art. 1.o - Fica autorizada a empresa Borrachas Vipal S/A a realizar a
 construção de parte de um Ginásio de Esportes, localizado em terreno de propriedade do
 Município de Nova Prata, mais especificamente no pátio da Escola Municipal de Ensino
 Fundamental Ângela Peligrini Paludo.
+
 Parágrafo único - Após a concretização do que trata o caput deste artigo
 ocorrerá a doação ao patrimônio do Município.
 

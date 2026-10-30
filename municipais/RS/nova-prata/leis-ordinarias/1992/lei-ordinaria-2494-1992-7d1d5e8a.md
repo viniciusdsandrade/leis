@@ -31,6 +31,7 @@ Art. 1.º - É concedido um auxílio financeiro ao Espólio de Carlos
 Spanhol, residente no Bairro São Cristóvão, nesta cidade, no valor de Cr$ 150.000,00
 (cento e cinqüenta mil cruzeiros) para custeio e reembolso de despesas por tratamento
 de câncer, medicamentos, internação e serviços médicos.
+
 Art. 2.º - As despesas decorrentes da aplicação desta Lei correrão por
 conta de rubrica orçamentária: 0801.13754282.038 - Assistência Médica à População;
 3.2.5.9 - Outras Transferências a Pessoas.

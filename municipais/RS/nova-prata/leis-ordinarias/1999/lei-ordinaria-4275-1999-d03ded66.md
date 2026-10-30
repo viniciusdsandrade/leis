@@ -35,6 +35,7 @@ Nova Prata – IPRAM-NP, para o exercício de 2000, é orçada em R$ 2.500.000,0
 (dois milhões e quinhentos mil reais), a qual será arrecadada de conformidade com a
 Legislação vigente, nas seguintes classificações:
 RECEITAS CORRENTES:
+
 I – Receita de Contribuições.....................................................................R$ 1.519.700,00
 II – Receita Patrimonial............................................................................R$ 370.000,00
 III – Receita de Serviços...........................................................................R$ 6.200,00
@@ -42,6 +43,7 @@ IV – Transferências Correntes................................................
 V – Outras Receitas Correntes..................................................................R$ 2.000,00
 TOTAL......................................................................................................R$1.899.000,00
 RECEITAS DE CAPITAL:
+
 I – Alienação de bens.................................................................................R$ 500,00
 II – Amortização de Empréstimos..............................................................R$ 600.000,00
 III – Operações de Crédito..........................................................................R$ 500,00
@@ -54,17 +56,21 @@ de dotações anexo.
 
 Art. 3.º - É o Poder Executivo Municipal, de conformidade com a Lei
 Federal n.º 4.320/64 autorizado a:
+
 I – Abrir durante o exercício, créditos suplementares:
+
 a) até o limite de 25% (vinte e cinco por cento) da despesa total
 autorizada;
 ...
 ... folha 02
 
 b) a quota de reserva de contingência.
+
 Parágrafo único – A autorização contida neste artigo não se onera quando
 a suplementação se destinar ao atendimento de despesas relativas a pessoal e encargos
 sociais ou a reserva de contingência, em decorrência de maior arrecadação sobre a
 previsão da Receita.
+
 II – Realizar em qualquer mês do exercício financeiro, operações de
 crédito por antecipação da receita para atender insuficiência de caixa, até o limite de
 25% (vinte e cinco por cento).

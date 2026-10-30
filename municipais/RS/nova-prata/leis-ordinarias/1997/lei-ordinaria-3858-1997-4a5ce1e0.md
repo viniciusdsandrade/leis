@@ -33,8 +33,10 @@ Art. 1.º - Fica autorizado o Poder Executivo Municipal, a realizar doação
 ao Município de Guabiju, em virtude da emancipação do antigo Distrito Municipal, em
 cumprimento a Lei Estadual n.º 8449, de 08 de dezembro de 1987, que criou o referido
 Município, dos seguintes bens imóveis:
+
 I - Um terreno urbano com área de 2.833 m2, registrado sob n.º 12.017,
 fls. 37 do Livro 3 N do Cartório de Imóveis de Nova Prata, fotocópia em anexo;
+
 II - Um terreno rural com área de 2.000 m2, com um prédio escolar,
 construído em alvenaria, com área de 55 m2, registrado sob n.º 20.496, fls. 183 do
 Livro 3U do Cartório de Imóveis de Nova Prata, fotocópia em anexo.

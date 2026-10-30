@@ -27,28 +27,41 @@ sanciono a lei seguinte:
 Art.º 1º - As indústrias que se instalarem na área
 industrial de Nova Prata gozarão de incentivos fiscais em / função da
 importância social, das características e do capital / integralizado.
+
 Parágrafo único - A importância social da indústria será
 considerada levando em conta o número de empregados e as características
 serão classificadas em indústrias: a) que utilizam matéria-prima local; b) que
 operam essencialmente com matéria-prima de outras origens; c) com similar;
+
 d) sem similar.
 Art.º 2º - O incentivo fiscal de que trata o / artigo
 anterior será constituído de isenção do tributo municipal por período
 determinados por peso de pontos, avaliado como segue:
+
 I - quanto à função social: 1 (um) ponto para cada 2 / (dois)
 empregados;
+
 II - quanto às características:
+
 a) que utilizam matéria-prima local, 50 ( cinqüenta)
 pontos;
+
 b) que utilizam matéria-prima de outras áreas, 20 / (vinte)
 pontos;
+
 c) sem similar, 50 (cinqüenta) pontos;
+
 d) com similar, 20 (vinte) pontos.
+
 III - quanto ao capital integralizado:
+
 a) de 200 a 500 salários mínimos, 20 ( vinte) pontos;
+
 b) de 501 a 1500 salários mínimos, 50 ( cinqüenta) /
 pontos;
+
 c) de 1500 a 3000 salários mínimos, 80 ( oitenta) / pontos.
+
 d) de mais de 3000 salários mínimos, 100 (cem) pontos.
 ( Lei n.º 1.168 - Fls 2)
 
@@ -73,6 +86,7 @@ de empregados, será abrangida pelos incentivos fiscais de que trata esta Lei,
 em período que será fixado da mesma forma estabelecida no artigo 2º,
 considerando apenas o aumento de capital e de empregados para avaliação
 por pontos.
+
 Parágrafo único - A indústria já abrangida / pelo
 incentivo, que suas instalações terá reavaliado / o período de isenção
 inicialmente concedido, considerando igualmente apenas o aumento de

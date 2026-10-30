@@ -31,6 +31,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a conceder uma
 Subvenção ao Conselho Pratense de Juventude Rural - COPRAJUR de Nova Prata, e a
 celebrar Convênio, na forma estabelecida pelo Art. 116, da Lei Federal N.º 8.666, de 21 de
@@ -92,9 +93,11 @@ específicas.
 CLÁUSULA OITAVA - O MUNICÍPIO suspenderá o repasse da
 Subvenção, se o CONSELHO deixar de apresentar o PLANO DE TRABALHO E DE
 APLICAÇÃO ou na hipótese de não ser aprovado pelo órgão competente do Executivo.
+
 a) quando não houver comprovação da boa e regular aplicação da parcela
 anteriormente recebida, na foram da legislação aplicável inclusive mediante
 procedimentos e fiscalização local, realizados, periodicamente pelo Município;
+
 b) quando verificados desvio de finalidade na aplicação dos recursos,
 práticas atentatórias aos princípios fundamentais de administração pública, nas
 contratações e demais atos praticados na execução deste Convênio, ou o
@@ -147,6 +150,7 @@ NOVA PRATA.
 
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo
 a seguinte Lei:
+
 Art. 1.º - Fica o Poder Executivo Municipal autorizado a conceder auxílio
 financeiro a 28 estudantes do Curso Técnico em Contabilidade do Colégio Nossa Senhora
 Aparecida, nesta cidade.

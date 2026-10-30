@@ -27,14 +27,17 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Executivo autorizado a doar à Empresa Comércio de
 Pedras Andretta Ltda, uma área de terras com 2.100m2 (dois mil e cem metros
 quadrados), no Distrito Industrial, para instalação da Empresa.
 Parágrafo Único - A empresa obriga-se a atender às determinações do
 órgão responsável pela Defesa do Meio Ambiente.
+
 Art. 2º - Fica, também, o Executivo autorizado a escriturar, em nome da
 Empresa, a área de terras doada, obedecendo aos dispositivos da Legislação própria da
 Área Industrial.
+
 Art. 3º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em

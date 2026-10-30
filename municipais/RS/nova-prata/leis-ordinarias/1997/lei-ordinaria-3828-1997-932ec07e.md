@@ -34,15 +34,21 @@ Art. 1º - A elaboração da proposta orçamentária do INSTITUTO DE
 PREVIDÊNCIA E ASSISTÊNCIA MUNICIPAL DE NOVA PRATA - IPRAM,
 para o exercício de 1998 obedecerá as seguintes diretrizes gerais, sem prejuízo das
 normas financeiras estabelecidas pela Legislação Federal:
+
 I - O montante das despesas não deverá ser superior ao das receitas;
+
 II - As unidades orçamentárias projetarão suas despesas correntes até o
 limite fixado para o exercício em curso;
+
 III - Nas estimativas das receitas, considerar-se-ão as tendências do
 presente exercício;
+
 IV - Os projetos em fase de execução terão prioridades sobre os novos
 projetos, não podendo ser paralisados sem autorização legislativa;
+
 V - O pagamento do serviço da dívida de pessoal e de encargos terá
 prioridade sobre as ações de expansão;
+
 VI - Constará da proposta orçamentária o produto das operações de
 crédito autorizadas pelo Legislativo, com destinação específica e vinculada ao projeto,
 conforme item III do Artigo 167 da Constituição Federal.
@@ -55,6 +61,7 @@ que financiados com recursos de outras esferas de governo.
 
 Art. 3º - As despesas com pessoal da Administração autárquica ficam
 limitadas a 60% da Receita Corrente, conforme norma constitucional.
+
 I - Entende-se como Receita Corrente para efeitos do presente artigo o
 somatório das receitas oriundas de convênios;
 ...

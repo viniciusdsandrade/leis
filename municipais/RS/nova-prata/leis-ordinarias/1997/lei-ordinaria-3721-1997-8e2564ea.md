@@ -60,6 +60,7 @@ no Convênio, sendo que a diferença constada à pagar pelo Município, é de R$
 263.930,00 ( duzentos e sessenta e três mil, novecentos e trinta reais), os quais serão
 pagos em 84 ( oitenta e quatro) parcelas mensais, de R$ 3.142,00 ( três mil, cento e
 quarenta e dois reais) cada parcela.
+
 Parágrafo único - As parcelas serão pagas diretamente ao Estado do rio
 Grande do sul, conforme previsto na cláusula oitava e seus parágrafos do Convênio,
 sendo atualizadas pela variação positiva da UFIR.
@@ -75,6 +76,7 @@ Art. 5.º - As despesas decorrentes da execução da presente Lei
 Municipal, correrão por conta de dotação orçamentária, classificada sob código: 04 -
 Secretaria de Finanças; 10 - Unidades Subordinadas; 03080212.013000 - Autorização
 da Dívida Interna; 4.3.5.1; - Autorização da Dívida Contratada (68).
+
 Parágrafo único - O Poder Executivo providenciará na inclusão de
 previsão orçamentária , para cumprimento do disposto no Convênio, nos anos seguintes,
 até o pagamento final da 84.ª prestação.

@@ -26,19 +26,24 @@ VITOR ANTONIO PLETSCH, PREFEITO MUNICIPAL DE
 NOVA PRATA.
 Faço saber que a Câmara de Vereadores aprovou e eu sanciono e
 promulgo a seguinte Lei:
+
 Art. 1º - Fica o Poder Executivo autorizado a receber em doação uma
 área de terras de 1.451,55m2 de propriedade de Francisco Antonio Rampon e Avelino
 Beltrame, situada no Loteamento Basalto, que foi utilizada pelo Município, em virtude
 do alargamento da Rua Tancredo Neves e a Rua Independência.
+
 Art. 2º - As despesas de escrituração da área doada fica a cargo do
 Município, e correrão por conta da rubrica orçamentária: Encargos Gerais do
 Município.
+
 Art. 3º - Fica também, o Poder Executivo, através do Setor competente,
 autorizado a efetuar a revisão do débito do IPTU de 1991 a 1996, inscrito em dívida
 ativa, que foi calculado com área total de 5.880,07m2, proporcionalmente a área
 remanescente de 4.428,52m2, porém, com todos os acréscimos legais vigentes.
+
 Art. 4º - Para usufruir do disposto nesta Lei, o contribuinte deverá efetuar
 o pagamento do débito revisto, até 31 de dezembro de 1996.
+
 Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em
 vigor na data de sua publicação.
 GABINETE DO PREFEITO MUNICIPAL DE NOVA PRATA, em
