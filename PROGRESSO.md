@@ -1,6 +1,6 @@
 # Progresso
 
-Gerado em 30/10/2026 18:49:39 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 30/10/2026 18:50:25 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
@@ -335,8 +335,8 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
 | `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
-| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
-| `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
-| `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
+| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |
+| `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
+| `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |

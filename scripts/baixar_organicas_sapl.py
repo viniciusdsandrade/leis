@@ -175,8 +175,8 @@ CARIMBO_CAMPINAS = [
     # nas leis de 2002 a capa ainda não tinha a Diretoria de Gestão Documental
     re.compile(r"(?:CÂMARA MUNICIPAL DE CAMPINAS (?:Estado de São Paulo )?)?(?:Diretoria de Gestão Documental )?Coordenadoria de Biblioteca "
                r"\S+@campinas\.sp\.leg\.br(?: –| -)? ?(?:Ramal:? ?\d+)?"),
-    # o OCR lê os travessões como hífen
-    re.compile(r"Avenida da Saudade, nº 1\.004 [–-] Ponte Preta [–-] CEP: 13041-670 [–-] Campinas [–-] SP [–-] PABX: \(19\) 3736-1300\.?(?: www\.campinas\.sp\.leg\.br)?"),
+    # o OCR lê os travessões como hífen; às vezes sob um fio de sublinhados ("\_\_\_ Avenida...")
+    re.compile(r"(?:(?:\\_)+ )?Avenida da Saudade, nº 1\.004 [–-] Ponte Preta [–-] CEP: 13041-670 [–-] Campinas [–-] SP [–-] PABX: \(19\) 3736-1300\.?(?: www\.campinas\.sp\.leg\.br)?"),
 ]
 # a fonte tem erros de grafia nesta linha ("Municipio", "Municípo", "Campina"); a data também varia ("1º de outubro", "novembrode")
 AVISO_NAO_SUBSTITUI_CAMPINAS = re.compile(
