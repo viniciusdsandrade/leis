@@ -125,6 +125,11 @@ class CabecalhoDePagina(unittest.TestCase):
             self.assertEqual(corpo, LEI, aviso)
             self.assertEqual(notas, ["cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município"])
 
+    def test_aviso_so_texto_para_consulta(self):
+        corpo, notas = limpar_carimbo_campinas("\n\n".join(["Texto para consulta", LEI]))
+        self.assertEqual(corpo, LEI)
+        self.assertEqual(notas, ["cópia de consulta da Câmara"])
+
     def test_endereco_sob_fio_de_sublinhados_sai(self):
         rodape = "\\_\\_\\_ Avenida da Saudade, nº 1.004 – Ponte Preta – CEP: 13041-670 – Campinas – SP – PABX: (19) 3736-1300 www.campinas.sp.leg.br"
         corpo, _ = limpar_carimbo_campinas("\n\n".join([LEI, rodape]))

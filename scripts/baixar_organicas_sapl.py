@@ -185,6 +185,8 @@ AVISO_NAO_SUBSTITUI_DOCM_CAMPINAS = re.compile(
     r"Texto somente para consulta\. Não substitui o publicado no Diário Oficial da Câmara Municipal de Campinas em \d{1,2}º? de \w+ ?de \d{4}")
 AVISO_REPRODUZIDO_CAMPINAS = re.compile(
     r"Texto para consulta, reproduzido conforme (?:a )?publicação(?: extra)? (?:no|do) Diário Oficial do Município em \d{1,2}º? de \w+ ?de \d{4}")
+# resolução de 1967: só "Texto para consulta", sem dizer de onde
+AVISO_CONSULTA_SO_CAMPINAS = re.compile(r"Texto para consulta\.?")
 # resoluções de 2022: reproduzido conforme o Diário Oficial da Câmara, não o do Município
 AVISO_REPRODUZIDO_DOCM_CAMPINAS = re.compile(
     r"Texto para consulta, reproduzido conforme (?:a )?publicação (?:no|do) Diário Oficial da Câmara Municipal de Campinas,? em \d{1,2}º? de \w+ ?de \d{4}")
@@ -273,6 +275,8 @@ def limpar_carimbo_campinas(corpo):
             notas.append("cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal")
         elif AVISO_REPRODUZIDO_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município")
+        elif AVISO_CONSULTA_SO_CAMPINAS.fullmatch(plano):
+            notas.append("cópia de consulta da Câmara")
         elif AVISO_REPRODUZIDO_DOCM_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial da Câmara Municipal")
         elif AVISO_REPRODUZIDO_SEM_FONTE_CAMPINAS.fullmatch(plano):
