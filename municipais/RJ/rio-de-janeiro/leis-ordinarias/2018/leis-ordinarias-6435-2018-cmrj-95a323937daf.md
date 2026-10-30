@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/95A323937DAFA865832583760063A22B?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/95A323937DAFA865832583760063A22B?OpenDocument"
 sha256_fonte: "3df349134160de3eeb37b03abd346a069d803a19c3b6aa94551f9d8d0b397766"
-sha256_texto: "3bfc18566212da4599f24bad44a1679ec12863dd24cc5cc1eaef010862f5b109"
+sha256_texto: "1864c2ac13e47296f7886e6ee4de7c3624074099f2bd96cb6e9823547ec05db5"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -216,7 +216,11 @@ II - utilização de procedimento anestésico adequado às espécies, através d
 
 **Parágrafo único.** Será expressamente proibida a realização do ato cirúrgico antes de ser atingido, pelo animal, estágio de absoluta insensibilidade a qualquer tipo de estímulo doloroso.
 
-**Art. 24.** Os procedimentos administrativos e funcionais a serem adotados para a operacionalização da esterilização gratuita serão de responsabilidade do Poder Público. Art. 25. O Município do Rio de Janeiro deverá manter programas permanentes de controle de zoonoses, através de vacinação e controle de reprodução de cães e gatos, ambos acompanhados de ações educativas para propriedade ou guarda responsável. Art. 26. Fica vedada a prática de sacrifício de cães e gatos por métodos cruéis, consubstanciados em utilização de câmaras de descompressão, câmaras de gás, eletrochoque e qualquer outro procedimento que provoque dor, estresse ou sofrimento.
+**Art. 24.** Os procedimentos administrativos e funcionais a serem adotados para a operacionalização da esterilização gratuita serão de responsabilidade do Poder Público.
+
+**Art. 25.** O Município do Rio de Janeiro deverá manter programas permanentes de controle de zoonoses, através de vacinação e controle de reprodução de cães e gatos, ambos acompanhados de ações educativas para propriedade ou guarda responsável.
+
+**Art. 26.** Fica vedada a prática de sacrifício de cães e gatos por métodos cruéis, consubstanciados em utilização de câmaras de descompressão, câmaras de gás, eletrochoque e qualquer outro procedimento que provoque dor, estresse ou sofrimento.
 
 **§ 1º** Considera-se método aceitável a utilização ou emprego de substância apta a produzir insensibilidade e inconsciência antes da parada cardíaca e respiratória do animal.
 

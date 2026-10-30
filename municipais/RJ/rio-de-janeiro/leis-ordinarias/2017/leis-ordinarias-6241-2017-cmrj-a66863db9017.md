@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/A66863DB901796938325819200532964?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/A66863DB901796938325819200532964?OpenDocument"
 sha256_fonte: "267870c5452198be1fcbef8de1e1a685d25cf1149e9aa77966a7084f0506bd30"
-sha256_texto: "5384ccce0d6a6d2435ba872ffcf8b890b60e7a560818b931598dd2ba79fcdfa8"
+sha256_texto: "e0dd442900dc011ee6f7c5c0f53ebed7ead3608ecfb660a016dbf0adb15a6cc6"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -32,7 +32,11 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
 
 **Parágrafo único.** Será dada ênfase ao Título II, Dos Direitos e Garantias Fundamentais.
 
-**Art. 2º** Para o cumprimento desta Lei, o Poder Executivo utilizará professores pertencentes ao quadro da Secretaria Municipal de Educação. Art. 3º A Secretaria Municipal de Educação adotará as providências necessárias à implantação do tema. Art. 4º Esta Lei entra em vigor na data de sua publicação.
+**Art. 2º** Para o cumprimento desta Lei, o Poder Executivo utilizará professores pertencentes ao quadro da Secretaria Municipal de Educação.
+
+**Art. 3º** A Secretaria Municipal de Educação adotará as providências necessárias à implantação do tema.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 5 de setembro de 2017.  
   

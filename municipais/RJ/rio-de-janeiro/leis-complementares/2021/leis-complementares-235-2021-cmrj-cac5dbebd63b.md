@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CAC5DBEBD63BAAD40325878300489569?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CAC5DBEBD63BAAD40325878300489569?OpenDocument"
 sha256_fonte: "5d15b75262d2ae5ccf741d317c41283f1e2c8da3f804620c4a463d4b8f53f466"
-sha256_texto: "691e6e2b52d750ec6b0ade45817f1093600940bd194229883e7c8cd58c74ade0"
+sha256_texto: "28cb353104bca15380ab62761c1493ede7357464db4a814a7f9545d296c34e20"
 baixado_em: "2026-10-28"
 revogada: null
 ---
@@ -423,7 +423,9 @@ XXV – os órgãos e entidades da Administração Direta e Indireta do Municíp
   
 (...) " (NR)
 
-**Art. 35.** Ficam revogados o inciso XXII do art. 14 e o art. 14-A, ambos da Lei nº 691, de 1984. Art. 36. Ao final de cada quadrimestre, o Poder Executivo apresentará à Câmara Municipal e publicará em seus canais de controle e transparência virtuais relatório com dados pormenorizados sobre a recuperação fiscal alcançada no período decorrente da aplicação das medidas do Novo Regime Fiscal, quando estas estiverem em vigor.
+**Art. 35.** Ficam revogados o inciso XXII do art. 14 e o art. 14-A, ambos da Lei nº 691, de 1984.
+
+**Art. 36.** Ao final de cada quadrimestre, o Poder Executivo apresentará à Câmara Municipal e publicará em seus canais de controle e transparência virtuais relatório com dados pormenorizados sobre a recuperação fiscal alcançada no período decorrente da aplicação das medidas do Novo Regime Fiscal, quando estas estiverem em vigor.
 
 **Art. 37.** As disposições estabelecidas nesta Lei Complementar poderão ser suspensas, por ato do Poder Executivo, na ocorrência de calamidade pública reconhecida pela Câmara Municipal do Rio de Janeiro - CMRJ, enquanto perdurar a situação.
 

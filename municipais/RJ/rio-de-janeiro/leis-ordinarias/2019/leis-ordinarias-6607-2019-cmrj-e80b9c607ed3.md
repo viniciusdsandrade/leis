@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/E80B9C607ED32A928325840F006C556A?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/E80B9C607ED32A928325840F006C556A?OpenDocument"
 sha256_fonte: "572e692ed72ba02800f9496222bbc7932d9c2a5ea0d5dd076445369315231349"
-sha256_texto: "c6becc05be13369448c201989d1c276945562cbe42eaef234f4b9600aa66f7f3"
+sha256_texto: "ff1c8156ba987ead656bc469459686fe0ec08b2a54d569de6a018c29a822fc64"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -27,7 +27,11 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
   
 Autor: Vereador Welington Dias
 
-**Art. 1º** O Poder Executivo dará o nome de Rua Sebastião Torres de Brito à Rua Projetada B, localizada na altura do nº 79, na Estrada da Moriçaba, no sub-bairro da Moriçaba, no Bairro de Senador Vasconcelos. Art. 2º No cumprimento desta Lei, o Poder Executivo adotará as medidas administrativas necessárias, observados os ditames da Lei nº 20, de 3 de outubro de 1977. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** O Poder Executivo dará o nome de Rua Sebastião Torres de Brito à Rua Projetada B, localizada na altura do nº 79, na Estrada da Moriçaba, no sub-bairro da Moriçaba, no Bairro de Senador Vasconcelos.
+
+**Art. 2º** No cumprimento desta Lei, o Poder Executivo adotará as medidas administrativas necessárias, observados os ditames da Lei nº 20, de 3 de outubro de 1977.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 4 de junho de 2019.
 

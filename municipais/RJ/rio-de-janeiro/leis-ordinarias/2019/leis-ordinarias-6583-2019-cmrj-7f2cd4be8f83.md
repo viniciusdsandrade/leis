@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/7F2CD4BE8F8355F2832584090062D223?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/7F2CD4BE8F8355F2832584090062D223?OpenDocument"
 sha256_fonte: "86891fe14aac595b03afc19cec21775050cbb9c0243b8d0a51ab705ffadb9522"
-sha256_texto: "95fb46e60d5b9ad09fa132e3fd9abce833f07b86edcfb8fdc10a6c2a10e86043"
+sha256_texto: "59c5fadd74dd265267e4e0c48a851359b8ef10e94c541d9cd68f83bb650dc3fc"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -28,7 +28,9 @@ Autor: Vereador Carlo Caiado
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Fica incluída, no § 10. do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, a seguinte data comemorativa: Semana das Soluções Alternativas de Conflitos, a ser comemorada anualmente na terceira semana do mês de outubro. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Fica incluída, no § 10. do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, a seguinte data comemorativa: Semana das Soluções Alternativas de Conflitos, a ser comemorada anualmente na terceira semana do mês de outubro.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

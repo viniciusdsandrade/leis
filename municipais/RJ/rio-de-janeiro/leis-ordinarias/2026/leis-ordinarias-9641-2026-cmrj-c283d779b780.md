@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C283D779B780D84203258E8A0045A18D?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C283D779B780D84203258E8A0045A18D?OpenDocument"
 sha256_fonte: "0b6061301c60c3f782bca3d412cb2c0462d4259e1b5611dc9ac1f2cfd52baeea"
-sha256_texto: "e8d0affa969b63c4ca1e0b0ee929b8a8961f7193e6a9a410a6ffdc0e4b99aeeb"
+sha256_texto: "6fb8b953f7ae60c93fb25e040dd47ad502bfc2947cd8420be9ce04d806df50dd"
 baixado_em: "2026-10-28"
 revogada: null
 ---
@@ -31,7 +31,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Fica incluída no § 12 do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, a seguinte data comemorativa:  
   
-Dia de Nossa Senhora de Loreto, padroeira de Jacarepaguá, a ser celebrado anualmente no dia 10 de dezembro. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Dia de Nossa Senhora de Loreto, padroeira de Jacarepaguá, a ser celebrado anualmente no dia 10 de dezembro.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO CAVALIERE**
 

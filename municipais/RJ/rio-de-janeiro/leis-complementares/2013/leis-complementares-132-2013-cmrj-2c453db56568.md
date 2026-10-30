@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/2C453DB565684D6F03257C470055D421?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/2C453DB565684D6F03257C470055D421?OpenDocument"
 sha256_fonte: "33a89d813f0eab53ce794814cd30443e548ff7a69f436a0c946c0ac6c63ed0eb"
-sha256_texto: "a681d626e9bb02b3959bd9eee90515b4421be5803b036111e7b9ec54aa91e081"
+sha256_texto: "0335af242fd956ca4f5e00d3b39f0155237c29266647cb679d5789a1f010c8e8"
 baixado_em: "2026-10-28"
 revogada: null
 ---
@@ -432,7 +432,9 @@ III – compra de publicações e material tecnológico para a PGM, necessários
 
 **Parágrafo único.** Para os efeitos desse artigo será considerado o tempo de serviço anterior à vigência desta Lei Complementar. Art. 42. A Gratificação de Incentivo à Atividade de Cobrança da Dívida Ativa Municipal, instituída pela Lei nº 1.517, de 29 de dezembro de 1989, fica fixada, em caráter fixo e permanente, no percentual de cento e oitenta por cento, para os destinatários do inciso II, do art. 3º, da referida Lei, incluindo-se o Procurador-Geral do Município e os Subprocuradores.
 
-**Art. 43.** Fica assegurada aos servidores do Quadro de Apoio da PGM e aos servidores da administração direta nela lotados na data de sua instalação, a percepção da gratificação prevista na Lei nº 1.517, de 1989, nos seus limites individuais atualmente vigentes, em caráter fixo e permanente. Art. 44. A primeira eleição dos membros componentes do Conselho Superior da PGM será convocada pelo Procurador-Geral no prazo de até cento e oitenta dias, a contar da vigência desta Lei Complementar, e realizada nos trinta dias subsequentes.
+**Art. 43.** Fica assegurada aos servidores do Quadro de Apoio da PGM e aos servidores da administração direta nela lotados na data de sua instalação, a percepção da gratificação prevista na Lei nº 1.517, de 1989, nos seus limites individuais atualmente vigentes, em caráter fixo e permanente.
+
+**Art. 44.** A primeira eleição dos membros componentes do Conselho Superior da PGM será convocada pelo Procurador-Geral no prazo de até cento e oitenta dias, a contar da vigência desta Lei Complementar, e realizada nos trinta dias subsequentes.
 
 **Art. 45.** Para os efeitos de progressão funcional na carreira de Procurador será considerado o tempo de serviço no cargo prestado anteriormente à vigência desta Lei Complementar.
 

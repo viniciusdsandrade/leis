@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/6D32FFC29B2E52E103258AD7007341F7?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/6D32FFC29B2E52E103258AD7007341F7?OpenDocument"
 sha256_fonte: "e54680cd4283dd003a152f48757acb62270cfdd5128e14d08e94f8f2b56fb104"
-sha256_texto: "6344f60dc7d74f8e3d49042bf0067570c2323a845d1bea08325c11e0f68c0859"
+sha256_texto: "960a6b4021cf6c5ea3fa123eb1d6f4caccf255dc4ff1908341451968af167990"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -28,7 +28,13 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
 
 Autores: Vereadores Felipe Boró, Marcio Ribeiro e Celso Costa.
 
-**Art. 1º** Fica tombada provisoriamente, por interesse histórico, cultural e turístico, e declara como Patrimônio Imaterial da Cidade do Rio de Janeiro a sede onde funcionou o jornal Tribuna da Imprensa, situada nos números 94 e 98 da Rua do Lavradio, na Lapa, Centro, na área da A.P. 1.0. Art. 2º Em decorrência do tombamento efetuado por esta Lei, ficam vedadas as descaracterizações do referido bem, com a finalidade de manter a exclusividade de seus propósitos históricos, turísticos e culturais. Art. 3º O Poder Executivo, por intermédio do órgão competente, adotará as medidas necessárias para o registro do tombamento, bem como efetivação do registro de bem imaterial nos respectivos livros, realizado por esta Lei. Art. 4º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Fica tombada provisoriamente, por interesse histórico, cultural e turístico, e declara como Patrimônio Imaterial da Cidade do Rio de Janeiro a sede onde funcionou o jornal Tribuna da Imprensa, situada nos números 94 e 98 da Rua do Lavradio, na Lapa, Centro, na área da A.P. 1.0.
+
+**Art. 2º** Em decorrência do tombamento efetuado por esta Lei, ficam vedadas as descaracterizações do referido bem, com a finalidade de manter a exclusividade de seus propósitos históricos, turísticos e culturais.
+
+**Art. 3º** O Poder Executivo, por intermédio do órgão competente, adotará as medidas necessárias para o registro do tombamento, bem como efetivação do registro de bem imaterial nos respectivos livros, realizado por esta Lei.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 5 de março de 2024.
 

@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/BBDC36E7F9F6E235832584CE005AD2A0?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/BBDC36E7F9F6E235832584CE005AD2A0?OpenDocument"
 sha256_fonte: "4b64f2fed2a702b96fd6f510749966adc869ef21b877f624e67c208e8e31bd79"
-sha256_texto: "888eab0a493d969ae9b937c1166c4c0adf6deb6971e5c3bbc9433cc24760dea4"
+sha256_texto: "9261f19bb3b4e4a5fc9af76a9a0740fc97a26968eab5256fbe31f706a03ed0af"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -31,7 +31,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 3º** A arbitragem deverá ser realizada por professores habilitados com a classe de alunos com deficiência.
 
-**Art. 4º** O Poder Executivo regulamentará a presente Lei. Art.5º Esta Lei entra em vigor na data de sua publicação.
+**Art. 4º** O Poder Executivo regulamentará a presente Lei.
+
+**Art.5º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

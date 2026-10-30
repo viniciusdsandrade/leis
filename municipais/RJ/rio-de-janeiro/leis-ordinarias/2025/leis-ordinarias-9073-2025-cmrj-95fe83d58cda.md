@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/95FE83D58CDA909703258D1C005D578E?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/95FE83D58CDA909703258D1C005D578E?OpenDocument"
 sha256_fonte: "1e5cb831774d9bcdefe842de69d6f10dcee161468fb90ebc35d61cb20c4b4e6c"
-sha256_texto: "534a624159af1d03dfe14f70100b288028e7359c45dcb1f45c5222b35f0d33c7"
+sha256_texto: "1719ae0747eedacd6f8217fa6a216bfad342fb412e406d6f7dd7ce4847e126a1"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -29,7 +29,9 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
 Autor: Vereador Dr. Rogerio Amorim.
 
 **Art. 1º** Ficam incluídas na Lei nº 8.147, de 6 de novembro de 2023, as seguintes disposições:  
-"Art. 3º-A Ficam os estabelecimentos de saúde de que trata esta Lei obrigados a afixar, em locais de fácil visibilidade, cartazes ou placas informativas sobre o exercício do direito à visitação aos pacientes internados. Art. 3º-B O cartaz ou placa informativa deverá conter os dizeres previstos no Anexo Único.
+"Art. 3º-A Ficam os estabelecimentos de saúde de que trata esta Lei obrigados a afixar, em locais de fácil visibilidade, cartazes ou placas informativas sobre o exercício do direito à visitação aos pacientes internados.
+
+**Art. 3º-B** O cartaz ou placa informativa deverá conter os dizeres previstos no Anexo Único.
 
 **Art. 3º-C** O cartaz ou placa deverá seguir as seguintes especificações:
 

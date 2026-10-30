@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/06B822FCB18B829C8325847F005D20B0?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/06B822FCB18B829C8325847F005D20B0?OpenDocument"
 sha256_fonte: "0a8257df404d906cb7c654aa9d8c92a4825a68f07c9f2a8cacf9b72ff0c3aacf"
-sha256_texto: "e26597275e13290928cbbc2137dbf31f161ed127235dede3f1cd15a17c0adcab"
+sha256_texto: "e8da8aa337fe8e43eebc8af2ff42dee5d9477667c0b0a131ff1da7f2bb5c920d"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ Autores: Comissões de Justiça e Redação, de Administração e Assuntos Ligad
 
 **Art. 1º** Fica impossibilitado pela Secretaria Municipal de Cultura de expandir o horário de qualquer tipo de evento que desrespeite a Lei nº 6.179, de 22 de maio de 2017, que dispõe sobre as medidas para o combate eficaz à poluição sonora prejudicial ao meio ambiente, à saúde, à segurança ou ao sossego público.
 
-**Art. 2º** O descumprimento desta Lei acarretará sanções vigentes na Lei nº 6.179, de 2017. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 2º** O descumprimento desta Lei acarretará sanções vigentes na Lei nº 6.179, de 2017.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 **Vereador JORGE FELIPPE Presidente**
 

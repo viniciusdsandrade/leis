@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C0A3D41C6C150DA48325808E006AD9D7?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C0A3D41C6C150DA48325808E006AD9D7?OpenDocument"
 sha256_fonte: "968c2a7e8edb440b4ab567e00691bfad2ac3b8f4d842b66739116195f057bf41"
-sha256_texto: "db3302b4abe6a1f4a4a05c792a1ae294de5e66c5289eefbe9845e1e4aae8c72c"
+sha256_texto: "bd5353ae57cdc43c79aca7fede8285962eb3b384e74bdb543d563257e83be11c"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Parágrafo único.** As áreas referidas no *caput* serão dotadas de mobiliário e instalações adequadas à sua finalidade, proporcionando ambiente seguro, confortável, climatizado e agradável a mães e filhos, abertas durante todo o período funcional dos Espaços de Desenvolvimento Infantil.
 
-**Art. 2º** As despesas decorrentes da implantação das áreas referidas no art. 1º desta Lei correrão por dotação orçamentária própria. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 2º** As despesas decorrentes da implantação das áreas referidas no art. 1º desta Lei correrão por dotação orçamentária própria.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

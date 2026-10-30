@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/1CE1C372763E5555832584D30073E8F0?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/1CE1C372763E5555832584D30073E8F0?OpenDocument"
 sha256_fonte: "718263540c2eb80c579c0ebc34b55d2bcc344df8d2204d0aead81c23e74ca953"
-sha256_texto: "ec7cfdbb20f3926a64725b5bbbfb6e0a6c5cb7ef67a46548bd2ba08b94b261a1"
+sha256_texto: "47b084ab1af9c49e9aa38ca05af6bb31e55478a275340f00dab99eb5d1707c58"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -28,7 +28,9 @@ Autor: Vereador Marcello Siciliano.
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Ficam reservados, dez por cento das vagas de estacionamento destinadas a motocicletas, situadas em logradouros públicos, para o uso exclusivo de motocicletas utilizadas no transporte de cargas. Art. 2º O período de utilização das vagas a que se refere esta Lei não poderá exceder a vinte minutos.
+**Art. 1º** Ficam reservados, dez por cento das vagas de estacionamento destinadas a motocicletas, situadas em logradouros públicos, para o uso exclusivo de motocicletas utilizadas no transporte de cargas.
+
+**Art. 2º** O período de utilização das vagas a que se refere esta Lei não poderá exceder a vinte minutos.
 
 **Art. 3º** Quando o número absoluto de vagas, correspondente a dez por cento das vagas do logradouro, for menor do que uma vaga, será reservado o mínimo de uma vaga para a carga e descarga estabelecida nesta Lei.
 

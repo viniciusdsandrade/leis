@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/41D3B24A469C7DE7832582FF0073C853?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/41D3B24A469C7DE7832582FF0073C853?OpenDocument"
 sha256_fonte: "46216539e743ee191164b6eb5232725877997ddbddbc6a349bbcab159083e854"
-sha256_texto: "201be4079aeadc8698858ec6718eba6b13e179aa1af4eb2d154abfd85e1c90f1"
+sha256_texto: "0a6316e18db023c6534dfa368e416fb9f874d133ee5f44708c9994e4eac59191"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ Autor: Vereador Átila Alexandre Nunes
 
 **Parágrafo único.** A opção de cardápio especial destinado a alunos com restrição alimentar será definida por nutricionistas do quadro de funcionários do Município.
 
-**Art.2º** No início de cada ano letivo haverá levantamento das restrições alimentares individuais do corpo discente para definição do cardápio especial. Art. 3° Esta Lei entra em vigor na data de sua publicação.
+**Art.2º** No início de cada ano letivo haverá levantamento das restrições alimentares individuais do corpo discente para definição do cardápio especial.
+
+**Art. 3°** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 5 de setembro de 2018.
 

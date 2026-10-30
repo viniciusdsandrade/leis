@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/853AF74436D4BA54832584D400753E19?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/853AF74436D4BA54832584D400753E19?OpenDocument"
 sha256_fonte: "0017055ec475038395b5c57e16bb3d815c0edb394742760e73ec37a1793fd350"
-sha256_texto: "20af2965e9074cb0baf892e7de618f898eefd32ff3f223e3af676158d72692e8"
+sha256_texto: "a9836cb9e1e02459fbd55fd1e5b4559501dc70c766a6ba30dc5c550f6e4cd113"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ Autor: Vereador Professor Adalmir
 
 **Art. 1º** O Poder Executivo dará o nome de Pastor Raphael Pereira Nantit (1921/2009) à rua inominada localizada entre a Rua Elzo Ferreira, altura do nº 195 e a Estrada do Engenho Novo, altura do nº 1.551, no Bairro de Parque Anchieta – Área de Planejamento – A.P. 3.6 - Pavuna.
 
-**Art. 2º** No cumprimento desta Lei, o Poder Executivo adotará as medidas administrativas necessárias, observados os ditames da Lei nº 20, de 3 de outubro de 1977. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 2º** No cumprimento desta Lei, o Poder Executivo adotará as medidas administrativas necessárias, observados os ditames da Lei nº 20, de 3 de outubro de 1977.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 Vereador **JORGE FELIPPE Presidente**
 

@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/B39FD165FF29485C832584350055571E?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/B39FD165FF29485C832584350055571E?OpenDocument"
 sha256_fonte: "7a468a0c8209ccbd1d6c2168b5caa5718aa47f075a98934b643067e403190b98"
-sha256_texto: "33487bc6474cbe82f648286e7f616a8d8a89e0309d2c06f1e3383b33383bacd0"
+sha256_texto: "5188a03257c8d64c4bf628a3ab21bc83f0ab2e8cd2d6a15c5109f24fdd17cd72"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ Autor: Vereador Junior da Lucinha
 
 **Art. 1º** Fica declarado como Área de Especial Interesse Social para fins de inclusão em programas de urbanização e regularização fundiária, nos termos do art. 243 da Lei Complementar nº 111, de 1º de fevereiro de 2011, o Sub-bairro São José dos Campos, localizado na Estrada do Magarça, no Bairro de Guaratiba, na forma do Anexo desta Lei.
 
-**Art. 2º** O Poder Executivo adotará os procedimentos necessários à regularização urbanística e fundiária da área previstos nesta Lei, observados os arts. 205 a 209 da Lei Complementar nº 111, de 2011. Art.3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 2º** O Poder Executivo adotará os procedimentos necessários à regularização urbanística e fundiária da área previstos nesta Lei, observados os arts. 205 a 209 da Lei Complementar nº 111, de 2011.
+
+**Art.3º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 16 de julho de 2019.  
   

@@ -16,6 +16,7 @@ from urllib.parse import unquote, urljoin
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from comum import Rede, decodificar, html_para_md, normalizar_chave, yaml_str
+from html2md import LABEL
 
 RAIZ = Path(__file__).resolve().parent.parent
 BASE = "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf"
@@ -153,6 +154,26 @@ def extrair_texto_html(html):
     raise ValueError("texto integral não localizado no HTML Domino")
 
 
+ARTIGO_APOS_PONTO = re.compile(r"(?<=\.) +(?=(?:Art\.|Artigo) ?\d)")
+
+
+def separar_artigos_colados(md):
+    """Abre parágrafo para o artigo que a página deixa no mesmo <p> do anterior ("…nesta Lei. Art. 5º Esta Lei…").
+
+    Só em parágrafo que já começa com artigo; o rótulo sai em negrito, como o html2md faz no começo de parágrafo.
+    """
+    saida = []
+    for par in md.split("\n\n"):
+        if not par.startswith(("**Art.", "**Artigo")):
+            saida.append(par)
+            continue
+        pedacos = ARTIGO_APOS_PONTO.split(par)
+        for i, pedaco in enumerate(pedacos):
+            m = LABEL.match(pedaco) if i else None
+            saida.append(f"**{m.group(1)}**{pedaco[len(m.group(1)):]}" if m else pedaco)
+    return "\n\n".join(saida)
+
+
 def corpo_documento(bruto, content_type=""):
     html = decodificar(bruto, content_type)
     trecho = limpar_chrome(extrair_texto_html(html))
@@ -160,6 +181,7 @@ def corpo_documento(bruto, content_type=""):
     md = re.sub(r"^(?:\*\*)?Texto da Emenda(?:\*\*)?\s*", "", md)
     md = re.sub(r"^(?:\*\*)?Texto Lei Complementar(?:\*\*)?\s*", "", md)
     md = re.sub(r"^(?:\*\*)?Texto da Lei(?:\*\*)?\s*", "", md)
+    md = separar_artigos_colados(md)
     if len(re.sub(r"\W", "", md)) < 80:
         raise ValueError("texto integral vazio após conversão")
     return md.strip() + "\n", html

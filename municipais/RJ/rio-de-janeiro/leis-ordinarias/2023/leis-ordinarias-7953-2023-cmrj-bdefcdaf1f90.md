@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/BDEFCDAF1F907043032589DA005B8C9D?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/BDEFCDAF1F907043032589DA005B8C9D?OpenDocument"
 sha256_fonte: "83f524ec29bc4bd161d5e13b78c7d7461076b92c5a20bc0e4c78ac837a4bd2ed"
-sha256_texto: "264d5d7c7b1d39a87967e4020db68ad91f19c342462aac01b377b326b403bace"
+sha256_texto: "96480e7f23b11b61c03ebfc8759e2c49e3f545b51f2450a892cf87b3f439730c"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -28,7 +28,9 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
   
 Autores: Vereadores Rocal e Eliseu Kessler.
 
-**Art. 1º** O Poder Executivo Municipal do Rio de Janeiro dará o nome de Moacyr Barros Bastos à Zona de Cultura de Campo Grande. Art. 2º Na execução desta Lei, o Poder Executivo Municipal do Rio de Janeiro observará o disposto na Lei nº 20, de 3 de outubro de 1977.
+**Art. 1º** O Poder Executivo Municipal do Rio de Janeiro dará o nome de Moacyr Barros Bastos à Zona de Cultura de Campo Grande.
+
+**Art. 2º** Na execução desta Lei, o Poder Executivo Municipal do Rio de Janeiro observará o disposto na Lei nº 20, de 3 de outubro de 1977.
 
 **Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 

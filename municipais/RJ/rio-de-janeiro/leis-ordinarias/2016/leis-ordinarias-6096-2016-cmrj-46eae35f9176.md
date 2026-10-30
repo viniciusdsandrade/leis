@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/46EAE35F9176A5C183258051003B4F14?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/46EAE35F9176A5C183258051003B4F14?OpenDocument"
 sha256_fonte: "eddd24fd2491a5370b2e3ef3dd525fdbd98a8b1437fb40419fb5edce69faac15"
-sha256_texto: "2e0a01139dce3d98ec4813f8c979339c490deada6a1f93df0b7679fd3834a62a"
+sha256_texto: "473827c8fc32d8ef765c7c1f56ddf86fb7890a708ca4fbc91d49eaf6f17829d3"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -34,7 +34,9 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
 
 **Art. 2º** As passarelas fora deste padrão de altura deverão ser corrigidas no prazo de trinta e seis meses.
 
-**Art. 3º** Fica proibido a instalação e construção de passarelas sem fixação. Art. 4º Esta Lei entra em vigor na data de sua publicação.
+**Art. 3º** Fica proibido a instalação e construção de passarelas sem fixação.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 19 de outubro de 2016.  
   

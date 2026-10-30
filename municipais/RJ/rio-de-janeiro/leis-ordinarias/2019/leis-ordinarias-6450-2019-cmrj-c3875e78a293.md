@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C3875E78A29327948325837B0064BFCF?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C3875E78A29327948325837B0064BFCF?OpenDocument"
 sha256_fonte: "2196e0faf8e254b3e415877d4bb9e9fed338a85ec68083d588437719176422bc"
-sha256_texto: "71e7698ed13c33a52d08358334793311d1272d5f629b433baa8aa9b660484053"
+sha256_texto: "d90bd1b8db58f0fbff259f721d68bfb8c52e7fe2f383e58e99e90aef9ac61cd3"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -27,7 +27,9 @@ Autor: Vereador Paulo Messina
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Fica incluído o Instituto de Ciência Livre Pensador no art. 2º da Lei nº 5.242, de 17 de janeiro de 2011, que trata da Consolidação Municipal de Utilidades Públicas. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Fica incluído o Instituto de Ciência Livre Pensador no art. 2º da Lei nº 5.242, de 17 de janeiro de 2011, que trata da Consolidação Municipal de Utilidades Públicas.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

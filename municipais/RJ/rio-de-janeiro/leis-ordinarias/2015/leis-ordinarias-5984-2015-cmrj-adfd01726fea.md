@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/ADFD01726FEA337283257ED500590529?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/ADFD01726FEA337283257ED500590529?OpenDocument"
 sha256_fonte: "bfa915793911526def1bc6c15b18cc5e23fa82533a6e5ddaadee5aa87e54bf6b"
-sha256_texto: "d951cf6f3daa5e89cd1126b86dd0da92f02688c65718d82f41fcb2d369975afe"
+sha256_texto: "0b435309d5c3fba3f59bbde2b51763c4fa792f057945f4982c4a8aa2b33a01f8"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -92,9 +92,13 @@ a) parcela única, em vencimento a ser fixado em ato do Poder Executivo; ou b) p
 
 **Art. 10.** No caso dos parcelamentos em curso, a remissão e a anistia somente incidirão sobre os créditos tributários relativos às parcelas que ainda não tenham sido quitadas.
 
-**Art. 11.** Na hipótese de desistência em ação judicial, o contribuinte deverá arcar com o recolhimento das custas e encargos porventura devidos. Art. 12. A remissão e a anistia previstas nesta Lei não geram direito adquirido e serão canceladas de ofício, sempre que se apure que o beneficiado não satisfazia ou deixou de satisfazer as condições ou não cumprira ou deixou de cumprir os requisitos para a concessão do favor, cobrando-se o crédito acrescido de juros de mora, observado o disposto no parágrafo único do art. 172 e no parágrafo único do art. 182, ambos da Lei Federal nº 5.172, de 1966.
+**Art. 11.** Na hipótese de desistência em ação judicial, o contribuinte deverá arcar com o recolhimento das custas e encargos porventura devidos.
 
-**Art. 13.** O Poder Executivo regulamentará o disposto nesta Lei no prazo de sessenta dias, contados do início de sua vigência. Art. 14. Esta Lei entra em vigor no dia 1º de janeiro de 2016 ou na data de sua publicação, o que ocorrer por último.
+**Art. 12.** A remissão e a anistia previstas nesta Lei não geram direito adquirido e serão canceladas de ofício, sempre que se apure que o beneficiado não satisfazia ou deixou de satisfazer as condições ou não cumprira ou deixou de cumprir os requisitos para a concessão do favor, cobrando-se o crédito acrescido de juros de mora, observado o disposto no parágrafo único do art. 172 e no parágrafo único do art. 182, ambos da Lei Federal nº 5.172, de 1966.
+
+**Art. 13.** O Poder Executivo regulamentará o disposto nesta Lei no prazo de sessenta dias, contados do início de sua vigência.
+
+**Art. 14.** Esta Lei entra em vigor no dia 1º de janeiro de 2016 ou na data de sua publicação, o que ocorrer por último.
 
 **EDUARDO PAES**
 

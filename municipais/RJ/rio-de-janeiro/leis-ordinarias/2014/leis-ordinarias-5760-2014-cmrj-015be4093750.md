@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/015BE40937503EB183257CFD0048F49B?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/015BE40937503EB183257CFD0048F49B?OpenDocument"
 sha256_fonte: "a996cfe47856b9a80bdc295a26e3bb2b85011c5c8d841faaad2aa1ae32962b2e"
-sha256_texto: "5d9831466ce0a8d153351949974689e9f5f76586e6f712b4fbe96e6f6096be28"
+sha256_texto: "1d4ef16b72955af7724dd90043e204fb92f3ba43a6cd39922773547d36a2a050"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -26,7 +26,9 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 79, § 7�
 
 *Garante o direito de acessibilidade das pessoas ostomizadas aos sanitários localizados em portos, aeroportos, rodoviárias, postos de saúde e hospitais públicos, mediante a instalação de equipamentos adequados para o seu uso.*
 
-**Art. 1°** Ficam garantidas às pessoas ostomizadas as condições de acessibilidade aos sanitários dos portos, aeroportos, rodoviárias, postos de saúde e hospitais públicos situados no Município, mediante a instalação de equipamentos adequados para a sua utilização, atendendo suas necessidades especiais, bem como a identificação com adesivo próprio. Art. 2° Torna obrigatória a adaptação dos sanitários às necessidades das pessoas ostomizadas na forma desta Lei, no licenciamento da construção de futuros *shopping centers* e estabelecimentos comerciais com área total superior a mil metros quadrados.
+**Art. 1°** Ficam garantidas às pessoas ostomizadas as condições de acessibilidade aos sanitários dos portos, aeroportos, rodoviárias, postos de saúde e hospitais públicos situados no Município, mediante a instalação de equipamentos adequados para a sua utilização, atendendo suas necessidades especiais, bem como a identificação com adesivo próprio.
+
+**Art. 2°** Torna obrigatória a adaptação dos sanitários às necessidades das pessoas ostomizadas na forma desta Lei, no licenciamento da construção de futuros *shopping centers* e estabelecimentos comerciais com área total superior a mil metros quadrados.
 
 **Art. 3º** Os sanitários especiais adequados ao uso das pessoas ostomizadas serão dotados das instalações sanitárias, acessórios e ajustes arquitetônicos dispostos a seguir:
 

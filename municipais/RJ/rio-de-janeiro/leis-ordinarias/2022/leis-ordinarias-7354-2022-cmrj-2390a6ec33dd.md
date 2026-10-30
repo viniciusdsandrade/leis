@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/2390A6EC33DDCA8B0325883E004767CD?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/2390A6EC33DDCA8B0325883E004767CD?OpenDocument"
 sha256_fonte: "b97bf7d2956755abaa79027eb66b6d5427a078d295067398874c112bc68506d9"
-sha256_texto: "b1eaaa7b80a70683a2aa3549c374008de82a46296d17dc4b247c2b29290628b5"
+sha256_texto: "19dc59b577e955d03d0bd9cf5001c13df6d14483a5a67bcf8e9ef45a1302ca30"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -25,7 +25,11 @@ LEI Nº 7.354, DE 10 DE MAIO DE 2022. Dá nome a um viaduto inominado, no bairro
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** O Poder Executivo dará o nome de Viaduto José Ramos de Oliveira "Zé Cocada" (comerciante / 1950 - 2017) ao viaduto inominado, conhecido como Viaduto de Paciência situado no Município. Art. 2º No cumprimento da determinação expressa no art. 1°, o Poder Executivo observará o disposto na Lei nº 20, de 3 de outubro de 1977. Art. 3° Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** O Poder Executivo dará o nome de Viaduto José Ramos de Oliveira "Zé Cocada" (comerciante / 1950 - 2017) ao viaduto inominado, conhecido como Viaduto de Paciência situado no Município.
+
+**Art. 2º** No cumprimento da determinação expressa no art. 1°, o Poder Executivo observará o disposto na Lei nº 20, de 3 de outubro de 1977.
+
+**Art. 3°** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 
