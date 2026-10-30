@@ -32,6 +32,7 @@ jobs:
             /municipais/[A-Z][A-Z]/**/*.md
             /PROGRESSO.md
             /progresso.svg
+            /.github/ibge-municipios.json
 
       - uses: actions/setup-python@v5
         with:
@@ -39,14 +40,14 @@ jobs:
 
       - name: Cadastro de municípios do IBGE
         env:
-          # o mesmo arquivo de municipais/_indice/ibge-municipios.json usado nas auditorias locais
+          # cópia versionada de municipais/_indice/ibge-municipios.json, que fica fora do Git;
+          # a API do IBGE (servicodados.ibge.gov.br) não aceita conexão a partir dos runners
           IBGE_SHA256: d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c
         run: |
           mkdir -p municipais/_indice
-          curl -fsSL --retry 3 -o municipais/_indice/ibge-municipios.json \
-            "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?orderBy=nome"
+          cp .github/ibge-municipios.json municipais/_indice/ibge-municipios.json
           echo "$IBGE_SHA256  municipais/_indice/ibge-municipios.json" | sha256sum -c - || {
-            echo "::error::o cadastro do IBGE mudou; confira e atualize IBGE_SHA256"; exit 1; }
+            echo "::error::.github/ibge-municipios.json mudou; confira e atualize IBGE_SHA256"; exit 1; }
 
       - name: Lote do intervalo
         id: lote
@@ -105,13 +106,16 @@ jobs:
           sparse-checkout: |
             /scripts/*.py
             /.github/testes-ci.txt
+            /.github/requirements-ci.txt
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Dependências do sistema
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Dependências
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+          python3 -m pip install -q -r .github/requirements-ci.txt
 
       - name: Testes
         working-directory: scripts

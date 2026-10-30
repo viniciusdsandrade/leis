@@ -1,0 +1,2 @@
+# Dependências Python dos testes listados em testes-ci.txt (as mesmas versões do ambiente local).
+markdown-it-py==3.0.0
