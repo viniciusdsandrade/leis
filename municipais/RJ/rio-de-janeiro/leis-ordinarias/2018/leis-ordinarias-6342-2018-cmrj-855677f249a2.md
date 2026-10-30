@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/855677F249A2CF8D832582810050F7B8?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/855677F249A2CF8D832582810050F7B8?OpenDocument"
 sha256_fonte: "afd8fe77eb8cda681778c9ccc76320f07b78befc81396fb8b5c811f3393243e2"
-sha256_texto: "4cb0b115d608f3e9aa3868a0148af37cbd7bdaf76653d9b948e93ac5222fcf69"
+sha256_texto: "33bab73a87fa0ebe9021a8e78d6c4559fd750032a1a50318521400e7ff6cd24b"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ Autor: Vereador Renato Moura
 
 **Art.1º** Fica declarado como Patrimônio Cultural de Natureza Imaterial da Cidade do Rio de Janeiro a Enciclopédia do *Funk* – Volume 1 – Movimento *Black* Rio.
 
-**Art. 2º** O Poder Executivo editará os atos necessários para o cumprimento do que dispõe o art. 1º desta Lei. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 2º** O Poder Executivo editará os atos necessários para o cumprimento do que dispõe o art. 1º desta Lei.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 2 de maio de 2018.  
   

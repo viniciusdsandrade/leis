@@ -434,7 +434,3 @@ Governador
 (\*) Publicada no DOE de 27/06/2000.
 
 (\*\*) Argüida a inconstitucionalidade do art. 70, promulgado pela Assembléia Legislativa de Alagoas em 13/10/2000 e publicado no DOE de 20/10/2000.
-
-PAGE
-
-PAGE 1

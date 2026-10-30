@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/1904424CC0D2ADDB032586F50046B5D6?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/1904424CC0D2ADDB032586F50046B5D6?OpenDocument"
 sha256_fonte: "1343a167316aa2a01462339971545f198b6b4bb543d676cb23c7a79a1191bcf9"
-sha256_texto: "4713d0fd559e977245df3a368b3ccb178fe19bcf61361073a102518c149a12bb"
+sha256_texto: "a8ff64259c6217f908139acada35f4da88a0f6018c7d7886df60c6f8d2ac946c"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -47,7 +47,9 @@ IV - inclusão no roteiro turístico oficial do Rio de Janeiro - Guia do Rio; e
 
 V - a repressão ao comércio ambulante irregular.
 
-**Art. 4º** O Poder Executivo editará os atos necessários à regulamentação do disposto nesta Lei. Art. 5º Esta Lei entra em vigor na data de sua publicação.
+**Art. 4º** O Poder Executivo editará os atos necessários à regulamentação do disposto nesta Lei.
+
+**Art. 5º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C78E7C41CAAFE347832580F0004416F8?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/C78E7C41CAAFE347832580F0004416F8?OpenDocument"
 sha256_fonte: "e92e818c4fa0a7b50c5383ef606d1878d117303489390d50eae2b5c6e264d42d"
-sha256_texto: "6f52144be12e63d606a9b6043ef0eb82ff6cb171391e921368b6593efdc2c81b"
+sha256_texto: "0642ca27f74458637dac708b16dcb6b64c47947b8ee86ae8d2a4c19e5ad65f4c"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -40,7 +40,9 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
 
 **Art. 5º** O não cumprimento dos dispositivos desta Lei implicará à CEG a imposição de multa no valor de R$ 2.000,00 (dois mil reais), cujo valor será corrigido anualmente pela variação de créditos tributários do Município do Rio de Janeiro, aplicada em dobro em caso de reincidência, omissão e/ou negligência.
 
-**Art. 6º** A instalação das placas de que trata esta Lei se dará no prazo de cento e vinte dias. Art. 7º Esta Lei entra em vigor na data de sua publicação.
+**Art. 6º** A instalação das placas de que trata esta Lei se dará no prazo de cento e vinte dias.
+
+**Art. 7º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 27 de março de 2017.  
   

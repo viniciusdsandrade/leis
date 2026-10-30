@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0588872AC83F1158032586F500473CC1?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/0588872AC83F1158032586F500473CC1?OpenDocument"
 sha256_fonte: "55269621e7040404421c55d16703e9031defc3d7b1656921765b56c3fd8cf1ef"
-sha256_texto: "9d66f53e129b045f8261bda04d5a67a65b7f040a063100ec80d5ea85a489b254"
+sha256_texto: "c8a643c9927bc2c81d8b19aeeda1be02a7af730894af481eb694f4be7cd34ae3"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -45,7 +45,9 @@ III - suspensão do alvará de funcionamento do estabelecimento até que se faç
 
 **§ 2º** As sanções previstas neste artigo serão aplicadas sem o prejuízo das demais sanções previstas na Lei Federal nº 8.078, de 11 de setembro de 1990, e na Lei Federal nº 13.111, de 2015.
 
-**Art. 3º** O Poder Executivo regulamentará no que couber a presente Lei. Art. 4º Esta Lei entra em vigor na data de sua publicação.
+**Art. 3º** O Poder Executivo regulamentará no que couber a presente Lei.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

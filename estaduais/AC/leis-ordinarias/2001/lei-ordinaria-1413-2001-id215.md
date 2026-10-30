@@ -1166,7 +1166,3 @@ Requisitos necessários:
 • estar legalmente habilitado para o exercício da profissão;
 
 • ser aprovado em concurso público.
-
-PAGE
-
-PAGE 1

@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/F8892ECB7FEA3C5B032576AC0072EB07?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/F8892ECB7FEA3C5B032576AC0072EB07?OpenDocument"
 sha256_fonte: "5dec6f9dca1fa5ec0e8d54c36decdd8649fecd721ea27aaaa9221195464645b7"
-sha256_texto: "38ad8d90790cc9be504baac98547b16e5cea3aa71d282261548f8c32c86e7d3a"
+sha256_texto: "940ff1e2a6f9f2b438d633d4cbd5cdcf40f43b18c761c2468461140c07619a9a"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -26,7 +26,9 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 79, § 7�
   
 Autor: Vereador Luiz Carlos Ramos. Art. 1º Fica o Poder Executivo autorizado a instituir subvenção social ou auxílio anual à instituição denominada Associação Brasileira Beneficente de Reabilitação-ABBR, no valor de R$2.000.000,00 (dois milhões de Reais) para o corrente exercício e a contar a data de publicação desta Lei.
 
-**Art. 2º** As despesas decorrentes do que preceitua a presente Lei correrão por conta de dotações orçamentárias próprias, ficando o Poder Executivo autorizado a abrir créditos suplementares e especiais, se necessários. Art. 3º Esta Lei entra em vigor na data de sua publicação.  
+**Art. 2º** As despesas decorrentes do que preceitua a presente Lei correrão por conta de dotações orçamentárias próprias, ficando o Poder Executivo autorizado a abrir créditos suplementares e especiais, se necessários.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.  
 Câmara Municipal do Rio de Janeiro, em 29 de dezembro de 2004.
 
 **SAMI JORGE HADDAD ABDULMACIH Presidente**

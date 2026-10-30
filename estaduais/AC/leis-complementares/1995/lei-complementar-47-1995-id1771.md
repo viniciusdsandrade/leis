@@ -2701,9 +2701,3 @@ baixado_em: 2026-10-13
 | **ENTRÂNCIAS** **E** **COMARCAS** | **DENOMINAÇÃO** | **QUANT.** **DE** **SERVENTIAS** |
 | --- | --- | --- |
 | **III - Primeira Entrância** **A - COMARCAS:** **11. Porto Acre:** **12. Porto Walter:** | Cartório do Tabelionato de Notas. Cartório do Registro de Imóveis. Cartório do Registro de Títulos e Documentos e das Pessoas Jurídicas. Cartório do Registro de Protestos de Títulos Cambiais. Cartório do Registro Cível das Pessoas Naturais. Cartório do Registro de Distribuição. Cartório Móvel de Registro Cível das Pessoas Naturais com função de Tabelionato de Notas. Cartório do Tabelionato de Notas. Cartório do Registro de Imóveis. Cartório do Registro de Títulos e Documentos e das Pessoas Jurídicas. Cartório do Registro de Protestos de Títulos Cambiais. Cartório do Registro Cível das Pessoas Naturais. Cartório do Registro de Distribuição. Cartório Móvel de Registro Cível das Pessoas Naturais com função de Tabelionato de Notas. | 1 1 1 1 2 1 1 1 1 1 1 2 1 1 |
-
-PAGE
-
-PAGE 27
-
-PAGE

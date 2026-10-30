@@ -172,7 +172,3 @@ baixado_em: 2026-10-13
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 4

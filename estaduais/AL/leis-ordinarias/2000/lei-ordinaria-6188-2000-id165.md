@@ -631,5 +631,3 @@ Anexo de Prioridades e Metas à Lei de Diretrizes Orçamentárias para o Exercí
 | - Implantação da Biblioteca do Ministério Público. |  |
 | - Implantação do Centro de Apoio e Aperfeiçoamento Funcional. |  |
 | - Capacitação e Treinamento de Recursos Humanos. |  |
-
-PAGE 9

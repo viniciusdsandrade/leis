@@ -1918,7 +1918,3 @@ baixado_em: 2026-10-13
 | **Chefe de Equipe Policial** | **FC-3** |
 | **Chefe do Posto de Identificação** | **FC-2** |
 | **Chefe de Seção** | **FC-2** |
-
-PAGE 16
-
-PAGE 62

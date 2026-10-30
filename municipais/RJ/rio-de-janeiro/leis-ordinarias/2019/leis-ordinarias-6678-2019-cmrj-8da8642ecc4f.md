@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/8DA8642ECC4FC81E832584D30072ED76?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/8DA8642ECC4FC81E832584D30072ED76?OpenDocument"
 sha256_fonte: "31075db0b206be3da00b1635dc914746475cf20e708a3aa059b9d67737c3d090"
-sha256_texto: "7a6c7ed5cc7d8cea858bb1000c1df231633fc929343bcf6530531934415e5f6d"
+sha256_texto: "e300287a01572ad0d8633b086288131ed3d4b089cd8b99e21d469f8af1774b10"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -26,7 +26,9 @@ Autor: Vereador Zico Bacana.
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Fica incluído, no § 9º do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, o seguinte evento: Semana de prevenção, conscientização e combate à depressão e à automutilação, a ser comemorada anualmente na primeira semana de setembro. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Fica incluído, no § 9º do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, o seguinte evento: Semana de prevenção, conscientização e combate à depressão e à automutilação, a ser comemorada anualmente na primeira semana de setembro.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

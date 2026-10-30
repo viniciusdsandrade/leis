@@ -252,7 +252,3 @@ quatorze cargos de Procurador de Justiça.
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 6

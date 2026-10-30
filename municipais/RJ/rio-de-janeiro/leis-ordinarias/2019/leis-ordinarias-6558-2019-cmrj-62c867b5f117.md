@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/62C867B5F117F6A2832583E70065BCFA?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/62C867B5F117F6A2832583E70065BCFA?OpenDocument"
 sha256_fonte: "33f99bd56f9b3f59a7f4f46fad8fc56c063463ad1ab063b9047338a1652ac854"
-sha256_texto: "3b3b0f0e231ac1a19c0284ffde51b61b6e7b709e27453c5165e276d9b0a7011c"
+sha256_texto: "21b166441b19a55f6d3e6a004453e17dd3e1595874c910158bff516c24af13aa"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -26,7 +26,15 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
   
 Autor: Vereador Átila A. Nunes.
 
-**Art. 1°** Fica reconhecida como atividade extracurricular a prática de Capoeira, a ser difundida nas escolas da Rede Municipal do Rio de Janeiro. Parágrafo único. A atividade extracurricular de que trata o *caput* tem por objetivo ensinar aos alunos da Rede Pública Municipal a Capoeira. Art. 2º A prática da Capoeira como atividade extracurricular deverá ser realizada periodicamente em horário alternativo nas escolas de tempo integral. Art. 3º Não havendo espaço coberto adequado para a realização da atividade poderão ser distribuídas cartilhas, *folders,*elaboradas exposições, dentre todos os meios didáticos de que dispuser a escola para a melhor compreensão do tema. Art. 4º Para a execução da atividade extracurricular poderão ser firmados acordos com federações de Capoeira reconhecidas. Art.5 º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1°** Fica reconhecida como atividade extracurricular a prática de Capoeira, a ser difundida nas escolas da Rede Municipal do Rio de Janeiro. Parágrafo único. A atividade extracurricular de que trata o *caput* tem por objetivo ensinar aos alunos da Rede Pública Municipal a Capoeira.
+
+**Art. 2º** A prática da Capoeira como atividade extracurricular deverá ser realizada periodicamente em horário alternativo nas escolas de tempo integral.
+
+**Art. 3º** Não havendo espaço coberto adequado para a realização da atividade poderão ser distribuídas cartilhas, *folders,*elaboradas exposições, dentre todos os meios didáticos de que dispuser a escola para a melhor compreensão do tema.
+
+**Art. 4º** Para a execução da atividade extracurricular poderão ser firmados acordos com federações de Capoeira reconhecidas.
+
+**Art.5** º Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 25 de abril de 2019.
 

@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/00141DC176CFF23C03258814005FB326?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/00141DC176CFF23C03258814005FB326?OpenDocument"
 sha256_fonte: "dea68eb5d27444166d8670333840ad5d30e003c26ebd7777d1f3fc988292fcb5"
-sha256_texto: "0e934192ad898d674b6b60d5703b90458757291569a8dfa87bdb60e444e26a3b"
+sha256_texto: "0e049a72b9d13dd3661de7a434ce7cf7d78b45b3f28f1775abe568337f87cf97"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -29,7 +29,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Fica incluída, no § 3º do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, a seguinte data:  
   
-Dia Municipal de Combate às Notícias Falsas (*Fake News*), a ser realizado, anualmente, no dia 15 de março. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Dia Municipal de Combate às Notícias Falsas (*Fake News*), a ser realizado, anualmente, no dia 15 de março.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

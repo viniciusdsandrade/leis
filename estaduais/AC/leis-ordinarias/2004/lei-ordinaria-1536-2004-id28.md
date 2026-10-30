@@ -62,9 +62,3 @@ Partindo do AC**-25**, próximo à margem esquerda do Rio Abunã, definido pela 
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 3
-
-PAGE \\\*ARABIC 3

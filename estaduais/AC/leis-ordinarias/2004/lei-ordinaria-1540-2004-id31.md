@@ -58,7 +58,3 @@ Inicia-se no marco **MT-05**, localizado a margem esquerda do Igarapé Grajaú, 
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

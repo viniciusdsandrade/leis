@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.vera.mt.leg.br/norma/200"
 fonte_texto: "https://sapl.vera.mt.leg.br/media/sapl/public/normajuridica/2005/200/lei_organica_2005_-_atualizada.doc"
 sha256_fonte: "1166d718f5d9f1002057b1f31de87010bfbccc3618f302a31fcb1f9bdfa7d301"
-sha256_texto: "af246aa84849d65dbe998b0192061f9eb8b3e2791c7a8c8319f9a0bee806da1f"
+sha256_texto: "e790a7abb9a9a0ced850322d2f6b773d94a5222d6de6024dab582c221f27f0c3"
 baixado_em: "2026-10-15"
 ---
 
@@ -2056,8 +2056,4 @@ normas de construção dos logradouros e dos edifícios de uso Público e de ada
 ***Egidio José Wolfart – 2º Secretário* ***Mariza Misturini***
 
 ***Samuel Raimundo da Silva***
-
-PAGE
-
-PAGE 27
 

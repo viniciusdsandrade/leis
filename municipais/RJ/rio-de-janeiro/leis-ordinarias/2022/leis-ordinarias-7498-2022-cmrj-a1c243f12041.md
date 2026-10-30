@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/A1C243F12041ADB8032588A9004A78E8?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/A1C243F12041ADB8032588A9004A78E8?OpenDocument"
 sha256_fonte: "9aa37ecff361a911b70cd4bd0b41f5a69d2f3d082fb0f683ecacaa5d86af283e"
-sha256_texto: "eb5a05eb06ce6d69afbdab4329f44bcd063714183665a78b77d7b669f85d235b"
+sha256_texto: "9bdbecd0d827609cde23945f481fa36fe9cd29a5c37ae449c2b8f182c8cb60c1"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -26,7 +26,9 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
 
 *Dispõe sobre a* *Lei Geral dos Polos, consolidando toda a legislação municipal referente à criação de Polos Gastronômico, Cultural, Recreativo, Ambiental, Desportivo, Tecnológico, Moveleiro, Cinematográfico, Turístico, Automotivo ou de qualquer natureza na Cidade do Rio de Janeiro, em dispositivo único, e dá outras providências.* Autores: Vereadores Rafael Aloisio Freitas, Rosa Fernandes, Zico, Val Ceasa, Luiz Ramos Filho, Willian Coelho, Felipe Michel, Inaldo Silva, Alexandre Isquierdo, Jair da Mendes Gomes e Tânia Bastos.
 
-**Art. 1º** Esta Lei consolida a Legislação Municipal referente à criação de Polos Gastronômico, Cultural, Recreativo, Ambiental, Desportivo, Tecnológico, Moveleiro, Cinematográfico, Turístico, Automotivo ou de qualquer natureza na Cidade do Rio de Janeiro. Art. 2º Ficam considerados por consolidação os Polos Gastronômico, Cultural, Recreativo, Ambiental, Desportivo, Tecnológico, Moveleiro, Cinematográfico, Turístico, Automotivo e de qualquer natureza relacionados no art. 3º, bem como os criados no âmbito do Poder Executivo e incorporados por esta Lei.
+**Art. 1º** Esta Lei consolida a Legislação Municipal referente à criação de Polos Gastronômico, Cultural, Recreativo, Ambiental, Desportivo, Tecnológico, Moveleiro, Cinematográfico, Turístico, Automotivo ou de qualquer natureza na Cidade do Rio de Janeiro.
+
+**Art. 2º** Ficam considerados por consolidação os Polos Gastronômico, Cultural, Recreativo, Ambiental, Desportivo, Tecnológico, Moveleiro, Cinematográfico, Turístico, Automotivo e de qualquer natureza relacionados no art. 3º, bem como os criados no âmbito do Poder Executivo e incorporados por esta Lei.
 
 **§ 1º** A partir da vigência desta Lei, as novas proposições legislativas, quando sancionadas ou promulgadas, serão obrigatoriamente incorporadas à norma geral, agora Lei Geral dos Polos, devendo ser esta a norma matriz para a criação de Polos, organizados por Áreas de Planejamento ou similar.
 

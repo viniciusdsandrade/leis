@@ -90,7 +90,3 @@ baixado_em: 2026-10-13
 **ORLEIR MESSIAS CAMELI**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 3

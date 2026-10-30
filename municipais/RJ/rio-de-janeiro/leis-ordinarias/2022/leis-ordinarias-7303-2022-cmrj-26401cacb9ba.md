@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/26401CACB9BA12FA03258828004BADC4?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/26401CACB9BA12FA03258828004BADC4?OpenDocument"
 sha256_fonte: "26729ec5945de164d6c471be759823243bc75f12f5e835b4ea15cf69505f169d"
-sha256_texto: "6c6fcd86ba5e993c1b9aa0f887012a91e0ca0db3c3b5002b009dae0f0741b268"
+sha256_texto: "dc8d1cf10200cc90e2e78f1c877df5eae173b7352633cc8a20e8703c8b647860"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -26,7 +26,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Fica incluído, no §10. do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, o seguinte evento:  
   
-O Dia do Fisioterapeuta e do Terapeuta Ocupacional, a ser comemorado anualmente no dia 13 de outubro. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+O Dia do Fisioterapeuta e do Terapeuta Ocupacional, a ser comemorado anualmente no dia 13 de outubro.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

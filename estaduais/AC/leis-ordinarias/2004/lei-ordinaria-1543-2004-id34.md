@@ -58,7 +58,3 @@ Inicia-se no marco **RA-4**, localizado à margem esquerda do Rio Juruá, defini
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

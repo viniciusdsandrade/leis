@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/AF69B096FD07A58A0325870300763810?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/AF69B096FD07A58A0325870300763810?OpenDocument"
 sha256_fonte: "9101f218cf3536be1f5ff71baa2848facd587b17da93fc233536e57214850564"
-sha256_texto: "5ef466d67f9458fc97faddcc5c9398965dbe9b53d41c592365d7e0998b7ce6af"
+sha256_texto: "94bc54a372940ce623edb69dba4a4674a870eefc199a6ddcf14a70a3990b12b1"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -29,7 +29,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Fica incluída, no § 5º do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, a seguinte data comemorativa:  
   
-Dia do(a) Técnico(a) de Enfermagem e do(a) Auxiliar de Enfermagem, a ser comemorado anualmente no dia 20 de maio. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Dia do(a) Técnico(a) de Enfermagem e do(a) Auxiliar de Enfermagem, a ser comemorado anualmente no dia 20 de maio.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

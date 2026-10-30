@@ -379,7 +379,3 @@ baixado_em: 2026-10-13
 | TIPO “B” | 0,30 p/m2 |  |  |
 | TIPO “C” | 0,20 p/m2 |  |  |
 | INDUSTRIAL | 0,20 p/m2 |  |  |
-
-PAGE
-
-PAGE 14

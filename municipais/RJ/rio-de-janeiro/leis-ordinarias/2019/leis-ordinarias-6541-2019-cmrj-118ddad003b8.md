@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/118DDAD003B88568832583E60060E3B7?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/118DDAD003B88568832583E60060E3B7?OpenDocument"
 sha256_fonte: "4ffee57c4132b303d1692555f2691d2ad955d3f52be04d45081b8c685159416b"
-sha256_texto: "b0424d894877cc3559f69b96f6bf9e9d455863804f5912dfc47eba68fff50928"
+sha256_texto: "88aa28d8a884582dc769e97a3d97e1ab0bc97aaeddbd67692ad961c037604d87"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -29,7 +29,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Ficam as unidades de saúde públicas e privadas obrigadas a afixar cartazes informativos em local de fácil acesso contendo os seguintes dizeres:  
   
-“Dentre os idosos, é assegurada prioridade especial aos maiores de oitenta anos, atendendo-se suas necessidades sempre preferencialmente em relação aos demais idosos. Lei Federal nº 13.466, de 12 de julho de 2017.” Art. 2º Ato do Poder Executivo regulamentará esta Lei, no que couber. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+“Dentre os idosos, é assegurada prioridade especial aos maiores de oitenta anos, atendendo-se suas necessidades sempre preferencialmente em relação aos demais idosos. Lei Federal nº 13.466, de 12 de julho de 2017.” Art. 2º Ato do Poder Executivo regulamentará esta Lei, no que couber.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

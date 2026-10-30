@@ -237,7 +237,3 @@ EMBED PBrush
 | Gerente de Projeto | DS-4 | 05 | 780,00 |
 | Função Gratificada | FG-1 | 02 | 271,00 |
 | Função Gratificada | FG-3 | 07 | 203,00 |
-
-PAGE
-
-PAGE 7

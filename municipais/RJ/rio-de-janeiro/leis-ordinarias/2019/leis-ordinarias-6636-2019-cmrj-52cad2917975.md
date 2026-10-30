@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/52CAD2917975D0288325846C00653A1A?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/52CAD2917975D0288325846C00653A1A?OpenDocument"
 sha256_fonte: "b6a5518d860e4238727f0502ce52087629e208d73c9ed627d6c79c0aaecc0519"
-sha256_texto: "30df511c48c4d5987fe3f30ee1d0b213ddb2e89303e944b25e5a6bb65c4f37e3"
+sha256_texto: "22784cfdb336862bda9cc8dd747281e6d47a4581ee8835166802ecef000b0dea"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -28,9 +28,15 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
   
 Autora: Vereadora Teresa Bergher.
 
-**Art. 1º** Fica estabelecida a obrigatoriedade de a Concessionária do Metrô na Cidade do Rio de Janeiro elaborar, apresentar e manter plano operacional especial durante o período de grandes eventos realizados na Cidade. Parágrafo único. Para os fins de que trata o *caput* consideram-se grandes eventos, dentre outros, o *Réveillon* e o Carnaval. Art.2º O plano operacional especial deverá estabelecer o quantitativo de pessoal em serviço, área de atividade e escala de plantão, dimensionada por estação e horário no período de funcionamento. Parágrafo único. A Concessionária deverá, obrigatoriamente, manter agentes de fiscalização e segurança no interior das estações, nas plataformas de embarque e no interior dos vagões das composições, de modo regular e escalonado nos horários de pico e de acordo com a necessidade do serviço, durante todo o período de realização dos eventos na Cidade. Art. 3º O plano operacional especial deverá ser encaminhado, com antecedência mínima de sessenta dias, para fins de ciência, aos órgãos públicos envolvidos, direta ou indiretamente, com as atividades de segurança e infraestrutura desenvolvidas com a logística dos eventos.
+**Art. 1º** Fica estabelecida a obrigatoriedade de a Concessionária do Metrô na Cidade do Rio de Janeiro elaborar, apresentar e manter plano operacional especial durante o período de grandes eventos realizados na Cidade. Parágrafo único. Para os fins de que trata o *caput* consideram-se grandes eventos, dentre outros, o *Réveillon* e o Carnaval.
 
-**Art.4º** As despesas decorrentes da aplicação desta Lei correrão por conta de dotações orçamentárias próprias. Art. 5º Esta Lei entra em vigor na data de sua publicação.
+**Art.2º** O plano operacional especial deverá estabelecer o quantitativo de pessoal em serviço, área de atividade e escala de plantão, dimensionada por estação e horário no período de funcionamento. Parágrafo único. A Concessionária deverá, obrigatoriamente, manter agentes de fiscalização e segurança no interior das estações, nas plataformas de embarque e no interior dos vagões das composições, de modo regular e escalonado nos horários de pico e de acordo com a necessidade do serviço, durante todo o período de realização dos eventos na Cidade.
+
+**Art. 3º** O plano operacional especial deverá ser encaminhado, com antecedência mínima de sessenta dias, para fins de ciência, aos órgãos públicos envolvidos, direta ou indiretamente, com as atividades de segurança e infraestrutura desenvolvidas com a logística dos eventos.
+
+**Art.4º** As despesas decorrentes da aplicação desta Lei correrão por conta de dotações orçamentárias próprias.
+
+**Art. 5º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 5 de setembro de 2019.
 

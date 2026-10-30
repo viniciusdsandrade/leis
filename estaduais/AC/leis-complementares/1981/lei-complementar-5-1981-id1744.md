@@ -1126,7 +1126,3 @@ baixado_em: 2026-10-13
 **JOAQUIM FALCÃO MACÊDO**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 39

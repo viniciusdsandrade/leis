@@ -88,5 +88,3 @@ PAGE
 PAGE 2
 
 .
-
-PAGE

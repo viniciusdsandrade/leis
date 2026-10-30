@@ -76,7 +76,3 @@ G o v e r n a d o r
 (\*) Publicada no DOE de 14/08/2000.
 
 (\*\*) Revogada pela Lei n.º 6.225, de 15/01/2001 (DOE de 16/01/2001).
-
-PAGE 2
-
-PAGE 2

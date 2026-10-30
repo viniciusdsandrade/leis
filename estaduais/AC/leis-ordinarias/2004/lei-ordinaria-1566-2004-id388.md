@@ -570,23 +570,3 @@ baixado_em: 2026-10-13
 | **10 – SUBSECRETARIA DE CONTROLE INTERNO** |  |
 | Serviço de Controle e Fiscalização |  |
 | Serviço de Auditoria |  |
-
-PAGE
-
-PAGE 9
-
-PAGE 14
-
-PAGE 30
-
-PAGE \\\*ARABIC 9
-
-PAGE \\\*ARABIC 9
-
-PAGE \\\*ARABIC 30
-
-PAGE \\\*ARABIC 30
-
-PAGE \\\*ARABIC 14
-
-PAGE \\\*ARABIC 14

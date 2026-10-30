@@ -104,7 +104,3 @@ Contrato de 25 horas (aplicação a partir de maio de 2002)
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 3

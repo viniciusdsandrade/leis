@@ -433,7 +433,8 @@ def pdf_escaneado(texto):
     return len(re.sub(r"\W", "", texto)) / paginas < 300
 
 
-CAMPO_PAGINA_WORD = re.compile(r"[^\n]{0,80}\bPAGE \d+(?: de NUMPAGES \d+)?")
+# "LM 4637 Página PAGE 32", "PAGE 2", "PAGE \\*ARABIC 2" (o asterisco sai escapado no Markdown) ou "PAGE" sozinho
+CAMPO_PAGINA_WORD = re.compile(r"[^\n]{0,80}\bPAGE(?: \\*\*ARABIC)? \d+(?: de NUMPAGES \d+)?|PAGE")
 
 
 def sem_campo_pagina_word(corpo):

@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/572055F4B743AC248325813D00587BC0?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/572055F4B743AC248325813D00587BC0?OpenDocument"
 sha256_fonte: "ac6fd12cbfbcae94fc73f92c24cf9eea896207459e00010067b5f7bd76838e18"
-sha256_texto: "7b6c6deadaaf096f96d0fdb91bffc57c4d5aa72629738cc89c14b52ce5560c8d"
+sha256_texto: "43a80c0bd87fb59bb739608f994f650113c28f8918529373cc39b05f088cae8d"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ Autor: Vereador Reimont
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Fica incluído o Instituto Cultural no Palco da Vida, no art. 2º, da Lei 5.242, de 17 de janeiro de 2011, que trata da Consolidação Municipal de Utilidades Públicas. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Fica incluído o Instituto Cultural no Palco da Vida, no art. 2º, da Lei 5.242, de 17 de janeiro de 2011, que trata da Consolidação Municipal de Utilidades Públicas.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

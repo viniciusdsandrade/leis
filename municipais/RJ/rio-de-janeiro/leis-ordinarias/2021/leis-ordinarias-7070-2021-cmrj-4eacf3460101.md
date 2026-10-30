@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/4EACF3460101560B0325876E00627085?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/4EACF3460101560B0325876E00627085?OpenDocument"
 sha256_fonte: "de867786797392266ba3f90f688083e50f9b6ee95cd6c6e20d7ad33713cbd9b6"
-sha256_texto: "16d8e3c274cd692a486153f02b4b6adf9bd2a668682a1d2f3a32f8130c3368eb"
+sha256_texto: "5fa0bbc3885d4242fd11fc381e2018bfa35046f83451eed8d9547aabd274cfd6"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -29,7 +29,9 @@ Autores: Vereadores Zico e Reimont.
 
 **Art. 1º** O Poder Executivo dará o nome de Praça Antônio Medeiros (1911/1985) à praça inominada localizada na confluência das ruas Oito, Nove e Mataraca, no Bairro de Campo Grande.
 
-**Art. 2°** Na execução desta Lei, o Poder Executivo observará o disposto na Lei nº 20, de 3 de outubro de 1977. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 2°** Na execução desta Lei, o Poder Executivo observará o disposto na Lei nº 20, de 3 de outubro de 1977.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 14 de outubro de 2021.  
   

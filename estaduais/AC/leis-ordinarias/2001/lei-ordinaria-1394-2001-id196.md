@@ -247,7 +247,3 @@ baixado_em: 2026-10-13
 | **Grupo** **Básico II** **Máximo 20%** | **3º Grau** – vinte por cento do Vencimento Básico **Somatória de cursos totalizando 100 horas** - cinco por cento do Vencimento Básico **Por Curso de 80 horas** - cinco por cento do Vencimento Básico |
 | **Grupo** **Técnico** **Máximo 20%** | **Somatória de cursos totalizando 150 horas** - cinco por cento do Vencimento Básico **Mestrado** - dez por cento do Vencimento Básico **Doutorado** – quinze por cento do Vencimento Básico |
 | **Grupo** **Nível Superior** **Máximo 20%** | **Somatória de cursos totalizando 150 horas** - cinco por cento do Vencimento Básico **Especialização –** cinco por cento do Vencimento Básico **Mestrado** - dez por cento do Vencimento Básico **Doutorado** – quinze por cento do Vencimento Básico |
-
-PAGE
-
-PAGE 7

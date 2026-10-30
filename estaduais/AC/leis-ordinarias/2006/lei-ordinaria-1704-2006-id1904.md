@@ -337,7 +337,3 @@ baixado_em: 2026-10-13
 | **PÓS-GRADUAÇÃO LATO SENSU** | - | - | 7,5% |
 | **MESTRADO** | - | - | 15% |
 | **DOUTORADO** | - | - | 20% |
-
-PAGE
-
-PAGE 19

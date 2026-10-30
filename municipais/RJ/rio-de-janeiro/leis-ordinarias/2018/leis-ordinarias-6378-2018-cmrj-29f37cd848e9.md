@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/29F37CD848E9EF7F832582BA005EC183?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/29F37CD848E9EF7F832582BA005EC183?OpenDocument"
 sha256_fonte: "833285e4204378ab20cd45ca131baed32471c176948e8358c450a710c50de31f"
-sha256_texto: "58dba088fa8ec787197469b391f4824a48a4f9b91028d2192dd0ece1fbea1e65"
+sha256_texto: "6b1342652f4827e95ce151be53f52cdddebd5ec419b85781318ca09940d58875"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -27,7 +27,11 @@ Autores: Vereadores Dr. Jorge Manaia e Dr. Carlos Eduardo
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Proíbe o recebimento de medicamento que tenha ultrapassado vinte por cento do seu prazo de validade nas aquisições onerosas de medicamentos realizadas pela Administração Pública Municipal. Art. 2º Proíbe o recebimento de medicamento de uso imediato que tenha ultrapassado vinte e cinco por cento do seu prazo de validade nas aquisições onerosas de medicamentos realizadas pela Administração Pública Municipal. Parágrafo único. Considera-se de uso imediato o medicamento utilizado para campanhas de vacinação. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Proíbe o recebimento de medicamento que tenha ultrapassado vinte por cento do seu prazo de validade nas aquisições onerosas de medicamentos realizadas pela Administração Pública Municipal.
+
+**Art. 2º** Proíbe o recebimento de medicamento de uso imediato que tenha ultrapassado vinte e cinco por cento do seu prazo de validade nas aquisições onerosas de medicamentos realizadas pela Administração Pública Municipal. Parágrafo único. Considera-se de uso imediato o medicamento utilizado para campanhas de vacinação.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

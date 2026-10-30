@@ -80,7 +80,3 @@ qualificação dos profissionais que atuam nos serviços judiciários para inter
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE 1
-
-PAGE 2

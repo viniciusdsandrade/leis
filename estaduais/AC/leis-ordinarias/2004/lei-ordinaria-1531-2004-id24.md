@@ -328,7 +328,3 @@ Inicia-se no marco **RB-15**, situado a margem direita do Rio Espalha, definido 
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

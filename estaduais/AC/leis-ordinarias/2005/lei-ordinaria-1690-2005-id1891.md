@@ -325,7 +325,3 @@ Em R$ 1,00
 **Governador do Estado do Acre**
 
 **OBS:** Referidos Anexos estão disponíveis na Subsecretaria de Atividades Legislativas.
-
-PAGE
-
-PAGE 8

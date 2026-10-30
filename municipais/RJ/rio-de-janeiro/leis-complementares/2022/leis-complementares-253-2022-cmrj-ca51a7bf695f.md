@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CA51A7BF695F33D10325887E004711E4?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CA51A7BF695F33D10325887E004711E4?OpenDocument"
 sha256_fonte: "ba23b2b3728328a25920e5e56041024cacc88f36a6264f4671b0013a53ce5ac4"
-sha256_texto: "f3a62c712a9c7ec06af774ac1933b6a3acd21716772ebc315904be4d83b25b94"
+sha256_texto: "190c2aed698f529cc36a4c72094fcb0ce679bbbacf33dc8a58f42a30332cc20f"
 baixado_em: "2026-10-28"
 revogada: null
 ---
@@ -64,7 +64,9 @@ IV - *brewpub*.
 
 #### CAPÍTULO III — DISPOSIÇÕES GERAIS
 
-**Art. 7º** Aplicam-se, no que couber, as normas e os dispositivos existentes que tornem os processos de outorga e licenciamento mais ágeis, práticos e eficientes. Art. 8º O Poder Executivo editará normas complementares para o pleno cumprimento do disposto nesta Lei Complementar.
+**Art. 7º** Aplicam-se, no que couber, as normas e os dispositivos existentes que tornem os processos de outorga e licenciamento mais ágeis, práticos e eficientes.
+
+**Art. 8º** O Poder Executivo editará normas complementares para o pleno cumprimento do disposto nesta Lei Complementar.
 
 **Art. 9º** Esta Lei Complementar entra em vigor na data de sua publicação.
 

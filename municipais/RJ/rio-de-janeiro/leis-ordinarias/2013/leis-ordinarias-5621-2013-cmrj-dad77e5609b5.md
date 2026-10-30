@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/DAD77E5609B5E8BA03257BF10046C0D3?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/DAD77E5609B5E8BA03257BF10046C0D3?OpenDocument"
 sha256_fonte: "510ad65c81ec3af87d76bd2630f451d01275462a8341e915bed24ee35b774b99"
-sha256_texto: "9a046d72719a68292e1206df387d4cff3ffe832db90d7a3dc2e4bd2c43f2e772"
+sha256_texto: "7d4a1fd815350a1f305aa76bceeed78545b405775a499e2df172ccc1b600d0de"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -26,7 +26,11 @@ LEI Nº 5.621, DE 25 DE SETEMBRO DE 2013
 
 *Estabelece a obrigatoriedade da colocação de legendas nos filmes que recebam incentivos da Riofilmes, na forma que menciona.*
 
-**Art. 1º** Fica estabelecida a obrigatoriedade da colocação de legendas nos filmes que recebam incentivos da Riofilmes. Art. 2º Caberá às distribuidoras de filmes a colocação das legendas mencionadas no art. 1º. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Fica estabelecida a obrigatoriedade da colocação de legendas nos filmes que recebam incentivos da Riofilmes.
+
+**Art. 2º** Caberá às distribuidoras de filmes a colocação das legendas mencionadas no art. 1º.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 25 de setembro de 2013
 

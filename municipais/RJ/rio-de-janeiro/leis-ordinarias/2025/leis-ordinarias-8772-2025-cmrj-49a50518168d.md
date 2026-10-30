@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/49A50518168DDF6703258C070043EDFE?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/49A50518168DDF6703258C070043EDFE?OpenDocument"
 sha256_fonte: "b34b1be92a2ed83aff058c44d27cd556414d47a3822c7ecfe99d968806d9a995"
-sha256_texto: "040a15335d3979a81ab1371fdae3c1805756d7f169d29d9cab6ac5168e2f4d95"
+sha256_texto: "3f5e260097de8b3a21f1a0bb056e5d91f1c256144559be532715c639ee6c18c4"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -29,7 +29,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Fica incluída no § 7º do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, a seguinte data comemorativa:  
   
-Dia do Aniversário do Bairro de Copacabana, a ser celebrado anualmente no dia 6 de julho. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Dia do Aniversário do Bairro de Copacabana, a ser celebrado anualmente no dia 6 de julho.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

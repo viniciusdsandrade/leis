@@ -138,7 +138,3 @@ programa de inovações tecnológicas em pequenas empresas.
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE 1
-
-PAGE 4

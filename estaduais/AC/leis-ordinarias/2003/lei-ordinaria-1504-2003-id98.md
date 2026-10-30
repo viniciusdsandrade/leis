@@ -343,9 +343,3 @@ Art. 4º, § 2º, inciso III da Lei Complementar n. 101/2000
 FONTE: Gerencia de Administração Tributária – SEFAZ
 
 Secretaria de Estado de Planejamento e Desenvolvimento Econômico – Sustentável - SEPLANDS
-
-PAGE 1
-
-PAGE
-
-PAGE 2

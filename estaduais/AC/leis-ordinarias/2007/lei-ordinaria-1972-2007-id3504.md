@@ -68,7 +68,3 @@ baixado_em: 2026-10-13
 **ARNÓBIO MARQUES DE ALMEIDA JÚNIOR**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 3

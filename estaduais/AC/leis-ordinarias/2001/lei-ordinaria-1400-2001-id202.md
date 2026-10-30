@@ -92,7 +92,3 @@ Centro de Defesa dos Direitos da Pessoa Humana e Educação Popular.
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE 1
-
-PAGE 2

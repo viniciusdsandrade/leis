@@ -94,11 +94,3 @@ baixado_em: 2026-10-13
 
 |  | **A rota Rio Branco/Manoel Urbano/Rio Branco terá a permanência de apenas seis meses por ano, em virtude de sua condição de parcialmente isolada.** |
 | --- | --- |
-
-PAGE
-
-PAGE 2
-
-PAGE
-
-PAGE 3

@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/1058F28413C49FF2832584DD005B5A82?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/1058F28413C49FF2832584DD005B5A82?OpenDocument"
 sha256_fonte: "990e43bafec78e5df5344d506f72699e6dc3b3272160eee07d431d19a0f87820"
-sha256_texto: "cd0b0a5bae70e042bbcc58148d1ab3df0022f4784ad2cab580f8075bf59ab41a"
+sha256_texto: "93ce1d8bf7a0cfef06583609afefc2f7c285861ab904df042fc6e38e71eeb860"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -85,7 +85,9 @@ II - dez por cento para desenvolvimento de programas de capacitação e aperfei�
 
 III - cinco por cento para aquisição de material permanente ou outros insumos necessários ao desenvolvimento dos programas; IV - cinco por cento para atendimento de outras despesas de caráter urgente e inadiáveis, necessárias à execução das ações para os esportes. Art. 10-G. Fica o Poder Executivo autorizado a instituir Unidade Orçamentária específica, em Programa de Trabalho próprio, e a natureza das despesas destinadas a alocar os recursos próprios do FUPES e a permitir a execução orçamentária da despesa, nas fontes de recursos indicados no art. 10-F desta Lei.
 
-**Art. 10-H.** Fica instituído o Conselho Municipal para os Esportes – COMESP RIO, ao qual cabe estabelecer as diretrizes, prioridades e programas de alocação dos recursos do FUPES, em conformidade com a Política Municipal para os Esportes. Art. 10-I. O FUPES será administrado pelo COMESP RIO, com a incumbência de gerir os recursos do Fundo, acompanhar as atividades fomentadas, podendo sugerir alterações, bem como outras iniciativas a serem fomentadas.
+**Art. 10-H.** Fica instituído o Conselho Municipal para os Esportes – COMESP RIO, ao qual cabe estabelecer as diretrizes, prioridades e programas de alocação dos recursos do FUPES, em conformidade com a Política Municipal para os Esportes.
+
+**Art. 10-I.** O FUPES será administrado pelo COMESP RIO, com a incumbência de gerir os recursos do Fundo, acompanhar as atividades fomentadas, podendo sugerir alterações, bem como outras iniciativas a serem fomentadas.
 
 **Parágrafo único.** Cabe ao COMESP RIO elaborar, aprovar e apresentar, no primeiro trimestre de cada exercício, o plano anual para aplicação dos recursos do FUPES.
 

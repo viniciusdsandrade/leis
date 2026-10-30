@@ -155,6 +155,16 @@ class CmrjTest(unittest.TestCase):
         self.assertEqual(motivos, {"reservado", "fonte-existente"})
         self.assertEqual(resto, 0)
 
+    def test_separa_artigo_colado_ao_anterior(self):
+        md = ("Ementa. Art. 1º não é parágrafo de artigo.\n\n"
+              "**Art. 4º** O Poder Executivo regulamentará esta Lei. Art. 5º Esta Lei entra em vigor.\n\n"
+              "**Art. 6º** Conforme o art. 2º desta Lei, fica mantido.")
+        self.assertEqual(cmrj.separar_artigos_colados(md),
+                         "Ementa. Art. 1º não é parágrafo de artigo.\n\n"
+                         "**Art. 4º** O Poder Executivo regulamentará esta Lei.\n\n"
+                         "**Art. 5º** Esta Lei entra em vigor.\n\n"
+                         "**Art. 6º** Conforme o art. 2º desta Lei, fica mantido.")
+
 
 if __name__ == "__main__":
     unittest.main()

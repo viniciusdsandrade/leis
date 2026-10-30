@@ -1268,7 +1268,3 @@ Pena - advertência, apreensão, inutilização e/ou interdição do produto, su
 **JOAQUIM FALCÃO MACEDO**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 48

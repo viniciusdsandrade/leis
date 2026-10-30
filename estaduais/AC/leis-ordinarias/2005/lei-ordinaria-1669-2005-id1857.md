@@ -58,7 +58,3 @@ um representante da Comissão de Educação da Assembléia Legislativa do Estado
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

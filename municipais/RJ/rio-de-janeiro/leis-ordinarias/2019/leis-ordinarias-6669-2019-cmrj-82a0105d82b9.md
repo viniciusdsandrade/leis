@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/82A0105D82B9FA2B832584CE0054AC6A?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/82A0105D82B9FA2B832584CE0054AC6A?OpenDocument"
 sha256_fonte: "d69e34629a70f2956f02022dc08e6117b0b0a9331a24a64e4f43e4d69003c0d8"
-sha256_texto: "33266277d828fbfe9b203e99ecab55b9f32b0ff60c3e11f5dd0cc4d9990b6f81"
+sha256_texto: "19d8491a88952db9ea356a731cc5cf3badc8a45e24c1b622b97194abd2648690"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -26,7 +26,9 @@ Autor: Vereador Rafael Aloisio Freitas
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Fica incluída, a Associação Pró Assiste, no art. 2º da Lei nº 5.242, de 17 de janeiro de 2011, que trata da Consolidação Municipal de Utilidades Públicas. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Fica incluída, a Associação Pró Assiste, no art. 2º da Lei nº 5.242, de 17 de janeiro de 2011, que trata da Consolidação Municipal de Utilidades Públicas.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

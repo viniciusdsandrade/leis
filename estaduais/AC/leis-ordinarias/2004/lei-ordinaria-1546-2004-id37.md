@@ -62,7 +62,3 @@ Partindo do **CP-01**, situado a margem direita do Rio Acre, na foz do Igarapé 
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

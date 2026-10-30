@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/04F6830D10E3EB0A8325840900637FC0?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/04F6830D10E3EB0A8325840900637FC0?OpenDocument"
 sha256_fonte: "1e9621ab75f732241740377589bad974a2ac2d6246cb13350e47e915d7839ffc"
-sha256_texto: "c47ad5fb1fc464297bbdb187ec00c41f99bea7634affaa89b92f965f29633cae"
+sha256_texto: "22d460932f9f27d8c08348fc3bd6bde31bc622e63afabcd2867a08617209441b"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -29,7 +29,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1°** Fica incluída, no art. 7° da Lei n° 5.146, de 7 de janeiro de 2010, a seguinte data:  
   
-Semana do Teste de Adams – Teste do Minuto, a ser realizado anualmente na primeira semana do ano letivo. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Semana do Teste de Adams – Teste do Minuto, a ser realizado anualmente na primeira semana do ano letivo.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

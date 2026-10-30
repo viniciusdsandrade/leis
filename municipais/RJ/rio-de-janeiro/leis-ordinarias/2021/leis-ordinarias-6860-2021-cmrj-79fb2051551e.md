@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/79FB2051551E844D032586BF0079FC0D?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/79FB2051551E844D032586BF0079FC0D?OpenDocument"
 sha256_fonte: "9c326a60e2d99e17df7ed947c6deafaaf7f4bec3497a666c0b4809dec96ed0a8"
-sha256_texto: "8ae64c68bb3b6f24dcbcd4d0029769a2849041530827e4a8e3d834a70136a637"
+sha256_texto: "a91d0795a5faa6686a22e589e3c8367121cd7e1dfe3d07e153a1a1c4d8da74cf"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
 
 **Art. 2º** Em decorrência do tombamento efetuado por esta Lei, ficam vedadas a descaracterização e a mudança de função de toda a extensão do referido imóvel, com a finalidade de manter a exclusividade de seu propósito histórico, urbanístico e cultural.
 
-**Art. 3º** O Poder Executivo, por intermédio do órgão competente, adotará as medidas necessárias para o registro do tombamento realizado por esta Lei. Art. 4º Esta Lei entra em vigor na data de sua publicação.
+**Art. 3º** O Poder Executivo, por intermédio do órgão competente, adotará as medidas necessárias para o registro do tombamento realizado por esta Lei.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 22 de abril de 2021.  
   

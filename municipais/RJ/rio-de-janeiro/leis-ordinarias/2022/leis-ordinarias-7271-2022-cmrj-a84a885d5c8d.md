@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/A84A885D5C8DBFAC0325880C0075127A?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/A84A885D5C8DBFAC0325880C0075127A?OpenDocument"
 sha256_fonte: "2bb381c7991070b27d1edbb348f1935ad0ae04e581a996ee33c0bc75bdd8cbc3"
-sha256_texto: "b5f7412645b3670e3cea1d77716b116cd75880a3be208454cb4fd3329d8ed8dd"
+sha256_texto: "a99f9e2458c608f267efc54e1adb120891b8c995427902a03dbf2e720f6132eb"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -32,7 +32,9 @@ Autor: Vereador Celso Costa
 
 **Art. 1** º Fica criado o Bairro da Fazenda Botafogo, resultado da subdivisão do Bairro Coelho Neto, na área AP-3, Gerência Executiva local Rocha Miranda, delimitado e descrito na forma do Anexo Único.
 
-**Art. 2º** O Bairro Fazenda Botafogo terá os seguintes limites: Avenida Prefeito Sá Lessa seguindo até a Rodovia Governador Mário Covas (Avenida Brasil), até a Avenida Pastor Martin Luther King Junior seguindo até a Avenida Prefeito Sá Lessa, no ponto de partida. Art. 3º As seguintes ruas farão parte do Bairro Fazenda Botafogo:
+**Art. 2º** O Bairro Fazenda Botafogo terá os seguintes limites: Avenida Prefeito Sá Lessa seguindo até a Rodovia Governador Mário Covas (Avenida Brasil), até a Avenida Pastor Martin Luther King Junior seguindo até a Avenida Prefeito Sá Lessa, no ponto de partida.
+
+**Art. 3º** As seguintes ruas farão parte do Bairro Fazenda Botafogo:
 
 I - Rua Pedro Jório;
 
@@ -80,7 +82,9 @@ XXII - Rua Steimann;
 
 XXIII - Rua Ender;
 
-**Art. 4º** Ato do Poder Executivo regulamentará esta Lei. Art. 5º Esta Lei entra em vigor na data de sua publicação.
+**Art. 4º** Ato do Poder Executivo regulamentará esta Lei.
+
+**Art. 5º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 22 de março de 2022.  
   

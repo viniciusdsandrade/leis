@@ -38,7 +38,3 @@ O imóvel é constituído por um polígono regular, tendo início no vértice 1,
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

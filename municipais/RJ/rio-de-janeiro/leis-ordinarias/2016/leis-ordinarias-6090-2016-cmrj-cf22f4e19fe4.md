@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CF22F4E19FE4EFB58325801E00538D72?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CF22F4E19FE4EFB58325801E00538D72?OpenDocument"
 sha256_fonte: "2147c01d2d216cf17c0fee9156de40d5fe5934175a71f675b0d14875c76c83f9"
-sha256_texto: "dfbf31d8d3c83f6ea7261aa864785d1056e081edc0e530e56194a7ba7cdec507"
+sha256_texto: "08a91ab1f65139c24b0c73c8df13187522646639c4a381a85deb7f39e704b954"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -64,7 +64,9 @@ II - o porte do espetáculo; e
 
 III - os antecedentes do estabelecimento infrator.
 
-**Art. 5º** O Poder Executivo regulamentará a presente Lei, no que se refere ao valor da multa e no que mais couber, a contar da data de sua publicação. Art. 6º Esta Lei entra em vigor na data de sua publicação.
+**Art. 5º** O Poder Executivo regulamentará a presente Lei, no que se refere ao valor da multa e no que mais couber, a contar da data de sua publicação.
+
+**Art. 6º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 29 de agosto de 2016.  
   

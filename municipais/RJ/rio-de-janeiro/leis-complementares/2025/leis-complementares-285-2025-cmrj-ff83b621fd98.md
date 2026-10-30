@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/FF83B621FD98CE7003258CF8006759EA?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/FF83B621FD98CE7003258CF8006759EA?OpenDocument"
 sha256_fonte: "4e9ed6ea392885c624b0ba28dae4c6e8bca5f1cdd0c1c72b90cd357928907fb5"
-sha256_texto: "287ed31a3ef9af29983d975849872478bf2df55baa7b1aaac4ae7893ced33053"
+sha256_texto: "f7f24da101a2948a9caac965d820fad06eb2a98cd449d056d647159191d29ce2"
 baixado_em: "2026-10-28"
 revogada: null
 ---
@@ -88,7 +88,9 @@ II - aplicam-se a equiparação a funcionários públicos para fins de responsab
 
 **Art. 9º** Acrescente-se o artigo 6º-A à Lei Complementar nº 37, de 14 de julho de 1998, que “Dispõe sobre a delegação da prestação de serviços públicos, prevista no art. 175, da Constituição Federal e no art. 148, §§ 2º e 3º, da Lei Orgânica do Município do Rio de Janeiro e dá outras providências”, com a seguinte redação: “(...)
 
-**Art. 6º-A.** Nas licitações e contratos administrativos municipais que tenham por objeto a delegação da prestação de serviço público, poderá ter a previsão de Comitês de Prevenção e de Resolução de Disputas, desde que haja interesse da Administração, observadas as disposições da Lei Federal nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos)”. Art. 10. Os princípios da legalidade, da publicidade, do contraditório e ampla defesa, da igualdade entre as partes e do livre convencimento dos membros do Comitê deverão ser sempre observados durante a atuação do Comitê.
+**Art. 6º-A.** Nas licitações e contratos administrativos municipais que tenham por objeto a delegação da prestação de serviço público, poderá ter a previsão de Comitês de Prevenção e de Resolução de Disputas, desde que haja interesse da Administração, observadas as disposições da Lei Federal nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos)”.
+
+**Art. 10.** Os princípios da legalidade, da publicidade, do contraditório e ampla defesa, da igualdade entre as partes e do livre convencimento dos membros do Comitê deverão ser sempre observados durante a atuação do Comitê.
 
 **Art. 11.** As disposições desta Lei serão regulamentadas por decreto do Poder Executivo Municipal.
 

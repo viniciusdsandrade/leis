@@ -58,7 +58,3 @@ Inicia-se no marco **M-12**, localizado na divisa comum entre os municípios de 
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

@@ -889,7 +889,3 @@ Grupo de Tributação e Fisco.
 | **TECNÓLOGO** | 30% | 70% | 100% |
 | **NÍVEL SUPERIOR** | 30% | 70% | 100% |
 | **TRIBUTAÇÃO E FISCO** | 30% | 170% | 200% |
-
-PAGE
-
-PAGE 2

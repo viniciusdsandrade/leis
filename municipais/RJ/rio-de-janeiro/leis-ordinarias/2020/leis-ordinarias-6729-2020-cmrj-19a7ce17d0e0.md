@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/19A7CE17D0E0BFF40325853E00508955?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/19A7CE17D0E0BFF40325853E00508955?OpenDocument"
 sha256_fonte: "677e62c05dba3575ae4cd611ed2149e74e2d26bc0f2c8eb64b7c798fef73fa58"
-sha256_texto: "008077b5e510f96251c39aeb03c5ecfa49a4a49202c1848e7b5248ca0eb5ab94"
+sha256_texto: "0f275c455688cc270a492a761793058ad29b9a1ab7c7c56a18ab5fe96c73f3eb"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -30,7 +30,9 @@ Autor: Vereador Fernando William.
 
 **Art. 1º** O Poder Executivo dará o nome de João Gilberto (Músico - 1931/2019) a um logradouro público no Município do Rio de Janeiro.
 
-**Art. 2º** Para o cumprimento do disposto no art. 1º desta Lei, será aplicado aquilo que dispõe a Lei Municipal nº 20, de 3 de outubro de 1977. Art. 3° Esta Lei entra em vigor na data de sua publicação
+**Art. 2º** Para o cumprimento do disposto no art. 1º desta Lei, será aplicado aquilo que dispõe a Lei Municipal nº 20, de 3 de outubro de 1977.
+
+**Art. 3°** Esta Lei entra em vigor na data de sua publicação
 
 Câmara Municipal do Rio de Janeiro, 1º de abril de 2020.
 

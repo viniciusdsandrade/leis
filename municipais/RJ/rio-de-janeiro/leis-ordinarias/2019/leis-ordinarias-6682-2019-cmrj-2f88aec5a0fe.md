@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/2F88AEC5A0FECD02832584D300748444?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/2F88AEC5A0FECD02832584D300748444?OpenDocument"
 sha256_fonte: "e0b42b81cd775834a0565b7c3d8dfaa97fc029108375c313eeb15d5da1da2c2c"
-sha256_texto: "514e40ee4897eaef40f75727f3e92fa4419c5bfecdfb7dc2d7a742b511f2b0d5"
+sha256_texto: "f6d0df70e16bfc72dd55881e8e2c1d2c2b4ebe82791840793606e07dc485b091"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -28,7 +28,9 @@ Autor: Vereador Jimmy Pereira.
 **O PREFEITO DA CIDADE DO RIO DE JANEIRO**  
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Fica incluído no Guia Oficial e no Roteiro Turístico e Cultural do Município do Rio de Janeiro o Bar da Laje, localizado no Morro do Vidigal. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Fica incluído no Guia Oficial e no Roteiro Turístico e Cultural do Município do Rio de Janeiro o Bar da Laje, localizado no Morro do Vidigal.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

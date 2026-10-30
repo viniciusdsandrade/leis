@@ -278,7 +278,3 @@ EMBED PBrush
 | Chefe de Seção | FG-3 | 01 | 203,00 |
 | Ajudante de Ordens do Governador | FG-4 | 01 | 169,00 |
 | Adjunto ao Chefe do Gabinete Militar | FG-4 | 01 | 169,00 |
-
-PAGE
-
-PAGE 6

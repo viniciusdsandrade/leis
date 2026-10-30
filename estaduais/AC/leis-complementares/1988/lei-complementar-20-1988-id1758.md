@@ -132,7 +132,3 @@ baixado_em: 2026-10-13
 **EDSON SIMÕES CADAXO**
 
 **Governador do Estado do Acre, em exercício**
-
-PAGE
-
-PAGE 5

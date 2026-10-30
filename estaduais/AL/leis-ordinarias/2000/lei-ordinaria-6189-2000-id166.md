@@ -184,7 +184,3 @@ Governador
 (\*) Publicada no DOE de 15/08/2000.
 
 (\*\*) Revogada pela Lei n.º 6.228, de 16/01/01, publicada no DOE de 17/01/01.
-
-PAGE
-
-PAGE 3

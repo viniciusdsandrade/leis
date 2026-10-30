@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/A9B5D95E33DDBF0783258466005AD0B5?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/A9B5D95E33DDBF0783258466005AD0B5?OpenDocument"
 sha256_fonte: "6970ed63fd5358c3d5231e50325144327310cce7acaf161f1614437877ad2ab2"
-sha256_texto: "4765c99608bbba41707dafdeb54758d33252bd6ab02e1cadf940a5850743a5be"
+sha256_texto: "6ca7fc579a4797ec9b6906dd6cb283aec70a99d00cc990f8f601d39d917e6f60"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -28,7 +28,9 @@ Autora: Vereadora Tânia Bastos
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Fica incluída, no § 4º do art. 6º da Lei 5.146, de 7 de janeiro de 2010, a seguinte data comemorativa:  
-Caminhada em Prol da Conscientização do Autismo na Cidade do Rio de Janeiro, a ser realizada aos domingos do mês de abril, em virtude das comemorações do Dia Mundial de Conscientização do Autismo, realizado dia 2 de abril. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Caminhada em Prol da Conscientização do Autismo na Cidade do Rio de Janeiro, a ser realizada aos domingos do mês de abril, em virtude das comemorações do Dia Mundial de Conscientização do Autismo, realizado dia 2 de abril.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **MARCELO CRIVELLA**
 

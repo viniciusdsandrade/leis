@@ -617,7 +617,3 @@ Governador
 | --- | --- | --- | --- |
 | Comandante Geral | SE-2 | 01 | R$ 4.100,00 |
 | Função Gratificada | FG-3 | 02 | R$ 203,00 |
-
-PAGE
-
-PAGE 2

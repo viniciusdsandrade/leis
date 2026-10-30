@@ -140,6 +140,9 @@ class CapitaisSalvadorTest(unittest.TestCase):
         corpo = "**Art. 1º** O PAGE 3 do texto fica.\n\n**AUTORIA: COMISSÃO**\n\nLM 4637 Página PAGE 32\n"
         self.assertEqual(sem_campo_pagina_word(corpo), "**Art. 1º** O PAGE 3 do texto fica.\n\n**AUTORIA: COMISSÃO**\n")
         self.assertEqual(sem_campo_pagina_word("Página PAGE 2 de NUMPAGES 9\n\nArt. 1º\n"), "Página PAGE 2 de NUMPAGES 9\n\nArt. 1º\n")
+        # variantes do Acre: campo sem número e com o formato \*ARABIC escapado no Markdown
+        self.assertEqual(sem_campo_pagina_word("**Governador**\n\nPAGE\n\nPAGE 2\n\nPAGE \\\\\\*ARABIC 2"), "**Governador**")
+        self.assertEqual(sem_campo_pagina_word("Art. 9º Consulte a\n\nHOME PAGE"), "Art. 9º Consulte a\n\nHOME PAGE")
 
     def test_gravar_passa_auditoria(self):
         item = next(x for x in CATALOGO if x["slug"] == "plano-diretor-9069-2016")

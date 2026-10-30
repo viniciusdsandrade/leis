@@ -734,7 +734,3 @@ baixado_em: 2026-10-13
 | Chefe de Seção | FG 2 |
 | Chefe de Cartório | FG 4 |
 | Delegado de Polícia Civil Titular | FG 5 |
-
-PAGE 15
-
-PAGE 24

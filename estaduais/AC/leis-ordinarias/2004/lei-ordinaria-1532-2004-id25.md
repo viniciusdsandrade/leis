@@ -130,7 +130,3 @@ Chefe da Assessoria Técnica Gerência 03 1
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2

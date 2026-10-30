@@ -2360,11 +2360,3 @@ LRF, art. 4°, § 2°, Inciso IIR$ milharesESPECIFICAÇÃO
 | PENALIDADES ACESSORIAS | ICMS | 1.500,00 | 1.500,00 | 1.500,00 |  |
 | **TOTAL** |  | **4.127,00** | **4.417,00** | **4.806,00** |  |
 | Fonte: Gerencia de Administração Tributária Nota: Trata-se de benefícios continuados a mais de dois anos já excluídos da previsão da receita. |  |  |  |  |  |
-
-PAGE
-
-PAGE 10
-
-PAGE
-
-PAGE 117

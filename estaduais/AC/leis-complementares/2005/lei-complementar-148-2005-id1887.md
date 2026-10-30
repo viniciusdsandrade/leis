@@ -118,7 +118,3 @@ baixado_em: 2026-10-13
 | **I** | **R$ 8.488,99** |
 
 Obs: Aos valores já estão incorporadas as vantagens previstas no art. 51, III e XII da Lei Complementar n. 45, de 1994 e art. 1º, *in fine,* da Lei Complementar n. 71/01.
-
-PAGE
-
-PAGE 2

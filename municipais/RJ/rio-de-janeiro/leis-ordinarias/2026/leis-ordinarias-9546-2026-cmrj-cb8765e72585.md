@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CB8765E725850CF603258E3C00445E85?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/CB8765E725850CF603258E3C00445E85?OpenDocument"
 sha256_fonte: "78ed171f3745e45dd5cea03e3a15f03440dd3b5f40e638672bec91777c6b2e20"
-sha256_texto: "6fc9a7324f1787e5a242d24f21e9227e28e2ee77fce371cf35adf78178e57f93"
+sha256_texto: "1aaaf13a8c0d82eb61385d3f214c6c55534e53b6b768bdca3e806de4bc0cb075"
 baixado_em: "2026-10-28"
 revogada: null
 ---
@@ -30,7 +30,13 @@ Autor: Vereador Carlo Caiado.
 
 Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Fica reconhecida oficialmente a Praia de Copacabana como “Raia Olímpica de Copacabana”, em virtude de sua tradição histórica, esportiva e cultural relacionada às práticas de natação, maratonas aquáticas, canoas havaianas, *stand up paddle*, *surf, bodyboard,* surfe de peito ou *bodysurf*, e outros esportes náuticos. Art. 2º Fica instituída a denominação “Raia Olímpica de Copacabana” para identificar a Praia de Copacabana como referência mundial para a prática e o desenvolvimento de esportes aquáticos, servindo como símbolo de incentivo ao esporte, ao turismo esportivo e à promoção da saúde e qualidade de vida. Art. 3º O Poder Executivo poderá promover, em parceria com entidades esportivas, associações de moradores e organizações da sociedade civil, ações de fomento, eventos, competições, programas educativos e campanhas de conscientização que valorizem a “Raia Olímpica de Copacabana”. Art. 4º A denominação oficial instituída por esta Lei poderá ser considerada em campanhas publicitárias, materiais turísticos e sinalização urbana voltada à divulgação da Orla de Copacabana.
+**Art. 1º** Fica reconhecida oficialmente a Praia de Copacabana como “Raia Olímpica de Copacabana”, em virtude de sua tradição histórica, esportiva e cultural relacionada às práticas de natação, maratonas aquáticas, canoas havaianas, *stand up paddle*, *surf, bodyboard,* surfe de peito ou *bodysurf*, e outros esportes náuticos.
+
+**Art. 2º** Fica instituída a denominação “Raia Olímpica de Copacabana” para identificar a Praia de Copacabana como referência mundial para a prática e o desenvolvimento de esportes aquáticos, servindo como símbolo de incentivo ao esporte, ao turismo esportivo e à promoção da saúde e qualidade de vida.
+
+**Art. 3º** O Poder Executivo poderá promover, em parceria com entidades esportivas, associações de moradores e organizações da sociedade civil, ações de fomento, eventos, competições, programas educativos e campanhas de conscientização que valorizem a “Raia Olímpica de Copacabana”.
+
+**Art. 4º** A denominação oficial instituída por esta Lei poderá ser considerada em campanhas publicitárias, materiais turísticos e sinalização urbana voltada à divulgação da Orla de Copacabana.
 
 **Art. 5º** Esta Lei entra em vigor na data de sua publicação.
 

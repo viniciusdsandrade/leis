@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/3A5C0C379CAAAE6403257C46004A9621?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/3A5C0C379CAAAE6403257C46004A9621?OpenDocument"
 sha256_fonte: "58e64f9d7a69478aa2509d1f2f6203137091069ff751776ac2b1cbe5b50b1f83"
-sha256_texto: "e4d966a439e0acca2a55de721fb9d468971fdafe9e5726d3259f3e521ec540a1"
+sha256_texto: "b2996acb009690694f8b11c9b33d1a29d83f54fd09f4985438686b4a9bf5e94b"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -24,7 +24,9 @@ REVOGADA POR CONSOLIDAÇÃO LEI Nº 5.642 DE 18 DE dezembro DE 2013. Concede rem
 
 Autor: Poder Executivo **O PREFEITO DA CIDADE DO RIO DE JANEIRO**, faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
-**Art. 1º** Ficam remitidos os créditos tributários relativos ao Imposto sobre a Propriedade Predial e Territorial Urbana – IPTU e à Taxa de Coleta Domiciliar de Lixo – TCL referentes aos exercícios de 2012 e 2013 das unidades imobiliárias localizadas no edifício de número 9 da Praça Tiradentes. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** Ficam remitidos os créditos tributários relativos ao Imposto sobre a Propriedade Predial e Territorial Urbana – IPTU e à Taxa de Coleta Domiciliar de Lixo – TCL referentes aos exercícios de 2012 e 2013 das unidades imobiliárias localizadas no edifício de número 9 da Praça Tiradentes.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

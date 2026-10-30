@@ -986,7 +986,3 @@ EMBED Word.Picture.8
 | **JORNADA DE TRABALHO** |  |
 | **20 HORAS** | **40 HORAS** |
 | 60,00 | 120,00 |
-
-PAGE
-
-PAGE 2

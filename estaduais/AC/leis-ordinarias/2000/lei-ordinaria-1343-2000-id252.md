@@ -206,7 +206,3 @@ promover estudos visando melhorar a situação previdenciária do idoso.
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 6

@@ -250,7 +250,3 @@ Gerência Assistencial do Módulo de Saúde Rui Lino
 Gerência Assistencial do Módulo de Saúde Jardim Primavera
 
 Gerência Assistencial do Módulo de Saúde URS Dr. Francisco de Oliveira Conde
-
-PAGE
-
-PAGE 3

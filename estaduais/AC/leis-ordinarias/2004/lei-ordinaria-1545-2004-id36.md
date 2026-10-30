@@ -58,7 +58,3 @@ Inicia-se no marco **PA-82**, localizado na divisa entre o Estados do Acre e Ama
 **JORGE VIANA**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 3

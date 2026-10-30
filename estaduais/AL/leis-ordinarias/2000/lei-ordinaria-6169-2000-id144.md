@@ -325,7 +325,3 @@ G o v e r n a d o r
 | Função Gratificada | FG-4 | 18 | 169,00 |
 
 (\*) Cargo de Secretário Adjunto, Símbolo SE-3, acrescentado pelo art. 1º da Lei nº 6.321, de 03/07/2002.
-
-PAGE
-
-PAGE 9

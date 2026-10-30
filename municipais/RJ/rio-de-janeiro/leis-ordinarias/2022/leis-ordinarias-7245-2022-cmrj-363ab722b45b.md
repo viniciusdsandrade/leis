@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/363AB722B45B9969032587FA0061B79E?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/363AB722B45B9969032587FA0061B79E?OpenDocument"
 sha256_fonte: "e39a61ea638b2444903b74049e11fa9fb7a2f0d1354756ca40f33091d5fa2663"
-sha256_texto: "10e37d08bd85ed47fc61591e1f0e46cf03686d62dc130d9a5490d52559b9d09d"
+sha256_texto: "f0dae925e75073016d7c6978b726230453e92b5dae8bae046d8c10f222d2c9f9"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -27,7 +27,11 @@ O Presidente da Câmara Municipal do Rio de Janeiro nos termos do art. 56, IV co
 *Dá o nome de Praça Manuel Nonato de Sousa (1934-2020) à praça inominada no Município do Rio de Janeiro.*  
 Autor: Vereador Dr. João Ricardo.
 
-**Art. 1º** O Poder Executivo dará o nome de Praça Manuel Nonato de Sousa (1934-2020) à praça inominada, localizada entre a Av. Niemeyer, Av. João Goulart e Estrada do Vidigal, no Bairro do Vidigal. Art. 2º Na execução desta Lei, o Poder executivo observará o disposto na Lei nº 20, de 3 de outubro de 1977. Art. 3º Esta Lei entra em vigor na data de sua publicação.
+**Art. 1º** O Poder Executivo dará o nome de Praça Manuel Nonato de Sousa (1934-2020) à praça inominada, localizada entre a Av. Niemeyer, Av. João Goulart e Estrada do Vidigal, no Bairro do Vidigal.
+
+**Art. 2º** Na execução desta Lei, o Poder executivo observará o disposto na Lei nº 20, de 3 de outubro de 1977.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 4 de março de 2022.  
   

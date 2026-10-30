@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/37EAD030BBA1D88A0325883E004695A4?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/37EAD030BBA1D88A0325883E004695A4?OpenDocument"
 sha256_fonte: "80c0f85d5a80a76bc92b4ec9c28b165879c9195d9fb3834bc140ef8629cc8f9c"
-sha256_texto: "025c5fc24e9222441a65b89d2e225911fcb7876e166de163464578f1fb3f43ba"
+sha256_texto: "89e2ced770c20f370a25ac0c24ad882f5f8a930162a5932a337850bd03e277dd"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -27,7 +27,9 @@ Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
 
 **Art. 1º** Fica incluído, no § 8º do art. 6° da Lei n° 5.146, de 7 de janeiro de 2010, o seguinte evento:  
   
-Semana Municipal da Pessoa com Deficiência Intelectual e Múltipla a ser comemorada anualmente durante o período de 21 a 28 de agosto. Art. 2º Esta Lei entra em vigor na data de sua publicação.
+Semana Municipal da Pessoa com Deficiência Intelectual e Múltipla a ser comemorada anualmente durante o período de 21 a 28 de agosto.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **EDUARDO PAES**
 

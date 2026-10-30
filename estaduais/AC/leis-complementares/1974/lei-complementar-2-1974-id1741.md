@@ -372,7 +372,3 @@ A Seção de Oficinas contará com as diferentes oficinas de apoio de intendênc
 **FRANCISCO WANDERLEY DANTAS**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 12

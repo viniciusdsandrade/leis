@@ -13,7 +13,7 @@ versao_texto: "texto integral HTML da base de legislação da Câmara Municipal 
 fonte: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/8CB32E5E763EB78583257EE50044D5E1?OpenDocument"
 fonte_texto: "https://aplicnt.camara.rj.gov.br/APL/Legislativos/contlei.nsf/0/8CB32E5E763EB78583257EE50044D5E1?OpenDocument"
 sha256_fonte: "ad004498be65a1a3afbf332634884f36a89b5cc20363db7d3a83e14a02672b60"
-sha256_texto: "588ce58630497745a3c94a1d2b4abc152d534de675a3d2167ebaa19904702a38"
+sha256_texto: "5611f4bb93add117fb96e4f437c7b0c8be1c5fd5a2bcf12a03d49f283e650548"
 baixado_em: "2026-10-29"
 revogada: null
 ---
@@ -54,7 +54,9 @@ II – trabalho infantil é qualquer trabalho realizado por pessoas que tenham m
 
 **Parágrafo único.** Entende-se por agente público municipal, para fins de aplicação desta Lei, todo aquele que, por força de dispositivos legais, contrato ou de qualquer ato jurídico, preste serviços de natureza permanente, temporária ou excepcional, ainda que sem retribuição financeira, desde que ligado direta ou indiretamente a qualquer órgão ou entidade da Administração Pública Municipal Direta ou Indireta, ou em qualquer setor onde prevaleça o interesse do Município.
 
-**Art. 7º** O Poder Executivo terá um prazo de noventa dias para regulamentar a presente Lei. Art. 8º Esta Lei entra em vigor na data da sua publicação.
+**Art. 7º** O Poder Executivo terá um prazo de noventa dias para regulamentar a presente Lei.
+
+**Art. 8º** Esta Lei entra em vigor na data da sua publicação.
 
 Câmara Municipal do Rio de Janeiro, 21 de outubro de 2015.
 

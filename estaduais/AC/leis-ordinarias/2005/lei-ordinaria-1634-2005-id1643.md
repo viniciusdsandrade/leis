@@ -52,7 +52,3 @@ baixado_em: 2026-10-13
 | **Referência 14** | **171,00** |
 | **Referência 15** | **164,00** |
 | **Referência 16** | **157,00** |
-
-PAGE
-
-PAGE 2

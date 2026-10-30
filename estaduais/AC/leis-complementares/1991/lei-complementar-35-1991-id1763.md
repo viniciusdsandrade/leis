@@ -246,7 +246,3 @@ baixado_em: 2026-10-13
 **EDMUNDO PINTO DE ALMEIDA NETO**
 
 **Governador do Estado do Acre**
-
-PAGE
-
-PAGE 2
