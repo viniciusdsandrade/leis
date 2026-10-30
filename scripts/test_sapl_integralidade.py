@@ -28,6 +28,13 @@ class IntegralidadeSAPLTest(unittest.TestCase):
             self.assertIsNone(motivo_retencao(cache, 1, b'novos bytes oficiais'))
             self.assertIsNone(motivo_retencao(cache, 2, bruto))
 
+    def test_antigo_1_do_ocr_vale_como_rotulo_so_no_comeco_da_linha(self):
+        base = "LEI Nº 6283 DE 28 DE SETEMBRO DE 1990\nA Câmara Municipal aprovou e eu, Prefeito, sanciono a seguinte lei:\n"
+        self.assertTrue(corpo_integral_reconhecivel(base + "Antigo 1º \u00ad Fica denominada a Rua 96."))
+        self.assertTrue(corpo_integral_reconhecivel(base + "Antigo 1º - Fica instituído o Conselho."))
+        self.assertFalse(corpo_integral_reconhecivel(base + "Fica criado no antigo 1º - Distrito o posto."))
+        self.assertFalse(corpo_integral_reconhecivel(base + "Antigo 1º Distrito de Campinas passa a bairro."))
+
     def test_data_do_cadastro_de_outro_ano_e_retida(self):
         # Campinas, Lei 11.551: data "2000-03-05" no cadastro, ano 2003, publicada em 2003-05-13
         self.assertTrue(data_diverge_do_ano({'data': '2000-03-05', 'ano': 2003, 'data_publicacao': '2003-05-13'}))

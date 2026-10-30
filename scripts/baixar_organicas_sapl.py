@@ -124,6 +124,10 @@ def escrever(p, b):
 def corpo_integral_reconhecivel(corpo, emenda=False):
     if re.search(r"art(?:igo)?\.?\s*1(?:[º°o]|\b)|art(?:igo|\.)\s*[úu]nico", corpo, re.I):
         return True
+    # o OCR de leis digitalizadas lê "Artigo 1º" como "Antigo 1º" (Campinas, 1985 e 1990); só vale como
+    # rótulo no começo da linha e seguido do separador do dispositivo, para não confundir com "antigo 1º Distrito"
+    if re.search(r"(?m)^\W*Antigo\s*1\s*[º°o]\s*[-–—\u00ad.]", corpo):
+        return True
     # Algumas emendas transcrevem primeiro o artigo que alteram; o próprio ato
     # usa PROMULGA/PROMULGAM e traz sua cláusula de vigência, sem um Art. 1º.
     # Não corrige nem adivinha numeração eventualmente reconhecida por OCR.
