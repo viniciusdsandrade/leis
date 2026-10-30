@@ -68,7 +68,12 @@ jobs:
           # O índice fica com o commit auditado e HEAD vai para a base: o intervalo vira o
           # "staged" que auditar.py e auditar_municipal.py leem com --staged.
           git reset -q --soft "$base"
-          git diff --cached --raw --no-abbrev --diff-filter=ACMR -- '*.md' | awk '{print $4}' > "$RUNNER_TEMP/oids.txt"
+          # só os .md que auditar.py lê: dentro das pastas do acervo e fora de _trabalho/.ocultas
+          git diff --cached --raw --no-abbrev --diff-filter=ACMR -- \
+              'federal/*.md' 'estaduais/*.md' 'reguladores/*.md' 'jurisprudencia/*.md' 'tratados/*.md' 'municipais/*.md' \
+            | awk -F'\t' '{split($1, m, " "); n = split($2, c, "/"); ok = 1
+                for (i = 1; i <= n; i++) if (c[i] ~ /^[_.]/) ok = 0
+                if (ok) print m[4]}' > "$RUNNER_TEMP/oids.txt"
           echo "md=$(wc -l < "$RUNNER_TEMP/oids.txt" | tr -d ' ')" >> "$GITHUB_OUTPUT"
           echo "Base $base; $(wc -l < "$RUNNER_TEMP/oids.txt") .md novos ou alterados"
           # blobs fora do checkout esparso (federal, estaduais...) vêm num pedido só
