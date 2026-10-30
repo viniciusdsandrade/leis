@@ -195,7 +195,7 @@ def contadores_de_folha(paragrafos):
     o conversor tira o cabeçalho como linha repetida e o contador fica sozinho. Só conta como contador a
     sequência: dois ou mais, começando em 1, crescentes e com o mesmo total (uma fração solta no texto fica).
     Quando as primeiras folhas trazem o contador colado ao cabeçalho, que sai com ele, a sequência solta começa
-    depois ("10/135"); aí valem três ou mais seguidos.
+    depois ("10/135"); aí valem três ou mais seguidos. Um "1/1" sozinho é a folha única do documento.
     """
     achados = [(i, CONTADOR_FOLHA.fullmatch(p.strip())) for i, p in enumerate(paragrafos)]
     achados = [(i, int(m[1]), int(m[2])) for i, m in achados if m]
@@ -206,6 +206,8 @@ def contadores_de_folha(paragrafos):
             and all(a < b for a, b in zip(folhas, folhas[1:]))
             and (folhas[0] == 1 or len(folhas) >= 3 and seguidos)):
         return {i for i, _, _ in achados}
+    if len(achados) == 1 and folhas == [1] and totais == {1}:
+        return {achados[0][0]}
     return set()
 
 
