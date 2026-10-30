@@ -111,6 +111,12 @@ class CabecalhoDePagina(unittest.TestCase):
         self.assertEqual(corpo, LEI)
         self.assertEqual(notas, ["cópia de consulta da Câmara, sem valor legal"])
 
+    def test_aviso_compilado_do_site_da_prefeitura_vira_nota(self):
+        corpo, notas = limpar_carimbo_campinas("\n\n".join(
+            [LEI, "Texto somente para consulta, sem valor legal, COMPILADO do site da P.M.C."]))
+        self.assertEqual(corpo, LEI)
+        self.assertEqual(notas, ["cópia de consulta sem valor legal, compilada do site da Prefeitura Municipal de Campinas"])
+
     def test_variantes_do_aviso_de_reproducao(self):
         for aviso in ("Texto para consulta, reproduzido conforme a publicação extra do Diário Oficial do Município em 12 de maio de 2021",
                       "Texto para consulta, reproduzido conforme a publicação do Diário Oficial do Município em 8 de janeiro de 2021",
@@ -164,6 +170,10 @@ class CabecalhoDePagina(unittest.TestCase):
         for fracoes in (["1/2"], ["1/2", "1/2"], ["2/3", "3/3"], ["1/3", "2/4"], ["1/2", "3/2"]):
             corpo, _ = limpar_carimbo_campinas("\n\n".join([LEI, *fracoes]))
             self.assertEqual(corpo, "\n\n".join([LEI, *fracoes]), fracoes)
+
+    def test_folha_unica_1_de_1_sai(self):
+        corpo, _ = limpar_carimbo_campinas("\n\n".join(["1/1", LEI]))
+        self.assertEqual(corpo, LEI)
 
     def test_aviso_sem_valor_legal_sob_fio_de_sublinhados(self):
         corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, "\\_\\_\\_\\_ Texto somente para consulta, sem valor legal."]))

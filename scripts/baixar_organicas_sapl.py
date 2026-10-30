@@ -174,6 +174,8 @@ AVISO_REPRODUZIDO_CAMPINAS = re.compile(
 # às vezes sob um fio de sublinhados, que o conversor escapa como "\_"
 AVISO_SEM_VALOR_LEGAL_CAMPINAS = re.compile(
     r"(?:(?:\\_)+ )?Texto somente para consulta, sem valor legal(?:, reproduzido de acordo com a publicação oficial)?\.?")
+# leis de 1995 copiadas do site da Prefeitura: o aviso diz de onde veio a compilação
+AVISO_COMPILADO_PMC_CAMPINAS = re.compile(r"Texto somente para consulta, sem valor legal, COMPILADO do site da P\.M\.C\.?")
 # cabeçalho de cada folha dos PDFs antigos; o total some em alguns ("CÂMARA MUNICIPAL DE CAMPINAS 10/") e há folhas sem contador.
 # Anexos copiados de suplementos do Diário Oficial trazem o cabeçalho corrente dele, com número de folha e às vezes a data.
 PAGINA_CAMPINAS = re.compile(
@@ -193,7 +195,7 @@ def contadores_de_folha(paragrafos):
     o conversor tira o cabeçalho como linha repetida e o contador fica sozinho. Só conta como contador a
     sequência: dois ou mais, começando em 1, crescentes e com o mesmo total (uma fração solta no texto fica).
     Quando as primeiras folhas trazem o contador colado ao cabeçalho, que sai com ele, a sequência solta começa
-    depois ("10/135"); aí valem três ou mais seguidos.
+    depois ("10/135"); aí valem três ou mais seguidos. Um "1/1" sozinho é a folha única do documento.
     """
     achados = [(i, CONTADOR_FOLHA.fullmatch(p.strip())) for i, p in enumerate(paragrafos)]
     achados = [(i, int(m[1]), int(m[2])) for i, m in achados if m]
@@ -204,6 +206,8 @@ def contadores_de_folha(paragrafos):
             and all(a < b for a, b in zip(folhas, folhas[1:]))
             and (folhas[0] == 1 or len(folhas) >= 3 and seguidos)):
         return {i for i, _, _ in achados}
+    if len(achados) == 1 and folhas == [1] and totais == {1}:
+        return {achados[0][0]}
     return set()
 
 
@@ -248,6 +252,8 @@ def limpar_carimbo_campinas(corpo):
             notas.append("cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município")
         elif AVISO_SEM_VALOR_LEGAL_CAMPINAS.fullmatch(plano):
             notas.append("cópia de consulta da Câmara, sem valor legal")
+        elif AVISO_COMPILADO_PMC_CAMPINAS.fullmatch(plano):
+            notas.append("cópia de consulta sem valor legal, compilada do site da Prefeitura Municipal de Campinas")
         elif not any(r.fullmatch(plano) for r in CARIMBO_CAMPINAS):
             if quebra_de_pagina and mantidos and frase_continua_na_pagina_seguinte(mantidos[-1], par):
                 mantidos[-1] = mantidos[-1] + " " + par
