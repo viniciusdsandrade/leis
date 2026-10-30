@@ -1,0 +1,66 @@
+# Testes de scripts/ que o CI roda (.github/workflows/auditoria.yml), um por linha.
+# Critério: passam num checkout só com scripts/*.py. Ficam de fora os que dependem de dados em
+# scripts/dados, de fixtures não versionadas ou de módulos externos (lxml, html5lib, cssselect2,
+# tinycss2, pdfplumber), e test_congelar_agregado_ta_qa_20261027.py, que fixa o hash de
+# baixar_organicas_sapl.py da entrega de 27/10/2026 e falha a cada mudança nele.
+test_anexos_sapl.py
+test_auditar_cache_dou.py
+test_auditar_cache_rfb.py
+test_auditar_lotes_sapl.py
+test_auditar_municipal_hashes.py
+test_baixar_capitais_documentos.py
+test_baixar_dioly.py
+test_baixar_uberlandia.py
+test_baseline_municipal_head_20261027.py
+test_capitais_https.py
+test_carimbo_campinas.py
+test_cmbh_sil.py
+test_cmrj.py
+test_colisoes_lote_municipal.py
+test_colunas_sapl.py
+test_contexto_completo_ta.py
+test_continuacao_indice_ta_coerente_20261027.py
+test_data_captura_ta.py
+test_docx_sapl.py
+test_dou_acesso.py
+test_dpl_planalto_identidade.py
+test_emissores_sapl.py
+test_epigrafe_tipo_literal_ta.py
+test_epigrafes_literais_sapl.py
+test_gates_reguladores_cache.py
+test_gates_textos_articulados_sapl.py
+test_granularidade_sapl.py
+test_html2md_posicoes.py
+test_identidade_decreto_revisao.py
+test_identidade_decreto.py
+test_imagens_pdf_sapl.py
+test_indice_materializacao_ta_v5.py
+test_integralidade_pdf_sapl.py
+test_integrar_anexos_sapl.py
+test_integridade_anexos_decreto.py
+test_jurisprudencia_atualizar_indice.py
+test_liberar_decorativos_sapl.py
+test_lote_decretos_rede.py
+test_marcar_tachados_sapl.py
+test_office_linux.py
+test_organica_curitiba.py
+test_organica_fortaleza.py
+test_organicas_sapl_filtros.py
+test_pendencias_integralidade.py
+test_preparar_index_lote.py
+test_preservar_layout_sapl.py
+test_progresso_integralidade.py
+test_recuperar_pdf_sapl.py
+test_representacao_html_dou.py
+test_retomar_fila_ta_sigi.py
+test_revisar_metadata_cache_dou.py
+test_rfb_acesso.py
+test_rfb_integralidade.py
+test_rotulo_literal_ta.py
+test_sapl_integralidade.py
+test_tabelas_nativas_ta.py
+test_texto_integral_federal.py
+test_texto_pdf_citacoes.py
+test_textos_articulados_sapl.py
+test_tributaria_sp.py
+test_verificar_promocoes_ta.py
