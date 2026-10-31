@@ -11,13 +11,15 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA:PREFEITURA MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/5103"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1998/5103/5103_texto_integral.pdf"
 sha256_fonte: "1cce0999da883f8d03cb4cb1a5ef0e07bdbcd9bdca94e1b18b93af09d11b7a5b"
-sha256_texto: "80d23469ff587be7dae0074c56c992fa9d324cb862e067e7b9e2649264a39b5c"
+sha256_texto: "9a9876eae4f6a586b1bade47e583229f9c9404584b6dc5e34f8ae0645cd157ee"
 baixado_em: "2026-10-30"
 ---
 
 # Lei nº 9.929, de 15 de dezembro de 1998
 
 REV. P/ LEI 10399
+
+LEI Nº 9929 DE 15 DE DEZEMBRO DE 1998
 
 CONCEDE ISENÇÃO DO IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA DE IMÓVEIS NAS CONDIÇÕES QUE ESTABELECE E DÁ OUTRAS PROVIDÊNCIAS
 

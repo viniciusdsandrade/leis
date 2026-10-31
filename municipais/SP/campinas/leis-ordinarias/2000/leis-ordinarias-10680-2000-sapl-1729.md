@@ -11,13 +11,15 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR TADEU
 fonte: "https://sapl.campinas.sp.leg.br/norma/1729"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2000/1729/1729_texto_integral.pdf"
 sha256_fonte: "4ae7e3c342e250a991e3593dc966f04b5dad5186f51fc3f8000a350d5ac7254b"
-sha256_texto: "0545cc36e0d5c8eab4d56136318d1c2c5cd784e4ab015ee7f0e9e857871e358e"
+sha256_texto: "1d5255d1f33fbc879823924f793b5205f845545cf8e6a3c90d78e5a955798978"
 baixado_em: "2026-10-22"
 ---
 
 # Lei nº 10.680, de 13 de novembro de 2000
 
 Publicada no Diário Oficial do Município de Campinas em 14/11/2000
+
+LEI Nº 10.680 DE 13 DE NOVEMBRO DE 2000 AUTORIZA A PREFEITURA MUNICIPAL DE CAMPINAS A PERMITIR USO DE ÁREA PÚBLICA MUNICIPAL PARA EXPLORAÇÃO DE ESTACIONAMENTO DE VEÍCULOS POR ENTIDADES ASSISTENCIAIS E DÁ OUTRAS PROVIDÊNCIAS
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
@@ -58,6 +60,8 @@ FRANCISCO AMARAL
 Prefeito Municipal Autoria: Vereador Tadeu Marcos Ferreira PROTOCOLO Nº 66.505/00
 
 Publicada no Diário Oficial do Município de Campinas em 22/12/2000
+
+LEI Nº 10.680 DE 13 DE NOVEMBRO DE 2000 AUTORIZA A PREFEITURA MUNICIPAL DE CAMPINAS A PERMITIR USO DE ÁREA PÚBLICA MUNICIPAL PARA EXPLORAÇÃO DE ESTACIONAMENTO DE VEÍCULOS POR ENTIDADES ASSISTENCIAIS E DÁ OUTRAS PROVIDÊNCIAS
 
 A Câmara Municipal aprovou e eu, Tadeu Marcos Ferreira, seu Presidente, nos termos do artigo 51§ 5º da Lei Orgânica do Município de Campinas, promulgo o seguinte artigo:
 

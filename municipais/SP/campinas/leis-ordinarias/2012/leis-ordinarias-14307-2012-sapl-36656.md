@@ -11,15 +11,17 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR FRANC
 fonte: "https://sapl.campinas.sp.leg.br/norma/36656"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2012/36656/36656_texto_integral.pdf"
 sha256_fonte: "55c40ef231acb76958a191fc19885e56ed461654a67001b4296a4bb1a56fb78c"
-sha256_texto: "dc9353e1e5febd708b013279284fe5b1271a562aca93d4f2d283b4e1e2267b29"
+sha256_texto: "6e4f7e8ee58d8375fc20d907f0b5284ad78df5912154177d3e0a5450272a3abe"
 baixado_em: "2026-10-21"
 ---
 
 # Lei nº 14.307, de 03 de julho de 2012
 
+LEI N. 14.307 DE 03 DE JULHO DE 2012
+
 DE JANEIRO DE 2012, QUE “DISPÕE SOBRE A OBRIGATORIEDADE
 
-OUTRAS PROVIDÊNCIAS”.
+CONSULTA DE MEDICAMENTOS NA FORMA QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS”.
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
@@ -59,7 +61,7 @@ PUBLICAÇÃO DE VETO DERRUBADO PELA CÂMARA EM 13/09/2012
 
 DE JANEIRO DE 2012, QUE "DISPÕE SOBRE A OBRIGATORIEDADE
 
-OUTRAS PROVIDÊNCIAS".
+CONSULTA DE MEDICAMENTOS NA FORMA QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS".
 
 A Câmara Municipal aprovou e eu, seu Presidente, Thiago Ferrari, promulgo nos termos do §5º do Art. 51 da Lei Orgânica do Município a letra b do § 3º acrescido ao art. 1º da Lei 14.195, de 10 de janeiro de 2012, pelo art. 1º da Lei 14.307, de 03 de julho de 2012:
 

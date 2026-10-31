@@ -11,11 +11,13 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/27336"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1989/27336/27336_texto_integral.pdf"
 sha256_fonte: "e90e1258b6cac6cc26f42052db13b48a7938e70280c4d1d2770ca954b6218e60"
-sha256_texto: "3e5edcc4a57ce8b840baa7a027fec3093443868a565374d47e11c695bbf616ae"
+sha256_texto: "e3a2011c5acbb372ede68196fcf4596edc0dfbb394ece819ee099a3d73592a27"
 baixado_em: "2026-10-30"
 ---
 
 # Lei nº 6.113, de 10 de novembro de 1989
+
+LEI Nº 6113, DE 10 DE NOVEMBRO DE 1989.
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte Lei:
 

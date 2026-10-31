@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: MESA DA CAMARA
 fonte: "https://sapl.campinas.sp.leg.br/norma/25208"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2008/25208/25208_texto_integral.pdf"
 sha256_fonte: "473b1f29a3e5ca4753854bdab94570f6a803b5b4902636ad33d846733ab00bb3"
-sha256_texto: "2778a39a58bfae80bff2600e6081688705beaeeb7abfef12fc097adb296932b1"
+sha256_texto: "5f2d0fd9753e057d79a68973198822493ec624f7c7fac7becd1308fd3f1e2b98"
 baixado_em: "2026-10-30"
 ---
 
@@ -19,7 +19,7 @@ baixado_em: "2026-10-30"
 
 Publicada no Diário Oficial Municipal de Campinas em 17/12/2008
 
-REMANEJA DOTAÇÕES DA CÂMARA MUNICIPAL DE CAMPINAS
+RESOLUÇÃO Nº 831 DE 16 DE DEZEMBRO DE 2008 REMANEJA DOTAÇÕES DA CÂMARA MUNICIPAL DE CAMPINAS
 
 A Câmara Municipal aprovou e eu, seu presidente, Aurélio Cláudio, promulgo a seguinte resolução:
 
@@ -39,7 +39,7 @@ ISRAEL MAZZO
 
 Diretor Geral Publicada no Diário Oficial Municipal de Campinas em 18/12/2008
 
-Na Resolução nº 831 de 16 de dezembro de 2008, que “Remaneja Dotações da Câmara Municipal de Campinas”, no Art. 2º, ONDE SE LÊ: 01.0101.01.0312002.4188.3.3.90.10,
+Retificação Na Resolução nº 831 de 16 de dezembro de 2008, que “Remaneja Dotações da Câmara Municipal de Campinas”, no Art. 2º, ONDE SE LÊ: 01.0101.01.0312002.4188.3.3.90.10,
 
 LEIA-SE: 01.0101.01.0312002.4188.3.3.90.30. AURÉLIO CLÁUDIO Presidente Publicado na Secretaria da Câmara Municipal de Campinas aos 17 de dezembro de 2008
 
@@ -47,13 +47,13 @@ ISRAEL MAZZO Diretor Geral
 
 Publicada no Diário Oficial Municipal de Campinas em 19/12/2008
 
-ONDE SE LÊ:
+Retificação ONDE SE LÊ:
 
 Art.1°... 01.0101.01.0312002.4188.3.3.90.36 OUTROS SERV.TERC.PES.FIS R$22,70
 
 LEIA-SE: 01.0101.01.0312002.4188.3.3.90.37 LOCAÇÃO DE MÃO DE OBRA R$22,70
 
-ATO DA MESA Nº 22/08 DE 17 DE DEZEMBRO DE 2008
+ATO DA MESA Nº 22/08 DE 17 DE DEZEMBRO DE 2008 Retificação
 
 ONDE SE LÊ:
 
