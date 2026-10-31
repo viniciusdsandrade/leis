@@ -1,0 +1,40 @@
+---
+titulo: "Decreto Legislativo nº 5.457, de 12 de abril de 2023"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "5457"
+data: "2023-04-12"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal"
+fonte: "https://sapl.campinas.sp.leg.br/norma/53121"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53121/53121_texto_integral.pdf"
+sha256_fonte: "943204d4c7d3a9af92ae2ffeddcdd3e27d509f848740c4cf13f9c965a390749a"
+sha256_texto: "9c57918c3aa91dd701024fc4876e52fd45a65a39add24483e3b729f25328206d"
+baixado_em: "2026-10-30"
+---
+
+# Decreto Legislativo nº 5.457, de 12 de abril de 2023
+
+DECRETO LEGISLATIVO Nº 5.457, DE 12 DE ABRIL DE 2023
+
+Concede Diploma de Mérito Gastronômico ao D'autore Restaurante, representado por Georgea Lima Henriques.
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu promulgo o seguinte Decreto Legislativo:
+
+**Art. 1º** Fica concedido Diploma de Mérito Gastronômico ao D'autore Restaurante, representado por Georgea Lima Henriques, por sua contribuição ao desenvolvimento da gastronomia no município de Campinas.
+
+**Art. 2º** Ao estabelecimento homenageado será entregue diploma conforme especificações do art. 17 da Resolução nº 717, de 16 de dezembro de 1999.
+
+**Art. 3º** As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta de verbas próprias da Secretaria da Câmara Municipal, consignadas no orçamento, suplementadas se necessário.
+
+**Art. 4º** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+**Art. 5º** Fica revogado o Decreto Legislativo nº 5.056, de 29 de outubro de 2020.
+
+Campinas, 12 de abril de 2023
+
+LUIZ ROSSINI Presidente
+
+autoria: vereador Marcelo Silva

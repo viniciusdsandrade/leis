@@ -1,0 +1,34 @@
+---
+titulo: "Decreto Legislativo nº 1.892, de 17 de outubro de 2003"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "1892"
+data: "2003-10-17"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR ROMEU SANTINI.; cópia de consulta da Câmara, sem valor legal"
+fonte: "https://sapl.campinas.sp.leg.br/norma/2672"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2003/2672/2672_texto_integral.pdf"
+sha256_fonte: "7602b52c9951a53495b76d11a3b747574fe899e22cf3cc8639e35ce928bbc093"
+sha256_texto: "6ff2655de6d8d8013996fe49b87099aac25d86ed640912f115e376002d444aeb"
+baixado_em: "2026-10-30"
+---
+
+# Decreto Legislativo nº 1.892, de 17 de outubro de 2003
+
+Publicado no Diário Oficial do Município de Campinas em 18/10/2003
+
+DECRETO LEGISLATIVO Nº. 1.892 DE 17 DE OUTUBRO DE 2003 CONCEDE O TÍTULO DE CIDADÃO EMÉRITO AO SR. REINALDO VALBERT
+
+A Câmara Municipal aprovou e eu, Carlos Francisco Signorelli, seu Presidente, promulgo o seguinte Decreto Legislativo:
+
+**Art. 1º.** - Fica concedido o Título de Cidadão Emérito ao Sr. Reinaldo Valbert, pelos relevantes serviços prestados a Campinas.
+
+**Art. 2º.** - Ao homenageado será entregue um pergaminho contendo a íntegra deste Decreto Legislativo.
+
+**Art. 3º.** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta de verbas próprias da Secretaria da Câmara Municipal de Campinas, consignadas no orçamento vigente, suplementadas se necessário.
+
+**Art. 4º.** - Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 17 de outubro de 2003 CARLOS FRANCISCO SIGNORELLI Presidente Autoria: Vereador Romeu Santini
+
+Publicado na Secretaria Geral da Câmara Municipal de Campinas, aos 17 de outubro de 2003 TADEU EXPEDITO FIGUEIREDO Diretor Geral

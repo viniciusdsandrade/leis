@@ -1,0 +1,34 @@
+---
+titulo: "Decreto Legislativo nº 2.026, de 12 de maio de 2004"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "2026"
+data: "2004-05-12"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR ROMEU SANTINI.; cópia de consulta da Câmara, sem valor legal"
+fonte: "https://sapl.campinas.sp.leg.br/norma/4484"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2004/4484/4484_texto_integral.pdf"
+sha256_fonte: "84d9e8da5c43ed69f0ae611c0c7f2a95ca17f0e76661935062b1811a0df95326"
+sha256_texto: "c4bb3494a91db5c003abc6970f6a7ed0085fe43d5c9fdb5a094c7243191d4bb4"
+baixado_em: "2026-10-30"
+---
+
+# Decreto Legislativo nº 2.026, de 12 de maio de 2004
+
+Publicado no Diário Oficial do Município de Campinas em 13/05/2004
+
+DECRETO LEGISLATIVO Nº. 2.026 DE 12 DE MAIO DE 2004 CONCEDE TÍTULOS DE CIDADÃO CAMPINEIRO AOS SRS. JURANDIR GALLINARI E LUIZ FLÁVIO BORGES D’URSO
+
+A Câmara Municipal aprovou e eu, Carlos Francisco Signorelli, seu Presidente, promulgo o seguinte Decreto Legislativo:
+
+**Art. 1º** - Ficam concedidos Títulos de Cidadão Campineiro a Jurandir Gallinari e a Luiz Flávio Borges D’Urso pelos relevantes serviços prestados a Campinas, especialmente no campo jurídico.
+
+**Art. 2º** - Aos homenageados será entregue um pergaminho contendo a íntegra deste Decreto Legislativo.
+
+**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta de verbas próprias da Secretaria da Câmara, consignadas no orçamento vigente, suplementadas se necessário.
+
+**Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 12 de maio de 2004 CARLOS FRANCISCO SIGNORELLI Presidente Autoria: Vereador Romeu Santini
+
+Publicado na Secretaria da Câmara Municipal de Campinas, aos 12 de maio de 2004. TADEU EXPEDITO FIGUEIREDO Diretor Geral

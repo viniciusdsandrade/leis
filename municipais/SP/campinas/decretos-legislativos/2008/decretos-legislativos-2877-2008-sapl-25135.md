@@ -1,0 +1,36 @@
+---
+titulo: "Decreto Legislativo nº 2.877, de 27 de novembro de 2008"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "2877"
+data: "2008-11-27"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADORA TERESINHA DE CARVALHO.; cópia de consulta da Câmara, sem valor legal"
+fonte: "https://sapl.campinas.sp.leg.br/norma/25135"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2008/25135/25135_texto_integral.pdf"
+sha256_fonte: "21a5d3cde834b050be06170692143e3152e7bb2883f63716f825618b5b3f9336"
+sha256_texto: "fa407e2d48141c3c35c9fe3bf3cb51506fff8a6703c6ecd7c7c92d2d87881fd4"
+baixado_em: "2026-10-30"
+---
+
+# Decreto Legislativo nº 2.877, de 27 de novembro de 2008
+
+Publicado no Diário Oficial Municipal de Campinas em 28/11/2008
+
+DECRETO LEGISLATIVO Nº. 2.877 DE 27 DE NOVEMBRO DE 2008 CONCEDE O TÍTULO DE CIDADÃ EMÉRITA A MARIA SYLVIA FERRAZ SILVA
+
+A Câmara Municipal aprovou e eu, Aurélio Cláudio, seu Presidente, promulgo o seguinte
+
+Decreto Legislativo:
+
+**Art. 1º** - Fica concedido o Título de Cidadã Emérita a Maria Sylvia Ferraz Silva pelos relevantes serviços prestados ao Município de Campinas.
+
+**Art. 2º** - À homenageada será entregue pergaminho contendo um resumo deste Decreto Legislativo.
+
+**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta de verbas próprias da Secretaria da Câmara Municipal, consignadas no orçamento, suplementadas, se necessário.
+
+**Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário. AURÉLIO CLÁUDIO Presidente AUTORIA: VEREADORA TERESINHA DE CARVALHO PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 27 DE NOVEMBRO DE 2008.
+
+ISRAEL MAZZO Diretor Geral
