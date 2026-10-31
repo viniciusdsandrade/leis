@@ -147,6 +147,49 @@ class CabecalhoDePagina(unittest.TestCase):
         self.assertEqual(corpo, LEI)
         self.assertEqual(notas, ["cópia de consulta da Câmara, reproduzida conforme a publicação"])
 
+    def test_endereco_com_grau_e_sem_ponto_no_numero_sai(self):
+        rodape = "Avenida da Saudade, n° 1004 – Ponte Preta – CEP: 13041-670 – Campinas – SP – PABX: (19) 3736-1300"
+        self.assertEqual(limpar_carimbo_campinas("\n\n".join([LEI, rodape]))[0], LEI)
+
+    def test_endereco_com_espaco_no_telefone_sai(self):
+        rodape = "Avenida da Saudade, nº 1.004 – Ponte Preta – CEP: 13041-670 – Campinas – SP – PABX: (19) 3736- 1300"
+        self.assertEqual(limpar_carimbo_campinas("\n\n".join([LEI, rodape]))[0], LEI)
+
+    def test_familia_do_aviso_de_consulta(self):
+        casos = {
+            "Texto somente para consulta. Não substitui o publicado na Edição Extra do Diário Oficial da Câmara Municipal de Campinas em 14 de agosto de 2026":
+                "cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal",
+            "Texto somente para consulta. Não substitui o publicado na Edição Extraordinária do Diário Oficial da Câmara Municipal de Campinas em 9 de setembro de 2026":
+                "cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal",
+            "Texto somente para consulta. Não substitui o republicado no Diário Oficial da Câmara Municipal de Campinas em 13 de fevereiro de 2025":
+                "cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal",
+            "Texto somente para consulta. Não substitui o publicado no Diário Oficial da Câmara Municipal de Campinas em4 de setembro de 2023":
+                "cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal",
+            "Texto para consulta, reproduzido conforme a publicação no Diário Oficial da Câmara de Campinas em 27 de junho de 2022":
+                "cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial da Câmara Municipal",
+            "Texto para consulta, reproduzido conforme a publicação no Diário Oficial do Legislativo em 7 de março de 2022":
+                "cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial da Câmara Municipal",
+            "Texto para consulta, reproduzido conforme a republicação no Diário Oficial do Município em 30 de setembro de 2021":
+                "cópia de consulta da Câmara, reproduzida conforme a republicação no Diário Oficial do Município",
+            "Texto para consulta, reproduzido conforme republicação no Diário Oficial do Município em 19 de fevereiro de 2021":
+                "cópia de consulta da Câmara, reproduzida conforme a republicação no Diário Oficial do Município",
+            "Texto para consulta, reproduzido conforme a republicação no Diário Oficial da Câmara Municipal de Campinas em 9 de dezembro de 2021":
+                "cópia de consulta da Câmara, reproduzida conforme a republicação no Diário Oficial da Câmara Municipal",
+        }
+        for aviso, nota in casos.items():
+            corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, aviso]))
+            self.assertEqual(corpo, LEI, aviso)
+            self.assertEqual(notas, [nota], aviso)
+        # o aviso deformado pelo OCR, sem "Diário Oficial" inteiro nem data completa, fica no texto
+        ruim = "Texto somente para consulta. Não substitui o publicado n iário Oficial do Município de Campinas em 6 de janeiro de 202: 28.13"
+        self.assertEqual(limpar_carimbo_campinas("\n\n".join([LEI, ruim]))[0], "\n\n".join([LEI, ruim]))
+
+    def test_aviso_do_diario_oficial_da_camara_com_na(self):
+        corpo, notas = limpar_carimbo_campinas("\n\n".join([
+            LEI, "Texto somente para consulta. Não substitui o publicado na Diário Oficial da Câmara Municipal de Campinas em 29 de outubro de 2026"]))
+        self.assertEqual(corpo, LEI)
+        self.assertEqual(notas, ["cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal"])
+
     def test_aviso_do_diario_oficial_da_camara(self):
         corpo, notas = limpar_carimbo_campinas("\n\n".join([
             "Texto somente para consulta. Não substitui o publicado no Diário Oficial da Câmara Municipal de Campinas em 7 de maio de 2025", LEI]))

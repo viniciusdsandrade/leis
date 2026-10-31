@@ -1,0 +1,38 @@
+---
+titulo: "Decreto Legislativo nº 5.902, de 12 de novembro de 2024"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "5902"
+data: "2024-11-12"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal"
+fonte: "https://sapl.campinas.sp.leg.br/norma/55709"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55709/decreto_legislativo_no_5.902_-_2024.pdf"
+sha256_fonte: "2edcceb17c7ce64bdaad2a5f5f7aba8e544d4084d19c936021311201b661d9a4"
+sha256_texto: "6f08aed0cce48a5b83d76cddbca48c5473f70920d6c9f151593a0f9393cbb005"
+baixado_em: "2026-10-30"
+---
+
+# Decreto Legislativo nº 5.902, de 12 de novembro de 2024
+
+DECRETO LEGISLATIVO Nº 5.902, DE 12 DE NOVEMBRO DE 2024
+
+Concede Diploma de Mérito "Zumbi dos Palmares" a Huyra Estevão de Araújo.
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu promulgo o seguinte Decreto Legislativo:
+
+**Art. 1º** Fica concedido Diploma de Mérito "Zumbi dos Palmares" a Huyra Estevão de Araújo por sua contribuição à valorização da comunidade negra e da cultura afro-brasileira.
+
+**Art. 2º** Ao homenageado será entregue diploma conforme especificações do art. 44 da Resolução nº 1.017, de 28 de agosto de 2024.
+
+**Art. 3º** As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta de verbas próprias da Secretaria da Câmara Municipal, consignadas no orçamento, suplementadas se necessário.
+
+**Art. 4º** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Campinas, 12 de novembro de 2024
+
+LUIZ ROSSINI Presidente
+
+autoria: vereador Cecílio Santos

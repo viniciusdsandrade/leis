@@ -1,0 +1,36 @@
+---
+titulo: "Decreto Legislativo nº 1.877, de 08 de outubro de 2003"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "1877"
+data: "2003-10-08"
+municipio: "Campinas"
+uf: "SP"
+codigo_ibge: "3509502"
+versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADORA DELEGADA TERESINHA.; cópia de consulta da Câmara, sem valor legal"
+fonte: "https://sapl.campinas.sp.leg.br/norma/2531"
+fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2003/2531/2531_texto_integral.pdf"
+sha256_fonte: "a9e1a95392e166484a645abcd93a4fafac5856411467cd2021eede13ef357056"
+sha256_texto: "42a601195deb0d120baf527f04b9eb08e604eb0a8ac3fd99c3c4c73d5bce4243"
+baixado_em: "2026-10-30"
+---
+
+# Decreto Legislativo nº 1.877, de 08 de outubro de 2003
+
+Publicado no Diário Oficial do Município de Campinas em 09/10/2003
+
+DECRETO LEGISLATIVO Nº. 1.877 DE 08 DE OUTUBRO DE 2003 CONCEDE O TÍTULO DE CIDADÃO EMÉRITO AO DR. CARLOS ROBERTO SIGNORELLI
+
+A Câmara Municipal aprovou e eu, Carlos Francisco Signorelli, seu Presidente, promulgo o seguinte Decreto Legislativo:
+
+**Art. 1º.** - Fica concedido o Título de Cidadão Emérito ao Dr. Carlos Roberto Signorelli, pelos relevantes serviços prestados a Campinas.
+
+**Art. 2º.** - Ao homenageado será entregue um pergaminho contendo a íntegra deste Decreto Legislativo.
+
+**Art. 3º.** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta de verbas próprias da Secretaria da Câmara Municipal de Campinas, consignadas no orçamento vigente, suplementadas se necessário.
+
+**Art. 4º.** - Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 08 de outubro de 2003. CARLOS FRANCISCO SIGNORELLI Presidente Autoria: Vereadora Delegada Teresinha.
+
+Publicado na Secretaria Geral da Câmara Municipal de Campinas, aos 08 de outubro de 2003.
+
+TADEU EXPEDITO FIGUEIREDO Diretor Geral
