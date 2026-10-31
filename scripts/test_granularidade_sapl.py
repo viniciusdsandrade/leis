@@ -31,6 +31,27 @@ class GranularidadeSAPLTest(unittest.TestCase):
         r = alertas_multiplos_atos(s, 'Lei', '1265')
         self.assertEqual([tuple(x['epigrafe_diversa']) for x in r], [('DECRETO', '65')])
 
+    def test_epigrafe_antiga_sem_data_dos_livros_de_campinas(self):
+        s = ('LEI N. 287 ( Declara de utilidade publica os predios ns. 77, 79)\n\n**Art. 1.°** — São considerados.\n\n'
+             'LEI N. 288 ( Considera feriados os dias 8 e 9 de Setembro)\n\n**Art. 1.°** - Ficam considerados feriados.\n\n'
+             'LEI N. 439 DETERNINANDO E\'POCA PARA ARRECADAÇÃO DE IMPOSTOS\n\nLei n. 133 (Creando os impostos)')
+        r = alertas_multiplos_atos(s, 'Leis Até 1948', '287')
+        self.assertEqual([tuple(x['epigrafe_diversa']) for x in r], [('LEI', '288'), ('LEI', '439'), ('LEI', '133')])
+        r = alertas_multiplos_atos('DECRETO N. 121, de 1946 Aprova loteamento de terrenos', 'Decretos Até 1948', '349')
+        self.assertEqual([tuple(x['epigrafe_diversa']) for x in r], [('DECRETO', '121')])
+        r = alertas_multiplos_atos('Decreto-Lei N. 96 (Dando denominação)\n\nDecreto-Lei N. 97 0$000 Aprova loteamento', 'Decreto-lei', '96')
+        self.assertEqual([tuple(x['epigrafe_diversa']) for x in r], [('DECRETO-LEI', '97')])
+
+    def test_tipo_no_plural_e_decreto_lei_tem_identidade_propria(self):
+        self.assertEqual(alertas_multiplos_atos('RESOLUÇÃO N. 990 (Faz doação de terreno ao Estado)', 'Resoluções Até 1948', '990'), [])
+        r = alertas_multiplos_atos('Decreto-Lei N. 102 (Abrindo créditos)\n\nLEI N. 102 (Orça a receita)', 'Decreto-lei', '102')
+        self.assertEqual([tuple(x['epigrafe_diversa']) for x in r], [('LEI', '102')])
+
+    def test_citacao_moderna_em_comeco_de_linha_nao_e_epigrafe_antiga(self):
+        s = ('Lei nº 6.309, de 1988, e alterações posteriores) Médico Clínico Geral\n\n'
+             'Lei nº 8.666 (Lei de Licitações) e demais normas\n\nDecreto nº 18.757, de 2015, e alterações posteriores')
+        self.assertEqual(alertas_multiplos_atos(s, 'Lei Complementar', '677'), [])
+
     def test_manaus_121_anexo_real_quando_presente(self):
         p = Path(__file__).resolve().parent.parent / 'municipais/AM/manaus/emendas-lei-organica/2025/emendas-lei-organica-121-2025-sapl-8035.md'
         if not p.exists():

@@ -13,6 +13,16 @@ EPIGRAFE = re.compile(
     r"\s+(?:N(?:[.º°O\s])*\s*)?(?P<numero>\d[\d.]*(?:-[A-Z])?)"
     r"(?:\s*/\s*\d{2,4}\b|\s*[,–—-]?\s+DE\s+\d{1,2}(?:[º°])?(?:\s|/))",
     re.I | re.M)
+# Livros de leis antigos (Campinas, 1890 a 1948): a epígrafe não tem data; vem com a ementa entre
+# parênteses ("LEI N. 287 ( Declara de utilidade publica...)") ou com "N." abreviado ("LEI N. 439
+# DETERNINANDO...", "DECRETO N. 121, de 1946"). A citação moderna em começo de linha usa "nº"
+# ("Lei nº 6.309, de 1988, e alterações"; "Lei nº 8.666 (Licitações)") e fica de fora.
+EPIGRAFES_ANTIGAS = (
+    re.compile(r"^(?:\s*[*#]+\s*)?(?P<tipo>LEI|RESOLU[ÇC][ÃA]O|DECRETO(?:[- ]LEI)?|ACTO|ATO)\s+N\.?\s*"
+               r"(?P<numero>\d[\d.]*)\s*\(", re.I | re.M),
+    re.compile(r"^(?:\s*[*#]+\s*)?(?P<tipo>LEI|RESOLUÇÃO|DECRETO(?:-LEI)?|ACTO|Lei|Resolução|Decreto(?:-Lei)?)\s+N\.\s*"
+               r"(?P<numero>\d[\d.]*)\b", re.M),
+)
 
 
 def normal(s):
@@ -29,6 +39,10 @@ def classe(tipo):
         return 'DECRETO LEGISLATIVO'
     if 'LEI ORGANICA' in t or t == 'LOMAN':
         return 'LEI ORGANICA'
+    if re.search(r'DECRETO[- ]LEI', t):
+        return 'DECRETO-LEI'
+    if 'RESOLUC' in t:  # "Resoluções Até 1948" (Campinas), no plural
+        return 'RESOLUCAO'
     for nome in ('LEI', 'DECRETO', 'PORTARIA', 'RESOLUCAO'):
         if nome in t:
             return nome
@@ -46,7 +60,8 @@ def alertas_multiplos_atos(corpo, tipo, numero):
     esperada = (classe(tipo), numero_base(numero))
     alertas = []
     vistos = set()
-    for m in EPIGRAFE.finditer(corpo):
+    achados = sorted((m for rx in (EPIGRAFE, *EPIGRAFES_ANTIGAS) for m in rx.finditer(corpo)), key=lambda m: m.start())
+    for m in achados:
         identidade = (classe(m['tipo']), numero_base(m['numero']))
         if identidade == esperada or identidade in vistos:
             continue
