@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/53635"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53635/53635_texto_integral.pdf"
 sha256_fonte: "2576b0b5fc00d503c5a4849d6715b847dd9cddbe4bc85afa7558b0ecd42a9494"
-sha256_texto: "64df11bb6089ef7f0c0de1de106752c117ce02d11e1eb8237747e2531ce26ae8"
+sha256_texto: "bf79ba00e238d622921671f8ae115ffa7d3a075cb8b08b253b10f3962124290e"
 baixado_em: "2026-10-21"
 ---
 
@@ -31,11 +31,11 @@ I - parte da passagem de pedestres entre os lotes 32 e 33 da Quadra R do loteame
 
 II - parte da passagem de pedestres entre os lotes 20 e 21 da Quadra R do loteamento Vila Nogueira, Quarteirão 2656 do Cadastro Municipal, com área de 105,00m² e as seguintes medidas e confrontações: 3,00m confrontando com a Rua Dona Luiza Gusmão; 35,00m confrontando com o Lote 20 da mesma quadra; 3,00m confrontando com parte da passagem de pedestres entre os lotes 32 e 33 da mesma quadra; 35,00m confrontando com o Lote 21 da mesma quadra. Parágrafo único. Fica vedada qualquer edificação nas áreas descritas nos incisos I e II deste artigo."
 
-**Art. 2º** Fica alterado o art. 4º da Lei nº 7.879, de 1994, que passa a vigorar com
+**Art. 2º** Fica alterado o art. 4º da Lei nº 7.879, de 1994, que passa a vigorar com a seguinte redação:
 
 "Art. 4º O pagamento do preço dos bens de que trata o art. 1º desta Lei dar-se- á em conformidade com o art. 21 da Lei Complementar nº 288, de 9 de setembro de 2020." (NR)
 
-**Art. 3º** Fica alterado o art. 7º da Lei nº 7.879, de 1994, que passa a vigorar com
+**Art. 3º** Fica alterado o art. 7º da Lei nº 7.879, de 1994, que passa a vigorar com a seguinte redação:
 
 "Art. 7º O produto da venda das áreas objeto da presente Lei será revertido ao Fundo Municipal de Investimento - FMI, nos termos da Lei nº 16.175, de 22 de dezembro de 2021." (NR)
 

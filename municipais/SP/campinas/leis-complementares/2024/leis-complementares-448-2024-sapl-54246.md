@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/54246"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54246/lei_complementar_no_448-2024.pdf"
 sha256_fonte: "7a42b65aaeab31f54af18c6c35282d40369f530fa345bd854e251ab5dd1acb55"
-sha256_texto: "f58e4538296cf02e379ad64a10777e38bcd741dbc3fcd28d06053aea10f514a0"
+sha256_texto: "52ad39c854b94952243a05627071192b14dbe11756ce45686e7175d4d8851a5d"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,7 +27,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 “Art. 2º Sem prejuízo de outros direitos e garantias individuais assegurados pela Constituição da República Federativa do Brasil, o processo administrativo tributário será regido pelos princípios da legalidade, da finalidade, da razoabilidade, da proporcionalidade, da moralidade, da ampla defesa, do contraditório, da segurança jurídica, do interesse público, da eficiência, da audiência do interessado e de sua acessibilidade aos elementos do expediente, da ampla instrução probatória, da motivação, da celeridade e da economia processual.” (NR)
 
-**Art. 2º** Fica alterado o art. 3º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 2º** Fica alterado o art. 3º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 3º...............................
 
@@ -53,7 +53,7 @@ XIV - demais matérias que versem, no todo ou em parte, sobre tributos.
 
 ..........................................” (NR)
 
-**Art. 3º** Fica alterado o art. 4º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 3º** Fica alterado o art. 4º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 4º Processo administrativo tributário, para os efeitos desta Lei, é a fase litigiosa que decorre do procedimento administrativo tributário e compreende o conjunto de atos e formalidades pertinentes ao controle de legalidade dos atos da administração tributária, instaurado por:
 
@@ -65,7 +65,7 @@ III - recurso voluntário contra decisão de indeferimento ou deferimento parcia
 
 .........................................” (NR)
 
-**Art. 4º** Fica alterado o art. 5º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 4º** Fica alterado o art. 5º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 5º São direitos do sujeito passivo, do seu representante legal e do seu procurador:
 
@@ -79,13 +79,13 @@ IV - fazer-se representar, facultativamente, por seu representante legal ou por 
 
 **Parágrafo único.** As certidões dos processos administrativos tributários serão expedidas mediante cópia reprográfica ou digitalizada, na forma e no prazo determinados em regulamento municipal específico.” (NR)
 
-**Art. 5º** Fica alterado o art. 6º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 5º** Fica alterado o art. 6º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 6º São deveres do sujeito passivo expor os fatos conforme a verdade, proceder com urbanidade e boa-fé, tratar com respeito os servidores e autoridades e, nos termos da legislação aplicável, prestar as informações que lhe forem solicitadas.
 
 .........................................” (NR)
 
-**Art. 6º** Fica alterado o art. 7º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 6º** Fica alterado o art. 7º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 7º As funções referentes ao cadastramento, lançamento, controle da arrecadação e fiscalização do cumprimento das obrigações tributárias, bem como as medidas de prevenção e repressão a fraudes, competem, privativamente, à Secretaria Municipal de Finanças, por meio de seus órgãos tributários e dos servidores a estes subordinados, observadas as competências de cada carreira.
 
@@ -93,7 +93,7 @@ IV - fazer-se representar, facultativamente, por seu representante legal ou por 
 
 **§ 2º** No exercício de suas funções, o servidor fiscal que realizar qualquer diligência de fiscalização se fará identificar por meio idôneo.” (NR)
 
-**Art. 7º** Fica alterado o art. 9º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 7º** Fica alterado o art. 9º da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 9º É impedido de elaborar proposta de decisão e de decidir em qualquer instância administrativa, o servidor público que:
 
@@ -111,7 +111,7 @@ VI - haja proferido decisão,no mesmo processo, em instância inferior.
 
 **Parágrafo único.** Não há impedimento para atuação não prevista nos incisos I a VI do caput deste artigo e no art. 10 desta Lei.” (NR)
 
-**Art. 8º** Fica alterado o art. 10 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 8º** Fica alterado o art. 10 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 10. Incorre em impedimento, nas mesmas hipóteses previstas no art. 9º desta Lei, o membro da Junta de Recursos Tributários designado para presidir sessão ou reunião plenária ou para relatar ou proferir voto em processo administrativo tributário, ainda que não seja servidor.
 
@@ -119,7 +119,7 @@ VI - haja proferido decisão,no mesmo processo, em instância inferior.
 
 **§ 2º** O membro da Junta de Recursos Tributários responsabilizado pela ausência de comunicação de impedimento terá sua nomeação revogada e não poderá ser novamente nomeado no prazo de 4 (quatro) anos, contados da data da finalização do processo administrativo que formalizar o reconhecimento do impedimento no ato por ele praticado.” (NR)
 
-**Art. 9º** Fica alterado o art. 11 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 9º** Fica alterado o art. 11 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 11. Ocorrendo o impedimento previsto nos arts. 9º e 10 desta Lei, este fato deverá ser previamente informado, e o impedimento assim como o correspondente motivo deverão ser registrados no processo ou procedimento administrativo tributário.
 
@@ -129,11 +129,11 @@ VI - haja proferido decisão,no mesmo processo, em instância inferior.
 
 **§ 3º** Em caso de impedimento para elaboração de proposta de decisão, o processo ou procedimento administrativo tributário deverá ser encaminhado para redistribuição.” (NR)
 
-**Art. 10.** Fica alterado o art. 13 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 10.** Fica alterado o art. 13 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 13. Além dos demais elementos específicos previstos em normas regulamentadoras, o requerimento deverá conter os motivos de fato e de direito em que se fundamenta e ser instruído com toda a documentação hábil à comprovação do alegado, sob pena de seu não conhecimento.” (NR)
 
-**Art. 11.** Fica alterado o art. 15 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 11.** Fica alterado o art. 15 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 15. Ao interessado é facultado desistir total ou parcialmente do pedido formulado ou do recurso interposto.
 
@@ -145,7 +145,7 @@ VI - haja proferido decisão,no mesmo processo, em instância inferior.
 
 **§ 4º** A desistência parcial do pedido formulado ou do recurso interposto será devidamente registrada e o respectivo processo administrativo tributário terá continuidade em relação ao pedido remanescente.” (NR)
 
-**Art. 12.** Fica alterado o art. 21 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 12.** Fica alterado o art. 21 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 21. A notificação de lançamento e suas revisões, as decisões, as diligências bem como os demais atos sujeitos à cientificação do sujeito passivo ou interessado serão efetuados por um dos meios abaixo elencados, não sujeitos à ordem de preferência:
 
@@ -175,7 +175,7 @@ V - pessoalmente;
 
 **§ 8º** As notificações emitidas no curso do processo e do procedimento administrativo tributário, contendo obrigações a serem cumpridas, devem indicar o prazo para seu atendimento e devem ser realizadas, preferencialmente, nos termos do inciso V.” (NR)
 
-**Art. 13.** Fica alterado o art. 22 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 13.** Fica alterado o art. 22 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 22. .....................................
 
@@ -197,7 +197,7 @@ VI - na data definida em norma complementar, nos demais casos.
 
 **§ 3º** Efetivada a notificação nos termos do § 2º deste artigo, os comunicados recebidos posteriormente terão caráter meramente informativo.” (NR)
 
-**Art. 14.** Fica alterado o art. 25 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 14.** Fica alterado o art. 25 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 25. É nulo o ato que nasça afetado de vício insanável, material ou formal, especialmente nos casos:
 
@@ -233,7 +233,7 @@ III - forem passíveis de convalidação.
 
 **§ 2º** A decisão que declarar a nulidade do ato deverá indicar, de modo expresso, sua abrangência e as providências necessárias ao prosseguimento ou solução do processo.”
 
-**Art. 16.** Fica alterado o art. 26 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 16.** Fica alterado o art. 26 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 26. A Administração Tributária poderá convalidar seus atos anuláveis quando a invalidade decorrer de vício sanável, desde que:
 
@@ -257,13 +257,13 @@ II - na hipótese de vício formal, este possa ser suprido em conformidade com a
 
 **§ 2º** A convalidação será sempre formalizada por ato motivado.” (NR)
 
-**Art. 18.** Fica alterado o art. 27 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 18.** Fica alterado o art. 27 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 27. As incorreções ou omissões formais verificadas no lançamento e no auto de infração não constituem motivos de nulidade do procedimento ou do processo, desde que nele constem corretamente os elementos essenciais dispostos no art. 28 desta Lei, cabendo à autoridade competente promover-lhe o saneamento.
 
 **Parágrafo único.** O saneamento da incorreção de que trata este artigo não implica reabertura de prazos para eventual discussão do lançamento.” (NR)
 
-**Art. 19.** Fica alterado o art. 28 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 19.** Fica alterado o art. 28 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 28.Compete privativamente ao servidor da carreira específica a que a lei atribua tal competência constituir o crédito tributário pelo lançamento, assim entendido o procedimento administrativo tendente a verificar a ocorrência do fato gerador da
 
@@ -271,7 +271,7 @@ obrigação correspondente, determinar a matéria tributável, calcular o montan
 
 ..........................................” (NR)
 
-**Art. 20.** Fica alterado o art. 30 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 20.** Fica alterado o art. 30 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 30. .............................
 
@@ -279,13 +279,13 @@ obrigação correspondente, determinar a matéria tributável, calcular o montan
 
 **§ 2º** A notificação efetuada por meio de edital ou texto oficial publicado no Diário Oficial do Município fica dispensada das obrigações dispostas nos incisos III e V deste artigo.” (NR)
 
-**Art. 21.** Fica alterado o art. 33 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 21.** Fica alterado o art. 33 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 33. A impugnação do lançamento de tributo ou multa de natureza tributária, tempestiva e conhecida, instaura o processo administrativo tributário e suspende a exigibilidade da integralidade do crédito tributário correspondente.
 
 **Parágrafo único.** Havendo pedido do contribuinte, a critério da Administração Tributária, a parcela incontroversa do lançamento impugnado poderá ser desmembrada para fins de recolhimento do tributo.” (NR)
 
-**Art. 22.** Fica alterado o art. 34 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 22.** Fica alterado o art. 34 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 34. A impugnação, formalizada pelo sujeito passivo ou seu representante legal, de forma escrita, deverá ser protocolizada no prazo de 30 (trinta) dias, contados da data em que se considerar efetuada a notificação da exigência.
 
@@ -303,7 +303,7 @@ II - impugnação do desenquadramento do regime de lançamento.
 
 **§ 5º** O prazo para apresentação de impugnação nos termos do § 3º deste artigo começará a fluir a partir da data em que se considerar efetuada a notificação dessa decisão.” (NR)
 
-**Art. 23.** Fica alterado o art. 35 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 23.** Fica alterado o art. 35 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 35. ..................................
 
@@ -335,11 +335,11 @@ mesmo loteamento, pertencentes ao mesmo sujeito passivo, relativos ao mesmo exer
 
 Da restituição, compensação e aproveitamento de crédito“ (NR)
 
-**Art. 26.** Fica alterado o art. 42 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 26.** Fica alterado o art. 42 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 42. O sujeito passivo tem direito à restituição ou compensação do tributo indevidamente pago e não aproveitado, na forma disciplinada nesta Lei e nas normas regulamentadoras, respeitado o disposto no art. 57A.” (NR)
 
-**Art. 27.** Fica alterado o art. 43 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 27.** Fica alterado o art. 43 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 43. O sujeito passivo com débito exigível de qualquer origem não pode:
 
@@ -347,7 +347,7 @@ I - receber da Fazenda Municipal quaisquer valores ou restituição, exceto quan
 
 II - participar de certames licitatórios e celebrar contratos ou transações de qualquer natureza com a Administração Pública municipal direta ou indireta, bem como com as empresas da qual esta detenha a integralidade do capital ou dela participe como acionista majoritária.” (NR)
 
-**Art. 28.** Fica alterado o art. 44 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 28.** Fica alterado o art. 44 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 44. Compete ao diretor do departamento responsável pela cobrança e controle de arrecadação decidir sobre pedido de aproveitamento, restituição ou compensação de tributo indevidamente pago.
 
@@ -355,11 +355,11 @@ II - participar de certames licitatórios e celebrar contratos ou transações d
 
 **§ 3º** Quando o montante do crédito apurado a ser restituído ou compensado for superior a 10.000 (dez mil) Unidades Fiscais de Campinas - UFICs, o procedimento deverá ser remetido para conhecimento do secretário municipal de Finanças previamente à decisão.” (NR)
 
-**Art. 29.** Fica alterado o art. 46 da Lei no 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 29.** Fica alterado o art. 46 da Lei no 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 46.A restituição ou compensação total ou parcial de tributos, além da atualização do valor a restituir ou compensar, dá lugar a restituir ou compensar, na mesma proporção, os juros de mora e as penalidades pecuniárias que tiverem sido indevidamente recolhidos.” (NR)
 
-**Art. 30.** Fica alterado o art. 48 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 30.** Fica alterado o art. 48 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 48. As disposições desta seção são aplicadas também, no que couber, aos pedidos de restituição e compensação dos créditos não tributários, honorários advocatícios e emolumentos indevidamente pagos.
 
@@ -373,7 +373,7 @@ II - no caso de honorários advocatícios e emolumentos, do procurador-chefe res
 
 **§ 3º** O aproveitamento de créditos não tributários e de honorários advocatícios relativo aos pagamentos efetuados por meio de acordo de parcelamento poderá ser realizado de ofício ou a pedido do interessado, nos moldes do art. 57 desta Lei, e será decidido nos termos do art. 44 desta Lei.” (NR)
 
-**Art. 31.** Fica alterado o art. 49 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 31.** Fica alterado o art. 49 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 49. Na hipótese de substituição ou retificação de lançamento, eventuais descontos concedidos pelas leis de regência do IPTU e taxas imobiliárias em decorrência do pagamento da parcela ou da cota única do crédito tributário substituído ou retificado serão reincorporados para recompor o valor original do tributo quitado.
 
@@ -381,7 +381,7 @@ II - no caso de honorários advocatícios e emolumentos, do procurador-chefe res
 
 **§ 2º** O previsto no caput deste artigo será aplicado ainda que o lançamento substituto ou retificado englobe outros exercícios.” (NR)
 
-**Art. 32.** Fica alterado o art. 51 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 32.** Fica alterado o art. 51 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 51. Na inexistência de débito a ser compensado ou na impossibilidade de se efetivar a compensação, o valor apurado poderá ser aproveitado em lançamentos futuros ou em recolhimentos subsequentes na ocorrência de uma das seguintes situações:
 
@@ -393,7 +393,7 @@ III - outras situações previstas em normas regulamentadoras.
 
 ............................................” (NR)
 
-**Art. 33.** Fica alterado o art. 55 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 33.** Fica alterado o art. 55 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 55. O crédito apurado em decorrência de lançamentos revisados poderá ser aproveitado para quitação total ou parcial do lançamento substituto ou retificado, observando-se as disposições do art. 49 desta Lei.
 
@@ -403,7 +403,7 @@ III - outras situações previstas em normas regulamentadoras.
 
 **§ 3º** Nos casos elencados no § 1º deste artigo, eventual compensação ou restituição será efetivada para o sujeito passivo das novas unidades criadas.” (NR)
 
-**Art. 34.** Fica alterado o art. 56 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 34.** Fica alterado o art. 56 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 56. Na hipótese de substituição de lançamento, eventuais pagamentos relativos àquele lançamento não computados na apuração do montante devido pelo sujeito
 
@@ -415,7 +415,7 @@ passivo, nos termos do art. 55 desta Lei, recolhidos anteriormente ou posteriorm
 
 ...........................................” (NR)
 
-**Art. 35.** Fica alterado o art. 57 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 35.** Fica alterado o art. 57 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 57. Será passível de aproveitamento no próprio lançamento ou ainda em lançamentos futuros, de ofício ou a pedido do interessado, o pagamento indevido, efetuado:
 
@@ -441,7 +441,7 @@ III - na parcela à vista de tributo lançado de forma parcelada, quando efetuad
 
 Do reconhecimento administrativo de isenções, imunidades, não incidências, incentivos fiscais e remissões“ (NR)
 
-**Art. 38.** Fica alterado o art. 63 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 38.** Fica alterado o art. 63 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 63. As atividades de instrução competem ao setor, à coordenadoria ou ao departamento aos quais estiver afeta a matéria ou etapa do procedimento e do processo administrativo tributário bem como aos servidores em exercício nos referidos órgãos.
 
@@ -455,13 +455,13 @@ Do reconhecimento administrativo de isenções, imunidades, não incidências, i
 
 **§ 6º** Os autos de processos eletrônicos, ou partes deles, que tiverem de ser remetidos a órgãos ou entidades que não disponham de acesso ao Sistema Eletrônico de Informações - SEI ou a outro sistema que venha a substituí-lo, poderão ser encaminhados impressos em papel ou por meio digital, conforme disciplinado em normas regulamentadoras.” (NR)
 
-**Art. 39.** Fica alterado o art. 64 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 39.** Fica alterado o art. 64 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 64. ...............................
 
 **Parágrafo único.** A fase de instrução se encerrará quando o procedimento ou processo administrativo tributário estiver preparado para decisão.” (NR)
 
-**Art. 40.** Fica alterado o art. 65 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 40.** Fica alterado o art. 65 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 65. A instrução deverá conter relatório circunstanciado das principais ocorrências sucedidas no curso da instrução, indicando o pedido inicial e proposta de decisão, objetivamente justificada e fundamentada,ou as providências já tomadas em caso de conclusão e arquivamento, nos termos do art. 90 desta Lei.” (NR)
 
@@ -477,7 +477,7 @@ DA PRIMEIRA INSTÂNCIA ADMINISTRATIVA” (NR)
 
 Da decisão do procedimento administrativo tributário“ (NR)
 
-**Art. 43.** Fica alterado o art. 66 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 43.** Fica alterado o art. 66 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 66. A decisão em procedimento administrativo tributário de que trata o art. 3 o desta
 
@@ -491,7 +491,7 @@ Lei será proferida pelo diretor do departamento responsável pela matéria em q
 
 Da decisão do processo administrativo tributário“ (NR)
 
-**Art. 45.** Fica alterado o art. 68 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 45.** Fica alterado o art. 68 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 68. A decisão de processo administrativo tributário em primeira instância administrativa de que trata o inciso I do art. 4o desta Lei será proferida pelo diretor do departamento responsável pelo lançamento do tributo em questão, que poderá delegar tal competência a titular do cargo de Auditor Fiscal Tributário Municipal, nos termos de normas regulamentadoras.
 
@@ -513,11 +513,11 @@ Normas comuns às decisões em procedimento e processo administrativo tributári
 
 “Art. 70B. Ocorrendo impedimento para decisão de primeira instância, nos moldes em que este é disciplinado pelo art. 9º desta Lei, a competência para decisão do processo e do procedimento administrativo tributário será da autoridade de hierarquia funcional imediatamente superior àquelas de que tratam os arts. 66 e 68 desta Lei.”
 
-**Art. 49.** Fica alterado o art. 72 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 49.** Fica alterado o art. 72 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 72.O recurso interposto contra decisão em procedimento administrativo tributário de que tratam os incisos VIII e XI do art. 3º desta Lei ou contra decisão de primeira instância administrativa de que trata o art. 4º será recebido pelo presidente da Junta de Recursos Tributários, somente em seu efeito devolutivo, ressalvada a hipótese em que a exigibilidade do crédito tributário contestado já tenha sido suspensa, por força de impugnação do lançamento, a cujo recurso, desde que regular e conforme, nos termos desta Lei, será também conferido o efeito suspensivo.” (NR)
 
-**Art. 50.** Fica alterado o art. 73 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 50.** Fica alterado o art. 73 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 73. É nulo o acórdão proferido em segunda instância administrativa que:
 
@@ -539,17 +539,17 @@ IV - o membro que tiver o seu impedimento formalmente reconhecido, nos termos do
 
 **§ 5º** É facultado à administração tributária ou ao sujeito passivo indicar, mediante petição dirigida à Representação Fiscal, no prazo de 20 (vinte) dias, contados da data da publicação do acórdão, nos termos do art. 22 desta Lei, a alegação de nulidade deste e a fundamentação correspondente.” (NR)
 
-**Art. 51.** Fica alterado o art. 74 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 51.** Fica alterado o art. 74 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 74. Das decisões em procedimento administrativo tributário de que trata o inciso XI do art. 3º desta Lei e das decisões de primeira instância em processo administrativo tributário de que trata o inciso I do art. 4º, contrárias, no todo ou em parte, à Fazenda Municipal, decorrentes de matéria de direito, inclusive pela desclassificação da infração, será obrigatoriamente interposto recurso de ofício sempre que a importância reduzida exceder a 10.000 (dez mil) UFICs.
 
 **Parágrafo único.** O recurso de ofício suspende os efeitos da decisão recorrida até o julgamento definitivo deste.” (NR)
 
-**Art. 52.** Fica alterado o art. 75 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 52.** Fica alterado o art. 75 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 75.O recurso de ofício será interposto no próprio despacho que decidir do processo ou do procedimento administrativo tributário em primeira instância administrativa.” (NR)
 
-**Art. 53.** Fica alterado o art. 76 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 53.** Fica alterado o art. 76 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 76. Das decisões de primeira instância proferidas em procedimento administrativo tributário de que tratam os incisos VIII e XI do art. 3º desta Lei e em processo administrativo tributário de que trata o inciso I do art. 4º, poderá ser interposto recurso voluntário, no prazo de 30 (trinta) dias contados de sua notificação, objetivando reformá- las total ou parcialmente.
 
@@ -561,7 +561,7 @@ IV - o membro que tiver o seu impedimento formalmente reconhecido, nos termos do
 
 **§ 5º** Na hipótese de lançamento de mais de um exercício no mesmo documento de formalização do crédito, o recurso apresentado para qualquer um dos exercícios se estende aos demais, observadas as disposições da alínea ‘c’ do inciso IV do art. 93 desta Lei.” (NR)
 
-**Art. 54.** Fica alterado o art. 77 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 54.** Fica alterado o art. 77 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 77. Do acórdão proferido por câmara julgadora que divergir de acórdão proferido por outra câmara julgadora ou reunião plenária, transitado em julgado, poderá ser interposto Recurso de Revisão, no prazo de 30 (trinta) dias contados da data da notificação do acórdão, nos termos do art. 22 desta Lei, contra o qual o recurso é interposto.
 
@@ -589,7 +589,7 @@ fundamentos das divergências que entende pertinentes para revisão do acórdão
 
 **§ 8º** Não cabe pedido de reconsideração da decisão que rejeitar liminarmente o Recurso de Revisão.” (NR)
 
-**Art. 55.** Fica alterado o art. 80 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 55.** Fica alterado o art. 80 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 80. Esgotados os demais prazos para recursos, a Representação Fiscal poderá interpor Recurso Extraordinário contra acórdão não unânime de segunda instância administrativa contrário à evidência de provas do processo.
 
@@ -603,7 +603,7 @@ fundamentos das divergências que entende pertinentes para revisão do acórdão
 
 **§ 5º** Não cabe pedido de reconsideração da decisão que rejeitar liminarmente Recurso Extraordinário.” (NR)
 
-**Art. 56.** Fica alterado o art. 83 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 56.** Fica alterado o art. 83 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 83. Não será conhecido o requerimento do interessado, a impugnação ou o recurso em quaisquer das seguintes hipóteses:
 
@@ -627,7 +627,7 @@ XI - quando incorrer nos casos elencados no § 2º do art. 77 desta Lei relativa
 
 **Parágrafo único.** Não cabe recurso da decisão de não conhecimento, mas tão somente pedido de reconsideração, dirigido à mesma autoridade julgadora e que verse exclusivamente sobre os motivos e fundamentos do não conhecimento, no prazo de 30 (trinta) dias contados da data da notificação da decisão ou do acórdão.” (NR)
 
-**Art. 57.** Fica alterado o art. 88 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 57.** Fica alterado o art. 88 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 88. No julgamento, é vedado afastar a aplicação de lei sob alegação de inconstitucionalidade, ressalvadas as hipóteses em que a inconstitucionalidade tenha sido proclamada em:
 
@@ -641,13 +641,13 @@ III - decisões já transitadas em julgado proferidas pelo Supremo Tribunal Fede
 
 “Art. 89. É nula a decisão ou parte desta que negue vigência, aplicação ou eficácia à legislação municipal, ressalvado o disposto no art. 88 desta Lei.”
 
-**Art. 59.** Fica alterado o art. 90 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 59.** Fica alterado o art. 90 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 90. Nenhum processo administrativo tributário será encaminhado para arquivo sem despacho fundamentado da autoridade competente.
 
 **Parágrafo único.** São competentes para determinar o arquivamento do processo o diretor, o coordenador, o chefe de setor e os servidores por eles formalmente autorizados.” (NR)
 
-**Art. 60.** Fica alterado o art. 93 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 60.** Fica alterado o art. 93 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 93. ................................
 
@@ -691,7 +691,7 @@ V - interposição do recurso, no caso previsto no art. 80 desta Lei.
 
 “Art. 97B. Os procedimentos e os processos administrativos tributários não alcançados pelo art. 97A bem como as providências de mero expediente, a análise e concessão de efeito suspensivo, a expedição de notificação ou intimação pessoal, a elaboração e apresentação de informes e pareceres, a instrução do processo e demais atos e providências praticados pela Administração Tributária não estão sujeitos a prazos específicos, ainda que de forma subsidiária, salvo quando previstos expressamente na legislação tributária.”
 
-**Art. 63.** Fica alterado o art. 102 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 63.** Fica alterado o art. 102 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 102. ...........................
 
@@ -707,11 +707,11 @@ II - julgado total ou parcialmente procedente, a importância depositada será c
 
 **§ 3º** A importância a ser levantada será atualizada monetariamente em UFICs.” (NR)
 
-**Art. 64.** Fica alterado o art. 106 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 64.** Fica alterado o art. 106 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 106. Os órgãos encarregados da administração tributária da Secretaria Municipal de Finanças cumprem e esgotam suas funções com o ajuizamento do crédito inscrito em dívida ativa, cabendo-lhes, entretanto, sempre que requisitadas pela Procuradoria-Geral do Município, prestar as informações complementares pontualmente deduzidas sobre a matéria de fato e sobre critérios para aplicação da legislação tributária ao caso concreto, pertinentes à sua constituição, que não constem do processo administrativo de lançamento.” (NR)
 
-**Art. 65.** Fica alterado o art. 109 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte
+**Art. 65.** Fica alterado o art. 109 da Lei nº 13.104, de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 109. As regras dispostas nesta Lei aplicam-se, no que couber, aos incentivos fiscais e aos créditos não tributários.” (NR)
 

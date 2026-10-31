@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12470"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1991/12470/12470_texto_integral.pdf"
 sha256_fonte: "d686b4de845b3bce2435f54a04bed4de2c55aa83c0316f1d206621ee5bb8c40b"
-sha256_texto: "5404134ea6ded12e75827c4298d1fde066961472cd18bafbcba8da9c03bd0420"
+sha256_texto: "29e9af1e9ec8758e17e8c847adc6e0d69dd14016df477eb41bb37aac7e3c2ac1"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,15 +25,13 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** ­ Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais as áreas de terreno abaixo descritas, de propriedade da Prefeitura Municipal de Campinas: (VER LEI 7218)
 
-1 – Lote 11, da quadra 36, loteamento Jardim Guanabara, localizado no quarteirão
+1 – Lote 11, da quadra 36, loteamento Jardim Guanabara, localizado no quarteirão 310 do Cadastro Municipal, de propriedade da Municipalidade, com 307,20 m² de área e as seguintes medidas: 8,00m onde confronta com a Rua Camargo Paes, 38,40m onde confronta com o lote G, da mesma quadra, 8,00 onde confronta com a área do estádio Dr. “Horacio Antonio da Costa”; 38,34m onde confronta com o lote 10, da mesma quadra.
 
-38,40m onde confronta com o lote G, da mesma quadra, 8,00 onde confronta com a área do estádio Dr. “Horacio Antonio da Costa”; 38,34m onde confronta com o lote 10, da mesma quadra.
-
-2 – Lote 10, da quadra 36, loteamento Jardim Guanabara, localizado no quarteirão
+2 – Lote 10, da quadra 36, loteamento Jardim Guanabara, localizado no quarteirão 310 do Cadastro Municipal, de propriedade da Municipalidade, com 307,20 m² de
 
 38,40m onde confronta com o lote 11, da mesma quadra; 8,00m onde confronta com a área do estádio Dr. “Horacio Antonio da Costa”; 38,40m onde confronta com o lote 9, da mesma quadra.
 
-3 – Lote 9, da quadra 36, loteamento Jardim Guanabara, localizado no quarteirão
+3 – Lote 9, da quadra 36, loteamento Jardim Guanabara, localizado no quarteirão 310 do Cadastro Municipal, de propriedade da Municipalidade, com 307,20 m² de
 
 38,40m onde confronta com o lote 10, da mesma quadra; 8,00m onde confronta com a área do estádio Dr. “Horacio Antonio da Costa”.
 

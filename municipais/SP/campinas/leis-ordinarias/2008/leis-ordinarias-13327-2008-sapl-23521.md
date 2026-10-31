@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR JORGE
 fonte: "https://sapl.campinas.sp.leg.br/norma/23521"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2008/23521/23521_texto_integral.pdf"
 sha256_fonte: "bda7ea3175bde5def6bead420035ce063a9ebba84a2997dfffa293ec9f1eca73"
-sha256_texto: "7355841ba1d53d47d46e6d322e8d69372d2d383d9778a3217897c3e4d1a9c8a6"
+sha256_texto: "672a17ea67979168eca6e6d5e13a68e53c36e1f30169b045df295051af710752"
 baixado_em: "2026-10-22"
 ---
 
@@ -49,6 +49,8 @@ e) identificação e CRMV do veterinário responsável, que deverá firmar e ane
 
 Art. 3º- VETADO
 
+**Parágrafo único** – VETADO.
+
 #### CAPÍTULO II DOS CUIDADOS DOS ANIMAIS
 
 Art. 4º- O local destinado ao abrigo dos cães, canis, devem observar as seguintes condições:
@@ -66,6 +68,8 @@ V – a limpeza das células do canil deve ser realizada diariamente.
 Art. 5º- Os resíduos sólidos produzidos pelos animais no local da prestação de serviços devem ser recolhidos pela empresa locatária.
 
 Art. 6º- O cão desligado da relação de animais da empresa não poderá ser abandonado, nem sujeito a sofrimentos físicos ou sacrificado.
+
+**Parágrafo único** – VETADO.
 
 #### CAPÍTULO III DAS SANÇÕES E DISPOSIÇÕES FINAIS
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/26832"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2010/26832/26832_texto_integral.pdf"
 sha256_fonte: "ef8f216fe68005dcaee69821f9aef8ff28b58bfe17b0092c8069c0aa0479d554"
-sha256_texto: "ee45543c7f7edf8dd98975cede98cbefc1dae5cd1c080f989075ef16db3d85bf"
+sha256_texto: "11ea8342f595890efc28839d9beb121a5a794da2dfa2d42e837b4ebd1ee23ba9"
 baixado_em: "2026-10-21"
 ---
 
@@ -33,9 +33,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 V - recursos pagos a título de outorga onerosa de concessões, permissões ou autorizações para exploração de serviços afetos ao transporte público e ao trânsito, inclusive seu mobiliário urbano, terminais rodoviários e intermodais de passageiros no Município;
 
-VI - receitas originadas em convênios, termos de cooperação ou contratos associados à gestão do transporte público e do trânsito no Município, firmados entre a Prefeitura Municipal de Campinas e outras entidades públicas ou privadas;
+VI - receitas originadas em convênios, termos de cooperação ou contratos associados à gestão do transporte público e do trânsito no Município, firmados entre a Prefeitura Municipal de Campinas e outras entidades públicas ou privadas; .........................................................
 
 IX - recursos repassados pela União ou pelos Governos Estaduais e Municipais e por órgãos a estes vinculados;
+
+.........................................................
 
 XI - multas previstas no Código de Trânsito Brasileiro inscritas na dívida ativa do Município.
 
@@ -57,7 +59,7 @@ Art. 6º- Compete ao Conselho Diretor do FMTT: .................................
 
 II - aprovar operações de financiamento e de repasse de recursos a fundo perdido; ...........................................................
 
-Art. 7º.............................................
+Art. 7º............................................. .........................................................
 
 **Parágrafo único** - A reversão de bens e de direitos do FMTT ao Município poderá ocorrer a qualquer tempo, mediante deliberação do Conselho Diretor com voto favorável de pelo menos 03 (três) de seus membros. ?.........................................................”(NR)
 

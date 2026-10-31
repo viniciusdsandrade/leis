@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/13119"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1989/13119/13119_texto_integral.pdf"
 sha256_fonte: "5ad6d62bcfa4960a38360cd69731d1415e31c38f1471e012995f2bdc2d961efd"
-sha256_texto: "49ab0b986ccf2cd1a0125f92effaf963eae6f6019faaa375c58b78c7b637f989"
+sha256_texto: "9477f87c0ea85f4ac997786d4d9567168084d9c77a28fd231220e2409c669b5f"
 baixado_em: "2026-10-30"
 ---
 
@@ -37,9 +37,7 @@ II – PRÉDIO PROLETÁRIOS Construções de acordo com os projetos da Prefeitur
 
 408,00
 
-III – PRÉDIOS POPULARES OU PROLETÁRIOS MELHORADOS Construídos com paredes de meio tijolo, obedecendo ao projeto da Prefeitura ou não, com revestimento de uma demão, forros de estuque ou madeira, instalações elétricas ou hidráulicas completas, ladrilhos de cimento, tacos, etc
-
-556,00
+III – PRÉDIOS POPULARES OU PROLETÁRIOS MELHORADOS Construídos com paredes de meio tijolo, obedecendo ao projeto da Prefeitura ou não, com revestimento de uma demão, forros de estuque ou madeira, instalações elétricas ou hidráulicas completas, ladrilhos de cimento, tacos, etc ......................................................................................... 556,00
 
 IV – PRÉDIOS RESIDENCIAIS REGULARES Paredes externas com espessura de um tijolo, uma demão de massa, piso de ladrilhos, hidráulicos com uma só cor, cacos cerâmicos, tacos de peroba, barra de estuque lúcido ou azulejo que não seja de primeira qualidade, ferragens de tipo regular, pintura à base de têmpera, um só banheiro incompleto
 
@@ -49,9 +47,7 @@ V – PRÉDIOS RESIDENCIAIS MÉDIOS Um só banheiro, duas demos de massa, piso d
 
 1.157,00
 
-VI – PRÉDIOS RESIDENCIAIS BONS Dois banheiros, revestimento das paredes em duas demãos de massa, pisos em caco de mármore, granito artificial, tacos de ipê ou similar, marfim ou similar, azulejos e peças sanitárias de primeira qualidade, pintura à base de látex
-
-1.605,00
+VI – PRÉDIOS RESIDENCIAIS BONS Dois banheiros, revestimento das paredes em duas demãos de massa, pisos em caco de mármore, granito artificial, tacos de ipê ou similar, marfim ou similar, azulejos e peças sanitárias de primeira qualidade, pintura à base de látex ......................................................................................... 1.605,00
 
 VII – CONSTRUÇÕES RESIDENCIAIS FINAS Casa com dois banheiro, metais na linha italiana ou similar, azulejos de primeira qualidade até o forro e banheira, portas dos armários de cozinha em fórmica, pisos em cerâmica esmaltada ou vitrificada, massa corrida em parte do prédio, pisos de madeira executados com tábuas largas
 
@@ -63,17 +59,11 @@ VIII – CONSTRUÇÕES RESIDENCIAIS DE LUXO Prédios executados com o mais alto 
 
 IX – PRÉDIOS DE TRÊS OU MAIS ANDARES
 
-a) comercial, de acabamento simples, com elevador
+a) comercial, de acabamento simples, com elevador ......................................................................................... 1.123,00
 
-1.123,00
+b) comercial, de acabamento bom, com elevador ......................................................................................... 1.433,00
 
-b) comercial, de acabamento bom, com elevador
-
-1.433,00
-
-c) comercial, de acabamento fino, com elevador
-
-1.750,00
+c) comercial, de acabamento fino, com elevador ......................................................................................... 1.750,00
 
 d) residencial coletivo, de acabamento regular, com elevador
 
@@ -87,23 +77,15 @@ f) residencial coletivo, de acabamento fino, com elevador
 
 2.289,00
 
-g) residencial coletivo, de acabamento de luxo, com elevador
+g) residencial coletivo, de acabamento de luxo, com elevador ......................................................................................... 2.800,00
 
-2.800,00
+h) prédios especificados nas alíneas anteriores, quando desprovidos de elevador, terão desconto por metro quadrado, nos valores unitários, de ......................................................................................... 270,00
 
-h) prédios especificados nas alíneas anteriores, quando desprovidos de elevador, terão desconto por metro quadrado, nos valores unitários, de
-
-270,00
-
-i) Box de apartamento
-
-635,00
+i) Box de apartamento ......................................................................................... 635,00
 
 X – PRÉDIOS INDUSTRIAIS
 
-a) galpões abertos, pilares de alvenaria, telhado sobre estrutura comum de madeira, piso de terra
-
-296,00
+a) galpões abertos, pilares de alvenaria, telhado sobre estrutura comum de madeira, piso de terra ......................................................................................... 296,00
 
 b) galpões abertos, pilares de concreto, telhado sobre estrutura de madeira comum, pisos baratos (cimento, concreto magro, etc)
 
@@ -113,13 +95,9 @@ c) galpões fechados, com alvenaria, sem revestimento e nos demais, semelhante �
 
 630,00
 
-d) galpões fechados semelhantes à alínea “c”, com paredes revestidas e pintadas, com caixilhos envidraçados
+d) galpões fechados semelhantes à alínea “c”, com paredes revestidas e pintadas, com caixilhos envidraçados ......................................................................................... 1.225,00
 
-1.225,00
-
-e) construções especiais para indústrias, telhado sobre estrutura metálica, de concreto ou especiais de madeira, com acabamento próprio para indústria
-
-1.820,00
+e) construções especiais para indústrias, telhado sobre estrutura metálica, de concreto ou especiais de madeira, com acabamento próprio para indústria ......................................................................................... 1.820,00
 
 **§ 1º** ­ Aos prédios comerciais, lojas e sobrelojas serão aplicados os valores específicos no item IX, alínea “a”, “b” e “c”, com o desconto previsto pela inexistência de elevador.
 

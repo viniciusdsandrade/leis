@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/51765"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51765/51765_texto_integral.pdf"
 sha256_fonte: "b8028f301613b2ce094ca67b561b06d88255194e852dc85efe9fca23e74119fb"
-sha256_texto: "fa796f0356a20d800628acefa136de68705aa5bde092973c299b3a7df8cdbbe2"
+sha256_texto: "bfe93eedf5e0ad3d18119ee786abd69cf5de6e890cb229bf4f101bbc3fd1117a"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,9 +27,7 @@ A O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou 
 
 **Parágrafo único.** Como forma de combate e prevenção à violência, a mulher poderá dizer “sinal vermelho” ou sinalizar e efetivar o pedido de socorro e ajuda expondo a mão com uma marca em seu centro, na forma de um “X”, feita preferencialmente com batom vermelho ou, em caso de impossibilidade, com caneta ou outro material acessível, se possível na cor vermelha, a ser mostrada com a mão aberta para clara comunicação do pedido.
 
-**Art. 2º** O protocolo básico e mínimo do programa de que trata esta Lei consiste em que, ao identificarem o pedido de socorro e ajuda, conforme descrito no parágrafo único do art. 1º, ou ao ouvirem o código “sinal vermelho”, os atendentes de farmácias, repartições públicas, instituições sem fins lucrativos, portarias de
-
-administrações de shopping centers ou supermercados procedam à coleta do nome da vítima, seu endereço ou seu telefone e liguem imediatamente para o número 190 (Polícia Militar).
+**Art. 2º** O protocolo básico e mínimo do programa de que trata esta Lei consiste em que, ao identificarem o pedido de socorro e ajuda, conforme descrito no parágrafo único do art. 1º, ou ao ouvirem o código “sinal vermelho”, os atendentes de farmácias, repartições públicas, instituições sem fins lucrativos, portarias de condomínios, hotéis, pousadas, bares, restaurantes, lojas comerciais, administrações de shopping centers ou supermercados procedam à coleta do nome da vítima, seu endereço ou seu telefone e liguem imediatamente para o número 190 (Polícia Militar).
 
 **Parágrafo único.** Sempre que possível, a vítima será conduzida a local reservado no estabelecimento, de forma sigilosa e com discrição, para aguardar a chegada da autoridade de segurança pública.
 
@@ -51,9 +49,7 @@ IV - servidores públicos que atuam em diferentes áreas e que podem ser recepto
 
 **Art. 5º** O Poder Executivo poderá realizar as campanhas necessárias para promoção e efetivação do acesso das mulheres em situação de violência doméstica, bem como da sociedade civil, aos protocolos e às medidas de proteção previstos nesta Lei.
 
-**§ 1º** Os participantes divulgarão o Programa de Cooperação e o Código Sinal Vermelho por meio da afixação de cartazes informativos no interior dos estabelecimentos que aderirem ao programa de que trata esta Lei, com destaque para farmácias, repartições públicas, instituições sem fins lucrativos, portarias de
-
-administrações de shopping centers, supermercados e similares.
+**§ 1º** Os participantes divulgarão o Programa de Cooperação e o Código Sinal Vermelho por meio da afixação de cartazes informativos no interior dos estabelecimentos que aderirem ao programa de que trata esta Lei, com destaque para farmácias, repartições públicas, instituições sem fins lucrativos, portarias de condomínios, hotéis, pousadas, bares, restaurantes, lojas comerciais, administrações de shopping centers, supermercados e similares.
 
 **§ 2º** Durante a realização das campanhas referidas no caput, serão divulgados os canais de comunicação para a adesão dos estabelecimentos ao programa de que trata esta Lei.
 

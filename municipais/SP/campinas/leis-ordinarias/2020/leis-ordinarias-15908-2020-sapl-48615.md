@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/48615"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/48615/48615_texto_integral.pdf"
 sha256_fonte: "1def0b37326a62309a91c09fe292dc93d3e1445bfcdf67bff7cdd38c9deb9707"
-sha256_texto: "6b8088b9a284bca5ab5cb621e715bcd7f164f0a5a4c4889bee4fdb4a43492fb4"
+sha256_texto: "f229e3740976fe013bbf98bc3f70edf41ef7f9302a999c1e803f9e21918b8ef0"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,29 +27,33 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 “Art. 8º O acordo firmado nos termos desta Lei poderá ser rescindido, de pleno direito, independentemente de notificação prévia ou interpelação, diante da ocorrência de uma das seguintes situações:
 
-**Art. 2º** Fica alterado o caput do art. 24 da Lei nº 14.102, de 26 de julho de 2011,
+............................................................” (NR)
+
+**Art. 2º** Fica alterado o caput do art. 24 da Lei nº 14.102, de 26 de julho de 2011, que passa a vigorar com a seguinte redação:
 
 “ Art. 24. A adesão ao Programa instituído por esta Lei poderá ser rescindida, de pleno direito, diante da ocorrência de uma das seguintes situações:
 
 .............................................................” (NR)
 
-**Art. 3º** Fica alterado o caput do art. 13 da Lei nº 14.866, de 29 de agosto de 2014,
+**Art. 3º** Fica alterado o caput do art. 13 da Lei nº 14.866, de 29 de agosto de 2014, que passa a vigorar com a seguinte redação:
 
-“ Art. 13. A adesão ao REFIS CAMPINAS/2014, instituído por esta Lei, poderá ser rescindida, de pleno direito, diante da ocorrência de uma das seguintes
+“ Art. 13. A adesão ao REFIS CAMPINAS/2014, instituído por esta Lei, poderá ser rescindida, de pleno direito, diante da ocorrência de uma das seguintes situações:
+
+............................................................” (NR)
 
 **Art. 4º** Fica alterado o caput do art. 10 da Lei nº 14.919, de 17 de novembro de 2014, que passa a vigorar com a seguinte redação:
 
-“ Art. 10. A adesão ao REFIS/CLUBES, instituído por esta Lei, poderá ser rescindida, de pleno direito, diante da ocorrência de uma das seguintes
+“ Art. 10. A adesão ao REFIS/CLUBES, instituído por esta Lei, poderá ser rescindida, de pleno direito, diante da ocorrência de uma das seguintes situações:
 
 ...............................................” (NR)
 
-**Art. 5º** Fica alterado o caput do art. 20 da Lei nº 15.461, de 11 de julho de 2017,
+**Art. 5º** Fica alterado o caput do art. 20 da Lei nº 15.461, de 11 de julho de 2017, que passa a vigorar com a seguinte redação:
 
 “ Art. 20. O parcelamento de débito poderá ser rescindido, de pleno direito, independentemente de notificação prévia ao devedor, nas seguintes hipóteses:
 
 ................................................” (NR)
 
-**Art. 6º** Fica alterado o caput do art. 20 da Lei nº 15.783, de 11 de julho de 2019,
+**Art. 6º** Fica alterado o caput do art. 20 da Lei nº 15.783, de 11 de julho de 2019, que passa a vigorar com a seguinte redação:
 
 “ Art. 20. O parcelamento de débito poderá ser rescindido, de pleno direito, independentemente de notificação prévia ao devedor, nas seguintes hipóteses:
 

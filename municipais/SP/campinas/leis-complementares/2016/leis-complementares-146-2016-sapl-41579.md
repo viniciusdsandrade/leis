@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITO MUNIC
 fonte: "https://sapl.campinas.sp.leg.br/norma/41579"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2016/41579/41579_texto_integral.pdf"
 sha256_fonte: "afaa69df7657114801a37a239aacc3e9d2b8d76e8252f37b3ce5cf91fa011a05"
-sha256_texto: "92c03a8bcff26ec1cec064dc8a56515bc6457bcfb3a6e031600edfa58d3337b0"
+sha256_texto: "4479a4223a7ee13484b3521b47d3d055414280bafa18f3085f8f34317d13a10e"
 baixado_em: "2026-10-21"
 ---
 
@@ -37,9 +37,7 @@ III - não fazer parte do quadro permanente da Guarda Municipal de Campinas;
 
 IV - ser bacharel em Direito.
 
-**Art. 4º** - Fica alterado o art. 1º da Lei Complementar nº 64, de 16 de abril de
-
-"Art. 1º ..................... ...................................
+**Art. 4º** - Fica alterado o art. 1º da Lei Complementar nº 64, de 16 de abril de 2014, que passa a vigorar com a seguinte redação: "Art. 1º ..................... ...................................
 
 XVIII - Pregoeiro: processar e julgar as licitações nas modalidades Pregão Presencial e Eletrônico;
 
@@ -47,7 +45,7 @@ XIX - Presidente de Comissão de Licitação: processar e julgar as licitações
 
 XX - Corregedor Adjunto da Guarda Municipal: exercer as atividades que lhe forem atribuídas pelo Corregedor da Guarda Municipal de Campinas; distribuir os serviços da Corregedoria da Guarda Municipal de Campinas; coordenar as atividades dos servidores da Corregedoria da Guarda Municipal de Campinas; substituir o Corregedor da Guarda Municipal de Campinas em suas ausências ou impedimentos legais." (NR)
 
-**Art. 5º** - Fica alterado o ANEXO I - CARGOS EM COMISSÃO, FUNÇÕES DE CONFIANÇA E QUANTIDADES da Lei Complementar nº 64, de 16 de abril de
+**Art. 5º** - Fica alterado o ANEXO I - CARGOS EM COMISSÃO, FUNÇÕES DE CONFIANÇA E QUANTIDADES da Lei Complementar nº 64, de 16 de abril de 2014, que passa a vigorar com a seguinte redação:
 
 **Art. 6º** - Fica alterado o ANEXO II - REMUNERAÇÃO DOS CARGOS EM COMISSÃO da Lei Complementar nº 64, de 16 de abril de 2014, que passa a vigorar com a seguinte redação:
 

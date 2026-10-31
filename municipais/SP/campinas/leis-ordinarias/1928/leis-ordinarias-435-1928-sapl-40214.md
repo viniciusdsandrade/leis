@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/40214"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1928/40214/40214_texto_integral.pdf"
 sha256_fonte: "4fa06a804874855f554d3be60bad3a81538879cc0a29933ac200400fd2694285"
-sha256_texto: "a1ed05836f57317ee952470a53af5920710bd8f52d741564207ec596c976ab1c"
+sha256_texto: "37ad63d0046a85b1b505a4bcdab486e1412d9665cc7a2b29ae80e89c93cbe4de"
 baixado_em: "2026-10-30"
 ---
 
@@ -21,11 +21,7 @@ baixado_em: "2026-10-30"
 
 **Art. 4.º** - Revogam-se as disposições em contrario.
 
-**§ 1º** PREFEITURA: Mando, portanto, a todas as autoridades, a quem o conhecimen- 30:000$000 1 - Subsidio ao Prefeito to e execução da presente lei competir, que a cumpram e façam cumprir 6:000$000 2 - Representação do Executivo tão inteiramente como nella se contem.
-
-3 - Expediente, publicações, etc Campinas, 13 de Outubro de 1928. 58:000#000
-
--- Cazolina, oleo, etc.
+**§ 1º** PREFEITURA: Mando, portanto, a todas as autoridades, a quem o conhecimen- 30:000$000 1 - Subsidio ao Prefeito to e execução da presente lei competir, que a cumpram e façam cumprir 6:000$000 2 - Representação do Executivo tão inteiramente como nella se contem. 12:000$000 3 - Expediente, publicações, etc Campinas, 13 de Outubro de 1928. 58:000#000 10:000$000 -- Cazolina, oleo, etc.
 
 Orosimbo Maia
 
@@ -49,9 +45,7 @@ a) - Na cidade
 
 **§ 10.º** MATADOURO: 21:900$000 5:100$000 Despeza do Legislativo 27:580$000 1 - Pessoal . . •
 
-**Art. 3.°** - Por conta da verba fixada no art.° 40.000$000 2 - Magarefes 1.° fica a Prefeitura autorisada a despender, na cidade, .•
-
-3 - Obras, melhoramentos, etc. com os serviços a seu cargo, a quantia de Rs. .... 165:980$000 18:400$000 4 - Transporte de carne, gazolina, etc. 4.799:050$000, a saber:
+**Art. 3.°** - Por conta da verba fixada no art.° 40.000$000 2 - Magarefes 1.° fica a Prefeitura autorisada a despender, na cidade, .• 80:000$000 3 - Obras, melhoramentos, etc. com os serviços a seu cargo, a quantia de Rs. .... 165:980$000 18:400$000 4 - Transporte de carne, gazolina, etc. 4.799:050$000, a saber:
 
 - 35 - — 34 -
 
@@ -71,9 +65,7 @@ a) - Na cidade
 
 **§ 20°** - ASYLO DOS MORPHE • 2 — Alimentação dos animaes, etc. 2:480.$000 8:300$000 TICOS :
 
-**§ 13.º** — LIMPESA PUBLICA :
-
-1 - Pessoal 2 - Alimentação, vestuario, medicamen- 1 - Pessoal 45:000$000 19:200$000 •• • tos, etc • •
+**§ 13.º** — LIMPESA PUBLICA : 12:000$000 1 - Pessoal 2 - Alimentação, vestuario, medicamen- 1 - Pessoal 45:000$000 19:200$000 •• • tos, etc • •
 
 - Operarios 127:000$000 70:000$000 150:000$000 3 - Obras novas 3 - Materiaes, ferragens, etc. 97:400$000 266:600$000
 
@@ -85,11 +77,7 @@ a) - Na cidade
 
 **§ 16.º** - ARRECADAÇÃO DA 2 - Medicamentos e instrumentos de ci- 9:600$000 DIVIDA ACTIVA : rurgia • 57:600$000 6:000$000 3 - Gazolina, oleo, etc.. 1 - Pessoal 22:200$000 2 - Porcentagens
 
-§ 23.0—AUXILIOS E SUBVENÇÕES: 25:500$000 3 - Custas 5:000$000 52:700$000 . • .•
-
-1 — Asylo de Invalidos . $ 17º — PREMIO AOS CRIADO. 5:0008000 - Maternidade de Campinas 6:000$000 RES DE BICHO DA SEDA : - Hospicio de Dementes - Caixa Beneficente dos Funcionarios 1 - De accordo com a lei n.o 391 . .
-
-20:000$000 Municipaes 4:800$000 - Externato S João LA O IN 0C
+§ 23.0—AUXILIOS E SUBVENÇÕES: 25:500$000 3 - Custas 5:000$000 52:700$000 . • .• 10:000$000 1 — Asylo de Invalidos . $ 17º — PREMIO AOS CRIADO. 5:0008000 - Maternidade de Campinas 6:000$000 RES DE BICHO DA SEDA : - Hospicio de Dementes - Caixa Beneficente dos Funcionarios 1 - De accordo com a lei n.o 391 . . 10:000$000 20:000$000 Municipaes 4:800$000 - Externato S João LA O IN 0C
 
 **§ 18.º** - DIVIDA CONSOLIDADA: 3:000$000 - Sociedade S Vicente de Paulo . 1:5008000 1 - Juros do emprestimo de 1911 Associação S. Vicente de Paulo • 297:930#000 2:000$000 - Sociedade Amiga dos Pobres 2 - Resgate 51:000$000 1:5008000 - Juros emprestimo do Theatro - Orphanato S. Francisco • 27:3008000 500$000 10 — Associação Damas de Caridade. ›• - Resgate do mesmo . . . .
 
@@ -97,13 +85,11 @@ a) - Na cidade
 
 **§ 1º** - ARRAIAL DOSSOUZAS 11 - Associação das Mães Christãs . : 500$000 E. JOAQUIM EGYDIO 12 — Patronato S. Francisco 2:000$000 13 — Assistencia Dentaria Grupo Esco- 3:000$000 Fiscal
 
-lar « Francisco Glycerio> 7:200$000 600$000 2 •- Limpeza 3:8008000 2:400$000 Iluminação 14 — Assistencia Dentaria Gratuita 3:600$000 15 — Centro de Sciencias, Letras e Artes Locação de predio escolar 600$000 1:000$000 5 - Amortisação de serviço de agua 16 — Concertos musicaes no jardim
-
-23:0008000 4:400$000 6 - Obras e eventuaes 17 — Benedicto Octavio (de acordo com § 20 - VALLINHOS : a Res. n1° 877) 2:0008000 18 — Auxilio previsto na Lei no 426 • 3:600,5000 3:000$000 - Fiscal . . • • • 19 — Auxilio á Santa Casa de Santos, de 3:000$000 Limpeza
+lar « Francisco Glycerio> 7:200$000 600$000 2 •- Limpeza 3:8008000 2:400$000 Iluminação 14 — Assistencia Dentaria Gratuita 3:600$000 15 — Centro de Sciencias, Letras e Artes Locação de predio escolar 600$000 1:000$000 5 - Amortisação de serviço de agua 16 — Concertos musicaes no jardim 12:000$000 23:0008000 4:400$000 6 - Obras e eventuaes 17 — Benedicto Octavio (de acordo com § 20 - VALLINHOS : a Res. n1° 877) 2:0008000 18 — Auxilio previsto na Lei no 426 • 3:600,5000 3:000$000 - Fiscal . . • • • 19 — Auxilio á Santa Casa de Santos, de 3:000$000 Limpeza
 
 3:000$000 Iluminação acordo com a Res. n.° 871). • . 10:000$000
 
-21:750$000 12:750$000 -- Obras 20 — Premios de accordo com a Res. no e eventuaes
+21:750$000 12:750$000 -- Obras 20 — Premios de accordo com a Res. no e eventuaes 10:000$000
 
 **§ 3°** - COSMOPOLIS:
 
@@ -117,9 +103,7 @@ $ 24.° - OBRAS PUBLICAS : 22:250$000 10:750$000 5 - Obras e eventuaes 1 - Conse
 
 **§ 4°** - REBOUÇAS : 2 - Idem de estradas. 88:700$000 3:000$000 Fiscal 3 → • proprios e obras novas . 151:800$000
 
-•. • 3:000$000 - Limpeza 4 - Pontes e boeiros das estradas 60:000$000 3:400$000 luminação 5 - Calçamento de ruas 450:0008000 12:100$000 2:7008000 4 - Obras e eventuaes 6 - Construcção de hotel (lei n.º 405) 100:000000 79:100$000 Despezas das sub-Prefeituras 7 - Theatro (Res. n° 861) •. 250:0008000 8 - Porteira Capivara (lei n° 416) 50:000$000 4.799:050$00 Idem da cidade 9 — Compra de terrenos da Santa Ca- 4.878:150g000 Total da Despesa sa (lei n.º 431)
-
-10 — Gazolina, oleos, concertos, etc. . 20:000$000 1.330:5008000 CAPITULO II
+•. • 3:000$000 - Limpeza 4 - Pontes e boeiros das estradas 60:000$000 3:400$000 luminação 5 - Calçamento de ruas 450:0008000 12:100$000 2:7008000 4 - Obras e eventuaes 6 - Construcção de hotel (lei n.º 405) 100:000000 79:100$000 Despezas das sub-Prefeituras 7 - Theatro (Res. n° 861) •. 250:0008000 8 - Porteira Capivara (lei n° 416) 50:000$000 4.799:050$00 Idem da cidade 9 — Compra de terrenos da Santa Ca- 4.878:150g000 Total da Despesa sa (lei n.º 431) 80:000$000 10 — Gazolina, oleos, concertos, etc. . 20:000$000 1.330:5008000 CAPITULO II
 
 **§ 25.º** - EVENTUAES: Da Receita 1 - Despesas imprevistas 18:374$000 .....
 
@@ -143,7 +127,7 @@ Vehiculos. 205:000$000 24:200$000 4:500$000 — Imposto Sanitario
 
 Rural . Receita das Sub-Prefeituras . - 116:000$000 4 720:250$000
 
-(Arrecadavel) Divida Activa da cidade Idem
+(Arrecadavel) Divida Activa da cidade Idem 80:000$000
 
 Emolumentos. - 4.878:1508000 -70:0008000 Total da receita Cemiterio
 

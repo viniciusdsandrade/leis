@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/9164"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2006/9164/9164_texto_integral.pdf"
 sha256_fonte: "a8bd7341c763d0f51bf7528cebcce478023e0f1a62b27109499051a48804add0"
-sha256_texto: "7772b559b53e59d60c7bd7833b1f6e0f5d4c71b1eb38bc3ded1a429c9c2e1d3f"
+sha256_texto: "a7e58e8f76d49fcfc7d621278a26b4b6c3dd86f6297d2d85bb5a1b71d3a8716d"
 baixado_em: "2026-10-22"
 ---
 
@@ -23,9 +23,7 @@ LEI Nº. 12.600 DE 18 DE JULHO DE 2006 ALTERA E ACRESCE DISPOSITIVOS À LEI Nº.
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Art. 1º** - Fica alterada a redação dos incisos I e II, acrescidos os incisos III a X e o parágrafo único ao artigo 1º da Lei nº 5.410, de 04 de abril de 1984, que passa a vigorar com a
-
-“Art. 1º - .......................................................................................................
+**Art. 1º** - Fica alterada a redação dos incisos I e II, acrescidos os incisos III a X e o parágrafo único ao artigo 1º da Lei nº 5.410, de 04 de abril de 1984, que passa a vigorar com a seguinte redação: “Art. 1º - .......................................................................................................
 
 I - Parque, localizado no quarteirão 6483, do Cadastro Municipal, no loteamento Jardim Paranapanema, de propriedade da Municipalidade, com área de 51.500,00m2 e as seguintes medidas e confrontações: 131,00m, onde confronta com a Praça 3, do quarteirão 6483, do Cadastro Municipal, no loteamento Jardim Baroneza; 99,00m mais 50,89m em curva, mais 49,11m em curva, mais 30,83m em curva, mais 31,17m em curva, mais 62,00m, mais 84,00m em curva, mais 67,00m, mais 25,60m em curva, mais 13,04m, mais 10,36m em curva, mais 82,00m em curva, onde confrontam com a Rua Serra dos Cristais (antiga Rua 10); 127,50 m em curva, mais 315,00m, mais 38,20m em curva, mais 3,30m, mais 81,50m, mais 52,01m, mais 44,31m, onde confrontam com a Rua Serra do Ibicaba (antiga Rua 10), sendo todos os confrontantes do loteamento Jardim Paranapanema: (NR)
 
@@ -49,13 +47,13 @@ X – Praça Triangular, localizada no loteamento Jardim Paranapanema, de propri
 
 **Parágrafo único** – As áreas descritas nos incisos I a X deste artigo serão anexadas, formando um todo com 65.250,00m² que será objeto do plano de regularização do Núcleo Residencial Paranapanema. (AC) “
 
-**Art. 2º** - O §1º do art. 2º da Lei nº 5.410, de 04 de abril de 1984, passa a vigorar com a
-
-“Art. 2º .......................................................................................................
+**Art. 2º** - O §1º do art. 2º da Lei nº 5.410, de 04 de abril de 1984, passa a vigorar com a seguinte redação: “Art. 2º .......................................................................................................
 
 **§ 1º** - Na hipótese de os concessionários ou sucessores descumprirem as cláusulas constantes do Termo Administrativo as áreas dos terrenos respectivos reverterão ao patrimônio municipal, sem qualquer ônus para a Prefeitura. (NR)
 
-**Art. 3º** - O caput do art. 3º da Lei 5.410, de 04 de abril de 1984, passa a vigorar com a “Art. 3º - A concessão de direito real de uso será formalizada e outorgada pela Prefeitura Municipal, por meio de Termo Administrativo, a ser registrado posteriormente em livro próprio do competente Cartório de Registro de Imóveis. (NR)
+**Art. 3º** - O caput do art. 3º da Lei 5.410, de 04 de abril de 1984, passa a vigorar com a seguinte redação:
+
+“Art. 3º - A concessão de direito real de uso será formalizada e outorgada pela Prefeitura Municipal, por meio de Termo Administrativo, a ser registrado posteriormente em livro próprio do competente Cartório de Registro de Imóveis. (NR)
 
 **Art. 4º** - Esta lei entra em vigor na data da sua publicação.
 

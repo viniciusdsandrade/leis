@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/8493"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2005/8493/8493_texto_integral.pdf"
 sha256_fonte: "b9ce907d407733593e9d2267573d63e278a804ae36439c5b647f971b401cb76a"
-sha256_texto: "a288924d484f87413e5ff31e223b70a19e95c7f82cc56a59d495c0a4bfb97fb0"
+sha256_texto: "b8d36ea0c8ccf9d1dc0b89d43613248eea6c67dc32a803d543373051c7ee0d3e"
 baixado_em: "2026-10-22"
 ---
 
@@ -27,9 +27,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Art. 2º** ­ Compete ao Conselho Municipal de Cultura: I ­ regulamentar, acompanhar e orientar a política municipal de cultura; II ­ apreciar e aprovar os projetos culturais financiados pelo Fundo de Investimentos Culturais ­ FICC, respeitadas as disposições legais e regulamentares, as diretrizes da política cultural e o planejamento das aplicações financeiras do Fundo; III ­ receber e apreciar os pareceres técnicos e informações apresentadas pela Coordenadoria dos Fundos de Investimentos Culturais e Esportivos e pelos pareceristas; IV ­ acompanhar e fiscalizar a execução dos projetos aprovados pelo FICC, promovendo as medidas saneadoras que estiverem ao seu alcance;
 
-V – deliberar sobre a contratação de consultores e pareceristas, quando submetidos à sua apreciação. VI ­ receber e debater as sugestões da Secretaria Municipal de Cultura, Esportes e Lazer e do Fórum Permanente de Cultura de
-
-VII ­ contribuir na elaboração do Plano Municipal de Cultura, fiscalizando e orientando a sua execução;
+V – deliberar sobre a contratação de consultores e pareceristas, quando submetidos à sua apreciação. VI ­ receber e debater as sugestões da Secretaria Municipal de Cultura, Esportes e Lazer e do Fórum Permanente de Cultura de Campinas; VII ­ contribuir na elaboração do Plano Municipal de Cultura, fiscalizando e orientando a sua execução;
 
 VIII – assistir e apoiar a todas as manifestações culturais, assegurando­lhes inteira liberdade; IX ­ fomentar a criação de Entidades locais de Cultura; X ­ propor medidas que possibilitem a livre circulação de bens e serviços culturais; XI ­ propor e incentivar projetos culturais; XII ­ articular­se com órgãos federais, estaduais e municipais, voltados às atividades culturais, de modo a assegurar o conhecimento da realidade do Município e um desenvolvimento equilibrado dos programas culturais existentes;
 
@@ -37,7 +35,7 @@ XIII – instituir e regulamentar a outorga de títulos honoríficos; XIV ­ man
 
 **Art. 3º** ­ O Conselho Municipal de Cultura será integrado por 15 (quinze) membros, sendo 06 (seis) representantes da administração municipal e 09 (nove) representantes da sociedade artístico e cultural campineira, com a seguinte composição: I ­ Secretário Municipal de Cultura, Esportes e Lazer; II ­ Diretor de Cultura; III ­ 01 (um) representante da Secretaria Municipal de Educação; IV ­ 01 (um) representante da Secretaria Municipal de Finanças;
 
-V ­ 01 (um) representante da Secretaria Municipal de Comércio, Indústria, Serviços e Turismo; VI ­ 01 (um) representante da Coordenadoria Municipal de Comunicação; VII ­ 09 (nove) representantes da Sociedade Artístico e Cultural de Campinas, indicados pelo Fórum Permanente de Cultura de
+V ­ 01 (um) representante da Secretaria Municipal de Comércio, Indústria, Serviços e Turismo; VI ­ 01 (um) representante da Coordenadoria Municipal de Comunicação; VII ­ 09 (nove) representantes da Sociedade Artístico e Cultural de Campinas, indicados pelo Fórum Permanente de Cultura de Campinas;
 
 **Parágrafo único.** A representação dar­se­á através da nomeação de 01(um) membro titular e 01 (um) suplente;
 

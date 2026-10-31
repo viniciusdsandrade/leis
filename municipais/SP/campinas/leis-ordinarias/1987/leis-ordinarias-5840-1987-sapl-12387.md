@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12387"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1987/12387/12387_texto_integral.pdf"
 sha256_fonte: "b69aae03c94ea3e4aa8c9f1478de80e6f05c1729cac07832837767a7b95d041e"
-sha256_texto: "a8a9ecc4a6a585c825aab6652421dc6478d251db578eb3512e4e436413c52321"
+sha256_texto: "9860e6ab4368ff073dbe44e75ed728da30b702a7a798b31388f1d04d76fe95f0"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,7 +29,7 @@ I – Remanescente do lote 6 do quarteirão 87 do Cadastro Municipal, com 50,06m
 
 **Artigo 2º** ­ A Prefeitura Municipal de Campinas fica autorizada a vender a área descrita no artigo anterior, mediante concorrência limitada aos proprietários lindeiros.
 
-**Artigo 3º** ­ Para a aquisição da área descrita no artigo 1º, deverá prevalecer como preço mínimo o constante do protocolado n° 24.608, de 05 de agosto de 1.985, em nome da B.H.M. Empreendimentos e Construções S.A., que será reavaliado antes da publicação do edital de concorrência, a fim de ser adequados às eventuais
+**Artigo 3º** ­ Para a aquisição da área descrita no artigo 1º, deverá prevalecer como preço mínimo o constante do protocolado n° 24.608, de 05 de agosto de 1.985, em nome da B.H.M. Empreendimentos e Construções S.A., que será reavaliado antes da publicação do edital de concorrência, a fim de ser adequados às eventuais alterações de valor do mercado imobiliário.
 
 **Artigo 4º** ­ O pagamento do preço referido no artigo anterior poderá ser feito à vista ou a prazo.
 
@@ -43,7 +43,7 @@ I – Remanescente do lote 6 do quarteirão 87 do Cadastro Municipal, com 50,06m
 
 **§ 3°** ­ A aplicação de juros prevista neste artigo será convencionada mediante cláusula inserida na escritura.
 
-**Artigo 7º** ­ Na hipótese de a escritura não ser outorgada por culpa do interessado, nos prazos previstos nos artigos 5º e 6º, o Executivo poderá revogar a concorrência ou determinar a reavaliação dos imóveis, para adequação de seu preço às eventuais
+**Artigo 7º** ­ Na hipótese de a escritura não ser outorgada por culpa do interessado, nos prazos previstos nos artigos 5º e 6º, o Executivo poderá revogar a concorrência ou determinar a reavaliação dos imóveis, para adequação de seu preço às eventuais alterações de valor do mercado imobiliário.
 
 **Artigo 8º** ­ O produto da venda da área de terreno de que trata esta lei será revertido ao Fundo Especial para pagamento de indenização a expropriados, criado pela Lei nº 4.851, de 15 de dezembro de 1.978, regulamentada pelo Decreto nº 5.634, de 22 de fevereiro de 1.979.
 

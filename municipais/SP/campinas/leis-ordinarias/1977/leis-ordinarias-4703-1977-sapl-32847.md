@@ -11,13 +11,15 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/32847"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1977/32847/32847_texto_integral.pdf"
 sha256_fonte: "fb392f19bd1c9f0ed50c7f60d9c85d20adc15ce91ca8182b3ec37ad8b518756d"
-sha256_texto: "a365452c12b25660f2936d41c57b7e5860c3996a707eb9bbc8e03d5209bd6df2"
+sha256_texto: "2070ba6ea7e615def43342aa40c949d30365caf39a819f307261e52a25bc6d78"
 baixado_em: "2026-10-30"
 ---
 
 # Lei nº 4.703, de 15 de março de 1977
 
 LEI Nº 4.703, DE 15 DE MARÇO DE 1977.
+
+DESINCORPORA DA CLASSE DE BENS PÚBLICOS DE USO COMUM DO POVO E TRANSFERE PARA A DE BENS PATRIMONIAIS, ÁREA PERTENCENTE À MUNICIPALIDADE, E AUTORIZA A DAÇÃO DA MESMA À VIAÇÃO BONAVITA S/A – TRANSPORTES E TURISMO, EM PAGAMENTO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO.
 
 Eu, Prefeito do Município de Campinas, sanciono e promulgo a lei que segue, considerada aprovada pela Câmara Municipal, nos termos do artigo 26 §§ 1º e 3º do Decreto Lei Complementar Estadual nº 9 de 31 de dezembro de 1969:
 
@@ -39,9 +41,13 @@ PAÇO MUNICIPAL DE CAMPINAS, aos 15 de março de 1977. DR. FRANCISCO AMARAL Pref
 
 Publicada no Departamento de Expediente do Gabinete do Prefeito, na data supra.
 
+DR. GERALDO CESAR BASSOLI CEZARE Chefe de Gabinete do Prefeito
+
 RETIFICAÇÕES
 
 LEI Nº 4.703, DE 15 DE MARÇO DE 1977
+
+DESINCORPORA DA CLASSE DE BENS PÚBLICOS DE USO COMUM DO POVO E TRANSFERE PARA A DE BENS PATRIMONIAIS, ÁREA PERTENCENTE À MUNICIPALIDADE, E AUTORIZA A DAÇÃO DA MESMA À VIAÇÃO BONAVITA S/A – TRANSPORTES E TURISMO, EM PAGAMENTO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO.
 
 No artigo 2º, onde se lê: protocolado nº 22.775 de 31 de agosto de 1976,
 

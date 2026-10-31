@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/5116"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2004/5116/5116_texto_integral.pdf"
 sha256_fonte: "8e143a3bbebc30f2a77a8b3bcad01cae70968983db9f6f5dac34c54cd7786d6e"
-sha256_texto: "49e59f89c8ac8177db230040c91925c5f8b9c20c37ae07aaeffe2139618e9aa6"
+sha256_texto: "212145a9803dbf79edbcd1703a2135c482247518c7e6c3f05d2f8f776adc15c1"
 baixado_em: "2026-10-22"
 ---
 
@@ -23,7 +23,7 @@ LEI Nº. 12.031 DE 16 DE JULHO DE 2004 DISPÕE SOBRE A CRIAÇÃO DO CONSELHO MUN
 
 A Câmara Municipal aprovou e eu, Prefeita do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Art. 1º** - Fica criado o Conselho Municipal de “Hip Hop” de Campinas órgão colegiado de caráter consultivo, de apoio, memória e difusão, além de facilitador e colaborador do movimento cultural
+**Art. 1º** - Fica criado o Conselho Municipal de “Hip Hop” de Campinas órgão colegiado de caráter consultivo, de apoio, memória e difusão, além de facilitador e colaborador do movimento cultural “Hip Hop”.
 
 **§ 1º** - Sua estrutura funcional será composta de um Coordenador Geral, eleito dentre os Secretários Executivos do Conselho Municipal de “Hip Hop”.
 
@@ -34,6 +34,8 @@ I – B.girl e B.boy, que atue em grupo ou não;
 II – grafite, que atue em grupo (crew) ou não;
 
 III – MC, que atue em grupo ou não:
+
+IV – DJ, que atue em grupo ou não.
 
 **§ 3º** - O Coordenador Geral e os Secretários Executivos serão eleitos por votação secreta, por maioria absoluta dos membros do Conselho na primeira reunião após a posse.
 
@@ -61,6 +63,8 @@ IX - elaboração de seu Regimento Interno, cuja alteração poderá ser promovi
 
 **Art. 3º** - O Conselho Municipal de “Hip Hop” terá a seguinte composição:
 
+I - 01 (um) representante da Secretaria Municipal de Cultura, Esportes e Turismo;
+
 II - 01 (um) representante da Secretaria Municipal de Educação;
 
 III - 01 (um) representante da Secretaria Municipal de Assistência Social;
@@ -69,7 +73,7 @@ IV - 01 (um) representante da Secretaria Municipal de Saúde;
 
 V - 02 (dois) representantes do Gabinete do(a) Prefeito(a);
 
-VI - 21 (vinte e um) representantes do movimento hip hop eleitos na Conferência Municipal de
+VI - 21 (vinte e um) representantes do movimento hip hop eleitos na Conferência Municipal de “Hip Hop”.
 
 **§ 1º** - Serão membros titulares os eleitos na Conferência, podendo ser substituídos, no caso de impedimentos e sucedidos, no caso de vaga, pelos suplentes, em número de 07 (sete), observando-se as disposições contidas no parágrafo 2º do artigo 9º desta lei.
 
@@ -105,6 +109,8 @@ VI - 21 (vinte e um) representantes do movimento hip hop eleitos na Conferência
 
 **Art. 11** - Será responsável pelo processo eleitoral, desde a inscrição das chapas até a declaração da chapa eleita, a Comissão Eleitoral, composta por:
 
+I - 01 (um) representante da Secretaria Municipal de Cultura, Esportes e Turismo;
+
 II - 02 (dois) representantes do Gabinete do(a) Prefeito(a).
 
 **Art. 12** - Terão direito à voz e ao voto, como delegados, integrantes do movimento cultural “Hip Hop” de Campinas, aqueles que comprovadamente atuem como:
@@ -114,6 +120,8 @@ I – B.girl e B.boy, em grupo ou não;
 II – grafiteiros(as), em grupo (crew) ou não;
 
 III – MC, que atue em grupo ou não;
+
+IV – DJ, que atue em grupo ou não.
 
 **Art. 13** - Terão direito à voz, como observadores, os militantes que, comprovadamente, desenvolvam trabalho relacionado ao movimento “Hip Hop” em:
 

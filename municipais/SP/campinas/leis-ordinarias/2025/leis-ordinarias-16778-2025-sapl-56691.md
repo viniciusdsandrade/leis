@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/56691"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2025/56691/lei_no_16.778-2025.pdf"
 sha256_fonte: "56c250e76035c72b7135cfe8ec4b5e2cfabbca2964b661c5cf3ec04b5ae9be3f"
-sha256_texto: "25da2fc68d8eb8a1a31691d35722e8c8bb8a7b0afcda1dc83e38159eb1466d6f"
+sha256_texto: "bac1dba3cca18f9b4db0ab7fcd98ef05a3cf34a82d39b2f1bc8ae2783096d111"
 baixado_em: "2026-10-22"
 ---
 
@@ -23,7 +23,7 @@ Altera a Lei nº 8.552, de 30 de outubro de 1995, que "dispõe sobre doação de
 
 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
 
-**Art. 1º** Fica alterado o art. 1º da Lei nº 8.552, de 30 de outubro de 1995, que passa a vigorar com a
+**Art. 1º** Fica alterado o art. 1º da Lei nº 8.552, de 30 de outubro de 1995, que passa a vigorar com a seguinte redação:
 
 "Art. 1º O Poder Executivo e o Poder Legislativo ficam autorizados a fazer doações de materiais inservíveis, tais como móveis, máquinas, arquivos e utensílios, às Sociedades Amigos de Bairros, Associações de Moradores, Cooperativas de Reciclagem, Gestão e Tratamento de Resíduos e outras entidades representativas da população legalmente constituídas, para uso exclusivo dessas entidades." (NR)
 
@@ -59,7 +59,7 @@ IV - não manifestar interesse ou não indicar entidade do município de Campina
 
 **§ 2º** Ficam excetuadas da exigência que consta do inciso III do caput deste artigo as cooperativas de reciclagem, gestão e tratamento de resíduos." (NR)
 
-**Art. 4º** Fica alterado o art. 4º da Lei nº 8.552, de 30 de outubro de 1995, que passa a vigorar com a
+**Art. 4º** Fica alterado o art. 4º da Lei nº 8.552, de 30 de outubro de 1995, que passa a vigorar com a seguinte redação:
 
 "Art. 4º A doação permitida por esta Lei deverá obedecer ao disposto na alínea 'a' do inciso II do art. 76 da Lei Federal nº 14.133, de 1º de abril de 2021, além do disposto no art. 121 da Lei Orgânica do Município." (NR)
 

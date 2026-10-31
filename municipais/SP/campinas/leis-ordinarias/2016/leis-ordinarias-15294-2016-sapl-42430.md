@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR ZE CA
 fonte: "https://sapl.campinas.sp.leg.br/norma/42430"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2016/42430/42430_texto_integral.pdf"
 sha256_fonte: "f9444843925b52391f5dc89a2e462ea4073b669dba615437761996a91afcc594"
-sha256_texto: "e2b9266ce708b2c76fa23209628df48f812f64c87d4cbd341e582a2875edb0f4"
+sha256_texto: "353078c2d23d9016cb901559a0ab455de08fe3a48b1caf25afc09ed308fefdc0"
 baixado_em: "2026-10-21"
 ---
 
@@ -31,11 +31,17 @@ I - conta de depósitos à vista:
 
 a) fornecimento de cartão com função débito;
 
+b) fornecimento de segunda via do cartão referido na alínea “a”, exceto nos casos de pedidos de reposição formulados pelo correntista decorrentes de perda, roubo, furto, danificação e outros motivos não imputáveis à instituição emitente;
+
 c) realização de até quatro saques por mês em guichê de caixa, inclusive por meio de cheque ou de cheque avulso, ou em terminal de autoatendimento;
 
 d) realização de até duas transferências de recursos entre contas na própria instituição por mês, em guichê de caixa, em terminal de autoatendimento e/ou pela internet;
 
-últimos trinta dias, por meio de guichê de caixa e/ou de terminal de autoatendimento;
+e) fornecimento de até dois extratos por mês contendo a movimentação dos últimos trinta dias, por meio de guichê de caixa e/ou de terminal de autoatendimento;
+
+f) realização de consultas mediante utilização da internet;
+
+g) fornecimento de extrato (as instituições devem disponibilizar aos clientes, até 28 de fevereiro de cada ano, extrato consolidado discriminando, mês a mês, os valores cobrados no ano anterior);
 
 h) compensação de cheques;
 
@@ -47,11 +53,17 @@ II - conta de depósitos de poupança:
 
 a) fornecimento de cartão com função movimentação;
 
+b) fornecimento de segunda via do cartão referido na alínea “a”, exceto nos casos de pedidos de reposição formulados pelo correntista decorrentes de perda, roubo, furto, danificação e outros motivos não imputáveis à instituição emitente;
+
 c) realização de até dois saques por mês em guichê de caixa ou em terminal de auto-atendimento;
 
 d) realização de até duas transferências por mês para conta de depósitos de mesma titularidade;
 
-últimos trinta dias;
+e) fornecimento de até dois extratos por mês contendo a movimentação dos últimos trinta dias;
+
+f) realização de consultas mediante utilização da internet;
+
+g) fornecimento de extrato (as instituições devem disponibilizar aos clientes, até 28 de fevereiro de cada ano, extrato consolidado discriminando, mês a mês, os valores cobrados no ano anterior);
 
 h) prestação de qualquer serviço por meios eletrônicos;
 

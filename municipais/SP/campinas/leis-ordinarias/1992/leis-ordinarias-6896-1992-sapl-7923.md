@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/7923"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1992/7923/7923_texto_integral.pdf"
 sha256_fonte: "c1658f3315769d3814a63699adaad252eb89c284b9cfeeb0318b920db9cba77f"
-sha256_texto: "89dde257e08d4c41036f4f870450951292a3f6e4296f4574231c401349e4c524"
+sha256_texto: "6670012df2e515b1d20767b30980c11c3df362f4d9c14e8b48d44a563e32a34a"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,11 +29,15 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 2º** ­ O beneficio é contributivo, compreendendo a distribuição de 22 (vinte e dois) cupons refeições por mês a cada servidor, no valor de Cr$ 900,00 (novecentos cruzeiros) a unidade a preço de outubro do corrente ano. (REV. P/
 
+LEI 7524)
+
 **§ 1º** ­ O valor do cupon refeição será corrigido mensalmente pelo mesmo índice que corrigir o salário do servidor.
 
 **§ 2º** ­ Quando da implantação do Plano de Cargos, Empregos e Carreiras, o índice a ser aplicado para a correção do cupon refeição corresponderá à média dos reajustes concedidos aos diversos níveis salariais.
 
 **Artigo 3º** ­ A contribuição de cada servidor é proporcional à sua remuneração e será descontada posteriormente em folha de pagamento, observando­se: (REV. P/
+
+LEI 7524)
 
 REMUNERAÇÃO DO CUSTO P/ SERVIDOR SERVIDOR CUSTO P/ PMC % Cr$ até 154.423,00 10 1.980,00 17.820,00 de 154.424,00 a 193.029,00 15 2.970,00 16.830,00 de 193.030,00 a 514.744,00 20 3.960,00 15.840,00 de 514.745,00 a 900.082,00 25 4.950,00 14.850,00 acima de 900.803,00 30 5.940,00 13.860,00
 

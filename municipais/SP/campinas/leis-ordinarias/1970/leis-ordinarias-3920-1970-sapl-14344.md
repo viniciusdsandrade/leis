@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; PROCESSO 26499 , PLO 12
 fonte: "https://sapl.campinas.sp.leg.br/norma/14344"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1970/14344/14344_texto_integral.pdf"
 sha256_fonte: "5aaae0349aa08b7c8e8ea5ade647214fcd9add86be82a5efbee3ee5242ca7436"
-sha256_texto: "8cf608afe338ed51f482e8f9d48a8d2ebf16ecedba2aab5c2100032ea3555c54"
+sha256_texto: "0bebc9eb0b61a0f2006f285ded36fc0b545297972a3770332070cd57735bebce"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,25 +25,25 @@ A Câmara Municipal decreta e eu, Prefeito do Município de Campinas, promulgo a
 
 **Artigo 1º** - Na forma do artigo 42, da lei nº 4.320, de 17 de março de 1.964, ficam suplementadas no Orçamento analítico da despesa do corrente exercício das dotações orçamentárias abaixo descriminadas:
 
+CORPO LEGISLATIVO 0111 – 3000/00 – DESPESAS CORRENTES 0111 – 3100/00 – DESPESAS DE CUSTEIO 0111 – 3110/00 – PESSOAL CIVIL 0111 – 3111/00 – PESSOAL
+
 a) QUADRO FIXO
 
-III – Gratificações por serviços extraordinários ..................... Cr$ 42.000,00
+III – Gratificações por serviços extraordinários ..................... Cr$ 42.000,00 0111 – 3130/00 – SERVIÇOS DE TERCEIROS
 
-III – Consertos diversos, fretes, carretos, serviços telefônicos e outros prestados por terceiros .................................... Cr$ 10.000,00
-
-0111 – 3230/82 – TRANSFERÊNCIA DE ASSISTÊNCIA E PREVI-
+III – Consertos diversos, fretes, carretos, serviços telefônicos e outros prestados por terceiros .................................... Cr$ 10.000,00 0111 – 3200/82 – TRANSFERÊNCIAS CORRENTES 0111 – 3230/82 – TRANSFERÊNCIA DE ASSISTÊNCIA E PREVI- DÊNCIA SOCIAL
 
 I – Despesas com aposentadorias já concedidas ................. Cr$ 30.000,00 SOMA .................................... Cr$ 82.000,00
 
 **Artigo 2º** - Para atender a despesa constante do artigo 1º , ficam anuladas parcialmente as seguintes dotações:
 
+CORPO LEGISLATIVO 0111 – 3000/00 – DESPESAS CORRENTES 0111 – 3100/00 – DESPESAS DE CUSTEIO 0111 – 3110/00 – PESSOAL CIVIL 0111 – 3111/00 – PESSOAL
+
 a) QUADR FIXO
 
-I – Vencimentos e vantagens ............................................... Cr$ 42.000,00
+I – Vencimentos e vantagens ............................................... Cr$ 42.000,00 0111 – 3130/00 – SERVIÇOS DE TERCEIROS
 
-I – Para atender as despesas com publicação de atos ofici- ais , divulgação de assuntos legislativos e outros .......... Cr$ 10.000,00
-
-0111 – 3230/82 – TRANSFERENCIA DE ASSISTÊNCIA E PREVI-
+I – Para atender as despesas com publicação de atos ofici- ais , divulgação de assuntos legislativos e outros .......... Cr$ 10.000,00 0111 – 3200/82 – TRANSFERÊNCIAS CORRENTES 0111 – 3230/82 – TRANSFERENCIA DE ASSISTÊNCIA E PREVI- DÊNCIA SOCIAL
 
 II – Despesas com aposentadorias a serem concedidas .... Cr$ 30.000,00 SOMA ................................... Cr$ 82.000,00
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; VETO AO ART. 4º PUBLIC
 fonte: "https://sapl.campinas.sp.leg.br/norma/47047"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2019/47047/47047_texto_integral.pdf"
 sha256_fonte: "433a2b0de8132d4858b9b94f91952c4ed57e26f94f288552592a16686d6bbc08"
-sha256_texto: "0129a117233c402bafdc2b8a0bcd95902c8ad03a8aa0fa7ff679ef3c3bdc7e16"
+sha256_texto: "94cee7266a9ee4fdbe8c636fe7e139b2249be9112c74f85ce571bd19df6df033"
 baixado_em: "2026-10-21"
 ---
 
@@ -33,7 +33,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **Art. 4º** VETADO
 
-Prefeito de Municipal em exercício
+HENRIQUE MAGALHÃES TEIXEIRA Prefeito de Municipal em exercício
 
 Autoria: CMC - Ver. Filipe Marchesi Protocolado nº: 19/08/4985
 
@@ -45,7 +45,7 @@ J. PUBLIQUE-SE
 
 Campinas,16 de maio de 2019
 
-Prefeito Municipal em Exercício
+HENRIQUE MAGALHÃES TEIXEIRA Prefeito Municipal em Exercício
 
 MENSAGEM Nº 08/2019-GP
 
@@ -77,7 +77,7 @@ Essas, portanto, as razões que me levam a vetar o art. 4º do projeto de lei n�
 
 Ao ensejo, renovamos a Vossa Excelência e ilustres Vereadores nossos protestos de estima e respeito.
 
-Prefeito Municipal em Exercício
+HENRIQUE MAGALHÃES TEIXEIRA Prefeito Municipal em Exercício
 
 EXMO. SR. VEREADOR MARCOS BERNARDELLI DD. Presidente da Câmara Municipal de Campinas
 

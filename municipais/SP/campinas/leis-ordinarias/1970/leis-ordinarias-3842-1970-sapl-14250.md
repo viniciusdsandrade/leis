@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; PROCESSO  24876 , PLO  
 fonte: "https://sapl.campinas.sp.leg.br/norma/14250"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1970/14250/14250_texto_integral.pdf"
 sha256_fonte: "8318fced2efba9ef0747771ea84481cd77b9dd9509eb10d82011fc9f9d2086e0"
-sha256_texto: "0cde2c317be358757b2101aace146f99ca244e7080a72e59d3d25e92a49f8299"
+sha256_texto: "8a33d0f3af6eb8d057abc5a487d1cac540ea2aad6b25eb929fd967a762ccad94"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,9 +25,7 @@ A Câmara Municipal decreta e eu, Prefeito do Município de Campinas, promulgo a
 
 **Artigo 1º** - As farmácias e drogarias estabelecidas do município de Campinas, funcionarão de segundas às sextas-feiras, normalmente, no período das 8:00 (oito) às 20:00 (vinte) horas e aos sábados, das 8:00 (oito) às 13:00 (treze) horas.
 
-**Artigo 2º** - Os estabelecimentos compreendidos no artigo anterior, poderão funcionar no período noturno uma vez obedecida os horários normais, das 20:00(vinte) horas às 8:00 (oito) horas do dia seguinte, mesmo não estando de
-
-§ Único - Nos sábados, domingos e feriados estes estabelecimentos obedecerão ao horário das 18:00 (dezoito) às 8:00 (oito) horas do dia seguinte.
+**Artigo 2º** - Os estabelecimentos compreendidos no artigo anterior, poderão funcionar no período noturno uma vez obedecida os horários normais, das 20:00(vinte) horas às 8:00 (oito) horas do dia seguinte, mesmo não estando de plantão. § Único - Nos sábados, domingos e feriados estes estabelecimentos obedecerão ao horário das 18:00 (dezoito) às 8:00 (oito) horas do dia seguinte.
 
 **Artigo 3º** - Fica instituído para esses estabelecimentos e período de plantão que vigorará das 8:00 (oito) horas até às 22:00(vinte e duas) horas nos domingos e feriados e das 13:00(treze) horas às 22 (vinte e duas) horas nos sábados.
 
@@ -37,7 +35,7 @@ A Câmara Municipal decreta e eu, Prefeito do Município de Campinas, promulgo a
 
 **§ 3º** - Os plantões determinados por este artigo serão obrigatórios, e a respectiva escala deverá ser afixada no saguão da Prefeitura, bem como publicada no órgão oficial do Município.
 
-**§ 4º** - As farmácias e drogarias fixarão em lugar bem visível à frente do estabelecimento, o nome, endereço, bairro e telefone dos que estiverem de
+**§ 4º** - As farmácias e drogarias fixarão em lugar bem visível à frente do estabelecimento, o nome, endereço, bairro e telefone dos que estiverem de plantão.
 
 **Artigo 4º** - As farmácias e drogarias enquadradas nos artigos 1º e 2º poderão funcionar fora dos horários estabelecidos nesta lei, uma vez – autorizadas, pelo Executivo, e o devido recolhimento do respectivo tributo referente a licença especial.
 

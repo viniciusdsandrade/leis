@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/3504"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1999/3504/3504_texto_integral.pdf"
 sha256_fonte: "913daae52dd8941986116163faaf5e564f397ed318fb891390406d55db0d9b8b"
-sha256_texto: "1873eaac1af68b9c682d2458ae3b7b06ae466ecca0d9e14c435389b1389b2f03"
+sha256_texto: "a6e425dcc1abf7e5b3432639813e27a49b96eb9f0b80336e49ba9d37c3e5cf60"
 baixado_em: "2026-10-30"
 ---
 
@@ -23,7 +23,7 @@ ALTERA DISPOSITIVOS DA LEI Nº 7.857, DE 03 DE MAIO DE 1994, QUE AUTORIZA A VEND
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte Iei:
 
-**Art. 1º** - O artigo 1º da lei nº 7.857, de 03 de maio de 1994, passa a ter a seguinte
+**Art. 1º** - O artigo 1º da lei nº 7.857, de 03 de maio de 1994, passa a ter a seguinte redação:
 
 "Artigo 1º - Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais as faixas de terreno de propriedade da Prefeitura Municipal de Campinas abaixo descritas:
 
@@ -33,7 +33,7 @@ II - parte da passagem de pedestres, localizada na quadra A, quarteirão 2.568 d
 
 III - parte da passagem de pedestres, localizada na quadra M, quarteirão 2.568 do Cadastro Municipal, do loteamento Jardim Flamboyant, de propriedade da Municipalidade, com 24,00m² de área e as seguintes medidas: 3,00m onde confronta com o remanescente da passagem (Jardim Alto da Barra): 8,00m onde confronta com o lote 13 da quadra A do Jardim Alto da Barra: 3,00m onde confronta com o remanescente da passagem: 8,00m onde confronta com o lote 12 da quadra A do Jardim Alto da Barra"
 
-**Art. 2º** - O artigo 6º da Lei nº 7.857, de 03 de maio de 1994, passa a ter a seguinte
+**Art. 2º** - O artigo 6º da Lei nº 7.857, de 03 de maio de 1994, passa a ter a seguinte redação:
 
 "Artigo 6º - Será instituída servidão de viela sanitária em favor da Sociedade de Abastecimento de Água e Saneamento S/A - SANASA – Campinas, nos seguintes trechos:
 

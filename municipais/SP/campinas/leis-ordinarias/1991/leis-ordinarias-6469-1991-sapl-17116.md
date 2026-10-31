@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/17116"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1991/17116/17116_texto_integral.pdf"
 sha256_fonte: "60d93634c1589a48ff51ed108a5c658dcb2a36fe9a8ca69b583a3e6c74b2dd12"
-sha256_texto: "dafa61513d3dba35e0e122bae495a037de008b0fb0e8d94dbb931ec09956a637"
+sha256_texto: "bf043623117c704e9f0437c493e2a9b0d95b22352a13593578ecae6ae6a299cd"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,15 +29,15 @@ I - Parte da Passagem para pedestres, localizada na quadra 20, quarteirão 6886 
 
 II - Parte da Passagem para pedestres, localizada na quadra 20, quarteirão 6886 do Cadastro Municipal, loteamento Jardim Santa Genebra, de propriedade da Municipalidade, com 54,00m2 de área e as seguintes medidas: 2,00 de frente pela Rua Fiorindo Gasotti; 27,00 na lateral direita onde confronta com o remanescente da passagem; 27,00 na lateral esquerda onde confronta com o lote 11, da mesma quadra; 2,00m aos fundos, onde confronta com o remanescente da passagem.
 
-III - Parte da Passagem para pedestres, localizada na quadra 20, quarteirão 6886 do Cadastro Municipal,
+III - Parte da Passagem para pedestres, localizada na quadra 20, quarteirão 6886 do Cadastro Municipal, loteamento Jardim Santa Genebra, de propriedade da Municipalidade, com 60,00m2 de área e as
 
 remanescente da passagem, 30,00 m na lateral esquerda onde confronta com o lote 34 da mesma quadra.
 
-Parte da Passagem para pedestres, localizada na quadra 20, quarteirão 6886 do Cadastro Municipal,
+Parte da Passagem para pedestres, localizada na quadra 20, quarteirão 6886 do Cadastro Municipal, loteamento Jardim Santa Genebra, de propriedade da Municipalidade, com 60,00m2 de área e as
 
 remanescente da passagem, 30,00m na lateral esquerda onde confronta com o lote 34 da mesma quadra.
 
-IV - Parte da Passagem para pedestres, localizada na quadra 20, quarteirão 6886 do Cadastro Municipal,
+IV - Parte da Passagem para pedestres, localizada na quadra 20, quarteirão 6886 do Cadastro Municipal, loteamento Jardim Santa Genebra, de propriedade da Municipalidade, com 60,00m2 de área e as
 
 onde confronta com o lote 33, da mesma quadra; 2,00m aos fundos, onde confronta com o remanescente da passagem, 30,00 m na lateral esquerda onde confronta com o remanescente da passagem.
 

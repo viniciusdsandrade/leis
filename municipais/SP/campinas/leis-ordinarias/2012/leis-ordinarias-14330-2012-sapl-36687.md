@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/36687"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2012/36687/36687_texto_integral.pdf"
 sha256_fonte: "0042452e61438f147fa0399088337ceb8b993815e3e1d7a1562310b56967df84"
-sha256_texto: "8547a3c90999d12b22ee39728e5f2747b106e27a13dd7cc61ee9235a0e1e59e7"
+sha256_texto: "1d087b289c427945122807fa521d5f31624a59e4627c5ee63d613e2fd7a459fd"
 baixado_em: "2026-10-21"
 ---
 
@@ -25,13 +25,15 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Art. 1º** Ficam alterados o caput , e os incisos IV e XV da Lei nº 12.465, de 09 de janeiro de 2006, que passa a vigorar com a seguinte redação: “Art. 1º - Ficam denominadas no arruamento e loteamento RESIDENCIAL PARQUE DAS ARAUCÁRIAS, no Distrito de Sousas, as seguintes vias públicas: ......................................................................................
 
-......................................................................................
+IV - Rua da Asa Branca, a Rua 04, com início na Rua do Ararajuba e término na Rua do Cardeal; ......................................................................................
 
 XV - Rua da Acurana, a Rua 15, com início na Rua do Acrobata e término na Rua do Ararajuba”. (NR)
 
 **Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **Art. 3º** Ficam revogadas as disposições em contrário.
+
+Campinas, 17 de julho de 2012 PEDRO SERAFIM Prefeito Municipal
 
 AUTORIA: - EXECUTIVO MUNICIPAL PROTOCOLADO Nº: 05/08/3758
 
@@ -45,13 +47,15 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 .................................................................................
 
-.................................................................................
+IV - Rua da Asa Branca, a Rua 04, com início na Rua do Ararajuba e término na Rua do Cardeal; .................................................................................
 
 XV - Rua do Acurana, a Rua 15, com início na Rua do Acrobata e término na Rua do Ararajuba. (NR)
 
 **Art. 2º** Esta Lei entra em vigor na data de sua publicação.
 
 **Art. 3º** Ficam revogadas as disposições em contrário.
+
+Campinas, 17 de julho de 2012 PEDRO SERAFIM Prefeito Municipal
 
 AUTORIA: EXECUTIVO MUNICIPAL PROTOCOLADO N.º 05/08/03758
 

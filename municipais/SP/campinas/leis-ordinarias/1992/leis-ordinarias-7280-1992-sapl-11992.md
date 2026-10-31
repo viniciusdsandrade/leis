@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/11992"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1992/11992/11992_texto_integral.pdf"
 sha256_fonte: "5e7ad19689123c491e7a351e2090972dd1dc30a0b9300dd23dee7538dbd32a73"
-sha256_texto: "069cf8103582c319ecf07c3849b302ae95d0d5e06f3697a6d712858f5ed1f488"
+sha256_texto: "767d4107be1ab40f587093fcbc68a1ec3908e1fd5880bef065deda62c1ac406a"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,11 +25,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** ­ Ficam denominadas as seguintes vias públicas do Município de Campinas:
 
-I – Rua ALAÍDE MACEDO DA SILVA, a Rua 21 do loteamento Jardim Nova América, que tem início na divisa deste e término na Rua 35 do mesmo
+I – Rua ALAÍDE MACEDO DA SILVA, a Rua 21 do loteamento Jardim Nova América, que tem início na divisa deste e término na Rua 35 do mesmo loteamento;
 
-II – Rua ÁLVARO RAMOS CALVOSO, a Rua 22 do loteamento Jardim Nova
+II – Rua ÁLVARO RAMOS CALVOSO, a Rua 22 do loteamento Jardim Nova América, que tem início na Rua 21 e término na Rua 37, ambas do mesmo loteamento;
 
-III – Rua JOAQUIM MIGUEL DO NASCIMENTO, a Rua 23 do loteamento Jardim Nova América, que tem início na Rua 21 e término na Rua 22, ambas do mesmo
+III – Rua JOAQUIM MIGUEL DO NASCIMENTO, a Rua 23 do loteamento Jardim Nova América, que tem início na Rua 21 e término na Rua 22, ambas do mesmo loteamento;
 
 IV – Rua PEDRO MARASSI, a Rua 24 do loteamento Jardim Nova América, que tem início na Rua 21 e término na Rua 22, ambas do mesmo loteamento;
 
@@ -37,7 +37,7 @@ V – Rua RAQUEL ROSA DA SILVA, a Rua 25 do mesmo loteamento Jardim Nova Améric
 
 VI – Rua ALCÍDIO PIRES FERNANDES, a Rua 26 do loteamento Jardim Nova América, que tem início na Rua 21 do mesmo loteamento e término na Rua na Rua Maria Benedicta Tranferetti;
 
-VII – Rua MARIA FRANCELIANA BRAZ, a Rua 27 do loteamento Jardim Nova
+VII – Rua MARIA FRANCELIANA BRAZ, a Rua 27 do loteamento Jardim Nova América, que tem início na Rua 21 e término na Rua 37, ambas do mesmo loteamento;
 
 VIII – Rua ANAIR CAETANO GONÇALVES, a Rua 28 do loteamento Jardim Nova América e Rua 1 do loteamento Jardim Irmãos Sigrist, que tem início na Rua 21 do loteamento Jardim Nova América e término na divisa do loteamento Jardim Irmãos Sigrist, com gleba de Waldemar Rodrigues ou sucessores;
 

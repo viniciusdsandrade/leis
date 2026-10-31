@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; O magistrado Afonso Far
 fonte: "https://sapl.campinas.sp.leg.br/norma/53442"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53442/lei_complementar_no_422_-_03-07-2023_liminar.pdf"
 sha256_fonte: "5cdc5ad7b68811fa2a1cb2a53395349d6c845980a18d049157727fd9a72645eb"
-sha256_texto: "a80ac0172d56215c51260942168aaa735a66fd50939104733780b17cf25ba5fd"
+sha256_texto: "98143cdebc115b3a75d18b27d0294c3e17e696484391606ae06c9778d47e721f"
 baixado_em: "2026-10-21"
 ---
 
@@ -29,17 +29,13 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **Art. 3º** O valor do auxílio-refeição para os servidores da ativa com jornada de trabalho igual ou superior a vinte horas semanais, a partir de maio de 2023, será reajustado para R$ 1.570,00 (mil quinhentos e setenta reais).
 
-**Art. 4º** O valor do auxílio nutricional concedido aos servidores aposentados e aos
-
-no Quadro Geral de Cargos do Anexo I - A - Quadro Geral da Lei nº 12.985, de 28 de junho de 2007, será reajustado para R$ 260,00 (duzentos e sessenta reais) a partir de maio de 2023.
+**Art. 4º** O valor do auxílio nutricional concedido aos servidores aposentados e aos pensionistas com proventos e pensões não superiores a três vezes o piso dos servidores públicos municipais, correspondente ao menor vencimento-padrão fixado no Quadro Geral de Cargos do Anexo I - A - Quadro Geral da Lei nº 12.985, de 28 de junho de 2007, será reajustado para R$ 260,00 (duzentos e sessenta reais) a partir de maio de 2023.
 
 **Art. 5º** Ficam instituídas: (Eficácia suspensa por liminar referente a ADI nº 2365007- 55.2025.8.26.0000)
 
 I - a 13ª parcela do auxílio-refeição para os servidores da ativa com jornada de trabalho igual ou superior a vinte horas semanais, a ser paga no mês de dezembro; e
 
-II - a 13ª parcela do auxílio nutricional para os servidores aposentados e para os
-
-no Quadro Geral de Cargos do Anexo I - A - Quadro Geral da Lei nº 12.985, de 2007, a ser paga no mês de dezembro.
+II - a 13ª parcela do auxílio nutricional para os servidores aposentados e para os pensionistas com proventos e pensões não superiores a três vezes o piso dos servidores públicos municipais, correspondente ao menor vencimento-padrão fixado no Quadro Geral de Cargos do Anexo I - A - Quadro Geral da Lei nº 12.985, de 2007, a ser paga no mês de dezembro.
 
 **Art. 6º** Fica alterado o art. 14 da Lei nº 12.986, de 28 de junho de 2007, que passa a vigorar com a seguinte redação:
 

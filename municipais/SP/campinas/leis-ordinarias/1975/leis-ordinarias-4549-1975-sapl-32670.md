@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/32670"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1975/32670/32670_texto_integral.pdf"
 sha256_fonte: "979f5bfe796d4692a9c7e08e48db15167f1bc53c3d1c585e4651334878b14654"
-sha256_texto: "13c4ac0425324948ebcfb79dc7300194050133b697fc16b2b0ae512999c42a84"
+sha256_texto: "29f4cbaef5bfe278304fe1abf3d228598037dac576cfe42d3f654cac9ff48c86"
 baixado_em: "2026-10-30"
 ---
 
@@ -33,7 +33,7 @@ RECEITAS DE CAPITAL TOTAL DO TRIÊNIO
 
 TOTAL............................................................................................................576.477.566,00
 
-1976 1977 1978
+1976 1977 1978 CR$ CR$ CR$
 
 85.410.643,00 111.033.836,00 144.343.787,00 43.700.000,00 56.810.000,00 73.853.000,00 7.500.000,00 9.750.000,00 12.675.000,00 7.870.000,00 10.231.000,00 13.300.300,00
 
@@ -41,9 +41,7 @@ TOTAL...........................................................................
 
 **Artigo 3º** – As Despesas de Capital são fixadas em Cr$ 576.477.566,00 (quinhentos e setenta e seis milhões, quatrocentos e setenta e sete mil, quinhentos e sessenta e seis cruzeiros), com a seguinte distribuição:
 
-RECEITAS DE CAPITAL TOTAL DO TRIÊNIO 1976 1977 1978 A – SubCategorias Econômicas:
-
-1 – Investimentos 520.617.566,00 130.480.643,00 169.624.836,00 220.512.087,00 2 – Inversões Financeiras 1.995.000,00 500.000,00 650.000,00 845.000,00 3 – Transferências de Capital 53.865.000,00 13.500.000,00 17.550.000,00 22.815.000,00
+RECEITAS DE CAPITAL TOTAL DO TRIÊNIO 1976 1977 1978 A – SubCategorias Econômicas: CR$ CR$ CR$ 1 – Investimentos 520.617.566,00 130.480.643,00 169.624.836,00 220.512.087,00 2 – Inversões Financeiras 1.995.000,00 500.000,00 650.000,00 845.000,00 3 – Transferências de Capital 53.865.000,00 13.500.000,00 17.550.000,00 22.815.000,00
 
 TOTAL 576.477.566,00 144.480.643,00 187.824.836,00 244.172.087,00
 

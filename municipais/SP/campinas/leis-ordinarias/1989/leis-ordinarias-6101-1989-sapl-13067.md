@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/13067"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1989/13067/13067_texto_integral.pdf"
 sha256_fonte: "d644d2533830a21adacce86821d0464513cf72c2ddf8d9611a5208f63f0c6687"
-sha256_texto: "e5a90f68d825496ebe7ea75373e783535c6cc8d849fce00cae612316452482ea"
+sha256_texto: "916830d3d5e9c03ca7cebb2f93058a02e2e91866ed63db2eb22a3b37d5513803"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,15 +27,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 II – Lote 14, da anexação de áreas da praça 10 e vielas para pedestres, localizados nas quadras C2 e U, quarteirão 7.057 do Cadastro Municipal, loteamento Jardim Chapadão – Continuação 2ª parte, de propriedade da Municipalidade, com 347,00m² e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua Adelaide dos Santos Barreira; 29,00m lateralmente à direita, onde confronta com o lote 1 do mesmo quarteirão; 12,00m aos fundo, onde confronta com o lote 13 do mesmo quarteirão; 28,80m lateralmente à esquerda, onde confronta com o lote 10 do mesmo quarteirão;
 
-III – Lote 26, da anexação de áreas, da praça 8 e viela para pedestres, localizado
-
-Jardim Chapadão, Cont. 2ª parte, de propriedade da Municipalidade com área de 360,00m² e as seguintes medidas: 12,00m de frente pelo alinhamento da Av. Francisco Mais; 30,00m lateralmente à direita onde confronta com viela de pedestres; 12,00m aos fundos onde confronta com o lote 27 do mesmo quarteirão
+III – Lote 26, da anexação de áreas, da praça 8 e viela para pedestres, localizado entre as quadras Q e W, quarteirão 7.055, do Cadastro Municipal, loteamento Jardim Chapadão, Cont. 2ª parte, de propriedade da Municipalidade com área de 360,00m² e as seguintes medidas: 12,00m de frente pelo alinhamento da Av. Francisco Mais; 30,00m lateralmente à direita onde confronta com viela de pedestres; 12,00m aos fundos onde confronta com o lote 27 do mesmo quarteirão
 
 e 30,00m lateralmente à esquerda onde confronta com o lote 25, do mesmo quarteirão;
 
-IV – Lote 27, da anexação de áreas, da praça 8 e viela para pedestres, localizado
-
-Jardim Chapadão, Continuação, 2ª parte, de propriedade da Municipalidade com área de 360,00m² e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua 113; 30,00m lateralmente à direita onde confronta com lote 1 do mesmo quarteirão; 12,00m aos fundos onde confronta com o lote 26 do mesmo quarteirão e 30,00m lateralmente à esquerda onde confronta com a viela para pedestres”.
+IV – Lote 27, da anexação de áreas, da praça 8 e viela para pedestres, localizado entre as quadras Q e W, quarteirão 7.055, do Cadastro Municipal, loteamento Jardim Chapadão, Continuação, 2ª parte, de propriedade da Municipalidade com área de 360,00m² e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua 113; 30,00m lateralmente à direita onde confronta com lote 1 do mesmo quarteirão; 12,00m aos fundos onde confronta com o lote 26 do mesmo quarteirão e 30,00m lateralmente à esquerda onde confronta com a viela para pedestres”.
 
 **Artigo 2º** ­ Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

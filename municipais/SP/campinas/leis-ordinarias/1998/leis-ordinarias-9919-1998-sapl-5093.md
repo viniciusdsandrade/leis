@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR JOSE 
 fonte: "https://sapl.campinas.sp.leg.br/norma/5093"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1998/5093/5093_texto_integral.pdf"
 sha256_fonte: "e15a24f6161380754315e8111be9a9d2618a5a1db62aced9a87086a10c8f1d5b"
-sha256_texto: "faa1f8f726811ce5e63ee2e005ac0a9f0396b5523e5f4fd1fcfbf85e2cbb6c8f"
+sha256_texto: "c76b67f90b7e679c29d81bfbcaf25ef120c6bb7456f364178901283e93b6597e"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,7 +25,7 @@ PROÍBE A COLOCAÇÃO DE LIXO OU QUALQUER TIPO DE RESÍDUO, DE ORIGEM ANIMAL, VE
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Art. 1º** - Fica proibida a colocação de lixo, entulho, qualquer tipo de resíduo de origem animal, vegetal, mineral ou químico, poluente ou não, nas vias, praças e passeios públicos, acostamento de estradas, margens e leito de rios, ribeirões,
+**Art. 1º** - Fica proibida a colocação de lixo, entulho, qualquer tipo de resíduo de origem animal, vegetal, mineral ou químico, poluente ou não, nas vias, praças e passeios públicos, acostamento de estradas, margens e leito de rios, ribeirões, córregos, lagos e lagoas.
 
 **Art. 2º** - Será permitida a colocação de lixo doméstico em locais apropriados, devidamente embalados em sacos plásticos, nos dias programados para serem retirados pelo sistema de coleta de lixo urbano.
 
@@ -37,7 +37,7 @@ I - Autuação pela fiscalização de Regionais, Subprefeitura ou Secretaria de 
 
 Ambiente em 250 (duzentos e cinqüenta) UFlR's.
 
-II - A multa a que se refere o inciso anterior será acrescida de um terço no caso do lixo ser colocado nos acostamentos de estradas, margem e leito de rios, ribeirões,
+II - A multa a que se refere o inciso anterior será acrescida de um terço no caso do lixo ser colocado nos acostamentos de estradas, margem e leito de rios, ribeirões, córregos, lagos e lagoas.
 
 III - Na reincidência, a multa será acrescida de um percentual de 100% (cem por cento) a cada comprovação.
 

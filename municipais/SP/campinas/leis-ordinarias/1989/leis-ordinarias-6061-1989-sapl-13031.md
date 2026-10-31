@@ -11,13 +11,15 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/13031"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1989/13031/13031_texto_integral.pdf"
 sha256_fonte: "a14c925b23fb3fc49d89a4b990d8675aa5a00cf3a8adf10fb5fed613fb775609"
-sha256_texto: "59c906fa0ec2bb218cc9bf714573b11831fcadc074e2d9be7009c49273e57055"
+sha256_texto: "0a97b7312e38c1676fd60283c991b73c890adaa14708d26c736a45e3cd849c08"
 baixado_em: "2026-10-30"
 ---
 
 # Lei nº 6.061, de 13 de junho de 1989
 
 LEI Nº 6.061 DE 13 DE JUNHO DE 1989
+
+ALTERA A REDAÇÃO DA LEI Nº 5.885, DE 17 DE DEZEMBRO DE 1987, QUE DISPÕE SOBRE A PROTEÇÃO E PRESERVAÇÃO DO PATRIMÔNIO HISTÓRICO, ARTÍSTICO, ESTÉTICO, ARQUITETÔNICO, ARQUEOLÓGICO, DOCUMENTAL E AMBIENTAL DO MUNICÍPIO DE CAMPINAS E DÁ OUTRAS
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
@@ -42,6 +44,8 @@ II – das reuniões para deliberar sobre protocolados de pedidos de reforma, de
 Paço Municipal, 13 de junho de 1989 JACÓ BITTAR Prefeito Municipal
 
 LEI Nº 6061 DE 13 DE JUNHO DE 1989
+
+ALTERA A REDAÇÃO DA LEI Nº 5.885, DE 17 DE DEZEMBRO DE 1987, QUE DISPÕE SOBRE A PROTEÇÃO E PRESERVAÇÃO DO PATRIMÔNIO HISTÓRICO, ARTÍSTICO, ESTÉTICO, ARQUITETÔNICO, ARQUEOLÓGICO, DOCUMENTAL E AMBIENTAL DO MUNICÍPIO DE CAMPINAS E DÁ OUTRAS
 
 A Câmara Municipal manteve e eu, Alcides Mamizuka, seu Presidente, promulgo nos termos do § 5º do artigo 30, do Decreto Lei Complementar Estadual nº 09, de 31 de dezembro de 1969, os seguintes .... da Lei nº 6061, de 13 de junho de 1989:
 

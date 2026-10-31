@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/54707"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54707/lei_no_16.551-2024.pdf"
 sha256_fonte: "2da6304447d51a82572be59b65f92736072053672a515c00a0745ec9bd908fcc"
-sha256_texto: "b097ad8da8c0447f1652ebfc40693c08c1977dad679c5d6528aa2e0d926d86c9"
+sha256_texto: "351636bef50d8a3f9cb5debaaba5f058ab8f78b3ce91f42c52895a0c9e231bc4"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,7 +27,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **§ 1º** O Selo Amiga das Pessoas com Transtorno do Espectro Autista - TEA será concedido a pessoas jurídicas de direito público ou privado, como estabelecimentos comerciais ou de ensino, entidades assistenciais, hospitais, entre outros, que promovam ações relativas à defesa, saúde e melhoria da qualidade de vida de pessoas com TEA.
 
-**§ 2º** Por ações relativas à defesa, saúde e melhoria da qualidade de vida de pessoas com TEA entendem-se todas as ações voltadas a métodos educativos, assistenciais, culturais, esportivos, entre outros, relacionadas a pessoas com
+**§ 2º** Por ações relativas à defesa, saúde e melhoria da qualidade de vida de pessoas com TEA entendem-se todas as ações voltadas a métodos educativos, assistenciais, culturais, esportivos, entre outros, relacionadas a pessoas com TEA.
 
 **§ 3º** Para fins de aplicação desta Lei, entende-se como pessoa com TEA aquela caracterizada conforme os incisos I e II do § 1º do art. 1º da Lei Federal nº 12.764, de 27 de dezembro de 2012.
 
@@ -45,7 +45,7 @@ V - valorizar a comunicação não verbal de pessoas com TEA.
 
 **Art. 3º** O órgão competente será responsável por realizar a avaliação do pedido de concessão do selo de que trata esta Lei, por expedir parecer e, caso deferido, por emitir o certificado relativo ao selo.
 
-**§ 1º** O pedido de concessão do selo de que trata esta Lei será encaminhado pelo solicitante por meio de formulário eletrônico próprio que contenha campo específico para a descrição das atividades realizadas em prol de pessoas com
+**§ 1º** O pedido de concessão do selo de que trata esta Lei será encaminhado pelo solicitante por meio de formulário eletrônico próprio que contenha campo específico para a descrição das atividades realizadas em prol de pessoas com TEA.
 
 **§ 2º** A concessão do Selo Amiga das Pessoas com Transtorno do Espectro Autista - TEA terá validade de dois anos, podendo ser renovada mediante novo pedido e avaliação.
 

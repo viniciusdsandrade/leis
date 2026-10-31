@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12749"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1990/12749/12749_texto_integral.pdf"
 sha256_fonte: "7b53305c53bf1acf9e99df8d60f85ebc61786ab8aefd08f679b7ba0e3c4def88"
-sha256_texto: "aa64798ced9e74c31e18d598e350bb824c0951a43ca5ab13f60c5cf87472da05"
+sha256_texto: "66e4521ca602b3a0ac3b8498c373b172cbfe3e1d4b17d5f9dcf6fa5c3bb07fb3"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,7 +29,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 2. “Rua Marte”, as ruas 2 e 3 do Jardim do Sol, com inicio na rua 5 e término na rua 14 do mesmo loteamento.
 
-3. “Rua Plutão”, a ruaS do JardIm do Sol, com início na rua 1 e término na rua 7
+3. “Rua Plutão”, a ruaS do JardIm do Sol, com início na rua 1 e término na rua 7 do mesmo loteamento.
 
 4. “Rua Saturno”, a rua 12 do Jardim do Sol e rua 8 do Condomínio Residencial Parque Rio das Pedras, com inicio na Estrada Municipal e término na avenida 1 do Condomínio Residencial Parque Rio das Pedras.
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/13023"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1989/13023/13023_texto_integral.pdf"
 sha256_fonte: "55d67c34de31562ea9d568102858f405e890216a19d2bf6c4b2fce6d1af3fa9f"
-sha256_texto: "9b00197ad7f480b0d5820ca7c1e0060f89f67d0c2a9d50456cda661556215147"
+sha256_texto: "ab21d46f88b7bbb047c024c5153d5c44341da8a6a59603da240f40915fb4219a"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,15 +27,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 I – Parte da passagem de pedestres, localizada na quadra E, quarteirão 6.245 do Cadastro Municipal, loteamento Jardim Tropical, com área de 100,00m² e as seguintes medidas: 4,00m de frente pelo alinhamento da Rua José Ramos Catarino; 25,00m lateralmente à direita, onde confronta com o lote 53 do mesmo quarteirão; 4,00m aos fundos, onde confronta com o remanescente da passagem; 25,00m lateralmente à esquerda, onde confronta com o lote 52 do mesmo quarteirão;
 
-II – Parte da passagem de pedestres localizada na quadra E, quarteirão 6.245 do
-
-seguintes medidas: 2,00m de frente pelo alinhamento da Rua Laércio Monzani; 25,00m lateralmente à direita, onde confronta com o remanescente da passagem;
+II – Parte da passagem de pedestres localizada na quadra E, quarteirão 6.245 do Cadastro Municipal, loteamento Jardim Tropical, com área de 50,00m² e as seguintes medidas: 2,00m de frente pelo alinhamento da Rua Laércio Monzani; 25,00m lateralmente à direita, onde confronta com o remanescente da passagem;
 
 lateralmente à esquerda, onde confronta com o lote 24 do mesmo quarteirão;
 
-III – Parte da passagem de pedestres localizada na quadra E, quarteirão 6.245 do
-
-seguintes medidas: 20,00m de frente pelo alinhamento da Rua Laércio Monzani; 25,00m lateralmente à direita, onde confronta com o lote 25 do mesmo quarteirão;
+III – Parte da passagem de pedestres localizada na quadra E, quarteirão 6.245 do Cadastro Municipal, loteamento Jardim Tropical, com área de 50,00m² e as seguintes medidas: 20,00m de frente pelo alinhamento da Rua Laércio Monzani; 25,00m lateralmente à direita, onde confronta com o lote 25 do mesmo quarteirão;
 
 lateralmente à esquerda, onde confronta com o remanescente da passagem.
 

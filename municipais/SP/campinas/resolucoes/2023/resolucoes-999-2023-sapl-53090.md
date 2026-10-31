@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/53090"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53090/53090_texto_integral.pdf"
 sha256_fonte: "3ae872a0099995a706a5c1bafd833a402864219673705ba074125d883e30c76d"
-sha256_texto: "9411da9b577996564d1382148748adc3ad112d4968df3f8c93d8e8421fa8fe64"
+sha256_texto: "3379f7b7ecc64634e808716e535fdba7b6f2be88d8cdb019096d98f287b98bf6"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,6 +27,8 @@ O PRESIDENTE DA CÂMARA MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municip
 
 “Art. 1º ...................
 
+.................................
+
 IV - ........................…
 
 a) Comissão de Contratação;
@@ -37,6 +39,8 @@ a) Comissão de Contratação;
 
 “Art. 2º ...................
 
+.................................
+
 XV - assessorar, quando solicitado, os agentes de contratação, os pregoeiros e a Comissão de Contratação;
 
 .................................” (NR)
@@ -45,6 +49,8 @@ XV - assessorar, quando solicitado, os agentes de contratação, os pregoeiros e
 
 “Art. 21. .................
 
+.................................
+
 X - assessorar, quando solicitado, os agentes de contratação, os pregoeiros e a Comissão de Contratação;
 
 .................................” (NR)
@@ -52,6 +58,8 @@ X - assessorar, quando solicitado, os agentes de contratação, os pregoeiros e 
 **Art. 4º** Fica alterado o inciso XVI e fica acrescido inciso XVII ao art. 28 da Resolução nº 886, de 2014, que passa a vigorar com a seguinte redação:
 
 “Art. 28. ..................
+
+.................................
 
 XVI - auxiliar, quando solicitado, os agentes de contratação, os pregoeiros e a Comissão de Contratação, dirimindo dúvidas e prestando informações relevantes para prevenir riscos inerentes às suas funções;
 
@@ -77,6 +85,8 @@ III - não serem cônjuges ou companheiros de licitantes ou contratados habituai
 
 “Art. 67. ..................
 
+.................................
+
 VI - prestar apoio técnico e administrativo aos agentes de contratação, aos pregoeiros e à Comissão de Contratação;
 
 ..............................…
@@ -87,7 +97,11 @@ VIII - assinar editais de licitação, bem como avisos a serem publicados.” (N
 
 “Art. 69. ..................
 
+.................................
+
 VII - propor a penalização dos fornecedores cujo procedimento justifique essa medida nas contratações para as quais não for firmado instrumento de contrato, exceto nos casos elencados no art. 158 da Lei Federal nº 14.133, de 2021;
+
+.................................
 
 XI - prestar apoio técnico e administrativo aos agentes de contratação, aos pregoeiros e à Comissão de Contratação;
 
@@ -96,6 +110,8 @@ XI - prestar apoio técnico e administrativo aos agentes de contratação, aos p
 **Art. 8º** Fica alterado o inciso V do art. 70 da Resolução nº 886, de 2014, que passa a vigorar com a seguinte redação:
 
 “Art. 70. ..................
+
+.................................
 
 V - elaborar e manter atualizado o catálogo de materiais e serviços da Câmara, promovendo a padronização quando for conveniente e oportuno;
 

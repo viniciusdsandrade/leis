@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/5553"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1997/5553/5553_texto_integral.pdf"
 sha256_fonte: "bf6c7f9c4b3cdd75eff70bf4aaf0ee7ccbfcc2bfd1be29a0e537a579a05503f6"
-sha256_texto: "67933b464951698078a63242edaff91261694db0e476680f3088edea38c66eec"
+sha256_texto: "d8ebbdcf242a074259e26cc2104c90d4564bb786b22bb9a483a42b07e2837a4f"
 baixado_em: "2026-10-30"
 ---
 
@@ -45,9 +45,7 @@ IX - um representante do Serviço de Apoio às Micro e Pequenas Empresas de São
 
 X - um representante do Centro das Indústrias do Estado de São Paulo - CIESP, em Campinas;
 
-**§ 1º** - O Conselho será presidido pelo Secretário Municipal de Finanças e Recursos Humanos e, na sua falta, pelo Secretário Municipal de Cooperação Internacional. .............................................................................................................................. Artigo 3º - Compete ao Conselho emitir pareceres circunstanciados sobre temas relevantes e projetos que versem sobre a política industrial de Campinas, levados à sua apreciação pelos Poderes Legislativo e Executivo do Município, bem como referendar ou não os pareceres emitidos pelo Grupo de Política Industrial - GPI, nas solicitações de benefícios fiscais por empresas interessadas.
-
-**Artigo 4º** - O Grupo de Política Industrial - GPI é o órgão de apoio técnico ao Conselho Consultivo dos Poderes Municipais para o Desenvolvimento Econômico de Campinas - C.C.D.E..
+**§ 1º** - O Conselho será presidido pelo Secretário Municipal de Finanças e Recursos Humanos e, na sua falta, pelo Secretário Municipal de Cooperação Internacional. .............................................................................................................................. Artigo 3º - Compete ao Conselho emitir pareceres circunstanciados sobre temas relevantes e projetos que versem sobre a política industrial de Campinas, levados à sua apreciação pelos Poderes Legislativo e Executivo do Município, bem como referendar ou não os pareceres emitidos pelo Grupo de Política Industrial - GPI, nas solicitações de benefícios fiscais por empresas interessadas. ............................................................................................................................. Artigo 4º - O Grupo de Política Industrial - GPI é o órgão de apoio técnico ao Conselho Consultivo dos Poderes Municipais para o Desenvolvimento Econômico de Campinas - C.C.D.E..
 
 **§ 1º** - O Grupo de Política Industrial - GPI será constituído por ato do Prefeito e integrado por:
 
@@ -65,9 +63,7 @@ II - propor medidas de desburocratização e de agilização no atendimento às 
 
 III - acompanhar a tramitação dos pedidos de benefícios fiscais, até sua publicação no Diário Oficial do Município. ............................................................................................................................
 
-**Artigo 7º** - As sessões ordinárias realizar-se-ão mensalmente, em local fixado pelo Regimento do Conselho. ............................................................. Artigo 9º - As sessões serão instaladas na 1ª convocação com a presença de, no mínimo, metade mais um dos conselheiros em efetivo exercício, podendo ocorrer a 2ª convocação, meia hora após, quando serão instaladas com os conselheiros presentes.
-
-**Artigo 17** - O C.C.D.E., nos 30 dias subsequentes à data de posse dos Conselheiros a que se refere o artigo 2º, deverá elaborar o seu regimento interno, que disporá dentre outras matérias, sobre a apresentação, discussão e votação dos projetos que versem sobre a política industrial de Campinas, submetidos à sua apreciação.”
+**Artigo 7º** - As sessões ordinárias realizar-se-ão mensalmente, em local fixado pelo Regimento do Conselho. ............................................................. Artigo 9º - As sessões serão instaladas na 1ª convocação com a presença de, no mínimo, metade mais um dos conselheiros em efetivo exercício, podendo ocorrer a 2ª convocação, meia hora após, quando serão instaladas com os conselheiros presentes. ............................................................................................................................. Artigo 17 - O C.C.D.E., nos 30 dias subsequentes à data de posse dos Conselheiros a que se refere o artigo 2º, deverá elaborar o seu regimento interno, que disporá dentre outras matérias, sobre a apresentação, discussão e votação dos projetos que versem sobre a política industrial de Campinas, submetidos à sua apreciação.”
 
 **Artigo 2º** - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

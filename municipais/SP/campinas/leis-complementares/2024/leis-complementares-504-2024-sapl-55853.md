@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/55853"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/55853/lei_complementar_no_504_-_11-12-2024.pdf"
 sha256_fonte: "11bffb515cc18f53efd9ff510b1110438ad6a937e810eea5865683a26b6cb008"
-sha256_texto: "939ff6311722c3c75a98f3309842c091b0eac003ea7f9d7fca4a856d040497fb"
+sha256_texto: "f35962cbf9a3b0e902c8df16a315b45f6baeedcbdf2234e328c3daf2d9014b66"
 baixado_em: "2026-10-21"
 ---
 
@@ -39,7 +39,7 @@ III - demais comunicações previstas em normas complementares.
 
 **§ 2º** O DTEC, instituído por esta Lei Complementar, constitui-se, para todos os fins, no domicílio tributário eletrônico previsto no inciso III do art. 21 da Lei nº 13.104, de 17 de outubro de 2007.
 
-**Art. 2º** O credenciamento das pessoas indicadas nos incisos do caput do art. 1º desta Lei Complementar, ainda que imunes ou isentas, seguirá programação estabelecida em normas
+**Art. 2º** O credenciamento das pessoas indicadas nos incisos do caput do art. 1º desta Lei Complementar, ainda que imunes ou isentas, seguirá programação estabelecida em normas regulamentadoras.
 
 **§ 1º** O credenciamento ocorrerá com o primeiro acesso ao DTEC ou de ofício, se não houver acesso no prazo previsto na programação.
 
@@ -55,7 +55,7 @@ III - demais comunicações previstas em normas complementares.
 
 **§ 7º** O credenciamento será único por pessoa jurídica e válido para todos os estabelecimentos com o mesmo Cadastro Nacional de Pessoa Jurídica - CNPJ base, inclusive para os que tiverem a inscrição no CNPJ concedida após o credenciamento da pessoa jurídica.
 
-**Art. 3º** O acesso do usuário ao DTEC se dará com a utilização de certificado digital emitido por Autoridade Certificadora credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, código de acesso ou autenticação por sistema oficial, nos termos disciplinados em normas
+**Art. 3º** O acesso do usuário ao DTEC se dará com a utilização de certificado digital emitido por Autoridade Certificadora credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, código de acesso ou autenticação por sistema oficial, nos termos disciplinados em normas regulamentadoras.
 
 **Art. 4º** Efetuado o credenciamento, as comunicações da Administração Tributária municipal às pessoas credenciadas serão feitas preferencialmente por meio do DTEC.
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/16668"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1992/16668/16668_texto_integral.pdf"
 sha256_fonte: "c4f2ae026874f6c16270cd7c70bfadddf9656f9456aa6899cc07ed91ea731b0a"
-sha256_texto: "35fd37ecd6c1d533a9c0fbcc9ac96206e38ce4d029b7ff61818ab6f894edbc40"
+sha256_texto: "eeb452d0801ad974bb223f34441d2e3f4bd3c91684b4318f3e24987e68cce538"
 baixado_em: "2026-10-30"
 ---
 
@@ -23,7 +23,7 @@ AUTORIZA O EXECUTIVO A CONCEDER ISENÇÃO DE IMPOSTO SOBRE SERVIÇO – ISS, ÀS
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Artigo 1º** - Fica a Prefeitura Municipal autorizada a dar isenção de ISS – Imposto sobre Serviços – às empresas ou entidades particulares que estabelecerem convênio com instituições financeiras a fim de obterem recursos para financiar a construção de obras ou aquisição de bens, destinados à comunidade e doados à
+**Artigo 1º** - Fica a Prefeitura Municipal autorizada a dar isenção de ISS – Imposto sobre Serviços – às empresas ou entidades particulares que estabelecerem convênio com instituições financeiras a fim de obterem recursos para financiar a construção de obras ou aquisição de bens, destinados à comunidade e doados à Municipalidade.
 
 **§ 1º** - A isenção do ISS – Imposto Sobre Serviços – a que se refere a presente lei será a alíquota aplicada sobre o valor total da obra pública.
 
@@ -35,7 +35,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Parágrafo único** – Sempre que possível, o Executivo Municipal, fará constar no bem doado, placa com o nome do doador ou doadores.
 
-**Artigo 3º** - A Prefeitura Municipal de Campinas, regulamentará a presente lei no prazo de 60 (sessenta) dias, estabelecendo os projetos prioritários para a
+**Artigo 3º** - A Prefeitura Municipal de Campinas, regulamentará a presente lei no prazo de 60 (sessenta) dias, estabelecendo os projetos prioritários para a Municipalidade.
 
 **Artigo 4º** - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

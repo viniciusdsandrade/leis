@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/5784"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1996/5784/5784_texto_integral.pdf"
 sha256_fonte: "e56eb28d9c76dc25152e284ae4ac7fe9c4ec7a2a89515a4f741859e166892dfc"
-sha256_texto: "61409babd3458f08c787aa732b445a3a39fb530febbf24300b4ba14e0208421e"
+sha256_texto: "c05c5b8e1f7a3ac9b75f8d22bb8baefa9648fe7183bc9fad8eeebcaac4ee3df1"
 baixado_em: "2026-10-30"
 ---
 
@@ -23,7 +23,7 @@ ACRESCENTA INCISOS AOS ARTIGOS 1º E 2º DA LEI Nº 5898/87, QUE DESINCORPORA DA
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Artigo 1º** - Ficam acrescentados os incisos XXVI e XXVII ao artigo 1º da Lei nº
+**Artigo 1º** - Ficam acrescentados os incisos XXVI e XXVII ao artigo 1º da Lei nº 5.898/87:
 
 XXV -.....................................................................................................................
 
@@ -31,7 +31,7 @@ XXVI - Lote 6 da denominada “quadra B”, parte do Sistema Recreio 2, do lotea
 
 XXVII - Lote 14 da denominada “quadra B”, parte do Sistema de Recreio 2 do loteamento Parque Valença, com 250,00m² de área e as seguintes medidas: 10,00m de frente pelo alinhamento da Rua Rudolf Nureyev; 25,00m lateralmente à direita onde confronta com o lote 13 da denominada quadra; 10,00m aos fundos onde confronta com o lote 2 da denominada quadra; 25,00m lateralmente à esquerda onde confronta com o lote 15 da denominada quadra e com parte da Rua Rudolf Nureyev;
 
-**Artigo 2º** - Ficam acrescentados os incisos XXVI e XXVII ao artigo 2º da Lei nº
+**Artigo 2º** - Ficam acrescentados os incisos XXVI e XXVII ao artigo 2º da Lei nº 5.898/87:
 
 XXV - ....................................................................................................................
 

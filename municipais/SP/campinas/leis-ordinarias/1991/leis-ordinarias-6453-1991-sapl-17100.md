@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/17100"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1991/17100/17100_texto_integral.pdf"
 sha256_fonte: "fedae2c9b275f018e09531f9edb273f01a9b07345cd3852768158fd24544dcd7"
-sha256_texto: "7f66f7cb9cd538306345765946ca7736895caf792060bbdf16f7a29420f70bca"
+sha256_texto: "0b81809b3bed03466ffa442a85f28ffc9583f1afcc983c1259730c7822e49a92"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,11 +27,15 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 I – Família Ocupacional Operacional:
 
+Nomenclatura Quantidade
+
 a) Zelador 3
 
 b) Motorista 2 Subtotal... 5
 
 II – Família Ocupacional Administrativa:
+
+Nomenclatura Quantidade
 
 a) Auxiliar Administrativo 7
 
@@ -48,6 +52,8 @@ f) Almoxarife 1
 g) Auxiliar de Enfermagem 1 Subtotal... 19
 
 III – Família Ocupacional Universitária:
+
+Nomenclatura Quantidade
 
 a) Assistente Social 1
 

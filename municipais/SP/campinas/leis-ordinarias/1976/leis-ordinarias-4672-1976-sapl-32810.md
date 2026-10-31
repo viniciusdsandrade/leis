@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/32810"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1976/32810/32810_texto_integral.pdf"
 sha256_fonte: "fbf3d8af7f0a51790fb7eb1dc8837edd343c10cce5c532c569261df1b901d581"
-sha256_texto: "457d25d665f5f3ef2ddb0f49588325f1b5b9a1dc06570054d2f3ce9c441bcd58"
+sha256_texto: "caf3e0298b1771c6389784949ffc2eb94fb66753d7725aa742051506aa1dcccf"
 baixado_em: "2026-10-30"
 ---
 
@@ -35,11 +35,15 @@ RECEITAS DE CAPITAL Total do Triênio 1977 1978 1979
 
 2- Operações de Crédito........................................ 180.663.000,00 50.000.000,00 56.810.000,00 73.853.000,00 3- Alienações de bens móveis e imóveis................ 35.425.000,00 13.000.000,00 9.750.000,00 12.675.000,00 4- Transferências de Capital.................................. 52.691.300,00 29.160.000,00 10.231.000,00 13.300.000,00
 
+TOTAL............................................................... 528.498.673,00 96.501.750,00 187.824.836,00 244.172.087,00
+
 **Artigo 3º** – As Despesas de Capital são fixadas em Cr$ 528.498.673,00 (quinhentos e vinte e oito milhões, quatrocentos e noventa e oito mil, seiscentos e setenta e três cruzeiros) com a seguinte distribuição: DESPESAS DE CAPITAL Total do Triênio 1977 1978 1979
 
 A) Subcategorias Econômicas: Cr$ Cr$ Cr$ Cr$
 
 1- Investimentos................................................... 450.889.073,00 60.752.150,00 169.624.836,00 220.512.087,00 2- Inversões Financeiras........................................ 1.995.000,00 500.000,00 650.000,00 845.000,00 3- Transferências de Capital.................................. 75.614.600,00 35.249.600,00 17.550.000,00 22.815.000,00
+
+TOTAL............................................................... 528.498.673,00 96.501.750,00 187.824.836,00 244.172.087,00
 
 B) Funções de Governo: Cr$ Cr$ Cr$ Cr$
 
@@ -60,6 +64,8 @@ B) Funções de Governo: Cr$ Cr$ Cr$ Cr$
 SUB-TOTAL........................................................ 522.508.673,00 93.501.750,00 186.524.836,00 242.482.087,00
 
 99- Reserva de Contingência................................... 5.990.000,00 3.000.000,00 1.300.000,00 1.690.000,00
+
+TOTAL............................................................... 528.498.673,00 96.501.750,00 187.824.836,00 244.172.087,00
 
 **Artigo 4°** - Na elaboração das propostas orçamentárias anuais, do período, serão ajustadas as importâncias consignadas aos projetos e atividades constantes dos anexos desta lei.
 

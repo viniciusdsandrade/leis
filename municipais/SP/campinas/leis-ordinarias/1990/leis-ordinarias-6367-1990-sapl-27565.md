@@ -11,11 +11,13 @@ versao_texto: "texto integral anexado no SAPL municipal; Texto da Lei copilado d
 fonte: "https://sapl.campinas.sp.leg.br/norma/27565"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1990/27565/27565_texto_integral.pdf"
 sha256_fonte: "207694b6af767d6a78b714196f0435800165bbec86f150b039491546a8f4cf87"
-sha256_texto: "325559f0fa5693a05263360670e7b5d609de4061a48b9086f9f81ac958014e39"
+sha256_texto: "1f6850a997cc684a47da440893b5ad7301fb95ed2afbb6f93ce2dc7682b388ad"
 baixado_em: "2026-10-30"
 ---
 
 # Lei nº 6.367, de 27 de dezembro de 1990
+
+Lei nº 6.367, de 27/12/1990 - COE - SMAJ - CSD - BJ http://www.campinas.sp.gov.br/bibjuri/lei6367.htm
 
 SMAJ – Coordenadoria Setorial de Documentação – Biblioteca Jurídica Advertência
 

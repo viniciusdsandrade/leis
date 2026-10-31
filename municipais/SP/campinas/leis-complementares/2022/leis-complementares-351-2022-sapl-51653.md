@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/51653"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51653/51653_texto_integral.pdf"
 sha256_fonte: "3f38f743a0fb20d39e8966b3202e82fad1f20103aae69eb664462185bceedf83"
-sha256_texto: "9cb082d2f76efdab6e9787e6a2ea08ca18502c98f2669200c7b53adb9111749a"
+sha256_texto: "0b01abf4f8c744c6ab21b2ea4222421b918f9a1e2fe9add03e24d572a8a5b26d"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,13 +27,19 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 “Art. 3º...................................................
 
+...............................................................
+
 III - Regente Titular da Orquestra Sinfônica Municipal de Campinas;
+
+...............................................................” (NR)
 
 **Art. 2º** Fica alterada a denominação do cargo em comissão “Maestro da Orquestra Sinfônica Municipal de Campinas”, constante do Anexo I da Lei Complementar nº 301, de 2021, para “Regente Titular da Orquestra Sinfônica Municipal de Campinas”.
 
 **Art. 3º** Ficam alterados os itens 3 e 3.2 da Tabela A da Lei Complementar nº 301, de 2021, que passa a vigorar com a seguinte redação:
 
 “TABELA A
+
+...............................................................
 
 3. REGENTE TITULAR DA ORQUESTRA SINFÔNICA MUNICIPAL DE CAMPINAS
 
@@ -56,6 +62,8 @@ II - para a graduação, habilitação, ênfase ou área de concentração volta
 III - experiência profissional: 3 (três) anos de experiência comprovada em regência orquestral à frente de orquestra sinfônica ou filarmônica profissional nos últimos 10 (dez) anos;
 
 IV - idade mínima: 28 (vinte e oito) anos;
+
+...............................................................” (NR)
 
 **Art. 4º** Fica alterado o Anexo II da Lei Complementar nº 301, de 2021, referente à Secretaria Municipal de Cultura e Turismo, que passa a vigorar com a seguinte redação:
 

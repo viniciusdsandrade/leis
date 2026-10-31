@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/45389"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2018/45389/45389_texto_integral.pdf"
 sha256_fonte: "37d0c7703eb2060acffc4b05923d3b5948f305fdce949f091f21b136a89a38d8"
-sha256_texto: "f5dfa9957310a020a506faf447e7eb9cbb521af43781dd3b27dcac38b459b9d0"
+sha256_texto: "9f43e70d3d30e39953f2a78f68dc0cf8ed84c6849f119a3b938bb707d843b40d"
 baixado_em: "2026-10-30"
 ---
 
@@ -39,9 +39,13 @@ II - nos termos do caput e do inciso I do parágrafo único do art. 6º:
 
 01.031.2001.4001.3.1.90.96.00 – Ressarcimento de Despesas de Pessoal Requisitado .............................................................................................R$ 30.000,00
 
+Total.................................R$ 7.440.000,00
+
 **Art. 2º** A suplementação de que trata o artigo anterior será suportada pela anulação parcial da seguinte dotação:
 
 01.031.2001.4001.3.1.90.11.00 – Vencimentos e Vantagens Fixas – Pessoal Civil .......................................................................................R$ 7.440.000,00
+
+Total.................................R$ 7.440.000,00
 
 **Art. 3º** Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

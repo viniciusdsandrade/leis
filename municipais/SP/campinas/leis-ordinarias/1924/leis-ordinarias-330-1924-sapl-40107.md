@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/40107"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1924/40107/40107_texto_integral.pdf"
 sha256_fonte: "02086cfd7688ca424357cbc8d14bea60f15d2e0ce40e4607ff42b4be0c3b8a45"
-sha256_texto: "6eb0a2d24976d4f5fdd3bde32b6e390afe8bfc496dda4f7cc42344abc43eb730"
+sha256_texto: "b7dd1d74d4adbaec2a96711f53c3e686a8fea0feece96b08a16bfa457ee400d5"
 baixado_em: "2026-10-30"
 ---
 
@@ -39,15 +39,7 @@ Art. 21." — A presente lei entrará em vigor 30 dias depois de Legislativo, de
 
 Art. 22.\* — Revogam-se as disposições em contrario.
 
-Art. 5." — Revogam-se as
-
-Mando, portanto, a todas
-
-mento e execução da presente
-
-façam cumprir tão inteiramente Campinas, 24 de Maio de 1924. Campinas, 7 de Junho de
-
-Publicada na Secretaria da Publicada na Secretaria da Prefeitura, aos 24 de Maio de 1924.
+Art. 5." — Revogam-se as Mando, portanto, a todas as autoridades a quem o conheci- Mando, portanto, a todas mento e execução da presente lei competir que a cumpram e a mento e execução da presente façam cumprir tão inteiramente como nella se contem. façam cumprir tão inteiramente Campinas, 24 de Maio de 1924. Campinas, 7 de Junho de Dr. Miguel de Barros Penteado. Publicada na Secretaria da Publicada na Secretaria da Prefeitura, aos 24 de Maio de 1924.
 
 Amilar Alves.
 
@@ -69,15 +61,9 @@ Art. 3." — Fica o Prefeito autorizado a crear um corpo pro- Dr. visorio de fis
 
 **Art. 4.°** — Os infractores serão punidos com a multa de Rs. 505000, acrescida da pena de oito (8) dias de prisão, nas reinci- dencias, sendo, neste caso, o serviço feito pela Municipalidade, á custa do infractor.
 
-Art. 5." — O Prefeito fará as operações de credito necessarias Dr. Miguel de Barros Pentendo, 1 a execução desla lei, que entrará immediatamente em vigor. rt. 6.\* — A presente lei é decretada sem prejuizo de quas
+Art. 5." — O Prefeito fará as operações de credito necessarias Dr. Miguel de Barros Pentendo, 1 a execução desla lei, que entrará immediatamente em vigor. rt. 6.\* — A presente lei é decretada sem prejuizo de quas etc. uer medidas que, nesse sentido, sejam adoptadas pelo governo de Faço saber que a Camara de Art. 7." — Revogam-se as disposições em contrario.
 
-uer medidas que, nesse sentido, sejam adoptadas pelo governo de Faço saber que a Camara de Art. 7." — Revogam-se as disposições em contrario.
-
-LEI M.
-
-( Sobre o prolongamento da rua.
-
-trecho de rua Barão do Parnai Campinas, 23 de Junho de 1924. A Camara Municipal de Cam
+LEI M. Mando, portanto, a todas as autoridades a quem o conheci- mento e execução da presente lei competir que a cumpram e a ( Sobre o prolongamento da rua. façam cumprir tão inteiramente como nella se contem. trecho de rua Barão do Parnai Campinas, 23 de Junho de 1924. A Camara Municipal de Cam Dr. Miguel de Barros Penteado.
 
 Art. 1.\* — Fica a Prefeitura : Publicada na Secretaria da Prefeitura, aos 23 de Junho de 1924. Tongamento da rua Salles de Olivei
 

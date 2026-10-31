@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/32812"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1976/32812/32812_texto_integral.pdf"
 sha256_fonte: "33c385612be0adf3fec12bea1cfdc64f18bcf8e1227f73151cb009f914f6de04"
-sha256_texto: "8398ab18e7d588ce6f4d6e0da7196d772483a417546b4c1ec1da6543768d8fe8"
+sha256_texto: "74e691978dc485edbb1d2cc186af036c225a6942f82a424f3acf2c6717727fdd"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,6 +29,8 @@ Faz saber que a CÂMARA MUNICIPAL DE CAMPINAS aprovou e ele sanciona e promulga 
 
 **Artigo 2°** – A Receita será realizada mediante a arrecadação dos tributos e outras contribuições correntes e de capital, na forma da legislação vigente e das especificações constantes do anexo n° 2 e de acordo com o seguinte desdobramento:
 
+ADMINISTRAÇÃO DIRETA
+
 RECEITAS CORRENTES RECEITAS TRIBUTÁRIA Impostos......................................... Cr$ 128.000.000,00 Taxas.............................................. Cr$ 105.200.000,00 Cr$ 233.200.000,00
 
 RECEITA PATRIMONIAL................................................. Cr$ 2.100.00,00 TRANSFERÊNCIAS CORRENTES..................................... Cr$ 213.500.000,00 RECEITAS DIVERSAS.................................................... Cr$ 29.160.000,00 Cr$ 478.400.000,00
@@ -37,19 +39,23 @@ RECEITAS DE CAPITAL OPERAÇÕES DE CRÉDITO.....................................
 
 TOTAL................................................................................................................. Cr$ 570.560.000,00
 
-RECEITAS CORRENTES................................................. Cr$ 46.365.334,00 RECEITAS DE CAPITAL.................................................. Cr$ 3.512.000,00 Cr$ 49.877.334,00 TOTAL GERAL DA RECEITA ............................................... Cr$ 620.437.334,00
+ADMINISTRAÇÃO INDIRETA RECEITAS CORRENTES................................................. Cr$ 46.365.334,00 RECEITAS DE CAPITAL.................................................. Cr$ 3.512.000,00 Cr$ 49.877.334,00 TOTAL GERAL DA RECEITA ............................................... Cr$ 620.437.334,00
 
 **Artigo 3º** – A Despesa será realizada na forma dos quadros analíticos, anexo I – quadros A e B, e anexo II – quadro A, e de acordo com o seguinte desdobramento:
+
+ADMINISTRAÇÃO DIRETA
 
 DESPESA POR ÓRGÃO DE GOVERNO 1 – Câmara Municipal de Campinas.................................... Cr$ 23.580.000,00 2 – Gabinete do Prefeito..................................................... Cr$ 16.500.000,00 3 – Secretaria de Administração......................................... Cr$ 78.176.850,00 4 – Secretaria de Negócios Jurídicos................................... Cr$ 6.500.000,00 5 – Secretaria das Finanças................................................ Cr$ 20.770.000,00 6 – Secretaria de Educação, Esportes e Turismo................. Cr$ 57.194.000,00 7 – Secretaria de Saúde..................................................... Cr$ 22.600.000,00 8 – Secretaria de Promoção Social...................................... Cr$ 16.123.550,00 9 – Secretaria de Obras e Serviços Públicos........................ Cr$ 161.566.000,00 10 – Secretaria de Cultura.................................................. Cr$ 25.000.000,00 11 – Encargos Gerais do Município..................................... Cr$ 142.549.600,00
 
 TOTAL........................................................................... Cr$ 570.560.000,00
 
+ADMINISTRAÇÃO INDIRETA
+
 DESPESA DOS ÓRGÃOS DA ADMINISTRAÇÃO INDIRETA...... Cr$ 49.877.334,00
 
 TOTAL GERAL DA DESPESA .............................................. Cr$ 620.437.334,00
 
-DESPESA POR FUNÇÃO DE GOVERNO 01 – Legislativa................................................................ Cr$ 23.580.000,00 03 – Administração e Planejamento.................................. Cr$ 257.496.450,00 08 – Educação e Cultura................................................... Cr$ 82.194.000,00 10 – Habitação e Urbanismo............................................. Cr$ 148.766.000,00 13 – Saúde e Saneamento................................................ Cr$ 22.600.000,00 15 – Assistência e Previdência.......................................... Cr$ 16.123.550,00 16 – Transporte............................................................... Cr$ 12.800.000,00
+ADMINISTRAÇÃO DIRETA DESPESA POR FUNÇÃO DE GOVERNO 01 – Legislativa................................................................ Cr$ 23.580.000,00 03 – Administração e Planejamento.................................. Cr$ 257.496.450,00 08 – Educação e Cultura................................................... Cr$ 82.194.000,00 10 – Habitação e Urbanismo............................................. Cr$ 148.766.000,00 13 – Saúde e Saneamento................................................ Cr$ 22.600.000,00 15 – Assistência e Previdência.......................................... Cr$ 16.123.550,00 16 – Transporte............................................................... Cr$ 12.800.000,00
 
 TOTAL DA DESPESA POR FUNÇÕES DO GOVERNO............. Cr$ 563.560.000,00
 
@@ -57,7 +63,7 @@ TOTAL DA DESPESA POR FUNÇÕES DO GOVERNO............. Cr$ 563.560.000,00
 
 TOTAL.............................................................................. Cr$ 570.560.000,00
 
-11 – Indústria, Comércio e Serviços.................................. Cr$ 22.793.000,00 12 – Saúde e Saneamento............................................... Cr$ 11.660.000,00 15 – Assistência e Previdência.......................................... Cr$ 15.424.334,00 TOTAL.............................................................................. Cr$ 49.877.334,00
+ADMINISTRAÇÃO INDIRETA 11 – Indústria, Comércio e Serviços.................................. Cr$ 22.793.000,00 12 – Saúde e Saneamento............................................... Cr$ 11.660.000,00 15 – Assistência e Previdência.......................................... Cr$ 15.424.334,00 TOTAL.............................................................................. Cr$ 49.877.334,00
 
 TOTAL GERAL DA DESPESA POR FUNÇÕES DO GOVERNO... Cr$ 620.437.334,00
 

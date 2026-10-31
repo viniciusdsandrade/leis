@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/7602"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1993/7602/7602_texto_integral.pdf"
 sha256_fonte: "c5f9f566ed9b2daaac9630156b2d9c3c665f46737881d829d86a500030760443"
-sha256_texto: "64d3d2b3bab3e6bfee3b77406d7fffbe87eaa87a489cfc3c3b37bdb2bd2f3747"
+sha256_texto: "319d99d018dc0e32d498986155ee89531ccd63b5a83f38dc11529d4323c14162"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,17 +25,11 @@ A Câmara Municipal aprovou e eu, Prefeito de Município de Campinas, sanciono e
 
 **Artigo 1º** ­ Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais as áreas de terreno abaixo descritas de propriedade da Prefeitura Municipal de Campinas:
 
-1. Lote 4, localizado na quadra 15, quarteirão 3.023 do cadastro municipal, do
+1. Lote 4, localizado na quadra 15, quarteirão 3.023 do cadastro municipal, do loteamento Jardim Santa Amália, de propriedade da municipalidade, com 259,92m² de área e as seguintes medidas: 12,00 m de frente pelo alinhamento da Rua 14 do mesmo loteamento: 22,42m na lateral direita onde confronta com o lote 3 da mesma quadra; 20.90m na lateral esquerda, onde confronta com o lote 5 da mesma quadra.
 
-259,92m² de área e as seguintes medidas: 12,00 m de frente pelo alinhamento da Rua 14 do mesmo loteamento: 22,42m na lateral direita onde confronta com o lote 3 da mesma quadra; 20.90m na lateral esquerda, onde confronta com o lote 5 da mesma quadra.
+2. Lote 5, localizado na quadra 15, quarteirão 3.023 do cadastro municipal, do loteamento Jardim Santa Amália, de propriedade da municipalidade, com loteamento Jardim Santa Amália, de propriedade da municipalidade, com 208,12m² de área e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua 14, do mesmo loteamento, 20,90m na lateral direita onde confronta com o lote 4, da mesma quadra; 12,00m aos fundos onde confronta com a área remanescente da quadra; 19,40m na lateral esquerda onde confronta com o lote6, da mesma quadra.
 
-2. Lote 5, localizado na quadra 15, quarteirão 3.023 do cadastro municipal, do
-
-208,12m² de área e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua 14, do mesmo loteamento, 20,90m na lateral direita onde confronta com o lote 4, da mesma quadra; 12,00m aos fundos onde confronta com a área remanescente da quadra; 19,40m na lateral esquerda onde confronta com o lote6, da mesma quadra.
-
-3. Lote 6, localizado na quadra 15, quarteirão 3.023 do cadastro municipal, do
-
-208,12m² de área e as seguintes medidas: 4,00m de frente pelo alinhamento da Rua 14, do mesmo loteamento; 19,40m na lateral direita onde confronta com o lote 5, da mesma quadra; 12,00m aos fundos onde confronta com área remanescente da quadra; 9,20m na lateral esquerda onde confronta com a Rua José Queiroz Telles; 13.73m em curva de concordância entre os alinhamentos da Rua José Queiroz Telles e Rua 14, do mesmo loteamento.
+3. Lote 6, localizado na quadra 15, quarteirão 3.023 do cadastro municipal, do loteamento Jardim Santa Amália, de propriedade da municipalidade, com 208,12m² de área e as seguintes medidas: 4,00m de frente pelo alinhamento da Rua 14, do mesmo loteamento; 19,40m na lateral direita onde confronta com o lote 5, da mesma quadra; 12,00m aos fundos onde confronta com área remanescente da quadra; 9,20m na lateral esquerda onde confronta com a Rua José Queiroz Telles; 13.73m em curva de concordância entre os alinhamentos da Rua José Queiroz Telles e Rua 14, do mesmo loteamento.
 
 **Artigo 2º** ­ A prefeitura Municipal de Campinas, fica autorizada a doar à UNIÃO NACIONAL DOS AUDITORES FISCAIS DO TESOURO NACIONAL as áreas de terreno descritas no artigo anterior para construção de sua sede social.
 

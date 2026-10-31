@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/38552"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2014/38552/38552_texto_integral.pdf"
 sha256_fonte: "8d72c0ebff1b5e63039fcbbe0f2975e29159d33b2fe208e6c3d4a5c700537b40"
-sha256_texto: "1479732bcb639a984655943dc69cf2e0b298a47d51bdb8d4e3d9a2cc39e2012b"
+sha256_texto: "55a376d69403c50434aee755c43d240ad4aa9b56771dbe47585bd49fe410db07"
 baixado_em: "2026-10-21"
 ---
 
@@ -35,13 +35,11 @@ II - ?......................................
 
 “ Art. 6º - Fica instituída servidão administrativa de viela sanitária em favor da Sociedade de Abastecimento de Água e Saneamento S.A. - SANASA Campinas, nas seguintes áreas da faixa de viela para passagem de pedestres descrita no art.1º desta Lei:
 
-I - entre os lotes 08 e 09 da Quadra 24, Quarteirão 6890 do Cadastro
-
-largura, 9,00m² de área e as seguintes medidas e confrontações: medindo 3,00m de comprimento na lateral direita, confrontando com o remanescente de parte da viela para passagem de pedestres; medindo 3,00m de comprimento no fundo, confrontando com remanescente da viela para passagem de pedestres; medindo 3,00m de comprimento na lateral esquerda, confrontando com parte do lote 09 da mesma quadra e mesmo quarteirão; medindo 3,00m de comprimento na frente, confrontando com o remanescente de parte da viela para passagem de pedestres, considerando a observação feita do fundo para a frente da parte da viela voltada para a Rua Nelson de Souza Barbara;
+I - entre os lotes 08 e 09 da Quadra 24, Quarteirão 6890 do Cadastro Municipal, localizados no loteamento Jardim Santa Genebra, com 3,00m de largura, 9,00m² de área e as seguintes medidas e confrontações: medindo 3,00m de comprimento na lateral direita, confrontando com o remanescente de parte da viela para passagem de pedestres; medindo 3,00m de comprimento no fundo, confrontando com remanescente da viela para passagem de pedestres; medindo 3,00m de comprimento na lateral esquerda, confrontando com parte do lote 09 da mesma quadra e mesmo quarteirão; medindo 3,00m de comprimento na frente, confrontando com o remanescente de parte da viela para passagem de pedestres, considerando a observação feita do fundo para a frente da parte da viela voltada para a Rua Nelson de Souza Barbara;
 
 II - entre os lotes 26 e 27 da Quadra 24, Quarteirão 6890 do Cadastro
 
-largura, 75,00m² de área e as seguintes medidas e confrontações: medindo 25,00m de comprimento na lateral direita, confrontando com o lote 26 da mesma quadra e mesmo quarteirão; medindo 3,00m de comprimento no fundo, confrontando com parte da viela para passagem de pedestres; medindo 25,00m de comprimento na lateral esquerda, confrontando com o remanescente de parte da viela para passagem de pedestres: medindo 3,00m de comprimento na frente, confrontando com a Rua Professora Ondina Gonzales, considerando a observação feita do fundo para a frente da parte da viela voltada para a Rua Professora Ondina Gonzales.” (NR)
+Municipal, localizados no loteamento Jardim Santa Genebra, com 3,00m de largura, 75,00m² de área e as seguintes medidas e confrontações: medindo 25,00m de comprimento na lateral direita, confrontando com o lote 26 da mesma quadra e mesmo quarteirão; medindo 3,00m de comprimento no fundo, confrontando com parte da viela para passagem de pedestres; medindo 25,00m de comprimento na lateral esquerda, confrontando com o remanescente de parte da viela para passagem de pedestres: medindo 3,00m de comprimento na frente, confrontando com a Rua Professora Ondina Gonzales, considerando a observação feita do fundo para a frente da parte da viela voltada para a Rua Professora Ondina Gonzales.” (NR)
 
 **Art. 3º** - Esta Lei entra em vigor na data de sua publicação.
 

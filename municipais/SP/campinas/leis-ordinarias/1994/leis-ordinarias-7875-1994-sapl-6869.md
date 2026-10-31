@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/6869"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1994/6869/6869_texto_integral.pdf"
 sha256_fonte: "5d4934060d7d37ecfa8fed0764a80a42a806606440cfdaf26e203179321142d0"
-sha256_texto: "1473dec8934abe83652eb7ea84c6426771609c1786ad7e8f501f60c93f36ef98"
+sha256_texto: "7e81c71760bc3bc8b38daafa45e814e98f955ee89803c589829304d132537d59"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,13 +27,13 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 I - Parte da rua 16 do loteamento Jardim São Gonçalo, distrito de Barão Geraldo, com 16,05m² de área, e as seguintes medidas: 11,11m onde confronta com o lote 26 do quarteirão 484 do cadastro municipal; 3,00m mais 10,70m de linha quebrada onde confronta com o remanescente da rua.
 
-II - Parte da rua 16 do loteamento Jardim São Gonçalo, distrito de Barão Geraldo, com 37,50m² de área, e as seguintes medidas: 12,50m onde confronta com o lote 27 do quarteirão 484 do cadastro municipal; 3,00m onde confronta com área do loteamento Parque Ceasa; 12,50m mais 3,00m de linha quebrada onde confronta
+II - Parte da rua 16 do loteamento Jardim São Gonçalo, distrito de Barão Geraldo, com 37,50m² de área, e as seguintes medidas: 12,50m onde confronta com o lote 27 do quarteirão 484 do cadastro municipal; 3,00m onde confronta com área do loteamento Parque Ceasa; 12,50m mais 3,00m de linha quebrada onde confronta com o remanescente da rua.
 
 III - Parte da rua 16 do loteamento Jardim São Gonçalo, distrito de Barão Geraldo, com 16,05m² de área, e as seguintes medidas: 11,11m onde confronta com o lote 2 do quarteirão 481 do cadastro municipal; 10,70m mais 3,00m em linha quebrada onde confronta com o remanescente da rua.
 
 IV - Parte da rua 16 do loteamento Jardim São Gonçalo, distrito de Barão Geraldo, com 37,50m² de área, e as seguintes medidas: 12,50m onde confronta com o lote 1 do quarteirão 481 do cadastro municipal; 3,00m onde confronta com área do
 
-loteamento Parque Ceasa; 12,50m mais 3,00m de linha quebrada onde confronte
+loteamento Parque Ceasa; 12,50m mais 3,00m de linha quebrada onde confronte com o remanescente da rua.
 
 **Artigo 2º** - Fica a Prefeitura Municipal de Campinas autorizada a vender as áreas descritas no artigo anterior da seguinte, aos proprietários lindeiros, independentemente de concorrência.
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/32552"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1974/32552/32552_texto_integral.pdf"
 sha256_fonte: "d4ba062c5434718ae446a1c9199db96ec539fb3b8f6f0126375bdf69cf71c82e"
-sha256_texto: "b296786296b112aa0ec4520af93619475e088a5a1407e35caf21ab29b2541e80"
+sha256_texto: "80e25b5e7aec98fda28a9d948d0fb6fdfc9852e021a0a5575dfc15f19dded908"
 baixado_em: "2026-10-30"
 ---
 
@@ -31,6 +31,8 @@ TOTAL 1973 1974 1975 Superavit do Orçamento Corrente (estimado e previsto).....
 
 RECEITAS DE CAPITAL Operações de Crédito........................................ 96.273.176 25.100.176 59.453.000 11.720.000 Alienações de bens móveis e imóveis................ 2.700.000 600.000 600.000 1.500.000 Transferências de Capital.................................. 18.070.000 5.505.000 5.895.000 6.670.000
 
+TOTAL............................................................... 217.264.470 44.496.930 80.864.635 91.902.905
+
 **Parágrafo único** – Do Superavit do Orçamento Corrente foi deduzida a Amortização da Dívida Pública, no valor de Cr$ 12.758.000,00 (doze milhões, setecentos e cinquenta e oito mil cruzeiros).
 
 **Artigo 3º** – As despesas de capital são fixadas em Cr$ 217.264.470,00
@@ -40,6 +42,8 @@ RECEITAS DE CAPITAL Operações de Crédito.....................................
 DESPESAS DE CAPITAL TOTAL 1973 1974 1975
 
 Investimentos................................................... 193.017.375 31.801.930 75.812.540 85.402.905 Inversões Financeiras........................................ 21.977.095 12.310.000 4.667.095 5.000.000 Transferências de Capital.................................. 2.270.000 385.000 385.000 1.500.000
+
+TOTAL............................................................... 217.264.470 44.496.930 80.864.635 91.902.905
 
 **Artigo 4º** – No cumprimento do disposto no artigo 3º, serão observados, em cada exercício, os limites parciais das Despesas de Capital fixadas no Orçamento Plurianual de Investimentos.
 

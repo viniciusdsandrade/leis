@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/49035"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49035/49035_texto_integral.pdf"
 sha256_fonte: "d74165f8c8f16bb487b296215421c732ef55045bf5a4bf7f77df5187378b1529"
-sha256_texto: "7171d53897ae31a86cb3de1d2e30b756bfe350dac5ed6d0468a0a1b3d3f6dfdd"
+sha256_texto: "393cfa974c2300d546d6feaf11c672846cf48d9fa3f6ab2741f2d771adf00b20"
 baixado_em: "2026-10-30"
 ---
 
@@ -63,13 +63,13 @@ XIII - a utilização de produtos florestais madeireiros e não madeireiros orig
 
 **Art. 3º** Os critérios e as práticas de sustentabilidade adotados constarão como especificação técnica do objeto da compra ou licitação, obrigação da contratada ou requisito previsto em lei especial, de acordo com o disposto no inciso IV do  caput do art. 30 da Lei Federal nº 8.666, de 21 de junho de 1993.
 
-**Art. 4º** As exigências sustentáveis apresentadas no instrumento convocatório poderão ser comprovadas por meio de certificação emitida ou reconhecida por instituição pública oficial, por instituição credenciada ou por outro meio definido no
+**Art. 4º** As exigências sustentáveis apresentadas no instrumento convocatório poderão ser comprovadas por meio de certificação emitida ou reconhecida por instituição pública oficial, por instituição credenciada ou por outro meio definido no instrumento convocatório.
 
 **§ 1º** O instrumento convocatório deve admitir a apresentação de certificações análogas àquelas solicitadas, desde que atestem o cumprimento do mesmo nível de exigência requerido.
 
 **§ 2º** O instrumento convocatório deve estabelecer que, após a seleção da proposta e antes da adjudicação do objeto, a Câmara Municipal de Campinas poderá realizar
 
-diligências para verificar a adequação do bem ou serviço às exigências do
+diligências para verificar a adequação do bem ou serviço às exigências do instrumento convocatório.
 
 **§ 3º** Caso o bem ou serviço seja considerado inadequado em relação às exigências do instrumento convocatório, a Câmara Municipal de Campinas deve apresentar as razões técnicas, assegurado o direito ao contraditório para o licitante interessado.
 

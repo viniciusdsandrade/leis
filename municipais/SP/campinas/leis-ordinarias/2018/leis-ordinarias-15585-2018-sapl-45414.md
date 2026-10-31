@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/45414"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2018/45414/45414_texto_integral.pdf"
 sha256_fonte: "a5255bcb58d5df841e601bf30d5c79674ecf0fc87ffec82146c5c0b014284ed5"
-sha256_texto: "e7d9590361bb88579c3a26c30bcc7e2f86b14dec354e24fa79b4e7dc78f8bd8b"
+sha256_texto: "497504462fd135f5d73d8e6d6b3f1346d0d90a61c42343d85551e751dd0d12cc"
 baixado_em: "2026-10-21"
 ---
 
@@ -29,7 +29,7 @@ I - Rua Alcebiades Antonio Coutinho: Rua 01, com início na Rua 05 e término na
 
 II - Rua Domingos Lima Dias: Rua 02, com início na Rua 05 e término na Rua Celso Delle Donne (pertencente ao Distrito Industrial);
 
-III - Rua Argemiro Defente Moraes: Rua 03, com início na Rua 05 e término na Rua
+III - Rua Argemiro Defente Moraes: Rua 03, com início na Rua 05 e término na Rua Celso Delle Donne (pertencente ao Distrito Industrial);
 
 IV - Rua José Benicio Sampaio da Silva: Rua 05, com início na Rua Wallace Barnes e término na Rua Celso Delle Donne (ambas pertencentes ao Distrito Industrial);
 
@@ -47,7 +47,7 @@ X - Rua Mauricio Costa do Nascimento: Rua 40, com início e término na Rua 38;
 
 XI - Rua José Carlos da Silva Freitas: Rua 41, com início na Rua Martinica (Rua 16) e término na Rua Canárias (Rua 08);
 
-XII - Rua Alvino Muniz Novaes: Rua 42, com início na Área Verde 4 e término na Rua
+XII - Rua Alvino Muniz Novaes: Rua 42, com início na Área Verde 4 e término na Rua Celso Delle Donne (pertencente ao Distrito Industrial);
 
 XIII - Rua Maria Sampaio de Oliveira: Rua 43, com início na Rua Bermudas (Rua 07) e término na Avenida Pastor João Prataviera (pertencente ao Parque Vista Alegre);
 

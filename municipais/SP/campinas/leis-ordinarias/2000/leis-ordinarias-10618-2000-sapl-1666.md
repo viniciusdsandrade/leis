@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR LUIS 
 fonte: "https://sapl.campinas.sp.leg.br/norma/1666"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2000/1666/1666_texto_integral.pdf"
 sha256_fonte: "40b324001addfe7bf24a341db57d1a5ea7b75bd51ecc6c5d7cc378c53677b612"
-sha256_texto: "8e1ddf7d521541488bd2fa653c6ff08173406fe6f1faf293adb1374fc65ab673"
+sha256_texto: "72d2fc1c730928c6c1353938bd1f7650083be539ac6fc56abf5c7009a3250ca3"
 baixado_em: "2026-10-22"
 ---
 
@@ -29,11 +29,23 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 I - TIPO HMH-1:
 
-2 - vias sem saída com balão de retorno ("cul de sac"): - extensão menor ou igual a 120,00
+1) as vias particulares de circulação terão as seguintes características:
 
-6 - balões de retorno com área interna não carroçável; - diâmetro mínimo da área interna igual a
+1 - vias de circulação de veículos e pedestres: - largura mínima do leito carroçável igual a 5,50m (cinco metros e cinqüenta centímetros), largura mínima de calçadas igual a 1,50m (um metro e cinqüenta centímetros), declividade máxima no leito carroçável igual a 12% (doze por cento). Nos trechos em curva o raio mínimo será igual a 6,00 (seis metros);
 
-7 - vias de circulação de pedestres, de acesso às unidades habitacionais: - largura mínima igual a
+2 - vias sem saída com balão de retorno ("cul de sac"): - extensão menor ou igual a 120,00 (cento e vinte metros) e diâmetro mínimo do leito carroçável do retorno igual a 13,50m (treze metros e cinqüenta centímetros);
+
+3 - para efeito do item 2 será considerada como extensão a medida entre o centro do balão de retorno e o eixo da via transversal mais próxima;
+
+4 - vias sem saída sem balão de retorno: - extensão menor ou igual a 50,00m (cinqüenta metros). Fica dispensada calçada na lateral de via interna que coincidir com a divisa do terreno e não servir de acesso à habitação;
+
+5 - para efeito do item 4, será considerada como extensão a medida entre o ponto da via interna mais afastado da transversal mais próxima e o eixo desta via transversal;
+
+6 - balões de retorno com área interna não carroçável; - diâmetro mínimo da área interna igual a 8,50m (oito metros cinqüenta centímetros) e largura mínima do leito carroçável igual a 5,50m (cinco metros e cinqüenta centímetros);
+
+7 - vias de circulação de pedestres, de acesso às unidades habitacionais: - largura mínima igual a 1,20m (um metro e vinte centímetros);
+
+8 - deverá ser garantido o acesso de veículos, com largura mínima igual a 4,00 (quatro metros),
 
 **Art. 2°** - Dá nova redação a alínea "a" e acrescenta inciso ao Item II do artigo 20 da Lei 6031 de 28 de dezembro de 1988, que passam a vigorar com a seguinte redação:
 
@@ -57,9 +69,23 @@ a) a área do lote ou gleba menor ou igual a 20.000,00m² (vinte mil metros quad
 
 II - ...................................................................
 
-2 - vias sem saída com balão de retorno ("cul de sac"): - extensão menor ou igual a 120,00m
+1) as vias particulares de circulação terão as seguintes características:
 
-6 - balões de retorno com área interna não carroçável: - diâmetro mínimo da área interna igual a 7 - vias de circulação de pedestres, de acesso às unidades habitacionais; - largura mínima igual a
+1 - vias de circulação de veículos e pedestres: - largura mínima do leito carroçável igual a 5,50m (cinco metros e cinqüenta centímetros), largura mínima de calçadas igual a 1,50m (um metro e cinqüenta centímetros), declividade máxima no leito carroçável igual a 12% (doze por cento). Nos trechos em curva o raio mínimo será igual a 6,00 (seis metros);
+
+2 - vias sem saída com balão de retorno ("cul de sac"): - extensão menor ou igual a 120,00m (cento e vinte metros) e diâmetro mínimo do leito carroçável do retorno igual a 13,50m (treze metros e cinqüenta centímetros);
+
+3 - para efeito do item 2 será considerada como extensão a medida entre o centro do balão de retorno e o eixo da via transversal mais próxima;
+
+4 - vias sem saída sem balão de retorno: - extensão menor ou igual a 50,00m (cinqüenta metros). Fica dispensada calçada na lateral de via interna que coincidir com a divisa do terreno e não servir de acesso à habitação;
+
+5 - para efeito do item 4, será considerada como extensão a medida entre o ponto da via interna mais afastado da transversal mais próxima e o eixo desta via transversal;
+
+6 - balões de retorno com área interna não carroçável: - diâmetro mínimo da área interna igual a 8,50m (oito metros cinqüenta centímetros) e largura mínima do leito carroçável igual a 5,50m (cinco metros e cinqüenta centímetros);
+
+7 - vias de circulação de pedestres, de acesso às unidades habitacionais; - largura mínima igual a 1,20m (um metro e vinte centímetros);
+
+8 - deverá ser garantido o acesso de veículos, com largura mínima igual a 4,00 (quatro metros),
 
 **Art. 4°** - Esta lei entra em vigor na data de sua publicação revogadas às disposições em contrário.
 

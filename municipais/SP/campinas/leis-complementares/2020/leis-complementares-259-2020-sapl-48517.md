@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/48517"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/48517/48517_texto_integral.pdf"
 sha256_fonte: "18cd5880f16051f7636f212abfd3e30f5c3e85d783fff1766301f429e5f1b9d7"
-sha256_texto: "ab2c86ddbd0b0532759a3ae634d21e49c97bd2448844231f1f69986986131dc2"
+sha256_texto: "1f332bb627a33bdf96d76c7fe8db22786d79dcf9621e6a66a103bfaa1a24accb"
 baixado_em: "2026-10-21"
 ---
 
@@ -29,7 +29,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **§ 2º** O custeio do abono trezeno referente a aposentadoria e pensão por morte continuará sendo de responsabilidade do Instituto de Previdência Social do Município de Campinas - CAMPREV.
 
-**Art. 2º** Fica alterado o art. 138 da Lei Complementar nº 10, de 2004, que passa a
+**Art. 2º** Fica alterado o art. 138 da Lei Complementar nº 10, de 2004, que passa a vigorar com a seguinte redação:
 
 “Art. 138. A alíquota de contribuição ordinária dos servidores ativos para o custeio do Regime Próprio de Previdência Social do Município de Campinas corresponderá a 14% (quatorze por cento), atendendo ao disposto no § 4º do art. 9º e no caput do art. 11 da Emenda Constitucional nº 103, de 12 de novembro de 2019, e incidirá sobre a remuneração de contribuição de que
 
@@ -41,7 +41,7 @@ Lei Complementar, em atendimento aos dispositivos da Emenda Constitucional nº 1
 
 **§ 2º** A avaliação financeira e atuarial do Regime Próprio de Previdência Social - RPPS deverá ser realizada por profissional habilitado, regularmente inscrito na entidade de classe, ser elaborada conforme normas gerais de atuária e a legislação pertinente, e ser encaminhada à Secretaria Nacional de Previdência - SPREV no prazo previsto na legislação federal pertinente.” (NR)
 
-**Art. 3º** Fica alterado o art. 140 da Lei Complementar nº 10, de 2004, que passa a
+**Art. 3º** Fica alterado o art. 140 da Lei Complementar nº 10, de 2004, que passa a vigorar com a seguinte redação:
 
 “Art. 140. Incidirá contribuição sobre os proventos de aposentadorias e pensões concedidas pelo Instituto de Previdência Social do Município de Campinas - CAMPREV, com percentual igual ao estabelecido para os servidores titulares em atividade, sobre os proventos de aposentadorias e pensões que superem o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social.
 
@@ -51,7 +51,7 @@ Lei Complementar, em atendimento aos dispositivos da Emenda Constitucional nº 1
 
 lei complementar de iniciativa do Poder Executivo, com o objetivo de adequá-las aos parâmetros que assegurem o equilíbrio financeiro e atuarial do Regime Próprio de Previdência Social do Município de Campinas.” (NR)
 
-**Art. 4º** Fica alterado o art. 141 da Lei Complementar nº 10, de 2004, que passa a
+**Art. 4º** Fica alterado o art. 141 da Lei Complementar nº 10, de 2004, que passa a vigorar com a seguinte redação:
 
 “Art. 141. A alíquota de contribuição ordinária dos órgãos e entidades da Administração Pública municipal do Poder Executivo e do Poder Legislativo do Município de Campinas corresponderá a 28% (vinte e oito por cento) da totalidade das parcelas de remuneração de contribuição dos servidores ativos.
 

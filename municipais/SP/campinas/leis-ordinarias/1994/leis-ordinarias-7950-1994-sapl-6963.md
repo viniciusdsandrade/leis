@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/6963"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1994/6963/6963_texto_integral.pdf"
 sha256_fonte: "b16a0a4240d3a3859df33741b23983b5ab020197046850d0126d0d88d53aed47"
-sha256_texto: "3f6c61836bd8b642cc7186cb39f635f079684fd284b7dc247930bf74ab1fd1db"
+sha256_texto: "7c3790e198d4dc32fcea367e4989aab200a48f82c3f7c627fcd11fc3adf93b0c"
 baixado_em: "2026-10-30"
 ---
 
@@ -23,7 +23,7 @@ ALTERA DISPOSITIVOS DA LEI Nº 6.064, DE 21 DE JUNHO DE 1989, QUE ALTERA E REVOG
 
 A Câmara Municipal aprovou, e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Artigo 1º** - O artigo 5º da lei nº 6.064, de 21 de Junho de 1989, passa a ter a seguinte
+**Artigo 1º** - O artigo 5º da lei nº 6.064, de 21 de Junho de 1989, passa a ter a seguinte redação:
 
 “Artigo 5º - Para aquisição de partes da passagem de pedestres os preços mínimos serão os constantes do protocolado nº 30.891, de 4 de novembro de 1980, em nome de Ricardo Fortunato Zeganin, os quais deverão ser atualizados até o dia anterior ao da publicação do edital e terão, nessa data, seus preços convertidos em quantidades correspondentes de UFMCs.”
 
@@ -45,7 +45,7 @@ A Câmara Municipal aprovou, e eu, Prefeito do Município de Campinas, sanciono 
 
 # 5º - Após a outorga da escritura. ocorrendo atraso no pagamento de prestação, o Executivo, ao invés de exigir o cumprimento do pacto comissório, poderá optar pelo recebimento da parcela, hipótese em que os Juros. sempre na base de 1% ao mês, serão computados até a data da efetiva satisfação da parcela, acrescida esta da multa de 20%.
 
-**Artigo 3º** - O artigo 7º da Lei nº 6.064, de 21 de junho de 1989, passa a ter a seguinte
+**Artigo 3º** - O artigo 7º da Lei nº 6.064, de 21 de junho de 1989, passa a ter a seguinte redação:
 
 “Artigo 7º - Na hipótese de as escrituras não serem outorgadas por culpa dos interessados, nos prazos determinados nos parágrafos 1º e 2º do artigo 6º, o Executivo poderá determinar a reavaliação dos imóveis, para adequação de seus preços i5 eventuais alterações de valor do mercado imobiliário.”
 

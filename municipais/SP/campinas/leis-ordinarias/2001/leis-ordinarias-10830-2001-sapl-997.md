@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/997"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2001/997/997_texto_integral.pdf"
 sha256_fonte: "41f0e7636bc495191bec19a18d5ad5030b00e2681d6ab005a4407b9b94d2add0"
-sha256_texto: "b6dce9d89199eeddea58da9788a551040dbd823d77a1a58d359707c6ab5c1ff4"
+sha256_texto: "f10136ac6f0b730dd731f005fb0bc5b4eb4b907dbcf8f222d4647f93882b37d8"
 baixado_em: "2026-10-22"
 ---
 
@@ -27,21 +27,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 " Art. 1º - Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais, as áreas de terreno abaixo\_descritas:
 
-I - parte da passagem de pedestres, localizada na quadra B, quarteirão 7.646 do Cadastro Municipal, do loteamento Parque Jambeiro, com 100,00m² de área e as seguintes medidas: 4,00m de frente pelo alinhamento da Rua Maestro Reverendo Eliseu Narciso; 25,00m lateralmente à direita, onde confronta com o lote 30 do mesmo quarteirão; 4,00m aos fundos, onde
+I - parte da passagem de pedestres, localizada na quadra B, quarteirão 7.646 do Cadastro Municipal, do loteamento Parque Jambeiro, com 100,00m² de área e as seguintes medidas: 4,00m de frente pelo alinhamento da Rua Maestro Reverendo Eliseu Narciso; 25,00m lateralmente à direita, onde confronta com o lote 30 do mesmo quarteirão; 4,00m aos fundos, onde confronta com o remanescente da passagem; 25,00m lateralmente à esquerda, onde confronta com o lote 29 do mesmo quarteirão;
 
-esquerda, onde confronta com o lote 29 do mesmo quarteirão;
+II - parte da passagem de pedestres, localizada na quadra B do quarteirão 7.646 do Cadastro Municipal, do loteamento Parque Jambeiro, com 50,00m² de área e as seguintes medidas: 2,00m de frente pelo alinhamento da Rua Seminarista Luiz Antonio da Silva; 25,00m lateralmente à direita, onde confronta com o remanescente da passagem; 2,00m aos fundos, onde confronta com o remanescente da passagem; 25,00m lateralmente à esquerda, onde confronta com o lote 11 do mesmo quarteirão;
 
-II - parte da passagem de pedestres, localizada na quadra B do quarteirão
-
-confronta com o remanescente da passagem; 2,00m aos fundos, onde
-
-esquerda, onde confronta com o lote 11 do mesmo quarteirão;
-
-III - parte da passagem de pedestres, localizada na quadra B do quarteirão
-
-confronta com o lote 12 do mesmo quarteirão; 2,00m aos fundos, onde
-
-esquerda, onde confronta com o remanescente da passagem."(NR)
+III - parte da passagem de pedestres, localizada na quadra B do quarteirão 7.646 do Cadastro Municipal, do loteamento Parque Jambeiro, com 50,00m² de área e as seguintes medidas: 2,00m de frente pelo alinhamento da Rua Seminarista Luiz Antonio da Silva; 25,00m lateralmente à direita, onde confronta com o lote 12 do mesmo quarteirão; 2,00m aos fundos, onde confronta com o remanescente da passagem; 25,00m lateralmente à esquerda, onde confronta com o remanescente da passagem."(NR)
 
 **Art. 2º** Esta lei entra em vigor na data de sua publicação.
 

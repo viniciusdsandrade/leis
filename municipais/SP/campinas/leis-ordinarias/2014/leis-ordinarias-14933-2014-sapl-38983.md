@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; REPUBLICADA NO DOM EM 1
 fonte: "https://sapl.campinas.sp.leg.br/norma/38983"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2014/38983/38983_texto_integral.pdf"
 sha256_fonte: "b1e6142717d6725e56e97dc9f694f9900c75665bd39868449b798e7ee5a87799"
-sha256_texto: "00dcf08001b76e328d3fa9b971569e7ec14d3f7bfaeccfa3c1060b97e08bc6ac"
+sha256_texto: "fcf34bb6dbd27784d88920f81a834ac36aa07649e5f6639f289413322d3c7318"
 baixado_em: "2026-10-21"
 ---
 
@@ -25,7 +25,13 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Art. 1º** - Fica denominada PRAÇA LAURA BIERREMBACH DE CASTRO VASCONCELLOS a praça 06, com área de 1.958,00m² (Qt. 16,882; Código Cartográfico 3412.4138.0001), pertencente ao loteamento JARDIM CHAPADÃO – CONTINUAÇÃO (2ª Gleba), localizada entre a Avenida João Erbolato, Rua Paschoal Nucci, Rua Presidente João Goulart e Avenida Getúlio Vargas.
 
-**Art. 2º** - Esta Lei entra em vigor na data de sua publicação, revogadas as
+**Art. 2º** - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Campinas, 04 de dezembro de 2014.
+
+JONAS DONIZETTE Prefeito Municipal
+
+AUTORIA: CMC - Ver. Luiz Cirilo PROTOCOLADO: 14/08/2575
 
 REPUBLICADO NO DIÁRIO OFICIAL DO MUNICÍPIO EM 12/01/2015:
 
@@ -39,5 +45,9 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Art. 1º** - Fica denominada PRAÇA LAURA BIERRENBACH DE CASTRO VASCONCELLOS a praça 06, com área de 1.958,00m² (Qt. 16,882; Código Cartográfico 3412.4138.0001), pertencente ao loteamento JARDIM CHAPADÃO – CONTINUAÇÃO (2ª Gleba), localizada entre a Avenida João Erbolato, Rua Paschoal Nucci, Rua Presidente João Goulart e Avenida Getúlio Vargas.
 
-**Art. 2º** - Esta Lei entra em vigor na data de sua publicação, revogadas as
+**Art. 2º** - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 04 de dezembro de 2014.
+
+JONAS DONIZETTE Prefeito Municipal
+
+AUTORIA: CMC - Ver. Luiz Cirilo PROTOCOLADO: 14/08/2575
 

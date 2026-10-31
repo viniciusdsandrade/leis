@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR ROMEU
 fonte: "https://sapl.campinas.sp.leg.br/norma/6043"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1996/6043/6043_texto_integral.pdf"
 sha256_fonte: "6c3beb0f73317f58bdae85193f996856af60343eddac80f3e910db025e906da6"
-sha256_texto: "ef6e4f3ca6f0a4902b3d66d6ac70bcd3d856c7bb2af73ce33c4625f574dfcce1"
+sha256_texto: "9805e42a8fe86cd50b1b013368394d53dee022cf5f03c0d0080bf44b6238321d"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,7 +29,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 3º** - A Prefeitura Municipal nomeará uma Comissão para a promoção dos eventos, a ser presidida pelo Secretário Municipal de Cultura, tendo a participação, em sua composição, de pelo menos um representante indicado pela Câmara Municipal.
 
-Parágrafo Único - A Comissão promotora dos eventos será nomeada pelo Prefeito, no mínimo, 180 (cento e oitenta) dias antes da data do início oficial da
+Parágrafo Único - A Comissão promotora dos eventos será nomeada pelo Prefeito, no mínimo, 180 (cento e oitenta) dias antes da data do início oficial da “Semana”.
 
 **Artigo 4º** - Compete ao presidente da Comissão convocar e presidir as reuniões da Comissão, bem como tomar as providências necessárias para a condução dos trabalhos e os pagamentos das despesas decorrentes.
 
@@ -37,7 +37,7 @@ Parágrafo Único - A Comissão promotora dos eventos será nomeada pelo Prefeit
 
 **§ 1º** - VETADO
 
-**§ 2º** - As premiações deverão ocorrer, preferencialmente, nos dias finais da
+**§ 2º** - As premiações deverão ocorrer, preferencialmente, nos dias finais da “Semana”.
 
 **Artigo 6º** - Todos os eventos promovidos pela municipalidade serão franqueados ao público, devendo ser realizado, nos casos de apresentações alusivas às festividades, patrocinadas pela iniciativa privada e com o apoio do Município, pelo menos uma exibição gratuita, com livre acesso aos munícipes.
 

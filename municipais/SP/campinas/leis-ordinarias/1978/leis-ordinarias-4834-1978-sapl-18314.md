@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/18314"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1978/18314/18314_texto_integral.pdf"
 sha256_fonte: "9e76747e6e100786b8342b416701c2e482434b26c5875dfdfd7f3fd4381ee625"
-sha256_texto: "0ab4ef06b424c22cd3f0ddba14a9ad9a077a5b300ad6e7a3865b0e8d59f8c627"
+sha256_texto: "de280660400599994f9bd5e7efcf75054a822ab079cce2d9d04ca93b78a1f55b"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,21 +25,13 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** - Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais as faixas de terreno abaixo descritas, de propriedade da Prefeitura Municipal de Campinas, a saber:
 
-I – Parte de passagem para pedestres, localizada na quadra 30, do Jardim Nossa
+I – Parte de passagem para pedestres, localizada na quadra 30, do Jardim Nossa Senhora Auxiliadora, quarteirão 2785 do Cadastro Municipal, com 90,00m² de área, medindo: 3,00m de frente, pelo alinhamento da Rua Dimas de Toledo Pizza; 3,00m nos fundos, onde confronta com outra parte da passagem; 30,00m lateralmente à direita, onde confronta com o prédio nº 717 da rua citada (lote 10) e 30,00m lateralmente à esquerda, onde confronta também com outra parte da passagem.
 
-área, medindo: 3,00m de frente, pelo alinhamento da Rua Dimas de Toledo Pizza;
-
-lateralmente à direita, onde confronta com o prédio nº 717 da rua citada (lote 10) e 30,00m lateralmente à esquerda, onde confronta também com outra parte da passagem.
-
-II – Parte de passagem para pedestres, localizada na quadra 30, do Jardim Nossa
-
-área, medindo: 3,00m de frente, pelo alinhamento da Rua Dimas de Toledo Pizza;
+II – Parte de passagem para pedestres, localizada na quadra 30, do Jardim Nossa Senhora Auxiliadora, quarteirão 2785 do Cadastro Municipal, com 90,00m² de área, medindo: 3,00m de frente, pelo alinhamento da Rua Dimas de Toledo Pizza;
 
 lateralmente à direita, onde confronta também com outra parte da passagem. e 30,00m lateralmente à esquerda, onde confronta com o lote 11, da quadra já citada.
 
-III – Parte de passagem para pedestres, localizada na quadra 30, do Jardim Nossa
-
-área, medindo: 3,00m de frente, pelo alinhamento da Avenida Machado de Assis;
+III – Parte de passagem para pedestres, localizada na quadra 30, do Jardim Nossa Senhora Auxiliadora, quarteirão 2785 do Cadastro Municipal, com 90,00m² de área, medindo: 3,00m de frente, pelo alinhamento da Avenida Machado de Assis;
 
 lateralmente à direita, onde confronta também com outra parte da passagem, e 30,00m lateralmente à esquerda, onde divisa com o prédio nº 205 da avenida mencionada (lote 30).
 

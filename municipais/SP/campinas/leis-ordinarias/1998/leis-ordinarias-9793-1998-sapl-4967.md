@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/4967"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1998/4967/4967_texto_integral.pdf"
 sha256_fonte: "24ac65b7be0b10f03e84dc2f747021c54a5e327182ffbaa47071e08e530243ce"
-sha256_texto: "0f1fe037da3fb08abb9b09428aab559ea90203bbdfcd1349f276638ee7a0ae3a"
+sha256_texto: "c4fa769f7468e00d9c6b9797aa1e891c4ffac00bfbfcb88eaff3e17fdfd3acca"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,9 +25,9 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** - Os débitos tributários e taxas de serviços urbanos, inscritos ou não em Dívida Ativa, constituídos até 31 de dezembro de 1997 e devidamente atualizados monetariamente, poderão ser pagos à vista com os seguintes benefícios:
 
-I - 100% (cem por cento) de desconto na multa e 100% (cem por cento) de desconto nos juros devidos desde que o pagamento seja efetuado de 03 a 31 de
+I - 100% (cem por cento) de desconto na multa e 100% (cem por cento) de desconto nos juros devidos desde que o pagamento seja efetuado de 03 a 31 de agosto de 1998;
 
-II - 80% (oitenta por cento) de desconto na multa e 80% (oitenta por cento) de desconto nos juros devidos desde que o pagamento seja efetuado de 1º a 30 de
+II - 80% (oitenta por cento) de desconto na multa e 80% (oitenta por cento) de desconto nos juros devidos desde que o pagamento seja efetuado de 1º a 30 de setembro de 1998;
 
 III - 50% (cinqüenta por cento) de desconto na multa e 50% (cinqüenta por cento) de desconto nos juros devidos desde que o pagamento seja efetuado de 1º a 30 de outubro de 1998.
 
@@ -35,17 +35,17 @@ III - 50% (cinqüenta por cento) de desconto na multa e 50% (cinqüenta por cent
 
 **Artigo 2o** - Os débitos não tributários, inscritos na Divida Ativa, constituídos até 31 de maio de 1998 e devidamente atualizados monetariamente, poderão ser pagos à vista, com os seguintes benefícios:
 
-I - 20% (vinte por cento) de desconto para pagamentos efetuados de 03 a 31 de
+I - 20% (vinte por cento) de desconto para pagamentos efetuados de 03 a 31 de agosto de 1998;
 
-II - 15% (quinze por cento) de desconto para pagamentos efetuados de 1º a 30 de
+II - 15% (quinze por cento) de desconto para pagamentos efetuados de 1º a 30 de setembro de 1998;
 
 III -10% (dez por cento) de desconto para pagamentos efetuados de 1º a 30 de outubro de 1998.
 
 **Artigo 3º** - Os saldos devedores de acordos em curso ou não cumpridos, devidamente formalizados poderão ser pagos à vista com os seguintes benefícios.
 
-I - 15% (quinze por cento) de desconto para pagamentos efetuados de 03 a 31 de
+I - 15% (quinze por cento) de desconto para pagamentos efetuados de 03 a 31 de agosto de 1998;
 
-II - 10% (dez por cento) de desconto para pagamentos efetuados de 1º a 30 de
+II - 10% (dez por cento) de desconto para pagamentos efetuados de 1º a 30 de setembro de 1998;
 
 III - 5% (cinco por cento) de desconto para pagamentos efetuados de 1º a 30 de outubro de 1998.
 

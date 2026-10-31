@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/22658"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2008/22658/22658_texto_integral.pdf"
 sha256_fonte: "a692fac5c73d7e7da601dafa261717a1175d30e618d9552110744c11039e78d6"
-sha256_texto: "b25e6cd37b941ac46795067873bcedd28aa02e3459d3d44a212efc370360b47c"
+sha256_texto: "1252cc252902b36e8bb1ffc07afb91582fac5a64668c57db93fdddfbdb6ace4c"
 baixado_em: "2026-10-22"
 ---
 
@@ -35,9 +35,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas sanciono e 
 
 **§ 2º** - As despesas decorrentes do prêmio produtividade serão cobertas com recursos provenientes do Sistema Único de Saúde – SUS.” (NR)
 
-**Art. 4º** - Fica alterado o quantitativo de cargos do Anexo I - Quadro Geral, da Lei nº 12.985, de 28 de junho de 2007, previsto para o cargo de Técnico em Contabilidade, que passa a
-
-DENOMINAÇÃO DO CARGO QTD. EXIGÊNCIA GRUPO TÉCNICO EM CONTABILIDADE 38 ENSINO MÉDIO + F EDUCAÇÃO COTABILIDADE+REGISTRO PROFISSIONAL PROFISSIONAL
+**Art. 4º** - Fica alterado o quantitativo de cargos do Anexo I - Quadro Geral, da Lei nº 12.985, de 28 de junho de 2007, previsto para o cargo de Técnico em Contabilidade, que passa a vigorar com a seguinte redação: DENOMINAÇÃO DO CARGO QTD. EXIGÊNCIA GRUPO TÉCNICO EM CONTABILIDADE 38 ENSINO MÉDIO + F EDUCAÇÃO COTABILIDADE+REGISTRO PROFISSIONAL PROFISSIONAL
 
 **Art. 5º** - Ficam alteradas as atribuições previstas para os cargos de Agente de Ação Social e Condutor de Veículos e Máquinas, previstos no Anexo II-A, da Lei nº 12.985, de 28 de junho de 2007, que passam a vigorar com a seguinte redação: DENOMINAÇÃO DO CARGO ATRIBUIÇÕES AGENTE DE AÇÃO SOCIAL PLANEJAR, EXECUTAR E MONITORAR ATIVIDADES RELACIONADAS AOS PROCESSOS E PROCEDIMENTOS DE ATENDIMENTO À POPULAÇÃO OBJETO DAS POLÍTICAS SOCIAIS, EM EQUIPAMENTOS SOCIAIS DE ACORDO COM OS REGULAMENTOS EM VIGOR.
 
@@ -51,9 +49,7 @@ SITUAÇÃO ATUAL
 
 SITUAÇÃO ANTERIOR SITUAÇÃO CARGO ESPECIALIDADE GRUPO NOVA MONITOR INFANTO- AGENTE MONITOR DE MONITOR INFANTO- D JUVENIL I PÚBLICO ED. INFANTIL JUVENIL I MUNICIPAL MONITOR CURSO AGENTE INSTRUTOR DE MONITOR DE CURSO B SEMIPROFISSIONALIZANTE PÚBLICO CURSOS SEMIPROFISSIONALIZANTE MUNICIPAL LIVRES TÉCNICO DE PATOLOGIA AGENTE TÉCNICO DE TÉCNICO DE PATOLOGIA F CLÍNICA PÚBLICO LABORATÓRIO CLÍNICA MUNICIPAL
 
-**Art. 7º** - Fica alterado o § 1º do artigo 31 da Lei 12.987, de 28 de junho de 2007, que passa a
-
-“Art. 31. ......................................
+**Art. 7º** - Fica alterado o § 1º do artigo 31 da Lei 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: “Art. 31. ......................................
 
 **§1º** - Os servidores habilitados à Progressão Horizontal serão classificados em lista para a seleção daqueles que vão progredir, considerando as notas obtidas na Avaliação de Desempenho.” (NR)
 
@@ -83,9 +79,7 @@ ANEXO X PROFESSOR SUBSTITUTO REINTEGRADO JUDICIALMENTE E ESTÁVEL POR FORÇA DE 
 
 **Parágrafo único** - O professor substituto mencionado no caput deste artigo terá a evolução funcional nos termos do capítulo VI da Lei nº 12.987, de 28 de junho de 2.007.
 
-**Art. 12** - Fica alterado o art. 7º da Lei nº 12.988, de 28 de junho de 2007, que passa a
-
-“Art. 7º - Os titulares de cargo de Diretor Educacional que estiverem em jornada de até 32 (trinta e duas) horas semanais, poderão mantê-la, excepcionalmente, enquanto perdurar a acumulação com cargo docente da Secretaria Municipal de Educação.”(NR)
+**Art. 12** - Fica alterado o art. 7º da Lei nº 12.988, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: “Art. 7º - Os titulares de cargo de Diretor Educacional que estiverem em jornada de até 32 (trinta e duas) horas semanais, poderão mantê-la, excepcionalmente, enquanto perdurar a acumulação com cargo docente da Secretaria Municipal de Educação.”(NR)
 
 **Art. 13** - Fica acrescido o art. 7ºA a Lei nº 12.988, de 28 de junho de 2007, que passa vigorar com a seguinte redação: “Art.7ºA - O Presidente da FUMEC definirá unidades em que a jornada do Agente de Apoio Operacional será de 20(vinte) horas semanais, com vencimentos proporcionais.”(AC)
 

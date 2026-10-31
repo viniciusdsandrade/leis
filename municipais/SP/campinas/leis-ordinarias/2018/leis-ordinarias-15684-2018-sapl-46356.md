@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/46356"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2018/46356/46356_texto_integral.pdf"
 sha256_fonte: "3e2654e1d550ab4f059dbf05cd1a9fd2da11fcb91ed55b311f1825e96405f011"
-sha256_texto: "d0ee4251f229f40b006c033acaaa4211de63467f744edab49206192b8e9cec1f"
+sha256_texto: "17ff1577e7ba51c0dbf19c627f1f1dfe50fff0ee1f9357d6249e6ff6873fc893"
 baixado_em: "2026-10-21"
 ---
 
@@ -25,21 +25,25 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **Art. 1º** Ficam estabelecidas as seguintes denominações para as vias públicas descritas, localizadas no loteamento Núcleo Residencial Jardim São Judas Tadeu, localizado no interior do loteamento Cidade Satélite Íris, em conformidade com o Decreto nº 17.454, de 6 de dezembro de 2011, que regulamenta a Lei nº 12.650, de 5 de outubro de 2006:
 
-I - Rua Nenê do Cavaco: Rua 01, com início na Avenida Antonio Carlos do Amaral e
+I - Rua Nenê do Cavaco: Rua 01, com início na Avenida Antonio Carlos do Amaral e término na Rua Romeu Marinelli, ambas localizadas no loteamento Cidade Satélite Íris;
 
-II - Rua Celso Mendes: Rua 02, com início na Avenida Antonio Carlos do Amaral e
+II - Rua Celso Mendes: Rua 02, com início na Avenida Antonio Carlos do Amaral e término na Rua Romeu Marinelli, ambas localizadas no loteamento Cidade Satélite Íris;
 
-III - Rua José Rastelli: Rua 03, com início na Avenida Antonio Carlos do Amaral e
+III - Rua José Rastelli: Rua 03, com início na Avenida Antonio Carlos do Amaral e término na Rua Romeu Marinelli, ambas localizadas no loteamento Cidade Satélite Íris;
 
-IV - Rua Eustáquio Gomes: Rua 04, com início na Avenida Antonio Carlos do Amaral e término na Rua Romeu Marinelli, ambas localizadas no loteamento Cidade Satélite
+IV - Rua Eustáquio Gomes: Rua 04, com início na Avenida Antonio Carlos do Amaral e término na Rua Romeu Marinelli, ambas localizadas no loteamento Cidade Satélite Íris;
 
-V - Rua Camilo Chagas: Rua 05, com início na Avenida Antonio Carlos do Amaral e
+V - Rua Camilo Chagas: Rua 05, com início na Avenida Antonio Carlos do Amaral e término na Rua Romeu Marinelli, ambas localizadas no loteamento Cidade Satélite Íris;
 
 VI - Rua Beto Carioca: Rua 06, com início na Avenida Antonio Carlos do Amaral e
 
+Íris;
+
 VII - Rua Lorde Edgar: Rua 07, com início na Avenida Antonio Carlos do Amaral e
 
-VIII - Rua Lucas da Rosa: Rua 08, com início na Rua Reverendo José Coelho Ferraz e
+Íris;
+
+VIII - Rua Lucas da Rosa: Rua 08, com início na Rua Reverendo José Coelho Ferraz e término na Rua Romeu Marinelli, ambas localizadas no loteamento Cidade Satélite Íris;
 
 IX - Rua João Alves Luz: Rua 09, com início na Rua Reverendo José Coelho Ferraz, localizada no loteamento Cidade Satélite Íris, e término no balão do retorno.
 

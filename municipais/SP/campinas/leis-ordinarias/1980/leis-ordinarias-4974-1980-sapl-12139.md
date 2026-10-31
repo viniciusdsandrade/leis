@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12139"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1980/12139/12139_texto_integral.pdf"
 sha256_fonte: "6dae7639bab98ddcadd89a8a45b19e68a40d0a8aa901382a79491a388895e023"
-sha256_texto: "02945d2e587f1c23bf5f63d82b39d4eca4a4b7964216ed64bcda49e303e2e81a"
+sha256_texto: "2f4db66ea7243b0487f967e872c75f4c8be65a3d99621ed39fef33abbe91a256"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,9 +25,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** ­ Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais as faixas de terreno abaixo descritas, de propriedade da Prefeitura Municipal de Campinas, a saber:
 
-I – “Parte da viela para passagem de pedestres, localizada na quadra 65 do
-
-seguintes medidas: 3,00m de frente pelo alinhamento da Rua Flávio de Carvalho; 25,00m lateralmente à direita, onde confronta com o remanescente da viela; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente a esquerda, onde confronta com o lote 29 da Quadra 65 do loteamento Jardim Eulina, avaliada em Cr$ 18.750,00 (dezoito mil, setecentos e cinqüenta cruzeiros)”.
+I – “Parte da viela para passagem de pedestres, localizada na quadra 65 do Jardim Eulina, quarteirão 6048 do Cadastro Municipal, com área de 75,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Flávio de Carvalho; 25,00m lateralmente à direita, onde confronta com o remanescente da viela; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente a esquerda, onde confronta com o lote 29 da Quadra 65 do loteamento Jardim Eulina, avaliada em Cr$ 18.750,00 (dezoito mil, setecentos e cinqüenta cruzeiros)”.
 
 II – “Parte da viela para passagem de pedestres, localizada na quadra 65 do
 
@@ -39,9 +37,7 @@ III – “Parte da viela para passagem de pedestres, localizada na quadra 65 do
 
 seguintes medidas: 3,00m de frente pelo alinhamento da Rua Engenheiro Gilberto Bueno Pain Pamplona; 25,00m lateralmente à direita, onde confronta com o remanescente da viela; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente a esquerda, onde confronta com o lote 11 da quadra 65 do loteamento Jardim Eulina, avaliada em Cr$ 18.750,00 (dezoito mil, setecentos e cinqüenta cruzeiros)”.
 
-IV – “Parte da viela para passagem de pedestres, localizada na quadra 65 do
-
-seguintes medidas: 3,00m de frente pelo alinhamento da Rua Engenheiro Gilberto Bueno Pain Pamplona; 25,00m lateralmente à direita, onde confronta com o lote 12 da quadra 65 do loteamento Jardim Eulina; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente a esquerda, onde confronta com o remanescente da viela, avaliada em Cr$ 18.750,00 (dezoito mil, setecentos e cinqüenta cruzeiros)”.
+IV – “Parte da viela para passagem de pedestres, localizada na quadra 65 do Jardim Eulina, quarteirão 6048 do Cadastro Municipal, com área de 75,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Engenheiro Gilberto Bueno Pain Pamplona; 25,00m lateralmente à direita, onde confronta com o lote 12 da quadra 65 do loteamento Jardim Eulina; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente a esquerda, onde confronta com o remanescente da viela, avaliada em Cr$ 18.750,00 (dezoito mil, setecentos e cinqüenta cruzeiros)”.
 
 **Artigo 2º** ­ Fica a Prefeitura Municipal autorizada a vender as faixas descritas no artigo anterior, independentemente de concorrência, aos lindeiros, William Bucco de Carvalho, Massami Tukada, Ademar Roberto Rigato e Luiz Zanetti Sobrinho ou seus sucessores, respectivamente únicos e legítimos interessados como proprietários dos imóveis contíguos a passagem de pedestres.
 

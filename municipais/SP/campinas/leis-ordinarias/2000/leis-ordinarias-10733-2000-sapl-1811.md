@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR ANTON
 fonte: "https://sapl.campinas.sp.leg.br/norma/1811"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2000/1811/1811_texto_integral.pdf"
 sha256_fonte: "a7070038c7a37d6ea5a7c7258fb23e81bf2f456b673cc544359edeb55790d12e"
-sha256_texto: "d109bfcce3cca401d48a490eb3050b53d98644bdfe9222a414fc7404140f23cf"
+sha256_texto: "543561a884c4405be7e0ec87460c41dba6ebd0020cb1820c1109b332a6c6d6bd"
 baixado_em: "2026-10-22"
 ---
 
@@ -45,13 +45,19 @@ XXIX - DESNÍVEL ACENTUADO DO TERRENO - é quando a relação percentual entre a
 
 **Art. 3º** - A alínea "e" do inciso I do artigo 22, da Lei nº 6.031/88, passa a ter a seguinte redação:
 
-"e) recuos maiores ou iguais a 5,00m (cinco metros) quando frontal e 2,00m (dois metros)
+"e) recuos maiores ou iguais a 5,00m (cinco metros) quando frontal e 2,00m (dois metros) quando lateral, com exceção do subsolo destinado à garagem, que poderá ocupar as faixas mínimas de recuos e afastamentos, desde que:
 
-impeça a ocupação ao longo do alinhamento e até profundidades determinadas."
+1- nas faixas correspondentes aos recuos mínimos, os níveis superiores da laje de cobertura do subsolo não se situem acima de 0,50m (cinqüenta centímetros) dos níveis medianos
+
+2 - não existam aberturas para insolação e ventilação nas faces voltadas para as vias públicas;
+
+3 - as vias públicas para a qual o terreno estiver voltado não sejam objeto de legislação que impeça a ocupação ao longo do alinhamento e até profundidades determinadas."
 
 **Art. 4º** - A alínea "e" do inciso II do artigo 22, da Lei 6.031/88, passa a ter a seguinte redação:
 
 "e) recuos maiores ou iguais a 6,00m (seis metros) quando frontal e 3,00m (três metros) quando lateral, com exceção do subsolo destinado a garagem e/ou ao uso comercial, de serviços e institucional, que poderão ocupar as faixas mínimas de recuos e afastamentos, desde que:
+
+1- nas faixas correspondentes aos recuos mínimos, os níveis superiores da laje de cobertura do subsolo não se situem acima de 0,50m (cinqüenta centímetros) dos níveis medianos
 
 2- ................................................
 
@@ -77,9 +83,13 @@ d) número máximo de pavimentos igual a 2 (dois), excetuando-se a sobreloja e 0
 
 2 - acréscimo de 01 (um) subsolo quando destinado a garagem vinculada ao uso da edificação;
 
-e) recuos maiores ou iguais a 5,00m (cinco metros), quando frontal e a 2,00m (dois metros)
+e) recuos maiores ou iguais a 5,00m (cinco metros), quando frontal e a 2,00m (dois metros) quando lateral, com exceção do subsolo destinado à garagem, que poderá ocupar as faixas mínimas de recuos e afastamentos, desde que:
 
-impeça a ocupação ao longo do alinhamento e até profundidades determinadas.
+1 - nas faixas correspondentes aos recuos mínimos, os níveis superiores da laje de cobertura do subsolo não se situem acima de 0,50m (cinqüenta centímetros), dos níveis medianos correspondentes do passeio público, junto aos respectivos alinhamentos;
+
+2 - não existam aberturas para insolação e ventilação nas faces voltadas para as vias públicas;
+
+3 - as vias públicas para a qual o terreno estiver voltado não sejam objeto de legislação que impeça a ocupação ao longo do alinhamento e até profundidades determinadas.
 
 f) .................................................
 
@@ -96,6 +106,8 @@ i) afastamentos maiores ou iguais a:
 **Art. 6º** - A alínea "e" do inciso II do artigo 23, da Lei 6.031/88, passa a ter a seguinte redação:
 
 "e) recuos maiores ou iguais a 6,00m (seis metros), quando frontal e 3,00m (três metros) quando lateral, com exceção do(s) subsolo(s) destinado(s) à garagem e/ou ao uso comercial, de serviços e institucional, que poderão ocupar as faixas mínimas de recuos e afastamentos, desde que:
+
+1 - nas faixas correspondentes aos recuos mínimos, os níveis superiores da laje de cobertura do subsolo não se situem acima de 0,50m (cinqüenta centímetros), dos níveis medianos correspondentes do passeio público, junto aos respectivos alinhamentos;
 
 2 - ..................................................
 

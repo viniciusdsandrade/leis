@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; ALTERADA PELA LEI 6199;
 fonte: "https://sapl.campinas.sp.leg.br/norma/24520"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1988/24520/24520_texto_integral.pdf"
 sha256_fonte: "10b6ae3202cae899134976902d07a9aa553279b4c9972a1386556669598b67f5"
-sha256_texto: "62a2cc458edbeaa84c1b451a08c04dffb8c7f78e18fc19e5d7dd11e6c34ef3fa"
+sha256_texto: "d940225491a1bbf569a312eea59c920d1162bdc5fc9bc11cfec1ecfeb683e979"
 baixado_em: "2026-10-30"
 ---
 
@@ -51,13 +51,13 @@ XII – Rua “ANDRÉ ANDRADE MACEDO”, a atual rua 4 do loteamento Parque Jati
 
 XIII – Rua “DR. SALVADOR AFFONSO PINHEIRO”, a atual rua 23 do Jardim Botânico, no Distrito de Sousas, com início na rua 18 e término na rua 24 do mesmo loteamento.
 
-XIV – Praça “JERONYMO PICCOLOTTO”, a atual praça 8 do loteamento Parque Nova Campinas, contornada pela Rodovia Heitor Penteado, alameda B e alameda C do mesmo
+XIV – Praça “JERONYMO PICCOLOTTO”, a atual praça 8 do loteamento Parque Nova Campinas, contornada pela Rodovia Heitor Penteado, alameda B e alameda C do mesmo loteamento.
 
 XV – Rua “JOÃO BATISTA DE SÁ”, (Jolumá Brito) a atual rua 2 do loteamento Jardim Shangai, com início na rua 12 e término na rua 5 do mesmo loteamento.
 
 XVI – Rua “AMÉRICO MANSONI”, a atual rua 16 do Jardim Santa Eudóxia, com início na Rua Ministro Costa Manso e término na Rua Cícero de Souza Morais.
 
-XVII – Praça “ANDRÉ MANUEL PRIETO JUAREZ”, a atual praça 2 do loteamento Parque Jatibaia, no Distrito de Sousas, formada pelo contorno da rua 3 e rua 2 do mesmo
+XVII – Praça “ANDRÉ MANUEL PRIETO JUAREZ”, a atual praça 2 do loteamento Parque Jatibaia, no Distrito de Sousas, formada pelo contorno da rua 3 e rua 2 do mesmo loteamento.
 
 XVIII – Rua “HERMÍNIO MANZINI”, a atual rua 40 do Conjunto Habitacional Parque Itajaí, com início na rua 51 e término na rua 60 do mesmo loteamento.
 
@@ -73,7 +73,7 @@ XXIII – Rua “ZILDO GOZZI”, a atual rua 11 do loteamento Real Parque, no Di
 
 XXIV – Rua “DIONÍSIO PIRES”, o caminho 15 do loteamento Chácaras Belvedère, no Distrito de Barão Geraldo, com início no caminho 16 e término no caminho 1 do mesmo
 
-XXV – Rua “AGUINALDO DOS SANTOS FILHO”, a atual rua 3 do loteamento Real Parque, no Distrito de Barão Geraldo, com início na rua 6 e término na rua 5 do mesmo
+XXV – Rua “AGUINALDO DOS SANTOS FILHO”, a atual rua 3 do loteamento Real Parque, no Distrito de Barão Geraldo, com início na rua 6 e término na rua 5 do mesmo loteamento.
 
 XXVI – Rua “DR. ROMEU MASSELI LE PETIT, a atual rua 29 do Jardim Botânico, no Distrito de Sousas, com início e término na rua 24 do mesmo loteamento.
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR TADEU
 fonte: "https://sapl.campinas.sp.leg.br/norma/381"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2002/381/381_texto_integral.pdf"
 sha256_fonte: "a2113783a85aa5615ba83437db1c60084e49992695c45232be4714c875311988"
-sha256_texto: "dc54f0ef1526abcae7975705e4b04cf38548d7ce220262a69959e6136ab7b4f9"
+sha256_texto: "73ba7594b11a964f572ea8b14294eac8592f17818790da15b1bbc01454ff303f"
 baixado_em: "2026-10-22"
 ---
 
@@ -35,9 +35,7 @@ A Câmara Municipal aprovou e eu, Prefeita do Município de Campinas, sanciono e
 
 **Art. 4º** - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 27 de maio de 2002
 
-IZALENE TIENE Prefeita Municipal
-
-Prot. 29.390/02
+IZALENE TIENE Prefeita Municipal Autoria: Vereador Tadeu Marcos Prot. 29.390/02
 
 Publicado no Diário Oficial do Município de Campinas em 28/06/2002
 
@@ -58,6 +56,8 @@ A Câmara Municipal aprovou e eu, seu Presidente, Romeu Santini, promulgo, nos t
 Campinas, 27 de junho de 2002
 
 ROMEU SANTINI Presidente
+
+Autoria: Vereador Tadeu Marcos
 
 PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 27 DE JUNHO DE 2002.
 

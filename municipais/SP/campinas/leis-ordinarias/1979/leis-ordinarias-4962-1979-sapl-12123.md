@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12123"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1979/12123/12123_texto_integral.pdf"
 sha256_fonte: "2412cb099872b19d87f2d4e250db47bb3147c6f9fff440b2a4b98468dc3defd2"
-sha256_texto: "c9af92660cddcca5dc730217ea11d19b5bc13365b79fc00c247bd05f9c811623"
+sha256_texto: "ab2f275491fbde5f84072e4905125d0cf1c9e34685dc3944865229b068f678d2"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,13 +25,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** ­ Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais as faixas de terreno abaixo descritas, de propriedade da Prefeitura Municipal de Campinas, a saber:
 
-I – “Parte da viela para passagem de pedestres, localizada na quadra G do loteamento Jardim Flamboyant, Quarteirão nº 2589 do Cadastro Municipal, com área de 75,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Paulo de Faria; 25,00m lateralmente à direita, onde confronta com o lote 13 da Quadra G do loteamento Jardim Flamboyant; 3,00m aos fundos onde confronta
-
-com o lote 12 da Quadra G do loteamento Jardim Flamboyant, avaliada em Cr$
+I – “Parte da viela para passagem de pedestres, localizada na quadra G do loteamento Jardim Flamboyant, Quarteirão nº 2589 do Cadastro Municipal, com área de 75,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Paulo de Faria; 25,00m lateralmente à direita, onde confronta com o lote 13 da Quadra G do loteamento Jardim Flamboyant; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente a esquerda, onde confronta com o lote 12 da Quadra G do loteamento Jardim Flamboyant, avaliada em Cr$ 18.000,00 (dezoito mil cruzeiros)”.
 
 II – “Parte da viela para passagem de pedestres, localizada na quadra G do loteamento Jardim Flamboyant, Quarteirão nº 2589 do Cadastro Municipal, com área de 75,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Paraibuna; 25,00m lateralmente à direita, onde confronta com o lote 25 da Quadra G do loteamento Jardim Flamboyant; 3,00m aos fundos onde confronta
 
-com o lote 24 da Quadra G do loteamento Jardim Flamboyant, avaliada em Cr$
+com o remanescente da viela; 25,00m lateralmente a esquerda, onde confronta com o lote 24 da Quadra G do loteamento Jardim Flamboyant, avaliada em Cr$ 18.000,00 (dezoito mil cruzeiros)”.
 
 **Artigo 2º** ­ Fica a Prefeitura Municipal autorizada a vender as faixas descritas no artigo anterior, mediante concorrência limitada entre os proprietários lindeiros.
 

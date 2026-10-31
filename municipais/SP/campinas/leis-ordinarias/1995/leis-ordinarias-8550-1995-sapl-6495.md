@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR JONAS
 fonte: "https://sapl.campinas.sp.leg.br/norma/6495"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1995/6495/6495_texto_integral.pdf"
 sha256_fonte: "cb5c36a7411c0b4964c5f57be663ea3b7f88b662db70413d2c7d34b4c2efbc7c"
-sha256_texto: "54799bee77247b3aaec3fd7a5223c096024e94f0296bcc6a68552c5fef7a316d"
+sha256_texto: "1d52cde9cb96d4f34430d5a3373a4ed98b409427d893a1424931b6e1d27fce1f"
 baixado_em: "2026-10-30"
 ---
 
@@ -55,9 +55,7 @@ IV - passar por triagem da Secretaria Municipal de Assistência Social, Pessoa c
 
 **Art. 7º** As entidades privadas que já desenvolvem programas de amparo à pessoa idosa em situação de vulnerabilidade social e, para tanto, recebem verbas municipais ficam vinculadas ao Promapivs. (nova redação de acordo com a Lei nº 16.374, de 24/04/2023)
 
-**Art. 8º** As despesas com este Programa deverão ser alocadas em verbas
-
-Adolescente e Ação Social a partir do exercício de 1996. (veto derrubado pela Câmara Municipal)
+**Art. 8º** As despesas com este Programa deverão ser alocadas em verbas orçamentárias destinadas à Secretaria Municipal da Família, Criança, Adolescente e Ação Social a partir do exercício de 1996. (veto derrubado pela Câmara Municipal)
 
 **Art. 9º** Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário. Paço Municipal, 27 de outubro de 1995
 
@@ -71,7 +69,5 @@ Veto Derrubado
 
 LEI Nº 8550 DE 27 DE OUTUBRO DE 1995 (Publicação DOM 12/12/1995 p.22) Cria o Programa Municipal de Amparo ao Cidadão Idoso Carente – Promacic.
 
-A Câmara Municipal aprovou e eu, Dr. Romeu Santini, seu Presidente, promulgo nos termos do § 5º, artigo 51, da Lei Orgânica do Município de Campinas, o seguinte artigo: As despesas com este Programa deverão ser alocadas em verbas
-
-Adolescente e Ação Social a partir do exercício de 1996. Campinas, 11 de setembro de 1995 Dr. Romeu Santini Presidente Autor: Vereador Jonas Donizete PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS, AOS 11 DE DEZEMBRO DE 1995. Eurico Serra Secretário Geral
+A Câmara Municipal aprovou e eu, Dr. Romeu Santini, seu Presidente, promulgo nos termos do § 5º, artigo 51, da Lei Orgânica do Município de Campinas, o seguinte artigo: As despesas com este Programa deverão ser alocadas em verbas orçamentárias destinadas à Secretaria Municipal da Família, Criança, Adolescente e Ação Social a partir do exercício de 1996. Campinas, 11 de setembro de 1995 Dr. Romeu Santini Presidente Autor: Vereador Jonas Donizete PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS, AOS 11 DE DEZEMBRO DE 1995. Eurico Serra Secretário Geral
 

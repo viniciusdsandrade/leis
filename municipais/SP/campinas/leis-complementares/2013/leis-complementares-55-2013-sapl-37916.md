@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/37916"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2013/37916/37916_texto_integral.pdf"
 sha256_fonte: "160d906c1c9dd1a8eef041b9572dcc3d8fde3274bdda9f15897647cb08bb8889"
-sha256_texto: "8425618e0cc71c6186fe1f5811abdd8982ec279d42b9e9490df04d3511880c2c"
+sha256_texto: "35f48adf8d09f45566c3f634e1c5282c88ed71f592822dc0d299879b080003e1"
 baixado_em: "2026-10-21"
 ---
 
@@ -23,13 +23,15 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Art. 1°** - Os artigos 161; 162; 163; 165; 167; 168; 173; 175 e 177 da Lei Complementar nº 09, de 23 de dezembro de 2003, que passam a vigorar com a seguinte redação: “Art. 161 - A execução de edifi cação, construção, reconstrução, reforma ou demolição sem prévia licença da PMC acarretará a aplicação de penalidade de embargo da obra e multa, observado o seguinte critério e procedimento:
 
-construída, acrescida, alterada ou diminuída.
+a) edificação de até 250 m²: 5 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída;
 
-proprietário, no prazo de 5 (cinco) dias, a multa será reaplicada e descumprido o embargo o assunto será encaminhado à Secretaria de Assuntos Jurídicos para adoção das medidas legais cabíveis. (NR)
+b) edificação com área superior a 250 m²: 10 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída.
 
-**Art. 162** - A execução de edifi cação, construção, reconstrução ou reforma em desacordo com o projeto aprovado implicará na imposição de multa, observado o seguinte critério e
+**Parágrafo único** - Não sendo adotadas as medidas necessárias à regularização pelo proprietário, no prazo de 5 (cinco) dias, a multa será reaplicada e descumprido o embargo o assunto será encaminhado à Secretaria de Assuntos Jurídicos para adoção das medidas legais cabíveis. (NR)
 
-a) edificação de até 250 m²: 2 UFIC’s por metro quadrado de área construída, acrescida,
+**Art. 162** - A execução de edifi cação, construção, reconstrução ou reforma em desacordo com o projeto aprovado implicará na imposição de multa, observado o seguinte critério e procedimento:
+
+a) edificação de até 250 m²: 2 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída;
 
 b) edificação com área superior a 250 m²: 5 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída.
 
@@ -37,27 +39,27 @@ b) edificação com área superior a 250 m²: 5 UFIC’s por metro quadrado de �
 
 Art. 163- A falta de Auto de Conclusão, Auto de Conservação, Auto de Regularização, Certificado de Regularidade, ou de documento equivalente implicará na imposição de multa, observado o seguinte critério e procedimento:
 
-a) edificação de até 250 m²: 2 UFIC’s por metro quadrado de área construída, acrescida,
+a) edificação de até 250 m²: 2 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída;
 
 b) edificação com área superior a 250 m²: 5 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída.
 
-proprietário ou responsável, no prazo de 5 (cinco) dias, será a edifi cação embargada, com laudo circunstanciado e a multa será reaplicada, em idêntico valor. (NR)
+**Parágrafo único** - Não sendo adotadas as medidas necessárias à regularização pelo proprietário ou responsável, no prazo de 5 (cinco) dias, será a edifi cação embargada, com laudo circunstanciado e a multa será reaplicada, em idêntico valor. (NR)
 
 **Art. 165** - Do despacho decisório que desacolher a defesa, a ser publicado no ‘’Diário Oficial do Município’’, caberá um único recurso, com efeito suspensivo, no prazo de 15 dias corridos, ao Secretário Municipal de Urbanismo. (NR)
 
-**Art. 167** - Simultaneamente à imposição da multa estabelecida nos artigos anteriores, serão lavrados Auto de Embargo da Obra, assim como intimação para regularização da situação, nos termos da legislação específi ca. A desobediência ao Auto de Embargo da Obra implicará na imposição de multa adicional, observado o seguinte critério e
+**Art. 167** - Simultaneamente à imposição da multa estabelecida nos artigos anteriores, serão lavrados Auto de Embargo da Obra, assim como intimação para regularização da situação, nos termos da legislação específi ca. A desobediência ao Auto de Embargo da Obra implicará na imposição de multa adicional, observado o seguinte critério e procedimento:
 
-alterada ou diminuída; acrescida de 10 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída, por dia em que continuar a desobediência ao Auto de Embargo;
+a) edificação de até 250 m²: 5 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída; acrescida de 10 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída, por dia em que continuar a desobediência ao Auto de Embargo;
 
-construída, acrescida, alterada ou diminuída; acrescida de 20 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída, por dia em que continuar a desobediência ao Auto de Embargo. (NR)
+b) edificação com área superior a 250 m²: 10 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída; acrescida de 20 UFIC’s por metro quadrado de área construída, acrescida, alterada ou diminuída, por dia em que continuar a desobediência ao Auto de Embargo. (NR)
 
 **Art. 168** - O profissional responsável pela execução de edifi cação, construção, reconstrução, ou reforma, em qualquer de suas modalidades, quando em desacordo com o projeto ou plano aprovado pela Prefeitura, implicará na imposição de multa, observado o seguinte critério e procedimento:
 
-a) edificação de até 250 m²: 1 UFIC por metro quadrado de área construída, acrescida,
+a) edificação de até 250 m²: 1 UFIC por metro quadrado de área construída, acrescida, alterada ou diminuída;
 
 b) edificação com área superior a 250 m²: 2 UFIC por metro quadrado de área construída, acrescida, alterada ou diminuída.
 
-proprietário ou responsável no prazo de 5 (cinco) dias, a multa será reaplicada, em idêntico valor. (NR)
+**Parágrafo único** - Não sendo adotadas as medidas necessárias à regularização pelo proprietário ou responsável no prazo de 5 (cinco) dias, a multa será reaplicada, em idêntico valor. (NR)
 
 **Art. 173** - Não atendido pelo proprietário ou possuidor a intimação prevista no artigo 45, será aplicada multa no valor de 500 (quinhentas) UFIC’s para cada infração e incidirá a cada constatação. (NR)
 

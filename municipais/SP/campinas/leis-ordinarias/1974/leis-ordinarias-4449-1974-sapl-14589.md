@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/14589"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1974/14589/14589_texto_integral.pdf"
 sha256_fonte: "1d32b65de4935bc45ba36bf0316f2ef49caf548dfadc27ae1f179ef74808e835"
-sha256_texto: "4bfdde7decdc8e2b72a832c0f9109ed693b225945279b3340962714b767f15c3"
+sha256_texto: "58edb665c58c886571a417a030a45196f11cf8feef7678568af880b7de01bcb2"
 baixado_em: "2026-10-30"
 ---
 
@@ -37,6 +37,8 @@ DR. LAURO PÉRICLES GONÇALVES Prefeito Municipal
 
 Publicada no Departamento do Expediente do Gabinete do Prefeito, na data supra.
 
+DR. ARMANDO PAOLINELLI Chefe do Gabinete
+
 RETIFICAÇÕES PUBLICADA NO DOM DE 27/12/1974
 
 LEI N° 4449 DE 23 DE DEZEMBRO DE 1974
@@ -48,4 +50,6 @@ Onde se lê: Artigo 4° - Esta lei entrará em vigor na data de sua publicação
 LEIA-SE: Artigo 2° - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Campinas, 26 de dezembro de 1974.
+
+DR. ARMANDO PAOLINELLI Chefe do Gabinete
 

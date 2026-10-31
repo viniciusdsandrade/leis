@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/6955"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1994/6955/6955_texto_integral.pdf"
 sha256_fonte: "0c03f7617b3e00931c9fd13d8089146ac5dc057e00d29f62c10e19e4232935dd"
-sha256_texto: "89e3be63bfeb55282f8fc62ea481169f6f109c0d11ddd140c674955434065231"
+sha256_texto: "8bc41112f5895606eba9eeb5502cf41aa8af9fc61ab7b4e7ffe738db02316f1d"
 baixado_em: "2026-10-30"
 ---
 
@@ -26,6 +26,8 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 **Artigo 1º** - O Poder Executivo Municipal fica autorizado a contrair empréstimos junto a instituições financeiras até o montante equivalente a US$ 10.000.000,00 (dez milhões de dólares norte-americanos), destinados, duplicação da Avenida John Boyd Dunlop, implantação do trecho VA do corredor Amoreiras, planos comunitários de pavimentação, iluminação domiciliar e pública, pavimentação e recuperação asfáltica de vias públicas e implantação de corredores de ônibus urbanos.
 
 # 1º - Do valor previsto no caput deste artigo, US$ 3.500.000,00 (três milhões e quinhentos mil dólares norteamericanos) serão destinados exclusivamente para a duplicação da Avenida John Boyd Dunlop.
+
+# 2º - VETADO
 
 **Artigo 2º** - Os empréstimos autorizados por esta lei deverão obedecer as seguintes condições gerais:
 
@@ -56,6 +58,8 @@ c) carência de até 2 (dois) anos e amortização em até 5 (cinco) anos.
 **Artigo 7º** - Os valores dos créditos adicionais especiais a que se refere o artigo 6º serão cobertos com os recursos financeiros provenientes dos empréstimos autorizados por esta lei.
 
 # 1º - VETADO
+
+# 2º - VETADO
 
 # 3º - VETADO
 

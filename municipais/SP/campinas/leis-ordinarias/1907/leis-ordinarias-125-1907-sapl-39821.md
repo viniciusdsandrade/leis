@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/39821"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1907/39821/39821_texto_integral.pdf"
 sha256_fonte: "5540349383db3c44494f1cdd872e460b5daa7344533433fb4f74281acf981918"
-sha256_texto: "610967cb03cba5e93ccf62e8c4dd059a1e372d82de89205859059a8a9c02301d"
+sha256_texto: "e945cf19939421514c9193b6373030f718c94ebd1af2c8465918674ab87c84dc"
 baixado_em: "2026-10-30"
 ---
 
@@ -37,7 +37,7 @@ c) Impressos, publicações, ete. 800,5000 15:8006000 25. "—Revogam-se as disp
 
 § 30-Aposentadoria
 
-a) Ao ex-secretario Thomaz Gon- DR. FRANCISCO DE ARAUJO MASCARENHAS. çalves Gomide. .
+a) Ao ex-secretario Thomaz Gon- DR. FRANCISCO DE ARAUJO MASCARENHAS. çalves Gomide. . 1:8008000
 
 b) Ao ex-chefe da repartição de Publicado na Secretaria da Intendencia Municipal, rendas Bento Barboza. 1:535฿340 aos 10 de Dezembro de 1907.
 
@@ -123,13 +123,9 @@ a) Professores da cidade (5) a 15:000,$000 3:0006000
 
 b) Idem dos bairros (8) a 2:4005000 19:200$000 2:4008000 Ao fiscal do Mercado. . . . escolas Ferreira
 
-c) Idem das § 19.0—Eventuaes Penteado e Corrêa de . 12:4803000 Mello 26:9368006 Despeza imprevista. () Zeladora da 1.a e porteiro 1.050:0008000 Somma .
+c) Idem das § 19.0—Eventuaes Penteado e Corrêa de . 12:4803000 Mello 26:9368006 Despeza imprevista. () Zeladora da 1.a e porteiro 1.050:0008000 Somma . 1:8008000 da 2.ª
 
-da 2.ª
-
-e) Adjunta da escola mixta do CAPITULO II
-
-Guanabara. .
+e) Adjunta da escola mixta do CAPITULO II 1:8008000 Guanabara. .
 
 f) Objectos e livros escolares . 1:000$000 51:2806000 Da receita subvenções
 
@@ -189,9 +185,7 @@ Art. 4.º—Fica o poder executivo autorisado a rever o nhecimento e execução 
 
 Art. 6.º—Fica o poder executivo autorisado a acceitar doações simples em favor dos hospitaes, escolas ou LEOPOLDO AMARAL. tro qualquer fim, fazendo escriptural-as como receita even-
 
-- 64 - - 65 — TABELLA DE VENCIMENTOS OBRAS PUBLICAS 1:440฿000 1 jardineiro chefe SECRETARIA 1:200$000 auxiliar 1 Secretario . 2:1605000 6:0008000 3:600฿000 6:600฿000 sub-secretario
-
-1 porteiro. . 2:400฿000 12:000$000 MATADOURO PREFEITURA 6:000฿000 1 administrador . Subsidio ao Prefeito 3:600฿000 9:0008000 1 medico veterinario 1 fiscal geral auxiliar do 12:000$000 2:4005000
+- 64 - - 65 — TABELLA DE VENCIMENTOS OBRAS PUBLICAS 1:440฿000 1 jardineiro chefe SECRETARIA 1:200$000 auxiliar 1 Secretario . 2:1605000 6:0008000 3:600฿000 6:600฿000 sub-secretario 1:8008000 1 porteiro. . 2:400฿000 12:000$000 MATADOURO PREFEITURA 6:000฿000 1 administrador . Subsidio ao Prefeito 3:600฿000 9:0008000 1 medico veterinario 1 fiscal geral auxiliar do 12:000$000 2:4005000
 
 administrador 3:6008000 fiscaes da cidade, a 3:000฿ 6:000,8000 CORPO DE BOMBEIROS fiscaes dos bairros de Valli- nhos, Rebouças, Arraial 2:400$000 1 commandante dos Souzas, Villa Ameri- 1 machinista 2:1608000 cana e Cosmopolis, a .. 1:5208000 sargento 1:140$000. . 7:200,5000 25:800,000 1:2008000 cabo. 2:280$000 cocheiros
 
@@ -211,7 +205,5 @@ escripturario 3:600฿000 » » » 1:920$000 - 1 professor de aula nocturna . 2 
 
 adjunto 17:400,5000 5:000,8000 Tres cobradores com porcenta- 960$000
 
-8:640$000 porteiro gem fixa de 8 por cento ESCOLA FERREIRA PENTEADO sobre a arrecadação que effectuarem, sem outro or- 3:000$000 1 professora denado ou vencimento. 1 adjunta
-
-O lançador de impostos terá, 8408000 1 zeladora . 5:6406000 do ordenado, além uma REGULADORES PUBLICOS gratificação de 400$000 an- nuaes, que lhe será entre- 600$000 1 zelador profissional • • duas prestações, gue em MERCADO uma depois do lançamento do imposto predial e outra 1 fiscal do mercado 2:4008000 no fim do exercicio finan- ceiro.
+8:640$000 porteiro gem fixa de 8 por cento ESCOLA FERREIRA PENTEADO sobre a arrecadação que effectuarem, sem outro or- 3:000$000 1 professora denado ou vencimento. 1 adjunta 1:8008000 O lançador de impostos terá, 8408000 1 zeladora . 5:6406000 do ordenado, além uma REGULADORES PUBLICOS gratificação de 400$000 an- nuaes, que lhe será entre- 600$000 1 zelador profissional • • duas prestações, gue em MERCADO uma depois do lançamento do imposto predial e outra 1 fiscal do mercado 2:4008000 no fim do exercicio finan- ceiro.
 

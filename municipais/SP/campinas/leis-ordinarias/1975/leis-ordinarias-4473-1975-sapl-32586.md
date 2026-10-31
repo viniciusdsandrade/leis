@@ -11,13 +11,15 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/32586"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1975/32586/32586_texto_integral.pdf"
 sha256_fonte: "7bf3e690c1a95ce2141b39eab16b7708bb44f0d236681e4704d84f9e30f089e5"
-sha256_texto: "215b6e91ddb413a64e1b88535d7cd5a3822819fd1f57bfb35c2e97feae174f24"
+sha256_texto: "2805f162844f8eac6c6ba5c4b61866b3e1c5b612c637bc5f2b358addeae57009"
 baixado_em: "2026-10-30"
 ---
 
 # Lei nº 4.473, de 05 de março de 1975
 
 LEI Nº 4.473, DE 05 DE MARÇO DE 1975.
+
+ESTABELECE A PROGRESSIVIDADE DAS ALÍQUOTAS DO IMPOSTO TERRITORIAL NAS ZONAS BENEFICIADAS POR PROJETOS DE COMPLEMENTAÇÃO URBANA E DÁ OUTRAS PROVIDÊNCIAS.
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte Lei:
 
@@ -45,7 +47,7 @@ II – Nos demais casos: a partir do exercício seguinte àquele no qual se comp
 
 **§ 4º** – A concessão da carta de “habite-se” exclui automaticamente o imóvel do campo de aplicação das alíquotas progressivas, independentemente de qualquer solicitação, aviso ou formalidade, passando o imposto a ser calculado de acordo com as alíquotas constantes da Tabela Única que integra esta lei.
 
-**Artigo 3º** – O Executivo regulamentará as hipóteses de concessão de moratória,
+**Artigo 3º** – O Executivo regulamentará as hipóteses de concessão de moratória, limitando ao máximo a sua aplicação no caso de terrenos urbanos não edificados, com vistas a garantir o atingimento das medidas em caráter extrafiscal constantes desta lei.
 
 **Artigo 4º** - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente o parágrafo único do artigo 28 da Lei Municipal nº 4.353, de 28 de dezembro de1973..
 
@@ -59,11 +61,13 @@ RETIFICAÇÕES
 
 LEI Nº 4.473, DE 5 DE MARÇO DE 1975.
 
+ESTABELECE A PROGRESSIVIDADE DAS ALÍQUOTAS DO IMPOSTO TERRITORIAL NAS ZONAS BENEFICIADAS POR PROJETOS DE COMPLEMENTAÇÃO URBANA E DÁ OUTRAS PROVIDÊNCIAS.
+
 Publica-se novamente o § 3º do Artigo 2º, e mais o Artigo 3º, por ter saído com incorreções.
 
 **§ 3º** – O disposto neste artigo não se aplica aos terrenos em construção, cuja alíquota será mantida inalterada a partir da data da concessão da licença municipal para construir e durante o prazo para construção nela assinalado.
 
-**Artigo 3º** – O Executivo regulamentará as hipóteses de concessão de moratória,
+**Artigo 3º** – O Executivo regulamentará as hipóteses de concessão de moratória, limitando ao máximo a sua aplicação no caso de terrenos urbanos não edificados, com vistas a garantir o atingimento das medidas em caráter extrafiscal constantes desta lei.
 
 Campinas, 6 de março de 1975.
 

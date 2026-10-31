@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/47536"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2019/47536/47536_texto_integral.pdf"
 sha256_fonte: "e8615996970fde5ce5a13cfb9a264071a0b8235a8cec78f15c6466ec8c018cf0"
-sha256_texto: "b06d9a96e0325da104d04e4b0f752a243ec4aade2f10d72bc2cc5aa8af32919b"
+sha256_texto: "1ee21f06fb728f6e4eb1873a3e04777c22d8c15479ac55b73e4634f8a1b03674"
 baixado_em: "2026-10-21"
 ---
 
@@ -35,13 +35,13 @@ IV - Rua Luiz Henrique Camilo: Rua 04, com início na Rua 10 do mesmo loteamento
 
 V - Rua Valdir Honorato: Rua 05, com início na Rua 10 do mesmo loteamento e término em rua sem designação do loteamento Chácaras Anhanguera;
 
-VI - Rua José Reinaldo de Souza: Rua 06, com início na Rua 10 do mesmo
+VI - Rua José Reinaldo de Souza: Rua 06, com início na Rua 10 do mesmo loteamento e término em rua sem designação do loteamento Chácaras Anhanguera;
 
 VII - Rua Mario Fornazieri: Rua 07, com início na Rua 10 do mesmo loteamento e término em rua sem designação do loteamento Chácaras Anhanguera;
 
 VIII - Rua José Bispo Rodrigues: Rua 08, com início na Rua 10 do mesmo loteamento e término em rua sem designação do loteamento Chácaras Anhanguera;
 
-IX - Rua Romildo Venancio de Goes: Rua 09, com início na Rua 10 do mesmo
+IX - Rua Romildo Venancio de Goes: Rua 09, com início na Rua 10 do mesmo loteamento e término em rua sem designação do loteamento Chácaras Anhanguera;
 
 X - Rua Waldyr Teixeira: Rua 10, com início na Rua 01 e término na Rua 09, ambas no mesmo loteamento;
 
