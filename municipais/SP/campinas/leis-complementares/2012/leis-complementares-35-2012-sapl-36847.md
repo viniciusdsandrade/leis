@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; MAPAS E TABELAS EXPLICA
 fonte: "https://sapl.campinas.sp.leg.br/norma/36847"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2012/36847/36847_texto_integral.pdf"
 sha256_fonte: "fbc455dc1be6b6a4ba1dc588d88678f2031e7b2515d00b742c872456b326d0d0"
-sha256_texto: "1255ef6d393158ee3ca23f0565e9b321fbbe339b351fe681eb864f9cd1fec68c"
+sha256_texto: "bd866ea1af9328d4a9e9b8ecab5e6230d48eb595165331b390a7538b1eca1248"
 baixado_em: "2026-10-21"
 ---
 
@@ -543,7 +543,7 @@ X - implantar via marginal ao Rio Capivari, com largura de 15,00m, ligando a dir
 
 XI - duplicar a Estrada Municipal CAM 331, para 30,00m de largura, devendo a ampliação ser executada no lado correspondente à área urbana;
 
-XII - implantar via, com largura de 15,00m, no CAM 050 - Estrada dos Gonçalves, Campinas, segunda-feira, 24 de setembro de 2012 Diário Oficial do Município de Campinas 5 interligando a Estrada do Campo Grande ao Município de Monte Mor através de transposição existente sobre o Rio Capivari;
+XII - implantar via, com largura de 15,00m, no CAM 050 - Estrada dos Gonçalves, interligando a Estrada do Campo Grande ao Município de Monte Mor através de transposição existente sobre o Rio Capivari;
 
 XIII - implantar vias laterais à Indústria Pirelli, sendo:
 

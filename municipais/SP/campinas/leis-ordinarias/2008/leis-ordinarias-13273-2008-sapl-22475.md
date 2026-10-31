@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/22475"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2008/22475/22475_texto_integral.pdf"
 sha256_fonte: "5a5cd9e7465af7636d45c483d33a1de330b9ddf064ed1a60deda3621c2905c1b"
-sha256_texto: "ba2430521ccdb02597d3232caf27f085ea7f20c3d79c17a0cfec39fd6c703037"
+sha256_texto: "5a4e42f2f8a598949424d5c21740fb11f501d411065d7880022ff70e15a8ed42"
 baixado_em: "2026-10-22"
 ---
 
@@ -669,7 +669,7 @@ III – plano de assistência médico-hospitalar.
 
 **Art. 74.** Fica a Diretoria da SETEC autorizada a conceder aos servidores lotados na tesouraria, ou em outros setores da Autarquia, cujas atividades preponderantes sejam relacionadas à Caixa, uma gratificação de 15% (quinze por cento) calculada sobre o vencimento base, que será paga em rubrica destacada e não incorporável.
 
-**Art. 75.** O valor do prêmio de produtividade devido ao Agente de Fiscalização passa a ser de até 85% (oitenta e cinco por cento) do vencimento base, a ser apurado com base Campinas, quarta-feira, 02 de abril de 2008 Diário Oficial do Município de Campinas 5 no desempenho individual do servidor.
+**Art. 75.** O valor do prêmio de produtividade devido ao Agente de Fiscalização passa a ser de até 85% (oitenta e cinco por cento) do vencimento base, a ser apurado com base no desempenho individual do servidor.
 
 **§ 1º** Ato do Presidente da SETEC disporá sobre os critérios de apuração para identificação do desempenho mensal individual do Agente de Fiscalização, que deverá observar a complexidade das tarefas executadas, a responsabilidade envolvida na execução das tarefas e sua participação no incremento da arrecadação da Autarquia.
 
