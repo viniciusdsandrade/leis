@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/47061"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2019/47061/47061_texto_integral.pdf"
 sha256_fonte: "a2b6dc3aaf0a8fd7e14e0b0783e30c66ac3bbadd4beaa2c288380533fe8c7252"
-sha256_texto: "ee4776c5febbce7656fc0d18753775b49202db9cd73ac3b664d460421ad597c1"
+sha256_texto: "37f26dd7a206efc563e6533e087a4849b27bca59ffde660e4225e24a8563332f"
 baixado_em: "2026-10-30"
 ---
 
@@ -45,49 +45,11 @@ O PRESIDENTE DA CÂMARA MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municip
 
 (ANEXO I DA RESOLUÇÃO Nº 885, DE 13 DE FEVEREIRO DE 2014)
 
-QUADRO PERMANENTE DE PESSOAL
+QUADRO PERMANENTE DE PESSOAL Carga Grupo Classe e Cargo Quantitativo Horária Ocupacional Nível de Vencimento l Semanal Analista Classe I II III Legislativo 7 Nível de 35h Administrador VII IX XI Vencimento Analista Classe I II III Legislativo 7 Nível de 35h Tecnologia da VII IX XI Informação Vencimento Analista Classe I II III Legislativo 2 Nível de 35h Arquiteto VII IX XI Vencimento Analista Classe I II III Legislativo 2 Nível de 35h Arquivista VII IX XI Vencimento Analista Classe I II III Legislativo 16 Nível de 35h Assessoramento VII IX XI Nível Jurídico Vencimento Superior Classe I II III Analista Legislativo 1 Nível de 30h Assistente Social VII IX XI Vencimento Analista Classe I II III Legislativo 3 Nível de 35h Auditor VII IX XI Vencimento Analista Classe I II III Legislativo 4 Nível de 35h Bibliotecário VII IX XI Vencimento Analista Classe I II III Legislativo 4 Nível de 35h Contador VII IX XI Vencimento Analista Classe I II III Legislativo 2 Nível de 35h Economista VII IX XI Vencimento
 
-Analista Classe I II III Legislativo 7 Nível de 35h Administrador VII IX XI
+Carga Grupo Classe e Cargo Quantitativo Horária Ocupacional Nível de Vencimento l Semanal Classe I II III Analista Legislativo 2 Nível de 35h Engenheiro VII IX XI Vencimento Classe I II III Analista Legislativo Gestor 2 Nível de 35h Público VII IX XI Vencimento Analista Classe I II III Legislativo 2 Nível de 35h Historiador VII IX XI Vencimento Classe I II III Médico do 2 Nível de 20h Trabalho VI VIII X Vencimento Analista Classe I II III Legislativo 2 Nível de 35h Pedagogo VII IX XI Vencimento Nível Superior Analista Classe I II III Legislativo 2 Nível de 35h Psicólogo VII IX XI Vencimento Classe I II III Analista Legislativo 6 Nível de 35h Redator/Revisor VII IX XI Vencimento Classe I II III Procurador 12 Nível de 35h VIII X XII Vencimento Analista Classe I II III Legislativo 9 Nível de 35h Relações- VII IX XI Públicas Vencimento Analista Classe I II III Legislativo 2 Nível de 35h Secretário VII IX XI Executivo Vencimento
 
-Analista Classe I II III Legislativo 7 Nível de 35h Tecnologia da VII IX XI Informação Vencimento Analista Classe I II III Legislativo 2 Nível de 35h Arquiteto VII IX XI
-
-Analista Classe I II III Legislativo 2 Nível de 35h Arquivista VII IX XI
-
-Analista Classe I II III Legislativo 16 Nível de 35h Assessoramento VII IX XI Nível Jurídico Vencimento Superior
-
-Analista Legislativo 1 Nível de 30h Assistente Social VII IX XI
-
-Analista Classe I II III Legislativo 3 Nível de 35h Auditor VII IX XI
-
-Analista Classe I II III Legislativo 4 Nível de 35h Bibliotecário VII IX XI
-
-Analista Classe I II III Legislativo 4 Nível de 35h Contador VII IX XI
-
-Analista Classe I II III Legislativo 2 Nível de 35h Economista VII IX XI
-
-Analista Legislativo 2 Nível de 35h Engenheiro VII IX XI
-
-Analista Legislativo Gestor 2 Nível de 35h Público VII IX XI
-
-Analista Classe I II III Legislativo 2 Nível de 35h Historiador VII IX XI
-
-Médico do 2 Nível de 20h Trabalho VI VIII X
-
-Analista Classe I II III Legislativo 2 Nível de 35h Pedagogo VII IX XI
-
-Nível Superior Analista Classe I II III Legislativo 2 Nível de 35h Psicólogo VII IX XI
-
-Analista Legislativo 6 Nível de 35h Redator/Revisor VII IX XI
-
-Procurador 12 Nível de 35h VIII X XII
-
-Analista Classe I II III Legislativo 9 Nível de 35h Relações- VII IX XI Públicas Vencimento Analista Classe I II III Legislativo 2 Nível de 35h Secretário VII IX XI Executivo Vencimento
-
-59 Classe I II III Técnico Nível de 35h Legislativo III V VII
-
-Técnico de 8 Nível de 35h Transcrição III V VII Nível Vencimento Técnico Técnico de Classe I II III Segurança do 2 Nível de 35h Trabalho III V VII
-
-Agente de Classe I II III Segurança 6 Nível de 35h Legislativa III V VII
+Carga Grupo Classe e Cargo Quantitativo Horária Ocupacional Nível de Vencimento l Semanal 59 Classe I II III Técnico Nível de 35h Legislativo III V VII Vencimento Classe I II III Técnico de 8 Nível de 35h Transcrição III V VII Nível Vencimento Técnico Técnico de Classe I II III Segurança do 2 Nível de 35h Trabalho III V VII Vencimento Agente de Classe I II III Segurança 6 Nível de 35h Legislativa III V VII Vencimento
 
 ## ANEXO II
 
@@ -123,49 +85,11 @@ l) O intervalo intrajornada permanecerá de uma hora, não computado para efeito
 
 (ANEXO I DA RESOLUÇÃO Nº 885, DE 13 DE FEVEREIRO DE 2014)
 
-QUADRO PERMANENTE DE PESSOAL
+QUADRO PERMANENTE DE PESSOAL Carga Grupo Classe e Cargo Quantitativo Horária Ocupacional Nível de Vencimento l Semanal Analista Classe I II III Legislativo 7 Nível de 30h Administrador VII IX XI Vencimento Analista Classe I II III Legislativo 7 Nível de 30h Tecnologia da VII IX XI Informação Vencimento Analista Classe I II III Legislativo 2 Nível de 30h Arquiteto VII IX XI Vencimento Analista Classe I II III Legislativo 2 Nível de 30h Arquivista VII IX XI Vencimento Analista Classe I II III Legislativo 16 Nível de 30h Assessoramento VII IX XI Nível Jurídico Vencimento Superior Classe I II III Analista Legislativo 1 Nível de 30h Assistente Social VII IX XI Vencimento Analista Classe I II III Legislativo 3 Nível de 30h Auditor VII IX XI Vencimento Analista Classe I II III Legislativo 4 Nível de 30h Bibliotecário VII IX XI Vencimento Analista Classe I II III Legislativo 4 Nível de 30h Contador VII IX XI Vencimento Analista Classe I II III Legislativo 2 Nível de 30h Economista VII IX XI Vencimento
 
-Analista Classe I II III Legislativo 7 Nível de 30h Administrador VII IX XI
+Carga Grupo Classe e Cargo Quantitativo Horária Ocupacional Nível de Vencimento l Semanal Classe I II III Analista Legislativo 2 Nível de 30h Engenheiro VII IX XI Vencimento Classe I II III Analista Legislativo Gestor 2 Nível de 30h Público VII IX XI Vencimento Analista Classe I II III Legislativo 2 Nível de 30h Historiador VII IX XI Vencimento Classe I II III Médico do 2 Nível de 20h Trabalho VI VIII X Vencimento Analista Classe I II III Legislativo 2 Nível de 30h Pedagogo VII IX XI Vencimento Nível Superior Analista Classe I II III Legislativo 2 Nível de 30h Psicólogo VII IX XI Vencimento Classe I II III Analista Legislativo 6 Nível de 30h Redator/Revisor VII IX XI Vencimento Classe I II III Procurador 12 Nível de 30h VIII X XII Vencimento Analista Classe I II III Legislativo 9 Nível de 30h Relações- VII IX XI Públicas Vencimento Analista Classe I II III Legislativo 2 Nível de 30h Secretário VII IX XI Executivo Vencimento
 
-Analista Classe I II III Legislativo 7 Nível de 30h Tecnologia da VII IX XI Informação Vencimento Analista Classe I II III Legislativo 2 Nível de 30h Arquiteto VII IX XI
-
-Analista Classe I II III Legislativo 2 Nível de 30h Arquivista VII IX XI
-
-Analista Classe I II III Legislativo 16 Nível de 30h Assessoramento VII IX XI Nível Jurídico Vencimento Superior
-
-Analista Legislativo 1 Nível de 30h Assistente Social VII IX XI
-
-Analista Classe I II III Legislativo 3 Nível de 30h Auditor VII IX XI
-
-Analista Classe I II III Legislativo 4 Nível de 30h Bibliotecário VII IX XI
-
-Analista Classe I II III Legislativo 4 Nível de 30h Contador VII IX XI
-
-Analista Classe I II III Legislativo 2 Nível de 30h Economista VII IX XI
-
-Analista Legislativo 2 Nível de 30h Engenheiro VII IX XI
-
-Analista Legislativo Gestor 2 Nível de 30h Público VII IX XI
-
-Analista Classe I II III Legislativo 2 Nível de 30h Historiador VII IX XI
-
-Médico do 2 Nível de 20h Trabalho VI VIII X
-
-Analista Classe I II III Legislativo 2 Nível de 30h Pedagogo VII IX XI
-
-Nível Superior Analista Classe I II III Legislativo 2 Nível de 30h Psicólogo VII IX XI
-
-Analista Legislativo 6 Nível de 30h Redator/Revisor VII IX XI
-
-Procurador 12 Nível de 30h VIII X XII
-
-Analista Classe I II III Legislativo 9 Nível de 30h Relações- VII IX XI Públicas Vencimento Analista Classe I II III Legislativo 2 Nível de 30h Secretário VII IX XI Executivo Vencimento
-
-59 Classe I II III Técnico Nível de 30h Legislativo III V VII
-
-Técnico de 8 Nível de 30h Transcrição III V VII Nível Vencimento Técnico Técnico de Classe I II III Segurança do 2 Nível de 30h Trabalho III V VII
-
-Agente de Classe I II III Segurança 6 Nível de 30h Legislativa III V VII
+Carga Grupo Classe e Cargo Quantitativo Horária Ocupacional Nível de Vencimento l Semanal 59 Classe I II III Técnico Nível de 30h Legislativo III V VII Vencimento Classe I II III Técnico de 8 Nível de 30h Transcrição III V VII Nível Vencimento Técnico Técnico de Classe I II III Segurança do 2 Nível de 30h Trabalho III V VII Vencimento Agente de Classe I II III Segurança 6 Nível de 30h Legislativa III V VII Vencimento
 
 Campinas, 17 de maio de 2019
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; Processo 23573 - PLO 34
 fonte: "https://sapl.campinas.sp.leg.br/norma/31632"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1968/31632/31632_texto_integral.pdf"
 sha256_fonte: "83b2e5b021c201a16d579b68e511dd2ff25705c3da6c9dd607dd69d8fed7f1dd"
-sha256_texto: "a5875074bdc5cc6011a2731a20b72c0bd3949b53f98b033bcdf9c77b65e49565"
+sha256_texto: "57e8dc6c48986de2406d1af0a4d27310b229392c5e4ff751b8f0d1e255f8c531"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,11 +25,7 @@ Parágrafo Único - Quanto à forma de provimento, os cargos se classificam em c
 
 II -- por promoção, na mento:
 
-III — por acesso na torma prevista em lei. Artigo 8.0 - Os cargos em comissão, com observância do livre esco- disposto no artigo 6,o, serão providos mediante lha do Presidente do Instituto dentre servidores da Autar- quía e funcionários do Municipio de Campinas. Função gratificada é uma vantagem aces- Artigo 9.0 sória aos vencimentos, concedida pelo efetivo exercicio
-
-chefia. para o exercicio
-
-$ 1.0 - Somente serão designados função gratificada servidores da Autarquia e funcionários do Municipio de Campinas. ar- comprovada ou serviço obrigatorio por lei. samento, doença $ 3.0 - É vedado conceder função gratificada a SeT- vidor, pelo exercicio de chetia, quando esta atividade tôr ine- rente a seu cargo efetivo. Artigo 10.o - Para concorrer a promoção, e ao acesso, o deverá comprovar capacidade funcional para servidor exercício das atribuições da classe a que concorra e, ainda, obter um número mínimo de pontos no boletim de mereci- na forma a ser estabelecida em regulamento. mento Parágrafo Unico cional lar-se-a através de provas de conhecimento. Artigo 11 — No provimento dos cargos, os requisitos mi- IV, serão rigorosamente obedecidos. Artigo 12 — Aplica-se o Estatuto dos Funcionários Pú- Campinas e legislação complementar blicos Municipais de no que couber. aos servidores do Instituto, $ 1.0 - Não são aplicáveis, em nenhuma hipótese, aos servidores da Autarquate as disposições relativas a vantagens financeiras e vencimentos
+III — por acesso na torma prevista em lei. Artigo 8.0 - Os cargos em comissão, com observância do livre esco- disposto no artigo 6,o, serão providos mediante lha do Presidente do Instituto dentre servidores da Autar- quía e funcionários do Municipio de Campinas. Função gratificada é uma vantagem aces- Artigo 9.0 sória aos vencimentos, concedida pelo efetivo exercicio de chefia. para o exercicio de $ 1.0 - Somente serão designados função gratificada servidores da Autarquia e funcionários do Municipio de Campinas. ar- comprovada ou serviço obrigatorio por lei. samento, doença $ 3.0 - É vedado conceder função gratificada a SeT- vidor, pelo exercicio de chetia, quando esta atividade tôr ine- rente a seu cargo efetivo. Artigo 10.o - Para concorrer a promoção, e ao acesso, o deverá comprovar capacidade funcional para servidor exercício das atribuições da classe a que concorra e, ainda, obter um número mínimo de pontos no boletim de mereci- na forma a ser estabelecida em regulamento. mento Parágrafo Unico cional lar-se-a através de provas de conhecimento. Artigo 11 — No provimento dos cargos, os requisitos mi- IV, serão rigorosamente obedecidos. Artigo 12 — Aplica-se o Estatuto dos Funcionários Pú- Campinas e legislação complementar blicos Municipais de no que couber. aos servidores do Instituto, $ 1.0 - Não são aplicáveis, em nenhuma hipótese, aos servidores da Autarquate as disposições relativas a vantagens financeiras e vencimentos
 
 $ 20 — O tempo de serviço piblico prestado đe os efeitos entidades será computado unicamente para aposentadoria e disponibilidade CAMAR Artigo 13 = O Instituto poderá edmitir pessoal pelo re- 2/5 gime da Consolidação das Leis do Trabalho para o exerci- cio de trabalhos técnicos, eventuais ou transitorios. \*VOLA admissão de que trata o presen-
 
@@ -55,9 +51,7 @@ g) a companheira do segurado, desde que com éle viva em estado de casada, e ine
 
 ANEXO I RGOS QUE CONSTITUEM O QUADRO (ART. 5.o) Classes de cargos de provimento efetivo: Classes Número de Cargos or legal. Procurador ..
 
-Medico .. .. MOMMOONNHAN Dentista .. •• Técnico em Contabilidade .. Tesoureiro .. .. • . Atendente .... .. Escriturário - Datilografo I Escriturário — Datilógrafo II Assistente de Administração I Assistente de Administração II Servente de Escritório Servente .... ... Cargos de provimento em comissão: Número
-
-Cargos Presidente
+Medico .. .. MOMMOONNHAN Dentista .. •• Técnico em Contabilidade .. Tesoureiro .. .. • . Atendente .... .. Escriturário - Datilografo I Escriturário — Datilógrafo II Assistente de Administração I Assistente de Administração II Servente de Escritório Servente .... ... Cargos de provimento em comissão: Número de Cargos Presidente
 
 :.. Diretor Administrativo
 
@@ -75,13 +69,7 @@ Triagem. 100,00 Chefe do Serviço de Contabilidade e Tesouraria
 
 100,00
 
-REQUISITOS MÍNIMOS PARA PROVIMENTO DOS CARGOS (ART. 11) CLASSE INSTRUÇÃO CONHECIMENTOS OUTROS ESPECIALIZADOS 1 - Médico REQUISITOS Superior, Diploma de grau su- Habilitação legal para o exer perior, em medicina. cício da profissão. Diploma Superior, de grau Habilitação legal para o exer 2 - Dentista superior em Odontologia cício da profissão. Superior, Diploma de grau su- 3 - Procu- perior em ciências jurídicas e Habilitação legal para o exer sociais. cício da profissão. Secundária, segunde cíclo completo. Ser portador de Grande conhecimento de con- 4 - Téenico Contabili- certificado conclusão Conheci- Habilitação legal para o exer- tabilidade publica. dade Curso Técnico de Contabili- legislação que rege cicio da profissão. mento da dade. a contabilidade pública. Conhecimento
+REQUISITOS MÍNIMOS PARA PROVIMENTO DOS CARGOS (ART. 11) CLASSE INSTRUÇÃO CONHECIMENTOS OUTROS ESPECIALIZADOS 1 - Médico REQUISITOS Superior, Diploma de grau su- Habilitação legal para o exer perior, em medicina. cício da profissão. Diploma Superior, de grau Habilitação legal para o exer 2 - Dentista superior em Odontologia cício da profissão. Superior, Diploma de grau su- 3 - Procu- perior em ciências jurídicas e Habilitação legal para o exer sociais. cício da profissão. Secundária, segunde cíclo completo. Ser portador de Grande conhecimento de con- 4 - Téenico Contabili- certificado conclusão Conheci- Habilitação legal para o exer- tabilidade publica. dade Curso Técnico de Contabili- legislação que rege cicio da profissão. mento da dade. a contabilidade pública. Conhecimento de aritmética suficientes fazer 5 — Ter cál- Data Secundária, ciclo culos com primeiro rapidez preci- completo. são. Conhecimento dos traba- Ihos de Tesouraria. Domínio da técnica de datilo- grafia. Conhecimentos de por- 6 - Escriturário Secundária, correspondente ao tuguês suficientes para a re- Datilógrafo I primeiro ciclo completo. informações, com de dação precisão. Domínio da técnica de datilo- Bons conhecimentos grafle. 7 - Escriturário Secundária correspondente pri- de português. Conhecimentos Datilógrafo II meiro ciclo completo. da Legisiação referente Instituto. Alguma experiência no exer- Primária, curso primário com- cício de atividades 8 - Atendente auxiliares pleto. em consultórios médico e den- tário. Conhecimento considerável de português e capacidade para 9 - Assistente de adminis- Secundária, ciclo redigir com clareza e precisão. segundo tração I. completo. Conhecimento considerável da
 
-aritmética suficientes fazer 5 — Ter cál- Data Secundária, ciclo culos com primeiro rapidez preci- completo. são. Conhecimento dos traba- Ihos de Tesouraria. Domínio da técnica de datilo- grafia. Conhecimentos de por- 6 - Escriturário Secundária, correspondente ao tuguês suficientes para a re- Datilógrafo I primeiro ciclo completo. informações, com
-
-dação precisão. Domínio da técnica de datilo- Bons conhecimentos grafle. 7 - Escriturário Secundária correspondente pri- de português. Conhecimentos Datilógrafo II meiro ciclo completo. da Legisiação referente Instituto. Alguma experiência no exer- Primária, curso primário com- cício de atividades 8 - Atendente auxiliares pleto. em consultórios médico e den- tário. Conhecimento considerável de português e capacidade para 9 - Assistente de adminis- Secundária, ciclo redigir com clareza e precisão. segundo tração I. completo. Conhecimento considerável da
-
-legislação do Instituto. Conhecimento considerável de português e capacidade para 10 - Assistente de adminis- Secundária, segundo ciclo redigir com clareza e preci- tração II. completo. são Noções gerais de direlto. Conhecimento
-
-legislação do Instituto Primária, curso primário com- 11 - Servente de Escritório. Classe privativa de pessoas do pleto sexo masculino. Robustez fi- sica. Primária, curso primário com- 12 - Servente Classe privativa de pessoas do pieto. sexo masculino. Robustez sica.
+legislação do Instituto. Conhecimento considerável de português e capacidade para 10 - Assistente de adminis- Secundária, segundo ciclo redigir com clareza e preci- tração II. completo. são Noções gerais de direlto. Conhecimento de legislação do Instituto Primária, curso primário com- 11 - Servente de Escritório. Classe privativa de pessoas do pleto sexo masculino. Robustez fi- sica. Primária, curso primário com- 12 - Servente Classe privativa de pessoas do pieto. sexo masculino. Robustez sica.
 

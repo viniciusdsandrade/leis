@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; PROCESSO 6712 , PLO 93/
 fonte: "https://sapl.campinas.sp.leg.br/norma/15031"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1956/15031/15031_texto_integral.pdf"
 sha256_fonte: "7d6fb02fd65bb7211f225ee70cd1c0575e7355e62d1e040324d18b4f85e69016"
-sha256_texto: "c49cc2d27ed22f870696b446e1db01b2fe1824fdca0c4ed58af3a013ac45d9fb"
+sha256_texto: "0be2449f2c1d1011e56be8626ca69d66150ef153c50e70c621af38ce86eb8b0a"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,11 +27,11 @@ A Câmara Municipal decreta e eu, Prefeito do Município de Campinas, promulgo a
 
 "Uma faixa de terreno, parte do antigo balão de retorno dar Rua 1 da Vila Poggetti, de propriedade da Prefeitura Municipal a ser anexada ao lote nº 9 da mesma vila, de forma retangular, com 12,00m2 (doze metros quadrados) de área, tendo 8,00m (oito metros) de comprimento e 1,50m (um metro e cinqüenta centímetros) de largura".
 
-Poggetti, de propriedade da Prefeitura Municipal a ser anexada ao lote nº 8 da mesma vila, de forma retangular, com 12,00m2 (doze metros quadrados) de área, tendo 8,00m (oito metros) de comprimento e l,50m (um metro e cinqüenta centímetros) de largura".
+"Uma faixa de terreno, parte do antigo balão de retorno da Rua 1 da Vila Poggetti, de propriedade da Prefeitura Municipal a ser anexada ao lote nº 8 da mesma vila, de forma retangular, com 12,00m2 (doze metros quadrados) de área, tendo 8,00m (oito metros) de comprimento e l,50m (um metro e cinqüenta centímetros) de largura".
 
 "Uma faixa de terreno, parte do antigo balão de retorno da rua 1 da Vila Foggetti, de propriedade da Prefeitura Municipal a ser anexada ao lote nº 1 da mesma vila, de forma retangular, com 12,00m2 (doze metros quadrados) de área tendo 8,00m (oito metros) de comprimento por 1,50m (um metro e cinqüenta centímetros) de largura".
 
-Poggetti, de propriedade da Prefeitura Municipal a ser anexada ao lote nº 3 da mesma vila, de forma retangular, com 9,75 m2 (nove metros e setenta e cinco decímetros quadrados) de área tendo 6,50m (seis metros e cinqüenta centímetros) de comprimento e 1,50m (um metro e cinqüenta centímetros) de largura".
+"Uma faixa de terreno, parte do antigo balão de retorno da Rua 1 da Vila Poggetti, de propriedade da Prefeitura Municipal a ser anexada ao lote nº 3 da mesma vila, de forma retangular, com 9,75 m2 (nove metros e setenta e cinco decímetros quadrados) de área tendo 6,50m (seis metros e cinqüenta centímetros) de comprimento e 1,50m (um metro e cinqüenta centímetros) de largura".
 
 **Artigo 2º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

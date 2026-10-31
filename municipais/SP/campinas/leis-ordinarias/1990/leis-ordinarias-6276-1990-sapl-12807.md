@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12807"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1990/12807/12807_texto_integral.pdf"
 sha256_fonte: "966af0b83339c454dbe142e767e2ba051b622e3ac732ddb6f995dce8650313da"
-sha256_texto: "ae2b45aca72668215aeb2a40da53abc564c866a5a3726cef06e49c50c6ed5d68"
+sha256_texto: "5a14df942ee0990d01ef3a3fe40ad4854f43272fde8b9a574ce07214e5f88a0b"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,13 +27,9 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 I ­ Parte da passagem de pedestres, localizada na quadra E, quarteirão 92, loteamento Jardim Botânico, Distrito de Sousas, com área de 100,00m2 e as seguintes medidas: 4,00m de frente pelo alinhamento da Rua 4 do mesmo loteamento; 25,00m lateralmente à direita, onde confronta com o lote 16 do mesmo quarteirão; 4,00m aos fundos, onde confronta com o remanescente da passagem; 25,00m lateralmente à esquerda, onde confronta com o lote 17 do mesmo quarteirão;
 
-II ­ Parte da passagem de pedestres, localizada na quadra E, quarteirão 92,
+II ­ Parte da passagem de pedestres, localizada na quadra E, quarteirão 92, loteamento Jardim Botânico, Distrito de Sousas, com área de 60,00m2 e as seguintes medidas: 2,00m de frente pelo alinhamento da Rua Armando Eurico Stocco; 30,00m lateralmente à direita onde confronta com o lote 6 do mesmo quarteirão; 2,00m aos fundos onde confronta com o remanescente da passagem; 30,00m lateralmente à esquerda, onde confronta com o remanescente da passagem;
 
-seguintes medidas: 2,00m de frente pelo alinhamento da Rua Armando Eurico Stocco; 30,00m lateralmente à direita onde confronta com o lote 6 do mesmo quarteirão; 2,00m aos fundos onde confronta com o remanescente da passagem; 30,00m lateralmente à esquerda, onde confronta com o remanescente da passagem;
-
-III ­ Parte da passagem de pedestres, localizada na quadra E, quarteirão 92,
-
-seguintes medidas: 2,00m de frente pelo da Rua Armando Eurico Stocco; 30,00m lateralmente à direita, onde confronta com o remanescente da passagem; 2,00m aos fundos, onde confronta com o remanescente da passagem; 30,00m lateralmente à esquerda, onde confronta com o lote 7 do mês mesmo quarteirão.
+III ­ Parte da passagem de pedestres, localizada na quadra E, quarteirão 92, loteamento Jardim Botânico, Distrito de Sousas, com área de 60,00m2 e as seguintes medidas: 2,00m de frente pelo da Rua Armando Eurico Stocco; 30,00m lateralmente à direita, onde confronta com o remanescente da passagem; 2,00m aos fundos, onde confronta com o remanescente da passagem; 30,00m lateralmente à esquerda, onde confronta com o lote 7 do mês mesmo quarteirão.
 
 **Artigo 2º** ­ Fica a Prefeitura Municipal de Campinas autorizada a vender as faixas descritas no artigo anterior, mediante venda direta, independentemente de concorrência, aos proprietários lindeiros.
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR DARIO
 fonte: "https://sapl.campinas.sp.leg.br/norma/26045"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2010/26045/26045_texto_integral.pdf"
 sha256_fonte: "0bcd5d01634ad94173014daf7a53c7e5a3c35d7276d3b424b09ad9c7160f67e7"
-sha256_texto: "1aacd7b4f8efc9111b33cdc7819a9eabe36e8b3f001110f7b754b700fa984127"
+sha256_texto: "2fec4e9855cc483cd3d138e5124eea093acaf6adaed9f243c7b13239821e9d82"
 baixado_em: "2026-10-21"
 ---
 
@@ -131,23 +131,21 @@ Prefeito Municipal AUTORIA: VEREADOR DARIO SAADI PROT.: 09/08/18.323
 
 ANEXO ÚNICO Os grupos e subgrupos serão avaliados conforme o seguinte anexo único: Grupo I Grupo I - Receita própria aplicada em saúde conforme previsto na regulamentação da Emenda Constitucional nº 29/2000.
 
-Subgrupo A - Percentual da receita própria aplicada em saúde conforme previsto na regulamentação da Emenda Constitucional nº 29/2000.
-
-23% ou mais 10,0 21,1 a 22,9% 7,5 19,1 a 21% 5,0 17,1 a 19% 2,5 Abaixo 17% 0,0
+Subgrupo A - Percentual da receita própria aplicada em saúde conforme previsto na regulamentação da Emenda Constitucional nº 29/2000. Avaliação Nota 23% ou mais 10,0 21,1 a 22,9% 7,5 19,1 a 21% 5,0 17,1 a 19% 2,5 Abaixo 17% 0,0
 
 Subgrupo B – Percentual de recurso financeiro em relação ao total gasto com a saúde pública do município despendido na atenção básica.
 
-Acima de 40% 10,0 36 a 39,9% 7,5 33,3 a 35,9% 5,0 30 a 32,9% 2,5 Abaixo 30% 0,0
+Avaliação Nota Acima de 40% 10,0 36 a 39,9% 7,5 33,3 a 35,9% 5,0 30 a 32,9% 2,5 Abaixo 30% 0,0
 
 GRUPO II Grupo II – Dados estatísticos referentes à mortalidade infantil, maternal, expectativa de vida e outros
 
 Subgrupo A - Coeficiente de mortalidade neonatal (em percentual dos nascidos vivos).
 
-Abaixo 7,1% 10,0 7,1 a 8,0% 7,5 8,1 a 9,0% 5,0 9,1 a 10,0% 2,5 Acima 10% 0,0
+Avaliação Nota Abaixo 7,1% 10,0 7,1 a 8,0% 7,5 8,1 a 9,0% 5,0 9,1 a 10,0% 2,5 Acima 10% 0,0
 
 Subgrupo B - Coeficiente de mortalidade pos-neonatal (percentual do total de nascidos vivos).
 
-Até 2,7% 10,0 2,7 a 3,5% 7,5 3,6 a 4,5% 5,0 4,5 a 5,0% 2,5 Acima 5% 0 ,0
+Avaliação Nota Até 2,7% 10,0 2,7 a 3,5% 7,5 3,6 a 4,5% 5,0 4,5 a 5,0% 2,5 Acima 5% 0 ,0
 
 Subgrupo C – Expectativa de vida do Homem.
 
@@ -159,21 +157,15 @@ Subgrupo D – Expectativa de vida da Mulher.
 
 Acima de 76 anos 10,0 74 a 75 anos 7,5 72 a 73 anos 5,0 70 a 72 anos 2,5 Abaixo 70 anos 0,0
 
-Subgrupo E- Média anual de consultas médicas por habitante nas especialidades básicas.
+Subgrupo E- Média anual de consultas médicas por habitante nas especialidades básicas. Avaliação Nota Acima de 1,2 consultas 10,0 1,0 a 1,2 7,5 0,7 a 0,9 5,0 0,4 a 0,6 2,5 Abaixo de 0,4 0,0
 
-Acima de 1,2 consultas 10,0 1,0 a 1,2 7,5 0,7 a 0,9 5,0 0,4 a 0,6 2,5 Abaixo de 0,4 0,0
+Subgrupo F - media mensal de visitas domiciliares por família realizadas por agente comunitário de saúde. Avaliação Nota Acima de 1,7 10,0 1,4 a 1,69 7,5 1,2 a 1,39 5,0 1,0 a 1,19 2,5 Abaixo de 1 0,0
 
-Subgrupo F - media mensal de visitas domiciliares por família realizadas por agente comunitário de saúde.
-
-Acima de 1,7 10,0 1,4 a 1,69 7,5 1,2 a 1,39 5,0 1,0 a 1,19 2,5 Abaixo de 1 0,0
-
-Subgrupo G – Percentual de unidades básicas com equipes odontológicas.
-
-100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
+Subgrupo G – Percentual de unidades básicas com equipes odontológicas. Avaliação Nota 100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
 
 Subgrupo H – Percentual de unidades básicas com programas preventivos de saúde bucal.
 
-100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
+Avaliação Nota 100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
 
 Subgrupo I - Percentual de unidades básicas que desenvolvem programas preventivos nas áreas de hipertensão arterial, diabetes e outras.
 
@@ -187,21 +179,21 @@ Até 300 10,0 301 a 400 7,5 401 a 500 5,0 501 a 1000 2,5 Acima de 1000 0,0
 
 Subgrupo J – Satisfação do usuário monitorada pelo Conselho Municipal de Saúde.
 
-Muito satisfeito 10,0 Satisfeito 7,5 Regular 5,0 Ruim 2,5 Péssimo 0,0
+Avaliação Nota Muito satisfeito 10,0 Satisfeito 7,5 Regular 5,0 Ruim 2,5 Péssimo 0,0
 
 Subgrupo K – Taxa de cesáreas (percentual em relação ao total de partos).
 
-Ate 40% 10,0 40 a 45% 7,5 45,1 a 50% 5,0 50,1 a 60% 2,5 Acima 60% 0,0
+Avaliação Nota Ate 40% 10,0 40 a 45% 7,5 45,1 a 50% 5,0 50,1 a 60% 2,5 Acima 60% 0,0
 
 GRUPO III Grupo III - Atenção básica, ações preventivas e cobertura vacinal.
 
 Subgrupo A - Percentual de unidades básicas com quadro funcional completo.
 
-100% 10,0 80 a 99% 7,5 75 a 79,9% 5,0 65 a 74,9% 2,5 Abaixo de 65% 0,0
+Avaliação Nota 100% 10,0 80 a 99% 7,5 75 a 79,9% 5,0 65 a 74,9% 2,5 Abaixo de 65% 0,0
 
 Subgrupo B - Percentual de famílias cadastradas pelo programa de saúde da família.
 
-Acima de 15% 10,0 12 a 14,9% 7,5 10 a 11,9% 5,0 8 a 9,9% 2,5 Abaixo 8% 0,0
+Avaliação Nota Acima de 15% 10,0 12 a 14,9% 7,5 10 a 11,9% 5,0 8 a 9,9% 2,5 Abaixo 8% 0,0
 
 Subgrupo C - Número de famílias atendidas por equipe de saúde da família nas áreas de atuação.
 
@@ -209,23 +201,23 @@ Até 1000 10,0 1001 a 1100 7,5 1101 a 1200 5,0 1201 a 1300 2,5 Acima 1300 0,0
 
 Subgrupo D - Percentual de unidades de saúde que desenvolvem ações de incentivo a atividade física.
 
-100% 10,0 90 a 99% 7,5 80 a 89,9 5,0 70 a 79,9% 2,5 Abaixo de 70% 0,0
+Avaliação Nota 100% 10,0 90 a 99% 7,5 80 a 89,9 5,0 70 a 79,9% 2,5 Abaixo de 70% 0,0
 
 Subgrupo E - Média anual de consultas médicas por habitante nas especialidades básicas.
 
-Acima de 1,2 consultas 10,0 1,0 a 1,2 7,5 0,7 a 0,9 5,0 0,4 a 0,6 2,5 Abaixo de 0,4 0,0
+Avaliação Nota Acima de 1,2 consultas 10,0 1,0 a 1,2 7,5 0,7 a 0,9 5,0 0,4 a 0,6 2,5 Abaixo de 0,4 0,0
 
 Subgrupo F - média mensal de visitas domiciliares por família realizadas por agente comunitário de saúde.
 
-Acima de 1,7 10,0 1,4 a 1,69 7,5 1,2 a 1,39 5,0 1,0 a 1,19 2,5 Abaixo de 1 0,0
+Avaliação Nota Acima de 1,7 10,0 1,4 a 1,69 7,5 1,2 a 1,39 5,0 1,0 a 1,19 2,5 Abaixo de 1 0,0
 
 Subgrupo G – Percentual de unidades básicas com equipes odontológicas.
 
-100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
+Avaliação Nota 100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
 
 Subgrupo H – Percentual de unidades básicas com programas preventivos de saúde bucal.
 
-100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
+Avaliação Nota 100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
 
 Subgrupo I - Percentual de unidades básicas que desenvolvem programas preventivos nas áreas de hipertensão arterial, diabetes e outras.
 
@@ -233,19 +225,19 @@ Acima 80% 10,0 75 a 79,9% 7,5 70 a 74,9% 5,0 65 a 69,9% 2,5 Abaixo 65% 0,0
 
 Subgrupo J – Cobertura vacinal atingida em percentual da população alvo nas campanhas de vacinação do ano anterior (Avaliar uma campanha).
 
-100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
+Avaliação Nota 100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
 
 Subgrupo K - Proporção de amostras clinicas coletadas do vírus influenza em relação ao preconizado.
 
-Acima 80% 10,0 75 a 79,9% 7,5 70 a 74,9% 5,0 65 a 69,9% 2,5 Abaixo 65% 0,0
+Avaliação Nota Acima 80% 10,0 75 a 79,9% 7,5 70 a 74,9% 5,0 65 a 69,9% 2,5 Abaixo 65% 0,0
 
 Subgrupo L- Taxa de letalidade por febre hemorrágica de dengue.
 
-Ate 6% 10,0 6,1 a 8% 7,5 8,1 a 10% 5,0 10 a 12% 2,5 Acima de 12% 0,0
+Avaliação Nota Ate 6% 10,0 6,1 a 8% 7,5 8,1 a 10% 5,0 10 a 12% 2,5 Acima de 12% 0,0
 
 Subgrupo M - Proporção de cura de casos novos de tuberculose pulmonar bacilifera.
 
-Acima 80% 10,0 75 a 79,9% 7,5 70 a 74,9% 5,0 65 a 69,9% 2,5 Abaixo 65% 0,0
+Avaliação Nota Acima 80% 10,0 75 a 79,9% 7,5 70 a 74,9% 5,0 65 a 69,9% 2,5 Abaixo 65% 0,0
 
 Subgrupo N - Proporção de cura dos casos novos de hanseníase diagnosticados.
 
@@ -259,21 +251,19 @@ Acima 1,21 10,0 1,0 a 1,20 7,5 0,8 a 0,99 5,0 0,6 a 0,79 2,5 Abaixo de 0,6 0,0
 
 Subgrupo P - Percentual da população com mais de 60 anos vacinadas.
 
-100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
+Avaliação Nota 100% 10,0 95 a 99% 7,5 90 a 94,9% 5,0 85 a 89,9% 2,5 Abaixo 85% 0,0
 
 Subgrupo Q - Percentual de Unidades Básicas de Saúde com farmacêutico em seu quadro funcional.
 
-100% 10,0 70 a 99,9% 7,5 50 a 69,9% 5,0 30 a 49,9% 2,5 Abaixo 30% 0,0
+Avaliação Nota 100% 10,0 70 a 99,9% 7,5 50 a 69,9% 5,0 30 a 49,9% 2,5 Abaixo 30% 0,0
 
 GRUPO IV Grupo IV - Atendimento hospitalar e consultas com especialidades e exames de alta complexidade.
 
 Subgrupo A – Número de habitantes por leito destinado ao SUS no município.
 
-Até 500 10,0 501 a 600 7,5 601 a 650 5,0 651 a 700 2,5 Acima de 700 0,0
+Avaliação Nota Até 500 10,0 501 a 600 7,5 601 a 650 5,0 651 a 700 2,5 Acima de 700 0,0
 
-Subgrupo B – Número de habitantes por leito de UTI (Unidade de Terapia Intensiva) adulto destinado ao SUS no município.
-
-Até 5000 10,0 5001 a 5500 7,5 5501 a 6000 5,0 6001 a 7000 2,5 Acima de 7000 0,0
+Subgrupo B – Número de habitantes por leito de UTI (Unidade de Terapia Intensiva) adulto destinado ao SUS no município. Avaliação Nota Até 5000 10,0 5001 a 5500 7,5 5501 a 6000 5,0 6001 a 7000 2,5 Acima de 7000 0,0
 
 Subgrupo C - Número de habitantes por leito de UTI (Unidade de Terapia Intensiva) neonatal e pediátrica destinado ao SUS no município.
 
@@ -281,23 +271,23 @@ Até 11000 10,0 11001 a 11500 7,5 11501 a 12000 5,0 12001 a 13000 2,5 Acima de 1
 
 Subgrupo D – Tempo médio de espera para consultas com especialidades.
 
-Até 30 dias 10,0 31 a 45 dias 7,5 46 a 60 dias ,0 61 a 80 dias 2,5 Acima de 80 dias 0,0
+Avaliação Nota Até 30 dias 10,0 31 a 45 dias 7,5 46 a 60 dias ,0 61 a 80 dias 2,5 Acima de 80 dias 0,0
 
 Subgrupo E – Tempo médio de espera para realização de cirurgias de especialidades programadas.
 
-Até 30 dias 10,0 31 a 45 dias 7,5 46 a 60 dias 5,0 61 a 80 dias 2,5 Acima de 80 dias 0,0
+Avaliação Nota Até 30 dias 10,0 31 a 45 dias 7,5 46 a 60 dias 5,0 61 a 80 dias 2,5 Acima de 80 dias 0,0
 
 Subgrupo F – Número de unidades de pronto atendimento e pronto socorros com atendimento SUS no município.
 
-Acima de 12 10,0 10 a 11 7,5 8a9 5,0 6a7 2,5 Abaixo de 7 0,0
+Avaliação Nota Acima de 12 10,0 10 a 11 7,5 8a9 5,0 6a7 2,5 Abaixo de 7 0,0
 
 Subgrupo G – Tempo médio de espera para realização de exames de alta complexidade solicitados ambulatorialmente.
 
-Até 30 dias 10,0 31 a 45 dias 7,5 46 a 60 dias 5,0 61 a 80 dias 2,5 Acima de 80 dias 0,0
+Avaliação Nota Até 30 dias 10,0 31 a 45 dias 7,5 46 a 60 dias 5,0 61 a 80 dias 2,5 Acima de 80 dias 0,0
 
 Subgrupo H – Media de permanência de internação hospitalar do idoso.
 
-Até 7 dias 10,0 7 a 8 dias 7,5 8 a 9 dias 5,0 9 a 10 dias 2,5
+Avaliação Nota Até 7 dias 10,0 7 a 8 dias 7,5 8 a 9 dias 5,0 9 a 10 dias 2,5
 
 Acima de 10 dias 0,0
 

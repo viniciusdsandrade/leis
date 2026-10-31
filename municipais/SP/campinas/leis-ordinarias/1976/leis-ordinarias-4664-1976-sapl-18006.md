@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/18006"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1976/18006/18006_texto_integral.pdf"
 sha256_fonte: "63ab5bd4188167a434f6987f8aeef380d2c1b34b7a7d0023c782d90289bd6fba"
-sha256_texto: "ba3ac9280ecfcc1e41e92ea745da698be8dbf06221fc29cdb0e01790ee40bd36"
+sha256_texto: "24136c01c325ad08b15e9e810e5a13c84e8f7211f1a92e05d37cea684909a441"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,9 +25,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** - Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais, as áreas de terreno abaixo descritas, de propriedade da Prefeitura Municipal de Campinas, a saber:
 
-I - "Parte de passagem para pedestres, situada na quadra D, do Jardim Pacaembu quarteirão n.º 2.745 do Cadastro Municipal, com 150,00m² de área medindo: 5,00m de frente, pelo alinhamento da Rua Irmão Pedro Biancone;
-
-lateralmente à esquerda, onde confronta com o lote n.º 8 da mesma quadra, e 30,00m lateralmente à direita, onde confronta com o lote n.º 7, também da
+I - "Parte de passagem para pedestres, situada na quadra D, do Jardim Pacaembu quarteirão n.º 2.745 do Cadastro Municipal, com 150,00m² de área medindo: 5,00m de frente, pelo alinhamento da Rua Irmão Pedro Biancone; 5,00m nos fundos, onde confronta com a outra parte da passagem; 30,00m lateralmente à esquerda, onde confronta com o lote n.º 8 da mesma quadra, e 30,00m lateralmente à direita, onde confronta com o lote n.º 7, também da mesma quadra".
 
 II - "Parte de passagem para pedestres, situada na quadra D, do Jardim Pacaembu, quarteirão n.º 2.745, do Cadastro Municipal, com 150,00m² de área, medindo: 5,00m de frente, pelo alinhamento da Rua Antônio Nunes dos Santos; 5,00m nos fundos onde confronta com a outra parte da passagem; 30,00m lateralmente à esquerda, onde confronta com o lote n.º 29 da mesma quadra e 30,00m lateralmente à direita, onde confronta com o imóvel n.º 444 da Rua citada (lote 28)”.
 
@@ -39,9 +37,7 @@ lateralmente à direita, onde confronta com o lote n.º 7 da mesma quadra, e 30,
 
 IV - "Parte de passagem para pedestres, situada na quadra C do Jardim
 
-medindo: 5,00m de frente pelo alinhamento da Rua Irmão Pedro Biancone;
-
-lateralmente à esquerda, onde confronta com o lote n.º 25 da mesma quadra, e 30,00m lateralmente à direita, onde confronta com o lote n.º 24, também da
+medindo: 5,00m de frente pelo alinhamento da Rua Irmão Pedro Biancone; 5,00m nos fundos, onde confronta com a outra parte da passagem; 30,00m lateralmente à esquerda, onde confronta com o lote n.º 25 da mesma quadra, e 30,00m lateralmente à direita, onde confronta com o lote n.º 24, também da mesma quadra".
 
 **Artigo 2º** - Fica a Prefeitura Municipal autorizada a vender as faixas descritas no artigo anterior, mediante concorrência limitada aos proprietários lindeiros.
 

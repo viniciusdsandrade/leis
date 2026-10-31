@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; VER LEI 6246."
 fonte: "https://sapl.campinas.sp.leg.br/norma/24782"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2008/24782/24782_texto_integral.pdf"
 sha256_fonte: "ef618ee45f598db61aca225e6046af6a46af630ebead9e66051448cba2bf4a1f"
-sha256_texto: "0ebbdf5dbcfb9c0816a9dfee0b5bf4db0597783afedb43e85732ebc6c08e7066"
+sha256_texto: "876333cc75d6ff00afde2424716f8c7c0d4811cffa5d456938ccd495f05efdf0"
 baixado_em: "2026-10-22"
 ---
 
@@ -32,6 +32,8 @@ II – Lei nº 4.886, de 14 de maio de 1979, que “Cria o Conselho de Defesa do
 III – Lei nº 5.483, de 11 de outubro de 1984, que “Dispõe sobre o Conselho Municipal de Cultura e dá outras providências”;
 
 IV – Lei nº 5.515, de 3 de dezembro de 1985, que “Dispõe sobre o Conselho de Defesa do Meio Ambiente (CODEMA)”;
+
+V – VETADO;
 
 VI - VETADO;
 
@@ -108,6 +110,8 @@ II – VETADO;
 III – VETADO;
 
 IV – VETADO;
+
+V – VETADO;
 
 VI – VETADO;
 

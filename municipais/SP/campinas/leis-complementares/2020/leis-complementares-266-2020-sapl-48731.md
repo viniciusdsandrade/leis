@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/48731"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/48731/48731_texto_integral.pdf"
 sha256_fonte: "07370e526b5db02619ec9069f1cd501d41c5d1a2526bddd493f8cc80eefe9fd6"
-sha256_texto: "f4f771b378d0afb030fff581a8ea7186d27dd2a5efc73b5b51886f8388188015"
+sha256_texto: "f3898512f64f4d2ce36929c6b3c22b944f6964500fbd2ef854a0d9beaf6c3ced"
 baixado_em: "2026-10-21"
 ---
 
@@ -31,9 +31,7 @@ Cargo: Diretor de Divisão Referência: 15 Escolaridade: nível médio Condiçõ
 
 Cargo: Encarregado de Unidade Referência: 14 Escolaridade: nível médio Condições de provimento: nomeação pela Mesa Diretora de servidor promovido do cargo de Oficial Legislativo II. Descrição sintética das atribuições: supervisar todas as atividades da unidade, coordenando e controlando as tarefas; realizar, a pedido do respectivo diretor, ou do diretor-geral no caso da Unidade de Informática, estudos ou pesquisas, e assessorá-lo no exame dos processos, tanto os de origem legislativa quanto administrativa.
 
-Cargo: Auxiliar Legislativo I
-
-Escolaridade: nível médio, conhecimentos em informática e digitação. Condições de provimento: nomeação pela Mesa Diretora de servidor aprovado em concurso público. Descrição sintética das atribuições: executar, segundo diretrizes e orientação superior, trabalhos datilográficos, de digitação e de redação; secretariar comissões legislativas; elaborar atas das sessões plenárias e outros
+Cargo: Auxiliar Legislativo I Referência: 08 Escolaridade: nível médio, conhecimentos em informática e digitação. Condições de provimento: nomeação pela Mesa Diretora de servidor aprovado em concurso público. Descrição sintética das atribuições: executar, segundo diretrizes e orientação superior, trabalhos datilográficos, de digitação e de redação; secretariar comissões legislativas; elaborar atas das sessões plenárias e outros
 
 trabalhos específicos do Legislativo; assessorar em assuntos específicos do Legislativo, tais como pesquisas, estudos e elaboração de normas, pareceres e informações.
 
@@ -45,9 +43,7 @@ Cargo: Oficial Legislativo I Referência: 11 Condições de provimento: nomeaç�
 
 Cargo: Inspetores de Garagem, Transporte e Conservação de Veículos Referência: 10 Condições de provimento: nomeação pela Mesa Diretora de servidor promovido do cargo de Agente de Apoio. Descrição sintética das atribuições: cumprir e fazer cumprir as disposições referentes à seção; dirigir e coordenar as atividades desenvolvidas; desempenhar as determinações superiores.
 
-Cargo: Auxiliar de Transporte e Apoio
-
-Condições de provimento: provido pelo atual ocupante do cargo de motorista. Extinto ao vagar. Descrição sintética das atribuições: realizar tarefas de entrega e transporte, sendo responsável pelo veículo utilizado; executar serviços de escritório, almoxarifado e apoio em eventos, sessões plenárias e demais órgãos do Poder Legislativo.
+Cargo: Auxiliar de Transporte e Apoio Referência: 08 Condições de provimento: provido pelo atual ocupante do cargo de motorista. Extinto ao vagar. Descrição sintética das atribuições: realizar tarefas de entrega e transporte, sendo responsável pelo veículo utilizado; executar serviços de escritório, almoxarifado e apoio em eventos, sessões plenárias e demais órgãos do Poder Legislativo.
 
 Cargo: Agente Operacional Especializado Referência: 05 Condições de provimento: nomeação pela Mesa Diretora de servidor promovido do cargo de Agente Operacional II.
 
@@ -59,9 +55,7 @@ Cargo: Analista em Documentação II Referência: 16 Condições de provimento: 
 
 Cargo: Analista em Documentação I Referência: 15 Escolaridade: nível superior na área de Biblioteconomia. Condições de provimento: provido pelo atual ocupante do cargo de Bibliotecário Auxiliar. Na vacância, nomeação pela Mesa Diretora de servidor aprovado em concurso público. Descrição sintética das atribuições: executar pesquisas e trabalhos especializados na Biblioteca da Câmara Municipal de Campinas.
 
-Cargo: Técnico de Informática
-
-Escolaridade: nível médio. Condições de provimento: provimento pelos atuais ocupantes do cargo de digitador. Nomeação pela Mesa Diretora de servidor aprovado em concurso público. Descrição sintética das atribuições: executar trabalhos em sistemas eletrônicos de processamento de dados e manutenção e compilação de programas e redes.
+Cargo: Técnico de Informática Referência: 08 Escolaridade: nível médio. Condições de provimento: provimento pelos atuais ocupantes do cargo de digitador. Nomeação pela Mesa Diretora de servidor aprovado em concurso público. Descrição sintética das atribuições: executar trabalhos em sistemas eletrônicos de processamento de dados e manutenção e compilação de programas e redes.
 
 Cargo: Assessor Técnico Legislativo Referência: 13 Condições de provimento: nomeação pela Mesa Diretora de servidor promovido do cargo de Assessor Técnico Jurídico.
 

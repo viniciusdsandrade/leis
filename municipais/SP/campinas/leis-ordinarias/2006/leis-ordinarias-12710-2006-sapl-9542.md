@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/9542"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2006/9542/9542_texto_integral.pdf"
 sha256_fonte: "77c90f8bfbc0a370fd6ed1b4a0a25a24fe89735818bd478c3afaf36cf0d0b877"
-sha256_texto: "24aab2ab32cb544de3cae8f5a92b22fa1d4701607ae49672323cfdcf8c319755"
+sha256_texto: "633a6049754d67cfd9df5bde3e44b32839370a9b772bf599b3fd527c7d8a7f74"
 baixado_em: "2026-10-22"
 ---
 
@@ -33,11 +33,11 @@ III – Praça 2, localizada no quarteirão 8910, do Cadastro Municipal, no lote
 
 IV – Praça 1, localizada no quarteirão 8909, do Cadastro Municipal, no loteamento Vila Aeroporto – 3ª Gleba, de propriedade da Municipalidade, com área de 3.900,00m² e as seguintes medidas e confrontações: 82,50m, onde confronta com a Rua Igarapé (antiga Rua 28); 61,80m, onde confronta com a Rua Jupará (antiga Rua 30); 73,50m, onde confronta com a Rua Igaci (antiga Rua 29); 57,18m, onde confronta com a Gleba 1, de propriedade da Cohab;
 
-V – Trecho da Rua Igarapé (antiga Rua 5), localizada no loteamento Jardim Ouro Verde – 1ª Gleba, com área de 1.186,00m² e as seguintes medidas e confrontações: 81,70m em curva, mais 85,95m, mais 2,95m em curva, onde confrontam com o remanescente da Rua Igarapé (antiga Rua 5); 16,72m, onde confronta com a Avenida Jacaúna (antiga Avenida 1); 7,67m em curva, mais 91,43m em curva, mais 77,00m, onde confrontam com a Praça 2, sendo todos os
+V – Trecho da Rua Igarapé (antiga Rua 5), localizada no loteamento Jardim Ouro Verde – 1ª Gleba, com área de 1.186,00m² e as seguintes medidas e confrontações: 81,70m em curva, mais 85,95m, mais 2,95m em curva, onde confrontam com o remanescente da Rua Igarapé (antiga Rua 5); 16,72m, onde confronta com a Avenida Jacaúna (antiga Avenida 1); 7,67m em curva, mais 91,43m em curva, mais 77,00m, onde confrontam com a Praça 2, sendo todos os confrontantes do loteamento Jardim Ouro Verde – 1ª Gleba;
 
 VI – Trecho da Rua Potengi (antiga Rua 8), localizada no loteamento Jardim Ouro Verde – 1ª Gleba, com área de 335,16m² e as seguintes medidas e confrontações: 42,23m em curva, mais 32,10m em curva, mais 18,21m em curva, onde confrontam com o remanescente da Rua Potengi (antiga Rua 8); 19,00m em curva, onde confronta com a Rua Igaci (antiga Rua 9);
 
-38,96m em curva, mais 67,30m em curva, onde confrontam com a Praça 2, sendo todos os
+38,96m em curva, mais 67,30m em curva, onde confrontam com a Praça 2, sendo todos os confrontantes do loteamento Jardim Ouro Verde – 1ª Gleba;
 
 VII – Trecho da Rua Igaci (antiga Rua 9), localizada no loteamento Jardim Ouro Verde – 1ª Gleba, com área de 489,80m² e as seguintes medidas e confrontações: 44,75m em curva, onde confronta com a Praça 2; 19,00m em curva, onde confronta com a Rua Potengi (antiga Rua 8); 16,74m em curva, mais 23,57m, mais 24,92m em curva, onde confrontam com o remanescente da Rua Igaci (antiga Rua 9), sendo todos os confrontantes do loteamento Jardim Ouro Verde – 1ª Gleba; 10,60m, onde confronta com parte da Rua Igaci (antiga Rua 29), do loteamento Vila Aeroporto – 3ª Gleba;
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: CARLOS FRANCIS
 fonte: "https://sapl.campinas.sp.leg.br/norma/7714"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2005/7714/7714_texto_integral.pdf"
 sha256_fonte: "240760adf1dd663c9c7114be072f3ddd1a5f249d91349f450b4df99a3d24e36a"
-sha256_texto: "7b8b6b7613f50695ad0694accb93982005cde602d0bd8baf92c6f5e8c20d83bc"
+sha256_texto: "c12ec876d310cd347c6254d0de569c924e084a9a1d378c9afaef3b292bfef7b1"
 baixado_em: "2026-10-22"
 ---
 
@@ -97,6 +97,10 @@ Da Instituição e Objetivos
 
 **Art. 8º** - VETADO
 
+I - VETADO
+
+II - VETADO
+
 III - VETADO
 
 a) VETADO
@@ -131,6 +135,8 @@ Das Competências
 
 **Art. 9º** - VETADO
 
+I - VETADO
+
 II – VETADO
 
 III - VETADO
@@ -160,6 +166,10 @@ XII - VETADO
 Da Composição
 
 **Art. 10** - VETADO
+
+I - VETADO
+
+II - VETADO
 
 III - VETADO
 
@@ -191,6 +201,8 @@ b) VETADO
 
 **Art. 14** - VETADO
 
+I - VETADO
+
 II – VETADO
 
 III - VETADO
@@ -202,6 +214,10 @@ IV - VETADO
 Do Colegiado Executivo
 
 **Art. 15** - VETADO
+
+I - VETADO
+
+II - VETADO
 
 III - VETADO
 
@@ -268,6 +284,10 @@ Das Reuniões e Deliberações
 **Art. 28** - VETADO
 
 **Art. 29** - VETADO
+
+I - VETADO
+
+II - VETADO
 
 **Art. 30** - VETADO
 

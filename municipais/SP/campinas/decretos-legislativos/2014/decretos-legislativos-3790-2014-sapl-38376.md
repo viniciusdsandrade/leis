@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR PASTO
 fonte: "https://sapl.campinas.sp.leg.br/norma/38376"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2014/38376/38376_texto_integral.pdf"
 sha256_fonte: "7a51f748cdf0dc02d428d8b2e454e01f49bd926db3026e5d892842efc2acd542"
-sha256_texto: "c9423ee8f6e7e4de0ed4e050b65f4741f59315a5ae95ddc70efcab6a6ab72150"
+sha256_texto: "c6d6f106d808c7294d784001a6c8b4f870c8fde412164a9c492c6fcb819ce242"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,11 +27,15 @@ Decreto Legislativo:
 
 **Art. 1º** - Fica concedido Diploma de Mérito Cristão 'Pastor João Batista Martins de Sá' a Rocco Digilio Filho, Adenir de Jesus Leonis e Nelson Oliveira Prestes, pelos relevantes serviços prestados no campo da evangelização e da educação cristã no município de Campinas.
 
-**Art. 2º** - Aos homenageados serão entregues diplomas em conformidade com o disposto
+**Art. 2º** - Aos homenageados serão entregues diplomas em conformidade com o disposto no art. 17 da Resolução nº 717, de 16 de dezembro de 1999.
 
-**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por
+**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta de verbas próprias da Secretaria da Câmara Municipal, consignadas no orçamento, suplementadas, se necessário.
 
 **Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Campinas, 08 de agosto de 2014 CAMPOS FILHO Presidente
+
+Autoria: Vereador Pastor Elias Azevedo Publicado na Secretaria da Câmara Municipal de Campinas aos 08 de agosto de 2014. ISRAEL MAZZO Diretor Geral
 
 REPUBLICADO NO DOM DO DIA 20 DE AGOSTO DE 2014 P. 72
 
@@ -43,9 +47,11 @@ Decreto Legislativo:
 
 **Art. 1º** - Fica concedido Diploma de Mérito Cristão 'Pastor João Batista Martins de Sá' a Rocco Digilio Filho, Adenir de Jesus Leonis e Nelson Oliveira Prestes, pelos relevantes serviços prestados no campo da evangelização e da educação cristã no município de Campinas.
 
-**Art. 2º** - Aos homenageados serão entregues diplomas em conformidade com o disposto
+**Art. 2º** - Aos homenageados serão entregues diplomas em conformidade com o disposto no art. 17 da Resolução nº 717, de 16 de dezembro de 1999.
 
-**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por
+**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta de verbas próprias da Secretaria da Câmara Municipal, consignadas no orçamento, suplementadas, se necessário.
 
 **Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Campinas, 08 de agosto de 2014 CAMPOS FILHO Presidente Autoria: Vereador Pastor Elias Azevedo Publicado na Secretaria da Câmara Municipal de Campinas aos 08 de agosto de 2014. ISRAEL MAZZO Diretor Geral
 

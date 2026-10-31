@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: COMISSOES DE F
 fonte: "https://sapl.campinas.sp.leg.br/norma/37355"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2013/37355/37355_texto_integral.pdf"
 sha256_fonte: "bff2af7efef16dc482175bcbff3a7d2afaac72ec953e65dc39cfc034ec072480"
-sha256_texto: "d1ac72175ac8bd6f2afde33b70b2adfe9e502752f26fedb6bc872792321553b0"
+sha256_texto: "42a5b29dd598b46a1f5918a8daa87d28981208a0459585f58ad580de9522f216"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,9 +27,13 @@ Decreto Legislativo:
 
 **Art. 2º** A Mesa da Câmara Municipal, nos termos do artigo 192 da Resolução 691/97, ﬁca autorizada a encaminhar o Processo TC-5457/026/98 ao Ministério Público para as providências legais.
 
-**Art. 3º** Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as
+**Art. 3º** Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-Campinas, 300 de abril de 2013
+Campinas, 300 de abril de 2013 CAMPOS FILHO Presidente
+
+autoria: Comissões de Finanças e Orçamento e Constituição, Legalidade e Redação
+
+PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 30 DE ABRIL DE 2013. ISRAEL MAZZO Diretor Geral
 
 (PUBLICADO NOVAMENTE POR HAVER INCORREÇÃO, CONFORME DISPOSTO NO ARTIGO 183, § 2º DO REGIMENTO INTERNO, EM 03/05/2013)
 
@@ -43,7 +47,11 @@ Decreto Legislativo:
 
 **Art. 2º** Nos termos do artigo 193 da Resolução 842/09, deverá a Comissão de Constituição e Legalidade propor as providências a serem tomadas pela Câmara Municipal.
 
-**Art. 3º** Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as
+**Art. 3º** Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-Campinas, 02 de maio de 2013
+Campinas, 02 de maio de 2013 CAMPOS FILHO Presidente
+
+autoria: Comissões de Finanças e Orçamento e Constituição, Legalidade e Redação
+
+PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 30 DE ABRIL DE 2013. ISRAEL MAZZO Diretor Geral
 

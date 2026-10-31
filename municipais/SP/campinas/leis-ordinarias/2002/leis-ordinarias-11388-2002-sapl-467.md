@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/467"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2002/467/467_texto_integral.pdf"
 sha256_fonte: "b30bc46351065777742ce9bda1db237a2d3f1f6e6dbb5a3fb9cd9764722e096d"
-sha256_texto: "14c77182311aa310dec56c7b4725861b48992925b3060e268ce90451af38e316"
+sha256_texto: "9e3063bddc5d6db68911a0644591820853cd9157bb951e15c9a609a0edbef29c"
 baixado_em: "2026-10-22"
 ---
 
@@ -27,7 +27,7 @@ A Câmara Municipal aprovou e eu, Prefeita do Município de Campinas, sanciono e
 
 I – FAMÍLIA OCUPACIONAL OPERACIONAL:
 
-Copeiro Hospitalar 10
+CARGOS QUANT. Copeiro Hospitalar 10
 
 Salva-Vidas 20
 
@@ -40,6 +40,8 @@ Operador de Caldeira 05 Pintor de Obras 10
 Vidraceiro 05
 
 II – FAMÍLIA OCUPACIONAL ADMINISTRATIVA
+
+CARGOS QUANT.
 
 Auxiliar Administrativo 50 Técnico em Contabilidade 10
 
@@ -57,6 +59,8 @@ Técnico em Turismo 05
 
 III – FAMÍLIA OCUPACIONAL UNIVERSITÁRIA
 
+CARGOS QUANT.
+
 Bibliotecário 05 Engenheiro 15
 
 Arquiteto 05
@@ -69,7 +73,7 @@ Radialista 04
 
 IV - FAMÍLIA OCUPACIONAL SAÚDE
 
-Analista Clínico 05
+CARGOS QUANT. Analista Clínico 05
 
 VETADO 200
 

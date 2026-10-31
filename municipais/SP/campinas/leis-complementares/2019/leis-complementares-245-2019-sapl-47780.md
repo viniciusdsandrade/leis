@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/47780"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2019/47780/47780_texto_integral.pdf"
 sha256_fonte: "6a14e9a2e4835c2449bc04f4178fba59e64252a6940ba323f818b6ea77c77f25"
-sha256_texto: "8e337069194612b4882fc5a7800398f4ba5d78ac2b46259d695db6a1302c0c23"
+sha256_texto: "cf8b3a0d86bc8738e6d02f0e02692029954554c117e8047f5a64b7bd892f49e0"
 baixado_em: "2026-10-21"
 ---
 
@@ -35,13 +35,13 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **Parágrafo único.** O parcelamento não aproveita aos casos de dolo, fraude ou simulação dos sujeitos passivos descritos no caput e no parágrafo único do art. 5º desta Lei, não se computando o tempo decorrido entre a concessão do parcelamento e sua revogação para efeito da prescrição do direito à cobrança do crédito.” (NR)
 
-**Art. 3º** Fica acrescido o inciso IV ao art. 13 da Lei Complementar nº 42, de 2013,
+**Art. 3º** Fica acrescido o inciso IV ao art. 13 da Lei Complementar nº 42, de 2013, com a seguinte redação:
 
 “Art. 13............................... ...........................................
 
 IV - naquelas previstas pelo parágrafo único do art. 154 e pelos incisos I e II do art. 155 da Lei Federal nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional. .................................” (NR)
 
-**Art. 4º** Fica acrescido o inciso IV ao art. 14 da Lei Complementar nº 42, de 2013,
+**Art. 4º** Fica acrescido o inciso IV ao art. 14 da Lei Complementar nº 42, de 2013, com a seguinte redação:
 
 “Art. 14......................................
 

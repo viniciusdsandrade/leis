@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/52641"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/52641/52641_texto_integral.pdf"
 sha256_fonte: "5ad3c13a5f63352dd2f31144a78246fadbfe085174f34edbeb3eea53b8d96c89"
-sha256_texto: "7174896b4ec52378fc064e978bda855b23d12116b46119c1e8a2d2b0c29eb8f6"
+sha256_texto: "f90f23470f85ea2a28584683323e310ad52bea30ca7a5d1f02140e17b064024f"
 baixado_em: "2026-10-21"
 ---
 
@@ -57,7 +57,11 @@ a) não comprovar inscrição ativa no Cadastro Municipal de Receitas Mobiliári
 
 “Art. 19 ..................................
 
+..............................................
+
 **§ 3º** .......................................
+
+..............................................
 
 II - coleta, remessa ou entrega de correspondências, documentos, objetos, bens ou valores, enquadrados no subitem 26.01 da lista anexa.” (NR)
 
@@ -81,6 +85,8 @@ II - coleta, remessa ou entrega de correspondências, documentos, objetos, bens 
 
 III - o valor das comissões ou dos honorários cobrados sobre o preço dos serviços relacionados no inciso I deste parágrafo, quando executados por terceiros, por ordem e conta do cliente;
 
+..............................................
+
 **§ 10.** Os serviços mencionados no § 9º prestados por terceiros deverão ser individualizados e inequivocamente demonstrados ao cliente por ordem e conta de quem foram efetuadas as despesas, mediante documentação fiscal hábil, sob pena de integrarem-se à base de cálculo do imposto.” (NR)
 
 **Art. 8º** Fica acrescido o inciso VIII ao art. 25 da Lei nº 12.392, de 2005, que passa a vigorar com a seguinte redação:
@@ -98,6 +104,8 @@ VIII - não entregar a declaração prevista no art. 37-F desta Lei ou entregá-
 “Art. 27 ..................................
 
 I -...........................................
+
+..............................................
 
 k) intermediação de aluguéis, entregas e transporte de passageiros, bem como compra e venda de mercadorias (marketplace), prevista no subitem 10.05, realizada por empresa que preste serviços exclusivamente pela internet, por meio de sítios e aplicativos móveis;
 
@@ -143,6 +151,8 @@ I -...........................................
 
 a) os serviços prestados por profissional autônomo;
 
+..............................................
+
 c) outras hipóteses, a critério da Administração Tributária Municipal, conforme normas regulamentadoras;
 
 .............................................
@@ -178,6 +188,8 @@ Lei e considerada a imposição mínima de 300 (trezentas) Unidades Fiscais de C
 II - emissão ou escrituração de documento fiscal com rasuras, dados inexatos ou incompletos: multa de 2% (dois por cento) sobre o preço do serviço, considerando-se todas as deduções legais apuradas pela Administração Tributária Municipal, atualizado monetariamente, observado o disposto nos arts. 22 a 26 desta Lei e considerada a imposição mínima de 300 (trezentas) Unidades Fiscais de Campinas - UFICs;
 
 III - utilização de documento fiscal com vício, fraude ou simulação: multa de 5% (cinco por cento) sobre o preço do serviço, considerando-se todas as deduções legais apuradas pela Administração Tributária Municipal, atualizado monetariamente, observado o disposto nos arts. 22 a 26 desta Lei e considerada a imposição mínima de 300 (trezentas) Unidades Fiscais de Campinas - UFICs;
+
+..............................................
 
 XXVII - declaração relativa a obra de construção civil, prevista no art. 37-F desta Lei, não entregue: multa de 20% (vinte por cento) sobre o valor do imposto devido apurado pela Administração Tributária Municipal, nos termos da legislação vigente, observada a imposição mínima de 300 (trezentas) Unidades Fiscais de Campinas (UFICs);
 

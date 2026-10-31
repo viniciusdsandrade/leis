@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/32293"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1972/32293/32293_texto_integral.pdf"
 sha256_fonte: "6768e5cb7826d4db70c5cbad7dbd3b670ecaa92195642156976cdcf8c61c6f60"
-sha256_texto: "964e1fa06238356541d4bb531b1f07dba379fcd0cb0be3202e055f744c71be53"
+sha256_texto: "03b45f3f27181a4d2f18f9f7986a5a6c62dd4fbd787421f7296704b898eb6d0a"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,7 +27,7 @@ Orestes Quércia, Prefeito Municipal de Campinas, usando das atribuições que l
 
 **Art. 2º** – A receita será realizada mediante a arrecadação dos tributos e outras contribuições correntes e de capital, na forma da legislação vigente e das especificações constantes do Anexo nº2 e de acordo com o seguinte desdobramento:
 
-RECEITAS CORRENTES
+ADMINISTRAÇÃO DIRETA RECEITAS CORRENTES
 
 RECEITA TRIBUTÁRIA Impostos …...................................... 18.772.130,00 Taxas …........................................... 18.059.350,00 Contribuição de Melhoria...........................5.000,00 36.836.480,00
 
@@ -40,6 +40,8 @@ TOTAL ….......................................................................
 TOTAL GERAL DA RECEITA...................................................................... 169.117.724,00
 
 **Art. 3º** – A despesa será realizada na forma do quadro analítico constante do Anexo nº 3 e de acordo com o seguinte desdobramento:
+
+ADMINISTRAÇÃO DIRETA
 
 0 – Governo e Administração Geral 15.915.377,00 1 – Administração Financeira …...... 22.060.395,00 2 – Despesa e Segurança …........... 685.000,00 4 – Viação, transporte e Comunicações...4.413.427,00 5 – Industria e Comércio …...................... 616.027,00 6 – Educação e Cultura......................... 15.621.283,00 7 – Saúde ….......................................... 5.607.133,00 8 – Bem-Estar Social …......................... 16.946.646,00 9 – Serviços Urbanos …....................... 46.150.595,00 128.015.883,00
 

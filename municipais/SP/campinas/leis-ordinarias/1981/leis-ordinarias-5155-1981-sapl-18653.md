@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/18653"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1981/18653/18653_texto_integral.pdf"
 sha256_fonte: "6d10589f4cbb196ffe01b94e83270e3ece2d39fb028ef82fe194616434aabaf0"
-sha256_texto: "0a9f5492f92234828b0dcf96eec5384ba01a26f0f887fccbdbde71121168ab91"
+sha256_texto: "9af73567334d8cf22bc51eb07b9457d75bd8c63eca1cf313957c53dad4afe8ff"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,9 +27,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 I – “Parte da viela para passagem de pedestres, localizada na quadra DD do Jardim Londres, quarteirão 3.838 do Cadastro Municipal, com área de 63,65m2 e as seguintes medidas: 1,50m de frente pelo alinhamento da Rua 18 do Jardim Londres; 42,50m lateralmente à direita, onde confronta com o remanescente da viela; 1,50m nos fundos, onde confronta com o remanescente da viela e 42,00m lateralmente à esquerda, onde confronta com o lote 5 da quadra DD do Jardim Londres”;
 
-II – “Parte da viela para passagem de pedestres, localizada na quadra DD do Jardim Londres, quarteirão 3.838 do Cadastro Municipal, com área de 64,85m2 e as seguintes medidas: 1,50m de frente pelo alinhamento da Rua 18 do Jardim Londres; 42,95m lateralmente à direita, onde confronta com o lote 4 da
-
-remanescente da viela e 42,50m lateralmente à esquerda, onde confronta com o remanescente da viela”;
+II – “Parte da viela para passagem de pedestres, localizada na quadra DD do Jardim Londres, quarteirão 3.838 do Cadastro Municipal, com área de 64,85m2 e as seguintes medidas: 1,50m de frente pelo alinhamento da Rua 18 do Jardim Londres; 42,95m lateralmente à direita, onde confronta com o lote 4 da quadra DD do Jardim Londres; 1,50m nos fundos, onde confronta com o remanescente da viela e 42,50m lateralmente à esquerda, onde confronta com o remanescente da viela”;
 
 III – “Parte da viela para passagem de pedestres, localizada na quadra DD do Jardim Londres, quarteirão 3.838 do Cadastro Municipal, com área de 58,30m2
 
@@ -37,9 +35,7 @@ Ibirapuera; 38,50m lateralmente à direita, onde confronta com o remanescente da
 
 IV – “Parte da viela para passagem de pedestres, localizada na quadra DD do Jardim Londres, quarteirão 3.838 do Cadastro Municipal, com área de 57,70m2
 
-Ibirapuera; 38,00m lateralmente à direita, onde confronta com o lote 23 da
-
-remanescente da viela e 38,50m lateralmente à esquerda, onde confronta com remanescente da viela”.
+Ibirapuera; 38,00m lateralmente à direita, onde confronta com o lote 23 da quadra DD do Jardim Londres; 1,50m nos fundos, onde confronta com o remanescente da viela e 38,50m lateralmente à esquerda, onde confronta com remanescente da viela”.
 
 **Artigo 2º** - Fica a Prefeitura Municipal autorizada a vender as faixas descritas no artigo anterior, independentemente de concorrência, aos lindeiros, Juvenil Domingues Nunes, Odair Rosolen, Maria Alves de Carvalho e João Pedro de Souza, ou seus sucessores, respectivamente, únicos e legítimos e interessados como proprietários dos imóveis contíguos à passagem de pedestres amigavelmente subdividida.
 

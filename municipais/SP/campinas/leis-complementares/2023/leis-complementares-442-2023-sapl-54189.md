@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/54189"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/54189/54189_texto_integral.pdf"
 sha256_fonte: "440fc892c66d724e50d644421c4ce9df0191583a23f872bab42fe84c5cde1f1c"
-sha256_texto: "c339593357393011fd8a02322bd6bdd65d1cff01659645e0f3429dd37ba8d211"
+sha256_texto: "c9e2ac75e1024e183ccfa47ccecb896093c835f985891de52aac948a52b40908"
 baixado_em: "2026-10-21"
 ---
 
@@ -23,7 +23,7 @@ Define a omissão de receita como infração à legislação tributária e sua c
 
 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:
 
-**Art. 1º** Constitui infração à legislação tributária municipal a omissão de receita que resulte em
+**Art. 1º** Constitui infração à legislação tributária municipal a omissão de receita que resulte em supressão ou redução de tributo de competência do Município.
 
 **Art. 2º** Fica caracterizada a omissão de receitas de que trata o art. 1º desta Lei Complementar quando houver a supressão ou redução de tributo por meio:
 
@@ -55,7 +55,7 @@ XIII - da manutenção, no passivo, de obrigações cuja exigibilidade não seja
 
 XIV - da existência de saldos bancários e aplicações financeiras mantidos em instituição financeira sem a comprovação da origem desses recursos;
 
-XV - de qualquer outro elemento de prova que demonstre a omissão de receita que resulte em
+XV - de qualquer outro elemento de prova que demonstre a omissão de receita que resulte em supressão ou redução de tributo de competência do Município.
 
 **Art. 3º** A infração prevista nesta Lei Complementar fica sujeita às multas previstas na legislação tributária municipal, sem prejuízo de outras sanções eventualmente aplicáveis.
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/53771"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53771/53771_texto_integral.pdf"
 sha256_fonte: "1c5d4fdd569765009383aa777397bc7a4a59dcdca0435ce84600cbe9ad0e59ce"
-sha256_texto: "680664fc28ddd21510a8fef60e029cadbcf906838bd8482727148893c49e9d21"
+sha256_texto: "5f6beeaff28389f694d86329c158fc506bb2d09b5cda1c61735db2d7f17e94bf"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,13 +27,13 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **Art. 2º** Ficam remanejadas as seguintes emendas individuais impositivas ao orçamento público municipal:
 
-I - Emenda CMCEME202200328A - Vereadora Paolla Miguel, anular a dotação 09 1100.09110.08.244.1005.4042.449051.08.5100000 no valor de R$ 50.000,00 suplementando as dotações
+I - Emenda CMCEME202200328A - Vereadora Paolla Miguel, anular a dotação 09 1100.09110.08.244.1005.4042.449051.08.5100000 no valor de R$ 50.000,00 suplementando as dotações 091100.09110.08.244.1005.4042.449052.08.510.0000 em R$ 25.000,00 e 091100.09110.08.122.1005.4041.339039.08.510.0000 em R$ 25.000,00;
 
 II - Emenda CMCEME202200393A - Vereador Gustavo Petta, anular a dotação 091 100.09110.08.122.1005.4041.335030.08.510.0000 no valor de R$ 30.000,00 suplementando a dotação 091100.09110.08.122.1005.4041.339039.08.510.0000 em R$ 30.000,00;
 
-III - Emenda CMCEME202200320A - Vereadora Guida Calixto, anular a dotação 09 1100.09110.08.244.1005.4042.449051.08.510.0000 no valor de R$ 50.000,00 suplementando as dotações
+III - Emenda CMCEME202200320A - Vereadora Guida Calixto, anular a dotação 09 1100.09110.08.244.1005.4042.449051.08.510.0000 no valor de R$ 50.000,00 suplementando as dotações 091100.09110.08.244.1005.4042.449052.08.510.0000 em R$ 25.000,00 e 091100.09110.08.122.1005.4041.339039.08.510.0000 em R$ 25.000,00;
 
-IV - Emenda CMCEME202200324A - Vereador Cecílio Santos, anular as dotações 09 1100.09110.08.122.1005.4041.335039.08.510.0000 no valor de R$ 50.000,00 e 091 100.09110.08.244.1005.4042.449051.08.510.0000 no valor de R$ 50.000,00, suplementando as dotações 091100.09110.08.122.1005.4041.335036.08.510.0000 em R$ 50.000,00,
+IV - Emenda CMCEME202200324A - Vereador Cecílio Santos, anular as dotações 09 1100.09110.08.122.1005.4041.335039.08.510.0000 no valor de R$ 50.000,00 e 091 100.09110.08.244.1005.4042.449051.08.510.0000 no valor de R$ 50.000,00, suplementando as dotações 091100.09110.08.122.1005.4041.335036.08.510.0000 em R$ 50.000,00, 091100.09110.08.244.1005.4042.449052.08.510.0000 em R$ 25.000,00 e 091100.09110.08.122.1005.4041.339039.08.510.0000 em R$ 25.000,00;
 
 V - Emenda CMCEME202200246A - Vereador Zé Carlos, anular a dotação 25100 0.25120.15.452.3017.1162.449051.08.100.0000 no valor de R$ 150.000,00 suplementando a dotação 221000.22110.27.812.1013.1124.449052.08.100.0000 em R$ 150.000,00, anular a dotação 221000.22130.27.812.1013.4121.339030.08.100.000 no valor de R$ 50.000,00 suplementando a dotação 221000.22110.27.812.1013.1124.44 9052.08.100.0000 em R$ 50.000,00;
 

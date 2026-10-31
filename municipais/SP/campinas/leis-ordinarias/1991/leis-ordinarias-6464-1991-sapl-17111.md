@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/17111"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1991/17111/17111_texto_integral.pdf"
 sha256_fonte: "ca19b41cf5272482d00a6413bde7187ad58444272196ef9d6ad5d4570914f452"
-sha256_texto: "9ef36008257e64a8f0290169f835de80edcce546c08f7c729088cfef901469b1"
+sha256_texto: "a6a497e0f410fec0a8253ea0b9e57a47181bff4e366b97ae78bea0b6b26c996c"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,7 +25,7 @@ Câmara Municipal de aprovou e eu, Prefeito do Município de Campinas, sanciono 
 
 **Artigo 1º** - Fica o Poder Executivo autorizado a transformar 229 (duzentos e vinte e nove) empregos vagos, abaixo descritos, em cargos públicos, igualmente denominados e remunerados, transpostas as atribuições, jornadas, carreiras e demais requisitos legais:
 
-I - Família Ocupacional Operacional
+I - Família Ocupacional Operacional Nomenclatura Quantidade
 
 a) Ajudante de cozinheiro 03
 
@@ -41,7 +41,7 @@ f) Zelador 06
 
 g) Guarda 13 Subtotal 49
 
-II - Família Ocupacional Administrativa
+II - Família Ocupacional Administrativa Nomenclatura Quantidade
 
 a) Atendente de enfermagem 10
 
@@ -71,7 +71,7 @@ p) Técnico em Radioterapia 03
 
 q) Auxiliar Técnico em Patologia Clínica 04 Subtotal 113
 
-III - Família Ocupacional Universitária
+III - Família Ocupacional Universitária Nomenclatura Quantidade
 
 a) Arquiteto 03
 
@@ -99,11 +99,11 @@ h) Psicólogo 02 Subtotal 67 Total 229
 
 **Artigo 2º** - Fica o Poder Executivo autorizado a criar 105 (cento e cinco) cargos, abaixo especificados, cujas atribuições, jornadas, carreiras, vencimentos padrão e demais requisitos são constantes da Lei nº 5767, de 16 de janeiro de 1987 e legislação posterior pertinente.
 
-I - Família Ocupacional Operacional
+I - Família Ocupacional Operacional Nomenclatura Quantidade
 
 a) Monitor de CRTM 10 Subtotal 10
 
-II - Família Ocupacional Administrativa
+II - Família Ocupacional Administrativa Nomenclatura Quantidade
 
 a) Técnico de Segurança do Trabalho 07
 
@@ -111,13 +111,13 @@ b) Telefonista 10
 
 c) Fiscal de Serviço Público 48 Subtotal 65
 
-III - Família Ocupacional Universitária
+III - Família Ocupacional Universitária Nomenclatura Quantidade
 
 a) Engenheiro de Segurança do Trabalho 03
 
 b) Biólogo 02 Subtotal 05
 
-IV - Família Ocupacional Ensino
+IV - Família Ocupacional Ensino Nomenclatura Quantidade
 
 a) Auxiliar de Direção 10
 

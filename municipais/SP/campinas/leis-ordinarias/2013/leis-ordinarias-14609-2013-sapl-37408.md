@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/37408"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2013/37408/37408_texto_integral.pdf"
 sha256_fonte: "edaefd56f0ab94cf3a181ffe9134f948674b637dc858bf1b7d8fa477f6cee048"
-sha256_texto: "291776cc904a34ac86d729c03d3648ce981cefe749d64d7cac13f0f5f372575c"
+sha256_texto: "5763d3d83884940652262c20647f0c7c064f2208e1b1aefc7ded9d0a1a461386"
 baixado_em: "2026-10-21"
 ---
 
@@ -21,11 +21,11 @@ LEI Nº 14.609 DE 27 DE MAIO DE 2013 ALTERA A LEI N. 4.985, DE 08 DE MAIO DE 198
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Art. 1º** Fica alterado o art. 1º da Lei n. 4.985, de 08 de maio de 1980, que passa a
+**Art. 1º** Fica alterado o art. 1º da Lei n. 4.985, de 08 de maio de 1980, que passa a vigorar com a seguinte redação:
 
 “ Art. 1º Fica criado, junto à Secretaria Municipal de Habitação, o Fundo de Apoio à População de Sub-habitação Urbana - FUNDAP, a ﬁm de propiciar suporte e apoio financeiro para a implementação da Política Habitacional de Interesse Social do Município, destinada predominantemente à população com renda familiar mensal de zero a três salários mínimos, podendo ser ampliada até seis salários mínimos”. (NR)
 
-**Art. 2º** Fica alterado o art. 2º da Lei Municipal n. 4.985, de 08 de maio de 1980, que
+**Art. 2º** Fica alterado o art. 2º da Lei Municipal n. 4.985, de 08 de maio de 1980, que passa a vigorar com a seguinte redação:
 
 “ Art. 2º Para a consecução de seus objetivos, os recursos do FUNDAP poderão ser aplicados:
 
@@ -49,9 +49,7 @@ VII - em estudos, projetos urbanísticos e de construção e nos serviços de as
 
 **Art. 3º** Fica alterado o art. 3º da Lei n. 4.985, de 08 de maio de 1980, que passa a vigorar com a seguinte redação: “ Art. 3º- O FUNDAP será administrado por uma Diretoria composta de 3 (três) membros, assistida por um Conselho Consultivo composto de 11 (onze) membros.” (NR)
 
-**Art. 4º** Fica alterado o inciso I do art. 4º da Lei nº 4.985, de 08 de maio de 1980, que
-
-“ Art. 4º ..........
+**Art. 4º** Fica alterado o inciso I do art. 4º da Lei nº 4.985, de 08 de maio de 1980, que passa a vigorar com a seguinte redação: “ Art. 4º ..........
 
 I - Presidente, exercido pelo Secretário Municipal de Habitação;” (NR)
 
@@ -85,9 +83,7 @@ XI - 1 (um) representante dos Núcleos da Região Noroeste;
 
 § 2º- Os representantes dos núcleos das diversas regiões serão escolhidos pelas Associações de Moradores regularmente constituídas e previamente cadastradas junto à SEHAB, através de processo de eleição.” (NR)
 
-**Art. 6º** Fica alterado o art. 10 da Lei n. 4.985, de 08 de maio de 1980, que passa a
-
-“ Art. 10 O FUNDAP será constituído por recursos provenientes:
+**Art. 6º** Fica alterado o art. 10 da Lei n. 4.985, de 08 de maio de 1980, que passa a vigorar com a seguinte redação: “ Art. 10 O FUNDAP será constituído por recursos provenientes:
 
 I - de créditos especiais e dotações próprias incluídas no orçamento do município;
 
@@ -117,9 +113,7 @@ XIII - de outros recursos que lhe forem eventualmente destinados.
 
 **Parágrafo único** - Quando os recursos se constituírem em bens imóveis, o FUNDAP, para a consecução de seus objetivos, poderá promover a sua locação, alienação, permuta, permissão ou concessão de uso por tempo determinado ou qualquer outra forma de transmissão.” (NR)
 
-**Art. 7º** Fica alterado o art. 11 da Lei n. 4.985, de 08 de maio de 1980, que passa a
-
-“ Art. 11 O FUNDAP contará com suporte administrativo e operacional da Secretaria Municipal de Habitação, a ﬁm de propiciar o recebimento, expedição e tramitação de documentos, convocações, comunicações, atas das reuniões, o gerenciamento dos recursos ﬁnanceiros alocados no Fundo, a realização de vistorias e o acompanhamento de obras, a criação e implementação de banco de dados dos beneﬁ ciários dos recursos advindos do Fundo e demais atos necessários ao bom desempenho de suas ﬁnalidades.” (NR)
+**Art. 7º** Fica alterado o art. 11 da Lei n. 4.985, de 08 de maio de 1980, que passa a vigorar com a seguinte redação: “ Art. 11 O FUNDAP contará com suporte administrativo e operacional da Secretaria Municipal de Habitação, a ﬁm de propiciar o recebimento, expedição e tramitação de documentos, convocações, comunicações, atas das reuniões, o gerenciamento dos recursos ﬁnanceiros alocados no Fundo, a realização de vistorias e o acompanhamento de obras, a criação e implementação de banco de dados dos beneﬁ ciários dos recursos advindos do Fundo e demais atos necessários ao bom desempenho de suas ﬁnalidades.” (NR)
 
 **Art. 8º** Esta Lei entra em vigor na data de sua publicação.
 

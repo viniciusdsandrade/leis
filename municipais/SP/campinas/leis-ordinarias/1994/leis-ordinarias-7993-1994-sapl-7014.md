@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: CID FERREIRA, 
 fonte: "https://sapl.campinas.sp.leg.br/norma/7014"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1994/7014/7014_texto_integral.pdf"
 sha256_fonte: "3ae179de8d8b7d8d965d679d49af7ff5ab85a604f0d029922b77f0db626bbe64"
-sha256_texto: "11fefa6a041f2917683acfb6ea16ddd331c346ac44377ecd3d057bbe631c6cc7"
+sha256_texto: "61a9c02d5111360467feb7e31ec2572910db3a2e4e9772e99fa227557e1ae264"
 baixado_em: "2026-10-30"
 ---
 
@@ -56,6 +56,10 @@ II – DO PLANEJAMENTO E CONTROLE
 **Artigo 3º** – O SISTUC contará permanentemente com instrumentos de Planejamento e Controle, objetivando o seu constante desenvolvimento e o atingimento de níveis progressivos de produtividade, eficiência e eficácia.
 
 **Artigo 4º** – VETADO
+
+a) VETADO
+
+b) VETADO
 
 **Artigo 5º** – Fica a Prefeitura Municipal autorizada a criar e organizar, junto à Secretaria Municipal de Transportes, o Instituto Municipal de Transportes coletivos (INTRANSP), entidade autárquica, que terá por objetivos exclusivos:
 
@@ -103,6 +107,10 @@ l) Medidas destinadas à formação, treinamento e reciclagem dos recursos human
 
 **Artigo 6º** – VETADO
 
+a) VETADO
+
+b) VETADO
+
 c) VETADO
 
 **Artigo 7º** – VETADO
@@ -145,6 +153,8 @@ IV – DAS OPERAÇÕES
 
 **Artigo 11** – As Operações de Transporte Urbano Coletivo, no âmbito do SISTUC, serão executadas:
 
+a) VETADO
+
 b) Através de contratos de prestação de serviços, firmanos, após licitação pública, com empresas privadas de transportes coletivos, observadas as disposições desta lei.
 
 **Artigo 12** – VETADO
@@ -172,6 +182,8 @@ b) Através de contratos de prestação de serviços, firmanos, após licitaçã
 **Artigo 21** – As contratações das empresas privadas para prestação de serviços de transportes ao município obedecerão aos seguintes princípios básicos:
 
 a) Licitação Pública para escolha dos contratados, de acordo com edital aprovado pelo Conselho Municipal de Transportes nos termos da lei, podendo a elas acorrer empresas sediadas em qualquer ponto do território nacional;
+
+b) VETADO
 
 c) As áreas de prestação de serviços, a serem licitadas serão definidas no Plano de Transporte Público de Passageiros;
 
@@ -225,6 +237,10 @@ c) comunicação do fato à Receita federal, para fins de cotejamento com as dec
 
 **Artigo 28** – VETADO
 
+a) VETADO
+
+b) VETADO
+
 c) VETADO
 
 d) VETADO
@@ -260,6 +276,10 @@ VI – DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 **Artigo 36** - VETADO
 
 **Artigo 37** – VETADO
+
+a) VETADO
+
+b) VETADO
 
 c) VETADO
 

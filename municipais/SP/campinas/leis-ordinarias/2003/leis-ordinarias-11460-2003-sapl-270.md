@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/270"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2003/270/270_texto_integral.pdf"
 sha256_fonte: "973c0a54f821a765d31dbbb0b1b303044f203472b9e63b73dfe2d37c59ac04f3"
-sha256_texto: "8d01c3407c5429392ed0264ecfdc4f96f0f25a71abdf9daa3da54effb665dbfc"
+sha256_texto: "16750130c2760b3c2579dea4ef22acda942afe59aa3ff49fa24f19b2bfce80bf"
 baixado_em: "2026-10-22"
 ---
 
@@ -25,25 +25,17 @@ A Câmara Municipal aprovou e eu, Prefeita do Município de Campinas, sanciono e
 
 Art. 1º- Ficam desincorporadas da classe de bens públicos de uso especial e transferidas para a classe de bens dominicais as áreas públicas abaixo descritas:
 
-I - lote 3, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 938,00 m2
+I - lote 3, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 938,00 m2 de área e as seguintes medidas e confrontações: 25,00m de frente, onde confronta com o alinhamento da Rua 42 do mesmo loteamento; 35,00m lateralmente à direita, onde confronta com o lote 4 do mesmo quarteirão; 25,00m aos fundos, onde confronta com o lote 7 do mesmo quarteirão; 40,00m lateralmente à esquerda, onde confronta com o lote 2 do mesmo quarteirão;
 
-confronta com o alinhamento da Rua 42 do mesmo loteamento; 35,00m lateralmente à direita, onde confronta com o lote 4 do mesmo quarteirão; 25,00m aos fundos, onde confronta com o lote 7 do mesmo quarteirão; 40,00m lateralmente à esquerda, onde confronta com o lote 2 do mesmo quarteirão;
-
-II - lote 4, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 915,00 m2
-
-confronta com o alinhamento da Rua 42 do mesmo loteamento; 26,00m lateralmente à direita, onde confronta com o lote 5 do mesmo quarteirão; 30,00m aos fundos, onde confronta com o lote 6 do mesmo quarteirão; 35,00m lateralmente à esquerda, onde confronta com o lote 3 do mesmo quarteirão;
+II - lote 4, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 915,00 m2 de área e as seguintes medidas e confrontações: 30,00m de frente, onde confronta com o alinhamento da Rua 42 do mesmo loteamento; 26,00m lateralmente à direita, onde confronta com o lote 5 do mesmo quarteirão; 30,00m aos fundos, onde confronta com o lote 6 do mesmo quarteirão; 35,00m lateralmente à esquerda, onde confronta com o lote 3 do mesmo quarteirão;
 
 III - lote 5, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 1.580,00 m2 de área e as seguintes medidas e confrontações: 23,00m, onde confronta com o alinhamento da Rua 42 do mesmo loteamento; 45,00m em curva de concordância
 
 entre os alinhamentos da Rua 42 e Av. 2 do mesmo loteamento; 25,00m, onde confronta com o alinhamento da Av. 2 do mesmo loteamento; 24,00m, onde confronta com o lote 6 mais 26,00m, onde confronta com o lote 4 do mesmo quarteirão;
 
-IV - lote 6, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 855,00 m2
+IV - lote 6, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 855,00 m2 de área e as seguintes medidas e confrontações: 30,00m de frente, onde confronta com o alinhamento da Av. 2 do mesmo loteamento; 33,00m lateralmente à direita, onde confronta com o lote 7 do mesmo quarteirão; 30,00m aos fundos, onde confronta com o lote 4 do mesmo quarteirão; 24,00m lateralmente à esquerda, onde confronta com o lote 5 do mesmo quarteirão;
 
-confronta com o alinhamento da Av. 2 do mesmo loteamento; 33,00m lateralmente à direita, onde confronta com o lote 7 do mesmo quarteirão; 30,00m aos fundos, onde confronta com o lote 4 do mesmo quarteirão; 24,00m lateralmente à esquerda, onde confronta com o lote 5 do mesmo quarteirão;
-
-V - lote 7, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 887,00 m2
-
-confronta com o alinhamento da Av. 2 do mesmo loteamento; 38,00m lateralmente à direita, onde confronta com o lote 8 do mesmo quarteirão; 25,00m aos fundos, onde confronta com o lote 3 do mesmo quarteirão; 33,00m lateralmente à esquerda, onde confronta com o lote 6 do mesmo quarteirão;
+V - lote 7, localizado no loteamento Cidade Satélite Íris, quadra 228, quarteirão 4648 do Cadastro Municipal, de propriedade da Municipalidade, com 887,00 m2 de área e as seguintes medidas e confrontações: 25,00m de frente, onde confronta com o alinhamento da Av. 2 do mesmo loteamento; 38,00m lateralmente à direita, onde confronta com o lote 8 do mesmo quarteirão; 25,00m aos fundos, onde confronta com o lote 3 do mesmo quarteirão; 33,00m lateralmente à esquerda, onde confronta com o lote 6 do mesmo quarteirão;
 
 **Art. 2º** - A Prefeitura Municipal de Campinas fica autorizada a doar ao Governo do Estado de São Paulo, para a construção de escola de Ensino Fundamental, as áreas descritas no artigo anterior.
 

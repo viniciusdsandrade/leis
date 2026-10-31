@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR FRANC
 fonte: "https://sapl.campinas.sp.leg.br/norma/7007"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1994/7007/7007_texto_integral.pdf"
 sha256_fonte: "b9f91ef8e03c166188d274ecdd0b3d43a50d641b6e1c64c259a365821464095c"
-sha256_texto: "76f53d74914d068b97f200218bd0123087c2907551b4929c7a67dac2172d53f4"
+sha256_texto: "dd8e704706fcf8f9d2ecfdaa9199559806d07456a4b3108c3f05c8eeabd42200"
 baixado_em: "2026-10-30"
 ---
 
@@ -23,7 +23,7 @@ DISPÕE SOBRE O SERVIÇO DE TRANSPORTE DE ENTULHOS DO MUNICÍPIO DE CAMPINAS
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Artigo 1º** - Fica o Poder Executivo obrigado a exigir o cadastramento das empresas que prestam Serviço de Transporte de Entulhos no Município de
+**Artigo 1º** - Fica o Poder Executivo obrigado a exigir o cadastramento das empresas que prestam Serviço de Transporte de Entulhos no Município de Campinas.
 
 **Artigo 2º** - O cadastramento a que se refere o artigo anterior, deverá ser efetuado junto ao setor competente da Prefeitura Municipal de Campinas, instruído com os seguintes documentos:
 
@@ -51,7 +51,7 @@ IV - VETADO
 
 **Artigo 7º** - Quando o local indicado estiver com capacidade saturada, outro local deverá ser indicado atendendo as disposições da presente lei.
 
-**Artigo 8º** - Verificada qualquer infração à presente lei será lavrado Auto de Infração e Imposição de Multa de 10 (dez) Unidades Fiscais do Município de
+**Artigo 8º** - Verificada qualquer infração à presente lei será lavrado Auto de Infração e Imposição de Multa de 10 (dez) Unidades Fiscais do Município de Campinas.
 
 **Artigo 9º** - Independentemente da multa, fica o infrator obrigado a ressarcir os danos causados aos bens públicos.
 

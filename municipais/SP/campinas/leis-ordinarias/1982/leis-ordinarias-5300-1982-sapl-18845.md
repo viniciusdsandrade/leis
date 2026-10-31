@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/18845"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1982/18845/18845_texto_integral.pdf"
 sha256_fonte: "f7fa38411160e5fb21c41fed9a28161e0f54788d17b629fe9121b3d642d6dae5"
-sha256_texto: "00a73561c7d51dd171108bdc0369e72f80977de3a3789b6d3e7a83a43c6fbb69"
+sha256_texto: "1c66dac04db29b939376eb37938c90875e3660cb82212739d361147bf6e485c2"
 baixado_em: "2026-10-30"
 ---
 
@@ -26,6 +26,8 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 **Artigo 1º** - O Orçamento-Programa do Município de Campinas, para o exercício financeiro de 1.983, discriminado pelos anexos integrantes desta Lei, estima a Receita e fixa a Despesa em Cr$ 28.063.582.000,00 (vinte e oito bilhões sessenta e três milhões quinhentos e oitenta e dois mil cruzeiros).
 
 **Artigo 2º** - A Receita será realizada mediante arrecadação dos tributos e outras contribuições correntes e de capital na forma da legislação vigente e das especificações constantes do Anexo nº 02 e de acordo com o seguinte desdobramento:
+
+ADMINISTRAÇÃO DIRETA
 
 RECEITAS CORRENTES Cr$
 
@@ -51,6 +53,8 @@ TOTAL GERAL DA RECEITA................................................28.063.582
 
 DESPESA POR ÓRGÃO DE GOVERNO
 
+ADMINISTRAÇÃO DIRETA
+
 01 – Câmara Municipal de Campinas............................. Cr$........500,000.000,00 02 – Gabinete do Prefeito............................................... Cr$........432.244.000,00 03 – Secretaria de Administração................................... Cr$........612.105.000,00 04 – Secretaria dos Negócios Jurídicos......................... Cr$........446.950.000,00 05 – Secretaria das Finanças......................................... Cr$........634.932.000,00 06 – Secretaria de Educação..........................................Cr$.....2.690.106.000,00 07 – Secretaria de Saúde............................................... Cr$.661.116.044.000,00 08 – Secretaria de Promoção Social.............................. Cr$.....2.490.947.000,00
 
 09 – Secretaria de Obras e Serviços Públicos............... Cr$.....5.826.160.000,00 10 – Secretaria de Cultura, Esporte e Turismo............... Cr$........541.473.000,00 11 – Secretaria de Planejamento e Coordenação.......... Cr$........511.704.000,00 12 – Secretaria de Transportes...................................... Cr$........500.754.000,00 13 – Encargos Gerais do Município................................ Cr$...10.035.491.000,00 TOTAL............................................................................ Cr$...26.338.910.000,00
@@ -60,6 +64,8 @@ ADMINISTRAÇÃO INDIRETA
 Despesas dos Órgãos da Administração Indireta........... Cr$.....1.724.672.000,00 TOTAL GERAL DA DESPESA...................................... Cr$...28.063.582.000,00
 
 DESPESA POR FUNÇÃO DE GOVERNO
+
+ADMINISTRAÇÃO DIRETA
 
 01 – Legislativa............................................................... Cr$........500.000.000,00 03 – Administração e Planejamento............................... Cr$...12.029.670.000,00 08 – Educação e Cultura................................................ Cr$.....3.231.379.000,00 10 – Habitação e Urbanismo.......................................... Cr$.....5.719.930.000,00 13 – Saúde e Saneamento............................................. Cr$.....1.116.044.000,00 15 – Assistência e Previdência....................................... Cr$.....2.914.703.000,00 16 – Transporte............................................................... Cr$........826.984.000,00 SUBTOTAL.................................................................... Cr$...26.338.910.000,00
 

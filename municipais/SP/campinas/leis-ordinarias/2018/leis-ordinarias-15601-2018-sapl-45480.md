@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/45480"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2018/45480/45480_texto_integral.pdf"
 sha256_fonte: "c847463bdba4de95bd2dc435868c9d778ec3cfc8299cb1403cb2e1f884f34ad5"
-sha256_texto: "6a6f81344caf7aaa6cc16b473ff85a07c4c594cdde3f5558d9fe21c781ad27cc"
+sha256_texto: "42b557358ad414a4b3badc0731ac7b8756c78aa394e7bf16031ffe4eb12c731f"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,29 +27,29 @@ A O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou 
 
 I - Rua Amâncio Rodrigues dos Santos a Rua 01, com início na Rua 02 do mesmo loteamento e término na divisa do loteamento, entre o lote 5 da Quadra “A” e o lote 3 da Quadra “B”;
 
-II - Rua José Ribamar Alves de Souza a Rua 02, com início na Rua 14 do mesmo
+II - Rua José Ribamar Alves de Souza a Rua 02, com início na Rua 14 do mesmo loteamento e término na Rua Maria Dolores, pertencente ao loteamento Conjunto Habitacional Chico Mendes - DIC V;
 
-III - Rua Graciano Olímpio de Souza a Rua 03, com início na Rua 14 do mesmo
+III - Rua Graciano Olímpio de Souza a Rua 03, com início na Rua 14 do mesmo loteamento e término na Rua Maria Dolores, pertencente ao loteamento Conjunto Habitacional Chico Mendes - DIC V;
 
-IV - Rua Leonardo Batista de Almeida a Rua 04, com início na Rua 14 do mesmo
+IV - Rua Leonardo Batista de Almeida a Rua 04, com início na Rua 14 do mesmo loteamento e término na Rua Maria Dolores, pertencente ao loteamento Conjunto Habitacional Chico Mendes - DIC V;
 
 V - Rua Joaquim Pereira Veras a Rua 05, com início na Rua 14 do mesmo loteamento e término na Rua Maria Dolores, pertencente ao loteamento Conjunto Habitacional Chico Mendes - DIC V;
 
-VI - Rua José Alves da Silva a Rua 06, com início na Rua 14 e término na Rua 13,
+VI - Rua José Alves da Silva a Rua 06, com início na Rua 14 e término na Rua 13, ambas do mesmo loteamento;
 
 VII - Rua Miguel de Queiroz Americo a Rua 07, com início na Rua 14 e término na Rua 13, ambas do mesmo loteamento;
 
 VIII - Rua Edson Ferreira dos Santos a Rua 08, com início na Rua 14 do mesmo loteamento e término no encontro da Rua 15 do mesmo loteamento com a Rua Otacílio Pereira da Silva, pertencente ao loteamento Parque Vista Alegre;
 
-IX - Rua João Carneiro da Silva a Rua 09, com início na Rua 14 e término na Rua 18,
+IX - Rua João Carneiro da Silva a Rua 09, com início na Rua 14 e término na Rua 18, ambas do mesmo loteamento;
 
 X - Rua Lourival da Costa Santana a Rua 10, com início na Rua 15 e término na Rua 18, ambas do mesmo loteamento;
 
 XI - Rua Robson Vitor Sobrinho a Rua 11, com início na Rua 15 e término no encontro da Rua 16 com a Rua 18, todas do mesmo loteamento;
 
-XII - Rua Antônio Alves da Cruz a Rua 12, com início na Rua 18 e término na Rua 14,
+XII - Rua Antônio Alves da Cruz a Rua 12, com início na Rua 18 e término na Rua 14, ambas do mesmo loteamento;
 
-XIII - Rua Manoel Gomes de Souza a Rua 13, com início na Rua 14 do mesmo
+XIII - Rua Manoel Gomes de Souza a Rua 13, com início na Rua 14 do mesmo loteamento e término na Rua Maria Dolores, pertencente ao loteamento Conjunto Habitacional Chico Mendes - DIC V;
 
 XIV - Rua Regina Lucia da Conceição Silva a Rua 15, com início na Rua 18 e término na Rua 08, ambas do mesmo loteamento;
 

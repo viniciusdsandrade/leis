@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/40071"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1922/40071/40071_texto_integral.pdf"
 sha256_fonte: "b54470dee2ad79c9527a3856d4e2951b97054a6bb619bc62c3392e65ce82cb26"
-sha256_texto: "2dd50aeab8e205e1197bae57c9bd72ddd1d67cbe9b66686bf714e3ab51b82c0b"
+sha256_texto: "bf1b0d52477aebb4ef8e82fd7dd67c93c7ef77d0ed6acf0d5c7c1a44bef319d2"
 baixado_em: "2026-10-30"
 ---
 
@@ -35,9 +35,7 @@ LEI N. 297 Pessoal ( Orga a receito e fiza a despesa para o exercicio de 1923)
 
 a) NA CIDADE Pessoal . . •
 
-**Art. 2.°** — Por conta da verba fixada no art. antecedente, fica a Pre- feitura autorizada a despender, sob requisição da Presidencia da Camara com $ 11.ª — Reguladores publicos : os serviços a cargo desta, a quantia de 9:0008000, pela maneira seguinte : Encarregado, inclusive pequenos concert § unico — Secretaria da Camara : $ 12ª — Merondo : Com o secretario - 6:0008000 Com o expediente, publicações, etc. Fiscal
-
-9:0008000
+**Art. 2.°** — Por conta da verba fixada no art. antecedente, fica a Pre- feitura autorizada a despender, sob requisição da Presidencia da Camara com $ 11.ª — Reguladores publicos : os serviços a cargo desta, a quantia de 9:0008000, pela maneira seguinte : Encarregado, inclusive pequenos concert § unico — Secretaria da Camara : $ 12ª — Merondo : Com o secretario - 6:0008000 Com o expediente, publicações, etc. Fiscal 3:0008000 9:0008000
 
 § 13.2 — Locação de predios:
 
@@ -51,9 +49,7 @@ b) NAS SUB-PREFE
 
 **§ 20.°** — Obras Publicas :
 
-**Art. 4.°** — Por conta da verba fixada no fica a Prefeitura autorizada a despender nas Conservação de vias publicas : 30:0008000 a) com os serviços a cargo destas, a quantia de S 90:6508000 b) Obras e conservação de proprios . forma seguinte: Conservação Est. Rodagens — 225 kms. 44:550$000 c) Reparação de 32 kilometros • 6:4008000 -$ 1.° — Villa Americana e Nosa Odessa 20:000$000 Obras de arte 2 Fiscaes/ Inspector de Estrada 3:6005000 Limpeza
-
-d) Extinção de formigas . Iluminação Reforma da Catedral (monumento pu- e) Locação de Escolas Reunidas blico • 10:000800D 208:2008000: Obras e eventuses .
+**Art. 4.°** — Por conta da verba fixada no fica a Prefeitura autorizada a despender nas Conservação de vias publicas : 30:0008000 a) com os serviços a cargo destas, a quantia de S 90:6508000 b) Obras e conservação de proprios . forma seguinte: Conservação Est. Rodagens — 225 kms. 44:550$000 c) Reparação de 32 kilometros • 6:4008000 -$ 1.° — Villa Americana e Nosa Odessa 20:000$000 Obras de arte 2 Fiscaes/ Inspector de Estrada 3:6005000 Limpeza 3:0008000 d) Extinção de formigas . Iluminação Reforma da Catedral (monumento pu- e) Locação de Escolas Reunidas blico • 10:000800D 208:2008000: Obras e eventuses .
 
 3 — Viação ( metros corridos ) $ 2º — Arraial dos Souzas e Joaquim Egydio : 4 — Cafeeiros 1:800$000 5 - Ambulantes Fiscal 5:0008000 Limpeza Rural
 
@@ -95,9 +91,7 @@ Porcetagem de 5 % 1:2005000 Locação de Escolas Reunidas Renda do Theatro Munic
 
 **§ 4°** — Cosmopolis: 1:8008000 Fiscal
 
-**Art. 6°** — Por conta da verba fixada no
-
-Limpeza cordo com as leis e regulamentos em vigor, fic 3:210$000 Iluminação Locação de Escolas Reunidas autorizada a arrecadar nas Sub-Prefeituras a g 1:800$000 188:7508000 pela maneira seguinte : 6:8408000 16:650$000 Obras e eventuaes • NAS SUB-PREFEITU
+**Art. 6°** — Por conta da verba fixada no 3:0008000 Limpeza cordo com as leis e regulamentos em vigor, fic 3:210$000 Iluminação Locação de Escolas Reunidas autorizada a arrecadar nas Sub-Prefeituras a g 1:800$000 188:7508000 pela maneira seguinte : 6:8408000 16:650$000 Obras e eventuaes • NAS SUB-PREFEITU
 
 **§ 5.°** - Rebouças : $ 1° — Villa Americana e Nova Odessa 1:8008000 Fiscal 3:0005000 Limpeza Imposto de industrias e profissões . 1:700$000 iluminação Imposto sanitario Imposto de mercadores ambulantes : 1:8008000 Locação de Escolas Reunidas 3:400$000 11:700$000 Obras e eventuaes •
 

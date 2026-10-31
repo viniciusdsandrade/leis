@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR AUREL
 fonte: "https://sapl.campinas.sp.leg.br/norma/38249"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2014/38249/38249_texto_integral.pdf"
 sha256_fonte: "3aaaca9ab8a0e672f28c5b33f05dfd66e43cd58f5fbf5225ab0a3c856896cc47"
-sha256_texto: "5a0cbb772bd5151f89a9716921a3c1f21ae299dc66eba069f1fb1370993ffa7f"
+sha256_texto: "613a17c0d896dd64e7017480c660579163d4748f44a24348470b2e9a02389736"
 baixado_em: "2026-10-30"
 ---
 
@@ -33,9 +33,7 @@ Decreto Legislativo:
 
 **Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-Campinas, 13 de junho de 2014
-
-ISRAEL MAZZO
+Campinas, 13 de junho de 2014 CAMPOS FILHO Presidente ISRAEL MAZZO Diretor Geral
 
 REPUBLICADO NO DOM DO DIA 27 DE JUNHO DE 2014.
 
@@ -53,5 +51,5 @@ Decreto Legislativo:
 
 **Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-Autoria: Vereador Aurélio Cláudio. Publicado na Secretaria da Câmara Municipal de Campinas aos 13 de junho de 2014. Israel Mazzo
+CAMPOS FILHO Presidente Autoria: Vereador Aurélio Cláudio. Publicado na Secretaria da Câmara Municipal de Campinas aos 13 de junho de 2014. Israel Mazzo Diretor Geral
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/37907"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2013/37907/37907_texto_integral.pdf"
 sha256_fonte: "8a3c8f2e032a341d8cd450f04f366f5b86b6227314c045eb739b5ded784e7a6a"
-sha256_texto: "6c7723d6b2dd5d4b9e3b8468082b217048a87c93db625a683edf57945874bd6f"
+sha256_texto: "cc0c4ec924c3c227cec30a19c29a1a6c01c8bbc09133188deb3ecc3b47375cbe"
 baixado_em: "2026-10-21"
 ---
 
@@ -31,13 +31,13 @@ Art. 2º- O bem público descrito no art. 1º desta Lei Complementar deverá ser
 
 Art. 3º- A presente concessão será outorgada pelo prazo de 30 (trinta) anos, em caráter gratuito e intransferível e será formalizada por termo a ser lavrado pela Secretaria Municipal de Assuntos Jurídicos.
 
-Art. 4º- A presente concessão de direito real de uso será revogada se a concessionária, no prazo de 5 (cinco) anos, não cumprir o disposto no art. 2º ou, a qualquer tempo, caso ocorra desvio de finalidade ou descumprimento das condições estabelecidas nesta Lei
+Art. 4º- A presente concessão de direito real de uso será revogada se a concessionária, no prazo de 5 (cinco) anos, não cumprir o disposto no art. 2º ou, a qualquer tempo, caso ocorra desvio de finalidade ou descumprimento das condições estabelecidas nesta Lei Complementar.
 
 §1º- No caso de revogação da concessão, a concessionária deverá restituir ao Poder Público Municipal o bem concedido em prazo não superior a 30 (trinta) dias, contados da data da notificação da revogação, obrigando-se, enquanto estiver sob sua guarda, a zelar pelo seu bom estado de conservação.
 
 §2º- A revogação desta concessão não importa em direito da concessionária à indenização de qualquer natureza, inclusive por benfeitorias introduzidas no imóvel.
 
-Art. 5º- Correrão por conta da concessionária as despesas com os custos e emolumentos cartoriais referentes à Concessão de Direito Real de Uso autorizada por esta Lei
+Art. 5º- Correrão por conta da concessionária as despesas com os custos e emolumentos cartoriais referentes à Concessão de Direito Real de Uso autorizada por esta Lei Complementar.
 
 Art. 6º- Esta Lei Complementar entra em vigor na data de sua publicação.
 

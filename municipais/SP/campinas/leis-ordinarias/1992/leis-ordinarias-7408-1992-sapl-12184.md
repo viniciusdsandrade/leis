@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12184"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1992/12184/12184_texto_integral.pdf"
 sha256_fonte: "9396b37bf16eadf45a415fb5b1567ad0485b3a7e96cb52b733c88d98c6c5cc57"
-sha256_texto: "75b4c2783acedfd94a80f2416ec7efe68804a8160f4a5377782de9492fcd0d5a"
+sha256_texto: "83d3cc56cf407f68a7fd289fc222faf0319557310e4bf8d0a60815a6269166b6"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,7 +27,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 “I – Os espaços descobertos, destinados ao lazer e ás atividades sociais, ficam limitados a um mínimo de 10% da área do lote ou gleba, observando­se quanto à sua localização, o seguinte:
 
-1 – Deverão ficar separados dos locais de circulação e de estacionamento de
+1 – Deverão ficar separados dos locais de circulação e de estacionamento de veículos, das instalações de gás e dos depósitos de lixo;
 
 2 – Poderão computar­se neste porcentual mínimo as áreas livres situadas nos recuos e nos afastamentos obrigatórios, utilizadas de acordo com o disposto neste artigo”.
 
@@ -43,7 +43,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 “III ­ Os espaços descobertos, destinados ao lazer e ás atividades sociais, ficam limitados a um mínimo de 10% da área do lote ou gleba, observando­se quanto à sua localização, o seguinte:
 
-1 – Deverão ficar separados dos locais de circulação e de estacionamento de
+1 – Deverão ficar separados dos locais de circulação e de estacionamento de veículos, das instalações de gás e dos depósitos de lixo;
 
 2 – Poderão computar­se neste porcentual mínimo as áreas livres situadas nos recuos e nos afastamentos obrigatórios, utilizadas de acordo com o disposto neste artigo”.
 
@@ -63,7 +63,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 1 ­ Os espaços cobertos, destinados ao lazer, ficam limitados a um mínimo de 02% das áreas construídas ou 50 m2 de área construída, adotando­se o parâmetro que for maior, observando­se quanto à sua localização, o seguinte:
 
-1 ­ Deverão ficar separados dos locais de circulação e de estacionamento de
+1 ­ Deverão ficar separados dos locais de circulação e de estacionamento de veículos, das instalações de gás e dos depósitos de lixo;
 
 **Parágrafo único** – Ficam desobrigados ao cumprimento do presente artigo, as edificações com área construída, inferior ou igual a 2.500,00m2.”
 

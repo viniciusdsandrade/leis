@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADORES LUI
 fonte: "https://sapl.campinas.sp.leg.br/norma/26003"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2009/26003/26003_texto_integral.pdf"
 sha256_fonte: "256c70683aae78c9a5788bd360163c709d6b4509ce2948ff959eac5ac6439f35"
-sha256_texto: "bb9f4d381453f64e93d415f7d281d0a3044572fa9206763acce89bcdcf570c5b"
+sha256_texto: "729ef17d1edecf70bf8d8961fdc059a6c13301bf476e9d229d83c001dc350312"
 baixado_em: "2026-10-22"
 ---
 
@@ -47,17 +47,17 @@ I - Nos locais de venda de pneus:
 
 II - Nos locais de venda de baterias:
 
-“As baterias aqui vendidas são altamente poluentes, se não forem descartadas corretamente
+“As baterias aqui vendidas são altamente poluentes, se não forem descartadas corretamente comprometerão o solo e o lençol freático. Podem causar contaminações por possuírem metais
 
 “POSTO DE RECEBIMENTO DE BATERIAS USADAS”
 
 III - Nos locais de venda de pilhas:
 
-“As pilhas aqui vendidas são altamente poluentes, se não forem descartadas corretamente
+“As pilhas aqui vendidas são altamente poluentes, se não forem descartadas corretamente comprometerão o solo e o lençol freático. Podem causar contaminações por possuírem metais
 
 “POSTO DE RECEBIMENTO DE PILHAS USADAS”
 
-IV - Nos locais de venda de lâmpadas fluorescentes, de vapor de mercúrio e lâmpadas mistas: “As lâmpadas aqui vendidas são altamente poluentes, se não forem descartadas corretamente
+IV - Nos locais de venda de lâmpadas fluorescentes, de vapor de mercúrio e lâmpadas mistas: “As lâmpadas aqui vendidas são altamente poluentes, se não forem descartadas corretamente comprometerão o solo e o lençol freático. Podem causar contaminações por possuírem metais pesados e com isso prejudicar a saúde da população. Não corra risco. Não jogue no lixo domiciliar. Devolva aqui o produto após o seu uso. Seja cidadão: cuide do meio ambiente e da saúde de todos.”
 
 “POSTO DE RECEBIMENTO DE LÂMPADAS USADAS”
 

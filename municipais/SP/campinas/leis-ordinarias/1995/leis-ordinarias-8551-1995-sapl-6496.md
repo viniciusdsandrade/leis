@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR ROMEU
 fonte: "https://sapl.campinas.sp.leg.br/norma/6496"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1995/6496/6496_texto_integral.pdf"
 sha256_fonte: "0e85f632257768db5a4cf45a3b89326a5f277ac6b960598f239526031b644e71"
-sha256_texto: "eff1c0e43d036944f73bacc9f040fdcfffea081da05eb8e498fff9466fcc0ce5"
+sha256_texto: "5baea07723a894a2ed5a527f0edcd3bc6097ec397e1232288d1f5c54f7737c9e"
 baixado_em: "2026-10-30"
 ---
 
@@ -37,6 +37,8 @@ Paço Municipal, 27 de outubro de 1995
 
 JOSÉ ROBERTO MAGALHÃES TEIXEIRA Prefeito Municipal
 
+autor: Vereador Romeu Santini
+
 VETO (PUBLICAÇÃO DOM 28/10/1995)
 
 LEI 8551, DE 27 DE OUTUBRO DE 1995
@@ -48,6 +50,8 @@ A Câmara Municipal aprovou e eu, Dr. Romeu Santini, seu Presidente, promulgo no
 Campinas, 11 de dezembro de 1995
 
 DR. ROMEU SANTINI Presidente
+
+autor: Vereador Romeu Santini
 
 Publicado na Secretaria da Câmara Municipal de Campinas, aos 11 de dezembro de 1995
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12000"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1992/12000/12000_texto_integral.pdf"
 sha256_fonte: "93e1202bf37de7cfb1e9369926929ae4d9b8278a737b7bd14e0d662712de0f43"
-sha256_texto: "f60e3e63886028d6b2a9047a4d4d43af6db902ef779920d44ffd2f0be6d37245"
+sha256_texto: "6e31bc54d50db316f12178f7e43968a8242a40b86ff2360a2b5ba9548c7eee30"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,7 +29,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 24º** ­ ...........................................................................................................
 
-Classe A, Tipo 1A ­ Em vias públicas de largura mínima de 8,00m (oito metros) e tráfego regular, situada no centro urbano e comercial da cidade, afastada 50,00m (cinqüenta metros) de escolas, igrejas, hospitais, cinemas, teatros, campos
+Classe A, Tipo 1A ­ Em vias públicas de largura mínima de 8,00m (oito metros) e tráfego regular, situada no centro urbano e comercial da cidade, afastada 50,00m (cinqüenta metros) de escolas, igrejas, hospitais, cinemas, teatros, campos atléticos ou quaisquer locais de reuniões públicas.
 
 Classe A, Tipo 2A ­ Em vias públicas de largura mínima de 12,00m (doze metros) e tráfego regular, situada na zona urbana da cidade, distanciados 7,50m (sete metros e cinqüenta centímetros) de prédios considerados importantes e afastados
 

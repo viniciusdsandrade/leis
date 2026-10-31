@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; VER ANEXO IV na p. 2 do
 fonte: "https://sapl.campinas.sp.leg.br/norma/37922"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2014/37922/37922_texto_integral.pdf"
 sha256_fonte: "4d792144c5d8ad905666dfca76de217c0d0ba65fbe834208ac481c1842e18c52"
-sha256_texto: "7fad43037a201ff06c1591838d1706987041e58477bd0b17f28c9b3583009024"
+sha256_texto: "6fb2c7b1f8c22ded5c74b14a79c3300441e089bf8b37dd4418fd476045949bf0"
 baixado_em: "2026-10-21"
 ---
 
@@ -21,9 +21,7 @@ LEI COMPLEMENTAR Nº 57 DE 09 DE JANEIRO DE 2014 ALTERA DISPOSITIVOS DA LEI 12.9
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei complementar:
 
-Art. 1º- Fica alterado o art. 12 da Lei nº 12.987, de 28 de junho de 2007, que passa a
-
-“Art. 12........................................................................... II.....................................................................................
+Art. 1º- Fica alterado o art. 12 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: “Art. 12........................................................................... II.....................................................................................
 
 b) Trabalho Docente Individual (TDI) para o Ensino Fundamental: compreende o atendimento e a recuperação dos alunos, reuniões com pais, atividades educacionais e culturais com alunos;
 
@@ -63,25 +61,17 @@ IV - em Trabalho Docente Entre Pares;
 
 V - em Trabalho Docente de Formação.” (NR)
 
-**Art. 3º** Fica alterado o art. 15 da Lei nº 12.987, de 28 de junho de 2007, que passa a
+**Art. 3º** Fica alterado o art. 15 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: “Art. 15...................................................................
 
-“Art. 15...................................................................
+**§ 3º** Não haverá redução de jornada de trabalho docente nas Escolas de Educação Integral.” (NR)
 
-**§ 3º** Não haverá redução de jornada de trabalho docente nas Escolas de Educação Integral.”
+**Art. 4º** Fica alterado o art. 19 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: “Art. 19. Na atribuição de horas de trabalho prestadas como Carga Suplementar de Trabalho de Docente (CSTD) não devem ser atribuídas horas de Trabalho Docente Coletivo, Trabalho Docente Individual, Trabalho Docente Entre Pares e Trabalho Docente de Formação.” (NR)
 
-**Art. 4º** Fica alterado o art. 19 da Lei nº 12.987, de 28 de junho de 2007, que passa a
-
-“Art. 19. Na atribuição de horas de trabalho prestadas como Carga Suplementar de Trabalho de Docente (CSTD) não devem ser atribuídas horas de Trabalho Docente Coletivo, Trabalho Docente Individual, Trabalho Docente Entre Pares e Trabalho Docente de Formação.” (NR)
-
-**Art. 5º** Fica alterado o art. 20 da Lei nº 12.987, de 28 de junho de 2007, que passa a
-
-“Art. 20................................................................
+**Art. 5º** Fica alterado o art. 20 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: “Art. 20................................................................
 
 **§ 3°** Às horas de trabalho prestadas como “horas-aula excepcionais” não se aplicam as horas de Trabalho Docente Coletivo, Trabalho Docente Individual, Trabalho Docente Entre Pares, Trabalho Docente de Formação e de Trabalho Docente de Preparação de Aulas calculadas com base no Anexo IV.” (NR)
 
-**Art. 6º** Fica alterado o art. 23 da Lei nº 12.987, de 28 de junho de 2007, que passa a
-
-“Art. 23.....................................................................
+**Art. 6º** Fica alterado o art. 23 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: “Art. 23.....................................................................
 
 **§ 2°** Qualquer que seja a carga horária atribuída ao Professor Adjunto haverá cumprimento das horas correspondentes ao Trabalho Docente Coletivo, Trabalho Docente Individual, Trabalho Docente Entre Pares, Trabalho Docente de Formação e Trabalho Docente de Preparação de Aulas, na forma do Anexo IV.
 
@@ -89,7 +79,7 @@ V - em Trabalho Docente de Formação.” (NR)
 
 § 4º.........................................................................
 
-**§ 5º** Excepcionalmente e devidamente justificado, a Secretaria Municipal de Educação determinará o exercício de outra jornada, por tempo determinado, ao Professor Adjunto I e II, em regime de substituição de PEB I, PEB II, PEB III e PEB IV na forma do Anexo IV.”
+**§ 5º** Excepcionalmente e devidamente justificado, a Secretaria Municipal de Educação determinará o exercício de outra jornada, por tempo determinado, ao Professor Adjunto I e II, em regime de substituição de PEB I, PEB II, PEB III e PEB IV na forma do Anexo IV.” (NR)
 
 **Art. 7º** Fica alterado o art. 24 da Lei nº 12.987, de 28 de junho de 2007, que passa a
 
@@ -111,9 +101,7 @@ LEI COMPLEMENTAR Nº 57 DE 09 DE JANEIRO DE 2014 ALTERA DISPOSITIVOS DA LEI 12.9
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei complementar:
 
-Art. 1º- Fica alterado o art. 12 da Lei nº 12.987, de 28 de junho de 2007, que passa a
-
-"Art. 12........................................................................... II.....................................................................................
+Art. 1º- Fica alterado o art. 12 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: "Art. 12........................................................................... II.....................................................................................
 
 b) Trabalho Docente Individual (TDI) para o Ensino Fundamental: compreende o atendimento e a recuperação dos alunos, reuniões com pais, atividades educacionais e culturais com alunos;
 
@@ -131,9 +119,7 @@ g) Trabalho Docente de Formação (TDF) compreende o tempo utilizado pelos docen
 
 **§ 2°** Caberá à Secretaria Municipal de Educação disciplinar a estratégia, procedimentos e fluxos de cumprimento das horas de Trabalho Docente Coletivo- TDC e Trabalho Docente Individual- TDI, Trabalho Docente entre Pares- TDEP e Trabalho Docente de Formação- TDF a fi m de garantir a efetividade da sua execução." (NR)
 
-**Art. 2º** Fica alterado o art. 13 da Lei nº 12.987, de 28 de junho de 2007, que passa a
-
-"Art. 13. As jornadas do Grupo de Docentes e sua composição são aquelas descritas no Anexo IV.
+**Art. 2º** Fica alterado o art. 13 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: "Art. 13. As jornadas do Grupo de Docentes e sua composição são aquelas descritas no Anexo IV.
 
 **§ 1°** Aos titulares de cargos de PEB I, podem ser atribuídas as Jornadas Completa e a Integral I.
 
@@ -153,9 +139,7 @@ IV - em Trabalho Docente Entre Pares;
 
 V - em Trabalho Docente de Formação." (NR)
 
-**Art. 3º** Fica alterado o art. 15 da Lei nº 12.987, de 28 de junho de 2007, que passa a
-
-"Art. 15...................................................................
+**Art. 3º** Fica alterado o art. 15 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: "Art. 15...................................................................
 
 **§ 3º** Não haverá redução de jornada de trabalho docente nas Escolas de Educação Integral." (NR)
 
@@ -171,9 +155,7 @@ de Formação." (NR)
 
 **§ 3°** Às horas de trabalho prestadas como "horas-aula excepcionais" não se aplicam as horas de Trabalho Docente Coletivo, Trabalho Docente Individual, Trabalho Docente Entre Pares, Trabalho Docente de Formação e de Trabalho Docente de Preparação de Aulas calculadas com base no Anexo IV." (NR)
 
-**Art. 6º** Fica alterado o art. 2 3 da Lei nº 12.987, de 28 de junho de 2007, que passa a
-
-"Art. 23.....................................................................
+**Art. 6º** Fica alterado o art. 2 3 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: "Art. 23.....................................................................
 
 **§ 2°** Qualquer que seja a carga horária atribuída ao Professor Adjunto haverá cumprimento das horas correspondentes ao Trabalho Docente Coletivo, Trabalho Docente Individual, Trabalho Docente Entre Pares, Trabalho Docente de Formação e Trabalho Docente de Preparação de Aulas, na forma do Anexo IV.
 
@@ -181,7 +163,7 @@ de Formação." (NR)
 
 § 4º.........................................................................
 
-**§ 5º** Excepcionalmente e devidamente justificado, a Secretaria Municipal de Educação determinará o exercício de outra jornada, por tempo determinado, ao Professor Adjunto I e II, em regime de substituição de PEB I, PEB II, PEB III e PEB IV na forma do Anexo IV."
+**§ 5º** Excepcionalmente e devidamente justificado, a Secretaria Municipal de Educação determinará o exercício de outra jornada, por tempo determinado, ao Professor Adjunto I e II, em regime de substituição de PEB I, PEB II, PEB III e PEB IV na forma do Anexo IV." (NR)
 
 **Art. 7º** Fica alterado o art. 24 da Lei nº 12.987, de 28 de junho de 2007, que passa a vigorar com a seguinte redação: "Art. 24...................................................................
 

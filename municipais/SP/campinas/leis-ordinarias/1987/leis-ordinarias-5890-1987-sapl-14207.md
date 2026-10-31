@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/14207"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1987/14207/14207_texto_integral.pdf"
 sha256_fonte: "e77e794ac04179b13924264cc5851f96762eb7fa55460f9d0407b44d961cdb79"
-sha256_texto: "8a8118867cc07f8ff1b314d1c5332041b45566348569b62c2170f2265a1337e4"
+sha256_texto: "da9444f19b62fd125817a2beb678b1a72372912107f3f61097f110ad124c32ed"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,9 +25,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** - Fica o Poder Executivo autorizado a celebrar convênio com o Ministério de Desenvolvimento Urbano e Meio Ambiente, para obtenção, através de repasse do Governo Federal, de recursos financeiros a fundo perdido, provenientes da Empresa Brasileira de Transportes Urbanos (EBTU), visando a efetivação do Programa de Modernização da Sinalização Semafórica.
 
-**Artigo 2º** - Para as finalidades previstas no artigo 1º, o Ministério de
-
-Urbanos (EBTU) fornecerão à Prefeitura Municipal de Campinas, para o corrente exercício financeiro, recursos da ordem de 26.205 (vinte e seis mil, duzentos e cinco) Obrigações do Tesouro Nacional (OTN’s).
+**Artigo 2º** - Para as finalidades previstas no artigo 1º, o Ministério de Desenvolvimento Urbano e Meio Ambiente e a Empresa Brasileira de Transportes Urbanos (EBTU) fornecerão à Prefeitura Municipal de Campinas, para o corrente exercício financeiro, recursos da ordem de 26.205 (vinte e seis mil, duzentos e cinco) Obrigações do Tesouro Nacional (OTN’s).
 
 **Artigo 3º** - Entre os objetivos do Programa de Modernização da Sinalização Semafórica, a ser efetivado através do convênio autorizado por esta lei, enumeram-se os seguintes, de atribuição da Prefeitura:
 
@@ -39,9 +37,7 @@ III – Implantação de colunas projetadas e colunas repetidoras.
 
 **Artigo 4º** - Na forma do disposto nos artigos 42 e 43 da Lei Federal nº 4.320, de 17 de março de 1964, o Poder Executivo fica autorizado a abrir um crédito adicional especial até o valor correspondente a 26.205 (vinte e seis mil, duzentos e cinco) Obrigações do Tesouro Nacional (OTN’s), destinado a atender as despesas decorrentes da execução desta lei.
 
-**Artigo 5º** - O valor do crédito adicional a que se refere o artigo anterior será coberto com os recursos financeiros provenientes do Ministério de
-
-Urbanos (EBTU).
+**Artigo 5º** - O valor do crédito adicional a que se refere o artigo anterior será coberto com os recursos financeiros provenientes do Ministério de Desenvolvimento Urbano e Meio Ambiente e a Empresa Brasileira de Transportes Urbanos (EBTU).
 
 **Artigo 6º** - O convênio autorizado pela presente lei vigorará pelo prazo de 12 (doze) meses, a partir da data de sua assinatura, podendo ser prorrogado por convenção entre as partes através de termo aditivo.
 

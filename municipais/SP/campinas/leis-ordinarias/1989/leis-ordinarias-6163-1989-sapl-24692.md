@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; ALTERADO PELO LEI 6360;
 fonte: "https://sapl.campinas.sp.leg.br/norma/24692"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1989/24692/24692_texto_integral.pdf"
 sha256_fonte: "19f532145319d756d869a8898ab7c915d08fd5bbb0e43d76c3faae88bfb163ed"
-sha256_texto: "5ff98481ead5299951c77b1c1a2f576ad8f179409065e8bed268f11d5916cfbd"
+sha256_texto: "85761a104490024e033abbaaa28f885e0d6fce2211c146c52bce11ff9e17a2b4"
 baixado_em: "2026-10-30"
 ---
 
@@ -39,7 +39,7 @@ IV - o artigo 238, com a redação dada pela Lei nº 5901, de 30 de dezembro de 
 
 **Artigo 55** - .......................................................................................................................
 
-**Parágrafo único** – A alínea “a”, do inciso I, referente as atividades descritas no item 4 fica reduzida a 3% (três por cento) quando as entidades comprovarem a destinação equivalente a 3% (três por cento) em atendimento a pacientes carentes e indigentes, com um mínimo de atendimento anual equivalente a mil pacientes devidamente comprovado.
+**Parágrafo único** – A alínea “a”, do inciso I, referente as atividades descritas no item 4 fica reduzida a 3% (três por cento) quando as entidades comprovarem a destinação equivalente a 3% (três por cento) em atendimento a pacientes carentes e indigentes, com um mínimo de atendimento anual equivalente a mil pacientes devidamente comprovado. ......................................................................................................................................................................
 
 **Artigo 26** - .......................................................................................................................
 
@@ -79,7 +79,7 @@ VI - de ex-combatentes da FEB, da FAB, da Marinha de Guerra e da Marinha Mercant
 
 **Artigo 40** - ....................................................................................................................................................
 
-Parágrafo único............................................................................................................................................. 101 – motoristas autônomos que prestam serviços ao Executivo e Legislativo bem como aos estabelecimentos de ensino.
+Parágrafo único............................................................................................................................................. 101 – motoristas autônomos que prestam serviços ao Executivo e Legislativo bem como aos estabelecimentos de ensino. ......................................................................................................................................................................
 
 **Artigo 55** – ..................................................................................................................................................
 
@@ -221,7 +221,7 @@ b) acima de 10.000m² (por m²).................................................
 
 **Artigo 133** - ..............................................................................................................................................
 
-III – à correção monetária do débito, calculada mediante a aplicação do coeficiente instituído para a Unidade Fiscal do Município de Campinas (UFMC), criada pela Lei nº 6.074, de 25 de julho de 1989;
+III – à correção monetária do débito, calculada mediante a aplicação do coeficiente instituído para a Unidade Fiscal do Município de Campinas (UFMC), criada pela Lei nº 6.074, de 25 de julho de 1989; ......................................................................................................................................................................
 
 **Art. 148** - ....................................................................................................................................................
 
@@ -255,7 +255,7 @@ www.campinas.sp.gov.br/bibjuri/lei6163.htm 6/7
 
 II) - Pelo não recolhimento total ou parcial do Imposto sobre a Propriedade Predial ou Territorial Urbana, e das Taxas de Serviços Urbanos, às épocas determinadas pela legislação tributária municipal, ou fixadas nos documentos de arrecadação: multa de valor correspondente a 5,0 (cinco) UFMC’s; ........................................................................................................................................................................
 
-IV –
+IV – ......................................................................................................................................................................
 
 b) funcionar além do horário extraordinário autorizado: multa no valor correspondente a 10,0 (dez) UFMC’s; .............................................................................................................................................................................
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/53236"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53236/53236_texto_integral.pdf"
 sha256_fonte: "63836330a093e732c88befa4be474c03d2c3f8a74845210bc5aae79507810cc2"
-sha256_texto: "1f03a2a4319909e0e01075a55173e93e3124f738fd2d5341eeedb0344900c34b"
+sha256_texto: "6c1210ba7b6c7cf85fe03494c7ccafbbc3e0edb99be3ff39a8d39f9d473c37a4"
 baixado_em: "2026-10-21"
 ---
 
@@ -19,7 +19,7 @@ baixado_em: "2026-10-21"
 
 LEI COMPLEMENTAR Nº 413, DE 12 DE MAIO DE 2023
 
-Desincorpora da classe de bens públicos de uso comum do povo e transfere para a classe de bens dominicais áreas de praça de propriedade da Municipalidade e autoriza a doação ao Governo do Estado de São Paulo, para fins de instalação da sede da Polícia Civil do Estado de São Paulo - Deinter 2 -
+Desincorpora da classe de bens públicos de uso comum do povo e transfere para a classe de bens dominicais áreas de praça de propriedade da Municipalidade e autoriza a doação ao Governo do Estado de São Paulo, para fins de instalação da sede da Polícia Civil do Estado de São Paulo - Deinter 2 - Campinas.
 
 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:
 
@@ -31,7 +31,7 @@ II - parte da Praça 8 da planta de loteamento Cidade Jardim, Quarteirão 01654,
 
 **Art. 2º** Fica autorizada a doação ao Governo do Estado de São Paulo das áreas descritas nos incisos I e II do art. 1º desta Lei Complementar, com vistas à
 
-instalação da sede da Polícia Civil do Estado de São Paulo - Deinter 2 -
+instalação da sede da Polícia Civil do Estado de São Paulo - Deinter 2 - Campinas.
 
 **Art. 3º** O donatário fica obrigado a dar à área objeto desta doação a destinação prevista no art. 2º desta Lei Complementar no prazo de cinco anos contados de sua publicação.
 

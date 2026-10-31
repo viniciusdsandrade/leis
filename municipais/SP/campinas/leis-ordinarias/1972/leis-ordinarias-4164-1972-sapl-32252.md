@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; PROCESSO 28202 , PLO 87
 fonte: "https://sapl.campinas.sp.leg.br/norma/32252"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1972/32252/32252_texto_integral.pdf"
 sha256_fonte: "311f0fa9a6abb01968d5123ef30e46400c98c63229ab2d54b26db69510bde406"
-sha256_texto: "6f64039d678873dc734486557ce755978ce72579b23db0c6e2f77dd49e069296"
+sha256_texto: "0f97e53b9e4aa91d6ab160b22e12a203e668adc3b7466748e14e81e1796acdc4"
 baixado_em: "2026-10-30"
 ---
 
@@ -19,7 +19,7 @@ baixado_em: "2026-10-30"
 
 LEI Nº 4164 DE 13 DE SETEMBRO DE 1972
 
-COMPROMISSADO A MÁRIO LUIZ GATTI PAGANO BRUNDO.
+AUTORIZA A PERMUTA DE TERRENO DE PROPRIEDADE MUNICIPAL DA CLASSE DE BENS PATRIMONIAIS COM IMÓVEL DO DOMÍNIO DE HELENA ROOT STREL COMPROMISSADO A MÁRIO LUIZ GATTI PAGANO BRUNDO.
 
 A Câmara Municipal decreta e eu, prefeito do município de Campinas, promulgo a seguinte lei:
 
@@ -33,9 +33,7 @@ Parágrafo segundo – o imóvel do domínio de Helena Root Strel e compromissad
 
 **Parágrafo único** – A transferência do lote de terreno de propriedade municipal, entretanto, será feita diretamente a Mário Luiz Gatti Pagano Brundo, no próprio ato da escritura de permuta.
 
-**Art. 3º** – Tendo sido avaliado em Cr$ 30.179,20 (trinta mil, cento e setena e nove
-
-municipal, existe um saldo de Cr$ 18.232,20 (dezoito mil, duzentos e trinta e dois cruzeiros e vinte centavos) o lote de terreno de propriedade municipal, existe um saldo de Cr$ 11.947,00 (doze mil e novecentos e quarenta e sete cruzeiros) a ser pago pela Prefeitura Municipal de Campinas.
+**Art. 3º** – Tendo sido avaliado em Cr$ 30.179,20 (trinta mil, cento e setena e nove cruzeiros e vinte centavos) o imóvel desapropriando e em Cr$ 18.232,20 (dezoito mil, duzentos e trinta e dois cruzeiros e vinte centavos) o lote de terreno de propriedade municipal, existe um saldo de Cr$ 18.232,20 (dezoito mil, duzentos e trinta e dois cruzeiros e vinte centavos) o lote de terreno de propriedade municipal, existe um saldo de Cr$ 11.947,00 (doze mil e novecentos e quarenta e sete cruzeiros) a ser pago pela Prefeitura Municipal de Campinas.
 
 **Parágrafo único** – O saldo a que se refere este artigo será pago ao compromissário comprador, Mário Luiz Gatti Pagano Brundo, no ato de assinatura da escritura de permuta correndo a despesa pela verba codificada sob nº 5.1/3140/05, do orçamento vigente.
 
@@ -45,13 +43,9 @@ municipal, existe um saldo de Cr$ 18.232,20 (dezoito mil, duzentos e trinta e do
 
 Paço Municipal de Campinas, aos 13 de setembro de 1972. Dr. ORESTES QUERCIA Prefeito Municipal Publicada no Departamento do Expediente do Gabinete do Prefeito, na data supra. Dr. PLÍNIO DO AMARAL Chefe do Gabinete do Prefeito
 
-RETIFICAÇÃO NO DOM DE 15/09/1972 P.1
+RETIFICAÇÃO NO DOM DE 15/09/1972 P.1 AUTORIZA A PERMUTA DE TERRENO DE PROPRIEDADE MUNICIPAL DA CLASSE DE BENS PATRIMONIAIS COM IMÓVEL DO DOMÍNIO DE HELENA ROOT STREL COMPROMISSADO A MARIO LUIZ GATTI PAGANO BRUNDO.
 
-COMPROMISSADO A MARIO LUIZ GATTI PAGANO BRUNDO.
-
-Publica-se novamente o Artigo 3º na sua íntegra por ter saído com incorreções. Artigo 3º – Tendo sido avaliado em Cr$ 30.179,20 (trinta mil, cento e setenta e nove
-
-municipal existe um saldo de Cr$11.947,00 (onze mil e novecentos e quarenta e sete cruzeiros) a ser pago pela Prefeitura Municipal de Campinas.
+Publica-se novamente o Artigo 3º na sua íntegra por ter saído com incorreções. Artigo 3º – Tendo sido avaliado em Cr$ 30.179,20 (trinta mil, cento e setenta e nove cruzeiros e vinte centavos) o imóvel desapropriando e em Cr$ 18.232,20 (dezoito mil, duzentos e trinta e dois cruzeiros e vinte centavos) o lote de terreno de propriedade municipal existe um saldo de Cr$11.947,00 (onze mil e novecentos e quarenta e sete cruzeiros) a ser pago pela Prefeitura Municipal de Campinas.
 
 Campinas, 14 de setembro de 1972
 

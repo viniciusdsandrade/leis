@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/4550"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1998/4550/4550_texto_integral.pdf"
 sha256_fonte: "5f1204e83a630a38281f0d5a1e347bb07fb87b2aef768a74da89d4914b0ecf59"
-sha256_texto: "2573812e20d090b16817f8886d9d62418ae8d116fd0f46863ff37723bd24b245"
+sha256_texto: "55d5380d85fd2bb7ca183ca9ce0f3f491b16b77599ead97255bf915d8d9881af"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,7 +25,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** - Ficam alterados os artigos 8º, 10, 11, 73, 74, 75, 76, 77 e 78, da Lei 5.626, de 29 de novembro de 1985, que dispõe sobre o Código Tributário do Município de Campinas, que passam a ter a seguinte redação:
 
-"Artigo 8º - O prazo de inscrição, de suas alterações e cancelamento, é de trinta dias, a partir do ato ou fato que o houver motivado, excetuando-se os casos de inscrição no Cadastro de Contribuintes Mobiliários de taxas decorrentes do poder de polícia administrativa, cujo prazo é determinado pelo § 1º, do artigo 74.
+"Artigo 8º - O prazo de inscrição, de suas alterações e cancelamento, é de trinta dias, a partir do ato ou fato que o houver motivado, excetuando-se os casos de inscrição no Cadastro de Contribuintes Mobiliários de taxas decorrentes do poder de polícia administrativa, cujo prazo é determinado pelo § 1º, do artigo 74. ...................................................................................................................................................
 
 **Artigo 10** - Os pedidos de cancelamento de inscrição serão de iniciativa do contribuinte e somente serão deferidos após informação do órgão fiscalizador do tributo, observando-se o que determina o § 2º, inciso I e o § 3º, do artigo 74.
 
@@ -45,7 +45,7 @@ proibindo ou disciplinando direito, interesse ou liberdade, regula a prática de
 
 **§ 5º** - Compete à Secretaria Municipal de Finanças e Recursos Humanos, através de seu Departamento de Receitas Mobiliárias, o lançamento, a homologação e a fiscalização tributária das taxas decorrentes do poder de polícia administrativa, bem como a manutenção do respectivo Cadastro de Contribuintes Mobiliários.
 
-**§ 6º** - Compete à legislação municipal definir a área de atuação e competência, aos órgãos municipais fiscalizadores de posturas municipais, quanto ao exercício regular do poder de polícia administrativa.
+**§ 6º** - Compete à legislação municipal definir a área de atuação e competência, aos órgãos municipais fiscalizadores de posturas municipais, quanto ao exercício regular do poder de polícia administrativa. ...................................................................................................................................................
 
 **Artigo 74** - O contribuinte das taxas decorrentes do poder de polícia administrativa é o sujeito passivo definido no § 4º do artigo anterior.
 
@@ -65,7 +65,7 @@ II - qualquer irregularidade identificada, com relação às taxas decorrentes d
 
 servidor à responsabilidade funcional.
 
-**§ 5º** - A forma pela qual se fará a comunicação expressa entre os diversos órgãos municipais, para efeito deste artigo, será regulamentada por decreto do Executivo, a ser baixado até cento e vinte dias a partir da data da publicação da lei que instituir a respectiva taxa.
+**§ 5º** - A forma pela qual se fará a comunicação expressa entre os diversos órgãos municipais, para efeito deste artigo, será regulamentada por decreto do Executivo, a ser baixado até cento e vinte dias a partir da data da publicação da lei que instituir a respectiva taxa. ...................................................................................................................................................
 
 **Artigo 75** - O pedido de inscrição no Cadastro de Contribuintes Mobiliários da taxa, será efetuado na forma dos artigos 7º ao 11 desta lei e do que dispuser a Iei que instituir a respectiva taxa.
 
@@ -75,7 +75,7 @@ I - da regularidade da situação do contribuinte, com relação às posturas mu
 
 II - da licença, autorização, concessão, alvará, permissão e afins, bem como do recolhimento de preços públicos, emolumentos, tarifas e afins:
 
-III - de sanções impostas por outros órgãos municipais.
+III - de sanções impostas por outros órgãos municipais. ...................................................................................................................................................
 
 **Artigo 76** - A base de cálculo, tabelas, pauta fiscal e outros elementos relacionados ao cálculo das taxas em decorrência do exercício regular do poder de polícia administrativa serão definidas na lei específica que instituir a respectiva taxa.
 
@@ -85,7 +85,7 @@ I - no 1º dia do mês de janeiro de cada exercício, para os contribuintes regu
 
 II - no momento em que a pessoa natural ou jurídica e equiparadas praticar atividades ou atos definidos em Iei como sujeitos à taxa decorrentes do poder de polícia administrativa, sem a regular inscrição ou alteração no respectivo Cadastro de Contribuintes Mobiliários, observado o que determina o parágrafo único e seus incisos, do artigo 75;
 
-III - na data do pedido regular, ao respectivo órgão, de autorização, concessão, alvará, licença, permissão e afins, para o interessado em praticar atividades ou atos definidos em lei como sujeitos á taxa decorrentes do poder de polícia administrativa, quando essas atividades ou atos se iniciarem no decorrer do exercício vigente.
+III - na data do pedido regular, ao respectivo órgão, de autorização, concessão, alvará, licença, permissão e afins, para o interessado em praticar atividades ou atos definidos em lei como sujeitos á taxa decorrentes do poder de polícia administrativa, quando essas atividades ou atos se iniciarem no decorrer do exercício vigente. ...................................................................................................................................................
 
 **Artigo 77** – A taxa em decorrência do exercício regular do poder de polícia administrativa, para a qual a respectiva lei que a instituir não determinar outra forma de lançamento, subordina-se á modalidade de lançamento de ofício, anual.
 

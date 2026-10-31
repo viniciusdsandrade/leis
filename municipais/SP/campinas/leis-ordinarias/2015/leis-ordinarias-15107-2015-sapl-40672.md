@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/40672"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2015/40672/40672_texto_integral.pdf"
 sha256_fonte: "94d1e0323d335c3cbb839657ef0940a0c2c6962d753fd6394bf940b02bd5105e"
-sha256_texto: "08c0b53be6a918ef5061893e4cd45762eea0b7d8abaaae4aa615e3db63018893"
+sha256_texto: "4e8585e32f19d57bf4b3b0cebaea27758d7466d894b5d76def2c95a4592a8264"
 baixado_em: "2026-10-21"
 ---
 
@@ -23,9 +23,7 @@ DISPÕE SOBRE A ALTERAÇÃO DA LEI Nº 12.757, DE 18 DE DEZEMBRO DE 2006, QUE �
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte Lei:
 
-**Art. 1º** - Fica alterado o art. 1º da Lei nº 12.757, de 18 de dezembro de 2006,
-
-“Art. 1º .........................................
+**Art. 1º** - Fica alterado o art. 1º da Lei nº 12.757, de 18 de dezembro de 2006, que passa a vigorar com a seguinte descrição: “Art. 1º .........................................
 
 I - parte da Rua Guilhermino F. dos Santos Filho (antiga Rua 10), localizada no loteamento Jardim São José - 1ª Parte, com área de 270,15m² e as seguintes medidas e confrontações: 12,05m confrontando com o remanescente 1 da mesma via; 22,85m confrontando com parte da Rua Guilhermino F. dos Santos Filho (antiga Rua 10) do loteamento Jardim São José - 2a Parte; 12,07m confrontando com o remanescente 2 da mesma via; 24,00m confrontando com o remanescente da Praça S/D do mesmo loteamento;
 
@@ -37,7 +35,7 @@ IV - remanescente da Praça S/D do loteamento Jardim São José - 1ª Parte, qua
 
 **Art. 2º** - Fica alterado o art. 2º da Lei nº 12.757, de 18 de dezembro de 2006,
 
-“Art. 2º - Ficam as áreas descritas no art. 1º desta Lei unificadas e anexadas formando uma área única, destinada à ampliação das instalações do Centro de Saúde do Jardim São José, com a seguinte descrição: ‘área de 2.509,95m² e as seguintes medidas e confrontações: 121,57m pelo alinhamento da Avenida Anton Von Zuben e Rua 19 do loteamento Jardim São José 1a e 2a partes; 18,00m em curva na confluência da Rua 19 e da Avenida José Carlos do Amaral Galvão do loteamento Jardim São José 2a Parte; 124,98m pelo alinhamento da Avenida José Carlos do Amaral Galvão do loteamento Jardim São José 1ª e 2ª partes; 33,75m confrontando com parte da Praça S/D do loteamento Jardim São José 1ª parte’.” (NR)
+que passa a vigorar com a seguinte descrição: “Art. 2º - Ficam as áreas descritas no art. 1º desta Lei unificadas e anexadas formando uma área única, destinada à ampliação das instalações do Centro de Saúde do Jardim São José, com a seguinte descrição: ‘área de 2.509,95m² e as seguintes medidas e confrontações: 121,57m pelo alinhamento da Avenida Anton Von Zuben e Rua 19 do loteamento Jardim São José 1a e 2a partes; 18,00m em curva na confluência da Rua 19 e da Avenida José Carlos do Amaral Galvão do loteamento Jardim São José 2a Parte; 124,98m pelo alinhamento da Avenida José Carlos do Amaral Galvão do loteamento Jardim São José 1ª e 2ª partes; 33,75m confrontando com parte da Praça S/D do loteamento Jardim São José 1ª parte’.” (NR)
 
 **Art. 3º** - Esta Lei entra em vigor na data de sua publicação.
 

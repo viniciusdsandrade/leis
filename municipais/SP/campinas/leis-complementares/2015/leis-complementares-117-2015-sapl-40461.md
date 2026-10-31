@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/40461"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2015/40461/40461_texto_integral.pdf"
 sha256_fonte: "37ead3289d4bb2853f4b8cccd3d0d1427ff3f4729e185969a8a10b9aaa7861e9"
-sha256_texto: "f892382d98e508dc6f711adca5f92fa87242b6dd22eeebb2fb0500691768bb93"
+sha256_texto: "f45e13f879a0d8e43c8154bf1b301ec66372188c02e7c6bb8f27b22a346fe13c"
 baixado_em: "2026-10-21"
 ---
 
@@ -23,13 +23,11 @@ ALTERA A LEI COMPLEMENTAR Nº 101, DE 19 DE MARÇO DE 2015, QUE "DISPÕE SOBRE A
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte Lei Complementar:
 
-**Art. 1º** - Ficam alteradas as alíneas "a" e "d" do inciso I e o inciso II, e acrescidos os §§ 1º e 2º ao art. 2º da Lei Complementar nº 101, de 19 de março
-
-"Art. 2º -......................
+**Art. 1º** - Ficam alteradas as alíneas "a" e "d" do inciso I e o inciso II, e acrescidos os §§ 1º e 2º ao art. 2º da Lei Complementar nº 101, de 19 de março de 2015, que passa a vigorar com a seguinte redação: "Art. 2º -......................
 
 I -................................ a)natureza social de seus objetivos; ....................................
 
-d) previsão de participação, no órgão colegiado de deliberação superior, de membros da comunidade, de notória capacidade profissional e idoneidade moral;
+d) previsão de participação, no órgão colegiado de deliberação superior, de membros da comunidade, de notória capacidade profissional e idoneidade moral; ...................................
 
 II - ter a entidade recebido a aprovação, em parecer favorável quanto à conveniência e oportunidade de sua qualificação como organização social, do Secretário Municipal da área correspondente e do Secretário Municipal de Administração.
 
@@ -59,9 +57,7 @@ IX - aprovar e encaminhar, ao órgão supervisor da execução do Contrato de Ge
 
 **Parágrafo único** - A permuta de que trata o caput deste artigo dependerá de prévia avaliação do bem e expressa autorização do Poder Público." (NR).
 
-**Art. 5º** - Fica alterado o art. 18 da Lei Complementar nº 101, de 19 de março
-
-"Art. 18 - É vedada a celebração de Contrato de Gestão pelo Município de Campinas com Organizações Sociais que tenham como conselheiros, administradores e dirigentes servidores públicos municipais, mesmo que afastados de suas funções públicas, com ou sem prejuízo de vencimentos, ressalvada a hipótese do art. 13 desta Lei Complementar." (NR).
+**Art. 5º** - Fica alterado o art. 18 da Lei Complementar nº 101, de 19 de março de 2015, que passa a vigorar com a seguinte redação: "Art. 18 - É vedada a celebração de Contrato de Gestão pelo Município de Campinas com Organizações Sociais que tenham como conselheiros, administradores e dirigentes servidores públicos municipais, mesmo que afastados de suas funções públicas, com ou sem prejuízo de vencimentos, ressalvada a hipótese do art. 13 desta Lei Complementar." (NR).
 
 **Art. 6º** - Fica acrescido o art. 18-A à Lei Complementar nº 101, de 19 de março de 2015, com a seguinte redação: "Art. 18- A - É vedado firmar contrato de gestão com Organizações Sociais cujo objeto seja a gestão de Unidades Básicas de Saúde, de Serviços da Vigilância em Saúde, bem como das demais atividades de vigilância, auditoria e controle." (NR).
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/54675"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54675/lei_complementar_no_465-_22_-04-2024.pdf"
 sha256_fonte: "58960be646ac0d31a20d7d5d87ddb528195a790f5ad90697fcbf2cf221ee0ccf"
-sha256_texto: "f7177418adf7c815943dd4c8d657f3de57eb4165c4449462501300e0b3cff91b"
+sha256_texto: "3d50175f47d999054d8b8dd56398ba1f4a5a01d0750cf5b88e9aa418d460c71b"
 baixado_em: "2026-10-21"
 ---
 
@@ -45,7 +45,7 @@ XLI - permeabilidade visual: condição de permitir a interação visual entre o
 
 a) a medição deve ser feita em metros lineares no respectivo alinhamento;
 
-b) o fechamento, quando houver, deve estar posicionado, no máximo, a 80cm (oitenta centímetros) de altura em relação à calçada, devendo a área permeável visualmente ter, no mínimo, 1,50m (um metro e cinquenta centímetros) de altura; ...........................................................................................................................”
+b) o fechamento, quando houver, deve estar posicionado, no máximo, a 80cm (oitenta centímetros) de altura em relação à calçada, devendo a área permeável visualmente ter, no mínimo, 1,50m (um metro e cinquenta centímetros) de altura; ...........................................................................................................................” (NR)
 
 **Art. 3º** Fica alterado o § 2º e acrescido o § 4º ao art. 73 da Lei Complementar nº 208, de 2018, que passa a vigorar com a seguinte redação:
 
@@ -67,19 +67,19 @@ IV - ficam isentas da apresentação dos documentos listados nos incisos I e II 
 
 “Art. 83. .............................................................................................................. .............................................................................................................................
 
-**§ 1º** Para lotes com área de até 3.000,00m² (três mil metros quadrados) na ZR e de até 5.000,00m² (cinco mil metros quadrados) na ZM1 e ZM2, será tolerada uma variação, para mais, de até 10% (dez por cento) da área do lote, desde que mantidos todos os demais parâmetros dos lotes de 3.000,00m² (três mil metros quadrados) e 5.000,00m² (cinco mil metros quadrados), respectivamente. § 2º Para a tipologia de ocupação HMH na condição tolerada conforme o art. 137, serão aplicados os parâmetros relativos à Zona Mista 2.”
+**§ 1º** Para lotes com área de até 3.000,00m² (três mil metros quadrados) na ZR e de até 5.000,00m² (cinco mil metros quadrados) na ZM1 e ZM2, será tolerada uma variação, para mais, de até 10% (dez por cento) da área do lote, desde que mantidos todos os demais parâmetros dos lotes de 3.000,00m² (três mil metros quadrados) e 5.000,00m² (cinco mil metros quadrados), respectivamente. § 2º Para a tipologia de ocupação HMH na condição tolerada conforme o art. 137, serão aplicados os parâmetros relativos à Zona Mista 2.” (NR)
 
 **Art. 5º** Fica alterado o inciso IV do art. 84 da Lei Complementar nº 208, de 2018, que passa a vigorar com a seguinte redação:
 
 “Art. 84. ............................................................................................................. ............................................................................................................................
 
-IV - os subsolos poderão ocupar os recuos e afastamentos do lote, desde que: .........................................................................................................................”
+IV - os subsolos poderão ocupar os recuos e afastamentos do lote, desde que: .........................................................................................................................” (NR)
 
 **Art. 6º** Fica alterado o inciso V do art. 95 da Lei Complementar nº 208, de 2018, que passa a vigorar com a seguinte redação:
 
 “Art. 95. ............................................................................................................... ..............................................................................................................................
 
-V - visando à segurança dos pedestres, a saída de veículo do imóvel deverá receber sinalização de alerta, exceto para habitação unifamiliar e, nas demais tipologias, para vagas nos recuos com acesso direto ou indireto, sem controle de acesso. ...........................................................................................................................”
+V - visando à segurança dos pedestres, a saída de veículo do imóvel deverá receber sinalização de alerta, exceto para habitação unifamiliar e, nas demais tipologias, para vagas nos recuos com acesso direto ou indireto, sem controle de acesso. ...........................................................................................................................” (NR)
 
 **Art. 7º** Fica alterado o art. 98 da Lei Complementar nº 208, de 2018, que passa a vigorar com a seguinte redação:
 
@@ -101,7 +101,7 @@ manobra e circulação de veículos, caixa d’água, espaço para barriletes, c
 
 **§ 3º** As vagas específicas destinadas a motos ou bicicletas, conforme Tabela 1 do Anexo V, deverão ser acrescentadas ao número de vagas mínimas exigidas.
 
-**§ 4º** As vagas específicas destinadas a carga/descarga e embarque/desembarque e as rotativas, nos termos da Tabela 1 do Anexo V, serão facultativas para os casos enquadrados nos incisos I, II e III deste artigo.”
+**§ 4º** As vagas específicas destinadas a carga/descarga e embarque/desembarque e as rotativas, nos termos da Tabela 1 do Anexo V, serão facultativas para os casos enquadrados nos incisos I, II e III deste artigo.” (NR)
 
 **Art. 8º** Fica alterado o art. 128 da Lei Complementar nº 208, de 2018, que passa a vigorar com a seguinte redação:
 

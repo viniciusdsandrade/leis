@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/7849"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1993/7849/7849_texto_integral.pdf"
 sha256_fonte: "8d2215ed0522ff72b29d4043ae6fc210ac41463a9b0badb6c2379c5286cb02c0"
-sha256_texto: "7fc0c00b10cc84b5b07d55336351f1bdbda0c0cfcb8b150a1f8bad8c1b1478df"
+sha256_texto: "d7e3d94070ede7ee7300c3be70ca7e08d009b49a4c77f9cbf01ed3ea4b55062c"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,15 +27,11 @@ A Câmara Municipal aprovou e eu, prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** ­ Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidos para a de bens patrimoniais as faixas de terreno abaixo descritas, de propriedade da Prefeitura Municipal de Campinas a saber:
 
-I – Parte da viela para passagem de pedestres, localizada na quadra KK do loteamento Jardim Londres, quarteirão 3.844, do Cadastro Municipal, com a área
-
-Antonio Finatti Sobrinho, 25,00m lateralmente à direita, onde confronta com o lote 7 da quadra KK do Jardim Londres, 3,00m aos fundos, onde confronta com o
+I – Parte da viela para passagem de pedestres, localizada na quadra KK do loteamento Jardim Londres, quarteirão 3.844, do Cadastro Municipal, com a área de 75,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Antonio Finatti Sobrinho, 25,00m lateralmente à direita, onde confronta com o lote 7 da quadra KK do Jardim Londres, 3,00m aos fundos, onde confronta com o
 
 lote 8 da quadra KK do Jardim Londres, avaliada em Cr$ 25.500,00 (vinte e cinco mil e quinhentos cruzeiros).
 
-II – Parte da viela para passagem de pedestres localizada na quadra KK do loteamento Jardim Londres, quarteirão 3.844 do Cadastro Municipal, com a área
-
-José Amâncio Cucatti; 25,00m lateralmente à direita; onde confronta com o lote 25 da quadra KK do Jardim Londres; 3,00m aos fundos, onde confronta com o
+II – Parte da viela para passagem de pedestres localizada na quadra KK do loteamento Jardim Londres, quarteirão 3.844 do Cadastro Municipal, com a área de 75,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua José Amâncio Cucatti; 25,00m lateralmente à direita; onde confronta com o lote 25 da quadra KK do Jardim Londres; 3,00m aos fundos, onde confronta com o
 
 lote 26 da quadra KK do Jardim Londres, avaliada em Cr$ 21.000,00 (vinte e um mil cruzeiros).
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: MESA DA CAMARA
 fonte: "https://sapl.campinas.sp.leg.br/norma/7467"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2004/7467/7467_texto_integral.pdf"
 sha256_fonte: "e9b0405edd1906b090ecdd86c5b022f14169a180407ab1bbc8106e9f905d8b51"
-sha256_texto: "0b687cafbddebd9dab1136a76ff30e0007b72045239dcc70bbd24982efce1627"
+sha256_texto: "20b1857e25ed99b099a75241f7964b3c5746b5a2458ce3c7341927ad036da1b8"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,8 +27,11 @@ A Câmara Municipal aprovou e eu, Carlos Francisco Signorelli, seu Presidente, p
 
 **Artigo 2º.** - As transferências de que trata o artigo anterior serão alocadas na seguinte dotação: 01.010100.0103130023.001.4.4.90.52 EQUIPAMENTO E MAT.PERMANENTE R$ 368.000,00 01.010100.0103132002.001.3.1.90.94 INDENIZAÇÕES REST. TRABALHISTAS R$ 272.000,00 3.1.90.24 OUTROS SERV. TERC. PESSOA PES R$ 10.000,00 3.3.90.39 OUTROS SERV. TERC. PESSOA JUR R$ 200.000,00 TOTAL TRANSFERIDO R$ 850.000,00
 
-**Artigo 3º.** - Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 21 de dezembro de 2004. CARLOS FRANCISCO SIGNORELLI Presidente autoria: Mesa da Câmara PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 21 DE DEZEMBRO DE 2004.
+**Artigo 3º.** - Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 21 de dezembro de 2004. CARLOS FRANCISCO SIGNORELLI Presidente autoria: Mesa da Câmara PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 21 DE DEZEMBRO DE 2004. TADEU EXPEDITO FIGUEIREDO Diretor Geral
 
 Publicado no Diário Oficial Municipal de Campinas em 23/12/2004 RESOLUÇÃO Nº. 796 DE 21 DE DEZEMBRO DE 2004.
 
 ERRATA NA RESOLUÇÃO N. 796, DE 21 DE DEZEMBRO DE 2004, ONDE SE LÊ: 3.1.90.24OUTROS SERV. TERC. PESSOA PES......... R $ 10.000,00 LEIA-SE: 3.3.90.36OUTROS SERV. TERC. PESSOA FÍS......... R $ 10.000,00 Campinas, 22 de dezembro de 2004. CARLOS F. SIGNORELLI Presidente PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 22 DE DEZEMBRO DE 2004.
+
+TADEU EXPEDITO FIGUEIREDO Diretor Geral
+

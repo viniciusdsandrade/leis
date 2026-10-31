@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; Processo 21716 - PLO 43
 fonte: "https://sapl.campinas.sp.leg.br/norma/14879"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1968/14879/14879_texto_integral.pdf"
 sha256_fonte: "ff6bebabf622672e6ca3d1be866d3dbf9e6d280ab08c209c7fc5bb5b49376eea"
-sha256_texto: "361be1490fe485856706130e996e04eae1a401f7f8412e169bf767cd4937bef7"
+sha256_texto: "e734271f4339e0eb149926ac3993482d184871a735991fc8f25a3e5acbfaae08"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,9 +29,7 @@ A Câmara Municipal decreta e eu, Prefeito do Município de Campinas, com base n
 
 “1 – Um lote de terreno de forma trapezoidal, nº 1 da Quadra D, da Vila santa Luiza, do distrito de Barão Geraldo, com 268,70 m2 de área, medindo 13.70 m pelo alinhamento da Av. 3; lateralmente a esquerda 25.63 m, divisando com propriedade de Irineu Checchia ou sucessores; à direita com o lote nº 2 e 7.80 m nos fundos, divisando com o lote nº 18”.
 
-“2 – Um lote de terreno de forma retangular, nº 2 da Quadra D, da Vila Santa
-
-pelo alinhamento da Av 3; 25.00 m, divisando com o lote nº 1 a esquerda; 25.00 m divisando com o lote nº 3 à direita, nos fundos10.00 m , divisando com os lotes nº 17 e 18.
+“2 – Um lote de terreno de forma retangular, nº 2 da Quadra D, da Vila Santa Luiza, do distrito de Barão Geraldo, com 250.00 m2 de área, medindo 10.00 m pelo alinhamento da Av 3; 25.00 m, divisando com o lote nº 1 a esquerda; 25.00 m divisando com o lote nº 3 à direita, nos fundos10.00 m , divisando com os lotes nº 17 e 18.
 
 “3 - Um lote de terreno de forma retangular, nº 3 da Quadra D, da Vila Santa Luiza,
 
@@ -41,17 +39,11 @@ alinhamento da Av 3; 25.00 m à esquerda, onde divisa com o lote nº 2; 25.00 m 
 
 alinhamento da Av 3; 25.00 m à esquerda, onde divisa com o lote nº 3; 25.00 m à direita, onde divisa com o lote nº 5; 10.00 m nos fundos, onde divisa com os lotes nº 15 e 16”.
 
-“5 - Um lote de terreno de forma retangular, nº 5 da Quadra D, da Vila Santa
+“5 - Um lote de terreno de forma retangular, nº 5 da Quadra D, da Vila Santa Luiza, do distrito de Barão Geraldo, com 250.00 m2 de área, medindo 10.00 m pelo alinhamento da Av 3; 25.00 m à esquerda, onde divisa com o lote nº 4; 25.00 m à direita, divisando com o lote nº 6; 10.00 m nos fundos divisando com os lotes nº 14 e 15”.
 
-pelo alinhamento da Av 3; 25.00 m à esquerda, onde divisa com o lote nº 4; 25.00 m à direita, divisando com o lote nº 6; 10.00 m nos fundos divisando com os lotes nº 14 e 15”.
+“6 - Um lote de terreno de forma retangular, nº 6 da Quadra D, da Vila Santa Luiza, do distrito de Barão Geraldo, com 250.00 m2 de área, medindo 10.00 m pelo alinhamento da Av 3; 25.00 m à esquerda, onde divisa com o lote nº 5; 25.00 m à direita, divisando com o lote nº 7; 10.00 m nos fundos, divisando com os lotes nº 13 e 14”
 
-“6 - Um lote de terreno de forma retangular, nº 6 da Quadra D, da Vila Santa
-
-pelo alinhamento da Av 3; 25.00 m à esquerda, onde divisa com o lote nº 5; 25.00 m à direita, divisando com o lote nº 7; 10.00 m nos fundos, divisando com os lotes nº 13 e 14”
-
-“7 - Um lote de terreno de forma retangular, nº 7 da Quadra D, da Vila Santa Luiza,
-
-alinhamento da Av 3; 25.00 m à esquerda, onde divisa com o lote nº 6; 25.00 m lateralmente à direita, divisando com os lotes nº 8 e 9; nos fundos 10.00 m , divisando com os lotes nº 12 e 13”
+“7 - Um lote de terreno de forma retangular, nº 7 da Quadra D, da Vila Santa Luiza, do distrito de Barão Geraldo, com 250.00 m2 de área, medindo 10.00 m pelo alinhamento da Av 3; 25.00 m à esquerda, onde divisa com o lote nº 6; 25.00 m lateralmente à direita, divisando com os lotes nº 8 e 9; nos fundos 10.00 m , divisando com os lotes nº 12 e 13”
 
 “8 - Um lote de terreno de forma retangular, nº 7 da Quadra D, da Vila Santa Luiza, do distrito de Barão Geraldo, com 367.00 m2 de área, medindo 20.00m em reta pelo alinhamento com a Av. 3; 14.30 m em curva de concordância da Av. 3 com a
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/38968"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2014/38968/38968_texto_integral.pdf"
 sha256_fonte: "87d0c05b736f0c4d9d9e0b2fe6c753a284ef77c4e86cd2624ebf175ea387665e"
-sha256_texto: "09efd1b274d5e12bff3131598a1576f7a43cb1567f66573fd73ca6cf14e6dff2"
+sha256_texto: "9dbfa91ee3701ed8e030b65dcb16310c151cc5a28988b11a0e7e1d8b3aae700d"
 baixado_em: "2026-10-21"
 ---
 
@@ -23,7 +23,7 @@ ALTERA DISPOSITIVOS DA LEI Nº 13.470, DE 18 DE NOVEMBRO DE 2008, QUE “DISPÕE
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte Lei:
 
-**Art. 1º** - Fica alterado o art. 7° da Lei n° 13.470, de 18 de novembro de 2008,
+**Art. 1º** - Fica alterado o art. 7° da Lei n° 13.470, de 18 de novembro de 2008, que passa a vigorar com a seguinte redação:
 
 “ Art. 7º - No âmbito do PROCAMPIS, o Secretário Municipal de Finanças é a autoridade competente para:
 
@@ -47,7 +47,7 @@ IV - resolver os casos omissos.
 
 “ Art. 11 - No Termo de Adesão ao PROCAMPIS deverá constar a proporção de bolsas de estudo oferecidas por curso, turno e unidade, respeitados os parâmetros estabelecidos no art. 9° desta Lei e as disposições do Regulamento. (NR)
 
-**Art. 4º** - Fica alterado o art. 16 da Lei n° 13.470, de 18 de novembro de 2008,
+**Art. 4º** - Fica alterado o art. 16 da Lei n° 13.470, de 18 de novembro de 2008, que passa a vigorar com a seguinte redação:
 
 “ Art. 16 - A instituição de ensino superior que tenha aderido ou que venha aderir ao PROCAMPIS apresentará, periodicamente e nos termos de normas regulamentadoras, à Secretaria Municipal de Finanças os documentos e as informações necessárias à verificação do preenchimento dos requisitos e condições estabelecidos nesta Lei.
 

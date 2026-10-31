@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/37909"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2013/37909/37909_texto_integral.pdf"
 sha256_fonte: "f853f455aa5d443b9a6bdde07d09b6459addf675f8d1750c704c2a9d7a149e5e"
-sha256_texto: "ca29cfc993f8631399155b955d1e80bbc69024e0524c7eadb51d5783f1935694"
+sha256_texto: "10bfc4ecfbe6d5fef6d637d6918e8ca4aa47ad52c4c977811efc23ba84fcc0d0"
 baixado_em: "2026-10-21"
 ---
 
@@ -33,11 +33,11 @@ XVI - Recreação e animação. ................................................
 
 **Art. 3º** Fica alterado o art. 12 da Lei nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 12 - Para efeito de cumprimento da obrigação tributária, principal ou acessória, entende-se autônomo cada estabelecimento do mesmo titular, salvo disposição em contrário expressa nas normas regulamentadoras.” (NR)
 
-**Art. 4º** Ficam alterados o caput, os incisos III, alínea h, IV, V e os §§ 1º e 2º do art. 14 da Lei nº 12.392, de 20 de outubro de 2005 e acrescidos os incisos VII e os §§ 6º e 7º ao referido artigo, que passam a vigorar com a seguinte redação: “Art. 14 São responsáveis pelo crédito tributário decorrente do ISSQN, estando obrigados à retenção e ao pagamento integral e atualizado do imposto e demais acréscimos legais, quando o imposto for devido neste Município:
+**Art. 4º** Ficam alterados o caput, os incisos III, alínea h, IV, V e os §§ 1º e 2º do art. 14 da Lei nº 12.392, de 20 de outubro de 2005 e acrescidos os incisos VII e os §§ 6º e 7º ao referido artigo, que passam a vigorar com a seguinte redação: “Art. 14 São responsáveis pelo crédito tributário decorrente do ISSQN, estando obrigados à retenção e ao pagamento integral e atualizado do imposto e demais acréscimos legais, quando o imposto for devido neste Município: ...............................................................
 
 III - as pessoas jurídicas abaixo relacionadas, tomadoras ou intermediárias de todos os serviços da lista anexa, com exceção daqueles previstos nos subitens 4.22 e 4.23: .................................................................
 
-h) as empresas concessionárias, subconcessionárias, permissionárias e demais delegatárias de serviços públicos;
+h) as empresas concessionárias, subconcessionárias, permissionárias e demais delegatárias de serviços públicos; ...............................................................
 
 IV - as pessoas jurídicas tomadoras ou intermediárias de serviços previstos na lista anexa, quando o prestador do serviço estabelecido em outro Município não possuir situação cadastral regular ativa no Cadastro Municipal de Receitas Mobiliárias, conforme definido nas normas que regulamentam o Cadastro de Empresas não Estabelecidas no Município de Campinas;
 
@@ -59,7 +59,7 @@ VII - as pessoas jurídicas tomadoras ou intermediárias do serviço descrito no
 
 **§2º** revogado.” (NR)
 
-**Art. 6º** Fica acrescido o inciso VI ao art. 16 da Lei nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 16................................................
+**Art. 6º** Fica acrescido o inciso VI ao art. 16 da Lei nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 16................................................ ...............................................................
 
 VI - o proprietário do imóvel e o dono da obra, desde que sejam pessoas naturais, em relação aos serviços tomados de execução de obras de construção civil, hidráulica ou elétrica, inclusive terraplenagem e concretagem, de demolição, e de reparação, conservação e reforma de edifícios, previstos, respectivamente, nos subitens 7.02, 7.04 e 7.05 da lista de serviços anexa que lhes forem prestados sem a documentação fiscal correspondente. ...............................................................” (NR)
 
@@ -71,7 +71,7 @@ VI - o proprietário do imóvel ou dono da obra de construção civil, pessoa na
 
 **§ 2º** A Administração Tributária promoverá ex oficio o encerramento da inscrição do proprietário do imóvel ou dono da obra de construção civil mediante a apresentação da solicitação de Certificado de Conclusão de Obra.” (NR)
 
-**Art. 8º** Ficam acrescidos os §§8º 9º e 10 ao art. 22 da Lei Municipal nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 22................................................
+**Art. 8º** Ficam acrescidos os §§8º 9º e 10 ao art. 22 da Lei Municipal nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 22................................................ ...............................................................
 
 **§ 8º** Na prestação de serviço a que se referem os subitens 4.22 e 4.23 da lista anexa, a base de cálculo é a diferença entre os valores cobrados dos usuários e os repasse efetuados em decorrência dos respectivos planos a hospitais, clínicas, laboratórios de análises, de patologia, de eletricidade médica, ambulatórios, prontos socorros, casas de saúde e de recuperação, bancos de sangue, de pele, de olhos, de sêmen e congêneres, bem como a profissionais autônomos que prestem serviços descritos nos demais subitens do item 4 da lista anexa, nos termos das normas regulamentadoras.
 
@@ -91,7 +91,7 @@ VI - o valor das comissões ou dos honorários cobrados sobre reembolso de despe
 
 **§10** - Os serviços de terceiros mencionados no § 9º serão individualizados e inequivocamente demonstrados ao cliente por ordem e conta de quem foram efetuadas despesas, mediante documentação fiscal hábil, sob pena de integrar-se à base de cálculo.” (NR)
 
-**Art. 9º** Fica acrescido o § 5º ao art. 37-A da Lei nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 37-A.............................................
+**Art. 9º** Fica acrescido o § 5º ao art. 37-A da Lei nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 37-A............................................. ...............................................................
 
 **§ 5º** A declaração periódica prevista no caput é aquela gerada automaticamente ou elaborada e enviada pelo sujeito passivo por meio dos sistemas de gestão do ISSQN disponibilizados para uso pela Administração Tributária Municipal.” (NR)
 
@@ -135,19 +135,19 @@ f) for efetuada a retenção do imposto na fonte sem o devido recolhimento.
 
 **§ 1º** revogado. ..............................................” (NR)
 
-**Art. 13.** Fica revogado o § 3º do art. 55 da Lei nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 55.................................................
+**Art. 13.** Fica revogado o § 3º do art. 55 da Lei nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 55................................................. ...............................................................
 
 **§ 3º** revogado.” (NR)
 
 **Art. 14.** Ficam acrescidos a alínea “c” ao inciso V e a alínea “d” ao inciso VI e os incisos XIII, XIV, XV e XVI ao art. 56 da Lei nº 12.392, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 56........................
 
-V-..........................................................
+V-.......................................................... ...............................................................
 
-c) por obra realizada pelo proprietário do imóvel ou dono da obra de construção civil, pessoa natural ou jurídica: multa de 200 (duzentas) Unidades Fiscais de Campinas - UFICs;
+c) por obra realizada pelo proprietário do imóvel ou dono da obra de construção civil, pessoa natural ou jurídica: multa de 200 (duzentas) Unidades Fiscais de Campinas - UFICs; ...............................................................
 
-VI-........................................................
+VI-........................................................ ...............................................................
 
-d) por obra realizada pelo proprietário do imóvel ou dono da obra de construção civil, pessoa natural ou jurídica: multa de 200 (duzentas) Unidades Fiscais de Campinas - UFICs;
+d) por obra realizada pelo proprietário do imóvel ou dono da obra de construção civil, pessoa natural ou jurídica: multa de 200 (duzentas) Unidades Fiscais de Campinas - UFICs; ...............................................................
 
 XIII - por declaração de operações de cartões de crédito ou débito em estabelecimentos credenciados, prestadores de serviços, localizados no Município de Campinas, não entregue pela pessoa jurídica administradora de cartão de crédito ou débito e congêneres, na conformidade de normas regulamentadoras: multa de 2.000 (duas mil) Unidades Fiscais de Campinas - UFICs;
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/48238"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/48238/48238_texto_integral.pdf"
 sha256_fonte: "9ee2a87421bd5fe24b2213d0d660e626985949cbce6580d963629d1eb4079653"
-sha256_texto: "08d109ac8947a9440018f81518c6d02f26b27e0926c2cdb61fe3c16adac59a5a"
+sha256_texto: "72c70db6aa6ed17d1e81c532891532eca5d0536c2a90b0ffafdc8afa967c4f9a"
 baixado_em: "2026-10-30"
 ---
 
@@ -41,51 +41,17 @@ O PRESIDENTE DA CÂMARA MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municip
 
 ANEXO ÚNICO (ANEXO I DA RESOLUÇÃO Nº 885, DE 13 DE FEVEREIRO DE 2014) QUADRO PERMANENTE DE PESSOAL
 
-QUADRO PERMANENTE DE PESSOAL
+QUADRO PERMANENTE DE PESSOAL Grupo Ocu- Classe e Carga Horá- Cargo Quantitativo pacional Nível de Vencimento l ria Semanal
 
-Analista Legisla- 7 Nível de 30h tivo Administrador VII IX XI Vencimento Analista Legisla- Classe I II III tivo Tecnologia 7 Nível de Ven- 30h da Informação VII IX XI
+Classe I II III Analista Legisla- 7 Nível de 30h tivo Administrador VII IX XI Vencimento Analista Legisla- Classe I II III tivo Tecnologia 7 Nível de Ven- 30h da Informação VII IX XI cimento Classe I II III Analista Legisla- 2 Nível de Ven- 30h tivo Arquiteto VII IX XI cimento Classe I II III Analista Legisla- 2 Nível de 30h tivo Arquivista VII IX XI Vencimento Classe I II III Analista Legisla- tivo Assessora- 16 Nível de 30h mento Jurídico VII IX XI Nível Vencimento Superior Classe I II III Analista Legisla- tivo Assistente 1 Nível de Ven- 30h Social VII IX XI cimento Classe I II III Analista Legisla- 3 Nível de Ven- 30h tivo Auditor VII IX XI cimento Classe I II III Analista Legisla- 4 Nível de Ven- 30h tivo Bibliotecário VII IX XI cimento Classe I II III Analista Legisla- 4 Nível de 30h tivo Contador VII IX XI Vencimento Classe I II III Analista Legisla- 2 Nível de Ven- 30h tivo Economista VII IX XI cimento
 
-Analista Legisla- 2 Nível de Ven- 30h tivo Arquiteto VII IX XI
+Grupo Ocu- Classe e Carga Horá- Cargo Quantitativo pacional Nível de Vencimento l ria Semanal
 
-Analista Legisla- 2 Nível de 30h tivo Arquivista VII IX XI Vencimento
+Classe I II III Analista Legisla- 2 Nível de Ven- 30h tivo Engenheiro VII IX XI cimento Classe I II III Analista Legisla- tivo Gestor Públi- 2 Nível de Ven- 30h co VII IX XI cimento Classe I II III Analista Legisla- 2 Nível de Ven- 30h tivo Historiador VII IX XI cimento Classe I II III Médico do Traba- 2 Nível de Ven- 20h lho VI VIII X cimento Classe I II III Analista Legisla- 2 Nível de Ven- 30h tivo Pedagogo VII IX XI cimento Nível Superior Analista Legisla- Classe I II III 2 Nível de Ven- 30h tivo Psicólogo VII IX XI cimento Classe I II III Analista Legislativo 6 Nível de Ven- 30h Redator/Revisor VII IX XI cimento Classe I II III Procurador 12 Nível de Ven- 30h VIII X XII cimento Classe I II III Analista Legisla- tivo Relações- 9 Nível de Ven- 30h Públicas VII IX XI cimento Classe I II III Analista Legisla- tivo Secretário 2 Nível de Ven- 30h Executivo VII IX XI cimento
 
-Analista Legisla- tivo Assessora- 16 Nível de 30h mento Jurídico VII IX XI Nível Vencimento Superior
+Grupo Ocu- Classe e Carga Horá- Cargo Quantitativo pacional Nível de Vencimento l ria Semanal
 
-Analista Legisla- tivo Assistente 1 Nível de Ven- 30h Social VII IX XI
-
-Analista Legisla- 3 Nível de Ven- 30h tivo Auditor VII IX XI
-
-Analista Legisla- 4 Nível de Ven- 30h tivo Bibliotecário VII IX XI
-
-Analista Legisla- 4 Nível de 30h tivo Contador VII IX XI Vencimento
-
-Analista Legisla- 2 Nível de Ven- 30h tivo Economista VII IX XI
-
-Analista Legisla- 2 Nível de Ven- 30h tivo Engenheiro VII IX XI
-
-Analista Legisla- tivo Gestor Públi- 2 Nível de Ven- 30h co VII IX XI
-
-Analista Legisla- 2 Nível de Ven- 30h tivo Historiador VII IX XI
-
-Médico do Traba- 2 Nível de Ven- 20h lho VI VIII X
-
-Analista Legisla- 2 Nível de Ven- 30h tivo Pedagogo VII IX XI
-
-Nível Superior Analista Legisla- Classe I II III 2 Nível de Ven- 30h tivo Psicólogo VII IX XI
-
-Analista Legislativo 6 Nível de Ven- 30h Redator/Revisor VII IX XI
-
-Procurador 12 Nível de Ven- 30h VIII X XII
-
-Analista Legisla- tivo Relações- 9 Nível de Ven- 30h Públicas VII IX XI
-
-Analista Legisla- tivo Secretário 2 Nível de Ven- 30h Executivo VII IX XI
-
-59 Classe I II III Técnico Legisla- Nível de Ven- 30h tivo III V VII
-
-Técnico de 8 Nível de Ven- 30h Transcrição III V VII Nível Téc- cimento nico Técnico de Classe I II III Segurança do 2 Nível de Ven- 30h Trabalho III V VII
-
-Agente de Classe I II III Segurança 6 Nível de Ven- 30h Legislativa III V VII
+59 Classe I II III Técnico Legisla- Nível de Ven- 30h tivo III V VII cimento Classe I II III Técnico de 8 Nível de Ven- 30h Transcrição III V VII Nível Téc- cimento nico Técnico de Classe I II III Segurança do 2 Nível de Ven- 30h Trabalho III V VII cimento Agente de Classe I II III Segurança 6 Nível de Ven- 30h Legislativa III V VII cimento
 
 Campinas, 27 de fevereiro de 2020
 

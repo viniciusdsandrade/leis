@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; PROCESSO 9235 , PLO 28/
 fonte: "https://sapl.campinas.sp.leg.br/norma/28913"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1957/28913/28913_texto_integral.pdf"
 sha256_fonte: "0a733bcf137a166ae02dab7dbc8f6fa46da8350f5f91448e9f4bcbf52b206980"
-sha256_texto: "1fe83873ce32e872e174204c4db162792fed414401039f2bf9173aeb8eba5993"
+sha256_texto: "17a6797c32e374b65600a3622b6265df14599823ce78a29efe34eae5c9025fa0"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,7 +27,7 @@ A Câmara Municipal decreta e eu, Prefeito do Município de Campinas promulgo a 
 
 I – SANTA BARBARA DO OESTE, a que abrange a rua 62, com início na rua 63 e término na rua 51;
 
-II – AMERICANA, a que abrange a rua 64, com início no prolongamento da
+II – AMERICANA, a que abrange a rua 64, com início no prolongamento da Avenida das Amoreiras e término na rua 54;
 
 III – COSMÓPOLIS, a que abrange as ruas 57 e 58, com início no prolongamento da Avenida das Amoreiras e término na Avenida 1;
 
@@ -47,7 +47,7 @@ X – SUMARÉ, a que abrange as ruas 72 e 61, com início na rua 75 e término n
 
 XI – BRAGANÇA PAULISTA, a que abrange a rua 51, com início no prolongamento da Avenida das Amoreiras e término na Estrada de Campo Grande;
 
-XII – SERRA NEGRA, a que abrange a rua 63, com início no prolongamento da
+XII – SERRA NEGRA, a que abrange a rua 63, com início no prolongamento da Avenida das Amoreiras e término na rua 54;
 
 XIII – MONTE-MÓR, a que abrange a rua 73, com início na rua 54 e término na Avenida 1;
 

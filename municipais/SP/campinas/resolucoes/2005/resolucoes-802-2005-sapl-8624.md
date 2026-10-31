@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: MESA DA CÂMAR
 fonte: "https://sapl.campinas.sp.leg.br/norma/8624"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2005/8624/8624_texto_integral.pdf"
 sha256_fonte: "7816f4929846876f276c2bfda83fb60f87d626917681d8dd9af7f9440881a70f"
-sha256_texto: "e49bd185f1473cecfff5a6a47d479df7e4ffef87706d2c7166527531c2776113"
+sha256_texto: "6765768b8b2834e99437ce676282a61bc280d95defdfe04be324254cfd9fc09a"
 baixado_em: "2026-10-30"
 ---
 
@@ -31,9 +31,7 @@ a Mesa da Câmara autorizada a transferir as seguintes dotações: 01.0101.01031
 
 **Art. 2º** - A transferência de que trata o artigo anterior serão alocadas nas seguintes dotações: 01.0101.0103130013.001.4.4.90.51 OBRAS E INSTALAÇÕES .................................. R$ 1.558.000,00 32002.001.3.1.90.11 VENC. E VANT. FIXAS PES.CIVIL ............................................ R$ 1.000.000,00 3.3.90.30 MATERIAL DE CONSUMO .......................................................................... R$ 300.000,00 TOTAL TRANSFERIDO ....................................................................................... R$ 2.858.000,00
 
-**Art. 3º** - Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 10 de novembro de 2005 DÁRIO SAADI
-
-Autoria: Mesa da Câmara PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 10 DE NOVEMBRO DE 2005. TADEU EXPEDITO FIGUEIREDO Diretor Geral Publicado no Diário Oficial Municipal de Campinas em 07/12/2005
+**Art. 3º** - Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário. Campinas, 10 de novembro de 2005 DÁRIO SAADI Presidente Autoria: Mesa da Câmara PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS AOS 10 DE NOVEMBRO DE 2005. TADEU EXPEDITO FIGUEIREDO Diretor Geral Publicado no Diário Oficial Municipal de Campinas em 07/12/2005
 
 RETIFICAÇÃO DA RESOLUÇÃO NR. 802 DE 10 DE NOVEMBRO DE 2005 A Câmara Municipal aprovou e eu, seu Presidente, promulgo a seguinte Resolução: – Retificar a transferência da dotação de Equip. e Mat. Permanente, da seguinte forma, do Artigo 1º: ONDE SE LÊ: 01.0101.0103130023.001.4.4.90.52 EQUIP. E MAT.PERMANENTE ............................... R$ 1.178.000,00
 
@@ -41,5 +39,5 @@ LÊ-SE: 01.0101.0103130013.001.4.4.90.52 EQUIP. E MAT.PERMANENTE ...............
 
 Campinas, 06 de dezembro de 2005 DÁRIO JORGE GIOLO SAADI
 
-AURÉLIO JOSÉ CLAÚDIO 1º.Secretário NOEL COORDEIRO TEIXEIRA 2º.Secretário
+Presidente AURÉLIO JOSÉ CLAÚDIO 1º.Secretário NOEL COORDEIRO TEIXEIRA 2º.Secretário
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/15300"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1947/15300/15300_texto_integral.pdf"
 sha256_fonte: "b11769d0bea4dd29e136bd8deaca7f271fc3299074f5f9372b0f0b347405c19f"
-sha256_texto: "de267afb7fa6a9ffa0732e8a4fb4e04e0cf1805953e6c4785ada25f5631ee58a"
+sha256_texto: "2a9113446998b18719260c3984b79d2eefc466624d8004776103ca38a1ea14c5"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,7 +27,7 @@ O Prefeito Municipal de Campinas, nos termos do inciso II do art. 3 o, do Ato da
 
 **Art. 1º** – Fica a Prefeitura Municipal autorizada a ceder gratuitamente, mediante concorrência pública, a pessoa física ou jurídica, pelo prazo de 20 (vinte) anos, para a construção e exploração, nesta cidade, de um estação de ônibus e auto-lotação, a área de terreno pertencente ao patrimônio municipal, situada entre as ruas Benjamim Constant, Álvares Machado, Barreto Leme e o próprio Mercado Municipal.
 
-**Art. 2º** – A concessionária ficará obrigada a construir na área de terreno delimitada no artigo anterior, um prédio que se destinará à estação de ônibus e auto-lotação, tendo por base o ante-projeto e as especificações existentes na
+**Art. 2º** – A concessionária ficará obrigada a construir na área de terreno delimitada no artigo anterior, um prédio que se destinará à estação de ônibus e auto-lotação, tendo por base o ante-projeto e as especificações existentes na Diretoria de Obras e Viação.
 
 **Art. 3º** – Os concorrentes deverão mencionar, expressamente, na proposta, o prazo para início e conclusão das obras, a ser contado da data da assinatura do contrato de concessão.
 
@@ -45,7 +45,7 @@ O Prefeito Municipal de Campinas, nos termos do inciso II do art. 3 o, do Ato da
 
 § 2o – Seis (6) meses antes da reversão a que se refere este artigo, a Prefeitura fará vistoriar o imóvel pela Diretorias de Obras e Viação, ficando a concessionária obrigada a atender as exigências desta Diretoria, relativas à boa conservação do imóvel e respectivas instalações, no ato de entrega do imóvel.
 
-**Art. 7o** – O inadimplemento de qualquer obrigação a ser assumida pela concessionária, sujeita-la-á ao pagamento da multa de Cr$ 1.000,00 (mil cruzeiros) a Cr$ 5.000,00 (cinco mil cruzeiros), por infração, aplicada pela
+**Art. 7o** – O inadimplemento de qualquer obrigação a ser assumida pela concessionária, sujeita-la-á ao pagamento da multa de Cr$ 1.000,00 (mil cruzeiros) a Cr$ 5.000,00 (cinco mil cruzeiros), por infração, aplicada pela Diretoria de Obras e Viação.
 
 § Único – A aplicação e o pagamento da multa de que trata este artigo, não impedirá que a Prefeitura promova contra a concessionária, as medidas administrativas ou judiciais que o caso comportar, notadamente as referentes a perdas e danos.
 

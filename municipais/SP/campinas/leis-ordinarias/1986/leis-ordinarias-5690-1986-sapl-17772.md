@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/17772"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1986/17772/17772_texto_integral.pdf"
 sha256_fonte: "3078f3b3632cecec1e27846711bf1265eb5da3095291f5cb15e469ea670dff5d"
-sha256_texto: "9352155fa556cfd0e5c7e83572e0b1286018342e8b8e0ae56b12cf7d267678f8"
+sha256_texto: "2e987a490959c795c6c94c2d789ecae1774d4f0829c357da9a78ad6919a4804c"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,23 +25,13 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** - Fica o Poder Executivo autorizado a permutar os lotes de terreno nºs 13 e 14 do quarteirão nº 7.057 e 26 e 27 do quarteirão nº 7.055, pertencentes à Municipalidade, com os lotes nºs 19 da quadra C do quarteirão 3.272 e 7 e 8 da quadra K do quarteirão 586, localizados no loteamento Jardim Chapadão e de propriedade do Senhor Octaviano Alves de Lima Filho e outro os sucessores, cujas áreas têm as seguintes descrições:
 
-I – Lote 13, da anexação de áreas, da praça 10 e vielas para pedestres, localizado nas quadras C2 e U, quarteirão 7.057 do Cadastro Municipal, loteamento Jardim
+I – Lote 13, da anexação de áreas, da praça 10 e vielas para pedestres, localizado nas quadras C2 e U, quarteirão 7.057 do Cadastro Municipal, loteamento Jardim Chapadão-Continuação 2ª parte, de propriedade da Municipalidade, com 348,80m² de área e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua Amadeu Martins; 29,20m lateralmente à direita, onde confronta com o lote 11 do mesmo quarteirão; 12,00m aos fundos, onde confronta com o lote 14 do mesmo quarteirão e 29,00m lateralmente à esquerda, onde confronta com o lote 12 do mesmo quarteirão;
 
-348,80m² de área e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua Amadeu Martins; 29,20m lateralmente à direita, onde confronta com o lote 11 do mesmo quarteirão; 12,00m aos fundos, onde confronta com o lote 14 do mesmo quarteirão e 29,00m lateralmente à esquerda, onde confronta com o lote 12 do mesmo quarteirão;
+II – Lote 14, da anexação de áreas da praça 10 e vielas para pedestres, localizado nas quadras C2 e U, quarteirão nº 7.057 do Cadastro Municipal, loteamento Jardim Chapadão-Continuação 2ª parte, de propriedade da Municipalidade, com 347,20m² de área e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua 113; 30,00m lateralmente à direita, onde confronta com o lote 1 do mesmo quarteirão; 12,00m aos fundos, onde confronta com o lote 26 do mesmo quarteirão e 30,00m lateralmente à esquerda, onde confronta com a viela para pedestres;
 
-II – Lote 14, da anexação de áreas da praça 10 e vielas para pedestres, localizado nas quadras C2 e U, quarteirão nº 7.057 do Cadastro Municipal, loteamento Jardim Chapadão-Continuação 2ª parte, de propriedade da Municipalidade, com 347,20m² de área e as seguintes medidas: 12,00m de frente pelo alinhamento da
+III – Lote 26, da anexação de áreas da praça 8 e viela para pedestres, localizado nas quadras Q e W, quarteirão 7.055 do Cadastro Municipal, loteamento Jardim Chapadão-Continuação 2ª parte, de propriedade da Municipalidade, com 360,00m² e as seguintes medidas: 12,00m de frente pelo alinhamento da Avenida Dr. Francisco Mais; 30,00m lateralmente à direita, onde confronta com viela sanitária; 12,00m aos fundos, onde confronta com o lote 27 do mesmo quarteirão e 30,00m lateralmente à esquerda, onde confronta com o lote 25 do mesmo quarteirão;
 
-e 30,00m lateralmente à esquerda, onde confronta com a viela para pedestres;
-
-III – Lote 26, da anexação de áreas da praça 8 e viela para pedestres, localizado nas quadras Q e W, quarteirão 7.055 do Cadastro Municipal, loteamento Jardim
-
-360,00m² e as seguintes medidas: 12,00m de frente pelo alinhamento da Avenida Dr. Francisco Mais; 30,00m lateralmente à direita, onde confronta com viela sanitária; 12,00m aos fundos, onde confronta com o lote 27 do mesmo quarteirão e 30,00m lateralmente à esquerda, onde confronta com o lote 25 do mesmo quarteirão;
-
-IV – Lote 27, da anexação de áreas da praça 8 e viela para pedestres, localizado nas quadras Q e W, quarteirão 7.055 do Cadastro Municipal, loteamento Jardim
-
-360,00m² de área e as seguintes medidas: 12,00m de frente pelo alinhamento da
-
-e 30,00m lateralmente à esquerda, onde confronta com viela para pedestres;
+IV – Lote 27, da anexação de áreas da praça 8 e viela para pedestres, localizado nas quadras Q e W, quarteirão 7.055 do Cadastro Municipal, loteamento Jardim Chapadão-Continuação 2ª parte, de propriedade da Municipalidade, com 360,00m² de área e as seguintes medidas: 12,00m de frente pelo alinhamento da Rua 113; 30,00m lateralmente à direita, onde confronta com o lote 1 do mesmo quarteirão; 12,00m aos fundos, onde confronta com o lote 26 do mesmo quarteirão e 30,00m lateralmente à esquerda, onde confronta com viela para pedestres;
 
 V – Lote 19 localizado nas quadras C, quarteirão 3.272 do Cadastro Municipal, loteamento Jardim Chapadão -1ª parte, de propriedade de Octaviano Alves de Lima filho e outros ou sucessores, com 294,40m² de área e as seguintes medidas: 11,00m onde confronta com a Rua Benedito Gonçalves do Nascimento; 27,50m onde confronta com o lote 20 da mesma quadra; 4,20m + 6,90m onde confronta com os lotes 11 e 13 da mesma quadra; 25,00m onde confronta com o lote 18 da mesma quadra;
 

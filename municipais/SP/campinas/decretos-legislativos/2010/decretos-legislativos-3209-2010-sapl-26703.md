@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR PETTE
 fonte: "https://sapl.campinas.sp.leg.br/norma/26703"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2010/26703/26703_texto_integral.pdf"
 sha256_fonte: "2a51a547312ac781b11ad2e3024a357c8575f88f091ac8c2d445f10bd5d21e08"
-sha256_texto: "7738fc8a0b05fce45603fc7d396114e5d9eda337dcbb56ee4be1def49ff5293d"
+sha256_texto: "8b37f0e20f89ec79df73c37ff506abfdbd0ea85680ff45e4b9f99739cedb6c3f"
 baixado_em: "2026-10-30"
 ---
 
@@ -35,7 +35,7 @@ decreto legislativo:
 
 AURÉLIO CLAUDIO
 
-Autoria: Vereador Petterson Prado PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS, AOS 27 DE OUTUBRO DE 2010.
+PRESIDENTE Autoria: Vereador Petterson Prado PUBLICADO NA SECRETARIA DA CÂMARA MUNICIPAL DE CAMPINAS, AOS 27 DE OUTUBRO DE 2010.
 
 ISRAEL MAZZO
 
@@ -56,4 +56,6 @@ LEIA-SE:
 **Art. 1º** - Fica concedido diploma de Honra ao Mérito à Escola Estadual Professor João Lourenço Rodrigues pelos relevantes serviços prestados ao Município de Campinas. Campinas, 16 de dezembro de 2010
 
 AURELIO CLAUDIO
+
+PRESIDENTE
 

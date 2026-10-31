@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/43187"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2017/43187/43187_texto_integral.pdf"
 sha256_fonte: "5a26b5d93a7624b50b2d483f114f095ff1a37d520709689abc7ec4e8dcdba0d8"
-sha256_texto: "ae4c39907f44fcc710f737f79ea190a7344cc90b2759c33b402091ee70db6c38"
+sha256_texto: "d726c84b484cc3e1b07cf047e3dd17ff6030b7a6dcba7e86f07b49322b798e78"
 baixado_em: "2026-10-21"
 ---
 
@@ -31,11 +31,13 @@ II - Segunda Faixa: parte da passagem de pedestres localizada entre os Lotes 30 
 
 **Art. 2º** - Fica o Município autorizado a alienar, através de licitação, exclusivamente aos proprietários lindeiros, as áreas descritas no art. 1º desta
 
+Lei Complementar.
+
 **§ 1º** - No processo de licitação, caso um dos proprietários lindeiros venha a desistir da compra da faixa da passagem de pedestres que faz divisa com a sua propriedade, esta poderá ser vendida ao outro proprietário lindeiro, adquirente da faixa contígua.
 
 **§ 2º** - As áreas descritas no art. 1º desta Lei Complementar deverão ser alienadas integralmente, não remanescendo nenhuma delas no patrimônio municipal.
 
-**Art. 3º** - Fica vedada qualquer edificação nas áreas descritas no art. 1º desta
+**Art. 3º** - Fica vedada qualquer edificação nas áreas descritas no art. 1º desta Lei Complementar.
 
 **Art. 4º** - Fica instituída servidão de passagem de águas pluviais em favor da Prefeitura Municipal de Campinas, assim como fica instituída servidão de viela sanitária em favor da Sociedade de Abastecimento de Água e Saneamento S.A. - Sanasa Campinas nas áreas descritas no art. 1º desta Lei Complementar.
 

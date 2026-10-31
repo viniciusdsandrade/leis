@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: MESA DA CAMARA
 fonte: "https://sapl.campinas.sp.leg.br/norma/26551"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2010/26551/26551_texto_integral.pdf"
 sha256_fonte: "cad2fb39cf747a0515d268332f39edaef4469ee1cb18d2d4de4e7a326c559503"
-sha256_texto: "ecd6341f380d9eeca6c5bb4180f7d87c4d271eb32807b8810594dac18f865f86"
+sha256_texto: "f4182811b2efd84fb10eb0784ac5fb8a65e24623ae411953a820651eb16df938"
 baixado_em: "2026-10-30"
 ---
 
@@ -31,9 +31,7 @@ A Câmara Municipal aprovou e eu, seu presidente, Aurélio Cláudio, promulgo a 
 
 Campinas, 12 de agosto de 2010
 
-AURELIO CLAUDIO
-
-Autoria: Mesa da Câmara Publicado na Secretaria da Câmara Municipal de Campinas aos 12 de agosto de 2010.
+AURELIO CLAUDIO Presidente Autoria: Mesa da Câmara Publicado na Secretaria da Câmara Municipal de Campinas aos 12 de agosto de 2010.
 
 ISRAEL MAZZO
 
@@ -50,6 +48,8 @@ SALDO SALDO P/ MÊS ANTERIOR SEGUINTE CAIXA CAIXA BANCOS 749.058.60 749.058.60 B
 TOTAIS 7.891.172.34 50.412.649.29 74.777.165.00 31.099.240.58 7.891.172.34 50.412.649.29
 
 Campinas, 31 de julho de 2010 AURÉLIO JOSÉ CLÁUDIO
+
+Presidente
 
 CARLOS EDUARDO GUIDA GASPAR
 

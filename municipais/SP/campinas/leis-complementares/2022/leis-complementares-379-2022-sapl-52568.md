@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/52568"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/52568/52568_texto_integral.pdf"
 sha256_fonte: "c8a888c23dc078b03ee2e88633b9a4fe0fb959a010682adfd05fb7a560662eea"
-sha256_texto: "c4a7c22d4140af2991e75c41fcc9e015c42ff94231f22e325194f7632e9c3a20"
+sha256_texto: "bd0463519beed36f2d160d9a5ccd283e2d95c9d438fe42b9295809cc5088e80a"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,7 +27,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **§ 1º** A outorga da concessão poderá ser onerosa ou não, a depender das condições de sua viabilidade econômico-financeira e da preservação do interesse público.
 
-**§ 2º** Os serviços serão executados sob regime de concessão e responsabilidade integral da Concessionária, que terá a obrigação de dispor de veículos, mão de obra, sistemas, garagens, maquinário, equipamentos, materiais, acessórios e tudo o mais que for necessário ao pleno desenvolvimento dos trabalhos, em volumes e quantidades compatíveis para a plena execução do objeto do contrato de concessão ao longo do período de sua vigência, de acordo com o previsto no edital e no
+**§ 2º** Os serviços serão executados sob regime de concessão e responsabilidade integral da Concessionária, que terá a obrigação de dispor de veículos, mão de obra, sistemas, garagens, maquinário, equipamentos, materiais, acessórios e tudo o mais que for necessário ao pleno desenvolvimento dos trabalhos, em volumes e quantidades compatíveis para a plena execução do objeto do contrato de concessão ao longo do período de sua vigência, de acordo com o previsto no edital e no contrato de concessão.
 
 **§ 3º** A Concessionária terá a obrigação de executar e manter serviço adequado aos usuários, zelando por sua qualidade, sendo considerado como serviço adequado aquele que atenda ao disposto no edital de licitação, no contrato de concessão e nas Leis Federais nº 14.133, de 1º de abril de 2021, nº 8.078, de 11 de setembro de 1990, nº 8.987, de 13 de fevereiro de 1995, nº 13.460, de 26 de junho de 2017, nº 12.587, de 3 de janeiro de 2012, e nº 13.146, de 6 de julho de 2015, bem como nos decretos e regulamentos municipais específicos.
 
@@ -41,7 +41,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **§ 1º** O processo licitatório definirá o valor da tarifa de remuneração.
 
-**§ 2º** Eventuais receitas acessórias e financeiras decorrentes da concessão deverão ser aprovadas previamente pela Secretaria Municipal de Transportes e serão consideradas para efeito de modicidade tarifária, conforme estabelecido no
+**§ 2º** Eventuais receitas acessórias e financeiras decorrentes da concessão deverão ser aprovadas previamente pela Secretaria Municipal de Transportes e serão consideradas para efeito de modicidade tarifária, conforme estabelecido no contrato de concessão.
 
 **Art. 3º** A Concessionária deverá constituir Sociedade de Propósito Específico, com sede em Campinas, e a gestão das receitas e despesas deverá observar plano de contas contábeis previamente aprovado pelo Poder Concedente.
 

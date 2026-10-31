@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/53683"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53683/53683_texto_integral.pdf"
 sha256_fonte: "f301244fc90febebe84e600c5745cf056f9f0d75e9e3b0cee24f0d492f3d0ef5"
-sha256_texto: "52a6a0fcf787e205301a058bd1d119e2c7ddc41a06d84a088b9e97a0dbab5ddd"
+sha256_texto: "050d1f7598084b983b322ae5806132a8bffb68829cf2465b2e3eaa3438e4e2cb"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,21 +25,17 @@ O PRESIDENTE DA CÂMARA MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municip
 
 **Art. 1º** Ficam alterados os quantitativos dos cargos de Analista Legislativo Tecnologia da Informação e Analista Legislativo Pedagogo, de nível superior, e de Técnico Legislativo, de nível técnico, previstos no Anexo I da Resolução nº 885, de 13 de fevereiro de 2014, que passa a vigorar com a seguinte redação:
 
-“ANEXO I
+“ANEXO I QUADRO PERMANENTE DE PESSOAL
 
-Analista ..... ..... ..... ..... Legislativo 11 .....
+QUADRO PERMANENTE DE PESSOAL Grupo Classe e Carga Ocupacio- Cargo Quantitativo Nível de Vencimento Horária nal Semanal ..... ..... ..... ..... ..... ..... ..... ..... ..... ..... .....
 
-Tecnologia da ..... Informação Nível ..... ..... ..... ..... ..... Superior ..... ..... ..... ..... ..... .....
+Analista ..... ..... ..... ..... Legislativo 11 ..... ..... ..... ..... Tecnologia da ..... Informação Nível ..... ..... ..... ..... ..... Superior ..... ..... ..... ..... ..... .....
 
-Analista Legislativo 4 ..... .....
+..... ..... ..... ..... Analista Legislativo 4 ..... ..... ..... ..... ..... Pedagogo ..... ..... ..... ..... ..... ..... ..... ..... ..... ..... .....
 
-Pedagogo
+ANEXO I QUADRO PERMANENTE DE PESSOAL
 
-..... ..... ..... ..... ..... ..... .....
-
-## ANEXO I
-
-Técnico 69 ..... ..... Legislativo ..... ..... ..... Nível Técnico ..... ..... ..... .....
+QUADRO PERMANENTE DE PESSOAL Grupo Classe e Carga Ocupacio- Cargo Quantitativo Nível de Vencimento Horária nal Semanal ..... ..... ..... ..... Técnico 69 ..... ..... Legislativo ..... ..... ..... Nível Técnico ..... ..... ..... ..... ..... ..... ..... ..... ..... ..... .....
 
 NR”
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/38976"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2014/38976/38976_texto_integral.pdf"
 sha256_fonte: "6b79802f4622276c192dd7da2775dfdfe86426ff7b4b3796cfd260c573e0f8bc"
-sha256_texto: "99291ace077071e845785c09ddf2b9dfa3904963b642c0c498d31b6f960a32fe"
+sha256_texto: "b7992f5afc899bb339e3c95306e7538219d83a7cbf33e3cbb2681b47871a8d60"
 baixado_em: "2026-10-21"
 ---
 
@@ -29,11 +29,9 @@ I - parte da passagem de pedestres entre os lotes 11 e 12 da quadra S do loteame
 
 II - parte da passagem de pedestres entre os lotes 11 e 12 da quadra S do loteamento Jardim Botânico de Campinas - Parte 2ª, quarteirão 11.123 do Cadastro Municipal, com área de 97,10m² e as seguintes medidas e confrontações: 2,00m confrontando com a Rua Doutor Romeu Masseli Le Petit; 48,70m confrontando com o lote 11 da mesma quadra; 2,00m confrontando com parte da passagem de pedestres entre os lotes 30 e 31 da mesma quadra; 48,55m confrontando com parte da passagem de pedestres entre os lotes 11 e 12 da mesma quadra;
 
-III - parte da passagem de pedestres entre os lotes 30 e 31 da quadra S do loteamento Jardim Botânico de Campinas - Parte 2ª, quarteirão 11.123 do Cadastro Municipal, com área de 91,25m² e as seguintes medidas e confrontações: 2,01m confrontando com a Rua Alano Raizer; 45,85m confrontando com o lote 30 da mesma quadra; 2,00m confrontando com parte
+III - parte da passagem de pedestres entre os lotes 30 e 31 da quadra S do loteamento Jardim Botânico de Campinas - Parte 2ª, quarteirão 11.123 do Cadastro Municipal, com área de 91,25m² e as seguintes medidas e confrontações: 2,01m confrontando com a Rua Alano Raizer; 45,85m confrontando com o lote 30 da mesma quadra; 2,00m confrontando com parte da passagem de pedestres entre os lotes 11 e 12 da mesma quadra; 45,63m confrontando com parte da passagem de pedestres entre os lotes 30 e 31 da mesma quadra;
 
-mesma quadra;
-
-IV - parte da passagem de pedestres entre os lotes 30 e 31 da quadra S do loteamento Jardim Botânico de Campinas - Parte 2ª, quarteirão 11.123 do Cadastro Municipal, com área de 91,25m² e as seguintes medidas e confrontações; 2,01m confrontando com a Rua Alano Raizer; 45,40m confrontando com o lote 31 da mesma quadra; 2,00m confrontando com parte mesma quadra.
+IV - parte da passagem de pedestres entre os lotes 30 e 31 da quadra S do loteamento Jardim Botânico de Campinas - Parte 2ª, quarteirão 11.123 do Cadastro Municipal, com área de 91,25m² e as seguintes medidas e confrontações; 2,01m confrontando com a Rua Alano Raizer; 45,40m confrontando com o lote 31 da mesma quadra; 2,00m confrontando com parte da passagem de pedestres entre os lotes 11 e 12 da mesma quadra; 45,63m confrontando com parte da passagem de pedestres entre os lotes 30 e 31 da mesma quadra.
 
 **Art. 2º** - Fica o Município autorizado a alienar, na modalidade concorrência, as áreas descritas no art. 1° desta Lei, desde que em sua totalidade e exclusivamente aos proprietários dos imóveis lindeiros, as quais deverão ser anexadas a esses imóveis, conforme disposto no art. 3° do Decreto Municipal n° 17.065, de 03 de maio de 2010.
 

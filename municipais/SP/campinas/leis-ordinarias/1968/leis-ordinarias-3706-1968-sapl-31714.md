@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; Ausencia da pagina 90"
 fonte: "https://sapl.campinas.sp.leg.br/norma/31714"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1968/31714/31714_texto_integral.pdf"
 sha256_fonte: "9def10b9c05efb8068590ff4ceec482e34e154dbc8081b15a4fa8cd65f181dcb"
-sha256_texto: "304732c10058eb9bd8a8c854a528259b39f36c64f9819410ae67053cf19e822e"
+sha256_texto: "d31380c808c9e8b485eee9a4358eb6c08c0e5325f9738972baf1ca7b0ca55e7e"
 baixado_em: "2026-10-30"
 ---
 
@@ -565,269 +565,149 @@ ANEXO IV Classes de cargos de provimento efetivo extintos quando vagarem com os 
 
 - 55 - O:A832 : ADMINISTRADOR I
 
-Nível: Recuisitos mi mos para provimento =zUguo: Socundária, 21 sé - Idade: 2io do 1º ciclo.
-
-Experiência: Conhecimentos elementares da / lingua portuguêsa. Conhecimen- to da Administração Geral do / Município. Perspectiva da promosão Possibilita promoção: Recrutamento: Geral: Possibilite acessos à classe de Administrador II.
+Nível: Recuisitos mi mos para provimento =zUguo: Socundária, 21 sé - Idade: 2io do 1º ciclo. Conhecimentos especializados: Experiência: Conhecimentos elementares da / lingua portuguêsa. Conhecimen- to da Administração Geral do / Município. Perspectiva da promosão Possibilita promoção: Recrutamento: Geral: Possibilite acessos à classe de Administrador II.
 
 - 56 - CIASSI: ADMINISTRADOR II Nivel: 10 Requisitos mínimos 222a pRovimento Instrução: Secundária, 12 ci- INCE Cutros requisitos: clo completo. Conhecimento dos métodos de Arquivística. Conhecimentos ospecializados: Experiência: Capacidade para redigir rela- tórios com correção. Conheci- mento da Administração Geral/ do Municipio. Perspectiva de promoção Possibilita promoção: Rocrutamento: Dentre os / ocupantes da classe de Ad - ministrador I. Possibilita acossos
 
-Aliter - 57 CLASSE: AGRIMENSOR Nível: 17 Requisitos mínimos para provimento Instrução: Curso completo de Idade: 18 a 35 anos. agrimensura. Outros requisitos: Habili- tação legal para exercício da profissão.
+Aliter - 57 CLASSE: AGRIMENSOR Nível: 17 Requisitos mínimos para provimento Instrução: Curso completo de Idade: 18 a 35 anos. agrimensura. Outros requisitos: Habili- tação legal para exercício da profissão. Conhecimentos especializados: Experiência: T30 dias de / Técnicas de Topografia e de - efetivo exercício na classe senho. Iriginometria. Geome - de Desenhista III, Topógra- metria. Io-Auxiliar ou Auxiliar de/ Engenheiro. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentro os ocu pantes das classes de De - senhista III, Topógrafo. / Aurillar e Auxillar de En- genheiro. Possib1l1ta
 
-Experiência: T30 dias de / Técnicas de Topografia e de - efetivo exercício na classe senho. Iriginometria. Geome - de Desenhista III, Topógra- metria. Io-Auxiliar ou Auxiliar de/ Engenheiro. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentro os ocu pantes das classes de De - senhista III, Topógrafo. / Aurillar e Auxillar de En- genheiro. Possib1l1ta
+- 58 -: TR Nível: 7 CIASSE: ALMOXARIFE I Requisitos mínimos para provimento Curso primário / Instrução: Idades 18 a 25 anos. completo. Conhecimentos especializados: Experiência: Datilografia, Cálculos rápi - dos de Aritmética. Ferspectiva de promoção Possibilita promoção: à clas-. Recrutamento: Geral. se de Almoxarife II. Possibilita acessos
 
-- 58 -: TR Nível: 7 CIASSE: ALMOXARIFE I Requisitos mínimos para provimento Curso primário / Instrução: Idades 18 a 25 anos. completo.
+Nível: 9 CIASSE: ALMOXARIFE II Requisitos mínimos para provimento Instrução: Secundária, 2º sério Idades 18 a 30 anos. do le ciclo. Experiência: 730 dias de / Conhecimentos especializados: efetivo exercício na clas- Datilografia. Problemas de / regra de tres. Proporções: / se de Almoxariio I. Técnicas de Almoxarilado.Por- tuguês: redação de cartas co- merciais. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dentre os ocu pantes da classe de Almoxa - eo de Almoxarilo III. rite Io Possibilita acessos
 
-Experiência: Datilografia, Cálculos rápi - dos de Aritmética. Ferspectiva de promoção Possibilita promoção: à clas-. Recrutamento: Geral. se de Almoxarife II. Possibilita acessos
-
-Nível: 9 CIASSE: ALMOXARIFE II Requisitos mínimos para provimento Instrução: Secundária, 2º sério Idades 18 a 30 anos. do le ciclo. Experiência: 730 dias de /
-
-efetivo exercício na clas- Datilografia. Problemas de / regra de tres. Proporções: / se de Almoxariio I. Técnicas de Almoxarilado.Por- tuguês: redação de cartas co- merciais. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dentre os ocu pantes da classe de Almoxa - eo de Almoxarilo III. rite Io Possibilita acessos
-
-60 - - CLASSE: ALMOXARIFE III Nível: 11 Requisitos mínimos para provimento Instrução: Secundária, 1º ciclo Idade: completo..
-
-Experiência: 730 dias de / eletivo exercício na classe Datilografia. Problemas mais / complexos de aritmética e ál - de Almoxarilo II. gebra, Técnicas de almoxarifa- do. Conservação e catologação/ de materiais. Redação de rela- tórios e análiser estatística. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentre os ocu pantes da classe de Almoxa- rite II• Possibilita acesso: à classe de Auxiliar de Engenheiro o / Assistente de Administração I.
+60 - - CLASSE: ALMOXARIFE III Nível: 11 Requisitos mínimos para provimento Instrução: Secundária, 1º ciclo Idade: completo.. Conhecimentos especializados: Experiência: 730 dias de / eletivo exercício na classe Datilografia. Problemas mais / complexos de aritmética e ál - de Almoxarilo II. gebra, Técnicas de almoxarifa- do. Conservação e catologação/ de materiais. Redação de rela- tórios e análiser estatística. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentre os ocu pantes da classe de Almoxa- rite II• Possibilita acesso: à classe de Auxiliar de Engenheiro o / Assistente de Administração I.
 
 Requisitos mínimos para provimento CIASSE: ARQUITETO Instrução: superior, diploma de gran superios om Arquitotu-
 
-Perspectiva Possibilita promoção: Possibilita acessos -61 - Nível: C XEX&Es Outros requisitos: Habilitação legal para o / exercício da profissão. Experiência: Recrutamento: Geral,
+Conhecimentos especializados: Perspectiva Possibilita promoção: Possibilita acessos -61 - Nível: C XEX&Es Outros requisitos: Habilitação legal para o / exercício da profissão. Experiência: Recrutamento: Geral,
 
-Requisitos mínimos para provimento CLASSE: ARQUIVISTA Instrução: Socundária, 19 ciclo completo.
+Requisitos mínimos para provimento CLASSE: ARQUIVISTA Instrução: Socundária, 19 ciclo completo. Conhecimentos especializados: Conhecimentos de datilografia. Conhecimentos de português su- • ficientes para a redação de / informações simples. Conheci - mento dos métodos de arquivis- táca. Perspectiva Possibilita promoção: Possibilita acessos à classe de Escriturário Datilógrafo I. - 62 Nível: 6 Idade: Experiência: T30 dias de orativo exercício pa clas- 'se de Auxiliar de Biblio - téca. de promoção Recrutamento: Dentre os / ocupantes da classe de Au- elllar de Bibliotéca.
 
-Conhecimentos de datilografia. Conhecimentos de português su- • ficientes para a redação de / informações simples. Conheci - mento dos métodos de arquivis- táca. Perspectiva Possibilita promoção: Possibilita acessos à classe de Escriturário Datilógrafo I. - 62 Nível: 6 Idade: Experiência: T30 dias de orativo exercício pa clas- 'se de Auxiliar de Biblio - téca. de promoção Recrutamento: Dentre os / ocupantes da classe de Au- elllar de Bibliotéca.
-
-- 63- CIASSE: ASSISTENTE DE ADMINISTRAÇÃO I Nivel: 13 Requisitos mínimos para provimento Instrução: Socundária, 2º c1- Idade: clo comploto.
-
-Experiência: 730 dias de efetivo exercício numa das/ portugues e capacidade para classes de escriturário-da- rodigir com clareza o Precisao. Conhecimento consideravel da le tilógrafo III o Almoxariio/ gislaçao municapar reiorento a organizaçao e funcionamento dos III. serviços municipais. Dominio / da tecnica de datilografia. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dentre os ocu se de Assistente de Administra pantes das classes de Eseri turário-Datilógrafo III e / Ção II. Almoxarife III. Possibilita acessos
+- 63- CIASSE: ASSISTENTE DE ADMINISTRAÇÃO I Nivel: 13 Requisitos mínimos para provimento Instrução: Socundária, 2º c1- Idade: clo comploto. Conhecimentos especializados: Experiência: 730 dias de efetivo exercício numa das/ portugues e capacidade para classes de escriturário-da- rodigir com clareza o Precisao. Conhecimento consideravel da le tilógrafo III o Almoxariio/ gislaçao municapar reiorento a organizaçao e funcionamento dos III. serviços municipais. Dominio / da tecnica de datilografia. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dentre os ocu se de Assistente de Administra pantes das classes de Eseri turário-Datilógrafo III e / Ção II. Almoxarife III. Possibilita acessos
 
 - 64 - ASSISTENTE DE ADMINISTRAÇÃO II Nível: 14 CRASSE : Requisitos mínimos para provimento Instrução: Secundária, segundo Idade: ciclo completo. Experiência: T30 dias de Conhocimentos ospocializados: efetivo exercído na classe Conhecimento consideravel do / portugues e capacidade para re de Assistente de Adminis - digir com correçao. AmpLo co ™ tração I. nhecimento da organizaçao dos/ serviços municipais. Conheci - nento das técnicas de organi - zação do trabalgo. Perspectiva de promoção Possibilita promoçãos à classe Recrutamento: Dentro os ocu de Assistento do Administração pantos da classe de Assis- tento de Administração I. III. Possibilita acesso:
 
-- 65 Nível: 15 ASSISTENTE DE ADMINISTRAÇÃO III CASSE : Requisitos mínimos para provimento Instrução: Secundária, segundo Idade: ciclo completo. Experiência: 730 dias de
+- 65 Nível: 15 ASSISTENTE DE ADMINISTRAÇÃO III CASSE : Requisitos mínimos para provimento Instrução: Secundária, segundo Idade: ciclo completo. Experiência: 730 dias de Conhecimentos especializados: efetivo exercício na clas- Conhecimento considerável de português e capacidade para / se de Assistente de Admi - redigir com correção. Conhe- nistração II. cimento de administração geral Perspectiva de promoção Possibilita promoção: Recrutamento: Dentreos ocu- pantes da classe de Assis- tento de Administração II. Possibilita acesso:
 
-efetivo exercício na clas- Conhecimento considerável de português e capacidade para / se de Assistente de Admi - redigir com correção. Conhe- nistração II. cimento de administração geral Perspectiva de promoção Possibilita promoção: Recrutamento: Dentreos ocu- pantes da classe de Assis- tento de Administração II. Possibilita acesso:
+- 66 - Nível: 13 CCASSE: ASSISTENTE DE ADVOGADO I Requisitos mínimos para provimento Instrução: Socundária, 20 Idade: Ciclo comploto. Experiência: 730 dias de Conhecimentos especializados: efetivo exercício na clas- Conhecimento de português e / so do Escriturário-Datiló- capacidade para redigir com / clareza e precisão. Conheci - grafo III. mento considerável da legisla ção municipal. Domínio da Tés nica de datilografia. . de promoção Perspectiva Possibilita promoção: à classe Recrutamento: Dentre os ocü pantes da classe de Escri- do Assistento do Advogado II• turário-Datilógrafo III. Possibilita acesso:
 
-- 66 - Nível: 13 CCASSE: ASSISTENTE DE ADVOGADO I Requisitos mínimos para provimento Instrução: Socundária, 20 Idade: Ciclo comploto. Experiência: 730 dias de
+- 67 - CLASSE: Nível: 14 ASSISTENTE DE ADVOGADO II Requisitos mínimos para provimento Instruçãos Socundária, 20 c1- Idade: clo completo. Conhecimentos especializados: Experiência: 730 dias de / Conhecimento considerável de efetivo exercício na clas- português e capacidade para/ se de Assistento de Advo - redigir com clareza e preci- gado Io são. Conhecimento da legis - lação municipal, estadual o federal aplicaveis ao Municí- pio. Perspectiva de promoção Possibilita promoção: à classe. Recrutamento: Dentre os ocu de Assistente de Advogado III. pantes da classe de Assis- tento de Advogado II. Possibilita acessos
 
-efetivo exercício na clas- Conhecimento de português e / so do Escriturário-Datiló- capacidade para redigir com / clareza e precisão. Conheci - grafo III. mento considerável da legisla ção municipal. Domínio da Tés nica de datilografia. . de promoção Perspectiva Possibilita promoção: à classe Recrutamento: Dentre os ocü pantes da classe de Escri- do Assistento do Advogado II• turário-Datilógrafo III. Possibilita acesso:
+- 68 - Nível: 15 CCASSE: ASSISTENTE DE ADVOGADO III Requisitos mínimos para provimento secundária, 29 Instrução: Idade: ciclo comploto • Experiência: 730 dias do Conhecimentos especializados: efotivo exercício na clas- Conhecimento considerável de se de Assistente de Advoga português e capacidade para/ redigir com correção. Conhe- do II. cimento considerável da 1e - gislação municipal, estadual e federal. Noções elementares do Direito. PrátIca Torense. Perspectiva de promoção Recrutamento: Dentre os Possibilita promoção: ocupantes da classo de As- sistento de Advogado II. Possibilita acesso:
 
-- 67 - CLASSE: Nível: 14 ASSISTENTE DE ADVOGADO II Requisitos mínimos para provimento Instruçãos Socundária, 20 c1- Idade: clo completo.
+afilme. - 69 - CCASSE: ASSISTENTE DE DIREÇÃO DE ESCOLA-PARQUE Nível: 11 Requisitos mínimos para provimento Instrução: Secundária, 20 c1- Idade: clo completo. Certificado de conclusão do Curso Normale / Colegialo Conhecimentos especializados: Experiência: T30 dias do efetivo exercício na classo Possuir conhecimentos do admi- do Prolossor Primário. nistração escolar: Perspectiva de promoção / Possibilita promoção: Recrutamento: Dentro os ocupantes da classe de Pro • Lessor Primário. Possibilita acesso; à classo de Diretor de Unidade Escolar.
 
-Experiência: 730 dias de / Conhecimento considerável de efetivo exercício na clas- português e capacidade para/ se de Assistento de Advo - redigir com clareza e preci- gado Io são. Conhecimento da legis - lação municipal, estadual o federal aplicaveis ao Municí- pio. Perspectiva de promoção Possibilita promoção: à classe. Recrutamento: Dentre os ocu de Assistente de Advogado III. pantes da classe de Assis- tento de Advogado II. Possibilita acessos
+- 70 - Nível: A CASSE : ASSISTENTE SOCIAL Requisitos mínimos para provimento XAXaaK Outros requisitos: Instrução: Superior, diploma de grau superior em Serviço/ Habilitação legal para o Socialo exercício da profissão. Experiência: Conhecimentos especializados: Perspectiva de promoção Recrutamento: Geral. Possibilita promoção: Possibilita acesso:
 
-- 68 - Nível: 15 CCASSE: ASSISTENTE DE ADVOGADO III Requisitos mínimos para provimento secundária, 29 Instrução: Idade: ciclo comploto • Experiência: 730 dias do
+- 71- Nível: 5 CCASSE: AUXILIAR DE BIBLIOTÉCA Requisitos mínimos para provimento Instrução: secundárta, 10 o1- Idade: clo comploto. Experiência: Conhecimentos especializados: Conhecimento de datilografia. Conhecimentos elementaros de / organização de bibliotéca. de promoção Berspectiva Recrutamento: Geralo • Possibilita promoção:. Possibilita acesso: à classo de Arquivista.
 
-efotivo exercício na clas- Conhecimento considerável de se de Assistente de Advoga português e capacidade para/ redigir com correção. Conhe- do II. cimento considerável da 1e - gislação municipal, estadual e federal. Noções elementares do Direito. PrátIca Torense. Perspectiva de promoção Recrutamento: Dentre os Possibilita promoção: ocupantes da classo de As- sistento de Advogado II. Possibilita acesso:
+- 72 - Nível: 15 CLASSE: AUXILIAR DE ENGENHEIRO Requisitos mínimos para provimento Instrução: Secundiria, 20 ci- Idade: clo completo• Experiência: Conhecimentos especializados: Conhecimentos elementares de / física e matemática. Conheci - mentos gerais de tecnologia de materiais de construção o de / desenho técnico. Perspectiva de promoção Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Al- moxarile III. Possibilita acessos : 4 classe de Agrimensor •
 
-afilme. - 69 - CCASSE: ASSISTENTE DE DIREÇÃO DE ESCOLA-PARQUE Nível: 11 Requisitos mínimos para provimento Instrução: Secundária, 20 c1- Idade: clo completo. Certificado de conclusão do Curso Normale / Colegialo
+93. - 73 - Nível: CCASSE : BIBLIOTECÁRIO A Requisitos mínimos para provimento XXIX ( Outros requisitos: Instrução: Superior, diplom Habilitação legal para o de grau superior em Biblioto- exercício da profissão. conomia. Experiência: Conhecimentos especializados: de promoção Perspectiva Recrutamento: Geral. Possibilita promoção: Possibilita acesso:
 
-Experiência: T30 dias do efetivo exercício na classo Possuir conhecimentos do admi- do Prolossor Primário. nistração escolar: Perspectiva de promoção / Possibilita promoção: Recrutamento: Dentro os ocupantes da classe de Pro • Lessor Primário. Possibilita acesso; à classo de Diretor de Unidade Escolar.
+altern - 74- Nível: 5 CCASSE : CADASTRADOR Requisitos mínimos para provimento Instrução: Primaria, curso Idades 18 a 35 алов. primário comploto. Experiência: Conhecimentos especializados: Conhecimentos elementares das técnicas de desenho.Conheci - mento de aritmética suficien- te para lazer cálculos de 10- vantamento cadastral com preci são. Berspectiva de promoção Recrutamento: Geral. Possibilita promoção: Possibilita acesso: à classe de Fiscal de Obras•
 
-- 70 - Nível: A CASSE : ASSISTENTE SOCIAL Requisitos mínimos para provimento XAXaaK Outros requisitos: Instrução: Superior, diploma de grau superior em Serviço/ Habilitação legal para o Socialo exercício da profissão. Experiência:
-
-Perspectiva de promoção Recrutamento: Geral. Possibilita promoção: Possibilita acesso:
-
-- 71- Nível: 5 CCASSE: AUXILIAR DE BIBLIOTÉCA Requisitos mínimos para provimento Instrução: secundárta, 10 o1- Idade: clo comploto. Experiência:
-
-Conhecimento de datilografia. Conhecimentos elementaros de / organização de bibliotéca. de promoção Berspectiva Recrutamento: Geralo • Possibilita promoção:. Possibilita acesso: à classo de Arquivista.
-
-- 72 - Nível: 15 CLASSE: AUXILIAR DE ENGENHEIRO Requisitos mínimos para provimento Instrução: Secundiria, 20 ci- Idade: clo completo• Experiência:
-
-Conhecimentos elementares de / física e matemática. Conheci - mentos gerais de tecnologia de materiais de construção o de / desenho técnico. Perspectiva de promoção Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Al- moxarile III. Possibilita acessos : 4 classe de Agrimensor •
-
-93. - 73 - Nível: CCASSE : BIBLIOTECÁRIO A Requisitos mínimos para provimento XXIX ( Outros requisitos: Instrução: Superior, diplom Habilitação legal para o de grau superior em Biblioto- exercício da profissão. conomia. Experiência:
-
-de promoção Perspectiva Recrutamento: Geral. Possibilita promoção: Possibilita acesso:
-
-altern - 74- Nível: 5 CCASSE : CADASTRADOR Requisitos mínimos para provimento Instrução: Primaria, curso Idades 18 a 35 алов. primário comploto. Experiência:
-
-Conhecimentos elementares das técnicas de desenho.Conheci - mento de aritmética suficien- te para lazer cálculos de 10- vantamento cadastral com preci são. Berspectiva de promoção Recrutamento: Geral. Possibilita promoção: Possibilita acesso: à classe de Fiscal de Obras•
-
-- 75- Nível: 16 CHEFE DE SERVIÇO ADMINISTRATIVO CCASSE : Requisitos mínimos para provimento Instrução: Secundária, 20 ci- Idades clo completo. Experiência: T30 dias do
-
-Conhecimento considerável do efetivo exercício nas classes português e capacidado para/ de Assistênte de Administra- Ção III e Assistento de Advo redigir com correção. Conho- cimento de administração ge- gado 1Il: ral, Conhocimento da legislação municipal. Perspectiva de promoção Recrutamento: . Dentre os oc\_: Possibilita promoção: pantes da classe de Assisten te de Administração III e / Assistonte do Advogado III: Possibilita acessos
+- 75- Nível: 16 CHEFE DE SERVIÇO ADMINISTRATIVO CCASSE : Requisitos mínimos para provimento Instrução: Secundária, 20 ci- Idades clo completo. Experiência: T30 dias do Conhecimentos especializados: Conhecimento considerável do efetivo exercício nas classes português e capacidado para/ de Assistênte de Administra- Ção III e Assistento de Advo redigir com correção. Conho- cimento de administração ge- gado 1Il: ral, Conhocimento da legislação municipal. Perspectiva de promoção Recrutamento: . Dentre os oc\_: Possibilita promoção: pantes da classe de Assisten te de Administração III e / Assistonte do Advogado III: Possibilita acessos
 
 - 76 - Nível: CCASSE: CHEFE DE SERVIÇOS AUXILIARES Requisitos mínimos para provimento Idade: Instrução: Secundária,
 
-ciclo comploto. Experiência:
+ciclo comploto. Experiência: Conhecimentos especializados: Conhocimento da organização dos serviços municipais. Co- nhecimentos gerais dos sor - viços auxlllares da Prefeitu- de promoção Perspectiva Recrutamento: Geralo Possibilita promoção: Possibilita acessos
 
-Conhocimento da organização dos serviços municipais. Co- nhecimentos gerais dos sor - viços auxlllares da Prefeitu- de promoção Perspectiva Recrutamento: Geralo Possibilita promoção: Possibilita acessos
+-77- Nível: CLASSE: DENTISTA Requisitos mínimos para provimento Instrução: Superior. Diploma XAMAX Outros requisitos: Habilitação legal para o / do grau superior em Odontolo- exercício da profissão. glao Experiência: Conhecimentos especializados: Perspectiva de promoção Recrutamento: Geralo Possibilita promoção: Possibilita acessos
 
--77- Nível: CLASSE: DENTISTA Requisitos mínimos para provimento Instrução: Superior. Diploma XAMAX Outros requisitos: Habilitação legal para o / do grau superior em Odontolo- exercício da profissão. glao Experiência:
+- 78 - Nível: 11 CCASSE : DESENHISTA I Requisitos mínimos para provimento Instrução: Socundaria, 10 \* Idade: ciclo comploto. Experiência: Conhecimentos especializados: Conhecimento razoávol das téc- nicas de desenho. Habilidade / no manojo dos instrumentos de/ Desenho. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Geralo do do Desenhista II. Possibilita acessos
 
-Perspectiva de promoção Recrutamento: Geralo Possibilita promoção: Possibilita acessos
+- 79 - Nível: -3 CCASSE: DESENHISTA II Requisitos mínimos para provimento Idade: Instrução: Secundaria, 2e ciclo completo. Experiência: 730 dias do ofi Conhecimentos especializados: tivo exercício na classo de Conhecimento aprofundado das / Capacida- tecnicas de desenho. Desenhista I. / de para desenvolvimento sob orientação de trabalhos de re- lativa dificuldade. Noções ge- rais de técnica de topografia. Noções gerais de tecnologia de materiaiso Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dentro os / ocupantes da classe de Do- so de Desenhista III. senhista Io Possibilita acesso|:
 
-- 78 - Nível: 11 CCASSE : DESENHISTA I Requisitos mínimos para provimento Instrução: Socundaria, 10 \* Idade: ciclo comploto. Experiência:
+- 80 Nível: 15 CLASSE: DESENHISTA III Requisitos mínimos para provimento Instrução: Secundaria, segura Idades do ciclo completo. Conhecimentos especializados: Experiência: 730 dias de técnicas de/ Conhecimento das efetivo exercício na elas- desenho suriciente para de•-/ so de Desenhista II: senvolver projetos de porte / medio esboçados por arquiteto ou engenheiro e de executar / igual outros trabalhos de grau gerais de dificuldade. Noções de, tecnica de topografia. Perspectiva de promoção Recrutamento: Dentre os : 1 Possibilita promoçãos , ocupantes da classe de De- senhiata II. Possibilita acessos à classe de Agrimensor.
 
-Conhecimento razoávol das téc- nicas de desenho. Habilidade / no manojo dos instrumentos de/ Desenho. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Geralo do do Desenhista II. Possibilita acessos
-
-- 79 - Nível: -3 CCASSE: DESENHISTA II Requisitos mínimos para provimento Idade: Instrução: Secundaria, 2e ciclo completo. Experiência: 730 dias do ofi
-
-tivo exercício na classo de Conhecimento aprofundado das / Capacida- tecnicas de desenho. Desenhista I. / de para desenvolvimento sob orientação de trabalhos de re- lativa dificuldade. Noções ge- rais de técnica de topografia. Noções gerais de tecnologia de materiaiso Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dentro os / ocupantes da classe de Do- so de Desenhista III. senhista Io Possibilita acesso|:
-
-- 80 Nível: 15 CLASSE: DESENHISTA III Requisitos mínimos para provimento Instrução: Secundaria, segura Idades do ciclo completo.
-
-Experiência: 730 dias de técnicas de/ Conhecimento das efetivo exercício na elas- desenho suriciente para de•-/ so de Desenhista II: senvolver projetos de porte / medio esboçados por arquiteto ou engenheiro e de executar / igual outros trabalhos de grau gerais de dificuldade. Noções de, tecnica de topografia. Perspectiva de promoção Recrutamento: Dentre os : 1 Possibilita promoçãos , ocupantes da classe de De- senhiata II. Possibilita acessos à classe de Agrimensor.
-
-- 81 - Nível: 15 CLASSE: DIRETOR DE ESCOLA-PARQUE Requisitos mínimos para provimento Instrução: Secundárla,, 20 c1- Idade: clo completo•
-
-Experiência: 730 dias de / efetivo exercício na clas- Conhecimento aprofundado dos métodos modernos de ensino./ se de Diretor do Unidade / Conhecimento da legislação / Escolar, referente ao ensino primário. Possuir conhecimentos de admi- nistração escolar. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentro os ocu- pantes da classe de Diretor do Unidado Escolar• Possibilita acessos à classe de Oriontador Pedagógleo.
+- 81 - Nível: 15 CLASSE: DIRETOR DE ESCOLA-PARQUE Requisitos mínimos para provimento Instrução: Secundárla,, 20 c1- Idade: clo completo• Conhecimentos especializados: Experiência: 730 dias de / efetivo exercício na clas- Conhecimento aprofundado dos métodos modernos de ensino./ se de Diretor do Unidade / Conhecimento da legislação / Escolar, referente ao ensino primário. Possuir conhecimentos de admi- nistração escolar. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentro os ocu- pantes da classe de Diretor do Unidado Escolar• Possibilita acessos à classe de Oriontador Pedagógleo.
 
 - 82
 
-Nível: CIASSE : DIRETOR DE UNIDADE ESCOLAR Requisitos mínimos para provimento Instrução: Secundária, 22 ci- Idade: clo completo. Certificado de / conclusão do Curso Normal e Co- legial.
+Nível: CIASSE : DIRETOR DE UNIDADE ESCOLAR Requisitos mínimos para provimento Instrução: Secundária, 22 ci- Idade: clo completo. Certificado de / conclusão do Curso Normal e Co- legial. Conhecimentos especializados: Experiência: 730 dias de / efetivo exercício numa das/ Conhecimento considerável dos métodos modernos de ensino. / classes de Professor Pri - mário ou de Assistente de/ Conhecimento da legislação 2o- ferente ao ensino primário, / Direção de Escola-Parque. Rossuir conhecimento de admi- nistração escolar. Perspectiva de promoção Possibilita promoção: à classe Recrutamento: Dentre os ocu de Diretor de Escola-Parque. pantes das classes de Profes sor Primário e Assistente de Direção de Escola-Parquo. à classe Possibilita acessos de Orientador Pedagógico.
 
-Experiência: 730 dias de / efetivo exercício numa das/ Conhecimento considerável dos métodos modernos de ensino. / classes de Professor Pri - mário ou de Assistente de/ Conhecimento da legislação 2o- ferente ao ensino primário, / Direção de Escola-Parque. Rossuir conhecimento de admi- nistração escolar. Perspectiva de promoção Possibilita promoção: à classe Recrutamento: Dentre os ocu de Diretor de Escola-Parque. pantes das classes de Profes sor Primário e Assistente de Direção de Escola-Parquo. à classe Possibilita acessos de Orientador Pedagógico.
+Nível: CLASSE: ECONOMISTA C Requisitos mínimos para provimento Instrução: Superior. Diploma xxcader Outros requisitos: de grau superior em Ciências Habilitação legal para o exer Econômicas • cício da profissão. Conhecimentos especializados: Experiência: Conhecimento das técnicas de / programação econômica e gover- namental. Perspectiva de promoção Recrutamento: Geralo Possibilita promoção: Possibilita acesso:
 
-Nível: CLASSE: ECONOMISTA C Requisitos mínimos para provimento Instrução: Superior. Diploma xxcader Outros requisitos: de grau superior em Ciências Habilitação legal para o exer Econômicas • cício da profissão.
-
-Experiência: Conhecimento das técnicas de / programação econômica e gover- namental. Perspectiva de promoção Recrutamento: Geralo Possibilita promoção: Possibilita acesso:
-
-- 84 - Nível: 3 CCASSE: ENCADERNADOR-AUXILIAR Requisitos mínimos para provimento Instrução: Curso primário co Idade: pleto. Experiência:
-
-Conhecimento razoável da arte. Berspectiva de promoção Possibilita promoção: à classe Recrutamento: Geralo do encadernador. Possibilica acesso:
+- 84 - Nível: 3 CCASSE: ENCADERNADOR-AUXILIAR Requisitos mínimos para provimento Instrução: Curso primário co Idade: pleto. Experiência: Conhecimentos especializados: Conhecimento razoável da arte. Berspectiva de promoção Possibilita promoção: à classe Recrutamento: Geralo do encadernador. Possibilica acesso:
 
 - 85 - CASSE: ENCADERNADOR Nível:
 
-Requisitos minimos para provimento Instrução: Curso primário com- Idade: pleto • Experiência: T30 alas de
+Requisitos minimos para provimento Instrução: Curso primário com- Idade: pleto • Experiência: T30 alas de Conhecimentos especializados: efetivo ezercício na classe Domínio da arte. de Encadernador-Luxiliar. Perspectiva de promoção Recrutamento: Dentre os / Possibilita promoção: ocupantes da classe de En- cadernador-Auzillar. Possibilita acesso:
 
-efetivo ezercício na classe Domínio da arte. de Encadernador-Luxiliar. Perspectiva de promoção Recrutamento: Dentre os / Possibilita promoção: ocupantes da classe de En- cadernador-Auzillar. Possibilita acesso:
+- 86 - COASSE: ENFERMEIRO-AUXILIAR I Nível: 9 Requisitos minimos para provimento Instrução: Primária, curso 18 a 35 anos. Idades prinario completo. Conhecimentos especializados: Experiência: Conhecimentos práticos de enfermager. Berspectiva de promoção Possibilita promoção: à classe Recrutamento: Geralo de Enfermeiro-Auxiliar II• Possibilita acesso:
 
-- 86 - COASSE: ENFERMEIRO-AUXILIAR I Nível: 9 Requisitos minimos para provimento Instrução: Primária, curso 18 a 35 anos. Idades prinario completo.
+Requisitos mínimos para provimento Instrução: segunda série, 1º / cicio. Conhecimentos especializados: Conhecimentos préticos do / enferma gen. Possibilita promoção: à clas- se de enfermeiro-auxiliar III. Possibilita acesso: -87- Nivel: 11 Idade: 18 a 35 anos. Experiência: 730 dias de / efetivo ezercício na classe de Enfermeiro-Auriliar I. de promoção Recrutamento: Geralo
 
-Experiência: Conhecimentos práticos de enfermager. Berspectiva de promoção Possibilita promoção: à classe Recrutamento: Geralo de Enfermeiro-Auxiliar II• Possibilita acesso:
+- 88 - Nível: 13 CLASSE: ENFERMEIRO-AUXILIAR III Requisitos minimos para provimento Secundária, 10 Instrução: Idade: ciclo comploto. Experiência: 730 dias de / Conhecimentos especializados: eletivo exercício na clas- Conhecimentos práticos de se de Enfermeiro-Auxiliar Ilo enfermagem. Berspectiva de promoção Possibilita promoção: Recrutamento: Possibilita acesso:
 
-Requisitos mínimos para provimento Instrução: segunda série, 1º / cicio.
+- 89.- CIASSE: ENGENHEIRO Nível: C Requisitos mínimos para provimento Instrução: Superior, diplona Nidade Outros requisitos: Habilitação legal para o de grau superior em Engenha - exercício da profissão. ria. Experiência: Conhecimentos especializados: Perspectiva de promoção Possibilita promoção: Recrutamento: Geral Possibilita acessos
 
-Conhecimentos préticos do / enferma gen. Possibilita promoção: à clas- se de enfermeiro-auxiliar III. Possibilita acesso: -87- Nivel: 11 Idade: 18 a 35 anos. Experiência: 730 dias de / efetivo ezercício na classe de Enfermeiro-Auriliar I. de promoção Recrutamento: Geralo
+ati - 91 - CLASSE: ESCRITURÁRIO-DATILÓGRAFO I Nível:? Requisitos mínimos para provimento Instrução: Secundária, 1º c1- Idade: clo completo. Experiência: Conhecimentos especializados: Dominio da téonica de dat11o. grafia, Conhecimentos de por- tuguês suficientes para infos mações simples. Conhecimentos elementares de matemáticao Perspectiva de cromoção Possibilita promoção: à classo Recrutamento: Geral e dentre de Escriturário-Datilógrefo II, os ocupantes das classes de Arquivista e Auxiliar de Bi bliotéca. Bossibilita acesso: à classe de Fiscal e Operador de Per - furadora•
 
-- 88 - Nível: 13 CLASSE: ENFERMEIRO-AUXILIAR III Requisitos minimos para provimento Secundária, 10 Instrução: Idade: ciclo comploto. Experiência: 730 dias de /
+- 92 - ESCRITURÁRIO-DATILÓGRAFO II CEASSE : Nivel: 9 Requisitos mínimos para provimento Instrução: Secundária, 10 Idade: ciclo completo. Conhecimentos especializados: Experiência: T30 dias de Domínio da técnica de datilo- efetivo exercício na clas- portuguesa pacidade pare Bons conhecimentos de se Escriturário-Datilógra- informas processos& Conheci - Po Io mentos da Legislacao releren- te a organizacao e funciona mento dos serviços municipais. Perspectiva . de promoção Possibilita promoção: à clas- Recrutamento: Dentre os / se de Escriturário-Datilógrafo ocupantes da classo de Es- criturário-Datilógralo I. III. Possibilita acesso: à classe de Tesoureiro Auxiliar, Fis - cal e Operador de Perfura - dora.
 
-eletivo exercício na clas- Conhecimentos práticos de se de Enfermeiro-Auxiliar Ilo enfermagem. Berspectiva de promoção Possibilita promoção: Recrutamento: Possibilita acesso:
+- 93 - Nível: 13 CIASSE: ESCRITURÁRIO-DATILÓGRAFO ITI Requisitos mínimos para provimento Instrução: Secundária, 1e ci- Idade: clo completo. Conhecimentos especializados: Experiência: 730 dias de / Domínio da Técnica de datilo - efetivo exercício na classe com rapidez escrovendo de Escriturário-Datilógrafo e precisao. Conhecimentos de / suficientes para 1e- II. digir oficios, memorandos e / prestar informações escritas / e oreis com precisao. Conheci- mento de legislação referente/ •a organização e funcionamento/ dos corviços municinais. Perspectiva de promoção Recrutamento: Dentre os ocu Possibilita promoção: pantes da classe de Escri - turário-Datilógrafo II. Possibilita acessos à classe de Assistente de Administra- ção I e Fiscal de Rendaso
 
-- 89.- CIASSE: ENGENHEIRO Nível: C Requisitos mínimos para provimento Instrução: Superior, diplona Nidade Outros requisitos: Habilitação legal para o de grau superior em Engenha - exercício da profissão. ria. Experiência:
+"P.-94- Nivel: 12 CLASSE: FISCAL Requisitos mínimos para provimento Instrução: Secundária, segunda Idade: série do 1º cicio. Conhecimentos especializados: Experiência: 730 dias de / Conhecimentos de português su- efetivo exercício na classe ficientes para a redação de in de Escriturário-Datilógrafo Torrações simples. Conhecimen- to de aritmețica suficientes / Io para fezer calculos com rapi dez e exatidão. Conhecimento / da legislação tributaria do Mu Perspectiva de promoção Possibilita promoção: às clas- Recrutamento: Dentro os ses de Fiscal Distrital e Lan- ocupantes da classe de Es - criturário DatilogrefoI e çador• Escriturário-Datilógrafo II. Possibilita acesso:
 
-Perspectiva de promoção Possibilita promoção: Recrutamento: Geral Possibilita acessos
+- 95 - CLASSE: FISCAL DISTRITAL Nível: 1 Recuisitos mínimos para provimento Instrução: Secundária, segue- Idade: da série do 1° ciclo. Conhecimentos especializados: Experiência: 730 dias de / Conhecimentos de portugues su- eletivo exercício na classe Ei ciontes pare a redaçao de in simoles. Conhecimen- Torma goes de Fiscala suficientes / to de aritmetica para fazer calculos com 2201- dez e exatidão. Conhecimento / elementer de legislacao tribu- das posturas municipais e das ess e das reterentes as edi . ficacões. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentre os ocu pantes da classe de Fiscal. Possibilita acesso: à classe de Inspetor de Obras.
 
-ati - 91 - CLASSE: ESCRITURÁRIO-DATILÓGRAFO I Nível:? Requisitos mínimos para provimento Instrução: Secundária, 1º c1- Idade: clo completo. Experiência:
-
-Dominio da téonica de dat11o. grafia, Conhecimentos de por- tuguês suficientes para infos mações simples. Conhecimentos elementares de matemáticao Perspectiva de cromoção Possibilita promoção: à classo Recrutamento: Geral e dentre de Escriturário-Datilógrefo II, os ocupantes das classes de Arquivista e Auxiliar de Bi bliotéca. Bossibilita acesso: à classe de Fiscal e Operador de Per - furadora•
-
-- 92 - ESCRITURÁRIO-DATILÓGRAFO II CEASSE : Nivel: 9 Requisitos mínimos para provimento Instrução: Secundária, 10 Idade: ciclo completo.
-
-Experiência: T30 dias de Domínio da técnica de datilo- efetivo exercício na clas- portuguesa pacidade pare Bons conhecimentos de se Escriturário-Datilógra- informas processos& Conheci - Po Io mentos da Legislacao releren- te a organizacao e funciona mento dos serviços municipais. Perspectiva . de promoção Possibilita promoção: à clas- Recrutamento: Dentre os / se de Escriturário-Datilógrafo ocupantes da classo de Es- criturário-Datilógralo I. III. Possibilita acesso: à classe de Tesoureiro Auxiliar, Fis - cal e Operador de Perfura - dora.
-
-- 93 - Nível: 13 CIASSE: ESCRITURÁRIO-DATILÓGRAFO ITI Requisitos mínimos para provimento Instrução: Secundária, 1e ci- Idade: clo completo.
-
-Experiência: 730 dias de / Domínio da Técnica de datilo - efetivo exercício na classe com rapidez escrovendo de Escriturário-Datilógrafo e precisao. Conhecimentos de / suficientes para 1e- II. digir oficios, memorandos e / prestar informações escritas / e oreis com precisao. Conheci- mento de legislação referente/ •a organização e funcionamento/ dos corviços municinais. Perspectiva de promoção Recrutamento: Dentre os ocu Possibilita promoção: pantes da classe de Escri - turário-Datilógrafo II. Possibilita acessos à classe de Assistente de Administra- ção I e Fiscal de Rendaso
-
-"P.-94- Nivel: 12 CLASSE: FISCAL Requisitos mínimos para provimento Instrução: Secundária, segunda Idade: série do 1º cicio.
-
-Experiência: 730 dias de / Conhecimentos de português su- efetivo exercício na classe ficientes para a redação de in de Escriturário-Datilógrafo Torrações simples. Conhecimen- to de aritmețica suficientes / Io para fezer calculos com rapi dez e exatidão. Conhecimento / da legislação tributaria do Mu Perspectiva de promoção Possibilita promoção: às clas- Recrutamento: Dentro os ses de Fiscal Distrital e Lan- ocupantes da classe de Es - criturário DatilogrefoI e çador• Escriturário-Datilógrafo II. Possibilita acesso:
-
-- 95 - CLASSE: FISCAL DISTRITAL Nível: 1 Recuisitos mínimos para provimento Instrução: Secundária, segue- Idade: da série do 1° ciclo.
-
-Experiência: 730 dias de / Conhecimentos de portugues su- eletivo exercício na classe Ei ciontes pare a redaçao de in simoles. Conhecimen- Torma goes de Fiscala suficientes / to de aritmetica para fazer calculos com 2201- dez e exatidão. Conhecimento / elementer de legislacao tribu- das posturas municipais e das ess e das reterentes as edi . ficacões. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentre os ocu pantes da classe de Fiscal. Possibilita acesso: à classe de Inspetor de Obras.
-
--95 - Nível: 12 CLASSE: FISCAL DE OBRAS Requisitos minimos para provimento Instrução: Secundária, 1º cl- Idade: 18 a 35 anos. cio completo.
-
-Experiência: 730 dias de / Conhecimentos de cletivo exercício na elasse portugues st- Ticiences para a redaçao de in de Cadastrador. Formações com precisao e cle reza. Conhecimento de aritmé - tica. Connecimento da Legisla- geo concernente as edificações particulares, Conhegimentos. gerais de desenho tecnico. Perspectiva de promoção Recrutamento: Dentre os / Possibilita promoção: ocupantes da classe de Ca- dastrador, Possibilita acesso: à classe / de Lançador e Inspetor de Obras •
+-95 - Nível: 12 CLASSE: FISCAL DE OBRAS Requisitos minimos para provimento Instrução: Secundária, 1º cl- Idade: 18 a 35 anos. cio completo. Conhecimentos especializados: Experiência: 730 dias de / Conhecimentos de cletivo exercício na elasse portugues st- Ticiences para a redaçao de in de Cadastrador. Formações com precisao e cle reza. Conhecimento de aritmé - tica. Connecimento da Legisla- geo concernente as edificações particulares, Conhegimentos. gerais de desenho tecnico. Perspectiva de promoção Recrutamento: Dentre os / Possibilita promoção: ocupantes da classe de Ca- dastrador, Possibilita acesso: à classe / de Lançador e Inspetor de Obras •
 
 - 97 - CIASSA : Nível: 14 FISCAL DE RENDAS Rocoisitos mi nos para provimento Insuragão: Secundária, segun- Idade: do ciclo completo, Certificado de conclusão do Curso Técnico/ de Contabilidado. Condico Experiências T3O dias de efe tos especializados: tivo exercício na classe de de português su- Conhecimentos Escriturário-Datilógrafo III. Ficientes para redação de comu complexas. Conhecimen nicaçoes to de contabilidade comercial. Conhecimento da Legislaçao tr] bucaria do Municipio. enspectiva 0a1 Possibilita promoção: Resmatamento: Dentre os ocu pantes da Classe de Escri - turário-Datilógrafo III. Possibi aca acessos
 
-- 98 G,. Nível: 12 CIASSE: FISCAL SANITÁRIO Requisitos mínimos para provimento Instrução: secundária, Il ci- Idade, 18 a 35 anos. clo completo.
+- 98 G,. Nível: 12 CIASSE: FISCAL SANITÁRIO Requisitos mínimos para provimento Instrução: secundária, Il ci- Idade, 18 a 35 anos. clo completo. Conhecimentos especializados: Experiência: Conhecimentos da legislação con cernente às posturas de ordem sanitária. Perspectiva de promoção Recrutamento: Geral. Possibilita promoção: Possibilita acessos
 
-Experiência: Conhecimentos da legislação con cernente às posturas de ordem sanitária. Perspectiva de promoção Recrutamento: Geral. Possibilita promoção: Possibilita acessos
+- 99 CLASSE: INSPETOR Nivel: 15 • DE OBRAS Recuisitos minimos para provimento Instruglo: Secundária, 2º ci- Idade: clo completo. Conhecimentos especializados: Experiência: 730 dias de / eletivo exercício nas clas- Topografia e Desenho• Código de Obras• ses de Fiscal de Obras, Fis cal Distrital, Topógrafo -/ Auxiliar e Auxiliar de En - genheiro. Perspectiva da Possibilita promoção: Recrutamento: Dentre os ocu pantes das classes de Fis - cal de Obras, Fiscal Distri tal, Iopógrafo-Auxiliar e / Auxiliar de Engenheiro. Possibilita acessos
 
-- 99 CLASSE: INSPETOR Nivel: 15 • DE OBRAS Recuisitos minimos para provimento Instruglo: Secundária, 2º ci- Idade: clo completo.
+Recuisitos mínimos para provimento C.ASSD : INSPETOR DE VEÍCULOS Intructo: Secundária, se - gunão ciclo completo. Conhecimentos especializados: Possibilita promoção: Possibilite acessos - 100- NiveL: 15 XXXXXXX Outros requisitos: Carteira de Motorista pro- Fissional. Impeziência: 730 dias de / efetivo exercício nas clas ses de Piscal de Obras, / Fiscal Distzital, Topógra- To-Auxiliar e Aurillar de/ Engenheiro. de promoÇão Recrutamento: Dentre os ocupantes das classes de / Fiscal de Obras, Fiscal / Distrital, Topógrafo-Luxi- liar e Auxiliar de Engenhei
 
-Experiência: 730 dias de / eletivo exercício nas clas- Topografia e Desenho• Código de Obras• ses de Fiscal de Obras, Fis cal Distrital, Topógrafo -/ Auxiliar e Auxiliar de En - genheiro. Perspectiva da Possibilita promoção: Recrutamento: Dentre os ocu pantes das classes de Fis - cal de Obras, Fiscal Distri tal, Iopógrafo-Auxiliar e / Auxiliar de Engenheiro. Possibilita acessos
+- 101 \_- Nivel: 14 CZAUSD: LANÇADOR Requisitos mínimos para provimento Instrução: Socundária, pri - Idade: meiro ciclo completo• Experiência: 730 dias do / Conhecimentos especializados: efotivo exercício numa das/ Combecimento de legislação tri bucarie municipel. Conhecimen- classes de Fiscal ou Fiscal to de matemática suricionte / de Obras• para a feituza do calculos com rapidos e precisao. Conheci -/ mentos elementares de desenho/ para 2 feitura de croquis• Perspectiva de promoção Recrutamento: Dontre os ocu Possibilita promoção: pantes das classes de Fiscal e Fiscal de Obras•
 
-Recuisitos mínimos para provimento C.ASSD : INSPETOR DE VEÍCULOS Intructo: Secundária, se - gunão ciclo completo.
+- 102 2. MECANÓGRA O Nível: 13 CLASSI: Requisitos mínimos para provimento Instrução: Secundária, 1º Idade: ciclo completo. Experiência: 730 dias de Conhecimentos especializados: efetivo exercício na CIas- Domínio dos métodos de opora- ção de méguinas tabuledoras / se de Operador de Pertura- dora. • equipamentos complementares • Conhecimentos suficientes pa- ra montagem dos diferentes pai nóis. Berspectiva de promoção Possibilita promoção: Recrutamento: Denere os oci pantes da classo de Opero- dor de Perfuradora. Possibilita acesso:
 
-Possibilita promoção: Possibilite acessos - 100- NiveL: 15 XXXXXXX Outros requisitos: Carteira de Motorista pro- Fissional. Impeziência: 730 dias de / efetivo exercício nas clas ses de Piscal de Obras, / Fiscal Distzital, Topógra- To-Auxiliar e Aurillar de/ Engenheiro. de promoÇão Recrutamento: Dentre os ocupantes das classes de / Fiscal de Obras, Fiscal / Distrital, Topógrafo-Luxi- liar e Auxiliar de Engenhei
+- 103 - CLASSI: MÉDICO• Nível: C Requisitos mínimos para provimento Instrução: Superior. Diploma de Sacx Outros requisitos: Habilitação legal para o grau superior em Medicina. exercício da profissão. Experiência: Conhecimentos especializados: Perspectiva de promoção Possibilita promoção: Recrutamento: Geral. Possibiliia acessos
 
-- 101 \_- Nivel: 14 CZAUSD: LANÇADOR Requisitos mínimos para provimento Instrução: Socundária, pri - Idade: meiro ciclo completo• Experiência: 730 dias do /
+- LOL - CLASSI: MÉDICO-VEDERINÁRIO Nível: C Requisitos mínimos para provimento Instrução: Superior. Diplona de XadA Outros requisitos: curso superior em Medicina Ve - Habilitação legal para o terinárioo exercício da profissão. Experiência: Conhecimentos especializados: Perspectiva de promoção Possibilita promoção: Recrutamento: Geral, Possibilita acesso:
 
-efotivo exercício numa das/ Combecimento de legislação tri bucarie municipel. Conhecimen- classes de Fiscal ou Fiscal to de matemática suricionte / de Obras• para a feituza do calculos com rapidos e precisao. Conheci -/ mentos elementares de desenho/ para 2 feitura de croquis• Perspectiva de promoção Recrutamento: Dontre os ocu Possibilita promoção: pantes das classes de Fiscal e Fiscal de Obras•
+- 105 - CLASSE: OPERADOR DE PERFORADORA Nível: 10 Requisitos mínimos para provimento Instrução: secundária, 18 ci- Idade s clo completo. Experiência: TO dias de / Conhecimentos especializados: Domínio do método de operação efetivo exercício na classe de réguina perfuradora de cam do Escriturário-Datilógrazo I ou Escriturário-Datiló - tão Holleritho grato II: Perspectiva de promoção Dontre os ocu Recrutamento: Possibilita promoção: pantes da classe de Eseri - turário-Datilógrafo I e / Escriturário-Datilógrafo II, Possibilita acessos à classe de Mecanógraro.
 
-- 102 2. MECANÓGRA O Nível: 13 CLASSI: Requisitos mínimos para provimento Instrução: Secundária, 1º Idade: ciclo completo. Experiência: 730 dias de
+- 106 Nível: 16 CEASSE: ORIENTADOR PEDAGÓGICO Requisitos minimos para provimento Instrução: socundória, 22 c1- Idades cio congleto, Certificado do/ conelusão do Curso Normalo Experiência: 730 dias do Conhecimentos especializados: Conhocimonto das modernas téc eletivo exercício numa das/ nicas e metodos de ensino. Ca- classes de Diretor de Escola pacidade pora orientar a ap11- metodos e tecni - Parque ou de Diretor do Uni- cação desses da legisla Conhecimento 025 c dado Escolar. Possuia ensino® cao referente a. conhecimentos de administraçao escolaro Berspectiva de promoção Recrutamento: Dentre os ocu Possibilita promoção: pantes da elasse de Diretor/ de Unidade Escolar e Diretor de Escola-Parque.
 
-efetivo exercício na CIas- Domínio dos métodos de opora- ção de méguinas tabuledoras / se de Operador de Pertura- dora. • equipamentos complementares • Conhecimentos suficientes pa- ra montagem dos diferentes pai nóis. Berspectiva de promoção Possibilita promoção: Recrutamento: Denere os oci pantes da classo de Opero- dor de Perfuradora. Possibilita acesso:
+-107- CIASSE: PROCURADOR Nivel: Requisitos mínimos para provimento Instrução: Superior. Diplona / ICaBEIX Outros requisitos: Habilitação legal para o do grau superior em Ciências Jusfateas e Sociais. exercício da profissão. Conhecimentos especializados: Experiência: Perspectiva de promoção Recrutamento: Geralo Possibilita promoção: Possibilita acessos
 
-- 103 - CLASSI: MÉDICO• Nível: C Requisitos mínimos para provimento Instrução: Superior. Diploma de Sacx Outros requisitos: Habilitação legal para o grau superior em Medicina. exercício da profissão. Experiência:
-
-Perspectiva de promoção Possibilita promoção: Recrutamento: Geral. Possibiliia acessos
-
-- LOL - CLASSI: MÉDICO-VEDERINÁRIO Nível: C Requisitos mínimos para provimento Instrução: Superior. Diplona de XadA Outros requisitos: curso superior em Medicina Ve - Habilitação legal para o terinárioo exercício da profissão. Experiência:
-
-Perspectiva de promoção Possibilita promoção: Recrutamento: Geral, Possibilita acesso:
-
-- 105 - CLASSE: OPERADOR DE PERFORADORA Nível: 10 Requisitos mínimos para provimento Instrução: secundária, 18 ci- Idade s clo completo. Experiência: TO dias de /
-
-Domínio do método de operação efetivo exercício na classe de réguina perfuradora de cam do Escriturário-Datilógrazo I ou Escriturário-Datiló - tão Holleritho grato II: Perspectiva de promoção Dontre os ocu Recrutamento: Possibilita promoção: pantes da classe de Eseri - turário-Datilógrafo I e / Escriturário-Datilógrafo II, Possibilita acessos à classe de Mecanógraro.
-
-- 106 Nível: 16 CEASSE: ORIENTADOR PEDAGÓGICO Requisitos minimos para provimento Instrução: socundória, 22 c1- Idades cio congleto, Certificado do/ conelusão do Curso Normalo Experiência: 730 dias do
-
-Conhocimonto das modernas téc eletivo exercício numa das/ nicas e metodos de ensino. Ca- classes de Diretor de Escola pacidade pora orientar a ap11- metodos e tecni - Parque ou de Diretor do Uni- cação desses da legisla Conhecimento 025 c dado Escolar. Possuia ensino® cao referente a. conhecimentos de administraçao escolaro Berspectiva de promoção Recrutamento: Dentre os ocu Possibilita promoção: pantes da elasse de Diretor/ de Unidade Escolar e Diretor de Escola-Parque.
-
--107- CIASSE: PROCURADOR Nivel: Requisitos mínimos para provimento Instrução: Superior. Diplona / ICaBEIX Outros requisitos: Habilitação legal para o do grau superior em Ciências Jusfateas e Sociais. exercício da profissão.
-
-Experiência: Perspectiva de promoção Recrutamento: Geralo Possibilita promoção: Possibilita acessos
-
-a.- = 108 - CIASSE: PROFESSOR PRIMÁRIO Nivel: 10 Requisitos minimos para provimento Instrugão: Secundária, segundo Idade: 18 a 30 anoso ciclo completo. Certificado do conclusão do Curso Normalo Experiência:
-
-Perspective de promoção Possibilita promoção: à classe Recrutamento: Ceralo de Diretor de Unidade Escolaro Possibilita acessos à classe de Assistente do Direção do / Escola-Pargue.
+a.- = 108 - CIASSE: PROFESSOR PRIMÁRIO Nivel: 10 Requisitos minimos para provimento Instrugão: Secundária, segundo Idade: 18 a 30 anoso ciclo completo. Certificado do conclusão do Curso Normalo Experiência: Conhecimentos especializados: Perspective de promoção Possibilita promoção: à classe Recrutamento: Ceralo de Diretor de Unidade Escolaro Possibilita acessos à classe de Assistente do Direção do / Escola-Pargue.
 
 - 109 TÉCNICO EM CONTABILIDADE I CLASSE :
 
 Nível: tos minimos para provimento Instzagão: Secundária, 2º ciclo Idade: completo. Ser portador de cez- tificado de conclusão do Curso Técnico de Contabilidade. Conhecimentos espocializados: Exporiência: Conhecimento especializado de contabilidade pública. Conhe- cimento da legislação que re- ge a contabilidade pública do Município. PromoÇão POSS 311202 promoção: à clas- Bocrutamento: Geral. se de Técnico em Contabilida- de II. 2ossLb11: acesso:
 
-- 110 - Nível: 16 CRASSI: ZÉCNICO EM CONTABILID: ZI Requisitos mínimos para provimento Instrução: Secundária, segundo Idade: ciclo completo, Ser portador / de certiricado de conclusão / do Curso Técnico en Contabili- dados
+- 110 - Nível: 16 CRASSI: ZÉCNICO EM CONTABILID: ZI Requisitos mínimos para provimento Instrução: Secundária, segundo Idade: ciclo completo, Ser portador / de certiricado de conclusão / do Curso Técnico en Contabili- dados Conhecimentos especializados: Experiência: 730 dies do eletivo exercício na classe Conhecimento considerável de de Téenico em Contabilidade contabilidade pública. Conheci mento da legislação que rege a Io- contabilidade pública do Muni- cápio • Berspectiva de promoção Recrutamento: Dentro Possibilita promoção: / OS ocupantes da classe de Téc nico em Contabilidade Io Possibilita acessos
 
-Experiência: 730 dies do eletivo exercício na classe Conhecimento considerável de de Téenico em Contabilidade contabilidade pública. Conheci mento da legislação que rege a Io- contabilidade pública do Muni- cápio • Berspectiva de promoção Recrutamento: Dentro Possibilita promoção: / OS ocupantes da classe de Téc nico em Contabilidade Io Possibilita acessos
-
-- 111 - CLASSD: TÉCNICO IM CINEMA EDUCATIVO Nivel: . 12 Requisitos mi 0 C Instrugio: segunda série do 1º ciclo,
-
-Expoztência: Técnica de Gravação e Filma - gemo Aparelhamento. Processos usados nos laboratórios Repro dução. Diapositivos Projeção/ de filmes. Filmotéca. ce promoção :329p00C3Va Possibilita promogão: Recrutamento: Geralo 20OS003
+- 111 - CLASSD: TÉCNICO IM CINEMA EDUCATIVO Nivel: . 12 Requisitos mi 0 C Instrugio: segunda série do 1º ciclo, Conhecimentos especializados: Expoztência: Técnica de Gravação e Filma - gemo Aparelhamento. Processos usados nos laboratórios Repro dução. Diapositivos Projeção/ de filmes. Filmotéca. ce promoção :329p00C3Va Possibilita promogão: Recrutamento: Geralo 20OS003
 
 - 112 - TÉCNICO DE POIOGRAFIA Nival: 12 Recoisitos mi 10S 08a insurugio: 2º série do 1° ci- C10. - 0200. amperiencia: tos especielizadoss Conhecimento das técnicas de fotografia, Conhecimento dos aparelhos utilizados. Conhe- cimento dos processos em uso nos laboratórios. Câmaras es- curas. Reprodução a côres Pai- néis artisticos• 28000 Recrutamento: Geralo P0BeL0121ta promogão: C.C08003
 
 - 113 - SSE: TÉONICO DE SOM NiveL: 12 Recuisitos Instragão: 2ª série do 1º ci~ Idades c300 Conhecimuntos especializados: Experiencia: Conhecimento das técnicas de gravação e reprodução de som. Montagem e funcionamento de / microfones e alto-falantes. / Acústica, Aparelhamento. Téc- nicas de Laboratório. O1SD00C1VE Recrutamento: Cerale Possibista promogão: 2053 acessos
 
-- 114 CEASSE: 221 EPONISTA Nível: 5 Requisitos minimos para provimento Instrução: Secundária, segun- Idade: da sério do 1º ciclo. Experiência:
+- 114 CEASSE: 221 EPONISTA Nível: 5 Requisitos minimos para provimento Instrução: Secundária, segun- Idade: da sério do 1º ciclo. Experiência: Conhecimentos especializados: Conhecimento do método de opeu ração de mesa telefonica. Co nhocimento da localização e / finalidade das repartiçoes mu• nicipais. Conhecimentos do por custes suricientes para a ano- vagao com exatidao e clareza / de 20cgdoss Berspectiva de promoção Possibilita promoção: Recrutamento: Geral Possil acesso
 
-Conhecimento do método de opeu ração de mesa telefonica. Co nhocimento da localização e / finalidade das repartiçoes mu• nicipais. Conhecimentos do por custes suricientes para a ano- vagao com exatidao e clareza / de 20cgdoss Berspectiva de promoção Possibilita promoção: Recrutamento: Geral Possil acesso
+- 115 Nível: 13 CCASSE: TESOUREIRO-AUXILIAR Requisitos mínimos para provimento Instrugão: Secundária, 10 Idade: ciclo completos Conhecimentos especializados: Experiência: 730 dias do Conhocimentro de aritmética / clotivo exercício na clas- suficiente pare fazer cáleu - se de Escriturário-Datiló Ios com rapidez e precisão. ! Conhecimentos de datilograria. Perspectiva de promoção Possibilita promoção: à classe Recrutamento: Dentro os ocupantes da ciasse do Es do Tesoureiro, criturário-Datilógrafo II• Possibilite acesso:
 
-- 115 Nível: 13 CCASSE: TESOUREIRO-AUXILIAR Requisitos mínimos para provimento Instrugão: Secundária, 10 Idade: ciclo completos
+- 116 Nível: :5 CEASSE: 2850022230 Requisicos mínimos para provimento Instrução: Secundária, 10 Idade: ciclo completo. Experiência: 730 dias de / Conhecimentos especializados: efetivo ezercício na clas- Conhocimontos de aritmética / se de Tesoureiro Auxiliar, fazer cáleu suficientes pera 1os com rapidez e precisão. / Conhecimentos dos trabalhos / do Tesoureria. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dombra os / ocupantes da classe de le- so de Recomeiro-Chefe: someiro Auxiliar. Possibilita acesso:
 
-Experiência: 730 dias do Conhocimentro de aritmética / clotivo exercício na clas- suficiente pare fazer cáleu - se de Escriturário-Datiló Ios com rapidez e precisão. ! Conhecimentos de datilograria. Perspectiva de promoção Possibilita promoção: à classe Recrutamento: Dentro os ocupantes da ciasse do Es do Tesoureiro, criturário-Datilógrafo II• Possibilite acesso:
+Nivel: ÷7 CLASSE: I2SOURBIRO-CREET Recuisitos mínimos para provimento Instrução: secundária, 10 Idade: ciclo completo. Conhecimentos especializados: Experiencia: 730 dias do erotivo exercício na clas- Conhecimento dos trabalhos do tocouraria suficientes para / so do Tesoureiro• olontação do outros servido- 20Bo Conhocimento de Contabi- Lidade suficentos para 2 esc2100- pagão ezigida pelos trabalhos/ tosomanias Perspectiva de promoção Possibilita promoção: Recrutamento: Destre os ocu- pentes de Classe de Tesou- reiro. Possibilita acessos
 
-- 116 Nível: :5 CEASSE: 2850022230 Requisicos mínimos para provimento Instrução: Secundária, 10 Idade: ciclo completo. Experiência: 730 dias de /
+- 118 - Nivel: 15 CLASSE: 2OPÜGRAFO-AUXILIAR Requisitos mínimos para provimento Idade: 18 a 35 anoso Instrução: Secundária, 12 ci- clO completo. Experiência: Conhecimentos especializados: Técnica do Topogieria, Polgo - nometria e Geometria descriti- va. Céleulos. Manejo de instry Montos. Confecção é leitura do cadernetas. de promoção Perspective Recrutamento: Geralo Possibilita promoção: Possibilita acessos à classe do Agrimensor.
 
-efetivo ezercício na clas- Conhocimontos de aritmética / se de Tesoureiro Auxiliar, fazer cáleu suficientes pera 1os com rapidez e precisão. / Conhecimentos dos trabalhos / do Tesoureria. Perspectiva de promoção Possibilita promoção: à clas- Recrutamento: Dombra os / ocupantes da classe de le- so de Recomeiro-Chefe: someiro Auxiliar. Possibilita acesso:
-
-Nivel: ÷7 CLASSE: I2SOURBIRO-CREET Recuisitos mínimos para provimento Instrução: secundária, 10 Idade: ciclo completo.
-
-Experiencia: 730 dias do erotivo exercício na clas- Conhecimento dos trabalhos do tocouraria suficientes para / so do Tesoureiro• olontação do outros servido- 20Bo Conhocimento de Contabi- Lidade suficentos para 2 esc2100- pagão ezigida pelos trabalhos/ tosomanias Perspectiva de promoção Possibilita promoção: Recrutamento: Destre os ocu- pentes de Classe de Tesou- reiro. Possibilita acessos
-
-- 118 - Nivel: 15 CLASSE: 2OPÜGRAFO-AUXILIAR Requisitos mínimos para provimento Idade: 18 a 35 anoso Instrução: Secundária, 12 ci- clO completo. Experiência:
-
-Técnica do Topogieria, Polgo - nometria e Geometria descriti- va. Céleulos. Manejo de instry Montos. Confecção é leitura do cadernetas. de promoção Perspective Recrutamento: Geralo Possibilita promoção: Possibilita acessos à classe do Agrimensor.
-
-- 119- Nivel: B CLASSO : 2 SOCIAL - CEE73 ASSI Recuisitos mínimos para provimento Instrugão: Superior, Diploma do XXCEDe Outros reguleitos: Habilitagão legal para o ! gren superior em Servigo So - l exercício da profissão. cialo 730 dias de Ezperiêncie:
-
-efetivo exercício sa clas- se de Assistento Social, Perspectiva de promoeso Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de As- sistente Socialo Possibilice acessos
+- 119- Nivel: B CLASSO : 2 SOCIAL - CEE73 ASSI Recuisitos mínimos para provimento Instrugão: Superior, Diploma do XXCEDe Outros reguleitos: Habilitagão legal para o ! gren superior em Servigo So - l exercício da profissão. cialo 730 dias de Ezperiêncie: Conhecimentos especializados: efetivo exercício sa clas- se de Assistento Social, Perspectiva de promoeso Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de As- sistente Socialo Possibilice acessos
 
 - 120 - Nivel: OSSI: BIBLIOTECÁRIO-CHEFE
 
-inimos para ozovimenso Instruglo: Superior. Diplona XXXXXXX Outros requisitos: de grau superior de Bibliote - Habilitação legal para o / exercício da profissão. conomia. Experiencia: 750 dias de /
+inimos para ozovimenso Instruglo: Superior. Diplona XXXXXXX Outros requisitos: de grau superior de Bibliote - Habilitação legal para o / exercício da profissão. conomia. Experiencia: 750 dias de / Conhecimentos especializados: efetivo ezercíclo na classe do Bibliotocário. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentre os ocupantes da classo de 21 - bliotecário. Possibilita acessos
 
-efetivo ezercíclo na classe do Bibliotocário. Perspectiva de promoção Possibilita promoção: Recrutamento: Dentre os ocupantes da classo de 21 - bliotecário. Possibilita acessos
+Recui sitos mínimos para provimento CLASSI: CHEIS DE PROCURADORIA Instrugão: Superior. Diploma de grau superior de Ciências Juridicas e Sociais• Conhecimentos especializados: Possibilita promoção: Possibilita acessos -121 Nivel: D Riexx outros requisitos: Hebilitação legal para o / exercício da profissão. Experiéncia:730 dias de / eletivo exercício na classo de Procuradoro Recrutamento: Dentre os ocu pantes da classe de Procu- rador o
 
-Recui sitos mínimos para provimento CLASSI: CHEIS DE PROCURADORIA Instrugão: Superior. Diploma de grau superior de Ciências Juridicas e Sociais•
-
-Possibilita promoção: Possibilita acessos -121 Nivel: D Riexx outros requisitos: Hebilitação legal para o / exercício da profissão. Experiéncia:730 dias de / eletivo exercício na classo de Procuradoro Recrutamento: Dentre os ocu pantes da classe de Procu- rador o
-
-a.fi - 122- Nivel: D OTASSE: CHEFE DE SEIVIGOS PECTICOS Requisitos rimos para, provimento Instrugio: Superior. XaR Outros requisitos: Diploma exigido pela regula- mentação profission l corres pondente à classio
-
-Experiência: 730 dias de 1 cretivo exercício na clas- se respectiva. Perspect Possibilita promogão: / Recrutamento: Dentre os ocupantes das classes res - pectivas. PocSt0113te C00SS03
+a.fi - 122- Nivel: D OTASSE: CHEFE DE SEIVIGOS PECTICOS Requisitos rimos para, provimento Instrugio: Superior. XaR Outros requisitos: Diploma exigido pela regula- mentação profission l corres pondente à classio Conhecimentos especializados: Experiência: 730 dias de 1 cretivo exercício na clas- se respectiva. Perspect Possibilita promogão: / Recrutamento: Dentre os ocupantes das classes res - pectivas. PocSt0113te C00SS03
 

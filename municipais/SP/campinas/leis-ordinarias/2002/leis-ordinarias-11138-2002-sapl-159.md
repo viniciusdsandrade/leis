@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VER. ANTONIO F
 fonte: "https://sapl.campinas.sp.leg.br/norma/159"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2002/159/159_texto_integral.pdf"
 sha256_fonte: "5e35f552c54bc6a4d596da8374dadd9fde5412a9787ec6b581630b0aac5db04b"
-sha256_texto: "5a21b4cb98d5e2377707cb5b447b599055d4f330498ac55251499226f42e2462"
+sha256_texto: "0bcc48fc134ce11ff0dcef589566120b33f6b07852321333aac12b8fe2afd851"
 baixado_em: "2026-10-22"
 ---
 
@@ -37,9 +37,7 @@ Campinas, 18 de Janeiro de 2002
 
 IZALENE TIENE
 
-Prefeita Municipal
-
-PROTOCOLO PMC Nº 76.954-01
+Prefeita Municipal Autoria: Antonio Flôres – Vereador PROTOCOLO PMC Nº 76.954-01
 
 Publicada no Diário Oficial do Município de Campinas em 13/03/2002
 
@@ -59,7 +57,7 @@ ROMEU SANTINI
 
 Presidente
 
-PUBLICADO NA SECRETARIA DA CÂMARA Municipal de Campinas aos 12 de março de 2002.
+Autoria: Antonio Flôres – Vereador PUBLICADO NA SECRETARIA DA CÂMARA Municipal de Campinas aos 12 de março de 2002.
 
 Leonel Ferreira Gomes Júnior
 

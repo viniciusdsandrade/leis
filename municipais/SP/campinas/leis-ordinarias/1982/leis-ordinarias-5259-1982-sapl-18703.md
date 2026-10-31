@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/18703"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1982/18703/18703_texto_integral.pdf"
 sha256_fonte: "25d0b8466d82fd01195177341d87566e45094008234dd247b4a640dc5c5340a1"
-sha256_texto: "d34e0f74482df529b86dbeb9bd149cc1acba97b611d0f3054d865d3574e5ee50"
+sha256_texto: "b6b97388fa43784b68cd62d2d57037f06d8b05fc0ab871d180b48bf80c4552be"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,15 +25,13 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** - Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais, as faixas de terreno abaixo descritas, de propriedade da Prefeitura Municipal de Campinas, a saber:
 
-I - "Parte da viela para passagem de pedestres, localizada na quadra 6, do
-
-de 90,00m² e as seguintes medidas 3,00m de frente pelo alinhamento da Avenida, das Amoreiras; 30,00m lateralmente a direita onde confronta com o lote 21, da quadra 6, do loteamento Jardim do Lago: 3,00m aos fundos onde confronta com o remanescente da viela; 30.00m lateralmente à esquerda onde confronta com o lote 20, da quadra 6, do loteamento Jardim do Lago";
+I - "Parte da viela para passagem de pedestres, localizada na quadra 6, do loteamento Jardim do Lago, quarteirão 2.935 do Cadastro Municipal, com área de 90,00m² e as seguintes medidas 3,00m de frente pelo alinhamento da Avenida, das Amoreiras; 30,00m lateralmente a direita onde confronta com o lote 21, da quadra 6, do loteamento Jardim do Lago: 3,00m aos fundos onde confronta com o remanescente da viela; 30.00m lateralmente à esquerda onde confronta com o lote 20, da quadra 6, do loteamento Jardim do Lago";
 
 II - "Parte da viela para passagem de pedestres, localizada na quadra 6, do loteamento Jardim do Lago,quarteirão 2.935 do Cadastro Municipal, com área de 60,00m² e as seguintes medidas: 21,00m de frente, onde confronta com gleba da Sociedade Civil Fazenda Taubaté; 3,00m lateralmente à direita, onde confronta com o remanescente da viela; 18,00m aos fundos, onde confronta com o lote 13, da quadra 6, do loteamento Jardim do Lago; 3,00m lateralmente à esquerda, onde confronta com o remanescente da viela";
 
 III - "Parte da viela para passagem de pedestres, localizada na quadra 6, do
 
-de 90,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Avenida Mirandópolis; 30,00m lateralmente à direita, onde confronta com o lote 13, da quadra 6, do loteamento do Jardim do Lago; 3,00m aos fundos, onde confronta com o remanescente da viela; 30,00m lateralmente à esquerda, onde confronta com o lote 12, da quadra 6, do loteamento Jardim do Lago".
+loteamento Jardim do Lago, quarteirão 2.935 do Cadastro Municipal, com área de 90,00m² e as seguintes medidas: 3,00m de frente pelo alinhamento da Avenida Mirandópolis; 30,00m lateralmente à direita, onde confronta com o lote 13, da quadra 6, do loteamento do Jardim do Lago; 3,00m aos fundos, onde confronta com o remanescente da viela; 30,00m lateralmente à esquerda, onde confronta com o lote 12, da quadra 6, do loteamento Jardim do Lago".
 
 **Artigo 2º** - Fica a Prefeitura Municipal de Campinas autorizada a vender as faixas descritas no artigo anterior, mediante concorrência limitada aos proprietários lindeiros.
 

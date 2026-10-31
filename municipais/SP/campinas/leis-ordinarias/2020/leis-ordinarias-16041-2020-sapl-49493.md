@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/49493"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2020/49493/49493_texto_integral.pdf"
 sha256_fonte: "378f74327ebf70670ceb32f218cb08c3bf220b740c38486eed97a20ea57157d2"
-sha256_texto: "06cb9ffaf7dd7bda19d6131e0daf7d78eb80f81fb70493150e0f6131a2708ee2"
+sha256_texto: "5f973359216db7f2117415959324e178579521befb9c16ee84f1c679a9f827ca"
 baixado_em: "2026-10-21"
 ---
 
@@ -35,7 +35,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 .....................................................” (NR)
 
-**Art. 3º** Ficam alterados o caput e o § 2º do art. 3º da Lei nº 15.394, de 2017, que
+**Art. 3º** Ficam alterados o caput e o § 2º do art. 3º da Lei nº 15.394, de 2017, que passa a vigorar com a seguinte redação:
 
 “Art. 3º Os servidores públicos municipais que atuarem como preceptores e/ou supervisores em convênios celebrados com instituições públicas ou privadas receberão uma contribuição científica correspondente ao valor de R$ 1.000,00 (mil reais) mensais, os quais serão corrigidos anualmente na mesma data-base dos servidores públicos municipais e pelo mesmo índice de reposição de inflação adotado para a revisão geral anual.
 
@@ -45,7 +45,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 ....................................................” (NR)
 
-**Art. 4º** Fica alterado o parágrafo único do art. 4º da Lei nº 15.394, de 2017, que
+**Art. 4º** Fica alterado o parágrafo único do art. 4º da Lei nº 15.394, de 2017, que passa a vigorar com a seguinte redação:
 
 “Art. 4º.........................................
 

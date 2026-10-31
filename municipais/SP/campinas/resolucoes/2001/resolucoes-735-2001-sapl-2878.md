@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR ANTON
 fonte: "https://sapl.campinas.sp.leg.br/norma/2878"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2001/2878/2878_texto_integral.pdf"
 sha256_fonte: "e31c4ab952c047ba4abaff34da2d1b2d3c0ba7acd0f265ad15e1f635e2e7bc07"
-sha256_texto: "ef0e2a66faba6fd015fee100d7034351c8f8258fddcc90f41ca7e70765d83f71"
+sha256_texto: "a04ea0af6f5fe22e7625db026dd6333160369a48ea1a0039d61232506ff061ab"
 baixado_em: "2026-10-30"
 ---
 
@@ -33,7 +33,7 @@ I - ............................................................................
 
 XV - "Diploma Símbolo da Cultura Arquitetônica e Preservação Histórico Ambiental Antonio da Costa Santos.’’
 
-**Art. 2º** Fica acrescido o Artigo 15C na resolução 717, de 16 de dezembro de 1999, com a seguinte
+**Art. 2º** Fica acrescido o Artigo 15C na resolução 717, de 16 de dezembro de 1999, com a seguinte redação:
 
 "Art. 15C - O "Diploma Símbolo da Cultura Arquitetônica e Preservação Histórico Ambiental Antonio da Costa Santos", será outorgado a Arquitetos (as), Engenheiros (as), pessoas e empresas ligadas à preservação Arquitetônica, Histórica e Ambiental, que tenham se destacado pelos relevantes serviços prestados a Campinas.
 
@@ -41,7 +41,7 @@ XV - "Diploma Símbolo da Cultura Arquitetônica e Preservação Histórico Ambi
 
 **§ 2º** A indicação de pessoa para o recebimento do "Diploma Símbolo da Cultura Arquitetônica e Preservação Histórico Ambiental Antonio da Costa Santos", será feita por vereador ou vereadores."
 
-**Art. 3º** A art. 17, "caput", da Resolução 717, de 16 de dezembro de 1999, passa a ter a seguinte
+**Art. 3º** A art. 17, "caput", da Resolução 717, de 16 de dezembro de 1999, passa a ter a seguinte redação:
 
 "Art. 17 Os Diplomas concedidos nos termos dos incisos IV a XIV e XVII do Art. 2o deverão ser iniciados com a expressão "A Câmara Municipal de Campinas outorga a (nome do homenageado ou homenageada), Diploma de (nome do diploma), vindo em seguida o motivo constante nos incisos acima citados."
 

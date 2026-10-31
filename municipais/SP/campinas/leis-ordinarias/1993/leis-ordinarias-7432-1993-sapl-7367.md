@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/7367"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1993/7367/7367_texto_integral.pdf"
 sha256_fonte: "44e7018ff0b844fc0c9178f9dfdb5cffed93ea0d139ce8f9dc0745730c7832bb"
-sha256_texto: "5d2a0965efc311b51c84f02daa79f618a7ffa549ef1e719acfa7d86e06e83af5"
+sha256_texto: "65e6e9c8c927c6ea9aac24f1b340f7e9247e97c3a0e2aa65994b619671eacd76"
 baixado_em: "2026-10-30"
 ---
 
@@ -23,11 +23,11 @@ ALTERA DISPOSITIVO DA LEI Nº 6905, DE 07 DE JANIERO DE 1992, QUE “CONSISTE O 
 
 A Câmara Municipal aprovou e eu, Prefeito do município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Artigo 1º** - O artigo 1º da Lei nº 6905, de 07 de janeiro de 1992, passa a ter a
+**Artigo 1º** - O artigo 1º da Lei nº 6905, de 07 de janeiro de 1992, passa a ter a seguinte redação:
 
 “Artigo 1º - Fica constituído o Fundo Municipal para a Defesa da Criança nos termos da Lei Federal nº 8069, de 13 de julho de 1990, que tem por objetivo criar condições financeiras e de administração dos recursos destinados ao desenvolvimento das ações de atendimento à criança e ao adolescente, executadas pelas secretarias que atuam nas políticas sociais básicas assistências e coordenadas pela Secretaria Municipal de Promoção Social, que compreendeu”
 
-**Artigo 2º** - O inciso II, do artigo 2º de Lei nº 6905 de 07/01/92, passa a ter
+**Artigo 2º** - O inciso II, do artigo 2º de Lei nº 6905 de 07/01/92, passa a ter seguinte redação:
 
 “Artigo 2º - ....................................................................................
 
@@ -43,7 +43,7 @@ II - dotação consignada no orçamento municipal, cujo valor não poderá ser i
 
 “Artigo 3º - O Fundo ficará vinculado diretamente ao Conselho Municipal dos Direitos da Criança e do adolescente.”
 
-**Artigo 5º** - O inciso II, do artigo 4º, da Lei 6905, de 07/01/92, passa a ter a
+**Artigo 5º** - O inciso II, do artigo 4º, da Lei 6905, de 07/01/92, passa a ter a seguinte redação:
 
 “Artigo 4º - ...........................................................................................
 

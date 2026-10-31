@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/13100"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1989/13100/13100_texto_integral.pdf"
 sha256_fonte: "27c0ff398f2ff7295da6c9124fd93e57d8446bb935ea331a9fe219bc9f6fad64"
-sha256_texto: "be4313d023214e8c998de9409289e9093ea8d16df18d9f95137cb4624f58ca26"
+sha256_texto: "f84f1a51bfd618a7d55a90c756eb09397cfd1d560c5d125ed38bc3672914dc0e"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,11 +25,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **Artigo 1º** ­ Ficam desincorporadas da classe de bens públicos de uso comum do povo e transferidas para a de bens patrimoniais as faixas de terreno, de propriedade da Prefeitura Municipal de Campinas, abaixo descritas:
 
-I – Parte da viela para passagem de pedestres da quadra E, quarteirão 2.547 do Cadastro Municipal, loteamento Jardim IV Centenário de propriedade da Municipalidade, com 75,00m² de área e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Reinaldo Laubstein; 25,00m lateralmente à direita onde confronta com o lote 26, da quadra E do loteamento IV Centenário; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente à esquerda onde confronta com o lote 25, da quadra E do loteamento Jardim IV
+I – Parte da viela para passagem de pedestres da quadra E, quarteirão 2.547 do Cadastro Municipal, loteamento Jardim IV Centenário de propriedade da Municipalidade, com 75,00m² de área e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Reinaldo Laubstein; 25,00m lateralmente à direita onde confronta com o lote 26, da quadra E do loteamento IV Centenário; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente à esquerda onde confronta com o lote 25, da quadra E do loteamento Jardim IV Centenário;
 
 II – Parte da viela para passagem de pedestres da quadra E, quarteirão 2.547 do Cadastro Municipal, loteamento Jardim IV Centenário de propriedade da Municipalidade, com 75,00m² de área e as seguintes medidas: 3,00m de frente pelo alinhamento da Rua Cornélio Pires; 25,00m lateralmente à direita onde confronta com o lote 4, da quadra E do loteamento Jardim IV Centenário; 3,00m aos fundos onde confronta com o remanescente da viela; 25,00m lateralmente à
 
-esquerda onde confronta com o lote 3, da quadra E do loteamento Jardim IV
+esquerda onde confronta com o lote 3, da quadra E do loteamento Jardim IV Centenário;
 
 **Artigo 2º** ­ Fica a Prefeitura Municipal de Campinas autorizada a vender as faixas descritas no artigo anterior, mediante concorrência limitada aos proprietários lindeiros.
 

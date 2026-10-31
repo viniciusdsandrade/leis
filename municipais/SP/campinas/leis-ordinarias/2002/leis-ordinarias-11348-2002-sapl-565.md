@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/565"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2002/565/565_texto_integral.pdf"
 sha256_fonte: "87896a4fdd57d0b06810fa34ee1596169723b0bcdd9d7306518de44eb8b626d4"
-sha256_texto: "78a41b16d85087b888ebc0aebb1c765c05d35bb3a7d34faad3e561f4bf277750"
+sha256_texto: "e79114bc69b20453336402e24465afbd76dcc56db5268961ce8a63516f443a2b"
 baixado_em: "2026-10-22"
 ---
 
@@ -23,7 +23,7 @@ LEI N° 11.348 DE 04 DE SETEMBRO DE 2002 ALTERA DISPOSITIVOS DA LEI N° 8.709, D
 
 A Câmara Municipal aprovou e eu, Prefeita do Município de Campinas, sanciono e promulgo a seguinte lei:
 
-**Art. 1°** - Fica acrescido o parágrafo único ao art. 2° da Lei Municipal n° 8.709, de 26 de
+**Art. 1°** - Fica acrescido o parágrafo único ao art. 2° da Lei Municipal n° 8.709, de 26 de dezembro de 1995, que passa a vigorar com a seguinte redação:
 
 "Art. 2° -..............................................................................
 
@@ -59,9 +59,7 @@ V - pessoas organizadas em grupos associativos ou cooperativas."
 
 **§ 8°** - O PRORENDAS CAMPINAS realizará o treinamento dos servidores envolvidos no programa."
 
-**Art. 5°** - Fica acrescido o parágrafo único ao art. 6° da Lei Municipal n° 8.709, de 26 de
-
-"Art. 6° -......................................................................
+**Art. 5°** - Fica acrescido o parágrafo único ao art. 6° da Lei Municipal n° 8.709, de 26 de dezembro de 1995, que passa a vigorar com a seguinte redação: "Art. 6° -......................................................................
 
 **Parágrafo único.** As ações mencionadas não eximem os beneficiários da responsabilidade sobre o empreendimento e do pagamento das obrigações contraídas no momento da contratação do financiamento junto ao PRORENDAS CAMPINAS."
 
@@ -83,7 +81,7 @@ II - para grupos associativos ou organizados em cooperativas, o valor de R$ 5.00
 
 **§ 4°** - É vedada a participação neste Programa, a qualquer título, de servidor público da administração direta ou indireta da União, Estados e Municípios."
 
-**Art. 7°** - Fica alterada a redação do artigo 8° da Lei Municipal n° 8.709, de 26 de dezembro de
+**Art. 7°** - Fica alterada a redação do artigo 8° da Lei Municipal n° 8.709, de 26 de dezembro de 1995, que passa a vigorar com a seguinte redação:
 
 "Art. 8° - O financiamento de que trata esta lei será concedido para pagamento em até 24 (vinte e quatro) meses, já incluído o período de carência de três meses, e os restantes de amortização.(NR)
 
@@ -93,7 +91,7 @@ II - para grupos associativos ou organizados em cooperativas, o valor de R$ 5.00
 
 **§ 3°** - A amortização do financiamento, acrescido de juros, será feita em parcelas mensais fixas e consecutivas a partir do último mês de carência e não poderá comprometer percentual superior a 30% (trinta por cento) da renda estimada para a atividade financiada pelo empréstimo. "(NR)
 
-**Art. 8°** - Fica alterada a redação do artigo 9° da Lei Municipal n° 8.709, de 26 de dezembro de
+**Art. 8°** - Fica alterada a redação do artigo 9° da Lei Municipal n° 8.709, de 26 de dezembro de 1995, que passa a vigorar com a seguinte redação:
 
 "Art. 9° - Fica o Poder Executivo Municipal autorizado a celebrar convênios com o Estado, a União, instituições governamentais e não governamentais sem fins lucrativos, para custeio, manutenção, acompanhamento, gestão e avaliação do PRORENDAS CAMPINAS (NR).
 

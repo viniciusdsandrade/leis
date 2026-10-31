@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/46492"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2018/46492/46492_texto_integral.pdf"
 sha256_fonte: "56077641764b027a505c9fb30548ccd8a943ea1388da576b02cce3219b158116"
-sha256_texto: "b987704f584e99323381c70f98cd14b95c39f582669df19570d0459ac1ff3bec"
+sha256_texto: "d19eac7cf6e0aaa50d25f7d9922f5be27165908383f3e7d317f08683bee35857"
 baixado_em: "2026-10-21"
 ---
 
@@ -39,7 +39,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **Art. 5º** Ficam revogadas as disposições em contrário.
 
-Prefeito de Campinas
+JONAS DONIZETTE Prefeito de Campinas
 
 Autoria: CMC - Ver. Rafa Zimbaldi
 
@@ -52,6 +52,8 @@ Nos termos do disposto no artigo 50 letra“c” da Lei Orgânica do Município,
 J. Publique-se
 
 Campinas, 05 de Dezembro de 2018
+
+JONAS DONIZETTE Prefeito Municipal
 
 Mensagem nº 06/2018-GP
 
@@ -68,6 +70,8 @@ Verifica-se que o art. 3º da propositura padece de inconstitucionalidade, vez q
 Essas, portanto, as razões que me levam a vetar o art. 3º do projeto de lei nº 84/2018, medida que aguardamos seja mantida por essa Egrégia Casa de Leis.
 
 Ao ensejo, renovamos a Vossa Excelência e ilustres Vereadores nossos protestos de estima e respeito.
+
+JONAS DONIZETTE Prefeito Municipal
 
 Exmo. Sr.
 

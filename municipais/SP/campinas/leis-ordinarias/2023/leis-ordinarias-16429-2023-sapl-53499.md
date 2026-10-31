@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/53499"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2023/53499/53499_texto_integral.pdf"
 sha256_fonte: "0e3febeeeecb7b732ba09595aedbfa7c52a9bfff5c7c5090a68de335f07b1369"
-sha256_texto: "6dfc44b2e95b2e1b78159694f8bbfdf7d7660e32ac680d2301e1fd4c67645f1f"
+sha256_texto: "e630d9abeab969afb46dd432abe8dd8de330285d462a0f391e9414e3dd89678c"
 baixado_em: "2026-10-21"
 ---
 
@@ -27,13 +27,13 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 “Cria o Conselho Municipal de Políticas sobre Drogas - Comad.” (NR)
 
-**Art. 2º** Fica alterado o art. 1º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte
+**Art. 2º** Fica alterado o art. 1º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte redação:
 
 “Art. 1º Fica instituído o Conselho Municipal de Políticas sobre Drogas - Comad, órgão de assessoramento técnico, consultivo e deliberativo sobre drogas, vinculado à Secretaria Municipal de Assistência Social, Pessoa com Deficiência e Direitos Humanos, ou a outra que vier a sucedê-la, tendo como finalidade auxiliar o Poder Executivo na análise, formulação e aplicação de políticas públicas sobre álcool e outras drogas.
 
 **Parágrafo único.** O Comad integrar-se-á ao Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad, instituído pela Lei Federal nº 11.343, de 23 de agosto de 2006.” (NR)
 
-**Art. 3º** Fica alterado o art. 3º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte
+**Art. 3º** Fica alterado o art. 3º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte redação:
 
 “Art. 3º Compete ao Comad:
 
@@ -63,7 +63,7 @@ XII - propor ao Poder Executivo medidas que assegurem o cumprimento dos compromi
 
 **Parágrafo único.** Na elaboração do Plano Municipal de Políticas sobre Drogas - Plamad, serão observadas as diretrizes das conferências municipais da Saúde, da Criança e do Adolescente, da Assistência Social e da Educação, referentes ao tema.” (NR)
 
-**Art. 4º** Fica alterado o art. 4º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte
+**Art. 4º** Fica alterado o art. 4º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte redação:
 
 “Art. 4º O Comad será constituído por membros e respectivos suplentes com experiência na área de álcool e outras drogas, assim especificados:
 
@@ -129,11 +129,11 @@ V - cujo representante no Conselho, titular ou suplente, não comparecer a três
 
 **Parágrafo único.** Em caso de vacância, caberá ao Plenário do Comad deliberar sobre a substituição.”
 
-**Art. 7º** Fica alterado o art. 5º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte
+**Art. 7º** Fica alterado o art. 5º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte redação:
 
 “Art. 5º O funcionamento do Comad será estabelecido em regimento interno, a ser elaborado e aprovado pelo Conselho em no máximo noventa dias contados da publicação da Lei nº16.429/2023 e a ser homologado pelo prefeito municipal através de decreto.” (NR)
 
-**Art. 8º** Fica alterado o art. 7º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte
+**Art. 8º** Fica alterado o art. 7º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte redação:
 
 “Art. 7º-A Diretoria Executiva do Comad será paritária e composta de:
 
@@ -149,13 +149,13 @@ IV - segundo-secretário.
 
 **§ 2º** Os membros da Diretoria Executiva e os conselheiros não receberão nenhum tipo de remuneração, sendo seus serviços considerados de relevante interesse público.” (NR)
 
-**Art. 9º** Fica alterado o art. 8º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte
+**Art. 9º** Fica alterado o art. 8º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte redação:
 
 “Art. 8º Os órgãos e entidades que exerçam, no município, atividades que digam respeito ao Comad fornecerão a esse Conselho os dados e informações pertinentes ao objeto desta Lei que forem solicitados.
 
 **Parágrafo único.** O Comad poderá solicitar informações de qualquer órgão público municipal para as finalidades previstas nesta Lei.” (NR)
 
-**Art. 10.** Fica alterado o art. 9º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte
+**Art. 10.** Fica alterado o art. 9º da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte redação:
 
 “Art. 9º Os recursos necessários à implantação das atividades indispensáveis ao pleno funcionamento do Conselho correrão por conta de dotação orçamentária específica, bem como de recursos oriundos de convênios ou repasses de órgãos governamentais, que comporão o Fundo do Comad, a ser regulamentado por lei específica.” (NR)
 
@@ -167,7 +167,7 @@ IV - segundo-secretário.
 
 “Art. 9º-B Os recursos orçamentários e financeiros necessários à implantação e ao funcionamento do Comad, oriundos de dotações próprias consignadas no orçamento do Município, estão subordinados diretamente à Secretaria Municipal de Assistência Social, Pessoa com Deficiência e Direitos Humanos e serão destinados ao atendimento das despesas geradas pelo Plamad, mediante aprovação do Comad.”
 
-**Art. 13.** Fica alterado o art. 10 da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte
+**Art. 13.** Fica alterado o art. 10 da Lei nº 6.849, de 1991, que passa a vigorar com a seguinte redação:
 
 “Art. 10. É da competência do Comad a expedição de autorização para a divulgação de textos, cartazes e representações, bem como para a realização de cursos, seminários, conferências e propagandas, que digam respeito ao uso de substâncias entorpecentes ou que determinem dependência física e/ou psíquica, ainda que a título de campanha de prevenção.” (NR)
 

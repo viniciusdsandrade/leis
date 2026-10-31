@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/13197"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1990/13197/13197_texto_integral.pdf"
 sha256_fonte: "506361cd487d4033c41203df8d7fa4c578952298af2454657d025b26be2a738f"
-sha256_texto: "538475a5a10ac0958cb0e76f1d9d8d264b3a2cd003a20c52c77c70579229432b"
+sha256_texto: "718f5c57693bc55973ff51a492119aae0f321e481433206a914f2c2784ca35b2"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,6 +29,8 @@ A Câmara Municipal de Campinas a aprovou e eu, Prefeito do Município de Campin
 
 I – a falta de recolhimento total ou parcial do tributo ou se recolhimento fora do prazo legal, estando a operação registrada:
 
+a) antes do início da ação fiscal, multa de 50% (cinqüenta por cento) da importância recebida não recolhida;
+
 b) após o início da ação fiscal, multa de 100% (cem por cento) sobre a importância não recolhida;
 
 II – falta de recolhimento do tributo total ou parcial ou seu recolhimento fora do prazo, não estando a operação devidamente registrada;
@@ -41,7 +43,7 @@ b) após o início da ação fiscal, multa de 200% (duzentos por cento) sobre a 
 
 IV – transportar, receber ou manter em estoque ou depósito produtos sujeitos ao imposto, sem documento fiscal ou acompanhado de documento fiscal inidôneo.
 
-cento) sobre o imposto devido;
+a) antes do início da ação fiscal, multa de 50% (cinqüenta por cento) sobre o imposto devido;
 
 b) após o início da ação fiscal, multa de 200% (duzentos por cento) sobre o imposto devido;
 

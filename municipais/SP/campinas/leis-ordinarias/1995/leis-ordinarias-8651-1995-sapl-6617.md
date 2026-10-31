@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR CARLO
 fonte: "https://sapl.campinas.sp.leg.br/norma/6617"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1995/6617/6617_texto_integral.pdf"
 sha256_fonte: "1de6e8a25f5781857fdd220ae5b5af7bff711e5f19ec5a08b59d585a87d2673a"
-sha256_texto: "c2a3a184616e78ac9489f5f9e447ef00ced13ce229c4cf7054c264aebf0e9f58"
+sha256_texto: "022e365d43d07ad2ced80d551163caf34f5a4032b61ee5682a1ff4c46879297c"
 baixado_em: "2026-10-30"
 ---
 
@@ -29,7 +29,7 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas sanciono e 
 
 "Artigo 4.1.01.09 ­ Fica permitida a implantação de coberturas, toldos ou similares no recuo, em locais de atividade comercial, de prestação de serviços ou institucional, desde que sejam compostos de materiais removíveis, tais como ferro, alumínio, plásticos, vidro, acrílico, policarbonato, madeira, cimento amianto, tecidos ou similares, desde que tais elementos não possibilitem a circulação e permanência sobre os mesmos, como terraços ou pórticos e que as coberturas não despejem águas pluviais sobre o passeio.
 
-**§ 1** ­ As coberturas, toldos ou similares de que traia o caput não serão
+**§ 1** ­ As coberturas, toldos ou similares de que traia o caput não serão consideradas como áreas construídas para todos os fins.
 
 **§ 2** ­ Na hipótese de desapropriação, o proprietário não fará jus a qualquer valor indenizatório.
 
@@ -41,7 +41,7 @@ respectivos órgãos da Prefeitura Municipal que levem em conta a padronização
 
 **Artigo 4.1.01.10** ­ Fica permitida a implantação de coberturas, toldos ou similares no passeio para acesso protegido, em locais de atividade comercial, de prestação de serviços ou institucional, desde que sejam compostos de materiais removíveis, tais como ferro, alumínio, plásticos, vidro, acrílico, policarbonato, madeira, cimento amianto, tecidos ou similares e respeitada, como altura mínima 2,5m, largura máxima 1,5m e com, no máximo, 04 (quatro) apoios (pilares) no passeio.
 
-§ 4o ­ As coberturas, toldos ou similares de que trata o caput não serão
+§ 4o ­ As coberturas, toldos ou similares de que trata o caput não serão consideradas como áreas construídas para todos os fins.
 
 § 2o ­ Os interessados deverão protocolar na Prefeitura, requerimento com as respectivas plantas, para obterem a devida autorização para a implantação, pagando uma taxa especial de uso de 20 UFMCs, renovável anualmente.
 

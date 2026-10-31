@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/50761"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2021/50761/50761_texto_integral.pdf"
 sha256_fonte: "7618a59bd9ad06493b956e52b11334612a102b5b33cfc0bb0c6db5ed4219a622"
-sha256_texto: "921c317b7ce2e7e95cd6978caa94c54a79f84d71ce653972dce41f728311b9fd"
+sha256_texto: "4a3cec5510e16064ae652d7a8026f6bb77572789c650790aad049886f3d6fe96"
 baixado_em: "2026-10-21"
 ---
 
@@ -23,7 +23,7 @@ Altera os arts. 3º, 6º, 23, 29 e 30 da Lei nº 14.306, de 3 de julho de 2012, 
 
 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei Complementar:
 
-**Art. 1º** Fica alterado o art. 3º da Lei nº 14.306, de 3 de julho de 2012, que passa a vigorar com a seguinte
+**Art. 1º** Fica alterado o art. 3º da Lei nº 14.306, de 3 de julho de 2012, que passa a vigorar com a seguinte redação:
 
 “Art. 3º A avaliação psicológica dos candidatos, de caráter eliminatório, e o curso de formação, de caráter eliminatório e/ou classificatório, poderão ser considerados etapas do concurso, a critério exclusivo da Administração Pública, conforme regras definidas em edital.” (NR)
 
@@ -67,7 +67,7 @@ III - disponibilização de sistema on-line , no site da Prefeitura de Campinas,
 
 “Art. 30. Inexistindo candidatos habilitados para as vagas previstas no art. 29 desta Lei, estas serão disponibilizadas para os candidatos habilitados na classificação de ampla concorrência.” (NR)
 
-**Art. 6º** Fica alterado o art. 5º da Lei nº 12.985, de 28 de junho de 2007, que passa a vigorar com a seguinte
+**Art. 6º** Fica alterado o art. 5º da Lei nº 12.985, de 28 de junho de 2007, que passa a vigorar com a seguinte redação:
 
 “Art. 5º Os cargos constantes desta Lei são providos exclusivamente por concurso público de provas ou de provas e títulos, de acordo com sua natureza e complexidade, e o ingresso sempre se dará no Nível 1, Grau A, do grupo a que corresponde o cargo.
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/13075"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1989/13075/13075_texto_integral.pdf"
 sha256_fonte: "afcfd0b6f98311a47d9ebfa8bd576e3c7d07b5d604d3dc87f06b0b5dda956fc7"
-sha256_texto: "c8e249f7ffbfa879c0146c57413c3a87e7671b502df076509137d745ae859fee"
+sha256_texto: "cac61e0dc48a60f8f9b964b4402f96eeb7ebfb47e96cb2b46bdd3b82e0dea045"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,11 +27,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 I – Remanescente da Praça 2, localizado no quarteirão 8.650 do Cadastro Municipal, loteamento Jardim das Bandeiras, com área de 9.055,00m² e as seguintes medidas: 37,00m onde confronta com a Rua Paschoal Curcio; 96,00m onde confronta com a Rua Paschoal Curcio e Rua Manoel Bombati; 14,00m em curva de concordância entre os alinhamentos da rua Bombati e Rua Miguel João Jorge; 39,00m onde confronta com a Rua Miguel João Jorge; 15,00m em curva de concordância entre os alinhamentos da Rua Miguel João Jorge e Rua Avelino Ferreira; 97,50m onde confronta com a rua Avelino Ferreira; 65,40m onde confronta com a EMPG Gal. Humberto de Souza Melo;
 
-Jardim Santa Rita de Cássia, com área de 5.860,00m² e as seguintes medidas: 74,00m onde confronta com a Praça 1 do Jardim Santa Cruz; 73,00m onde confronta com a Rua B do Jardim Santa Rita de Cássia; 80,00m onde confronta com a Rua 2 do Jardim Santa Rita de Cássia; 35,00m onde confronta com a
+II – Praça 1, localizada no quarteirão 8.649 do Cadastro Municipal, loteamento Jardim Santa Rita de Cássia, com área de 5.860,00m² e as seguintes medidas: 74,00m onde confronta com a Praça 1 do Jardim Santa Cruz; 73,00m onde confronta com a Rua B do Jardim Santa Rita de Cássia; 80,00m onde confronta com a Rua 2 do Jardim Santa Rita de Cássia; 35,00m onde confronta com a
 
 Estrada do Felipão; 96,00m onde confronta com a Rua 1 do Jardim Santa Rita de Cássia;
 
-Jardim Santa Cruz, com área de 2.460,00m² e as seguintes medidas: 60,00m onde confronta com a Rua Rodolfo Panoni do mesmo loteamento; 30,00m onde confronta com a Rua B do mesmo loteamento; 74,00m onde confronta com a Praça 1 do Jardim Santa Rita de Cássia; 45,50m onde confronta com a Rua A do mesmo loteamento.
+II – Praça 1, localizada no quarteirão 8.649 do Cadastro Municipal, loteamento Jardim Santa Cruz, com área de 2.460,00m² e as seguintes medidas: 60,00m onde confronta com a Rua Rodolfo Panoni do mesmo loteamento; 30,00m onde confronta com a Rua B do mesmo loteamento; 74,00m onde confronta com a Praça 1 do Jardim Santa Rita de Cássia; 45,50m onde confronta com a Rua A do mesmo loteamento.
 
 **Artigo 2º** ­ Fica a Prefeitura Municipal de Campinas autorizada a conceder o direito real de uso das áreas descritas no artigo anterior aos seus atuais ocupantes, com a finalidade de promover a urbanização de favelas.
 

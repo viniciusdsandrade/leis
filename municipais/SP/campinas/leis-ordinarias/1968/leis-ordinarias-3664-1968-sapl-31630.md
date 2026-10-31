@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; Processo 23991 - PLO 28
 fonte: "https://sapl.campinas.sp.leg.br/norma/31630"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1968/31630/31630_texto_integral.pdf"
 sha256_fonte: "481e6dffa93d68c36c728069e0fd0aac45427f9cd6aad29f298257d31078f180"
-sha256_texto: "4cbe65997bd5767232181a2dfb40cbadb8eac6426ab22605da664cb133dd411e"
+sha256_texto: "197dc409396f95c7e09bbfa6b630027566a801889631962cb0e42ef992ac8ca3"
 baixado_em: "2026-10-30"
 ---
 
@@ -569,15 +569,11 @@ Sauda
 
 Cimara Municipal de Campinas
 
-NIVEL: 7 CLASSE: ESCRITURÁRIO-DATILÓGRAFO II Requisítos mínimos para provimento Instrução: secundária, primeiro ci- Experiência: 730 dias de efetivo exercício na clas clo completo. se Escriturário-Datiló - grafo I. Outros revisitos Conhecimentos especializados: Domínio da Técnica de datilografia. Bons conhecimentos de português. Ca pacidade para informar processos. Conhecimento da legislação referen- te à organização e funcionamento dos serviços municipais.
-
-Recrutamento: Dentre os Possibilita promoção: à classe de Escriturário-Datilógrafo III ocupantes da classe de Escriturário-Datilógra- fo I. Possibilita acesso: à classe de Te- soureiro-Auxiliar. S. N.I.I. - 315x215mm n.º 708 12.000 - 5/60 • L. 24
+NIVEL: 7 CLASSE: ESCRITURÁRIO-DATILÓGRAFO II Requisítos mínimos para provimento Instrução: secundária, primeiro ci- Experiência: 730 dias de efetivo exercício na clas clo completo. se Escriturário-Datiló - grafo I. Outros revisitos Conhecimentos especializados: Domínio da Técnica de datilografia. Bons conhecimentos de português. Ca pacidade para informar processos. Conhecimento da legislação referen- te à organização e funcionamento dos serviços municipais. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: à classe de Escriturário-Datilógrafo III ocupantes da classe de Escriturário-Datilógra- fo I. Possibilita acesso: à classe de Te- soureiro-Auxiliar. S. N.I.I. - 315x215mm n.º 708 12.000 - 5/60 • L. 24
 
 Camara Municipal de Campinas
 
-CIASSE: ESCRITURÁRIO-DATILÓGRAFO III NIVED: 9 Requisítos mínimos para provimento Instrução: secundária, primeiro ci-Exoeriência: 730 dias de clo completo. efetivo exercício na classe de Escriturário- Datilógrafo II. Outros requisitos: Connecimentos especializados: Domínio da Técnica de datilografia, escrevendo com rapidez e precisão. conhecimentos de português sufici- entes para redigir ofigios, memoran dos e prestar informações e orais com precisao. Conhecimento da legislação referente a organiza- çao e funcionamento dos serviços mu nicipais.
-
-Possibilita promoção: Recrutamento Dentre os ocupantes da classe de Escriturário-Datilógra- IO II. Possibilita acesso: à classe de As- sistente de Administração I. .1.7. - 315x215mm - n.° 2 00 . 5/60 • L. 24
+CIASSE: ESCRITURÁRIO-DATILÓGRAFO III NIVED: 9 Requisítos mínimos para provimento Instrução: secundária, primeiro ci-Exoeriência: 730 dias de clo completo. efetivo exercício na classe de Escriturário- Datilógrafo II. Outros requisitos: Connecimentos especializados: Domínio da Técnica de datilografia, escrevendo com rapidez e precisão. conhecimentos de português sufici- entes para redigir ofigios, memoran dos e prestar informações e orais com precisao. Conhecimento da legislação referente a organiza- çao e funcionamento dos serviços mu nicipais. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento Dentre os ocupantes da classe de Escriturário-Datilógra- IO II. Possibilita acesso: à classe de As- sistente de Administração I. .1.7. - 315x215mm - n.° 2 00 . 5/60 • L. 24
 
 Saudra
 
@@ -585,51 +581,37 @@ Cimara Muricipal de Campinas
 
 CIASSE: ASSISTENTE DE ADMINISTRAÇÃO I NÍVED: 11 Requisítos mínimos para provimento Instrução: Secundária, segundo
 
-ci-Experiência: 730 dias clo completo. de efetivo exercício nu- ma das classes de Escri- turário-Datilógrafo III, Almoxarife ou Arquivista . Conhecimentos especializados: Outros requisitos Conhecimento considerável de portu- gues e capacidade para redigir clareza e precisão. considerável da legislaçao munici pal referente à organização e fun- cionamento dos serviços municipais. Domínio da Técnica de datilografia.
-
-Possibilita promoção: A classe de Recrutamento: Dentre os Assistente de Administração II. ocupantes das classes de Escriturário-Datilógrafo III, Almoxarife e Arqui- Vista. Possibilita acesso: S.N.I.J. - 315x215mm n.° 708 12.000 • 5/60
+ci-Experiência: 730 dias clo completo. de efetivo exercício nu- ma das classes de Escri- turário-Datilógrafo III, Almoxarife ou Arquivista . Conhecimentos especializados: Outros requisitos Conhecimento considerável de portu- gues e capacidade para redigir clareza e precisão. considerável da legislaçao munici pal referente à organização e fun- cionamento dos serviços municipais. Domínio da Técnica de datilografia. Perspectiva de promoção e acesso Possibilita promoção: A classe de Recrutamento: Dentre os Assistente de Administração II. ocupantes das classes de Escriturário-Datilógrafo III, Almoxarife e Arqui- Vista. Possibilita acesso: S.N.I.J. - 315x215mm n.° 708 12.000 • 5/60
 
 Sandra 20° Municipal de Camara Campinas
 
-CIASSE: ASSISTENTE DE ADMINISTRAÇÃO II NIVEL: 13 Requisítos mínimos para provimento Instrução: Secundária, segundo ci- Experiência: 730 dias de efetivo exercício na clas clo completo se de Assistente de Admi nistração I. Conhecimentos especializados: Outros seguistüos Conhecimento consideravel de portu guês e ganização dos serviços municipais. Conhecimento das técnicas de orga - nização do trabalho.
-
-Possibilita promoção: À classe de Recrutamento: Dentre os Assistente de Administração III ocupantes da classe de Assistente de Administra ção I. Possibilita acesso: S. N.I.I. - 315x215mim • n.° 708 12.000 - 5/60 •
+CIASSE: ASSISTENTE DE ADMINISTRAÇÃO II NIVEL: 13 Requisítos mínimos para provimento Instrução: Secundária, segundo ci- Experiência: 730 dias de efetivo exercício na clas clo completo se de Assistente de Admi nistração I. Conhecimentos especializados: Outros seguistüos Conhecimento consideravel de portu guês e ganização dos serviços municipais. Conhecimento das técnicas de orga - nização do trabalho. Perspectiva de promoção e acesso Possibilita promoção: À classe de Recrutamento: Dentre os Assistente de Administração III ocupantes da classe de Assistente de Administra ção I. Possibilita acesso: S. N.I.I. - 315x215mim • n.° 708 12.000 - 5/60 •
 
 Sandra Camara Muricipal de Campinas
 
-NIVEL: 15 CLASSE: ASSISTENTE DE ADMINISTRAÇÃO III Requisítos mínimos para provimento Instrução: Secundária, segundo ci- Experiência: 730 dias de efetivo exercício na clas clo completo. se de Assistente de Admi- nistração II. • Outros especializados: requisitos Conhecimentos Conhecimento consideravel de portu- para redigir com capacidade correção. Conhecimento de adminis - tração geral.
-
-Possibilita promoção: Recrutamento: Dentre OS ocupantes da classe de Assistente de Administra São II. Possibilita acesso: 5-\* 11.03- 380 - : 2\* 708
+NIVEL: 15 CLASSE: ASSISTENTE DE ADMINISTRAÇÃO III Requisítos mínimos para provimento Instrução: Secundária, segundo ci- Experiência: 730 dias de efetivo exercício na clas clo completo. se de Assistente de Admi- nistração II. • Outros especializados: requisitos Conhecimentos Conhecimento consideravel de portu- para redigir com capacidade correção. Conhecimento de adminis - tração geral. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Dentre OS ocupantes da classe de Assistente de Administra São II. Possibilita acesso: 5-\* 11.03- 380 - : 2\* 708
 
 Saudha
 
 Campinas Cimara Muricipal de
 
-NIVEL: 10 CLASSE: FOTÓGRAFO-LABORATOKISTA I Requisitos mínimos para provimento Experiência: Instrução: Secundária, segunda série do primeiro ciclo. Cutros requisitos Conhecimentos especializaãos: Conhecimento das técnicas de foto- grafia. Conhecimento dos aparelhos utilizados. Conhecimento dos proces- sos químicos em uso nos laboratórios
-
-Possibilita promoção: À classe de Recrutamento: Geral Fotógrafo-Laboratorista II Possibilita acesso: N.I.J. - 315x215mm - n.° 70 2.000 • 5/60 - L. 24
+NIVEL: 10 CLASSE: FOTÓGRAFO-LABORATOKISTA I Requisitos mínimos para provimento Experiência: Instrução: Secundária, segunda série do primeiro ciclo. Cutros requisitos Conhecimentos especializaãos: Conhecimento das técnicas de foto- grafia. Conhecimento dos aparelhos utilizados. Conhecimento dos proces- sos químicos em uso nos laboratórios Perspectiva de promoção e acesso Possibilita promoção: À classe de Recrutamento: Geral Fotógrafo-Laboratorista II Possibilita acesso: N.I.J. - 315x215mm - n.° 70 2.000 • 5/60 - L. 24
 
 Sancha Camara Municipa Campiras al d
 
-NIVEL: 12 CLASSE: FOTÓGRAFO-LABORATORISTA II Requisítos mínimos para provimento Instrução: secundária, primeiro ci-Experiência: 730 dias de efetivo exercício na clo completo classe de Fotógrafo-Labo ratorista I Outros reavisitos Conhecimentos especializados: Conhecimento aprofundado das técni- cas de fotografia. Conhecimento dos aparelhos utilizados. Conhecimento dos processos químicos utilizados. Habilidade para instalar e operar de projeção de filmes e maquinas dispositivos. Нам
-
-Recrutamento: Dentreos Possibilita promoção: ocupantes da classe de Fotógrafo-Laboratorista Possibilita acesso: n.° 708 S. N.T.J. - 315x215mm: 12.000 - 5/60 • L..
+NIVEL: 12 CLASSE: FOTÓGRAFO-LABORATORISTA II Requisítos mínimos para provimento Instrução: secundária, primeiro ci-Experiência: 730 dias de efetivo exercício na clo completo classe de Fotógrafo-Labo ratorista I Outros reavisitos Conhecimentos especializados: Conhecimento aprofundado das técni- cas de fotografia. Conhecimento dos aparelhos utilizados. Conhecimento dos processos químicos utilizados. Habilidade para instalar e operar de projeção de filmes e maquinas dispositivos. Нам Perspectiva de promoção e acesso Recrutamento: Dentreos Possibilita promoção: ocupantes da classe de Fotógrafo-Laboratorista Possibilita acesso: n.° 708 S. N.T.J. - 315x215mm: 12.000 - 5/60 • L..
 
 Saudha
 
 Camara Municipal de Campinas
 
-NIVEL: 6 CLASSE: ARQUI VISTA Requisítos mínimos para provimento Instrução: secundária, primeiro oi-Experiência: 730 dias de efetivo exercício na clo completo. classe de Auxiliar de Biblioteca. Outros requisivos Conhecimentos especializados: Conhecimentos de datilografia. Co - nhecimentos de portugues suficientes para a redaçao de informações sim - ples. Conhecimento dos metodos arquivística. Santua
-
-Recrutamento: Dentre Possibilita promoção: os ocupantes da classe de Auxiliar de Biblioteca. Possibilita acesso: À classe de Assistente de Administração I• S. N.I.T. - 315x215mm • n.' 708 12.000 - 5/60 - L. 24
+NIVEL: 6 CLASSE: ARQUI VISTA Requisítos mínimos para provimento Instrução: secundária, primeiro oi-Experiência: 730 dias de efetivo exercício na clo completo. classe de Auxiliar de Biblioteca. Outros requisivos Conhecimentos especializados: Conhecimentos de datilografia. Co - nhecimentos de portugues suficientes para a redaçao de informações sim - ples. Conhecimento dos metodos arquivística. Santua Perspectiva de promoção e acesso Recrutamento: Dentre Possibilita promoção: os ocupantes da classe de Auxiliar de Biblioteca. Possibilita acesso: À classe de Assistente de Administração I• S. N.I.T. - 315x215mm • n.' 708 12.000 - 5/60 - L. 24
 
 Saudha
 
 Camara Municipal de Campinas
 
-NIVEL: CLASSE: TELEFONISIA Requisítos mínimos para provimento Experiência: Instrução: Secundária, segunda sé- rie do primeiro ciclo. Outros requisitos: Clas- Conhecimentos especializados: ão método de operação se privativa de pessoas Conhecimento Conhecimento da da mesa telefônica. das repar- do sexo feminino. localização e finalidade tições municipais. Conhecimentos de portugues suficientes para a anota- ção com exatidao e clareza ae reca-
-
-Recrutamento: Geral Possibilita promoção: Possibilita acesso:
+NIVEL: CLASSE: TELEFONISIA Requisítos mínimos para provimento Experiência: Instrução: Secundária, segunda sé- rie do primeiro ciclo. Outros requisitos: Clas- Conhecimentos especializados: ão método de operação se privativa de pessoas Conhecimento Conhecimento da da mesa telefônica. das repar- do sexo feminino. localização e finalidade tições municipais. Conhecimentos de portugues suficientes para a anota- ção com exatidao e clareza ae reca- Perspectiva de promoção e acesso Recrutamento: Geral Possibilita promoção: Possibilita acesso:
 
 S.N.I.J. - 315x215mm: 12.000 - 5/60 • L.
 
@@ -637,9 +619,7 @@ Camara Municipal de al de Campina.
 
 NIVEL:
 
-CLASSE: ENTREGADOR DE AVISOS provimento Requisítos mínimos para Experiência: Instrução: Primária, curso primário completo. Outros requisitos: Clas- Conhecimenios especializados: Conhecimento da localização se privativa de pessoas дав logradouros e bairros da ci- ruas, do sexo masculino. dade. Conhecimento do sistema de Idade de 18 a 25 transporte urbano. Capacidade para anos. dar informações simples por escri- to.
-
-promoção: Recrutamento: Possibilita Geral Possibilita acesso: À classe de Oficial de Diligência. 12003215 - L- 22 708 S.N.1.1. - 315x215mm
+CLASSE: ENTREGADOR DE AVISOS provimento Requisítos mínimos para Experiência: Instrução: Primária, curso primário completo. Outros requisitos: Clas- Conhecimenios especializados: Conhecimento da localização se privativa de pessoas дав logradouros e bairros da ci- ruas, do sexo masculino. dade. Conhecimento do sistema de Idade de 18 a 25 transporte urbano. Capacidade para anos. dar informações simples por escri- to. Perspectiva de promoção e acesso promoção: Recrutamento: Possibilita Geral Possibilita acesso: À classe de Oficial de Diligência. 12003215 - L- 22 708 S.N.1.1. - 315x215mm
 
 Saudha
 
@@ -647,115 +627,81 @@ Câmara: Muricipal de Campinas
 
 CIASSE: OFICIAL DE DILIGENCIA
 
-NIVEL: Requisitos mínimos para provimento Instrução: Secundária, segunda sé- Experiência: 730 dias rie do primeiro ciclo. de efetivo exercício na classe de Entregador de AviSos Conhecimentos especializados: Outros requisitos: Classe Conhecimento da localização das privativa de pessoas do logradouros e bairros da ci- ruas, dade. Conhecimento do sistema sexo masculino. Idade de de transporte urbano. Conhecimento de 18 a 25 anos, quando o portugues suficiente para dar in - formações por escrito. provimento se der por re crutamento geral.
-
-Possibilita promoção: Recrutamento: Dentre os ocupantes da classe de Entregador de Avisos. Possibilita acesso: S. N.I.J. - 315x215mm - n.\* 708 12.000 - 5/60 • L. 24
+NIVEL: Requisitos mínimos para provimento Instrução: Secundária, segunda sé- Experiência: 730 dias rie do primeiro ciclo. de efetivo exercício na classe de Entregador de AviSos Conhecimentos especializados: Outros requisitos: Classe Conhecimento da localização das privativa de pessoas do logradouros e bairros da ci- ruas, dade. Conhecimento do sistema sexo masculino. Idade de de transporte urbano. Conhecimento de 18 a 25 anos, quando o portugues suficiente para dar in - formações por escrito. provimento se der por re crutamento geral. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Dentre os ocupantes da classe de Entregador de Avisos. Possibilita acesso: S. N.I.J. - 315x215mm - n.\* 708 12.000 - 5/60 • L. 24
 
 Sandra Camara Municipal de Campinas
 
-NIVEL: 13 CLASSE: TÉCNICO EM CONTABILIDADE I Requisítos mínimos para provimento Experiência: Instrução: Secundária, segundo ci- clo completo. Ser portador de certi ficado de conclusão do Curso Técni- co de Contabilidade. Outros requisiios: Habi- especializados: Conhecimentos Conhecimento de contabilidade públi-litação legal para o exer cício da profissão. C ao
-
-de Recrutamento: Possibilita promoção: à classe Geral Técnico em Contabilidade II• Possibilita acesso: À classe de Fiscal de Rendas• S. N.I.J. - 315x215mm • n.° 708 12.000 - 5/60 - L. 24
+NIVEL: 13 CLASSE: TÉCNICO EM CONTABILIDADE I Requisítos mínimos para provimento Experiência: Instrução: Secundária, segundo ci- clo completo. Ser portador de certi ficado de conclusão do Curso Técni- co de Contabilidade. Outros requisiios: Habi- especializados: Conhecimentos Conhecimento de contabilidade públi-litação legal para o exer cício da profissão. C ao Perspectiva de promoção e acesso de Recrutamento: Possibilita promoção: à classe Geral Técnico em Contabilidade II• Possibilita acesso: À classe de Fiscal de Rendas• S. N.I.J. - 315x215mm • n.° 708 12.000 - 5/60 - L. 24
 
 Sandra
 
 Câmara Municipal de Campinas
 
-NIVEL: 14 CIASSE: TÉCNICO EM CONTABILIDADE II Requisítos mínimos para provimento Instrução: secundária, segundo ci- Experiência: 730 dias de efetivo exercício na clo completo. Ser portador de cer- classe de Técnico em Con tificado de conclusão do Curso Téc tabilidade I.• nico de Contabilidade. Cutros requisitos : Ha- especializados: Conhecimentos Conhecimento especializado de con- bilitação legal para o tabilidade pública. Conhecimento da exercício da profissão. legislação que rege a contabilidade pública do Município.
-
-Possibilita promoção: À classe de Recrutamento: Dentre OS ocupantes da classe de Técnico em Contabilidade III... Técnico em Contabilidade Possibilita acesso: 5. 11 35215mm 2 708 12.000 • 5/60 • L.
+NIVEL: 14 CIASSE: TÉCNICO EM CONTABILIDADE II Requisítos mínimos para provimento Instrução: secundária, segundo ci- Experiência: 730 dias de efetivo exercício na clo completo. Ser portador de cer- classe de Técnico em Con tificado de conclusão do Curso Téc tabilidade I.• nico de Contabilidade. Cutros requisitos : Ha- especializados: Conhecimentos Conhecimento especializado de con- bilitação legal para o tabilidade pública. Conhecimento da exercício da profissão. legislação que rege a contabilidade pública do Município. Perspectiva de promoção e acesso Possibilita promoção: À classe de Recrutamento: Dentre OS ocupantes da classe de Técnico em Contabilidade III... Técnico em Contabilidade Possibilita acesso: 5. 11 35215mm 2 708 12.000 • 5/60 • L.
 
 Saudra Cimara Municipal de Campinas
 
-NIVEL: 16 CLASSE: TÉCNICO EM CONTABILIDADE III Requisítos mínimos para provimento Experiência: 730 dias de Instrução: Secundária, segundo ci- efetivo exercício na clas clo completo. Ser portador de cer tificado de conclusão do Curgo Téc se de Técnico em Contabi lidade II. nico de Contabilidade. Outros requisitos: Ha- Conhecimentos especializados: Conhecimento considerável de conta- bilitação legal para o exercício da profissão. Dública. Conhecimento bilidade a contabilida- legislaçao que rege de pública do Município.
-
-Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Técnico em Contabilida- de II Possibilita acesso: A classe de Contador-Chefe• S. N.T.J. - 315x215mm - n." 708 12.000 - 5/60 - L. 24
+NIVEL: 16 CLASSE: TÉCNICO EM CONTABILIDADE III Requisítos mínimos para provimento Experiência: 730 dias de Instrução: Secundária, segundo ci- efetivo exercício na clas clo completo. Ser portador de cer tificado de conclusão do Curgo Téc se de Técnico em Contabi lidade II. nico de Contabilidade. Outros requisitos: Ha- Conhecimentos especializados: Conhecimento considerável de conta- bilitação legal para o exercício da profissão. Dública. Conhecimento bilidade a contabilida- legislaçao que rege de pública do Município. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Técnico em Contabilida- de II Possibilita acesso: A classe de Contador-Chefe• S. N.T.J. - 315x215mm - n." 708 12.000 - 5/60 - L. 24
 
 Saudra
 
 Pimara Municipal de Campinas
 
-NIVEL: 10 CLASSE: OPERADOR DE PERFURADORA Requisítos mínimos para provimento Experiência: 730 dias Instrução: Secundária, primeiro ci- de efetivo exercício nu- clo completo. ma das classes Auxiliar de Mecanografia ou Escri turário-Datilógrafo I. Outros requisitos Conhecimentos especializados: Domínio do método de operação de máquina perfuradora de cartão Holle rith.
-
-Recrutamento: Dentre Possibilita promoção: À classe de ocupantes das classes de Mecanógrafo Auxiliar de Mecanografia e Escriturário-Datilógra fo Io Possibilita acesso: S. N.I.J. - 315x215mm - n. 708 12.000 - 5/60 • L. 24
+NIVEL: 10 CLASSE: OPERADOR DE PERFURADORA Requisítos mínimos para provimento Experiência: 730 dias Instrução: Secundária, primeiro ci- de efetivo exercício nu- clo completo. ma das classes Auxiliar de Mecanografia ou Escri turário-Datilógrafo I. Outros requisitos Conhecimentos especializados: Domínio do método de operação de máquina perfuradora de cartão Holle rith. Perspectiva de promoção e acesso Recrutamento: Dentre Possibilita promoção: À classe de ocupantes das classes de Mecanógrafo Auxiliar de Mecanografia e Escriturário-Datilógra fo Io Possibilita acesso: S. N.I.J. - 315x215mm - n. 708 12.000 - 5/60 • L. 24
 
 Sauda
 
 Camara Municipal de Campinas
 
-NIVEL: 13 CLASSE: MECANÓGRAFO Requisitos mínimos para provimento Instrução: Secundária, primeiro ci-Experiência: 730 dies de efetivo exercício na clo completo. classe de Operador de Per furadora. Outros requisitos Conhecimentos especializados: Domínio dos métodos de operação de máquinas tabuladoras e equipamen - tos complementares. Conhecimentos para montagem dos dife suficientes rentes painéis.
-
-Recrutamento: Dentre OS Possibilita promoção: ocupantes da classe de Operador de Perfuradora. Possibilita acesso: S. N.I.J. - 315×215mm 12.000 • 5/60 - 1
+NIVEL: 13 CLASSE: MECANÓGRAFO Requisitos mínimos para provimento Instrução: Secundária, primeiro ci-Experiência: 730 dies de efetivo exercício na clo completo. classe de Operador de Per furadora. Outros requisitos Conhecimentos especializados: Domínio dos métodos de operação de máquinas tabuladoras e equipamen - tos complementares. Conhecimentos para montagem dos dife suficientes rentes painéis. Perspectiva de promoção e acesso Recrutamento: Dentre OS Possibilita promoção: ocupantes da classe de Operador de Perfuradora. Possibilita acesso: S. N.I.J. - 315×215mm 12.000 • 5/60 - 1
 
 Sauda
 
 Cimara Municipal de Campinas
 
-NIVEL: 11 CIASSE: TESOUREIRO-AUXILIAR Requisítos mínimos para provimento Experiência: 730 dias Instrução: Secundária, primeiro ci- de efetivo exercício na clo completo. classe de Escriturário- Datilógrafo II. Outros requisitos Conhecimentos especializados: Conhecimentos de aritmética sufici- entes para fazer calculos com rapi- dez e precisao. Conhecimentos de datilografia.
-
-Recrutamento: Dentre os Possibilita promoção: A classe de ocupantes da classe de Tesoureiro Escriturário-Datilógra- fo II• Possibilita acesso: n. 708 .N.I.J. • 315x215mm 12.000 - 5/60 - L. 24
+NIVEL: 11 CIASSE: TESOUREIRO-AUXILIAR Requisítos mínimos para provimento Experiência: 730 dias Instrução: Secundária, primeiro ci- de efetivo exercício na clo completo. classe de Escriturário- Datilógrafo II. Outros requisitos Conhecimentos especializados: Conhecimentos de aritmética sufici- entes para fazer calculos com rapi- dez e precisao. Conhecimentos de datilografia. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: A classe de ocupantes da classe de Tesoureiro Escriturário-Datilógra- fo II• Possibilita acesso: n. 708 .N.I.J. • 315x215mm 12.000 - 5/60 - L. 24
 
 Saudha Camara Municipal de Campinas
 
-NIVEL: CLASSE: TESOUREIRO Requisítos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: 730 dias de efetivo exercício na clo completo• classe de Tesoureiro-Au- xiliar. Outros requisitos especializados: Conhecimentos de aritmética sufici- Conhecimentos entes para fazer calculos com rapi- dez e precisão. Conhecimentos dos trabalhos da Tesouraria.
-
-Recrutamento: Dentre os Possibilita promoção: A classe de ocupantes da classe de Tesoureiro-Chefe. Tesoureiro-Auxiliar. Possibilita acesso. S.N.1.J. - 315x215mm - n.° 708 12.000 • 5/60 • L. 24
+NIVEL: CLASSE: TESOUREIRO Requisítos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: 730 dias de efetivo exercício na clo completo• classe de Tesoureiro-Au- xiliar. Outros requisitos especializados: Conhecimentos de aritmética sufici- Conhecimentos entes para fazer calculos com rapi- dez e precisão. Conhecimentos dos trabalhos da Tesouraria. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: A classe de ocupantes da classe de Tesoureiro-Chefe. Tesoureiro-Auxiliar. Possibilita acesso. S.N.1.J. - 315x215mm - n.° 708 12.000 • 5/60 • L. 24
 
 Sauda Camara Muricipal de Campinas
 
-NIVEL: 17 CLASSE: TESOUREIRO-CHEFE Requisitos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: 730 dias de efetivo exercício na clo.completo. classe de Tesoureiro. Conhecimentos Outros requisitos especializados: Conhecimento dos trabalhos de tesoy raria suficientes para orientação de outros servidores. Conhecimento de Contabilidade suficiente para a escrituraçao exigida pelos traba - lhos de tesouraria.
-
-Possibilita promoção: Recrutamento: Dentre os ocupantes da classe de Tesoureiro. Possibilita acesso: S. N.T.J. - 315x215mm • n. 708 12.000 - 5/60 - L. 24
+NIVEL: 17 CLASSE: TESOUREIRO-CHEFE Requisitos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: 730 dias de efetivo exercício na clo.completo. classe de Tesoureiro. Conhecimentos Outros requisitos especializados: Conhecimento dos trabalhos de tesoy raria suficientes para orientação de outros servidores. Conhecimento de Contabilidade suficiente para a escrituraçao exigida pelos traba - lhos de tesouraria. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Dentre os ocupantes da classe de Tesoureiro. Possibilita acesso: S. N.T.J. - 315x215mm • n. 708 12.000 - 5/60 - L. 24
 
 dro Câmara Muricipal de Campiras
 
-CLASSE: LANÇADOR II NIVEL: 14 Requisitos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: 730 dias de efetivo exercício na clo completo. classe de Lançador I. Conhecimentos especializados: Outros requisitos: Clas Conhecimento de legialação tributá se privativa de pessoas ria municipal suficiente para ori- do sexo masculino. entar sua aplicaçao. Conhecimento de matematica suficiente para a fei tura de calculos com rapidez e pre cisão. Conhecimentos elementares de desenho para a feitura de croquis.
-
-Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Lançador I. Possibilita acesso: S.N.I.J. - 315x215mm - n.° 708 12.000 - 5/60 • L.. 24
+CLASSE: LANÇADOR II NIVEL: 14 Requisitos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: 730 dias de efetivo exercício na clo completo. classe de Lançador I. Conhecimentos especializados: Outros requisitos: Clas Conhecimento de legialação tributá se privativa de pessoas ria municipal suficiente para ori- do sexo masculino. entar sua aplicaçao. Conhecimento de matematica suficiente para a fei tura de calculos com rapidez e pre cisão. Conhecimentos elementares de desenho para a feitura de croquis. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Lançador I. Possibilita acesso: S.N.I.J. - 315x215mm - n.° 708 12.000 - 5/60 • L.. 24
 
 Saudra 2/6 Camara Muricipal de Campiras
 
-CLASSE: LANÇADOR I NIVEL: 10 Requisítos mínimos para provimento Experiência: 730 dias de Instrução: Secundária, primeiro ci- efetivo exercício numa clo completo. das classes de Fiscal Distrital, Fiscal ou Fiscal de Obras. Outros reouisitos: Clas- Conhecimentos especializados: Conhecimento da legislação tributá- se privativa de pessoas ria municipal. Conhecimento de mate do sexo masculino. matica suficiente para a feitura de cálculos com rapidez e precisao. Co nhecimentos elementares de desenho croquis. para a feitura de
-
-Possibilita promoção: À classe de Recrutamento: Dentre os Lançador II. ocupantes das classes de Fiscal Distrital, Fis- cal e Fiscal de Obras. Possibilita acesso: S. N.1.1. - 315x215mm 12.000 - 5/60 - L. 24
+CLASSE: LANÇADOR I NIVEL: 10 Requisítos mínimos para provimento Experiência: 730 dias de Instrução: Secundária, primeiro ci- efetivo exercício numa clo completo. das classes de Fiscal Distrital, Fiscal ou Fiscal de Obras. Outros reouisitos: Clas- Conhecimentos especializados: Conhecimento da legislação tributá- se privativa de pessoas ria municipal. Conhecimento de mate do sexo masculino. matica suficiente para a feitura de cálculos com rapidez e precisao. Co nhecimentos elementares de desenho croquis. para a feitura de Perspectiva de promoção e acesso Possibilita promoção: À classe de Recrutamento: Dentre os Lançador II. ocupantes das classes de Fiscal Distrital, Fis- cal e Fiscal de Obras. Possibilita acesso: S. N.1.1. - 315x215mm 12.000 - 5/60 - L. 24
 
 Sanoha Cimara Muricipal de Campinas
 
-NIVEL: 8 CLASSE: FISCAI Requisítos mínimos para provimento Experiência: 730 dias de Instrução: secundária, segunda sé - efetivo exercício na rie do primeiro ciclo. classe de Escriturário- Datilógrafo I: Outros requisitos: Clas- Conhecimentos especializados: privativa de pessoas Conhecimentos de portugues sufici - sexo masculino. entes para a redação de informaçoes de aritméti- simples. Conhecimentos Idade de 18 a 25 anos, ca suficientes para fazer calculos quando o provimento com rapidez e exatidão. der por recrutamento ge- to da legislação tributária do Muni cípio.
-
-Recrutamento: Dentre os Possibilita promoção: Às classes ocupantes da classe de de Fiacal Distrital e Lançador I Escriturário-Datilógrafo I. Possibilita acesso: S.N.T.J. - 315x215mm • 12.000 - 5/60 • L. 24
+NIVEL: 8 CLASSE: FISCAI Requisítos mínimos para provimento Experiência: 730 dias de Instrução: secundária, segunda sé - efetivo exercício na rie do primeiro ciclo. classe de Escriturário- Datilógrafo I: Outros requisitos: Clas- Conhecimentos especializados: privativa de pessoas Conhecimentos de portugues sufici - sexo masculino. entes para a redação de informaçoes de aritméti- simples. Conhecimentos Idade de 18 a 25 anos, ca suficientes para fazer calculos quando o provimento com rapidez e exatidão. der por recrutamento ge- to da legislação tributária do Muni cípio. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: Às classes ocupantes da classe de de Fiacal Distrital e Lançador I Escriturário-Datilógrafo I. Possibilita acesso: S.N.T.J. - 315x215mm • 12.000 - 5/60 • L. 24
 
 Sandra Câmara Muricipal de Campinas
 
-NÍVEL: 9 CLASSE: FISCAL DISTRITAL Requisítos mínimos para provimento Experiência: 730 dias Instrução: secundária, segunda sé- de efetivo exercício na rie do primeiro ciclo. classe de Fiscal. Cutros reavisitos • Clas- Conhecimentos especializados: tes para a redação atuguês suficien Conhecimentos de se privativa de pessoas informações do sexo masculino. de aritméti- simples. Conhecimentos fazer calculos Idade de 18 a 25 anos ca. suficientes para com rapidez e exatidao. Conhecimen- quando o provimento se to elementar da legislação tributá- der por' ria, das posturas municipais e das recrutamento ge- as edificações. leis referentes
-
-Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Fiscal. Possibilita acesso: À classe de Lançador I• S. N.1.1. - 315×215mm - n.° 708 12.000 - 5/60 - L. 24
+NÍVEL: 9 CLASSE: FISCAL DISTRITAL Requisítos mínimos para provimento Experiência: 730 dias Instrução: secundária, segunda sé- de efetivo exercício na rie do primeiro ciclo. classe de Fiscal. Cutros reavisitos • Clas- Conhecimentos especializados: tes para a redação atuguês suficien Conhecimentos de se privativa de pessoas informações do sexo masculino. de aritméti- simples. Conhecimentos fazer calculos Idade de 18 a 25 anos ca. suficientes para com rapidez e exatidao. Conhecimen- quando o provimento se to elementar da legislação tributá- der por' ria, das posturas municipais e das recrutamento ge- as edificações. leis referentes Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Fiscal. Possibilita acesso: À classe de Lançador I• S. N.1.1. - 315×215mm - n.° 708 12.000 - 5/60 - L. 24
 
 Saudra
 
 Camara Municipal de Campinas
 
-NIVEL: 14 CLASSE: FISCAL DE RENDAS Requisítos mínimos para provimento dias Experiência: 730 Instrução: secundária, segundo ci- de efetivo exercício na clo completo. Certificado de con- classe de Técnico em clusão do Curso Técnico de Conta- Contabilidade I. bilidade. Outros requisitos : Conhecimentos especializados: \_portugues sufici - Conhecimentos de Classe privativa de entes para redação de comunicaçoes complexas. Conhecimento de contabi- pessoas do sexo mascu da Conhecimento Lidade comercial• lino. legislação tributaria do Municipio.
-
-Recrutamento: Dentre os Possibilita promoção: ocupantes da Classe de Técnico em Contabilida- de Io Possibilita acesso: 3. N.I.I. - 315x215mm - n. 70g 12.000 - 5/60 - L. 24
+NIVEL: 14 CLASSE: FISCAL DE RENDAS Requisítos mínimos para provimento dias Experiência: 730 Instrução: secundária, segundo ci- de efetivo exercício na clo completo. Certificado de con- classe de Técnico em clusão do Curso Técnico de Conta- Contabilidade I. bilidade. Outros requisitos : Conhecimentos especializados: \_portugues sufici - Conhecimentos de Classe privativa de entes para redação de comunicaçoes complexas. Conhecimento de contabi- pessoas do sexo mascu da Conhecimento Lidade comercial• lino. legislação tributaria do Municipio. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: ocupantes da Classe de Técnico em Contabilida- de Io Possibilita acesso: 3. N.I.I. - 315x215mm - n. 70g 12.000 - 5/60 - L. 24
 
 Sandra Camara Muricipal de Campinas
 
-NIVEL: AUXILIAR DE MECANOGRAFIA CLASSE: Requisítos mínimos para provimento Experiência: Instrução: Secundária, segunda sé- rie do primeiro ciclo. Outros requisitos Conhecimentos especializados: Conhecimentos de aritmética sufici- entes para fazer calculos com rapi- dez e precisao. Conhecimentos ele - mentares dos metodos de operaçao de equipamentos Hollerith.
-
-Recrutamento: Geral Possibilita promoção: Possibilita acesso: À classe de Operador de Perfuradora. S. N.T.I. • 315×215mm - n.° 708 12.000 - 5/60 • L. 24
+NIVEL: AUXILIAR DE MECANOGRAFIA CLASSE: Requisítos mínimos para provimento Experiência: Instrução: Secundária, segunda sé- rie do primeiro ciclo. Outros requisitos Conhecimentos especializados: Conhecimentos de aritmética sufici- entes para fazer calculos com rapi- dez e precisao. Conhecimentos ele - mentares dos metodos de operaçao de equipamentos Hollerith. Perspectiva de promoção e acesso Recrutamento: Geral Possibilita promoção: Possibilita acesso: À classe de Operador de Perfuradora. S. N.T.I. • 315×215mm - n.° 708 12.000 - 5/60 • L. 24
 
 Sauda Câmara Muricipal de Campiras
 
-NIVEL: 2 CLASSE: AIMOXARI FE-AUXILIAR ' Requisitos mínimos para provimento Experiência: Instrução: Primária, curso primário completo. Outros requisitos Conhecimentos especializados: Conhecimentos de aritmética sufici Classe privativa de entes para fazer cálculos com rapi- pessoas do sexo mas- dez e correção. Conhecimento de da- . culino. tilografia. de 18 a 25 anos. Idade
-
-Recrutamento: Geral Possibilita promoção: A classe de Almoxarife. acesso: Possibilita . N.I.J. - 315x215mm - n.° 70 2.000 - 5/60 - L. 24
+NIVEL: 2 CLASSE: AIMOXARI FE-AUXILIAR ' Requisitos mínimos para provimento Experiência: Instrução: Primária, curso primário completo. Outros requisitos Conhecimentos especializados: Conhecimentos de aritmética sufici Classe privativa de entes para fazer cálculos com rapi- pessoas do sexo mas- dez e correção. Conhecimento de da- . culino. tilografia. de 18 a 25 anos. Idade Perspectiva de promoção e acesso Recrutamento: Geral Possibilita promoção: A classe de Almoxarife. acesso: Possibilita . N.I.J. - 315x215mm - n.° 70 2.000 - 5/60 - L. 24
 
 Ja Camara Municipal de Campiras
 
-NIVEL: CIASSE: AIMOXARIFE Requisítos mínimos para provimento Experiência: 730 dias Instrução: Secundária, segunda sé- de efetivo exercício na rie do primeiro ciclo. classe de Almoxarife-Au- xiliar. Outros requisitos : Conhecimentos especializados: de Conhecimentos aprofundados dos tra- Classe privativa balhos de almoxarifado. Bons conhe- pessoas do sexo mascu- cimentos de aritmética. Conhecimen- lino. tos da legislaçao reterente a orga- nizaçao e funcionamento dos servi - Idade de 18 a 25 anos, ços municipais. quando ó provimento se der por recrutamento ge ral.
-
-Recrutamento: Dentre os promoção: Possibilita ocupantes da classe de Almoxarife-Auxiliar. Possibilita acesso: à classe de As- sistente de Administração I.. 1° 708 S. N.I.I. - 315x215mm 12.000 - 5/60 • L. 24
+NIVEL: CIASSE: AIMOXARIFE Requisítos mínimos para provimento Experiência: 730 dias Instrução: Secundária, segunda sé- de efetivo exercício na rie do primeiro ciclo. classe de Almoxarife-Au- xiliar. Outros requisitos : Conhecimentos especializados: de Conhecimentos aprofundados dos tra- Classe privativa balhos de almoxarifado. Bons conhe- pessoas do sexo mascu- cimentos de aritmética. Conhecimen- lino. tos da legislaçao reterente a orga- nizaçao e funcionamento dos servi - Idade de 18 a 25 anos, ços municipais. quando ó provimento se der por recrutamento ge ral. Perspectiva de promoção e acesso Recrutamento: Dentre os promoção: Possibilita ocupantes da classe de Almoxarife-Auxiliar. Possibilita acesso: à classe de As- sistente de Administração I.. 1° 708 S. N.I.I. - 315x215mm 12.000 - 5/60 • L. 24
 
 Saudra
 
@@ -763,87 +709,63 @@ Camara Municipal de Campinas
 
 CAMPINAS.
 
-NIVEL: CLASSE: DESENHISTA I Requisítos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: clo completo. Outros requisitos especializados: Conhecimentos Conhecimento razoável das técnicas de desenho. Habilidade no manejo dos instrumentos de Desenho.
-
-Recrutamento: Geral Possibilita promoção: A classe de Desenhista II acesso: Possibilita 12.000- 380 - 23 700 S. N.I.J. - 315x215mm
+NIVEL: CLASSE: DESENHISTA I Requisítos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: clo completo. Outros requisitos especializados: Conhecimentos Conhecimento razoável das técnicas de desenho. Habilidade no manejo dos instrumentos de Desenho. Perspectiva de promoção e acesso Recrutamento: Geral Possibilita promoção: A classe de Desenhista II acesso: Possibilita 12.000- 380 - 23 700 S. N.I.J. - 315x215mm
 
 Saudra Camara Municipal de Campiras
 
-NIVEL: 10 CLASSE: DESENHISTA II Requisítos mínimos para provimento Experiência: 730 Instrução: Secundária, segundo ci- dias de efetivo exercício na clo completo. classe de Desenhista I Outros requisitos , especializados: Conhecimentos Conhecimento aprofundado das técni- Capacidade para ae- senvolvimento sob orientação de tra balhos de relativa dificuldade. No- ções gerais de técnica de topogra- tecnologia de fia•Noções gerais de
-
-Recrutamento: Dentre os Possibilita promoção: À classe de de. ocupantes da classe Desenhista III Desenhista I.. Possibilita acesso:
+NIVEL: 10 CLASSE: DESENHISTA II Requisítos mínimos para provimento Experiência: 730 Instrução: Secundária, segundo ci- dias de efetivo exercício na clo completo. classe de Desenhista I Outros requisitos , especializados: Conhecimentos Conhecimento aprofundado das técni- Capacidade para ae- senvolvimento sob orientação de tra balhos de relativa dificuldade. No- ções gerais de técnica de topogra- tecnologia de fia•Noções gerais de Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: À classe de de. ocupantes da classe Desenhista III Desenhista I.. Possibilita acesso:
 
 S.N.1.J. - 315x215mm 12.000 - 5/60 •
 
 Sauda Câmara Muricipal de Campinas
 
-NÍVEL: 13 CIASSE: DESENHISTA III Requisitos mínimos para provimento Instrução: Secundária, segundo ci- Experiência: 730 dias de efetivo exercício na clo completo. classe de Desenhista II. Conhecimentos especializados: Outros requisitos Conhecimento das técnicas de dese- nho suficiente para desenvolver pro jetos de porte médio esboçados arquiteto ou engenheiro e de execu- tar outros trabalhos de igual grau de dificuldade. Noções gerais de teo nologia de materiais. Noções gerais de técnica de topografia..
-
-Possibilita promoção: Recrutamento: Dentre os ocupantes da classe de Desenhista II. Possibilita acesso: 120031-3150 ° L 20 700 S. N.1.J. - 315x215mm
+NÍVEL: 13 CIASSE: DESENHISTA III Requisitos mínimos para provimento Instrução: Secundária, segundo ci- Experiência: 730 dias de efetivo exercício na clo completo. classe de Desenhista II. Conhecimentos especializados: Outros requisitos Conhecimento das técnicas de dese- nho suficiente para desenvolver pro jetos de porte médio esboçados arquiteto ou engenheiro e de execu- tar outros trabalhos de igual grau de dificuldade. Noções gerais de teo nologia de materiais. Noções gerais de técnica de topografia.. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Dentre os ocupantes da classe de Desenhista II. Possibilita acesso: 120031-3150 ° L 20 700 S. N.1.J. - 315x215mm
 
 2,27 Saudra Camara Municipal de Campirias
 
-V CLASSE: TOPÓGRAFO-AUXILIAR I NIVEL: 11 Requisitos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: clo completo. Outros requisitos Conhecimentos especializados: Conhecimentos razoáveis das técni- Classe privativa de pes- cas de topografia. soas do sexo masculino. Idade de 18 a 30 anos.
-
-Possibilita promoção: A classe de Recrutamento: Geral Topógrąfo-Auxiliar II. Possibilita acesso: S. N.1.J. - 315x215mm - n.° 708 2.000 - 5/60 - L.. 24
+V CLASSE: TOPÓGRAFO-AUXILIAR I NIVEL: 11 Requisitos mínimos para provimento Instrução: Secundária, primeiro ci- Experiência: clo completo. Outros requisitos Conhecimentos especializados: Conhecimentos razoáveis das técni- Classe privativa de pes- cas de topografia. soas do sexo masculino. Idade de 18 a 30 anos. Perspectiva de promoção e acesso Possibilita promoção: A classe de Recrutamento: Geral Topógrąfo-Auxiliar II. Possibilita acesso: S. N.1.J. - 315x215mm - n.° 708 2.000 - 5/60 - L.. 24
 
 Sandha Camara Municipal de Campinas
 
-NIVEL: 13 CLASSE: TOPÓGRAFO-AUXILIAR II Requisitos mínimos para provimento Experiência: 730 dias Instrução: secundária, primeiro ci- de efetivo exercício na clo completo. classe de Topógrafo-Au- xiliar I. Outros requisitos Conhecimentos especializados: Conhecimentos aprofundados das téc- Classe privativa de pes- nicas de topografia. Conhecimentos soas do sexo masculino. de trigonometria e geometria descri- tiva. Capacidade para executar cál- Idade de 18 a 30 anos, quando o provimento se culos der por 'recrutemento ge- ral.
-
-Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de topógrafo-Auxiliar I• acesso: Possibilita 5. 12000 - 8180 - 2\* 708
+NIVEL: 13 CLASSE: TOPÓGRAFO-AUXILIAR II Requisitos mínimos para provimento Experiência: 730 dias Instrução: secundária, primeiro ci- de efetivo exercício na clo completo. classe de Topógrafo-Au- xiliar I. Outros requisitos Conhecimentos especializados: Conhecimentos aprofundados das téc- Classe privativa de pes- nicas de topografia. Conhecimentos soas do sexo masculino. de trigonometria e geometria descri- tiva. Capacidade para executar cál- Idade de 18 a 30 anos, quando o provimento se culos der por 'recrutemento ge- ral. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de topógrafo-Auxiliar I• acesso: Possibilita 5. 12000 - 8180 - 2\* 708
 
 Sandra
 
 Cimara Municipal de Campinas
 
-CLASSE: CADASTRADOR NIVEL: 2 Requisítos mínimos para provimento Experiência: Instrução: Primária, curso primá- rio completo. Outros seguisitos Lonheciment os especializados: Conhecimentos elementares das téc- Classe privativa de de desenho. Conhecimento de pessoas do sexo masculi aritmética suficiente para fazer cál culos de levantamento cadastral com no• Idade de 18 a 25 precisao• anos•
-
-Recrutamento: Geral Possibilita promoção: Possibilita acesso: À classe de Fia cal de Obras. S. N.I.J. - 315x215mm - n.° 708 12.000 - 5/60 • L. 24
+CLASSE: CADASTRADOR NIVEL: 2 Requisítos mínimos para provimento Experiência: Instrução: Primária, curso primá- rio completo. Outros seguisitos Lonheciment os especializados: Conhecimentos elementares das téc- Classe privativa de de desenho. Conhecimento de pessoas do sexo masculi aritmética suficiente para fazer cál culos de levantamento cadastral com no• Idade de 18 a 25 precisao• anos• Perspectiva de promoção e acesso Recrutamento: Geral Possibilita promoção: Possibilita acesso: À classe de Fia cal de Obras. S. N.I.J. - 315x215mm - n.° 708 12.000 - 5/60 • L. 24
 
 saudra
 
 Câmara Muricipal de Campinas
 
-NIVEL: CLASSE: FISCAL DE OBRAS Requisítos mínimos para provimento Experiência: 730 dias de Instrução: secundária, primeiro ci- efetivo exercício na clas clo completo. se de Cadastrador. Outros requisitos Conhecimentos especializados: Conhecimentos de português sufici- Classe privativa de pes entes para\_a redaçao de informações soas do sexo masculino. com precisao e clareza. Conhecimen- Idade de 18 a 25 anos, to de aritmética Conhecimento da quando o provimento se legislaçao concernente as edifica- der por recrutamento ge- Conhecimentos ge ral. rais de desenho técnico.
-
-Possibilita promoção: Recrutamento: Dentre os ocupantes da classe de Cadastrador. Possibilita acesso: A classe de lan çador Io S.N.I.J. - 315x215mm - n.° 708 12.000 - 5/60 -
+NIVEL: CLASSE: FISCAL DE OBRAS Requisítos mínimos para provimento Experiência: 730 dias de Instrução: secundária, primeiro ci- efetivo exercício na clas clo completo. se de Cadastrador. Outros requisitos Conhecimentos especializados: Conhecimentos de português sufici- Classe privativa de pes entes para\_a redaçao de informações soas do sexo masculino. com precisao e clareza. Conhecimen- Idade de 18 a 25 anos, to de aritmética Conhecimento da quando o provimento se legislaçao concernente as edifica- der por recrutamento ge- Conhecimentos ge ral. rais de desenho técnico. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Dentre os ocupantes da classe de Cadastrador. Possibilita acesso: A classe de lan çador Io S.N.I.J. - 315x215mm - n.° 708 12.000 - 5/60 -
 
 Sauda 23) Camara Municipal de Campiras Estado de São Paulo
 
 NIVEL:
 
-CLASSE: AUXILIAR DE ENGENHEIRO Requisítos mínimos para provimento Instrução: Secundária, segundo ci- Experiência: clo. completo. : • requisitos Conhecimentos especializados: Outros Conhecimentos elementares de física Classe privativa de pes e matemática. Conhecimentos gerais soas do sexo masculino. de tecnologia de materiais de cons- trução e de desenho técnico.
-
-Possibilita promoção: Recrutamento: Geral Possibilita acesso: S. N.I.I. - 315×215mm - n.' 708 12.000 - 5/60 - L. 24
+CLASSE: AUXILIAR DE ENGENHEIRO Requisítos mínimos para provimento Instrução: Secundária, segundo ci- Experiência: clo. completo. : • requisitos Conhecimentos especializados: Outros Conhecimentos elementares de física Classe privativa de pes e matemática. Conhecimentos gerais soas do sexo masculino. de tecnologia de materiais de cons- trução e de desenho técnico. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Geral Possibilita acesso: S. N.I.I. - 315×215mm - n.' 708 12.000 - 5/60 - L. 24
 
 Sauda
 
 Camara Municipal de Campinas
 
-NIVEL: 12 CLASSE: DIRETOR DE UNIDADE ESCOLAR Requisítos mínimos para provimento Experiência: 730 dias de Instrução: Secundária, segundo ci- clo completo. Certificado de conclu-efetivo exercício numa das são do Curso Normal Colegial. classes de Professor Pri mário ou de Assistente de Direção de Escola Par que • Outros requisitos Conhecimentos especializados: Conhecimento considerável dos méto- dos modernos de ensino. Conhecimen- to da legislaçao referente ao ensi- no primário. Possuir conhecimentos administração escolar.
-
-Recrutamento: Dentre os Possibilita promoção: A classe de ocupantes das classes de Diretor de Escola Parque. Professor Primário eAs- sistente de Direção de Escola Parque. Possibilita acesso: A classe de Orientador Pedagógico. S. N.I.J. - 315x215ram • n.° 70B 12.000 - 5/60 • L. 24
+NIVEL: 12 CLASSE: DIRETOR DE UNIDADE ESCOLAR Requisítos mínimos para provimento Experiência: 730 dias de Instrução: Secundária, segundo ci- clo completo. Certificado de conclu-efetivo exercício numa das são do Curso Normal Colegial. classes de Professor Pri mário ou de Assistente de Direção de Escola Par que • Outros requisitos Conhecimentos especializados: Conhecimento considerável dos méto- dos modernos de ensino. Conhecimen- to da legislaçao referente ao ensi- no primário. Possuir conhecimentos administração escolar. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: A classe de ocupantes das classes de Diretor de Escola Parque. Professor Primário eAs- sistente de Direção de Escola Parque. Possibilita acesso: A classe de Orientador Pedagógico. S. N.I.J. - 315x215ram • n.° 70B 12.000 - 5/60 • L. 24
 
 sau Camara Municipal de Campiras
 
-NIVEL: 13 CIASSE: DIRETOR DE ESCOLA PARQUE Requisítos mínimos para provimento Experiência: 730 dias de Instrução: secundária, segundo ci- efetivo exercício na clas clo completo. Certificado de conclu- se de Diretor de Unidade são do Curso Normal Colegial. Escolar. Outros requisitos Conhecimentos especializados: Conhecimento, aprofundado dos méto- dos modernos de ensino. Conhecimen to da legislação referente ao ensi conhecimentos no primário. Possuir de administração escolar.
-
-Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Diretor de Unidade Esco- lar. Possibilita acesso: À classe de Orientador Pedagógico 12.0 - 3/60 - L: 2: 708 S.N.1.1. - 315x215mm
+NIVEL: 13 CIASSE: DIRETOR DE ESCOLA PARQUE Requisítos mínimos para provimento Experiência: 730 dias de Instrução: secundária, segundo ci- efetivo exercício na clas clo completo. Certificado de conclu- se de Diretor de Unidade são do Curso Normal Colegial. Escolar. Outros requisitos Conhecimentos especializados: Conhecimento, aprofundado dos méto- dos modernos de ensino. Conhecimen to da legislação referente ao ensi conhecimentos no primário. Possuir de administração escolar. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Diretor de Unidade Esco- lar. Possibilita acesso: À classe de Orientador Pedagógico 12.0 - 3/60 - L: 2: 708 S.N.1.1. - 315x215mm
 
 Camara Muricipal de Campiras
 
-NIVEL: 1 ENCADERNADOR-AUXILIAR CLASSE: Requisítos mínimos para provimento Experiência: Instrução: Curso primário completo. requisitos "Outros Conhecimentos especializados: Conhecimento razoável da arte.
-
-À classe • Recrutamento: Geral. Possibilita promoção: de Encadernador. Possibilita acesso: n.° 708 S. N.1.J. - 315x215mm 12.000 - 5/60 •
+NIVEL: 1 ENCADERNADOR-AUXILIAR CLASSE: Requisítos mínimos para provimento Experiência: Instrução: Curso primário completo. requisitos "Outros Conhecimentos especializados: Conhecimento razoável da arte. Perspectiva de promoção e acesso À classe • Recrutamento: Geral. Possibilita promoção: de Encadernador. Possibilita acesso: n.° 708 S. N.1.J. - 315x215mm 12.000 - 5/60 •
 
 Saudha
 
 Câmara Municipal de Campinas
 
-NIVEL: 4 CLASSE: EN CADERNADOR Requisítos mínimos para provimento Experiência: 730 dias Instrução: Curso primário completo. de efetivo exercício na classe de Encadernador- Auxiliar. Outros requisitos Conhecimentos especializados: Domínio da arte.
-
-Recrutamento: Possibilita promoção: Dentre os ocupantes da classe de Encadernador-Auxiliar. Possibilita acesso: S.N.T.J. - 315x215mm - n.° 708 12.000 - 5/60 - L. 24
+NIVEL: 4 CLASSE: EN CADERNADOR Requisítos mínimos para provimento Experiência: 730 dias Instrução: Curso primário completo. de efetivo exercício na classe de Encadernador- Auxiliar. Outros requisitos Conhecimentos especializados: Domínio da arte. Perspectiva de promoção e acesso Recrutamento: Possibilita promoção: Dentre os ocupantes da classe de Encadernador-Auxiliar. Possibilita acesso: S.N.T.J. - 315x215mm - n.° 708 12.000 - 5/60 - L. 24
 
 Sauda
 
@@ -851,115 +773,81 @@ Câmara Municipa Campiras al d
 
 NIVEL:
 
-CLASSE: AUXILIAR DE BIBIIOTECA Requisítos mínimos para provimento Experiência: Instrução: secundária, primeiro ci- clo completo. Outros requisitos Conhecimentos especializados: Conhecimentos de datilografia. Conhe cimentos elementares de organização de biblioteca.
-
-Recrutamento: Possibilita promoção: Geral. A classe de Possibilita acesso: Arquivista. S.N.I.J. - 315x215mm - n.° 708 12.000 - 5/60 • L.. 24
+CLASSE: AUXILIAR DE BIBIIOTECA Requisítos mínimos para provimento Experiência: Instrução: secundária, primeiro ci- clo completo. Outros requisitos Conhecimentos especializados: Conhecimentos de datilografia. Conhe cimentos elementares de organização de biblioteca. Perspectiva de promoção e acesso Recrutamento: Possibilita promoção: Geral. A classe de Possibilita acesso: Arquivista. S.N.I.J. - 315x215mm - n.° 708 12.000 - 5/60 • L.. 24
 
 sandro Camara Municipal de Campinas
 
-NIVEL: 9 CLASSE: PROFESSOR PRIMÁRIO • Requisítos mínimos para provimento Experiência: Instrução: Secundária, segundo ci- clo completo. Certificado de conclu são do Curso Normal @legial. Outros requisitos especializados: "Conhecimentos de Classe privativa pessoas do sexo femini- no. Idade de 18 a 30 anos.
-
-Recrutamento: Geral Possibilita promoção: Possibilita acesso: Às classes de Diretor de Unidade Escolar e Assis- de Direção de Escola Parque. tente . N.I.J. - 315x215mm - n.° 70€ 2.000 • 5/60 - L. 24
+NIVEL: 9 CLASSE: PROFESSOR PRIMÁRIO • Requisítos mínimos para provimento Experiência: Instrução: Secundária, segundo ci- clo completo. Certificado de conclu são do Curso Normal @legial. Outros requisitos especializados: "Conhecimentos de Classe privativa pessoas do sexo femini- no. Idade de 18 a 30 anos. Perspectiva de promoção e acesso Recrutamento: Geral Possibilita promoção: Possibilita acesso: Às classes de Diretor de Unidade Escolar e Assis- de Direção de Escola Parque. tente . N.I.J. - 315x215mm - n.° 70€ 2.000 • 5/60 - L. 24
 
 Saudia
 
 Cimara Municipal de Campinas
 
-CLASSE: ASSISTENTE DE DIREÇÃO DE ESCOLA PARQUE NÍVEL: 10 Requisítos mínimos para provimento Experiência: 730 dias de Instrução: Secundária, segundo ci- efetivo exercício clo completo. Certificado de con - na classe de Professor Pri clusão do Curso Normal Colegial. mário. Outros requisitos Conhecimentos especializados: Possuir conhecimentos de adminis - tração escolar.
-
-Recrutamento: Possibilita promoção: Dentre os ocupantes da classe de Professor Primário. Possibilita acesso: A classe de Diretor de Unidade Escolar. S. N.I.J. - 315x215mm 12.000 • 5/60 -
+CLASSE: ASSISTENTE DE DIREÇÃO DE ESCOLA PARQUE NÍVEL: 10 Requisítos mínimos para provimento Experiência: 730 dias de Instrução: Secundária, segundo ci- efetivo exercício clo completo. Certificado de con - na classe de Professor Pri clusão do Curso Normal Colegial. mário. Outros requisitos Conhecimentos especializados: Possuir conhecimentos de adminis - tração escolar. Perspectiva de promoção e acesso Recrutamento: Possibilita promoção: Dentre os ocupantes da classe de Professor Primário. Possibilita acesso: A classe de Diretor de Unidade Escolar. S. N.I.J. - 315x215mm 12.000 • 5/60 -
 
 Saudha
 
 Camara Municipal de Campinas
 
-NIVEL: 15 CLASSE: ORIENTADOR PEDAGÓGICO Requisitos mínimos para provimento Experiência: 730 dias Instrução: Secundária, segundo ci- de efetivo exercício nu- clo completo. Certificado de conclu ma das classes de Dire- são do Curso Normal Colegial. tor de Escola Parque ou de Diretor de Unidade Escolar. Outros requisitos Conhecimentos especializados: Conhecimento das modernas técnicas e métodos de ensino. Capacidade pa- ra orientar a aplicaçao desses méto dos e técnicas. Conhecimento da le- ao ensino. Pos- gislaçao referente suir conhecimentos de administração escolar.
-
-Recrutamento: Dentre os Possibilita promoção: ocupantes das classes de Diretor de Escola Parque e Diretor de Unidade Es- colar. Possibilita acesso: S. N.1.J. • 315x215mm - n.° 708 12.000 - 5/60 • L. 24
+NIVEL: 15 CLASSE: ORIENTADOR PEDAGÓGICO Requisitos mínimos para provimento Experiência: 730 dias Instrução: Secundária, segundo ci- de efetivo exercício nu- clo completo. Certificado de conclu ma das classes de Dire- são do Curso Normal Colegial. tor de Escola Parque ou de Diretor de Unidade Escolar. Outros requisitos Conhecimentos especializados: Conhecimento das modernas técnicas e métodos de ensino. Capacidade pa- ra orientar a aplicaçao desses méto dos e técnicas. Conhecimento da le- ao ensino. Pos- gislaçao referente suir conhecimentos de administração escolar. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: ocupantes das classes de Diretor de Escola Parque e Diretor de Unidade Es- colar. Possibilita acesso: S. N.1.J. • 315x215mm - n.° 708 12.000 - 5/60 • L. 24
 
 Saudha
 
 Camara Municipal de Campinas
 
-CLASSE: FISCAL SANITÁRIO NIVEL: 8 Requisítos mínimos para provimento Instrução: Secundária, primeiro ci-Experiência: clo completo. Outros requisitos Conhecimentos especializados: Conhecimento da legislação concer- Classe privativa de pes nente às posturas de ordem sanitá- soas do sexo masculino. Idade de 18 a 25 anos. ria
-
-Recrutamento: Geral. Possibilita promoção: acesso: Possibilita n.\* 708 S. N.1.J. • 315x215mm : 12.000 - 5/60 • L. 24
+CLASSE: FISCAL SANITÁRIO NIVEL: 8 Requisítos mínimos para provimento Instrução: Secundária, primeiro ci-Experiência: clo completo. Outros requisitos Conhecimentos especializados: Conhecimento da legislação concer- Classe privativa de pes nente às posturas de ordem sanitá- soas do sexo masculino. Idade de 18 a 25 anos. ria Perspectiva de promoção e acesso Recrutamento: Geral. Possibilita promoção: acesso: Possibilita n.\* 708 S. N.1.J. • 315x215mm : 12.000 - 5/60 • L. 24
 
 andra 24) Cimara Municipal de Campiras
 
-NIVEL: 5 ENFERMEIRO-AUXILIAR CLASSE: Requisítos mínimos para provimento Experiência: Instrução: Primária, curso primário completo. requisitos Outros •Conhecimentos especializados: Conhecimentos práticos de enferma- Idade de 18 a 30 anos. gem.
-
-Recrutamento: Geral. Possibilita promoção: Possibilita acesso: S. N.1.]. - 315x215mm - n.° 708 12.000 • 5/60 - L. 2
+NIVEL: 5 ENFERMEIRO-AUXILIAR CLASSE: Requisítos mínimos para provimento Experiência: Instrução: Primária, curso primário completo. requisitos Outros •Conhecimentos especializados: Conhecimentos práticos de enferma- Idade de 18 a 30 anos. gem. Perspectiva de promoção e acesso Recrutamento: Geral. Possibilita promoção: Possibilita acesso: S. N.1.]. - 315x215mm - n.° 708 12.000 • 5/60 - L. 2
 
 Sandra Cimara Muricipal de Campinas
 
-NIVEL: E CLASSE: ASSISTENTE SOCIAI Requisítos mínimos para provimento Experiência: Instrução: superior, diploma de grau superior em Serviço Social. Outros requisitos : Conhecimentos especializados: Habilitação legal para • exercício da profissão.
-
-Recrutamento Geral. Possibilita promoção: Possibilita acesso: S. N.I.I. - 315x215mm 12.000 • 5/60 • L.
+NIVEL: E CLASSE: ASSISTENTE SOCIAI Requisítos mínimos para provimento Experiência: Instrução: superior, diploma de grau superior em Serviço Social. Outros requisitos : Conhecimentos especializados: Habilitação legal para • exercício da profissão. Perspectiva de promoção e acesso Recrutamento Geral. Possibilita promoção: Possibilita acesso: S. N.I.I. - 315x215mm 12.000 • 5/60 • L.
 
 Sauda
 
 Camara Municipal de Campinas
 
-NIVEL: E CLASSE: BIBLIOTECÁRIO Requisitos mínimos para provimento Experiência: Instrução: Superior, diploma de grai superior em Biblioteconomia. Outros requisitos : especializados: Conhecimentos Habilitaçao legal para exercicio da profis- sao.
-
-Possibilita promoção: Recrutamento: Geral. Possibilita acesso: N.1.J. • 315x215mm
+NIVEL: E CLASSE: BIBLIOTECÁRIO Requisitos mínimos para provimento Experiência: Instrução: Superior, diploma de grai superior em Biblioteconomia. Outros requisitos : especializados: Conhecimentos Habilitaçao legal para exercicio da profis- sao. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Geral. Possibilita acesso: N.1.J. • 315x215mm
 
 Somoha Cimara Municipal de Campinas
 
-NIVEL: E CLASSE: DENTISTA Requisítos mínimos para provimento Experiência: Instrução: Superior, diploma de grau superior em Odontologia. Outros requisitos : especializados: • Conhecimentos Habilitação legal para o exercício da profissão.
-
-Possibilita promoção: Recrutamento: Geral. acesso: Possibilita S.N.1.T. - 315x215mm - n.° 708 12.000 - 5/60 - L. 24
+NIVEL: E CLASSE: DENTISTA Requisítos mínimos para provimento Experiência: Instrução: Superior, diploma de grau superior em Odontologia. Outros requisitos : especializados: • Conhecimentos Habilitação legal para o exercício da profissão. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Geral. acesso: Possibilita S.N.1.T. - 315x215mm - n.° 708 12.000 - 5/60 - L. 24
 
 Sandra Camara Municipal de Campinas
 
-CLASSE: MÉDICO NIVEL: G Requisítos mínimos para provimento Instrução: Superior, diploma de Experiência: grau superior em Medicina. Conhecimentos especializados: Outros requisitos: Habilitação legal para • exercício da profis- são.
-
-Possibilita promoção: Recrutamento: Geral. Possibilita acesso: . N.J.J. • 315x215mm - n.° 70 2.000 - 5/60 • L. 24
+CLASSE: MÉDICO NIVEL: G Requisítos mínimos para provimento Instrução: Superior, diploma de Experiência: grau superior em Medicina. Conhecimentos especializados: Outros requisitos: Habilitação legal para • exercício da profis- são. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Geral. Possibilita acesso: . N.J.J. • 315x215mm - n.° 70 2.000 - 5/60 • L. 24
 
 Camara Municipal de Campinas
 
-CLASSE:VETERINÁRIO NIVEL: Requisitos mínimos para provimento Instrução: Superior, diploma de grau Experiência: superior em Medicina Veterinária Outros requisitos : Conhecimentos especializados: Habilitação legal para o exercício da profis- são
-
-Recrutamento: Geral promoção: Possibilita acesso: Possibilita S.N.1.J. - 315x215mm • n.\* 708 15 000. RIAN • L. 26
+CLASSE:VETERINÁRIO NIVEL: Requisitos mínimos para provimento Instrução: Superior, diploma de grau Experiência: superior em Medicina Veterinária Outros requisitos : Conhecimentos especializados: Habilitação legal para o exercício da profis- são Perspectiva de promoção e acesso Recrutamento: Geral promoção: Possibilita acesso: Possibilita S.N.1.J. - 315x215mm • n.\* 708 15 000. RIAN • L. 26
 
 vandra
 
 Câmara Muricipal de Campinas
 
-NIVEL: B CLASSE: CONTADOR-CHEFE Requisitos mínimos para provimento de Técnico em Experiência: 730 dias Instrução: Diploma de efetivo exercício na Contabilidade. classe de Técnico em Con tabilidade III• Outros requisitos Conhecimentos especializados: Habilitação legal para de contabilida- Amplo conhecimento de pública e matemática financeira. o exercício da profis- Amplo conhecimento das normas que são. regem a contabilidade pública Município. Capacidade para inter - pretar e orientar a apiicação des- sas normas.
-
-Possibilita promoção: Recrutamento: Dentre O8 ocupantes da classe de Técnico em Contabilida- de III. Possibilita acesso: S. N.J.J. • 315×215mm - n.° 708 12.000 - 5/60 - L. 2
+NIVEL: B CLASSE: CONTADOR-CHEFE Requisitos mínimos para provimento de Técnico em Experiência: 730 dias Instrução: Diploma de efetivo exercício na Contabilidade. classe de Técnico em Con tabilidade III• Outros requisitos Conhecimentos especializados: Habilitação legal para de contabilida- Amplo conhecimento de pública e matemática financeira. o exercício da profis- Amplo conhecimento das normas que são. regem a contabilidade pública Município. Capacidade para inter - pretar e orientar a apiicação des- sas normas. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Dentre O8 ocupantes da classe de Técnico em Contabilida- de III. Possibilita acesso: S. N.J.J. • 315×215mm - n.° 708 12.000 - 5/60 - L. 2
 
 vanobra
 
 Camara Muricipal de Campiras
 
-NIVEL: B CIASSE: CONTADOR-CHEFE Requisítos mínimos para provimento Experiência: 730 dias Instrução: Diploma de Técnico em de efetivo exercício na Contabilidade. classe de Técnico em Con tabilidade III• Sec Oviros requisitos "Conhecimentos especializados: Habilitação legal para de contabilida- Amplo conhecimento de pública e matemática financeira. o exercício da profis- Amplo conhecimento das normas que são. regem a contabilidade pública Município. Capacidade para inter - pretar e orientar a aplicação des- sas normas.
-
-Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Técnico em Contabilida- de III. Possibilita acesso: S.N.1.J. - 315x215mm • n.° 708 12.000 - 5/60 • Le. 24
+NIVEL: B CIASSE: CONTADOR-CHEFE Requisítos mínimos para provimento Experiência: 730 dias Instrução: Diploma de Técnico em de efetivo exercício na Contabilidade. classe de Técnico em Con tabilidade III• Sec Oviros requisitos "Conhecimentos especializados: Habilitação legal para de contabilida- Amplo conhecimento de pública e matemática financeira. o exercício da profis- Amplo conhecimento das normas que são. regem a contabilidade pública Município. Capacidade para inter - pretar e orientar a aplicação des- sas normas. Perspectiva de promoção e acesso Recrutamento: Dentre os Possibilita promoção: ocupantes da classe de Técnico em Contabilida- de III. Possibilita acesso: S.N.1.J. - 315x215mm • n.° 708 12.000 - 5/60 • Le. 24
 
 Câmara Municipal de Campinas
 
-NIVEL: C CLASSE: ECONOMISTA Requisitos mínimos para provimento Experiência: Instrução: Superior, diploma de grau superior em Ciências Econômi- Outros requisitos : Conhecimentos especializados: Habilitação legal para Conhecimento das técnicas de pro- • exercício da prófis - gramação economica e governamen - tal. são.
-
-Recrutamento: Geral. promoção: Possibilita Possibilita n.° 708 3. N.1.I. - 315x215mm: 500. 8160 • L. 24
+NIVEL: C CLASSE: ECONOMISTA Requisitos mínimos para provimento Experiência: Instrução: Superior, diploma de grau superior em Ciências Econômi- Outros requisitos : Conhecimentos especializados: Habilitação legal para Conhecimento das técnicas de pro- • exercício da prófis - gramação economica e governamen - tal. são. Perspectiva de promoção e acesso Recrutamento: Geral. promoção: Possibilita Possibilita n.° 708 3. N.1.I. - 315x215mm: 500. 8160 • L. 24
 
 Campinas Câmara Mu unicipal de
 
-NIVEL: A CLASSE: PROCURADOR Requisitos mínimos para provimento Experiência: Instruçao: Superior, diploma de grau superior em Ciências. Jurídicas e Sociais: Outros requisitos Gonhecimentos especializados: Habilitação legal para o exercício da profis- são.
-
-Possibilita promoção: Recrutamento: Geral. Possibilita acesso: • n. 708 S. N.T.J. • 315x215mm 15000 - 5/60 • L. 24
+NIVEL: A CLASSE: PROCURADOR Requisitos mínimos para provimento Experiência: Instruçao: Superior, diploma de grau superior em Ciências. Jurídicas e Sociais: Outros requisitos Gonhecimentos especializados: Habilitação legal para o exercício da profis- são. Perspectiva de promoção e acesso Possibilita promoção: Recrutamento: Geral. Possibilita acesso: • n. 708 S. N.T.J. • 315x215mm 15000 - 5/60 • L. 24
 
 Sau Cimara Municipal de Campinas
 
-NIVEL: A CLASSE: ENGENHEIRO Requisítos mínimos para provimento Experiência: Instrução: Superior, diploma de grau superior em Engenharia. Outros requisitos Conhecimentos especializados: Habilitação legal para o exercício da profis- são.
-
-Recrutamento: Geral. Possibilita promoção: Possibilita acesso: n.° 708 8. N.1.1. • 315: 215mm
+NIVEL: A CLASSE: ENGENHEIRO Requisítos mínimos para provimento Experiência: Instrução: Superior, diploma de grau superior em Engenharia. Outros requisitos Conhecimentos especializados: Habilitação legal para o exercício da profis- são. Perspectiva de promoção e acesso Recrutamento: Geral. Possibilita promoção: Possibilita acesso: n.° 708 8. N.1.1. • 315: 215mm
 
 сам Camara Municipal de Campiras
 
-NIVEL: A CLASSE: ARQUITETO Requisítos mínimos para provimento Experiência: Instrução: Superior, diploma de grau superior em Arquitetura. Outros requisitos Conhecimentos especializados: Habilitação legål para o exercício da profis- são.
-
-Recrutamento: Geral. Possibilita promoção: асевво: Possibilita n.° 708 3.N.I.1. - 315x215mm 12.000 - 5/60 - L. 24
+NIVEL: A CLASSE: ARQUITETO Requisítos mínimos para provimento Experiência: Instrução: Superior, diploma de grau superior em Arquitetura. Outros requisitos Conhecimentos especializados: Habilitação legål para o exercício da profis- são. Perspectiva de promoção e acesso Recrutamento: Geral. Possibilita promoção: асевво: Possibilita n.° 708 3.N.I.1. - 315x215mm 12.000 - 5/60 - L. 24
 

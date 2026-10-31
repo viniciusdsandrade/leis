@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/51648"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/51648/51648_texto_integral.pdf"
 sha256_fonte: "2cb08a4cc53c387836bfb9a8121d3a07711213cd5ced68d25fca6f3dc08eeeae"
-sha256_texto: "abb2be5bffb04dae9d66bc8c48c56856e38b520ee51dc3451ba84dc9cd6f7421"
+sha256_texto: "2dbe9039fcf8fa696cc094a78e467f6153cbbe0e8bc5d788bf14b1c3b1c1bb96"
 baixado_em: "2026-10-21"
 ---
 
@@ -53,17 +53,31 @@ Por favor, assinale “SIM” ou “NÃO” para as seguintes perguntas:
 
 1) Algum médico já disse que você possui algum problema de coração e que só deveria realizar atividade física se supervisionado por profissionais de saúde?
 
+( ) SIM ( ) NÃO
+
 2) Você sente dores no peito quando pratica atividade física?
+
+( ) SIM ( ) NÃO
 
 3) No último mês, você sentiu dores no peito quando praticou atividade física?
 
+( ) SIM ( ) NÃO
+
 4) Você apresenta desequilíbrio devido a tontura e/ou perda de consciência?
+
+( ) SIM ( ) NÃO
 
 5) Você possui algum problema ósseo ou articular que poderia ser piorado pela atividade física?
 
+( ) SIM ( ) NÃO
+
 6) Você toma atualmente algum medicamento para pressão arterial e/ou problema de coração?
 
+( ) SIM ( ) NÃO
+
 7) Sabe de alguma outra razão pela qual você não deve praticar atividade física?
+
+( ) SIM ( ) NÃO
 
 Data: Nome completo:
 

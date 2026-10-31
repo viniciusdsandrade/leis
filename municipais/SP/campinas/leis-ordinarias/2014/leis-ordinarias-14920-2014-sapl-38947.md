@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/38947"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2014/38947/38947_texto_integral.pdf"
 sha256_fonte: "1d245a709a7691c17b4156f971ed5dc48220f20c00fa8caaef1da9df0d0e0a66"
-sha256_texto: "a7311c27b1b8b43568fc13f2c22bd6e3670cd7f053d411fdbb86c3c37fcbfbf9"
+sha256_texto: "b71da1d74e7768dc1fa7d270ecbb30030cb1e1a14b2c15be3686c7d263f54239"
 baixado_em: "2026-10-21"
 ---
 
@@ -23,7 +23,7 @@ DISPÕE SOBRE A CONCESSÃO DE INCENTIVOS FISCAIS NO MUNICÍPIO DE CAMPINAS ÀS E
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte Lei:
 
-**Art. 1º** - Fica o Poder Executivo autorizado a conceder incentivos fiscais às empresas enquadradas como start-up no município de Campinas, observados
+**Art. 1º** - Fica o Poder Executivo autorizado a conceder incentivos fiscais às empresas enquadradas como start-up no município de Campinas, observados os requisitos e condições constantes nesta Lei.
 
 **Art. 2º** - Para os fins do disposto nesta Lei, considera-se start-up a pessoa jurídica que se dedique a atividades relacionadas à prestação de serviços e provisão de bens, tais como:
 
@@ -83,7 +83,7 @@ IV - não alienar o imóvel, ou parte dele, após obter o deferimento do pedido 
 
 **Art. 7º** - Normas regulamentadoras estabelecerão os procedimentos pertinentes à prestação de contas, anual e obrigatória, e aos demais atos administrativos e tributários necessários ao acompanhamento e verificação do atendimento dos requisitos e condições desta Lei.
 
-**Art. 8º** - Será cancelado o incentivo fiscal da empresa que deixar de cumprir
+**Art. 8º** - Será cancelado o incentivo fiscal da empresa que deixar de cumprir os requisitos e condições constantes nesta Lei.
 
 **Art. 9º** - O Secretário Municipal de Finanças é a autoridade competente para decidir a matéria referente aos incentivos estabelecidos nesta Lei, inclusive nos casos omissos.
 

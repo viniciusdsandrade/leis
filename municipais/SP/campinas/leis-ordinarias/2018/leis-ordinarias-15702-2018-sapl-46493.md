@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/46493"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2018/46493/46493_texto_integral.pdf"
 sha256_fonte: "f65b97b01a5b8723ef3dbe4e8f7bc3216394e2e082f33e2a718d079381e4689b"
-sha256_texto: "5073a355a0bb11557ecc064ef38df8238a5257280a6de70c6e1cc2dfdbd0397a"
+sha256_texto: "b63bd47fbf6d3a68415d24779382c57fb6d54ab924e21242bf0004c741782276"
 baixado_em: "2026-10-21"
 ---
 
@@ -35,7 +35,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **Art. 6º** Ficam revogadas as disposições em contrário.
 
-Prefeito de Campinas
+JONAS DONIZETTE Prefeito de Campinas
 
 Autoria: CMC - Ver. Professor Alberto Protocolado nº: 18/08/9739
 
@@ -47,7 +47,7 @@ J. Publique-se
 
 Campinas, 05 de Dezembro de 2018
 
-Prefeito Municipal
+JONAS DONIZETTE Prefeito Municipal
 
 Mensagem nº 07/2018-GP
 
@@ -65,7 +65,7 @@ Essas, portanto, as razões que me levam a vetar o art. 4º do projeto de lei n�
 
 Ao ensejo, renovamos a Vossa Excelência e ilustres Vereadores nossos protestos de estima e respeito.
 
-Prefeito Municipal
+JONAS DONIZETTE Prefeito Municipal
 
 Exmo. Sr. Vereador Rafael Fernando Zimbaldi DD. Presidente da Câmara Municipal de Campinas
 

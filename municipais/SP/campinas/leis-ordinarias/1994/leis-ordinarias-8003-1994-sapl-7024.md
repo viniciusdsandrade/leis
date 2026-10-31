@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/7024"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1994/7024/7024_texto_integral.pdf"
 sha256_fonte: "339a23a0a210e32b0aefd67aed056709563867b8704cd90c1b7e252fe26b945c"
-sha256_texto: "cf8c3cbcccdffa7ce5899f115252bea328d0e8d5dc6a24c8e0a9b0aa1239fafd"
+sha256_texto: "cec6fc204c8bb808d10d8b2632e2448432c6125555935a107826ca0cccbd8e82"
 baixado_em: "2026-10-30"
 ---
 
@@ -37,9 +37,7 @@ de acesso da Fazenda Pau D'Alho; deflete à esquerda e continua por esta estrada
 
 **Artigo 2º** - O benefício de isenção do Imposto sobre a Propriedade Predial e Territorial Urbana para o Pólo de Alta Tecnologia - Parque I, somente será concedida:
 
-I - pelo período de 2 (dois) anos improrrogáveis após a aprovação, pelos órgãos municipais
-
-para instalação no Parque I;
+I - pelo período de 2 (dois) anos improrrogáveis após a aprovação, pelos órgãos municipais competentes, de planta para construção de prédio industrial por empresa que adquiriu lote para instalação no Parque I;
 
 II - pelo período de 3 (três) anos improrrogáveis após a concessão do habite-se para os imóveis construídos pelas empresas que se instalarem no Parque I.
 
@@ -51,7 +49,7 @@ I - pelo período de 3 (três) anos Improrrogáveis para cada loteamento urbano 
 
 II – pelo período de 2 (dois) anos improrrogáveis após aprovação, pelos órgãos municipais
 
-para instalação no Parque II;
+competentes, de planta para construção de prédio industrial por empresa que adquiriu lote para instalação no Parque II;
 
 III - pelo período de 3 (três) anos improrrogáveis após a concessão do habite-se para os imóveis construídos pelas empresas que se instalarem no Parque II.
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/32471"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1974/32471/32471_texto_integral.pdf"
 sha256_fonte: "f9cf49b1ad7e1256076510ac832fc3382bbe979b5f8309addf23151fe9c7ebe3"
-sha256_texto: "f3af704e3926030cf1bcc0b79e263c8f515f25d1372e7902c4d8996244d9fdcb"
+sha256_texto: "82e36e54e47d20162f4e2e16376199802cd3fcb02ae7bb90397f35f3f4ba2c04"
 baixado_em: "2026-10-30"
 ---
 
@@ -37,9 +37,7 @@ alinhamento da Av. Theodureto de Almeida Camargo; 24,50m em curva nos fundos pel
 
 alinhamento da Av. Theodureto de Almeida Camargo; 18,50m em curva nos fundos pelo alinhamento da Rua Gil Vicente; 42,50m lateralmente à esquerda, onde divisa com os lotes 8 e 32; 40,00m lateralmente à direita onde divisa com o lote 6, com 672,00m² de área, avaliado em Cr$ 30.240,00 (trinta mil, duzentos e quarenta cruzeiros).
 
-3. O lote 8 da Quadra 46 do Jardim Nossa Senhora Auxiliadora, quarteirão
-
-alinhamento da Av. Theodureto de Almeida Camargo; 17,00m nos fundos onde confronta com o lote 32; 35,00m lateralmente à esquerda onde divisa com o lote 9; 35,50m lateralmente à direita onde divisa com o lote 7, com 587,00m² de área, avaliado em Cr$ 26.415,00 (vinte e seis mil, quatrocentos e quinze cruzeiros).
+3. O lote 8 da Quadra 46 do Jardim Nossa Senhora Auxiliadora, quarteirão 821 do Cadastro Municipal, medindo: 15,50m de frente em curva pelo alinhamento da Av. Theodureto de Almeida Camargo; 17,00m nos fundos onde confronta com o lote 32; 35,00m lateralmente à esquerda onde divisa com o lote 9; 35,50m lateralmente à direita onde divisa com o lote 7, com 587,00m² de área, avaliado em Cr$ 26.415,00 (vinte e seis mil, quatrocentos e quinze cruzeiros).
 
 4. O lote 9 da Quadra 46 do Jardim Nossa Senhora Auxiliadora, quarteirão 821 do Cadastro Municipal, medindo: 15,50m em curva de frente para a Av. Theodureto de Almeida Camargo; 17,80m nos fundos onde confronta com os lotes 31 e 32; 35,00m lateralmente à esquerda onde divisa com a passagem para pedestres; 35,00m lateralmente à direita onde divisa com o lote 8, com 583,00m² de área, avaliado em Cr$ 26.235,00 (vinte e seis mil, duzentos e trinta e cinco cruzeiros).
 

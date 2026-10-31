@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; \n"
 fonte: "https://sapl.campinas.sp.leg.br/norma/26389"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1988/26389/26389_texto_integral.pdf"
 sha256_fonte: "92619f67ec3f06913435f46183b145a1265bbd4ce28c3691a412df76b5b196b9"
-sha256_texto: "83683fc2b3d9465e74d9ea5305c4312f354c7785777680b0ff3a93a6ae5e6def"
+sha256_texto: "67dddf319dbc35c19f37206ee1bbb48edfc4e49e37d94331b05867ab832a5811"
 baixado_em: "2026-10-30"
 ---
 
@@ -35,13 +35,13 @@ IV – Rua “CARLOS ALBERTO ALVES CARVALHO PINTO” a atual rua 1 do Jardim Nov
 
 V – Rua “JERONYMO VILLARINHO” a atual rua 26 do loteamento Jardim Lisa, com início na rua 22 e término na rua 11 do mesmo loteamento.
 
-VI – Rua “HELENA DE CAMARGO PEREIRA” a atual rua 20 do Núcleo Habitacional Lech
+VI – Rua “HELENA DE CAMARGO PEREIRA” a atual rua 20 do Núcleo Habitacional Lech Walesa (DIC IV), com início na rua 1 e término na rua 2 do mesmo loteamento.
 
 VII – Rua “MARIO PRUNES” a atual rua 5 do Jardim Indianópolis, com início na Rua Waldemar José Strazzacapa e término na Rua João Batista Alves da Silva Telles.
 
 VIII – Rua “MAURO ROBERTO DOS SANTOS” a atual rua 122 do Conjunto Habitacional Padre Anchieta, com início na Rua Nossa Senhora do Amparo e término na Rua Papa São Fabião.
 
-IX – Rua “DEUSDETE MARTINS GOMES” a atual rua 2 do Jardim Novo Barão Geraldo, no Distrito de Barão Geraldo, com início na avenida 1 e término na divisa do mesmo
+IX – Rua “DEUSDETE MARTINS GOMES” a atual rua 2 do Jardim Novo Barão Geraldo, no Distrito de Barão Geraldo, com início na avenida 1 e término na divisa do mesmo loteamento.
 
 X – Rua “ALCIDES ROSINI DUARTE DA CONCEIÇÃO” a atual rua 3 do Jardim Novo Barão Geraldo, no Distrito de Barão Geraldo, com início na avenida 1 do mesmo loteamento e término na Rua Catharina Signori Vicentin.
 
@@ -49,21 +49,21 @@ XI – Rua “GIOCONDO DIAS” a atual rua 18 do Conjunto Habitacional Lech Wale
 
 XII – Rua “JANDIRA SAMPAIO DE ALMEIDA PRADO” a parte da atual rua 1 da Cidade Universitária Campineira e rua 6 do Jardim Novo Barão Geraldo, no Distrito de Barão Geraldo, com início na Rua Eng.º Edward de Vita Godoy e término na avenida 1 do Jardim Novo Barão Geraldo.
 
-XIII – Rua “ALFREDO PIETROSANTO” a atual rua 5 das Chácaras Belvedère, no Distrito de Barão Geraldo, com início no caminho nº 3 e término no caminho nº 2 do mesmo
+XIII – Rua “ALFREDO PIETROSANTO” a atual rua 5 das Chácaras Belvedère, no Distrito de Barão Geraldo, com início no caminho nº 3 e término no caminho nº 2 do mesmo loteamento.
 
-XIV – Rua “ARISTIDES DE GODOY GOMES” a atual rua 19 do Núcleo Habitacional Lech
+XIV – Rua “ARISTIDES DE GODOY GOMES” a atual rua 19 do Núcleo Habitacional Lech Walesa (DIC IV), com início na rua 1 e término na rua 2 do mesmo loteamento.
 
 XV – Rua “DR. PAULO ANDRADE NOGUEIRA”a atual rua 15 do Núcleo Habitacional Lech Walesa (DIC IV), com início na rua 12 e término na rua 6 do mesmo loteamento.
 
 XVI – Rua “GASTÃO TEPEDINO” a atual rua 2 do Jardim Monte Líbano, com início na Rua Achilles Brasil e término no ramo A do mesmo loteamento.
 
-XVII – Rua “OLÉZIO DE ARRUDA CAMARGO” as atuais ruas 13 e 9 do Conjunto Habitacional Lech Walesa (DIC IV), com início na rua 12 e término na rua 15 do mesmo
+XVII – Rua “OLÉZIO DE ARRUDA CAMARGO” as atuais ruas 13 e 9 do Conjunto Habitacional Lech Walesa (DIC IV), com início na rua 12 e término na rua 15 do mesmo loteamento.
 
 XVIII – Rua “JARBAS DE CARVALHO ASBAHR” a atual rua 4 do Parque dos Pomares, com início na rua 2 e término na divisa norte do mesmo loteamento.
 
 XIX – Rua “IONE AZEVEDO DE BARROS CAMARGO” o atual caminho 14 do loteamento Chácaras Belvedère, no Distrito de Barão Geraldo, com início no caminho 16 e término no caminho 1 do mesmo loteamento.
 
-XX – Rua “SÉRGIO RICARDO BARBOSA SENA” a atual rua 13 do loteamento Real Parque, no Distrito de Barão Geraldo, com início na rua 2 e término na rua 9 do mesmo
+XX – Rua “SÉRGIO RICARDO BARBOSA SENA” a atual rua 13 do loteamento Real Parque, no Distrito de Barão Geraldo, com início na rua 2 e término na rua 9 do mesmo loteamento.
 
 XXI – Rua “ARMANDO SEGALLIO” a atual rua 14 do loteamento Jardim Lisa, com início na rua 30 e término na rua 26 do mesmo loteamento.
 

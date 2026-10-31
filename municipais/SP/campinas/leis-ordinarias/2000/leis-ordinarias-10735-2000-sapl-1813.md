@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: EXECUTIVO MUNI
 fonte: "https://sapl.campinas.sp.leg.br/norma/1813"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2000/1813/1813_texto_integral.pdf"
 sha256_fonte: "a238b5a4c0f332d98d8d6065e420fef08bd338968a0c65cca2dda2e9437d93f8"
-sha256_texto: "c1887aed340b773813a409284d26dd7c8f74a04d5e24c823ac435ef625d4a69e"
+sha256_texto: "ad06335d177b9d10f29515c75308db376899cee57b98b9592141c3dec4c70429"
 baixado_em: "2026-10-22"
 ---
 
@@ -43,9 +43,7 @@ a) em até 12 (doze) parcelas mensais iguais, não podendo o valor de cada uma d
 
 b) de 13 (treze) até 24 (vinte e quatro) parcelas mensais iguais, não podendo o valor de cada uma delas ser inferior a 35 (trinta e cinco) UFIR (Unidade Fiscal de Referência), vencendo-se a primeira no ato da formalização do acordo, e as demais nos meses subseqüentes, com acréscimo de 2% (dois por cento) em cada parcela a título de custo financeiro;
 
-c) de 25 (vinte e cinco) até 36 (trinta e seis) parcelas mensais iguais, não podendo o valor de
-
-a primeira no ato da formalização do acordo e as demais nos meses subseqüentes, com acréscimo de 3% (três por cento) em cada parcela a título de custo financeiro;
+c) de 25 (vinte e cinco) até 36 (trinta e seis) parcelas mensais iguais, não podendo o valor de cada uma delas ser inferior a 35 (trinta e cinco) UFIR (Unidade Fiscal de Referência), vencendo-se a primeira no ato da formalização do acordo e as demais nos meses subseqüentes, com acréscimo de 3% (três por cento) em cada parcela a título de custo financeiro;
 
 d) de 37 (trinta e sete) até 48 (quarenta e oito) parcelas mensais iguais, não podendo o valor de
 

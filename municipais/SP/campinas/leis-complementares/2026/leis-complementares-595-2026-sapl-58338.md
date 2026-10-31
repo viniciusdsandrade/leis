@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/58338"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58338/lei_complementar_no_595_-_2026.pdf"
 sha256_fonte: "26bbfca4ff5d4c3215d4bd4ad0130e355a8e6039c536af12a4f105afd26551d4"
-sha256_texto: "7285d8d33e0ae283c54dbfaa32788514cfd5c949d758638ca687ed6d3f6c52dd"
+sha256_texto: "d344e42c16316ff36c360e086a59f3494a1b65d5c6803ec5445f46caac5deff4"
 baixado_em: "2026-10-21"
 ---
 
@@ -31,13 +31,9 @@ V - empreendimentos de obras novas, ampliações e regularizações para as tipo
 
 a) na ZR, ZM1, ZM1-A-BG, ZM1-B-BG e ZM1-C-BG, para edificações com área construída não habitacional total maior ou igual a 1.500,00m² (mil e quinhentos metros quadrados) ou 50% (cinquenta por cento) da área construída não habitacional aprovada originalmente, desde que o total geral não habitacional seja maior ou igual a 1.500,00m² (mil e quinhentos metros quadrados);
 
-b) na ZM2, para edificações com área construída não habitacional total maior ou igual a 2.500,00m² (dois mil e quinhentos metros quadrados) ou 50% (cinquenta por
+b) na ZM2, para edificações com área construída não habitacional total maior ou igual a 2.500,00m² (dois mil e quinhentos metros quadrados) ou 50% (cinquenta por cento) da área construída não habitacional aprovada originalmente, desde que o total geral não habitacional seja maior ou igual a 2.500,00m² (dois mil e quinhentos metros quadrados);
 
-total geral não habitacional seja maior ou igual a 2.500,00m² (dois mil e quinhentos metros quadrados);
-
-c) na ZM4, ZC2 e ZC4, para edificações com área construída não habitacional total maior ou igual a 5.000,00m² (cinco mil metros quadrados) ou 50% (cinquenta por
-
-total geral não habitacional seja maior ou igual a 5.000,00m² (cinco mil metros quadrados); ........................................................................" (NR)
+c) na ZM4, ZC2 e ZC4, para edificações com área construída não habitacional total maior ou igual a 5.000,00m² (cinco mil metros quadrados) ou 50% (cinquenta por cento) da área construída não habitacional aprovada originalmente, desde que o total geral não habitacional seja maior ou igual a 5.000,00m² (cinco mil metros quadrados); ........................................................................" (NR)
 
 **Art. 2º** Esta Lei Complementar entra em vigor na data de sua publicação.
 

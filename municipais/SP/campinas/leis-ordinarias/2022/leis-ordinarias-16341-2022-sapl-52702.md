@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/52702"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/52702/52702_texto_integral.pdf"
 sha256_fonte: "8c5569b35c76dee5a4256dc9421cf62dbb48d820fe2d677896d9a966e63e819c"
-sha256_texto: "936438a452b040a8073a9e49c55307df04fbe4da6e555e80097e76ae497e1039"
+sha256_texto: "111187f9aa840007e5646647e411649583dda747c07553e3ba1d9319e191e323"
 baixado_em: "2026-10-21"
 ---
 
@@ -23,7 +23,7 @@ Altera a Lei nº 16.175, de 22 de dezembro de 2021, que institui o Fundo Municip
 
 O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
 
-**Art. 1º** Fica alterada a ementa da Lei nº 16.175, de 22 de dezembro de 2021, que passa a vigorar com a
+**Art. 1º** Fica alterada a ementa da Lei nº 16.175, de 22 de dezembro de 2021, que passa a vigorar com a seguinte redação:
 
 "Institui o Fundo Municipal de Investimento - FMI." (NR)
 
@@ -35,7 +35,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 "Art. 2º Os recursos do FMI serão destinados à realização de investimentos necessários à dinamização e apoio ao desenvolvimento do município de Campinas." (NR)
 
-**Art. 4º** Ficam alterados o caput e o § 2º do art. 3º da Lei nº 16.175, de 2021, que passa a vigorar com a
+**Art. 4º** Ficam alterados o caput e o § 2º do art. 3º da Lei nº 16.175, de 2021, que passa a vigorar com a seguinte redação:
 
 "Art. 3º O FMI será constituído por recursos provenientes de:
 
@@ -43,7 +43,7 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **§ 2º** O saldo financeiro do FMI, apurado em balanço anual, será transferido para o exercício seguinte." (NR)
 
-**Art. 5º** Ficam alterados o caput e o § 1º do art. 4º da Lei nº 16.175, de 2021, que passa a vigorar com a
+**Art. 5º** Ficam alterados o caput e o § 1º do art. 4º da Lei nº 16.175, de 2021, que passa a vigorar com a seguinte redação:
 
 "Art. 4º Fica constituído o Conselho do Fundo Municipal de Investimento - FMI, composto pelos titulares e respectivos suplentes dos seguintes órgãos:
 

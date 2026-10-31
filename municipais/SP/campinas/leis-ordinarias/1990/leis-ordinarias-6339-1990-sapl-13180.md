@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/13180"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1990/13180/13180_texto_integral.pdf"
 sha256_fonte: "f4c4c67d348d938646a60c2983c01574c9c5f2bbc5d3e5a3277aeac20c5ecba4"
-sha256_texto: "a1c75faf38ae6b43a32132bf5d1e6385e8d6aa6c91740376d7573ba39d39a31d"
+sha256_texto: "890790d239ed663e1ac6986e34834398789c8acad8c30e95de490891a9e2190d"
 baixado_em: "2026-10-30"
 ---
 
@@ -26,6 +26,8 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 **Artigo 1°** ­ Os 773 (setecentos e setenta e três) empregos vagos e abaixo relacionados, criados pela Lei n° 5.767, de 16 de janeiro de 1987, ficam transformados em cargos públicos, igualmente denominados e remunerados, transpostas as atribuições, jornada, carreira e demais requisitos legais:
 
 I – Família Ocupacional Operacional:
+
+Nomenclatura Quantidade
 
 a) carpinteiro 05
 
@@ -51,6 +53,8 @@ Subtotal 104
 
 II – Família Ocupacional Administrativa
 
+Nomenclatura Quantidade
+
 a) Assistente Administrativo 85
 
 b) Auxiliar de Enfermagem 262
@@ -66,6 +70,8 @@ f) Desenhista Projetista 04
 g) Técnico em Contabilidade 06 Subtotal 366
 
 III – Família Ocupacional Universitária
+
+Nomenclatura Quantidade
 
 a) Agente Cultural 09
 

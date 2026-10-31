@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/58392"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2026/58392/lei_no_16.944-2026.pdf"
 sha256_fonte: "b744ae6d669bfb1511f10ea07fafb7e763d4306c541353faf3eb518c03a5daf7"
-sha256_texto: "91704b7ec19e5d806cec2ebec34c288724b1b9c3391dd416c7b71f47d45f82f3"
+sha256_texto: "3bb740de475f66396846fd0e87379abed3b75ca42627e8e7b108cbc87e7058df"
 baixado_em: "2026-10-22"
 ---
 
@@ -29,13 +29,13 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 I - estimular a contratação de trabalhadores com cinquenta anos ou mais por empresas, entidades públicas e entidades privadas com sede ou atuação no município;
 
-II - criar e manter um cadastro único para auxiliar na intermediação entre trabalhadores com cinquenta anos ou mais e as vagas disponíveis no mercado de trabalho, bem como para registrar atividades de trabalhadores autônomos com
+II - criar e manter um cadastro único para auxiliar na intermediação entre trabalhadores com cinquenta anos ou mais e as vagas disponíveis no mercado de trabalho, bem como para registrar atividades de trabalhadores autônomos com cinquenta anos ou mais;
 
 III - promover cursos de formação, capacitação e reciclagem profissional para pessoas com cinquenta anos ou mais;
 
 IV - realizar campanhas de conscientização para redução do preconceito etário no mercado de trabalho;
 
-V - incentivar atividades voluntárias e projetos sociais que envolvam o público com
+V - incentivar atividades voluntárias e projetos sociais que envolvam o público com cinquenta anos ou mais;
 
 VI - estimular a participação de pessoas com cinquenta anos ou mais em concursos públicos e em outros processos seletivos.
 
@@ -49,7 +49,7 @@ VI - estimular a participação de pessoas com cinquenta anos ou mais em concurs
 
 I - cadastro de empresas interessadas em contratar pessoas com cinquenta anos ou mais;
 
-II - divulgação de vagas disponíveis e cursos de capacitação para pessoas com
+II - divulgação de vagas disponíveis e cursos de capacitação para pessoas com cinquenta anos ou mais;
 
 III - cadastro de pessoas com cinquenta anos ou mais interessadas em se recolocar no mercado de trabalho.
 

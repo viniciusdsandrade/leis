@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/43182"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2017/43182/43182_texto_integral.pdf"
 sha256_fonte: "78bc7bb4fae08d2f66780c51613c1f6b911cb2ad4fdab061acc61a386a998646"
-sha256_texto: "96eea9db3b82729e04d5d65ab46e74466c7842e2d30d50bf81968835b575b000"
+sha256_texto: "23af90e2a64c5a02a3eb274f80062f28d4b05041144a9fd7f13ea400280243c0"
 baixado_em: "2026-10-21"
 ---
 
@@ -31,17 +31,13 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **§ 1º** - Decorrido o prazo de que trata o caput deste artigo sem a utilização do Certificado de Potencial Construtivo decorrente do Tombamento - CPC-T, o proprietário do imóvel tombado poderá requerê-lo novamente por igual período, sucessivas vezes, enquanto não utilizado, observando-se todos os trâmites para a emissão de novo certificado, inclusive o zoneamento vigente à época do novo pedido. ...........................................” (NR)
 
-**Art. 3º** - Fica acrescido o art. 8º-A à Lei Complementar nº 28, de 03 de
-
-“Art. 8º-A - O Certificado de Potencial Construtivo decorrente do Tombamento – CPC-T transferido, a qualquer título, pelo proprietário do imóvel tombado não terá prazo de validade, podendo ser utilizado a qualquer tempo pelo adquirente.
+**Art. 3º** - Fica acrescido o art. 8º-A à Lei Complementar nº 28, de 03 de setembro de 2009, com a seguinte redação: “Art. 8º-A - O Certificado de Potencial Construtivo decorrente do Tombamento – CPC-T transferido, a qualquer título, pelo proprietário do imóvel tombado não terá prazo de validade, podendo ser utilizado a qualquer tempo pelo adquirente.
 
 **Parágrafo único** - O Certificado de Potencial Construtivo decorrente de transferência parcial deverá respeitar somente quanto à parcela não transferida o prazo de validade estipulado no caput do art. 8º, o qual poderá ser renovado nos termos do seu § 1º.”
 
 **Art. 4º** - Fica alterado o caput do art. 9º da Lei Complementar nº 28, de 03 de setembro de 2009, que passa a vigorar com a seguinte redação: “Art. 9º - O Certificado de Potencial Construtivo decorrente do Tombamento - CPC-T não transferido, a qualquer título, pelo proprietário do imóvel tombado perderá automaticamente sua validade no caso de dano irreparável do bem, correspondente à perda do valor histórico, artístico ou arquitetônico do imóvel tombado. ...............................................................” (NR)
 
-**Art. 5º** - Fica acrescido o art. 14-A à Lei Complementar nº 28, de 03 de
-
-“Art. 14-A - Ao proprietário do Certificado de Potencial Construtivo decorrente do Tombamento - CPC-T, bem como àqueles que vierem a adquiri-lo, total ou parcialmente, ficam asseguradas as condições legais da data em que ele foi emitido pelo Município de Campinas.”
+**Art. 5º** - Fica acrescido o art. 14-A à Lei Complementar nº 28, de 03 de setembro de 2009, com a seguinte redação: “Art. 14-A - Ao proprietário do Certificado de Potencial Construtivo decorrente do Tombamento - CPC-T, bem como àqueles que vierem a adquiri-lo, total ou parcialmente, ficam asseguradas as condições legais da data em que ele foi emitido pelo Município de Campinas.”
 
 **Art. 6º** - Fica alterado o ANEXO II da Lei Complementar nº 28, de 03 de setembro de 2009, que passa a vigorar com a seguinte redação:
 

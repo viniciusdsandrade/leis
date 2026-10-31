@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; OS ANEXOS NÃO FORAM PU
 fonte: "https://sapl.campinas.sp.leg.br/norma/18494"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1980/18494/18494_texto_integral.pdf"
 sha256_fonte: "3318334467f7cbbe298ba8477d1472c58dd532f7cb2b6a346197327e8c5bac8a"
-sha256_texto: "7bbc84afbf583cba15c7b0f2c4cc8af876c6c13de390d52ca332dbe48410486c"
+sha256_texto: "3a2ffe52ada02a5150e0eb47334f0a833aa95585e335906b7ca6c1fd3cd92b65"
 baixado_em: "2026-10-30"
 ---
 
@@ -26,6 +26,8 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 **Art.1º** O Orçamento-Programa Geral do Município de Campinas, para o exercício financeiro de 1981, discriminado pelos anexos integrantes desta Lei, estima a RECEITA e fixa a Despesa em Cr$6.141.033.00,00 (seis bilhões cento e quarenta e um milhões e três mil cruzeiros).
 
 **Art.2º** A Receita será realizada mediante a arrecadação dos tributos e outras contribuições correntes e de capital, na forma da legislação vigente e das especificações constantes do Anexo nº 02 e de acordo com o seguinte desdobramento:
+
+ADMINISTRAÇÃO DIRETA
 
 RECEITAS CORRENTES Cr$ Cr$
 
@@ -53,6 +55,8 @@ OUTRAS RECEITAS DE CAPITAL ……………… 7.181.000,00 406.785.000,00
 
 TOTAL: …………………………………… 5.686.034.000,00
 
+ADMINISTRAÇÃO INDIRETA
+
 RECEITAS CORRENTES ………………………. Cr$ 437.737.000,00
 
 RECEITAS DE CAPITAL ……………………….. Cr$ 17.232.000,00
@@ -64,6 +68,8 @@ TOTAL GERAL DA RECEITA: ………………… Cr$ 6.141.003,00
 **Art.3º** A Despesa será realizada na forma dos quadros analíticos e de acordo com o seguinte desdobramento:
 
 DESPESA POR ÓRGÃO DE GOVERNO
+
+ADMINISTRAÇÃO DIRETA
 
 01. Câmara Municipal de Campinas ………………………...……..…… Cr$ 98.000.000,00
 
@@ -91,11 +97,15 @@ DESPESA POR ÓRGÃO DE GOVERNO
 
 5.686.034.000,00
 
+ADMINISTRAÇÃO INDIRETA
+
 Despesa dos Órgãos da Administração Indireta ………………………... 464.969.000,00
 
 TOTAL GERAL DA DESPESA: ……………………………………………….…. 6.141.003.000,00
 
 DESPESA POR FUNÇÃO DE GOVERNO
+
+ADMINISTRAÇÃO DIRETA
 
 01. Legislativa …………………………………………………………………...….. Cr$ 88.000.000,00
 
@@ -112,6 +122,8 @@ DESPESA POR FUNÇÃO DE GOVERNO
 16. Transporte …………………………………………………………….... Cr$ 18.063.000,00
 
 Cr$ 5.686.034.000,00
+
+ADMINISTRAÇÃO INDIRETA
 
 11. Indústria, Comércio e Serviços ………………………………...… Cr$ 210.300.000,00
 

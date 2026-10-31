@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/46437"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2018/46437/46437_texto_integral.pdf"
 sha256_fonte: "dc42714dd4cc469766ea6ada6ffc42c433a403773a0b36c218ca2372543660cc"
-sha256_texto: "16ecc2fd02944fcb971187c57d8306e934aa590c4b29c14ee0807611e40976de"
+sha256_texto: "0e349ac965cb46561fdbe6f8751c45e6c66c5bf21533b37fc2dcf640be03a8c6"
 baixado_em: "2026-10-30"
 ---
 
@@ -27,21 +27,35 @@ O PRESIDENTE DA CÂMARA MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municip
 
 "Art. 235 ..............................................................
 
+...............................................................................
+
 **§ 1º** .......................................................................
 
+...............................................................................
+
 III - ser servidor efetivo de órgão ou entidade do município de Campinas-SP
+
+..............................................................................." (NR)
 
 **Art. 2º** Fica alterado o inciso VII do art. 3º da Resolução nº 900, de 3 de junho de 2015, que passa a vigorar com a seguinte redação:
 
 "Art. 3º...................................................................
 
+...............................................................................
+
 VII - 66 (sessenta e seis) cargos de Assessor de Apoio Político-Institucional do Gabinete;
+
+..............................................................................." (NR)
 
 **Art. 3º** Fica alterado o inciso VII do art. 4º da Resolução nº 900, de 2015, que passa a vigorar com a seguinte redação:
 
 "Art. 4º...................................................................
 
+...............................................................................
+
 VII - Assessor de Apoio Político-Institucional do Gabinete: assessorar o vereador em suas relações político-institucionais no âmbito do município de Campinas e de toda sua região metropolitana, bem como com as organizações da sociedade civil;
+
+..............................................................................." (NR)
 
 **Art. 4º** Esta Resolução entra em vigor na data de sua publicação.
 

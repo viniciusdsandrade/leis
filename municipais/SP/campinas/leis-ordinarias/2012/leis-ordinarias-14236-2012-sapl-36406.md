@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR PETTE
 fonte: "https://sapl.campinas.sp.leg.br/norma/36406"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2012/36406/36406_texto_integral.pdf"
 sha256_fonte: "10b26c26c6acb0c7b4654f8f1cf3d7fc9beff0699c57f0b1b0890aaa62cc9dc6"
-sha256_texto: "14d1de5115324e0e88ce5c1312e8fd3d229f597d1a6a5d9ae56e637d71122c77"
+sha256_texto: "fed1e0bc3bad6987860356f14eafd9e174029eb21ae727f9233e36262ab104cb"
 baixado_em: "2026-10-21"
 ---
 
@@ -19,7 +19,7 @@ baixado_em: "2026-10-21"
 
 LEI N. 14.236 DE 05 DE ABRIL DE 2012
 
-ENTIDADES ASSISTENCIAIS
+PROÍBE, NO MUNICÍPIO DE CAMPINAS, A PRÁTICA DE ATOS QUE CONSTITUEM PERIGO OU OBSTÁCULO PARA O TRÂNSITO, EM VIAS URBANAS, SINALIZADAS POR SEMÁFORO OU NÃO, E DISPÕE SOBRE O ENCAMINHAMENTO DE POPULAÇÃO DE RUA E PESSOAS CARENTES, QUE ESTEJAM PRATICANDO TAIS ATOS ÀS COMPETENTES ENTIDADES ASSISTENCIAIS
 
 A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e promulgo a seguinte lei:
 
@@ -71,7 +71,7 @@ PUBLICADO VETO NO D.O.M. DE 15/05/2012
 
 LEI N.14.236 DE 05 DE ABRIL DE 2012
 
-ENTIDADES ASSISTENCIAIS.
+PROÍBE, NO MUNICÍPIO DE CAMPINAS, A PRÁTICA DE ATOS QUE CONSTITUEM PERIGO OU OBSTÁCULO PARA O TRÂNSITO, EM VIAS URBANAS, SINALIZADAS POR SEMÁFORO OU NÃO, E DISPÕE SOBRE O ENCAMINHAMENTO DE POPULAÇÃO DE RUA E PESSOAS CARENTES, QUE ESTEJAM PRATICANDO TAIS ATOS ÀS COMPETENTES ENTIDADES ASSISTENCIAIS.
 
 A Câmara Municipal aprovou e eu, seu Presidente, Thiago Ferrari, promulgo nos termos do §5º do Art. 51 da Lei Orgânica do Município o inciso I do art. 1º e os art. 4º, 5º, 6º e 10 da Lei 14.236, de 05 de abril de 2012:
 

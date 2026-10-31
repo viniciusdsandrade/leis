@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/12234"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1987/12234/12234_texto_integral.pdf"
 sha256_fonte: "231ed3574d2e757accae493c20e95a28bdf52c7e5bf78f88f6332f35a3d16e1c"
-sha256_texto: "38bf177e2115b30bd59f55d5266761674f7c40026f13e93c736ca7f82e75f6cf"
+sha256_texto: "6326f5072600da5dd650cd97a7ebb90f172ad37fbc3a08eeb226a7a191b6d011"
 baixado_em: "2026-10-30"
 ---
 
@@ -33,13 +33,13 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 **§ 2°** ­ Os recebimentos que a Caixa Econômica Federal e/ou Banco do Estado de São Paulo em conformidade com o previsto neste artigo, independentemente de qualquer autorização expressa, serão feitas mediante as simples apresentação, aos órgãos competentes, dos recibos e/ou faturas que serão havidos como comprovantes suficientes de divida e certa decorrente dos empréstimos concedidos.
 
-**§ 3°** ­ Os poderes previstos neste artigo só poderão ser exercidos pelos mandatários na hipótese de o Governo Municipal deixar de efetuar, no vencimento, o pagamento das obrigações assumidas nos contratos de empréstimos firmados em decorrência
+**§ 3°** ­ Os poderes previstos neste artigo só poderão ser exercidos pelos mandatários na hipótese de o Governo Municipal deixar de efetuar, no vencimento, o pagamento das obrigações assumidas nos contratos de empréstimos firmados em decorrência desta lei.
 
 **Artigo 4°** ­ Para o empréstimo realizado de conformidade com a presente lei, o Poder Executivo fará incluir nas propostas orçamentárias anuais, inclusive as relativas ao Orçamento Plurianual de Investimento, dotações suficientes à cobertura de todos os encargos, e abrirá credito suplementar ate o montante suficiente para atender as obrigações financeiras contratualmente estabelecidas.
 
 **Artigo 5°** ­ Fica o Poder Executivo autorizado, também, a firmar contratos, aditivos e outros instrumentos públicos ou particulares necessário à formalização do empréstimo e à outorga das garantias de que trata a presente lei.
 
-**Artigo 6°** ­ Na forma do disposto nos artigos 42 e 43 da Lei Federal n° ­ 4.320, de 17 de março de 1.964, o Poder Executivo fica autorizado a abrir um credito adicional especial ate o montante de 5.264.027,3113 (cinco milhões, duzentos e sessenta e quatro mil, zero vinte e sete inteiros, três mil cento e treze décimos de milésimo) OTNs, equivalente nesta data a Cz$ 956.000.000,00 (novecentos e cinqüenta e seis milhões de cruzados), destinado a atender as despesas decorrentes da execução
+**Artigo 6°** ­ Na forma do disposto nos artigos 42 e 43 da Lei Federal n° ­ 4.320, de 17 de março de 1.964, o Poder Executivo fica autorizado a abrir um credito adicional especial ate o montante de 5.264.027,3113 (cinco milhões, duzentos e sessenta e quatro mil, zero vinte e sete inteiros, três mil cento e treze décimos de milésimo) OTNs, equivalente nesta data a Cz$ 956.000.000,00 (novecentos e cinqüenta e seis milhões de cruzados), destinado a atender as despesas decorrentes da execução desta lei.
 
 **Artigo 7°** ­ O valor do credito adicional especial a que se refere o artigo anterior será coberto com recursos financeiros provenientes do empréstimo autorizado pela presente lei.
 

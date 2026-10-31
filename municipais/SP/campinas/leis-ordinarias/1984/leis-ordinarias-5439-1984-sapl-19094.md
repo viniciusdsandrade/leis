@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/19094"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1984/19094/19094_texto_integral.pdf"
 sha256_fonte: "01fd4002d882e37b4ca85b2bc51d1240db66464b7018bf6e854fae2caa36a9d4"
-sha256_texto: "4d8573153035fe38f8d7786ca0cb4b12d8a0a3534e533359bb50917352f04adc"
+sha256_texto: "7776c77a356a617f6486bd021a77edb5fd64d908b4f5a328b55d9a99aa23e1e6"
 baixado_em: "2026-10-30"
 ---
 
@@ -25,17 +25,11 @@ A Câmara Municipal aprovou e eu, Prefeito do Município de Campinas, sanciono e
 
 Artigo 1º- Na forma do disposto pelos artigos 42 e 43 da Lei Federal n.o. 4.320, de 17 de março de 1.964, fica a Caixa de Assistência e Previdência dos Servidores da Câmara Municipal de Campinas autorizada a abrir um Crédito Adicional Especial até o limite de Cr$ 10.000.000,00 (dez milhões de cruzeiros), para o atendimento de despesas com Pessoal Civil, Obrigações Patronais e Salário Família, conforme consignação no Orçamento vigente das seguintes dotações:
 
-11 Diretoria Administrativa
-
-3110.00 Pessoal 3111.00 Pessoal Civil 6.500.000, 00 3113.00 Obrigações Patronais 3.400.000,00 3200.00 Transferências Correntes 3250.00 Transferências a Pessoas 3253.00 Salário Família 100.000,00 Total do adicional 10.000.000,00
+11 Diretoria Administrativa 15 Assistência e Previdência 07 Administração 0210 Administração Geral 0212.02.3000.00 Despesas Correntes 3100.00 Despesas de Custeio 3110.00 Pessoal 3111.00 Pessoal Civil 6.500.000, 00 3113.00 Obrigações Patronais 3.400.000,00 3200.00 Transferências Correntes 3250.00 Transferências a Pessoas 3253.00 Salário Família 100.000,00 Total do adicional 10.000.000,00
 
 **Artigo 2º** - O crédito autorizado no artigo anterior, será coberto com os recursos provenientes de anulação parcial das dotações orçamentárias vigentes, abaixo discriminadas:
 
-11 Diretoria administrativa
-
-3130.00 Serviços de Terceiros e Encargos 3131.00 Remuneração de Serviços Pessoais 6.000.000,00 60 Financiamentos
-
-0200 Supervisão e Coordenação Superior 0202.05.4000.00 Despesas de Capital 4100.00 Investimentos 4200.00 Inversões Financeiras 4210.00 Aquisição de Imóveis 4.000.000,00
+11 Diretoria administrativa 15 Assistência e Previdência 07 Administração 0210 Administração Geral 0212.02.3000.00 Despesas Correntes 3100.00 Despesas de Custeio 3130.00 Serviços de Terceiros e Encargos 3131.00 Remuneração de Serviços Pessoais 6.000.000,00 60 Financiamentos 15 Assistência e Previdência 07 Administração 0200 Supervisão e Coordenação Superior 0202.05.4000.00 Despesas de Capital 4100.00 Investimentos 4200.00 Inversões Financeiras 4210.00 Aquisição de Imóveis 4.000.000,00
 
 Total da anulação 10.000.000,00
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/52634"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2022/52634/52634_texto_integral.pdf"
 sha256_fonte: "8d7199c826d78db4610228e35d7ad7240f7070f442b8241f4fb62adb5fb11f9a"
-sha256_texto: "14578761e9bf0d7fdf43c13cf1c7afdfd96a9fb35a04f7c780693622b27c0079"
+sha256_texto: "b12a1f5655a98eeac6c9c7cbe7e0233e13da4af639ff30d8ed00676bfb6692e5"
 baixado_em: "2026-10-21"
 ---
 
@@ -33,7 +33,7 @@ IV - remanescentes da Praça VI do loteamento Jardim do Lago, Quarteirão 2952, 
 
 Praça 4 do loteamento Jardim Eulina - 1ª Parte, Quarteirão 3228, com as seguintes medidas, confrontações e área: 33,62m de frente, pelo alinhamento da Rua Martin Luther King Junior, deflete à esquerda por 80,00m em curva de raio de 55,08m, fazendo a concordância da citada rua com a Rua Dr. Rocha Novaes; do lado direito, 43,00m, confrontando com o remanescente da Praça 4; do lado esquerdo, 36,50m, confrontando com a Quarta Parte (objeto da Matrícula 24.796 - 2º CRI), deflete à esquerda e segue em linha reta por 43,25m, deflete à direita e segue em linha reta por 25,50m, confrontando com a Sétima Parte; e, de fundo, 40,00m em curva de raio de 166,78m, pelo alinhamento da Rua Hermano Ribeiro da Silva, encerrando a área de 4.140,00m²; tudo conforme os elementos da Certidão Gráfica A2-0541; VI - lote 1B do Quarteirão 1058, com as seguintes medidas, confrontações e área: 64,93m de frente, pelo alinhamento da Rua José Paulino; do lado direito, 24,56m, pelo alinhamento da Rua Ferreira Penteado, deflete à direita e segue em linha reta por 38,75m, deflete à esquerda e segue em linha reta por 46,56m, confrontando com o lote 1A; 4,22m em chanfro, fazendo a concordância entre as citadas ruas; do lado esquerdo, 37,30m, deflete à direita e segue em linha reta por 0,61m, deflete à esquerda e segue em linha reta por 37,22m, confrontando com os lotes 3 e 4; e, de fundo, 31,59m, pelo alinhamento da Rua Regente Feijó, encerrando a área de 3.413,80m²; tudo conforme os elementos da Certidão Gráfica A1-300.” (NR)
 
-**Art. 2º** Fica alterado o caput do art. 2º da Lei Complementar nº 267, de 2020, que passa a vigorar com a
+**Art. 2º** Fica alterado o caput do art. 2º da Lei Complementar nº 267, de 2020, que passa a vigorar com a seguinte redação:
 
 “Art. 2º Fica o Poder Público municipal autorizado a ceder o uso ao Governo do Estado de São Paulo, pelo prazo de 50 (cinquenta) anos, da área descrita no inciso I do art. 1º, para a regularização da 5ª Cia. do 47º Batalhão da Polícia Militar do Interior do Estado de São Paulo, e das áreas descritas nos incisos II, III, IV, V e VI do art. 1º, para fins de regularização das unidades do 7º Grupamento de Bombeiros.” (NR)
 
@@ -45,7 +45,7 @@ Praça 4 do loteamento Jardim Eulina - 1ª Parte, Quarteirão 3228, com as segui
 
 “Art. 6º A formalização da cessão será efetivada pela Procuradoria Geral do Município.” (NR)
 
-**Art. 5º** Fica alterado o caput do art. 7º da Lei Complementar nº 267, de 2020, que passa a vigorar com a
+**Art. 5º** Fica alterado o caput do art. 7º da Lei Complementar nº 267, de 2020, que passa a vigorar com a seguinte redação:
 
 “Art. 7º A cessão de uso prevista nesta Lei Complementar poderá ser revogada a qualquer tempo, se ocorrer desvio de finalidade ou descumprimento das condições estabelecidas pelo Cedente, ou, ainda, quando o interesse público assim o exigir …………………………………” (NR)
 

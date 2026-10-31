@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/54506"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54506/lei_complementar_no_454-_29_-02-2024.pdf"
 sha256_fonte: "fd85e988e416ba650a937926e012dad2c1b27330bd62b066a9f863c090a08bee"
-sha256_texto: "92c7ca90b460b9fc42367296929171b89bcf7bcc39749c948156a01b6fef3240"
+sha256_texto: "bcf175d217821456d751fa722873d1bef7747aea6d20d46ab787e1e4cf16ca06"
 baixado_em: "2026-10-21"
 ---
 
@@ -35,15 +35,11 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 “Art. 5º....................................
 
-a) Trecho 01: faixa de viela sanitária entre os lotes 37 e 38, na passagem de
-
-de viela sanitária e olha em direção à Rua Dr. Ponciano Cabral, medindo 3,00m de comprimento na lateral direita, confrontando com o Lote 38; medindo 3,00m de comprimento nos fundos, confrontando com o Trecho 02 da passagem de pedestres; medindo 3,00m de comprimento na lateral esquerda, confrontando com o Lote 37; e medindo 3,00m de comprimento na frente,
+a) Trecho 01: faixa de viela sanitária entre os lotes 37 e 38, na passagem de pedestres do Quarteirão 2666, Quadra BB, na Vila Nogueira, com largura total de 3,00m, considerando-se que o observador se encontra situado sobre a faixa de viela sanitária e olha em direção à Rua Dr. Ponciano Cabral, medindo 3,00m de comprimento na lateral direita, confrontando com o Lote 38; medindo 3,00m de comprimento nos fundos, confrontando com o Trecho 02 da passagem de pedestres; medindo 3,00m de comprimento na lateral esquerda, confrontando com o Lote 37; e medindo 3,00m de comprimento na frente,
 
 confrontando com a própria passagem de pedestre, totalizando uma área de 9,00m²;
 
-b) Trecho 02: faixa de viela sanitária entre os lotes 21 e 22, na passagem de
-
-de viela sanitária e olha em direção à Rua Cândido Portinari, medindo 30,00m de comprimento na lateral direita, confrontando com o Lote 22; medindo 3,00m de comprimento nos fundos, confrontando com o Trecho 01 da passagem de pedestres; medindo 30,00m de comprimento na lateral esquerda, confrontando com o Lote 21; e medindo 3,00m de comprimento na frente, confrontando com a Rua Cândido Portinari, totalizando uma área de 90,00m².” (NR)
+b) Trecho 02: faixa de viela sanitária entre os lotes 21 e 22, na passagem de pedestres do Quarteirão 2666, Quadra BB, na Vila Nogueira, com largura total de 3,00m, considerando-se que o observador se encontra situado sobre a faixa de viela sanitária e olha em direção à Rua Cândido Portinari, medindo 30,00m de comprimento na lateral direita, confrontando com o Lote 22; medindo 3,00m de comprimento nos fundos, confrontando com o Trecho 01 da passagem de pedestres; medindo 30,00m de comprimento na lateral esquerda, confrontando com o Lote 21; e medindo 3,00m de comprimento na frente, confrontando com a Rua Cândido Portinari, totalizando uma área de 90,00m².” (NR)
 
 **Art. 3º** Ficam revogadas as disposições em contrário.
 

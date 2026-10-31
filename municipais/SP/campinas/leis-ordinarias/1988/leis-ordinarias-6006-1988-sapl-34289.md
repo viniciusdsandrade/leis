@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/34289"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1988/34289/34289_texto_integral.pdf"
 sha256_fonte: "848c17acb459609595610f27810144a7c0866d0c36ea6138c2562b527a4dd5cd"
-sha256_texto: "e982752c981df1ed438987d9e5b6140e33eb50693856a57932a91525ae6a6a41"
+sha256_texto: "0748ae9d12f2a419ac7f32073e609440f3ef201cb840dad4e99729aa609db1e3"
 baixado_em: "2026-10-30"
 ---
 
@@ -35,7 +35,7 @@ IV – Avenida “VALENTINA DE MELLO E SILVA”, a Avenida 4 do Jardim Nossa Sen
 
 V – Rua “PROFESSOR DR. OTTÍLIO GUERNELLI”, a Rua 35 do Jardim Lisa – 1ª parte, com início à Rua 8 do mesmo loteamento e término à Rua 33 do Jardim Lisa – 1ª parte;
 
-VI – Rua “ROCCO MILLESOLI”, a Rua 12 do Jardim Santa Terezinha, com início na divisa do loteamento Santa Terezinha com Jardim Canadá e término na divisa do mesmo
+VI – Rua “ROCCO MILLESOLI”, a Rua 12 do Jardim Santa Terezinha, com início na divisa do loteamento Santa Terezinha com Jardim Canadá e término na divisa do mesmo loteamento;
 
 VII – Rua “WASHINGTON LINCOLN CLAUDINO GOMES”, a Rua 5 do Jardim Morumbi, com início na divisa do mesmo loteamento e término na divisa do loteamento do Jardim Aires da Costa;
 
@@ -63,7 +63,7 @@ XVIII – Praça “ADELMAR TAVARES”, a Praça sem denominação do bairro do 
 
 XIX – Rua “BEATRIZ PACHECO POMPÊO DE CAMARGO”, a Rua 51A do Jardim Novo Campos Elíseos – 4ª parte, com início à Rua Bragança Paulista e término à Rua Itatiba, do mesmo loteamento;
 
-XX – Rua “JOSÉ PARANHOS DE SIQUEIRA”, a Rua 6 da Vila Manoel Ferreira, com início à Rua Professor Carlos C. Zink e término na Av. Cecília Samir Zarur no mesmo
+XX – Rua “JOSÉ PARANHOS DE SIQUEIRA”, a Rua 6 da Vila Manoel Ferreira, com início à Rua Professor Carlos C. Zink e término na Av. Cecília Samir Zarur no mesmo loteamento;
 
 XXI – Rua “JOVELINO APARECIDO MIGUEL”, a Rua 35 do Jardim do Lago – continuação, com início na Rua 37, ao lado da Praça 18 e término na Rua 37, ao lado da Praça 17 do mesmo loteamento;
 

@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: PREFEITURA MUN
 fonte: "https://sapl.campinas.sp.leg.br/norma/37862"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2013/37862/37862_texto_integral.pdf"
 sha256_fonte: "ecd1e75b5f8722e302d56dec7c11f1017e8982e826dcd84af7ffe430538fbdaf"
-sha256_texto: "aebc77074b622485ec448ed7c2964cf14de027d5e2b85cfc5235998f60724aec"
+sha256_texto: "12a98ae111c0b17458fa4814148f460e87757541fc75559cd8c8e194d4ca50a3"
 baixado_em: "2026-10-21"
 ---
 
@@ -35,9 +35,7 @@ II - sobre a transmissão de bens ou direitos em decorrência de desincorporaç�
 
 **§ 4º** - A isenção prevista no inciso VII e § 1º deste artigo estende-se à primeira transmissão do imóvel aos beneficiários dos programas habitacionais populares vinculados ao Programa Federal “Minha Casa, Minha Vida”, à Companhia de Desenvolvimento Habitacional Urbano do Estado de São Paulo - CDHU e à Companhia de Habitação Popular – COHAB - Campinas.” (NR)
 
-**Art. 3º** Fica acrescido o art. 6ºA à Lei nº 12.391, de 20 de outubro de 2005, que passa a
-
-“Art. 6ºA - São isentas do imposto as cessões de direitos decorrentes de compromisso de venda e compra de imóvel em construção, com destinação exclusivamente residencial, quando não constar bem imóvel no patrimônio em comum do contribuinte e do seu respectivo cônjuge.” (NR)
+**Art. 3º** Fica acrescido o art. 6ºA à Lei nº 12.391, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 6ºA - São isentas do imposto as cessões de direitos decorrentes de compromisso de venda e compra de imóvel em construção, com destinação exclusivamente residencial, quando não constar bem imóvel no patrimônio em comum do contribuinte e do seu respectivo cônjuge.” (NR)
 
 **Art. 4º** Fica acrescido o inciso V ao art. 7º da Lei nº 12.391, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação:
 
@@ -65,9 +63,7 @@ III - revogado.
 
 **Parágrafo único.** Revogado.” (NR)
 
-**Art. 7º** Fica alterado o art. 12 da Lei nº 12.391, de 20 de outubro de 2005, que passa a
-
-“Art. 12. O valor do imposto será calculado pela aplicação da alíquota de 2% (dois por cento) sobre a base de cálculo.” (NR)
+**Art. 7º** Fica alterado o art. 12 da Lei nº 12.391, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 12. O valor do imposto será calculado pela aplicação da alíquota de 2% (dois por cento) sobre a base de cálculo.” (NR)
 
 **Art. 8º** Fica acrescida a alínea “j” ao inciso II do art. 14 da Lei nº 12.391, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 14. .............................. .............................................
 
@@ -81,9 +77,7 @@ IV - a prestar informações, relativas aos imóveis para os quais houve lavratu
 
 V - verificar a exatidão e a suprir as eventuais omissões dos elementos de identificação do contribuinte e do imóvel transacionado no documento de arrecadação, nos atos em que intervierem. ...............................”(NR)
 
-**Art. 10.** Fica acrescido o art. 17A à Lei nº 12.391, de 20 de outubro de 2005, que passa a
-
-“Art. 17A. Fica criada a Declaração de Transações Imobiliárias do Município (DTIM), que deverá ser entregue pelos notários, oficiais de Registro de Imóveis ou seus prepostos, cujo formato, prazos e condições serão estabelecidos em normas regulamentadoras.” (NR)
+**Art. 10.** Fica acrescido o art. 17A à Lei nº 12.391, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 17A. Fica criada a Declaração de Transações Imobiliárias do Município (DTIM), que deverá ser entregue pelos notários, oficiais de Registro de Imóveis ou seus prepostos, cujo formato, prazos e condições serão estabelecidos em normas regulamentadoras.” (NR)
 
 **Art. 11.** Ficam alterados os incisos I e II e acrescidos os incisos VI, VII, VIII, IX e X ao art. 19 da Lei nº 12.391, de 20 de outubro de 2005, que passa a vigorar com a seguinte redação: “Art. 19. ..............................
 

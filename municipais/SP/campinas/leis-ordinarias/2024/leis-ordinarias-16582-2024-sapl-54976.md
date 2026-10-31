@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; "
 fonte: "https://sapl.campinas.sp.leg.br/norma/54976"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2024/54976/lei_no_16.582-2024.pdf"
 sha256_fonte: "46be405b334c933f17dfd0fa857d23896d4425e7f6eb9a662d4f3cd921001c21"
-sha256_texto: "636d79c57665c613812b2d406afd6b42c25ec3b92a2a611d3fd72da1a0fad9b1"
+sha256_texto: "bd9c40c916249d78415b7f243806b99a99c83c1e2c3c26fdf5dfa1155a5483ef"
 baixado_em: "2026-10-21"
 ---
 
@@ -25,11 +25,11 @@ O PREFEITO MUNICIPAL DE CAMPINAS. Faço saber que a Câmara Municipal aprovou e 
 
 **Art. 1º** O Conselho Municipal de Trânsito e Transporte, criado pela Lei nº 11.833, de 19 de dezembro de 2003, fica renomeado para Conselho Municipal de Mobilidade Urbana.
 
-**Art. 2º** Fica alterado o art. 1º da Lei nº 11.833, de 2003, que passa a vigorar
+**Art. 2º** Fica alterado o art. 1º da Lei nº 11.833, de 2003, que passa a vigorar com a seguinte redação:
 
 “Art. 1º Fica criado o Conselho Municipal de Mobilidade Urbana de Campinas, órgão de controle social da gestão das políticas de mobilidade do Município, com caráter consultivo, fiscalizador e deliberativo, respeitados os aspectos legais de sua competência.” (NR)
 
-**Art. 3º** Fica alterado o art. 3º da Lei nº 11.833, de 2003, que passa a vigorar
+**Art. 3º** Fica alterado o art. 3º da Lei nº 11.833, de 2003, que passa a vigorar com a seguinte redação:
 
 “Art. 3º São competências do Conselho Municipal de Mobilidade Urbana de Campinas:
 
@@ -53,7 +53,7 @@ XI - convocar a Conferência Municipal de Mobilidade Urbana a cada três anos;
 
 XIII - garantir a gestão democrática e a participação popular na proposição de diretrizes destinadas ao planejamento e à aplicação dos recursos orçamentários destinados à melhoria da modalidade urbana.” (NR)
 
-**Art. 4º** Fica alterado o art. 4º da Lei nº 11.833, de 2003, que passa a vigorar
+**Art. 4º** Fica alterado o art. 4º da Lei nº 11.833, de 2003, que passa a vigorar com a seguinte redação:
 
 “Art. 4º O Conselho Municipal de Mobilidade Urbana de Campinas será composto, de maneira tripartite, de 30 (trinta) membros titulares e igual número de suplentes, assim distribuídos:
 
@@ -107,11 +107,11 @@ j) 1 (um) representante de entidades estudantis.
 
 .....................................................................” (NR)
 
-**Art. 5º** Fica alterado o art. 6º da Lei nº 11.833, de 2003, que passa a vigorar
+**Art. 5º** Fica alterado o art. 6º da Lei nº 11.833, de 2003, que passa a vigorar com a seguinte redação:
 
 “Art. 6º Os conselheiros não receberão remuneração pelas suas atividades, sendo a sua função considerada de relevante interesse público. .....................................................................” (NR)
 
-**Art. 6º** Fica alterado o art. 7º da Lei nº 11.833, de 2003, que passa a vigorar
+**Art. 6º** Fica alterado o art. 7º da Lei nº 11.833, de 2003, que passa a vigorar com a seguinte redação:
 
 “Art. 7º O Conselho Municipal de Mobilidade Urbana de Campinas será composto de Comissões Regionais, uma para cada região administrativa do município.
 
@@ -119,7 +119,7 @@ j) 1 (um) representante de entidades estudantis.
 
 **Parágrafo único.** O Conselho poderá constituir outras comissões e subcomissões, nos termos do seu regimento interno, respeitado o inciso VIII do art. 3º desta Lei.” (NR)
 
-**Art. 7º** Fica alterado o art. 8º da Lei nº 11.833, de 2003, que passa a vigorar
+**Art. 7º** Fica alterado o art. 8º da Lei nº 11.833, de 2003, que passa a vigorar com a seguinte redação:
 
 “Art. 8º O Conselho se reunirá ordinariamente a cada dois meses e extraordinariamente a qualquer tempo.
 
@@ -139,11 +139,11 @@ j) 1 (um) representante de entidades estudantis.
 
 .....................................................................” (NR)
 
-**Art. 10.** Fica alterado o art. 11 da Lei nº 11.833, de 2003, que passa a vigorar
+**Art. 10.** Fica alterado o art. 11 da Lei nº 11.833, de 2003, que passa a vigorar com a seguinte redação:
 
 “Art. 11. As Conferências Municipais de Mobilidade Urbana serão realizadas no município de Campinas a cada três anos, sempre no mês de maio, integrando as atividades do Maio Amarelo, instituído pela Lei nº 14.863, de 25 de julho de 2014. .....................................................................” (NR)
 
-**Art. 11.** Fica alterado o art. 12 da Lei nº 11.833, de 2003, que passa a vigorar
+**Art. 11.** Fica alterado o art. 12 da Lei nº 11.833, de 2003, que passa a vigorar com a seguinte redação:
 
 “Art. 12. A Secretaria Municipal de Transportes e a Empresa Municipal de Desenvolvimento de Campinas S/A - EMDEC deverão garantir todo o suporte operacional e material ao Conselho, inclusive com dotação orçamentária específica.” (NR)
 
