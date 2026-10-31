@@ -11,7 +11,7 @@ versao_texto: "texto integral anexado no SAPL municipal; AUTORIA: VEREADOR PAULO
 fonte: "https://sapl.campinas.sp.leg.br/norma/9339"
 fonte_texto: "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/2006/9339/9339_texto_integral.pdf"
 sha256_fonte: "4b270a4dd0020f1cf23d5c92ad247912044520dea3862c76cb5836ab2421d430"
-sha256_texto: "5c9a71a3b7bb31c412f23f6d519c1c04ffca9c150c3437c004062dba4a781cf8"
+sha256_texto: "612c51e3c5e5baac0b5ec2c77261440bf06d6e90b4a02d196cc64c3d5341061f"
 baixado_em: "2026-10-30"
 ---
 
@@ -21,23 +21,25 @@ Publicada no Diário Oficial do Município de Campinas em 27/09/2006
 
 Ver segunda publicação abaixo.
 
-**Art. 1º** - Fica concedido o Diploma de Mérito Médico Dr. Roberto Maia Rocha Brito a ROGÉRIO
+DECRETO LEGISLATIVO Nº. 2.509 DE 26 DE SETEMBRO DE 2006
 
-**Art. 2º** - Ao homenageado será entregue diploma em conformidade com o disposto no art. 17
+**Art. 1º** - Fica concedido o Diploma de Mérito Médico Dr. Roberto Maia Rocha Brito a ROGÉRIO ZAVALONI MELOTTI, pelos relevantes serviços realizados no campo da medicina prestados no município de Campinas.
 
-**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por
+**Art. 2º** - Ao homenageado será entregue diploma em conformidade com o disposto no art. 17 da Resolução nº. 717, de 16 de dezembro de 1999.
 
-**Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação.
+**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta das verbas próprias da Secretaria da Câmara Municipal, consignadas no orçamento, suplementadas se necessário.
+
+**Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação. Campinas, 26 de Setembro de 2006 DÁRIO SAADI Presidente AUTORIA: VEREADOR PAULO OYA
 
 Publicada no Diário Oficial do Município de Campinas em 29/09/2006
 
 Publicado novamente por ter saído com incorreção.
 
-**Art. 1º** - Fica concedido o Diploma de Mérito Médico Dr. Roberto Maia Rocha Brito a MARCELO
+**Art. 1º** - Fica concedido o Diploma de Mérito Médico Dr. Roberto Maia Rocha Brito a MARCELO ZAVALONI MELOTTI, pelos relevantes serviços realizados no campo da medicina prestados no município de Campinas.
 
-**Art. 2º** - Ao homenageado será entregue diploma em conformidade com o disposto no art. 17
+**Art. 2º** - Ao homenageado será entregue diploma em conformidade com o disposto no art. 17 da Resolução nº. 717, de 16 de dezembro de 1999.
 
-**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por
+**Art. 3º** - As despesas decorrentes do cumprimento deste Decreto Legislativo correrão por conta das verbas próprias da Secretaria da Câmara Municipal, consignadas no orçamento, suplementadas se necessário.
 
-**Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação.
+**Art. 4º** - Este Decreto Legislativo entra em vigor na data de sua publicação. Campinas, 26 de Setembro de 2006 DÁRIO SAADI Presidente AUTORIA: VEREADOR PAULO OYA
 
