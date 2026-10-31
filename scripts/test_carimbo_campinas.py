@@ -260,6 +260,12 @@ class CabecalhoDePagina(unittest.TestCase):
         par = "- 5 % sobre o valor -"
         self.assertEqual(limpar_carimbo_campinas("\n\n".join([LEI, par]))[0], "\n\n".join([LEI, par]))
 
+    def test_aviso_reproduzido_sem_data_sai(self):
+        corpo, notas = limpar_carimbo_campinas("\n\n".join([
+            "Texto para consulta, reproduzido conforme a publicação no Diário Oficial do Município", LEI]))
+        self.assertEqual(corpo, LEI)
+        self.assertEqual(notas, ["cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial do Município"])
+
     def test_aviso_colado_ao_fim_da_assinatura_sai(self):
         fim = "a) DR. SALVADOR SCARPELLI Chefe do Gabinete"
         corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, fim + " Texto somente para consulta, sem valor legal."]))
