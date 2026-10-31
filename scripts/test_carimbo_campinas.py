@@ -186,6 +186,19 @@ class CabecalhoDePagina(unittest.TestCase):
         ruim = "Texto somente para consulta. Não substitui o publicado n iário Oficial do Município de Campinas em 6 de janeiro de 202: 28.13"
         self.assertEqual(limpar_carimbo_campinas("\n\n".join([LEI, ruim]))[0], "\n\n".join([LEI, ruim]))
 
+    def test_cabecalho_do_diario_oficial_no_meio_da_frase_sai(self):
+        par = ("XII - implantar via, com largura de 15,00m, no CAM 050 - Estrada dos Gonçalves, Campinas, segunda-feira, "
+               "24 de setembro de 2012 Diário Oficial do Município de Campinas 5 interligando a Estrada do Campo Grande")
+        corpo, notas = limpar_carimbo_campinas("\n\n".join([LEI, par]))
+        self.assertEqual(corpo, "\n\n".join([LEI, "XII - implantar via, com largura de 15,00m, no CAM 050 - Estrada dos Gonçalves, "
+                                                   "interligando a Estrada do Campo Grande"]))
+        self.assertEqual(notas, [])
+        # 2020: com a ligadura "ﬁ"; sozinho no parágrafo, a frase da folha anterior continua na seguinte
+        corpo, _ = limpar_carimbo_campinas("\n\n".join([
+            "a ser apurado com base", "Campinas, quarta-feira, 30 de dezembro de 2020 Diário Oﬁcial do Município de Campinas 3",
+            "no desempenho individual do servidor."]))
+        self.assertEqual(corpo, "a ser apurado com base no desempenho individual do servidor.")
+
     def test_aviso_do_diario_oficial_da_camara_com_na(self):
         corpo, notas = limpar_carimbo_campinas("\n\n".join([
             LEI, "Texto somente para consulta. Não substitui o publicado na Diário Oficial da Câmara Municipal de Campinas em 29 de outubro de 2026"]))

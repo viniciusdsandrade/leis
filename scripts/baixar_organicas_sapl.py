@@ -223,6 +223,10 @@ AVISO_COMPILADO_PMC_CAMPINAS = re.compile(r"Texto somente para consulta, sem val
 PAGINA_CAMPINAS = re.compile(
     r"CÂMARA MUNICIPAL DE CAMPINAS(?: \d+/\d*)?"
     r"|(?:\d+ )?Diário Oficial do Município de Campinas(?: Campinas, \w+-feira, \d{1,2} de \w+ de \d{4})?(?: \d+)?(?: PREF[EI]TURA MUNICIPAL DE CAMPINAS)?")
+# Texto tirado do Diário Oficial em PDF: o cabeçalho corrente da folha seguinte ("Campinas, segunda-feira,
+# 24 de setembro de 2012 Diário Oficial do Município de Campinas 5") cai no meio da frase que passa de folha
+CABECALHO_DOM_NA_FRASE_CAMPINAS = re.compile(
+    r"\s*Campinas, \w+-feira, \d{1,2} de \w+ de \d{4} Diário O(?:ﬁ|fi)cial do Município de Campinas \d+(?:\s+|$)")
 # com o rodapé tirado como linha repetida, o cabeçalho com contador se cola ao que vem depois na mesma folha
 # ("CÂMARA MUNICIPAL DE CAMPINAS 1/18 Publicada no Diário Oficial..."); sem o contador, não há como distinguir do texto
 PAGINA_NO_INICIO_CAMPINAS = re.compile(r"CÂMARA MUNICIPAL DE CAMPINAS \d+/\d* (?=\S)")
@@ -275,6 +279,11 @@ def limpar_carimbo_campinas(corpo):
     paragrafos = corpo.replace("\u200b", "").replace("\r\n", "\n").replace("\r", "\n").split("\n\n")
     contadores = contadores_de_folha(paragrafos)
     for i, par in enumerate(paragrafos):
+        if CABECALHO_DOM_NA_FRASE_CAMPINAS.search(par):
+            par = CABECALHO_DOM_NA_FRASE_CAMPINAS.sub(" ", par).strip()
+            if not par:
+                quebra_de_pagina = True
+                continue
         plano = re.sub(r"\s+", " ", par).strip()
         capa = CARIMBO_CAMPINAS[0].match(plano)
         if capa:  # a capa pode vir fundida com o aviso no mesmo parágrafo
