@@ -194,11 +194,11 @@ AVISO_CONSULTA_SO_CAMPINAS = re.compile(r"Texto para consulta\.?")
 AVISO_REPRODUZIDO_DOCM_CAMPINAS = re.compile(
     r"Texto para consulta, reproduzido conforme (?:a )?publicação (?:no|do) Diário Oficial da Câmara Municipal de Campinas,? em \d{1,2}º? de \w+ ?de \d{4}")
 # família geral do aviso de consulta (decretos legislativos de 2021 a 2026): "(re)publicado/(re)publicação",
-# "no/na", edição extra(ordinária) e o Diário Oficial do Município, da Câmara ou do Legislativo; só depois
-# das variantes acima, para não mudar as notas que elas já dão
+# "no/na" (que falta em decretos de 2022), edição extra(ordinária) e o Diário Oficial do Município, da Câmara
+# ou do Legislativo; só depois das variantes acima, para não mudar as notas que elas já dão
 AVISO_CONSULTA_FAMILIA_CAMPINAS = re.compile(
     r"Texto (?:somente )?para consulta[.,] (?P<forma>Não substitui o (?P<re1>re)?publicado|reproduzido conforme (?:a )?(?P<re2>re)?publicação) "
-    r"n[oa] (?:Edição Extra(?:ordinária)? do )?Diário Oficial (?P<orgao>do Município(?: de Campinas)?|da Câmara(?: Municipal)? de Campinas|do Legislativo),? "
+    r"(?:n[oa] )?(?:Edição Extra(?:ordinária)? do )?Diário Oficial (?P<orgao>do Município(?: de Campinas)?|da Câmara(?: Municipal)? de Campinas|do Legislativo),? "
     r"em ?\d{1,2}º? de \w+ ?de \d{4}")
 
 

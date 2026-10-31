@@ -165,6 +165,8 @@ class CabecalhoDePagina(unittest.TestCase):
                 "cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal",
             "Texto somente para consulta. Não substitui o publicado no Diário Oficial da Câmara Municipal de Campinas em4 de setembro de 2023":
                 "cópia de consulta da Câmara, não substitui o Diário Oficial da Câmara Municipal",
+            "Texto somente para consulta. Não substitui o publicado Diário Oficial do Município de Campinas em 21 de outubro de 2022":
+                "cópia de consulta da Câmara, não substitui o Diário Oficial do Município",
             "Texto para consulta, reproduzido conforme a publicação no Diário Oficial da Câmara de Campinas em 27 de junho de 2022":
                 "cópia de consulta da Câmara, reproduzida conforme a publicação no Diário Oficial da Câmara Municipal",
             "Texto para consulta, reproduzido conforme a publicação no Diário Oficial do Legislativo em 7 de março de 2022":
