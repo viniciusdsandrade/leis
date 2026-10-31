@@ -307,19 +307,41 @@ def extrair_texto(bruto, url="", content_type=""):
 # Preposições e artigos nunca fecham um dispositivo; "e"/"ou" ficam de fora porque terminam incisos.
 # Letra isolada só em minúscula: "ANEXO A" seguido de "ANEXO B" não é uma frase partida.
 FIM_CONECTIVO = re.compile(r"\s(?:a|à|o)$|\s(?i:ao|as|os|da|de|do|das|dos|na|no|nas|nos|em|com|pela|pelo)$")
+EPIGRAFE_LINHA = re.compile(
+    r"^(?:LEI|DECRETO|RESOLU[ÇC][ÃA]O|PORTARIA|EMENDA|ATO|DELIBERA[ÇC][ÃA]O|INSTRU[ÇC][ÃA]O)\b.{0,40}?\bN",
+    re.I,
+)
 
 
-def texto_pdf_para_md(texto):
+def texto_pdf_para_md(texto, topo=8, pe=5):
     """Reconstrói parágrafos de texto extraído de PDF e marca artigos/títulos."""
-    # cabeçalhos/rodapés: linhas que se repetem em mais da metade das páginas
-    paginas = [p for p in texto.split("\f") if p.strip()]
+    # cabeçalhos/rodapés: linhas nas bordas que se repetem em mais da metade das páginas
+    paginas = [p.split("\n") for p in texto.split("\f")]
+    cheias = [p for p in paginas if any(x.strip() for x in p)]
+    bordas = []
+    for p in paginas:
+        idx = [i for i, x in enumerate(p) if x.strip()]
+        bordas.append(set(idx[:topo] + idx[-pe:]))
     repetidas = set()
-    if len(paginas) >= 2:
-        freq = collections.Counter(ln for p in paginas for ln in {re.sub(r"\s+", " ", x).strip() for x in p.split("\n")} if ln)
-        repetidas = {ln for ln, c in freq.items() if c > len(paginas) / 2 and not re.match(r"^(Art|§)", ln)}
+    if len(cheias) >= 2:
+        freq = collections.Counter(
+            ln for p, b in zip(paginas, bordas) for ln in {re.sub(r"\s+", " ", p[i]).strip() for i in b} if ln
+        )
+        repetidas = {ln for ln, c in freq.items() if c > len(cheias) / 2 and not re.match(r"^(Art|§)", ln)}
     # fios decorativos (____ ou ----); as reticências de emendas ("Art. 5º .....") ficam
-    linhas = [re.sub(r"_{5,}|[-–—=]{8,}", " ", ln).strip() for ln in texto.replace("\f", "\n").split("\n")]
-    linhas = ["" if re.sub(r"\s+", " ", ln) in repetidas or re.fullmatch(r"\d{1,3}", ln) else ln for ln in linhas]
+    linhas, vistas = [], set()
+    for p, b in zip(paginas, bordas):
+        for i, ln in enumerate(p):
+            ln = re.sub(r"_{5,}|[-–—=]{8,}", " ", ln).strip()
+            n = re.sub(r"\s+", " ", ln)
+            if i in b and n in repetidas:
+                if EPIGRAFE_LINHA.match(n) and n not in vistas:
+                    vistas.add(n)
+                else:
+                    ln = ""
+            elif re.fullmatch(r"\d{1,3}", ln):
+                ln = ""
+            linhas.append(ln)
     paras, atual = [], []
     inicio_bloco = re.compile(
         r"^(Art\.? ?\d|§ ?\d|Parágrafo único|[IVXLC]+ ?[-–—]|[a-z]\) |TÍTULO|CAPÍTULO|SEÇÃO|SUBSEÇÃO|LIVRO|ANEXO|"
