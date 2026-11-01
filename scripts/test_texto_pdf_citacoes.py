@@ -60,5 +60,27 @@ class CabecalhosERodapesBorda(unittest.TestCase):
         self.assertEqual(corpo.count("Dotação orçamentária 01.02.03"), 2)
 
 
+class RotacaoDasPaginas(unittest.TestCase):
+    """Scanner em paisagem grava a página com /Rotate 90: o OCR tem que ler a página girada como o leitor a vê."""
+    PDF = (b"%%PDF-1.4\n1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj\n"
+           b"2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj\n"
+           b"3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] %s >> endobj\n"
+           b"trailer << /Root 1 0 R >>\n%%%%EOF\n")
+
+    def test_pdfinfo_informa_a_rotacao_de_cada_pagina(self):
+        import os
+        import shutil
+        import tempfile
+        from comum import rotacao_das_paginas
+        if not shutil.which("pdfinfo"):
+            self.skipTest("pdfinfo ausente")
+        with tempfile.TemporaryDirectory() as tmp:
+            for rotate, esperado in ((b"/Rotate 90", [90]), (b"", [0])):
+                pdf = os.path.join(tmp, "a.pdf")
+                with open(pdf, "wb") as f:
+                    f.write(self.PDF % rotate)
+                self.assertEqual(rotacao_das_paginas(pdf), esperado)
+
+
 if __name__ == "__main__":
     unittest.main()
