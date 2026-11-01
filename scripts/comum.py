@@ -411,6 +411,27 @@ def ocr_pdf_tesseract(bruto):
         return "\f".join(paginas)
 
 
+def rotacao_das_paginas(pdf):
+    """Ângulo /Rotate de cada página, lido do pdfinfo; lista vazia sem o pdfinfo."""
+    if not shutil.which("pdfinfo"):
+        return []
+    r = subprocess.run(["pdfinfo", "-f", "1", "-l", "99999", pdf], capture_output=True, timeout=120)
+    return [int(x) for x in re.findall(r"^Page\s+\d+\s+rot:\s+(\d+)", r.stdout.decode("utf-8", "replace"), re.M)]
+
+
+def ocr_vision_por_pagina(pdf, tmp):
+    """Páginas giradas (/Rotate 90, scanners em paisagem): o Vision lê o PDF sem aplicar a rotação e perde ou
+    embaralha o texto; o pdftoppm aplica, então cada página vai como imagem. Páginas separadas por \f, como no pdftotext."""
+    r = subprocess.run(["pdftoppm", "-png", "-r", "300", pdf, os.path.join(tmp, "p")], capture_output=True, timeout=600)
+    if r.returncode != 0:
+        return ""
+    paginas = []
+    for nome in sorted(n for n in os.listdir(tmp) if n.startswith("p") and n.endswith(".png")):
+        r = subprocess.run([OCR_BIN, os.path.join(tmp, nome)], capture_output=True, timeout=600)
+        paginas.append(r.stdout.decode("utf-8", "replace"))
+    return "\f".join(paginas)
+
+
 def ocr_pdf(bruto):
     """OCR com o Vision do macOS (scripts/bin/ocr) ou Tesseract no Linux."""
     texto = ""
@@ -419,8 +440,11 @@ def ocr_pdf(bruto):
             pdf = os.path.join(tmp, "a.pdf")
             with open(pdf, "wb") as f:
                 f.write(bruto)
-            r = subprocess.run([OCR_BIN, pdf], capture_output=True, timeout=1800)
-            texto = r.stdout.decode("utf-8", "replace")
+            if any(rotacao_das_paginas(pdf)) and shutil.which("pdftoppm"):
+                texto = ocr_vision_por_pagina(pdf, tmp)
+            else:
+                r = subprocess.run([OCR_BIN, pdf], capture_output=True, timeout=1800)
+                texto = r.stdout.decode("utf-8", "replace")
             if len(re.sub(r"\W", "", texto)) >= 80:
                 return texto
     # sem Tesseract, o pouco que o Vision leu continua valendo, como antes do fallback

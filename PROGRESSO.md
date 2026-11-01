@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 01/11/2026 18:34:29 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 01/11/2026 18:45:55 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.279.281 documentos · 1.158.946 / ~11.768.799 nas séries com meta (9.8%) · 17.972 sem meta**
+**1.279.447 documentos · 1.159.054 / ~11.768.799 nas séries com meta (9.8%) · 18.030 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -291,11 +291,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 5.571 municípios no cadastro do IBGE, sem índice legislativo central.
 
-114.098 documentos · 102.679 / ~10.332.713 nas séries com meta (1.0%) · 11.419 sem meta
+114.264 documentos · 102.787 / ~10.332.713 nas séries com meta (1.0%) · 11.477 sem meta
 
 ### Legislação municipal
 
-114.098 documentos · 102.679 / ~10.332.713 nas séries com meta (1.0%) · 11.419 sem meta
+114.264 documentos · 102.787 / ~10.332.713 nas séries com meta (1.0%) · 11.477 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -303,10 +303,10 @@ Diários oficiais e portais de órgãos e tribunais.
 | 🟦 | Planos diretores | 11 | 5.571 | `municipais/*/*/plano-diretor` | portais municipais |
 | 🟦 | Códigos tributários municipais | 11 | 5.571 | `municipais/*/*/codigo-tributario` | portais municipais |
 | 🟦 | Códigos de obras, posturas e zoneamento | 11 | 16.000 | `municipais/*/*/codigos` | portais municipais |
-| 🟦 | Leis ordinárias e complementares municipais (27 capitais primeiro) | 55.659 | 8.300.000 | `municipais/*/*/leis-ordinarias`, `municipais/*/*/leis-complementares` | Câmaras municipais |
-| — | Decretos legislativos municipais | 7.385 | desconhecida | `municipais/*/*/decretos-legislativos` | SAPL/Interlegis; universo nacional ainda desconhecido |
-| — | Resoluções municipais | 4.034 | desconhecida | `municipais/*/*/resolucoes` | SAPL/Interlegis; universo nacional ainda desconhecido |
-| 🟦 | Decretos municipais | 44.621 | 2.000.000 | `municipais/*/*/decretos` | prefeituras e diários oficiais |
+| 🟦 | Leis ordinárias e complementares municipais (27 capitais primeiro) | 55.698 | 8.300.000 | `municipais/*/*/leis-ordinarias`, `municipais/*/*/leis-complementares` | Câmaras municipais |
+| — | Decretos legislativos municipais | 7.441 | desconhecida | `municipais/*/*/decretos-legislativos` | SAPL/Interlegis; universo nacional ainda desconhecido |
+| — | Resoluções municipais | 4.036 | desconhecida | `municipais/*/*/resolucoes` | SAPL/Interlegis; universo nacional ainda desconhecido |
+| 🟦 | Decretos municipais | 44.690 | 2.000.000 | `municipais/*/*/decretos` | prefeituras e diários oficiais |
 
 ---
 
@@ -334,9 +334,9 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
-| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
 | `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
+| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |

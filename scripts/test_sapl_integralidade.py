@@ -5,7 +5,8 @@ import hashlib
 import json
 import tempfile
 
-from baixar_organicas_sapl import categoria_norma, corpo_integral_reconhecivel, data_diverge_do_ano, motivo_retencao
+from baixar_organicas_sapl import (categoria_norma, corpo_integral_reconhecivel, data_da_epigrafe, data_diverge_do_ano,
+                                   motivo_retencao, titulo_com_data)
 from comum import documento_para_md
 
 
@@ -61,6 +62,37 @@ class IntegralidadeSAPLTest(unittest.TestCase):
         # sem publicação para confirmar, não há como saber qual campo está errado
         self.assertFalse(data_diverge_do_ano({'data': '2002-03-14', 'ano': 2003, 'data_publicacao': None}))
         self.assertFalse(data_diverge_do_ano({'data': '', 'ano': 1990}))
+
+    def test_rotulo_do_primeiro_artigo_com_erro_de_digitacao(self):
+        self.assertTrue(corpo_integral_reconhecivel("DECRETA:\n\nArti. 1º Fica aberto um crédito."))
+        self.assertTrue(corpo_integral_reconhecivel("DECRETA:\n\nArt . 1° Ficam revalidadas."))
+        self.assertFalse(corpo_integral_reconhecivel("DECRETA:\n\n**Artigo 2º** - O Crédito aberto pelo artigo anterior."))
+
+    def test_ocr_le_artigo_1_como_19_so_depois_da_formula_de_promulgacao(self):
+        ocr = "> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\n"
+        base = (ocr + "DECRETO LEGISLATIVO N° 304 DE 11 DE NOVEMBRO DE 1991 CONCEDE A MEDALHA\n\n"
+                "A Câmara Municipal aprovou e eu, seu Presidente, promulgo o seguinte Decreto Legislativo:\n\n")
+        self.assertTrue(corpo_integral_reconhecivel(base + "Artigo 19 - Fica concedida a Medalha."))
+        self.assertTrue(corpo_integral_reconhecivel(base + "Artigo 10- Fica concedida a Medalha."))
+        self.assertTrue(corpo_integral_reconhecivel(ocr + "A CAMARA MUNICIPAL RESOLVE: Atigo 1.o - O Artigo 4.o passa a ter nova redação."))
+        # sem a fórmula de promulgação antes, ou sem o aviso de OCR, "Artigo 19" é o décimo nono artigo
+        self.assertFalse(corpo_integral_reconhecivel(ocr + "CONCEDE A MEDALHA\n\nArtigo 19 - Fica concedida a Medalha."))
+        self.assertFalse(corpo_integral_reconhecivel(base.replace(ocr, "") + "Artigo 19 - Fica concedida a Medalha."))
+        # texto que começa no meio: o primeiro rótulo é de outro artigo
+        self.assertFalse(corpo_integral_reconhecivel(base + "Artigo 12 - Texto.\n\nArtigo 19 - Fica."))
+
+    def test_data_da_epigrafe_corrige_ano_errado_do_cadastro(self):
+        corpo = "Publicada no Diário Oficial do Município de Campinas em 15/03/2003\n\nLEI Nº. 11.481 DE 14 DE MARÇO DE 2003 DISPÕE SOBRE"
+        norma = {'data': '2002-03-14', 'ano': 2003, 'data_publicacao': '2003-03-15'}
+        self.assertEqual(data_da_epigrafe(corpo, norma), '2003-03-14')
+        # ano da epígrafe diferente do ano da norma, ou publicação longe da data: não corrige
+        self.assertIsNone(data_da_epigrafe(corpo.replace('DE 2003', 'DE 2002'), norma))
+        self.assertIsNone(data_da_epigrafe(corpo, {**norma, 'data_publicacao': '2003-09-15'}))
+        self.assertIsNone(data_da_epigrafe(corpo, {**norma, 'data_publicacao': None}))
+        self.assertIsNone(data_da_epigrafe("Publicada em 15/03/2003\n\nLEI Nº 11.481 DISPÕE SOBRE", norma))
+        self.assertEqual(titulo_com_data("Lei nº 11.481, de 14 de março de 2002", "2003-03-14"), "Lei nº 11.481, de 14 de março de 2003")
+        self.assertEqual(titulo_com_data("Decreto Legislativo nº 3.591, de 16 de maio de 13", "2013-05-16"),
+                         "Decreto Legislativo nº 3.591, de 16 de maio de 2013")
 
     def test_promulgacao_em_terceira_pessoa_sem_adivinhar_artigo_um(self):
         base = 'EMENDA À LEI ORGÂNICA\nA Mesa PROMULGA a seguinte emenda.\nArt. 29. ' + 'Disposição material. ' * 40 + '\nArt. 2º Esta Emenda entra em vigor na data de publicação.'

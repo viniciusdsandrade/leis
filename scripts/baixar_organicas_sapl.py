@@ -10,7 +10,7 @@ from urllib.parse import urlsplit
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from comum import Rede, decodificar, documento_para_md, normalizar_chave, yaml_str
-from granularidade_sapl import alertas_multiplos_atos, alertas_outras_publicacoes
+from granularidade_sapl import EPIGRAFE, EPIGRAFES_ANTIGAS, alertas_multiplos_atos, alertas_outras_publicacoes, classe, numero_base
 
 RAIZ = Path(__file__).resolve().parent.parent / "municipais"
 FONTES = [("Lapa", "PR", "sapl.lapa.pr.leg.br"),
@@ -124,9 +124,22 @@ def escrever(p, b):
     tmp.replace(p)
 
 
+# OCR de atos digitalizados: "Artigo 1º -" sai como "Artigo 19 -" ou "Artigo 10-" (decretos legislativos de Campinas,
+# 1990 e 1991) e o rótulo às vezes perde letras ("Atigo 1.o -"). Vale só para o primeiro rótulo de artigo do texto,
+# logo depois da fórmula de promulgação: um texto que começasse no meio não passaria.
+ROTULO_ARTIGO_OCR = re.compile(r"(?i)\b(?:Art(?:igo)?|Atigo|Arigo|Artgo)\W{0,3}(\d{1,2})\s*(?:[º°ª]|\.?\s*o)?\s*[-–—]")
+FORMULA_DE_PROMULGACAO = re.compile(r"(?i)promulg|decreta|resolve|sancion|seguinte\s+(?:lei|decreto|resolu)")
+
+
 def corpo_integral_reconhecivel(corpo, emenda=False):
-    if re.search(r"art(?:igo)?\.?\s*1(?:[º°o]|\b)|art(?:igo|\.)\s*[úu]nico", corpo, re.I):
+    # "Arti. 1º" e "Art . 1°" são erros de digitação da fonte; "Art. 10" e "Art. 12" não são o primeiro artigo
+    if re.search(r"art(?:i|igo)?\s*\.?\s*1(?:[º°o]|\b)|art(?:igo|\.)\s*[úu]nico", corpo, re.I):
         return True
+    if corpo.startswith("> Texto obtido por OCR"):
+        rotulo = ROTULO_ARTIGO_OCR.search(corpo)
+        if (rotulo and rotulo[1] in ("1", "19", "10")
+                and FORMULA_DE_PROMULGACAO.search(corpo[max(0, rotulo.start() - 300):rotulo.start()])):
+            return True
     # o OCR de leis digitalizadas lê "Artigo 1º" como "Antigo 1º" (Campinas, 1985 e 1990); só vale como
     # rótulo no começo da linha e seguido do separador do dispositivo, para não confundir com "antigo 1º Distrito"
     if re.search(r"(?m)^\W*Antigo\s*1\s*[º°o]\s*[-–—\u00ad.]", corpo):
@@ -172,6 +185,39 @@ def data_diverge_do_ano(norma):
     """
     data, ano = norma.get("data") or "", str(norma["ano"])
     return bool(data) and data[:4] != ano and str(norma.get("data_publicacao") or "")[:4] == ano
+
+
+MESES_PT = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"]
+DATA_POR_EXTENSO = re.compile(r"(?i)\bDE\s+(\d{1,2})[º°o]?\s+DE\s+([A-Za-zÇçÃãÉé]+)\s+DE\s+(\d)\.?(\d{3})\b")
+
+
+def data_da_epigrafe(corpo, norma):
+    """Data por extenso da epígrafe, quando corrige um erro de ano no cadastro.
+
+    Campinas, Lei 11.481: cadastro "2002-03-14", mas a norma é de 2003, a epígrafe diz "DE 14 DE MARÇO DE 2003"
+    e a publicação foi em 15/03/2003. Vale a primeira data por extenso do texto, se tem o ano da norma e a
+    publicação veio de 0 a 60 dias depois dela; senão None, e a norma continua retida.
+    """
+    m = DATA_POR_EXTENSO.search(corpo[:800])
+    if not m:
+        return None
+    mes = next((i for i, nome in enumerate(MESES_PT, 1) if normalizar_chave(m[2])[:3] == normalizar_chave(nome)[:3]), None)
+    try:
+        data = dt.date(int(m[3] + m[4]), mes or 0, int(m[1]))
+        publicacao = dt.date.fromisoformat(str(norma.get("data_publicacao") or ""))
+    except ValueError:
+        return None
+    if str(data.year) != str(norma["ano"]) or not 0 <= (publicacao - data).days <= 60:
+        return None
+    return data.isoformat()
+
+
+def titulo_com_data(titulo, data_iso):
+    """Troca a data do título do SAPL ("Lei nº 11.481, de 14 de março de 2002") pela data corrigida."""
+    d = dt.date.fromisoformat(data_iso)
+    nova = f", de {d.day:02d} de {MESES_PT[d.month - 1]} de {d.year}"
+    padrao = r",\s*de\s+\d{1,2}\s+de\s+\w+\s+de\s+\d{1,4}\s*$"
+    return re.sub(padrao, nova, titulo) if re.search(padrao, titulo) else titulo + nova
 
 
 CARIMBO_CAMPINAS = [
@@ -332,6 +378,108 @@ def limpar_carimbo_campinas(corpo):
     return corpo, notas
 
 
+# Página inteira do Diário Oficial do Município (layout de 2011 em diante) anexada no lugar do ato: traz o
+# cabeçalho da edição ("Nº 10.534 - Ano XLII Diário Oficial Quinta-feira, 27 de dezembro de 2012 Prefeitura
+# Municipal de Campinas") ou o rodapé do expediente, e outros atos nas colunas. O ato copiado de suplemento do
+# DOM traz só o cabeçalho corrente da folha, que limpar_carimbo_campinas já trata.
+PAGINA_DOM_CAMPINAS = re.compile(
+    r"Ano\s+[XLVI]+\s+Di[áa]rio Oficial\s+\w+-feira,?\s+\d{1,2} de \w+ de \d{4}"
+    r"|Di[áa]rio Oficial\s+\w+-feira,?\s+\d{1,2} de \w+ de \d{4}\s+(?:Prefeitura Municipal de Campinas|PODER EXECUTIVO)"
+    r"|Recebimento de (?:mat[ée]rias|conte[úu]do) para publica[çc][ãa]o at[ée]")
+
+
+def pagina_do_diario_oficial_campinas(corpo):
+    return bool(PAGINA_DOM_CAMPINAS.search(corpo))
+
+
+def inicio_do_texto(corpo, n=600):
+    """Primeiros n caracteres do corpo, sem o aviso de OCR."""
+    texto = re.sub(r"^> Texto obtido por OCR[^\n]*\n+", "", corpo)
+    return texto[:n]
+
+
+def numero_proprio_no_inicio(corpo, numero):
+    """O número da norma aparece no começo do texto (identidade do anexo).
+
+    Campinas: o SAPL anexa às vezes o PDF da norma vizinha, ou a página inteira do Diário Oficial, e o OCR de
+    scanner em paisagem pode embaralhar a epígrafe ("COCETO SATO N 347" para o Decreto Legislativo 3.472).
+    Compara o número sem pontos de milhar com os números do começo do texto; "3.472" e "3472" valem igual.
+    """
+    base = numero_base(numero)
+    if not base:
+        return True
+    inicio = inicio_do_texto(corpo, 700)
+    numeros = {re.sub(r"\.", "", m).lstrip("0") or "0" for m in re.findall(r"\d[\d.]*", inicio)}
+    return base in numeros
+
+
+# a epígrafe de granularidade_sapl só casa no começo da linha; aqui ela é procurada em qualquer posição
+EPIGRAFE_SOLTA = re.compile(EPIGRAFE.pattern.replace(r"^(?:\s*[*#]+\s*)?", "", 1), re.I | re.M)
+
+
+def epigrafe_propria_no_meio_da_frase(corpo, tipo, numero):
+    """Página do Diário Oficial em duas colunas entrelaçadas pelo conversor: a epígrafe da própria norma cai no meio
+    de uma frase da coluna vizinha ("...fixadas com base nas operações contratadas até a data DECRETO Nº 19.938 DE 25
+    DE JUNHO DE 2018 do encaminhamento..."). A nota de publicação, carimbos e contadores antes da epígrafe na mesma
+    linha terminam em data ou número, não em palavra minúscula."""
+    esperada = (classe(tipo), numero_base(numero))
+    inicio = inicio_do_texto(corpo, 700)
+    for m in EPIGRAFE_SOLTA.finditer(inicio):
+        if (classe(m["tipo"]), numero_base(m["numero"])) == esperada:
+            antes = inicio[inicio.rfind("\n\n", 0, m.start()) + 2:m.start()]
+            return bool(re.search(r"[a-zà-ú]{2,}\W*$", antes))
+    return False
+
+
+def abre_com_a_propria_epigrafe(corpo, tipo, numero):
+    """Páginas dos livros de leis antigos (Campinas, até 1948): a epígrafe da própria norma tem que abrir a
+    página. Se abre com o fim do ato anterior, publicar a página inteira publicaria texto de outra norma."""
+    esperada = (classe(tipo), numero_base(numero))
+    inicio = inicio_do_texto(corpo, 300)
+    for rx in (EPIGRAFE, *EPIGRAFES_ANTIGAS):
+        for m in rx.finditer(inicio):
+            if (classe(m["tipo"]), numero_base(m["numero"])) == esperada:
+                return True
+    return False
+
+
+PALAVRA = re.compile(r"[a-záàâãéêíóôõúüç]{3,}")
+AVISO_OCR_INICIO = "> Texto obtido por OCR"
+
+
+def lexico_do_municipio(pasta_municipio, cache):
+    """Palavras dos textos já publicados do município sem OCR, presentes em três ou mais atos; guardado no cache."""
+    destino = cache / "lexico-municipio.json"
+    if destino.exists():
+        return set(json.loads(destino.read_text()))
+    docs = {}
+    for p in pasta_municipio.glob("**/*.md"):
+        corpo = p.read_text().split("\n---\n", 1)[-1]
+        if AVISO_OCR_INICIO in corpo:
+            continue
+        for w in set(PALAVRA.findall(corpo.lower())):
+            docs[w] = docs.get(w, 0) + 1
+    lexico = sorted(w for w, n in docs.items() if n >= 3)
+    escrever(destino, json.dumps(lexico, ensure_ascii=False).encode())
+    return set(lexico)
+
+
+def legibilidade(corpo, lexico):
+    """Fração das palavras de quatro ou mais letras do texto que estão no léxico; None com menos de 20 palavras.
+
+    OCR de scanner ruim (Campinas, decretos legislativos de 2011 e 2012) perde artigos inteiros e deixa frases
+    sem sentido ("CONCENTRO COMUNARO DA CRANCA"); os textos sem OCR do acervo ficam acima de 0,94 e o OCR limpo
+    dos anos 1990 perto de 0,93.
+    """
+    palavras = [w for w in PALAVRA.findall(corpo.lower()) if len(w) >= 4]
+    if len(palavras) < 20:
+        return None
+    return sum(1 for w in palavras if w in lexico) / len(palavras)
+
+
+LEGIBILIDADE_MINIMA = 0.85
+
+
 def esfera_municipal(descricao):
     """Recusa tipos Sirel/federal/estadual misturados em catálogos municipais."""
     tokens = set(normalizar_chave(descricao).split())
@@ -408,6 +556,7 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
             eq_path = cache / "equivalencias.json"
             equivalencias = json.loads(eq_path.read_text()) if eq_path.exists() else {}
             pasta_municipio = RAIZ / uf / normalizar_chave(nome).replace(" ", "-")
+            lexico = None  # léxico do município, montado só se algum texto vier de OCR
             # Índice local por município: evita reler todos os corpos a cada ato.
             fontes_md = set()
             hashes_md = {}
@@ -466,6 +615,20 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                             notas_texto = []
                             if host == "sapl.campinas.sp.leg.br":
                                 corpo, notas_texto = limpar_carimbo_campinas(corpo)
+                                if pagina_do_diario_oficial_campinas(corpo):
+                                    raise RuntimeError("página do Diário Oficial do Município anexada no lugar do ato, com outros atos nas colunas; revisar")
+                                if not numero_proprio_no_inicio(corpo, n["numero"]):
+                                    raise RuntimeError("o número da norma não aparece no começo do texto; conferir a identidade do anexo")
+                                if epigrafe_propria_no_meio_da_frase(corpo, tipo["descricao"], n["numero"]):
+                                    raise RuntimeError("epígrafe da norma no meio de uma frase: página do Diário Oficial em duas colunas entrelaçadas; revisar")
+                                if "1948" in tipo["descricao"] and not abre_com_a_propria_epigrafe(corpo, tipo["descricao"], n["numero"]):
+                                    raise RuntimeError("página do livro de leis não abre com a epígrafe da própria norma; recortar o ato antes de publicar")
+                                if corpo.startswith(AVISO_OCR_INICIO):
+                                    if lexico is None:
+                                        lexico = lexico_do_municipio(pasta_municipio, cache)
+                                    leg = legibilidade(corpo, lexico)
+                                    if leg is not None and leg < LEGIBILIDADE_MINIMA:
+                                        raise RuntimeError(f"OCR com baixa legibilidade ({leg:.0%} das palavras conhecidas no acervo do município); revisar")
                             if troca:
                                 notas_texto.append(troca["nota"])
                             granularidade = alertas_multiplos_atos(corpo, tipo["descricao"], n["numero"])
@@ -502,8 +665,13 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 ano_documento = "1990"
                                 observacao_data = "Texto integral assinado apenas com ano de 1990; cadastro apresenta 2011-11-04, sem confirmação no documento."
                             if not observacao_data and data_diverge_do_ano(n):
-                                raise RuntimeError(f"data do cadastro ({data}) diverge do ano da norma ({n['ano']}) e da publicação "
-                                                   f"({n['data_publicacao']}); revisar")
+                                corrigida = data_da_epigrafe(corpo, n)
+                                if not corrigida:
+                                    raise RuntimeError(f"data do cadastro ({data}) diverge do ano da norma ({n['ano']}) e da publicação "
+                                                       f"({n['data_publicacao']}); revisar")
+                                data = corrigida
+                                observacao_data = (f"Data da epígrafe no texto integral, confirmada pela publicação em {n['data_publicacao']}; "
+                                                   f"o cadastro SAPL traz {data_cadastro}.")
                             ano = data[:4] if data else ano_documento
                             numero = str(n["numero"])
                             titulo = n["__str__"]
@@ -517,7 +685,12 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 meta["data_no_cadastro"] = data_cadastro
                                 meta["observacao_data"] = observacao_data
                                 meta["ano_na_fonte"] = ano_documento
-                                titulo = "Lei Orgânica do Município da Lapa, de 4 de abril de 1990" if host == "sapl.lapa.pr.leg.br" else "Lei Orgânica do Município de Igarapava, de 1990"
+                                if host == "sapl.lapa.pr.leg.br":
+                                    titulo = "Lei Orgânica do Município da Lapa, de 4 de abril de 1990"
+                                elif host == "sapl.igarapava.sp.leg.br":
+                                    titulo = "Lei Orgânica do Município de Igarapava, de 1990"
+                                else:
+                                    titulo = titulo_com_data(titulo, data)
                                 meta["titulo"] = titulo
                             cab = ["---"] + [f"{k}: {yaml_str(v)}" for k, v in meta.items()] + ["---", "", f"# {titulo}", "", corpo, ""]
                             arq = pasta_municipio / categoria / ano / f"{categoria}-{normalizar_chave(numero)}-{ano}-sapl-{n['id']}.md"

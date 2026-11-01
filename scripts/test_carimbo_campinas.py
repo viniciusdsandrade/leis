@@ -321,6 +321,65 @@ class CabecalhoDePagina(unittest.TestCase):
         self.assertEqual(corpo, LEI)
 
 
+class PaginaDoDiarioOficial(unittest.TestCase):
+    def test_cabecalho_da_edicao_e_rodape_do_expediente_identificam_a_pagina(self):
+        from baixar_organicas_sapl import pagina_do_diario_oficial_campinas
+        self.assertTrue(pagina_do_diario_oficial_campinas(
+            "Nº 10.534 - Ano XLII Diário Oficial Quinta-feira, 27 de dezembro de 2012 Prefeitura Municipal de Campinas www.campinas.sp.gov.br\n\nGABINETE DO PREFEITO"))
+        self.assertTrue(pagina_do_diario_oficial_campinas(
+            "Diário Oficial Segunda-feira, 03 de outubro de 2011 PODER EXECUTIVO N° 10.236 - Ano XLI GABINETE DO PREFEITO"))
+        self.assertTrue(pagina_do_diario_oficial_campinas(
+            "Ponte Preta, Campinas/SP. Recebimento de conteúdo para publicação até as 17 horas do dia anterior."))
+        # cabeçalho corrente de suplemento do DOM e citação do site da Prefeitura no texto do ato não são a página inteira
+        self.assertFalse(pagina_do_diario_oficial_campinas(
+            "Diário Oficial do Município de Campinas Campinas, segunda-feira, 24 de setembro de 2012 5\n\n**Art. 1º** O edital fica disponível em www.campinas.sp.gov.br."))
+
+
+class IdentidadeDoAnexo(unittest.TestCase):
+    def test_numero_da_norma_no_comeco_do_texto(self):
+        from baixar_organicas_sapl import numero_proprio_no_inicio
+        ocr = "> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\n"
+        self.assertTrue(numero_proprio_no_inicio("Publicado no Diário Oficial do Município de Campinas em 29/11/2001\n\nDECRETO Nº 13.781 DE 28 DE NOVEMBRO DE 2001", "13781"))
+        self.assertTrue(numero_proprio_no_inicio(ocr + "PROCESSO N 208517 305/11 D.O.M 05/07/2011\n\nDECRETO LEGISLATIVO N° 3307, DE 04 DE JULHO DE 2011", "3307"))
+        # epígrafe embaralhada pelo OCR ou PDF da norma vizinha
+        self.assertFalse(numero_proprio_no_inicio(ocr + "D.O.M 11. 106 2012 COCETO SATO N 347, E 06 DE JUNHO DE 2012 CONCEDE MEDALHA", "3472"))
+        self.assertFalse(numero_proprio_no_inicio("DECRETO Nº 13.816 DE 14 DE DEZEMBRO DE 2001 DISPÕE SOBRE ABERTURA DE CRÉDITO", "13818"))
+
+    def test_epigrafe_no_meio_da_frase_denuncia_colunas_entrelacadas(self):
+        from baixar_organicas_sapl import epigrafe_propria_no_meio_da_frase
+        self.assertTrue(epigrafe_propria_no_meio_da_frase(
+            "encargos da dívida serão fixadas com base nas operações contratadas até a data DECRETO Nº 19.938 DE 25 DE JUNHO DE 2018 do encaminhamento", "Decreto", "19938"))
+        # nota de publicação, cabeçalho de folha e carimbos do OCR na mesma linha não são frase
+        self.assertFalse(epigrafe_propria_no_meio_da_frase(
+            "Publicada no Diário Oficial do Município de Campinas em 15/08/1991 DECRETO LEGISLATIVO Nº 272 DE 14 DE AGOSTO DE 1991 CONCEDE", "Decreto Legislativo", "272"))
+        self.assertFalse(epigrafe_propria_no_meio_da_frase(
+            "> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\n1/1 CÂMARA MUNICIPAL DE CAMPINAS Publicada no Diário Oficial em 31/03/1992 DECRETO LEGISLATIVO Nº 323 DE 27 DE MARÇO DE 1992", "Decreto Legislativo", "323"))
+        self.assertFalse(epigrafe_propria_no_meio_da_frase("(DECRETO ANULADO)\n\nDECRETO Nº 17.317 DE 03 DE MAIO DE 2011\n\nEmenta", "Decreto", "17317"))
+
+    def test_pagina_de_livro_antigo_abre_com_a_propria_epigrafe(self):
+        from baixar_organicas_sapl import abre_com_a_propria_epigrafe
+        ocr = "> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\n"
+        self.assertTrue(abre_com_a_propria_epigrafe(ocr + "- 43 -\n\nLEI N. 134 ( Declara de utilidade publica o predio da rua Barão)\n\nO Prefeito", "Leis Até 1948", "134"))
+        self.assertTrue(abre_com_a_propria_epigrafe("DECRETO N. 63 (Delimita os perimetros dos distritos)", "Decretos Até 1948", "63"))
+        # a página começa pelo fim do ato anterior
+        self.assertFalse(abre_com_a_propria_epigrafe(ocr + "O doutor Heitor Teixeira Penteado, Prefeito Municipal de Campinas, faz saber\n\n**Art. 1.°** Fica.\n\n" + "x" * 400 + "LEI N. 193 (Orça a receita)", "Leis Até 1948", "193"))
+        self.assertFalse(abre_com_a_propria_epigrafe("LEI N. 150 (Fixa a despeza)", "Leis Até 1948", "151"))
+
+
+class LegibilidadeDoOCR(unittest.TestCase):
+    def test_fracao_de_palavras_conhecidas(self):
+        from baixar_organicas_sapl import legibilidade
+        lexico = {"decreto", "legislativo", "concede", "diploma", "mérito", "câmara", "municipal", "aprovou", "presidente",
+                  "promulgo", "seguinte", "fica", "concedido", "pelos", "relevantes", "serviços", "prestados", "entra", "vigor",
+                  "data", "publicação", "revogadas", "disposições", "contrário", "despesas", "decorrentes", "cumprimento", "deste"}
+        limpo = ("decreto legislativo concede diploma mérito câmara municipal aprovou presidente promulgo seguinte fica concedido "
+                 "pelos relevantes serviços prestados entra vigor data publicação revogadas disposições contrário despesas decorrentes cumprimento deste")
+        self.assertEqual(legibilidade(limpo, lexico), 1.0)
+        sujo = limpo + " concentro comunaro cranca betinhe relacio dezene especiticações docreto revogades contrácio camilago"
+        self.assertLess(legibilidade(sujo, lexico), 0.80)
+        self.assertIsNone(legibilidade("decreto legislativo", lexico))
+
+
 class EmendaSemClausulaDeVigencia(unittest.TestCase):
     PROMULGA = ("A Mesa da Câmara Municipal de Campinas, nos termos do § 2º do Artigo 40 da Lei Orgânica, promulga a seguinte emenda "
                 "ao seu texto: Fica acrescentado ao artigo 241 o parágrafo único, com a seguinte redação: " + "texto da emenda. " * 40)
