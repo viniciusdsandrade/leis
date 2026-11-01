@@ -19,9 +19,10 @@ TIPO_EPIGRAFE = re.compile(
     r"\b(LEI|EMENDA|DECRETO|CONSTITUI[ÇC][ÃA]O|ATO|RESOLU[ÇC][ÃA]O|PORTARIA|INSTRU[ÇC][ÃA]O"
     r"|CIRCULAR|DELIBERA[ÇC][ÃA]O|PROVIMENTO|S[ÚU]MULA|PARECER|SOLU[ÇC][ÃA]O"
     r"|CONV[ÊE]NIO|PROTOCOLO|AJUSTE|RECOMENDA[ÇC][ÃA]O)\b", re.I)
-# "Nº 38, DE 16 DE DEZEMBRO DE 2013" / "Nº 07, 29 de dezembro de 1993"
+# "Nº 38, DE 16 DE DEZEMBRO DE 2013" / "Nº 07, 29 de dezembro de 1993" / "Nº 1.033, DE 22 outubro DE 2026"
+# (o DOU às vezes omite o "de" antes do mês; o nome do mês continua obrigatório e validado em MESES)
 POR_EXTENSO = re.compile(
-    r"(?:DE\s+)?(\d{1,2})[º°]?\s+DE\s+([A-Za-zÀ-ÿ]+)\s+DE\s+(\d{4})", re.I)
+    r"(?:DE\s+)?(\d{1,2})[º°]?\s+(?:DE\s+)?([A-Za-zÀ-ÿ]+)\s+DE\s+(\d{4})", re.I)
 NUMERICA = re.compile(r"\b(\d{1,2})[./](\d{1,2})[./](\d{4})\b")
 
 

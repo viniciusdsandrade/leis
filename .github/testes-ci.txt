@@ -24,6 +24,7 @@ test_continuacao_indice_ta_coerente_20261027.py
 test_data_captura_ta.py
 test_docx_sapl.py
 test_dou_acesso.py
+test_dou_integralidade.py
 test_dpl_planalto_identidade.py
 test_emissores_sapl.py
 test_epigrafe_tipo_literal_ta.py
