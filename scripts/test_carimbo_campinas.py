@@ -380,6 +380,99 @@ class LegibilidadeDoOCR(unittest.TestCase):
         self.assertIsNone(legibilidade("decreto legislativo", lexico))
 
 
+class RecorteDeAtoDeLivro(unittest.TestCase):
+    OCR = "> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\n"
+    # livros de 1931 em diante: epígrafe, depois o preâmbulo
+    PAGINA_1933 = (OCR + "**Art. 8.º** — Revogam-se as disposições em contrario. Campinas, 2 de Dezembro de 1933. P. Leite de Barros. "
+                   "Publicado na Secretaria da Prefeitura, em 2 de Dezembro de 1933. O Secretario, Amilar Alves.\n\n"
+                   "DECRETO N. 63 (Delimita os perimetros dos distritos extra-urbanos) Perseu Leite de Barros, Prefeito Municipal de Campinas, decreta :\n\n"
+                   "**Art. 1.°** — Os perimetros ficam delimitados pela fórma seguinte:\n\n"
+                   "**Art. 2°** — Revogam-se as disposições em contrario. Campinas, 4 de Dezembro de 1933. P. Leite de Barros. "
+                   "Publicado na Secretaria da Prefeitura, em 4 de Dezembro de 1933. O Secretario, Amilar Alves.\n\n"
+                   "DECRETO N. 64 ( Revóga a alinea F ) Perseu Leite de Barros, Prefeito Municipal de Campinas, etc.: baixo o seguinte:\n")
+    # livros de 1909 a 1923: o preâmbulo vem antes da epígrafe, inclusive o do ato seguinte
+    PAGINA_1909 = ("O Secretario, LEOPOLDO AMARAL. Orosimbo Maia, Prefeito Municipal de Campinas, etc. Faço saber que a Camara decretou e eu promulgo a seguinte\n\n"
+                   "LEI N. 134 (Orça a receita e fixa a despeza para o exercicio de 1910)\n\n"
+                   "**Art. 1.°** — A despeza ordinaria fica orçada em Rs. 1.079:928$600.\n\n"
+                   "**Art. 2.º** — Revogam-se as disposições em contrario. Campinas, 30 de Outubro de 1909. OROSIMBO MAIA. "
+                   "Publicada na Secretaria, aos 30 de Outubro de 1909. O Secretario, LEOPOLDO AMARAL. "
+                   "Orosimbo Maia, Prefeito Municipal de Campinas, etc. Faço saber que a Camara decretou e eu promulgo a seguinte\n\n"
+                   "LEI N. 135 (Cria o imposto)\n")
+
+    def test_recorta_da_epigrafe_propria_ate_antes_do_ato_seguinte(self):
+        from baixar_organicas_sapl import recortar_ato_de_livro
+        recorte, data = recortar_ato_de_livro(self.PAGINA_1933, "Decretos Até 1948", "63", "1933-12-04")
+        self.assertEqual(data, "1933-12-04")
+        self.assertTrue(recorte.startswith(self.OCR + "DECRETO N. 63 ("))
+        self.assertTrue(recorte.rstrip().endswith("em 4 de Dezembro de 1933. O Secretario, Amilar Alves."))
+        self.assertNotIn("DECRETO N. 64", recorte)
+        self.assertNotIn("Art. 8", recorte)
+
+    def test_apara_o_preambulo_do_ato_seguinte(self):
+        from baixar_organicas_sapl import recortar_ato_de_livro
+        recorte, data = recortar_ato_de_livro(self.PAGINA_1909, "Leis Até 1948", "134", "1909-10-30")
+        self.assertEqual(data, "1909-10-30")
+        self.assertTrue(recorte.startswith("LEI N. 134 ("))
+        self.assertTrue(recorte.rstrip().endswith("aos 30 de Outubro de 1909. O Secretario, LEOPOLDO AMARAL."), recorte[-120:])
+        self.assertNotIn("LEI N. 135", recorte)
+
+    def test_retem_sem_epigrafe_unica_sem_fecho_ou_com_data_divergente(self):
+        from baixar_organicas_sapl import recortar_ato_de_livro
+        with self.assertRaisesRegex(RuntimeError, "0 vez"):
+            recortar_ato_de_livro(self.PAGINA_1933, "Decretos Até 1948", "65", "1933-12-04")
+        with self.assertRaisesRegex(RuntimeError, "2 vez"):
+            recortar_ato_de_livro(self.PAGINA_1933 + "\n\nDECRETO N. 63 (de novo)\n", "Decretos Até 1948", "63", "1933-12-04")
+        with self.assertRaisesRegex(RuntimeError, "sem fecho"):
+            recortar_ato_de_livro(self.PAGINA_1933[:self.PAGINA_1933.index("Campinas, 4 de")], "Decretos Até 1948", "63", "1933-12-04")
+        with self.assertRaisesRegex(RuntimeError, "não bate"):
+            recortar_ato_de_livro(self.PAGINA_1933, "Decretos Até 1948", "63", "1933-12-05")
+
+    def test_retem_colunas_entrelacadas(self):
+        from baixar_organicas_sapl import recortar_ato_de_livro
+        pagina = self.PAGINA_1933.replace("**Art. 1.°** — Os perimetros", "**Art. 3.°** — Os perimetros")
+        with self.assertRaisesRegex(RuntimeError, "artigos fora de ordem"):
+            recortar_ato_de_livro(pagina, "Decretos Até 1948", "63", "1933-12-04")
+        pagina = self.PAGINA_1933.replace("**Art. 1.°** — Os perimetros ficam", "**Art. 1.°** — Os perimetros.\n\n**§ 7º** Matadouro\n\n**§ 1°** Prefeitura ficam")
+        with self.assertRaisesRegex(RuntimeError, "parágrafos fora de ordem"):
+            recortar_ato_de_livro(pagina, "Decretos Até 1948", "63", "1933-12-04")
+
+    def test_preambulo_seguinte_apos_marcador_e_com_ruido_no_fim(self):
+        from baixar_organicas_sapl import recortar_ato_de_livro
+        pagina = self.PAGINA_1909.replace("LEOPOLDO AMARAL. Orosimbo Maia, Prefeito", "LEOPOLDO AMARAL • Doutor Orosimbo Maia, Prefeito")
+        pagina = pagina.replace("eu promulgo a seguinte\n\nLEI N. 135", "eu pro- mulgo a seguinte e\n\nLEI N. 135")
+        recorte, _ = recortar_ato_de_livro(pagina, "Leis Até 1948", "134", "1909-10-30")
+        self.assertTrue(recorte.rstrip().endswith("O Secretario, LEOPOLDO AMARAL"), recorte[-120:])
+        # fórmula embaralhada pelo OCR e número de página colados ao fim (Lei 439/1928)
+        pagina = self.PAGINA_1909.replace("Faço saber que a Camara decretou e eu promulgo a seguinte\n\nLEI N. 135",
+                                          "Faco saber que a Camara derrotou e ell promulog a geoninte - 43\n\nLEI N. 135")
+        recorte, _ = recortar_ato_de_livro(pagina, "Leis Até 1948", "134", "1909-10-30")
+        self.assertTrue(recorte.rstrip().endswith("O Secretario, LEOPOLDO AMARAL."), recorte[-120:])
+        # sem ponto entre o nome do secretário e o preâmbulo seguinte não há como apará-lo: retém (Lei 439/1928)
+        pagina = self.PAGINA_1909.replace("LEOPOLDO AMARAL. Orosimbo Maia, Prefeito", "LEOPOLDO AMARAL Orosimbo Maia, Prefeito")
+        with self.assertRaisesRegex(RuntimeError, "colado ao fecho"):
+            recortar_ato_de_livro(pagina, "Leis Até 1948", "134", "1909-10-30")
+        # assinatura do prefeito no fecho do próprio ato não é preâmbulo
+        pagina = self.PAGINA_1933.replace("Campinas, 4 de Dezembro de 1933. P. Leite de Barros.", "Campinas, 4 de Dezembro de 1933. P. LEITE DE BARROS PREFEITO MUNICIPAL")
+        recorte, _ = recortar_ato_de_livro(pagina, "Decretos Até 1948", "63", "1933-12-04")
+        self.assertIn("PREFEITO MUNICIPAL Publicado na Secretaria", recorte)
+
+    def test_quantias_da_coluna_vizinha_retem_ato_sem_materia_financeira(self):
+        from baixar_organicas_sapl import recortar_ato_de_livro
+        pagina = self.PAGINA_1933.replace("O Secretario, Amilar Alves.\n\nDECRETO N. 64", "0$000 O Secretario, 0$000 Amilar Alves. 5$000\n\nDECRETO N. 64")
+        with self.assertRaisesRegex(RuntimeError, "quantias de tabela"):
+            recortar_ato_de_livro(pagina, "Decretos Até 1948", "63", "1933-12-04")
+        # ato de matéria financeira traz quantias por natureza
+        pagina2 = pagina.replace("Delimita os perimetros dos distritos extra-urbanos", "Abre um credito especial de 5:000$000")
+        recorte, _ = recortar_ato_de_livro(pagina2, "Decretos Até 1948", "63", "1933-12-04")
+        self.assertIn("credito", recorte)
+
+    def test_epigrafe_de_outro_tipo_encerra_o_recorte(self):
+        from baixar_organicas_sapl import recortar_ato_de_livro
+        pagina = self.PAGINA_1933.replace("DECRETO N. 64 ( Revóga a alinea F )", "RESOLUÇÃO N. 90 (Autoriza o pagamento)")
+        recorte, _ = recortar_ato_de_livro(pagina, "Decretos Até 1948", "63", "1933-12-04")
+        self.assertNotIn("RESOLUÇÃO N. 90", recorte)
+
+
 class EmendaSemClausulaDeVigencia(unittest.TestCase):
     PROMULGA = ("A Mesa da Câmara Municipal de Campinas, nos termos do § 2º do Artigo 40 da Lei Orgânica, promulga a seguinte emenda "
                 "ao seu texto: Fica acrescentado ao artigo 241 o parágrafo único, com a seguinte redação: " + "texto da emenda. " * 40)

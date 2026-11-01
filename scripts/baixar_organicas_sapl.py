@@ -431,6 +431,90 @@ def epigrafe_propria_no_meio_da_frase(corpo, tipo, numero):
     return False
 
 
+# Recorte de um ato em página de livro de leis (Campinas, até 1948). As páginas trazem o fim do ato anterior, o ato e o
+# começo do seguinte; nos livros de 1909 a 1923 o preâmbulo ("O doutor X, Prefeito..., Faço saber que a Camara decretou e
+# eu promulgo a seguinte") vem antes da epígrafe, nos de 1931 em diante vem depois dela.
+FECHO_DE_LIVRO = re.compile(
+    r"(?i)(?:Campinas|Pa[çc]o Municipal|Pal[aá]cio Municipal|Intend[êe]ncia)[^\n]{0,40}?,?\s+(?:aos?\s+|em\s+)?(\d{1,2})\s+de\s+([A-Za-zçÇ]+)\s+de\s+(\d{4})")
+# preâmbulo do ato seguinte sem separador antes dele ("O Secretario, Amilar Alves Orosimbo Maia, Prefeito Municipal de
+# Campinas, etc. Faco saber..."): não dá para saber onde acaba o nome do secretário, então a página fica retida
+PREAMBULO_COLADO = re.compile(r"(?is)\b(?:Prefeito|Intendente|Vice-Prefeito)\s+Municipal\b.{0,200}?(?:saber|seguinte|decret|promulg)")
+PREAMBULO_DO_ATO_SEGUINTE = re.compile(
+    r"(?is)(?<=[.\n•·])\s*(?:(?:O|A)\s+)?(?:Dr\.?\s+|[Dd]outor\s+|[Cc]idad[ãa]o\s+)?[A-ZÁ-Ú][^.•·,]{0,60}?,?\s*\b(?:Prefeito|Intendente|Vice-Prefeito)\b(?=.{0,200}?(?:saber|seguinte|decret|promulg)).{0,300}$")
+# tabela de orçamento da coluna vizinha que vaza para o recorte ("0$000 O DIRETOR, 0$000 ADMAR MAIA 0$000 5$000")
+QUANTIA_ANTIGA = re.compile(r"\d+[$S]\d{3}")
+ATO_FINANCEIRO = re.compile(r"(?i)or[çc]a|receita|despe[sz]a|cr[eé]dito|imposto|taxa|vencimento|ordenado|sal[aá]rio|aux[ií]lio|subven|pagamento|verba|emprestimo|empr[eé]stimo|cont[ao]s?\b|quantia|r[eé]is")
+ROTULO_ARTIGO_DE_LIVRO = re.compile(r"(?m)^\W*\**(?:Art(?:igo)?|Ar[tl])[.,]?\s*(\d{1,2})")
+ROTULO_PARAGRAFO_DE_LIVRO = re.compile(r"(?m)^\W*\**§\s*(\d{1,2})")
+
+
+def epigrafes_da_pagina(corpo):
+    """Epígrafes antigas e modernas da página, uma por posição inicial: lista de (inicio, identidade)."""
+    por_inicio = {}
+    for rx in (EPIGRAFE, *EPIGRAFES_ANTIGAS):
+        for m in rx.finditer(corpo):
+            por_inicio.setdefault(m.start(), (classe(m["tipo"]), numero_base(m["numero"])))
+    return sorted(por_inicio.items())
+
+
+def data_de_fecho(m):
+    mes = next((i for i, nome in enumerate(MESES_PT, 1) if normalizar_chave(m[2])[:3] == normalizar_chave(nome)[:3]), None)
+    try:
+        return dt.date(int(m[3]), mes or 0, int(m[1])).isoformat()
+    except ValueError:
+        return None
+
+
+def recortar_ato_de_livro(corpo, tipo, numero, data_cadastro):
+    """Recorta o ato da página de livro de leis: da epígrafe própria até antes da epígrafe do ato seguinte.
+
+    Retém (RuntimeError com o motivo) quando a epígrafe própria não aparece exatamente uma vez, quando não há
+    fecho com data dentro do recorte (o ato continua na página seguinte, que não está no PDF), quando a data do
+    fecho não bate com o cadastro, ou quando os artigos e parágrafos que abrem parágrafo saem de ordem (OCR que
+    entrelaçou as duas colunas da página). O preâmbulo do ato seguinte, quando vem antes da epígrafe dele, é
+    aparado. Devolve (recorte, data_do_fecho); o aviso de OCR da página é preservado no começo do recorte.
+    """
+    aviso = ""
+    if corpo.startswith(AVISO_OCR_INICIO):
+        aviso, _, corpo = corpo.partition("\n")
+        aviso += "\n\n"
+        corpo = corpo.lstrip("\n")
+    esperada = (classe(tipo), numero_base(numero))
+    epigrafes = epigrafes_da_pagina(corpo)
+    proprias = [ini for ini, ident in epigrafes if ident == esperada]
+    if len(proprias) != 1:
+        raise RuntimeError(f"página de livro de leis: a epígrafe da norma aparece {len(proprias)} vez(es) no texto; recorte impossível, revisar")
+    ini = proprias[0]
+    fim = min((i for i, _ in epigrafes if i > ini), default=len(corpo))
+    recorte = corpo[ini:fim]
+    fechos = [(m, data_de_fecho(m)) for m in FECHO_DE_LIVRO.finditer(recorte)]
+    if not fechos:
+        raise RuntimeError("página de livro de leis: sem fecho datado dentro do recorte; o ato continua na página seguinte, que não está no PDF; revisar")
+    datas = {d for _, d in fechos if d}
+    if data_cadastro and data_cadastro not in datas:
+        raise RuntimeError(f"página de livro de leis: data do fecho ({', '.join(sorted(datas)) or '?'}) não bate com o cadastro ({data_cadastro}); revisar")
+    artigos = [int(x) for x in ROTULO_ARTIGO_DE_LIVRO.findall(recorte)]
+    if artigos != sorted(artigos) or (artigos and artigos[0] != 1):
+        raise RuntimeError("página de livro de leis: artigos fora de ordem no recorte (colunas entrelaçadas pelo OCR); revisar")
+    paragrafos = [int(x) for x in ROTULO_PARAGRAFO_DE_LIVRO.findall(recorte)]
+    if paragrafos != sorted(paragrafos):
+        raise RuntimeError("página de livro de leis: parágrafos fora de ordem no recorte (colunas entrelaçadas pelo OCR); revisar")
+    ultimo_fecho = fechos[-1][0]
+    if artigos:
+        ultimo_artigo = list(ROTULO_ARTIGO_DE_LIVRO.finditer(recorte))[-1]
+        if ultimo_fecho.start() < ultimo_artigo.start():
+            raise RuntimeError("página de livro de leis: fecho antes do último artigo (colunas entrelaçadas pelo OCR); revisar")
+    cauda = recorte[ultimo_fecho.end():]
+    m = PREAMBULO_DO_ATO_SEGUINTE.search(cauda)
+    if m:
+        recorte = recorte[:ultimo_fecho.end() + m.start()]
+    if PREAMBULO_COLADO.search(recorte[ultimo_fecho.end():]):
+        raise RuntimeError("página de livro de leis: preâmbulo do ato seguinte colado ao fecho, sem separador que permita apará-lo; revisar")
+    if len(QUANTIA_ANTIGA.findall(recorte)) >= 3 and not ATO_FINANCEIRO.search(recorte):
+        raise RuntimeError("página de livro de leis: quantias de tabela da coluna vizinha dentro do recorte de ato sem matéria financeira (colunas entrelaçadas pelo OCR); revisar")
+    return aviso + recorte.strip().rstrip(" •·-–—") + "\n", fechos[-1][1]
+
+
 def abre_com_a_propria_epigrafe(corpo, tipo, numero):
     """Páginas dos livros de leis antigos (Campinas, até 1948): a epígrafe da própria norma tem que abrir a
     página. Se abre com o fim do ato anterior, publicar a página inteira publicaria texto de outra norma."""
@@ -617,6 +701,13 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 corpo, notas_texto = limpar_carimbo_campinas(corpo)
                                 if pagina_do_diario_oficial_campinas(corpo):
                                     raise RuntimeError("página do Diário Oficial do Município anexada no lugar do ato, com outros atos nas colunas; revisar")
+                                if ano_norma and ano_norma <= 1948 and (alertas_multiplos_atos(corpo, tipo["descricao"], n["numero"])
+                                                                        or not abre_com_a_propria_epigrafe(corpo, tipo["descricao"], n["numero"])):
+                                    corpo, data_fecho = recortar_ato_de_livro(corpo, tipo["descricao"], n["numero"], n.get("data") or "")
+                                    notas_texto.append("ato recortado da página do livro de leis anexada no SAPL, que traz mais de um ato; "
+                                                       "a página inteira está em fonte_texto")
+                                    if not n.get("data"):
+                                        n = {**n, "data": data_fecho, "data_do_fecho": True}
                                 if not numero_proprio_no_inicio(corpo, n["numero"]):
                                     raise RuntimeError("o número da norma não aparece no começo do texto; conferir a identidade do anexo")
                                 if epigrafe_propria_no_meio_da_frase(corpo, tipo["descricao"], n["numero"]):
@@ -650,7 +741,7 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 pulado += 1
                                 continue
                             data = n.get("data") or ""
-                            data_cadastro = data
+                            data_cadastro = "" if n.get("data_do_fecho") else data
                             ano_documento = str(n["ano"])
                             observacao_data = ""
                             if host == "sapl.lapa.pr.leg.br" and n["id"] == 3799:
@@ -664,6 +755,8 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 data = ""
                                 ano_documento = "1990"
                                 observacao_data = "Texto integral assinado apenas com ano de 1990; cadastro apresenta 2011-11-04, sem confirmação no documento."
+                            if n.get("data_do_fecho"):
+                                observacao_data = "Data do fecho no texto integral; o cadastro SAPL não traz data."
                             if not observacao_data and data_diverge_do_ano(n):
                                 corrigida = data_da_epigrafe(corpo, n)
                                 if not corrigida:

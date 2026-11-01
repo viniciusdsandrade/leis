@@ -20,7 +20,7 @@ EPIGRAFE = re.compile(
 EPIGRAFES_ANTIGAS = (
     re.compile(r"^(?:\s*[*#]+\s*)?(?P<tipo>LEI|RESOLU[ÇC][ÃA]O|DECRETO(?:[- ]LEI)?|ACTO|ATO)\s+N\.?\s*"
                r"(?P<numero>\d[\d.]*)\s*\(", re.I | re.M),
-    re.compile(r"^(?:\s*[*#]+\s*)?(?P<tipo>LEI|RESOLUÇÃO|DECRETO(?:-LEI)?|ACTO|Lei|Resolução|Decreto(?:-Lei)?)\s+N\.\s*"
+    re.compile(r"^(?:\s*[*#]+\s*)?(?P<tipo>LEI|RESOLUÇÃO|DECRETO(?:-LEI)?|ACTO|Lei|Resolução|Decreto(?:-Lei)?)\s+[Nn]\.\s*"
                r"(?P<numero>\d[\d.]*)\b", re.M),
 )
 
