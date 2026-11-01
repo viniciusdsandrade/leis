@@ -77,10 +77,10 @@ MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "a
 MES_NUMERO = {normal(m): i + 1 for i, m in enumerate(MESES)}
 # "DECRETO Nº 4.813 DE 29 DE DEZEMBRO DE 1975", "DECRETO N.º 2.740, DE 30 DE DEZEMBRO DE 1965", "LEI N. 287 (": a data
 # é opcional porque os livros de leis antigos não a trazem na epígrafe; nesse caso ela é conferida no fecho.
-# Só formatação varia na transcrição: "N. º", "N.º", "No"; "3 626" e "3.626"; "1.º DE ABRIL"; ano "1.970" ou "1 .970".
+# Só formatação varia na transcrição: "N. º", "N.º", "No", "N/"; "3 626", "3.626" e "1,674"; "1.º DE ABRIL"; ano "1.970" ou "1 .970".
 EPIGRAFE = re.compile(
-    r"(?P<tipo>DECRETO|LEI)\s+N(?:\s*[.º°o])*\s*(?P<numero>\d(?:[\d. ]*\d)?(?:-[A-Z])?)"
-    r"(?:\s*[,–—-]?\s*(?:DE\s+)?(?P<dia>\d{1,2})\s*[º°.]*\s*(?:DE\s+)?(?P<mes>[A-ZÇÃa-zçã]{4,9})\s*(?:DE\s+)?(?P<ano>\d\s*\.?\s*\d{3}))?",
+    r"(?P<tipo>DECRETO|LEI)\s+N(?:\s*[.º°o/])*\s*(?P<numero>\d(?:[\d., ]*\d)?(?:-[A-Z])?)"
+    r"(?:\s*[,.–—-]?\s*(?:DE\s+)?(?P<dia>\d{1,2})\s*[º°.]*\s*(?:DE\s+)?(?P<mes>[A-ZÇÃa-zçã]{4,9})\s*(?:DE\s+)?(?P<ano>\d\s*\.?\s*\d{3}))?",
     re.I)
 # "Campinas, 29 de dezembro de 1975", "aos 15 dias de maio de 1.970", "aos 5 dias do mês de Maio de 1.970"
 DATA_EXTENSO = re.compile(r"(?P<dia>\d{1,2})\s*[º°.]*\s*(?:dias?\s+)?(?:do\s+m[êe]s\s+)?de\s+(?P<mes>[A-ZÇÃa-zçã]{4,9})\s+de\s+(?P<ano>\d\s*\.?\s*\d{3})", re.I)
@@ -95,6 +95,8 @@ FECHO = re.compile(r"Pa[çc]o Municipal|Pal[áa]cio dos Jequitib[áa]s|(?:Prefei
 # "Art. 1º", "Artigo 1º", "Art. único" e, nas transcrições que perderam a palavra "Artigo", a linha "1º - Fica ..."
 ARTIGO = re.compile(r"(?m)^\W{0,4}Art(?:igo|\.)?\s*(?:1|único|unico)\b|\bArt(?:igo|\.)\s*1\s*[ºo°.]|^\W{0,4}1\s*[ºo°]\s*[-–—.]\s*[A-ZÀ-Ú]", re.I)
 ARTIGO_QUALQUER = re.compile(r"(?m)^\W{0,4}Art(?:igo|\.)\s*\d")
+# decretos de pessoal dos anos 1960 em forma não articulada: "A P O S E N T A, a partir de...", "NOMEIA", "EXONERA"
+FORMULA_DIRETA = re.compile(r"(?m)^\W*(?:A\s*P\s*O\s*S\s*E\s*N\s*T\s*A|NOMEIA|EXONERA|DESIGNA|DISPENSA|REMOVE|PROMOVE|READMITE|REVERTE|TRANSFERE|DEMITE)\b")
 FIM_DO_CONTEUDO = ("Visite tamb", 'id="footer"', "Coordenadoria de Estudos Jur")
 SEM_ORIGINAL = re.compile(r"Este conte[úu]do n[ãa]o possui Original", re.I)
 ANEXO_DA_FONTE = re.compile(r'href=["\x27](/images/full/[^"\x27]+)["\x27]', re.I)
@@ -334,7 +336,7 @@ def data_iso(dia, mes, ano):
 
 def so_digitos(numero):
     """Número sem pontos de milhar, espaços da transcrição ou zeros à esquerda; sufixo de letra fica ("3626-A")."""
-    return re.sub(r"[ .]", "", str(numero)).strip().upper().lstrip("0") or "0"
+    return re.sub(r"[ .,]", "", str(numero)).strip().upper().lstrip("0") or "0"
 
 
 def identidade(corpo, norma, info):
@@ -372,6 +374,8 @@ def integridade(corpo, norma, info):
     if len(re.sub(r"\W", "", plano)) < 150:
         return "texto curto demais para ser o ato integral"
     if not ARTIGO.search(plano):
+        if FORMULA_DIRETA.search(plano):
+            return "ato em forma não articulada (fórmula direta: APOSENTA, NOMEIA...), sem artigo inicial reconhecível"
         return "texto sem artigo inicial reconhecível"
     outros = alertas_multiplos_atos(corpo, info["tipo"], str(norma["numero"]))
     if outros:
@@ -423,11 +427,23 @@ def avaliar(bloco, norma, info):
     motivo = identidade(corpo, norma, info) or integridade(corpo, norma, info)
     if motivo and pdf:
         motivo = "texto não transcrito na fonte, que remete a arquivo digitalizado; " + motivo
-    elif motivo and motivo.startswith("epígrafe do ato não reconhecida") and not ARTIGO.search(texto_plano(corpo)):
-        motivo = "página sem o texto do ato (só ementa ou cabeçalho); " + motivo
+    elif (motivo and motivo.startswith(("epígrafe do ato não reconhecida", "texto curto demais", "texto sem artigo"))
+          and not ARTIGO.search(texto_plano(corpo)) and len(re.sub(r"\W", "", texto_plano(corpo))) < 400):
+        motivo = "página sem o texto do ato (só ementa, cabeçalho ou nota de publicação); " + motivo
     elif pdf:  # o texto passa, mas parte do ato (anexo, quadro) está só no arquivo digitalizado
         motivo = "anexo do ato em arquivo digitalizado da fonte, não representado no texto"
     return motivo, corpo, publicacao, notas, pdf
+
+
+def fonte_texto_coerente(fonte_texto, texto_integral):
+    """Regra de `campinas.py verificar`: o texto do .md tem de vir do anexo da ficha do SAPL (mesma URL, sem esquema)
+    ou, só quando a ficha não tem anexo, de uma página de norma do bibjuri (texto original ou consolidado)."""
+    sem_esquema = (fonte_texto or "").split("://", 1)[-1]
+    if texto_integral:
+        return sem_esquema == texto_integral.split("://", 1)[-1]
+    partes = urllib.parse.urlsplit(fonte_texto or "")
+    return (partes.hostname == urllib.parse.urlsplit(BIBJURI).hostname
+            and bool(re.fullmatch(r"/index/visualizar(?:original|atualizada)/id/\d+", partes.path)))
 
 
 def destino_de(norma, info):

@@ -1,4 +1,7 @@
-"""Verificações dos lotes de Campinas (SAPL): identidade contra a API, carimbos residuais e regeneração."""
+"""Verificações dos lotes de Campinas (SAPL e bibjuri): identidade contra a API, carimbos residuais e regeneração.
+
+Testes: test_campinas.py nesta pasta (fora do CI, que não faz checkout de scripts/municipios/).
+"""
 import argparse
 import collections
 import difflib
@@ -10,6 +13,8 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[3]  # raiz do repositório
 sys.path.insert(0, str(REPO / "scripts"))
+from baixar_bibjuri_campinas import fonte_texto_coerente  # noqa: E402
+
 HOST = "sapl.campinas.sp.leg.br"
 MUN = REPO / "municipais/SP/campinas"
 CACHE = REPO / "municipais/_indice/organicas-sapl" / HOST
@@ -39,6 +44,7 @@ def id_sapl(meta):
 
 
 def ultima_falha():
+    """Última falha por id: falhas.jsonl do pipeline SAPL e, por cima, retidos e fichas sem cartão do coletor bibjuri."""
     out = {}
     f = CACHE / "falhas.jsonl"
     if f.exists():
@@ -46,7 +52,39 @@ def ultima_falha():
             r = json.loads(linha)
             if "id" in r:
                 out[r["id"]] = r
+    bibjuri = REPO / "municipais/_indice/bibjuri-campinas"
+    for nome, rotulo in (("sem-cartao.json", "bibjuri sem cartão"), ("retidos.json", "bibjuri retido")):
+        caminho = bibjuri / nome
+        if caminho.exists():
+            for chave, r in json.loads(caminho.read_text()).items():
+                out[int(chave)] = {"id": int(chave), "erro": f"{rotulo}: {r.get('motivo', '')}"}
     return out
+
+
+# tipos da API do SAPL de Campinas (tiponormajuridica), pela sigla usada nos índices parciais do pipeline
+SIGLA_TIPO = {"LEI": 1, "LC": 2, "DEC": 4, "DL": 7, "RES": 8, "ELO": 9, "DEL": 17, "L48": 18, "D48": 19, "R48": 20, "LO": 21}
+
+
+def normas_do_ano(siglas, ano):
+    """Fichas do ano: índice parcial do pipeline SAPL ou, para os lotes do bibjuri, as páginas da API em cache
+    (mesma URL e mesmo nome que baixar_bibjuri_campinas.py e cobertura.py gravam). Sem rede."""
+    nome = f"indice-legislacao-parcial-{'-'.join(sorted(siglas))}-{ano}.json"
+    if (CACHE / nome).exists():
+        return json.loads((CACHE / nome).read_text())["normas"]
+    normas = []
+    for sigla in siglas:
+        page = 1
+        while True:
+            url = f"https://{HOST}/api/norma/normajuridica/?tipo={SIGLA_TIPO[sigla]}&page_size=100&page={page}&ano={ano}"
+            pagina = CACHE / (hashlib.sha256(url.encode()).hexdigest() + ".json")
+            if not pagina.exists():
+                raise SystemExit(f"{ano} {sigla}: sem índice parcial nem páginas da API em cache; rode cobertura.py ou o coletor antes")
+            dados = json.loads(pagina.read_bytes())
+            normas += dados["results"]
+            if not dados["pagination"].get("next_page"):
+                break
+            page += 1
+    return normas
 
 
 def verificar(siglas, anos):
@@ -60,9 +98,7 @@ def verificar(siglas, anos):
     total = {"indice": 0, "md": 0, "equivalentes": 0, "sem_md": 0, "divergencias": 0}
     sem_md = []
     for ano in anos:
-        nome = f"indice-legislacao-parcial-{'-'.join(sorted(siglas))}-{ano}.json"
-        idx = json.loads((CACHE / nome).read_text())
-        normas = idx["normas"]
+        normas = normas_do_ano(siglas, ano)
         ids = [n["id"] for n in normas]
         if len(ids) != len(set(ids)):
             print(ano, "ÍNDICE COM IDS REPETIDOS")
@@ -95,8 +131,9 @@ def verificar(siglas, anos):
             from baixar_organicas_sapl import texto_de_outra_norma
             troca = texto_de_outra_norma(HOST, n["id"])
             esperado = troca["texto_integral"] if troca else (n.get("texto_integral") or "")
-            if meta["fonte_texto"].split("://", 1)[1] != esperado.split("://", 1)[-1]:
-                erros.append("fonte_texto difere do texto_integral do cadastro")
+            if not fonte_texto_coerente(meta["fonte_texto"], esperado):
+                erros.append("fonte_texto difere do texto_integral do cadastro"
+                             + ("" if esperado else " (ficha sem anexo: só página do bibjuri vale)"))
             if meta["codigo_ibge"] != "3509502" or meta["municipio"] != "Campinas" or meta["uf"] != "SP":
                 erros.append("identidade municipal")
             if not p.name.endswith(f"-sapl-{n['id']}.md"):
@@ -162,13 +199,54 @@ def carimbos(arquivos, min_freq):
         print(f"{n:5d}  {chave[:200]}   [{ex_par[chave]}]")
 
 
+# nota que o pipeline grava em versao_texto quando recorta o ato de uma página de livro de leis (Campinas, até 1948)
+NOTA_RECORTE = "ato recortado da página do livro de leis anexada no SAPL"
+FONTE_BIBJURI = REPO / "municipais/_fonte/bibjuri-campinas"
+
+
+def pos_processar(corpo, meta):
+    """Pós-processamento do pipeline SAPL para Campinas, na mesma ordem: carimbos da biblioteca da Câmara e, quando o
+    .md anota o recorte, o ato próprio da página de livro de leis (recortar_ato_de_livro, que pode levantar RuntimeError)."""
+    from baixar_organicas_sapl import limpar_carimbo_campinas, recortar_ato_de_livro
+    corpo, _notas = limpar_carimbo_campinas(corpo)
+    if NOTA_RECORTE in (meta.get("versao_texto") or ""):
+        corpo, _data_fecho = recortar_ato_de_livro(corpo, meta["tipo_na_fonte"], meta["numero"], meta.get("data") or "")
+    return corpo
+
+
+def corpo_regenerado(meta, bruto):
+    """Corpo do .md refeito a partir da fonte em cache com o código atual. Devolve (corpo, motivo)."""
+    from baixar_organicas_sapl import corpo_de_fonte
+    if "bibjuri.campinas.sp.gov.br" in meta["fonte_texto"]:
+        import baixar_bibjuri_campinas as bibjuri
+        from comum import decodificar
+        info = next(i for i in bibjuri.TIPOS.values() if i["tipo"] == meta["tipo"])
+        bloco = bibjuri.bloco_conteudo(decodificar(bruto, "text/html; charset=iso-8859-1"))
+        motivo, corpo, _publicacao, _notas, _pdf = bibjuri.avaliar(bloco, {"numero": meta["numero"], "data": meta["data"]}, info)
+        return corpo, motivo
+    corpo, motivo = corpo_de_fonte(bruto, meta["fonte_texto"])
+    if motivo:
+        return None, motivo
+    try:
+        return pos_processar(corpo, meta), None
+    except RuntimeError as e:
+        return None, str(e)
+
+
+def fonte_em_cache(meta):
+    """Arquivo bruto da fonte: .bin do pipeline SAPL ou a página HTML do bibjuri (original ou consolidada)."""
+    if "bibjuri.campinas.sp.gov.br" in meta["fonte_texto"]:
+        ident = meta["fonte_texto"].rsplit("/", 1)[1]
+        return FONTE_BIBJURI / (f"{ident}.html" if "visualizaroriginal" in meta["fonte_texto"] else f"{ident}-consolidado.html")
+    return FONTE / f"{id_sapl(meta)}.bin"
+
+
 def regenerar(arquivos, mostrar):
-    from baixar_organicas_sapl import corpo_de_fonte, limpar_carimbo_campinas
     iguais = sem_cache = 0
     lista_difs = []
     for i, p in enumerate(arquivos):
         meta, corpo_md, _ = ler_md(p)
-        fonte = FONTE / f"{id_sapl(meta)}.bin"
+        fonte = fonte_em_cache(meta)
         if not fonte.exists():
             sem_cache += 1
             print("SEM CACHE", p.relative_to(REPO))
@@ -176,11 +254,10 @@ def regenerar(arquivos, mostrar):
         b = fonte.read_bytes()
         if hashlib.sha256(b).hexdigest() != meta["sha256_fonte"]:
             print("FONTE MUDOU", p.relative_to(REPO))
-        corpo, motivo = corpo_de_fonte(b, meta["fonte_texto"])
+        corpo, motivo = corpo_regenerado(meta, b)
         if motivo:
             lista_difs.append((p, "motivo: " + motivo))
             continue
-        corpo, _notas = limpar_carimbo_campinas(corpo)
         if hashlib.sha256(corpo.encode()).hexdigest() == meta["sha256_texto"] and corpo == corpo_md:
             iguais += 1
         else:
