@@ -34,7 +34,9 @@ TIPOS = {
     "19": ("resolucoes", "Resolução", "res-alesp"),
 }
 CABECALHO = {"Assembleia Legislativa do Estado de São Paulo", "Ficha informativa",
-    "Assembleia Legislativa do Estado de São Paulo Ficha informativa"}
+    "Assembleia Legislativa do Estado de São Paulo Ficha informativa",
+    # links do cabeçalho para a outra versão do texto (páginas que têm original e compilado)
+    "Texto com alterações", "Texto compilado"}
 rede = Rede(rps=4)
 
 
