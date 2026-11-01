@@ -42,6 +42,12 @@ class GranularidadeSAPLTest(unittest.TestCase):
         r = alertas_multiplos_atos('Decreto-Lei N. 96 (Dando denominação)\n\nDecreto-Lei N. 97 0$000 Aprova loteamento', 'Decreto-lei', '96')
         self.assertEqual([tuple(x['epigrafe_diversa']) for x in r], [('DECRETO-LEI', '97')])
 
+    def test_epigrafe_antiga_com_n_minusculo(self):
+        # livros de 1913 e de 1891: "Lei n. 183", "Resolução n. 45"; a citação moderna usa "nº"
+        r = alertas_multiplos_atos('Lei n. 183 Heitor Teixeira Penteado\n\nResolução n. 45 Fica elevado a 2$500', 'Leis Até 1948', '182')
+        self.assertEqual([tuple(x['epigrafe_diversa']) for x in r], [('LEI', '183'), ('RESOLUCAO', '45')])
+        self.assertEqual(alertas_multiplos_atos('Lei nº 183, de 2 de maio de 1913, e alterações', 'Leis Até 1948', '182'), [])
+
     def test_tipo_no_plural_e_decreto_lei_tem_identidade_propria(self):
         self.assertEqual(alertas_multiplos_atos('RESOLUÇÃO N. 990 (Faz doação de terreno ao Estado)', 'Resoluções Até 1948', '990'), [])
         r = alertas_multiplos_atos('Decreto-Lei N. 102 (Abrindo créditos)\n\nLEI N. 102 (Orça a receita)', 'Decreto-lei', '102')
