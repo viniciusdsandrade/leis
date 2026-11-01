@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 01/11/2026 16:46:28 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 01/11/2026 17:32:35 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.275.423 documentos · 1.155.088 / ~11.768.799 nas séries com meta (9.8%) · 17.972 sem meta**
+**1.275.425 documentos · 1.155.090 / ~11.768.799 nas séries com meta (9.8%) · 17.972 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-676.024 documentos · 573.441 / ~861.320 nas séries com meta (66.6%) · 6.553 sem meta
+676.026 documentos · 573.443 / ~861.320 nas séries com meta (66.6%) · 6.553 sem meta
 
 ### Infralegal — tributário
 
@@ -108,11 +108,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — trânsito e transportes
 
-24.393 documentos · 10.156 / ~12.857 nas séries com meta (79.0%) · 893 sem meta
+24.395 documentos · 10.158 / ~12.857 nas séries com meta (79.0%) · 893 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | CONTRAN: resoluções, deliberações e o Manual Brasileiro de Sinalização | 237 | 1.357 | `reguladores/contran` | Diário Oficial da União (in.gov.br) |
+| 🟦 | CONTRAN: resoluções, deliberações e o Manual Brasileiro de Sinalização | 239 | 1.357 | `reguladores/contran` | Diário Oficial da União (in.gov.br) |
 | ✅ | SENATRAN/DENATRAN: portarias | 1.788 | 1.500 | `reguladores/senatran` | Diário Oficial da União (in.gov.br) |
 | ✅ | ANTT: resoluções | 7.553 | 6.000 | `reguladores/antt` | Diário Oficial da União (in.gov.br) |
 | ✅ | ANTAQ: resoluções | 3.088 | 500 | `reguladores/antaq` | Diário Oficial da União (in.gov.br) |
@@ -334,9 +334,9 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
+| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
 | `reguladores/ministerio-da-economia/recomendacoes` | 2 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
 | `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |

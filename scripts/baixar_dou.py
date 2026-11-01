@@ -296,9 +296,16 @@ def caminho_do_ato(ato, orgao, pasta, ano):
 NUMERO = re.compile(r"n[ºo°]\s*([\d.]+)", re.I)
 
 
+# "íntegra" só como substantivo ("a íntegra", "na íntegra", "cuja íntegra", "íntegra disponível"): como
+# adjetivo ("informação íntegra e rastreável") não remete a um texto publicado em outro lugar.
+INTEGRA_EXTERNA = re.compile(
+    r"\b(?:(?:a|as|da|das|na|nas|cuja|cujas|sua|suas|respectiva|respectivas|desta|dessa|deste|desse"
+    r"|pela|pelas)\s+integras?\b|integras?\s+(?:disponi|publicad|consta|encontr)|inteiro teor\b)")
+
+
 def pendencia_integralidade(corpo):
     texto = normalizar_chave(corpo)
-    for m in re.finditer(r"\b(?:integras?|inteiro teor)\b", texto):
+    for m in INTEGRA_EXTERNA.finditer(texto):
         trecho = texto[max(0, m.start() - 80):m.end() + 240]
         if re.search(r"dispon|biblioteca|constam|site|consult|encontr", trecho):
             return "texto integral externo exige revisão: " + trecho
