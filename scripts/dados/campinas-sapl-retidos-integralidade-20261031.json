@@ -1,0 +1,1168 @@
+{
+  "7301": {
+    "sha256_fonte": "e9a884fd628ba0f22a3656bc93fa9c21b1042d0ec8626cd48ff9a4924c701a3f",
+    "motivo": "impressão do site da Prefeitura (bibjuri/lei8240.htm): a URL e o contador \"N de 148\" do navegador ficaram colados às tabelas; revisar"
+  },
+  "31729": {
+    "sha256_fonte": "874c4344661ab11ab0dceeb816f7af8abbb4f2d4df8e29ff2bcebe4cbc272496",
+    "motivo": "endereço da Câmara no rodapé (\"Avenida da Saudade, n - PABX\") lido pelo OCR dentro da assinatura do Chefe do Gabinete; revisar"
+  },
+  "13405": {
+    "sha256_fonte": "47942917e8c687d660b589ce2923e131ab4d47c3b9d037f64104a7376dd37f2d",
+    "motivo": "data do texto e do cadastro 05/01/1964, mas o cadastro é de 1965 e a numeração (Lei 3.150 de 09/12/1964, Lei 3.204 de 07/01/1965) indica 05/01/1965; revisar a data"
+  },
+  "8278": {
+    "sha256_fonte": "6e5c1e2efb1bee87de1474f62203f3a1f54a3f426f11e72ed91268ca55b3873b",
+    "motivo": "data do texto e do cadastro 01/03/1983, mas o cadastro é de 1984 e a numeração (Resolução 517 de 25/11/1983, 519 de 16/03/1984) indica 1984; revisar a data"
+  },
+  "8301": {
+    "sha256_fonte": "4a7e2a90141dbae683062d2ba1187a9347ed7592422d7bceff6c6b3a8647c699",
+    "motivo": "data do texto e do cadastro 17/03/1997, mas o cadastro é de 1987 e a numeração (Resolução 549 de 17/03/1987, 551 de 24/03/1987) indica 1987; revisar a data"
+  },
+  "8934": {
+    "sha256_fonte": "da25f03a2aa74bda9d850115551acd9472617c2ef11f95cbce2a87ed00eda36f",
+    "motivo": "data do texto e do cadastro 19/04/2005, mas o cadastro é de 2006 e a numeração (Decretos Legislativos de 2005 vão de 2.252 a 2.360; 2.404 e 2.406 são de 19 e 20/04/2006) indica 19/04/2006; revisar a data"
+  },
+  "38522": {
+    "sha256_fonte": "40191e76aea4bca26bb95b1c279c3dbbe89b6a86bcc9f0bc75840b071205866b",
+    "motivo": "data do cadastro 06/10/0214 e epígrafe \"de 06 de outubro de 214\": ano inválido; o cadastro é de 2014 e a numeração (3.818 e 3.820 de 06/10/2014) indica 06/10/2014; revisar a data"
+  },
+  "39357": {
+    "sha256_fonte": "63f67c7cdcb604475c32e97bcee90c37e697d3581847c3695e2b8a8f36c624bf",
+    "motivo": "contadores de folha soltos no meio das frases (\"1/10\" a \"9/10\" e depois \"10/11\"): o total muda na última folha e a regra de contador não os tira; revisar"
+  },
+  "9081": {
+    "sha256_fonte": "638947d2a40af1353e04cf4059261945e73b7dc8e60d2e8cf164b5e507eb7159",
+    "motivo": "OCR com contadores de folha soltos fora de sequência (\"2/13\", \"4/13\", \"7/13\", \"13/13\") no meio da tabela de lotes; a regra de contador não os tira; revisar"
+  },
+  "38146": {
+    "sha256_fonte": "1c487c09896af81aeddeda2a9755c69553330e7eea17ee7701c90bee734a614f",
+    "motivo": "data do cadastro 25/04/1975 e publicação 28/04/1975, mas a epígrafe diz \"DE 25 DE ABRIL DE 2014\", o cadastro é de 2014 e a numeração (18.329 de 24/04/2014, 18.331 de 25/04/2014) indica 25/04/2014; revisar a data"
+  },
+  "37935": {
+    "sha256_fonte": "a17c63d7b8c44fe0a16924b02048f115bc1cb72a64af8d05b2211424b9031f14",
+    "motivo": "data do cadastro 15/01/2015, mas o texto diz \"Publicada no Diário Oficial do Município de Campinas em 16/01/2014\", o cadastro é de 2014 e a numeração (Decretos de 2014 vão de 18.216 a 18.616; 18.223 é de 15/01/2014) indica 15/01/2014; revisar a data"
+  },
+  "37173": {
+    "sha256_fonte": "f22fe60b2ce278b75175656904f60d519bc5dfc25295f4303f22df73a060cf0c",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37158": {
+    "sha256_fonte": "ceb3a84c08871116b8eeb823cd06872baf741bd94e9ea187f12f7cd2b7f7895b",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37177": {
+    "sha256_fonte": "41cd0db8c065e3bb70e78a533d30995201869cafdf771b4c12d5683c7cf2c11b",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37234": {
+    "sha256_fonte": "f03c3ebfd30d811aad6961d5c105afe62e831877b79a806b423bd58abe136b06",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37174": {
+    "sha256_fonte": "3f461c8769efdfbac58995cf4c1b0e182d7f6aad95e1c0ed3b0655254a386eb3",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37109": {
+    "sha256_fonte": "22fc67099e90ea15cc5377e15c2e06182a6b6d5dafa035b81bed9f9dca3cd878",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37191": {
+    "sha256_fonte": "281154fc20132df4ef4738ac25c2442a4b256d50a521bd0e1cbd4bc29dbd978a",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37193": {
+    "sha256_fonte": "9657e8e8e11755d2fddd67a70a98b63e6c6c890c97078bea81e5113630f9bdf6",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37187": {
+    "sha256_fonte": "a0ea41aa10a59926b57343b05cd586839dfad494a82d43821790fb518805c710",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37212": {
+    "sha256_fonte": "1bd5c5322261243e75c7825df70888ad2d429eea8c4d472d45d2a86030d90880",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37185": {
+    "sha256_fonte": "adf2b02bad657d04d6bef01320f0845ca81909f23cea94dd3579efbfd13e5d22",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "37189": {
+    "sha256_fonte": "4f854ca5f69a56c46a3bb84a8f1e3fb515f1913d587b50a474f35354458626a1",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "49662": {
+    "sha256_fonte": "21b07be03a4533933d56ad5c28b25afffc4c8130380dd0d1779d45a085f65353",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45765": {
+    "sha256_fonte": "b07915fa127697ea4acbbd10e747ce0bbc61a6b0b088ea27407898530685a78c",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45772": {
+    "sha256_fonte": "5dca29618fb223256be4fea92470f8279e9d379cb5a852cc9145741d575cf28e",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45766": {
+    "sha256_fonte": "942ab8a5c7b32f3789e42cade0a05f25df3503360fccf20bc81d69a31c5f66c8",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45498": {
+    "sha256_fonte": "5493e464bbd47143293a2848c81b6e6844a6c1b48bb9c0fa004edefa4018e07a",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45593": {
+    "sha256_fonte": "64df949b62eee57ed01d69a7ff67f041f14d87edd05469ebd1daf33ddb4e84b6",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45836": {
+    "sha256_fonte": "34a85657395b46357f47f2800124d56e787db5dac28275a230fe2ec5e55c818c",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45665": {
+    "sha256_fonte": "bb87b49c71a88124d914bac5612f316eaa4a86b5235c441074181c9a405f4272",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45663": {
+    "sha256_fonte": "487e6fd48a76da69c4250b97dd5532a6d996108d2b73f7f729e563eed26cf5a5",
+    "motivo": "página do Diário Oficial do Município anexada no lugar do decreto, com outras colunas e atos junto; revisar sem cortar automaticamente"
+  },
+  "45543": {
+    "sha256_fonte": "2397e5adf9b9a632066a444650bb927f7388e6ca1f9455f6f6be34f08e06ee04",
+    "motivo": "página do Diário Oficial em duas colunas: o texto do decreto sai entrelaçado com o de outros atos; revisar"
+  },
+  "45743": {
+    "sha256_fonte": "ba1c4da15b8793422a4b78a95b75104aa8925a3d96ef518a98925295063018a4",
+    "motivo": "página do Diário Oficial em duas colunas: o texto do decreto sai entrelaçado com o de outros atos; revisar"
+  },
+  "45625": {
+    "sha256_fonte": "aa96d38aab796fe9329b480860b177eb491ed19190044d3a6a87fc37d30f67e0",
+    "motivo": "página do Diário Oficial em duas colunas: o texto do decreto sai entrelaçado com o de outros atos; revisar"
+  },
+  "37136": {
+    "sha256_fonte": "15b5557e209bcd41d41b390468300a9e0eb0d65feac2d9d669eb1488ff15e73d",
+    "motivo": "página do Diário Oficial em duas colunas: o texto do decreto sai entrelaçado com o de outros atos; revisar"
+  },
+  "37131": {
+    "sha256_fonte": "a5cede5c8675deac7fdb0fab59f396c6fb11850308af2996389b753d29598499",
+    "motivo": "página do Diário Oficial em duas colunas: o texto do decreto sai entrelaçado com o de outros atos; revisar"
+  },
+  "45755": {
+    "sha256_fonte": "923e61264358fee455f8f7da200bc04779b60b66592b180164c961a76c91a72c",
+    "motivo": "página do Diário Oficial em duas colunas: o texto do decreto sai entrelaçado com o de outros atos; revisar"
+  },
+  "45717": {
+    "sha256_fonte": "fbbeaa888f344b5b9128da215c3dfd41ea4e460957e4cdb544cd6891b1b57038",
+    "motivo": "página do Diário Oficial em duas colunas: o texto do decreto sai entrelaçado com o de outros atos; revisar"
+  },
+  "36615": {
+    "sha256_fonte": "402923793da816615d2d94625b4dfa7e1aab45d04bfbd4eb518036291e97b7e1",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "36621": {
+    "sha256_fonte": "52484457f03cbbd86ad35a634feb32a45d5c46e4f982bc5d817d80b06f615eca",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "36611": {
+    "sha256_fonte": "431b2815f0542f984d6458d0c38bad51aa59883d4c668a35627da557abded31f",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "45767": {
+    "sha256_fonte": "93fcc46cb78ad3fd167ee3d76039c44db4d58d93b87d9cef581de2d9dfa37fab",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "38104": {
+    "sha256_fonte": "87254885228a375afbf79b88a3147896a93ed50dd808c0eda0959df36c337746",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "1931": {
+    "sha256_fonte": "d62974d63dcbac276a11b464624a57d31929dcabdf98881c17f79cbd1d49901c",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "696": {
+    "sha256_fonte": "8fcaa3980440245677284394dfbf3cd8ec007b7386aac53e0eee50de1a5f766c",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "25668": {
+    "sha256_fonte": "5e077e789861e1e0dc28c5659d466f75eca78f3b942747ce02b30fbdd50cd45b",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "26024": {
+    "sha256_fonte": "9c7c4ee749f21e12a8f9ce5713524ef035d1d867119f4dcacc057e4ef1a6827e",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "27435": {
+    "sha256_fonte": "889271d8daa3b354002768ac4039d3e6b922c392e21865e1e4bbdfe141cfa594",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "17878": {
+    "sha256_fonte": "69b9b839ed14630f178cdfcd59bc092f8ce2fbd2671f7da8fb1018e691bcde48",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "23629": {
+    "sha256_fonte": "19b16f9aacb98359135d704c97f15885b8455cca602f060bf644362b87d816aa",
+    "motivo": "o texto extraído começa no meio (sem a epígrafe e o início do ato): partes do decreto se perderam; revisar"
+  },
+  "23686": {
+    "sha256_fonte": "11bc869bae168757ca4c896873c2dc9bdf31a8d05fa5617e0459026b1ef1c6d5",
+    "motivo": "a epígrafe do PDF se repete em mais da metade das folhas (republicação ou retificação no mesmo arquivo) e o conversor a tirou como cabeçalho corrente; revisar"
+  },
+  "39957": {
+    "sha256_fonte": "db7468d07c632b0428119f925d8845ab5fbc4502fa8acfcf90807200ffc7b982",
+    "motivo": "página do livro de leis com mais de um ato: traz a Lei 182 inteira (\"Lei n. 182 Publicada na secretaria...\"), com as colunas entrelaçadas pelo OCR; revisar"
+  },
+  "50705": {
+    "sha256_fonte": "3419fd9294d8ccbcd355f6490799ae80f327495a8d0a12a1f1375689253cec21",
+    "motivo": "página do livro com mais de um ato: a Resolução 65 vem entrelaçada com a Lei 55 (orçamento de 1899) pelo OCR das colunas; revisar"
+  },
+  "15896": {
+    "motivo": "anexo com citação de Lei 2848/1940 e Lei 8729/1995 que quebrou em parágrafo próprio; revisar"
+  },
+  "4427": {
+    "motivo": "citação da Lei 5626/85 quebrada em linha/parágrafo próprio no meio da frase do Art. 211; revisar"
+  },
+  "54033": {
+    "sha256_fonte": "e89eba64e28985a61c2db6ed49cb7bae88e3b1d68a5bd563c8292831635e06e6",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23051\"], \"epigrafe_diversa\": [\"DECRETO\", \"23050\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 23.050, DE 13 DE NOVEMBRO DE 2023\", \"motivo\": \"epígrafe de outra i; revisar sem cortar automaticamente"
+  },
+  "53945": {
+    "sha256_fonte": "51c0f43b16f3e21968794f8c6603ae0687e857ab5460cb757bb2d9eeb09f1740",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23014\"], \"epigrafe_diversa\": [\"LEI\", \"16467\"], \"posicao_no_corpo\": 0, \"trecho\": \"LEI Nº 16.467, DE 26 DE OUTUBRO DE 2023\", \"motivo\": \"epígrafe de outra identidade; revisar sem cortar automaticamente"
+  },
+  "53585": {
+    "sha256_fonte": "3bcf63387fa672ab633542506e4062d730bf73d84627ff233d6cbba227ee7abe",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"22911\"], \"epigrafe_diversa\": [\"DECRETO\", \"22910\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 22.910, DE 10 DE AGOSTO DE 2023\", \"motivo\": \"epígrafe de outra ide; revisar sem cortar automaticamente"
+  },
+  "53407": {
+    "sha256_fonte": "99800691dedc2a555ed8e680b781d7b6b563409be9eab55a8815ffb034533440",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"22845\"], \"epigrafe_diversa\": [\"DECRETO\", \"15425\"], \"posicao_no_corpo\": 1560, \"trecho\": \"Decreto nº 15.425, de 24 de março de 2006, que determina que os documentos; revisar sem cortar automaticamente"
+  },
+  "53016": {
+    "sha256_fonte": "495c23ec0df7e7ae682808a6867def0f3f96f15fad62ab10b365d096ea5ba2a2",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"22712\"], \"epigrafe_diversa\": [\"LEI\", \"16360\"], \"posicao_no_corpo\": 0, \"trecho\": \"LEI Nº 16.360, DE 14 DE MARÇO DE 2023\", \"motivo\": \"epígrafe de outra identidade n; revisar sem cortar automaticamente"
+  },
+  "55224": {
+    "sha256_fonte": "58caaf94968ebc71c670f08cabdd6b2de6c5d538211e28bac994a07a1174619f",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23482\"], \"epigrafe_diversa\": [\"DECRETO\", \"23481\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 23.481, DE 22 DE JULHO DE 2024\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "54286": {
+    "sha256_fonte": "69e1e0ec2d5a56ded10d1fa664237f39cae3dd36838ff80154847f68ffbcab97",
+    "motivo": "alerta de granularidade/outra publicação: [{\"offset\": 40041, \"trecho\": \" da Administração Pública.\\n\\n**§ 1º** O prazo para cumprimento do disposto no caput do presente artigo, será contado a partir da data de publicação do extrato do termo d; revisar sem cortar automaticamente"
+  },
+  "54365": {
+    "sha256_fonte": "b0802252b6c76fba85af560708cd52cf92b6874b88e844ac5f3c778762127e6d",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23138\"], \"epigrafe_diversa\": [\"DECRETO\", \"23137\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 23.137, DE 3 DE JANEIRO DE 2023\", \"motivo\": \"epígrafe de outra ide; revisar sem cortar automaticamente"
+  },
+  "57479": {
+    "sha256_fonte": "0b7e495fd3db0345100d5b6f3d035cb1e3ba5c7512557ffaea7560ab282676cb",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"24188\"], \"epigrafe_diversa\": [\"DECRETO\", \"24186\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.186, DE 3 DE DEZEMBRO DE 2025\", \"motivo\": \"epígrafe de outra id; revisar sem cortar automaticamente"
+  },
+  "56932": {
+    "sha256_fonte": "1fc1f94c10f08ef454b7f0437cbdc7bf17e4e3a7d148ca2f324e7180c3373bfb",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"24031\"], \"epigrafe_diversa\": [\"DECRETO\", \"24032\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.032, DE 3 DE SETEMBRO DE 2025\", \"motivo\": \"epígrafe de outra id; revisar sem cortar automaticamente"
+  },
+  "56765": {
+    "sha256_fonte": "8a4c6fbbcba3a2add155d2a6dcceb4e995b1c7115bfd435154a45759c7a8cf14",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23992\"], \"epigrafe_diversa\": [\"DECRETO\", \"23991\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 23.991, DE 05 DE AGOSTO DE 2025\", \"motivo\": \"epígrafe de outra ide; revisar sem cortar automaticamente"
+  },
+  "56452": {
+    "sha256_fonte": "affb850a16547048a60bfd21d841b770b9d3080171d92d3c7606e5dea9b8d569",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23886\"], \"epigrafe_diversa\": [\"LEI\", \"16745\"], \"posicao_no_corpo\": 0, \"trecho\": \"LEI Nº 16.745, DE 15 DE MAIO DE 2025\", \"motivo\": \"epígrafe de outra identidade no; revisar sem cortar automaticamente"
+  },
+  "56391": {
+    "sha256_fonte": "10730c63284d7bd0dd493d26f897a37aee71777a75b32233c153d43536fd482e",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23873\"], \"epigrafe_diversa\": [\"DECRETO\", \"24873\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.873, DE 6 DE MAIO DE 2025\", \"motivo\": \"epígrafe de outra identi; revisar sem cortar automaticamente"
+  },
+  "56390": {
+    "sha256_fonte": "e8e8eecd02af6c6c223bf21b00f2b295801364f6570b039d7e5cdad3fd374a9c",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23872\"], \"epigrafe_diversa\": [\"DECRETO\", \"24872\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.872, DE 6 DE MAIO DE 2025\", \"motivo\": \"epígrafe de outra identi; revisar sem cortar automaticamente"
+  },
+  "56367": {
+    "sha256_fonte": "dc45ed747a9f4cf0d96280e9d2e17d880776d374169727d371e9edc028e18961",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23869\"], \"epigrafe_diversa\": [\"DECRETO\", \"24869\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.869, DE 28 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "56365": {
+    "sha256_fonte": "af3a2a0fac930f66275087eed4effd92ae154bf4602dd9ca4e7f6b5be0b64db4",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23867\"], \"epigrafe_diversa\": [\"DECRETO\", \"24867\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.867, DE 28 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "56364": {
+    "sha256_fonte": "76724f60f98441ee8fb7caab0985e678e48399d33c993d357d3f51202675c0eb",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23866\"], \"epigrafe_diversa\": [\"DECRETO\", \"24866\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.866, DE 28 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "56363": {
+    "sha256_fonte": "71dbd3713fac4c771d6de277fdf6977ea23c2b1fffde60befb4bc507a892e309",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23865\"], \"epigrafe_diversa\": [\"DECRETO\", \"24865\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.865, DE 28 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "56351": {
+    "sha256_fonte": "b6a940c96a0422e9ee5ca4038493b7c64526c91312e39ae68eb314710ccb5133",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23859\"], \"epigrafe_diversa\": [\"DECRETO\", \"24859\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.859, DE 24 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "56341": {
+    "sha256_fonte": "b55d9eb2752ffbaae1db31c5ae41085bb47264ead0b03a2ddd570df165bf04cc",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23856\"], \"epigrafe_diversa\": [\"DECRETO\", \"24856\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.856, DE 22 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "56340": {
+    "sha256_fonte": "7d8c5188b261494112762c44975084aad9ae2e28b59a16cebe474b59e8d9ed6a",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23855\"], \"epigrafe_diversa\": [\"DECRETO\", \"24855\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.855, DE 22 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "56338": {
+    "sha256_fonte": "a09c22b4ffd765b9988349569f4662ffa364d9842d2fccb7e84e8ac689c12b6a",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23854\"], \"epigrafe_diversa\": [\"DECRETO\", \"24854\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.854, DE 17 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "56337": {
+    "sha256_fonte": "3ad7991f05639811767aeae406e6493aad96140d571e3caf9702860e28229ad5",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23853\"], \"epigrafe_diversa\": [\"DECRETO\", \"24853\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.853, DE 17 DE ABRIL DE 2025\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "55973": {
+    "sha256_fonte": "d73e1f4c47fdb49b33b6562d25c7feb5e8744c6b3889eaa5b2639aa3b125e362",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"23733\"], \"epigrafe_diversa\": [\"LEI\", \"173\"], \"posicao_no_corpo\": 1953, \"trecho\": \"Lei Municipal nº 173, de 28 de junho de 1949.\", \"motivo\": \"epígrafe de outra ide; revisar sem cortar automaticamente"
+  },
+  "58836": {
+    "sha256_fonte": "545006f5d05acdefb032af2c26f14c7603700aed557715acdb5bdafc35bccbd9",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"24651\"], \"epigrafe_diversa\": [\"DECRETO\", \"24652\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.652, DE 25 DE SETEMBRO DE 2026\", \"motivo\": \"epígrafe de outra i; revisar sem cortar automaticamente"
+  },
+  "58835": {
+    "sha256_fonte": "60ad426c9aae43b58ee2a3e82c71f6a3fe53f836a4d12d4b30b7c6a4b134027a",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"24650\"], \"epigrafe_diversa\": [\"DECRETO\", \"24651\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.651, DE 25 DE SETEMBRO DE 2026\", \"motivo\": \"epígrafe de outra i; revisar sem cortar automaticamente"
+  },
+  "58331": {
+    "sha256_fonte": "d9cf3446e322fbb4ccd52b9ce319692ba628b911cac0a1fcf78f28154887dca1",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"24501\"], \"epigrafe_diversa\": [\"DECRETO\", \"24500\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 24.500, DE 16 DE JUNHO DE 2026\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "57908": {
+    "sha256_fonte": "066ba163bee1e50a1416d5db24f41b970abc77a61932a48489c82be120ef3f15",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 24.361, DE 24 DE MARÇO DE 2026  Altera o Decreto nº 22.153, de 25 de maio de 2022, que \"Regulamenta a Lei Complementar nº 356, de 25 de mai; revisar"
+  },
+  "28597": {
+    "sha256_fonte": "18b9c65cdf94126ddc39a2b72387d8fa85bed08a3c5ebaee14b86847871f48f4",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N. 1432, DE 13 DE JULHO DE 1959  APOSENTA O SR. ESTANISLAU DE ALMEIDA LOPES, FUNCIONÁRIO DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municip; revisar"
+  },
+  "28576": {
+    "sha256_fonte": "6f272a824f40fc855602f1121fcf4a20cc66356e943f6a03547e95a78ed14f50",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N. 1411, DE 4 DE JUNHO DE 1959  APOSENTA O SR. TALVINO EGYDIO DE SOUZA ARANHA JUNIOR, FUNCIONÁRIO DO DEPARTAMENTO DA FAZENDA DA SECRETARIA DAS; revisar"
+  },
+  "28553": {
+    "sha256_fonte": "0aaa8b99007674282bf8e4231de55df1f34fa1b011d72d8610de956da18fd7e4",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N. 1388, DE 22 DE ABRIL DE 1959  APOSENTA MARIA LUCILLA BUENO TEIXEIRA DE CAMARGO, FUNCIONÁRIA DO DEPARTAMENTO DO EXPEDIENTE  O Prefeito Munic; revisar"
+  },
+  "28515": {
+    "sha256_fonte": "4a2f23f608349c15b20c9d5100953c09f7a5bc1b360635f1b65e693e5c0f0ec1",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N. 1350, DE 30 DE JANEIRO DE 1959  APOSENTA DONA MARIA DAS DORES TEIXEIRA, FUNCIONÁRIA DO DEPARTAMENTO DE ENSINO E DIFUSÃO CULTURAL  O Prefeit; revisar"
+  },
+  "28875": {
+    "sha256_fonte": "964e6b3e39ceedbdc049c3f2b997d0125cafac8603bb9117a195795e11b24bd5",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 1712 DE 3 DE FEVEREIRO DE 1961  APOSENTA O SR. HERBERT SEIFFERT JACOBY, FUNCIONÁRIO DO DEPARTAMENTO DA FAZENDA  O Prefeito Municipal de Cam; revisar"
+  },
+  "26273": {
+    "sha256_fonte": "44ee9edcc99698218d84fe6f778d4e902e24acca5d4b3f4026c93a33f6470470",
+    "motivo": "alerta de granularidade/outra publicação: [{\"offset\": 11154, \"trecho\": \"do Tribunal Pleno são públicas, podendo a elas assistir qualquer interessado.\\n\\n**Artigo 27** – A ordem dos trabalhos nas sessões será a seguinte: a – abertura da sessão; revisar sem cortar automaticamente"
+  },
+  "29217": {
+    "sha256_fonte": "95046f90a67704ee372f82711fb19fc50a6c5c37927b266f32563beaeecbb21d",
+    "motivo": "sem artigo inicial reconhecível: DECRETO  DECRETO Nº 1891, DE 12 DE ABRIL DE 1962  DISPÕE SOBRE ENQUADRAMENTO DOS FUNCIONÁRIOS DE NÍVEL UNIVERSITÁRIO  Publicado no Departamento do Exp; revisar"
+  },
+  "29215": {
+    "sha256_fonte": "1d8f0c9d83069cab6ff3d86783a35babe25b8136673df642c4f92516ef1a4669",
+    "motivo": "sem artigo inicial reconhecível: DECRETO  DECRETO Nº 1890, DE 10 DE ABRIL DE 1962  DISPÕE SOBRE EFETIVAÇÃO DE CHEFE DE SECÇÃO  Publicado no Departamento do Expediente e afixado no Paç; revisar"
+  },
+  "29203": {
+    "sha256_fonte": "7117a34ffcb8bcb5cd1dda57447812255496807b56193961e2fd7a51404f4322",
+    "motivo": "sem artigo inicial reconhecível: DECRETO  DECRETO Nº 1883, DE 27 DE MARÇO DE 1962  APOSENTA O SR. BENEDITO DA COSTA CAMARGO, FUNCIONÁRIO DO DEPARTAMENTO DA FAZENDA  Publicado no Depar; revisar"
+  },
+  "29195": {
+    "sha256_fonte": "c3cbbbf19cec3bb956638c3183a924b05b33dfcf9f294c65cea7ee065dd9d3af",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 1879, DE 17 DE MARÇO DE 1962  APOSENTA O SR. JOSÉ DUARTE, DO CORPO MUNICIPAL DE BOMBEIROS  Publicado no Departamento de Expediente e afixad; revisar"
+  },
+  "29187": {
+    "sha256_fonte": "31ac07a81152ecf59c7b96742d63ca1f51b1fe20b39ab8f17ad5fdd68dda6941",
+    "motivo": "sem artigo inicial reconhecível: DECRETO  Pelo Sr. Prefeito Municipal foi assinado o seguinte decreto:  DECRETO Nº 1875 DE 13 DE MARÇO DE 1962  APOSENTA O SR. AGENOR PIANTONI RODRIGUE; revisar"
+  },
+  "29974": {
+    "sha256_fonte": "7354ab74473227b14af702c62393180c6a725d077de1e8752db20425e375a969",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2373, DE 6 DE NOVEMBRO DE 1964  APOSENTA O SR. ÁLVARO MARCHETTI, FUNCIONÁRIO DO DEPARTAMENTO DE ÁGUAS E ESGOTOS.  O Prefeito Municipal de C; revisar"
+  },
+  "29948": {
+    "sha256_fonte": "d98ab926da77d9cea1f4e3b7220597c263d3c0e5c3c60fcd8dedff4963b9be40",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2360, DE 22 DE SETEMBRO DE 1964  APOSENTA A SRA. CAROLINA TEIXEIRA SOARES, FUNCIONÁRIA DO DEPARTAMENTO DE ENSINO E DIFUSÃO CULTURAL.  O Pre; revisar"
+  },
+  "29899": {
+    "sha256_fonte": "b4bcb590a47b98fd89f73b795e4cb6938fe17b76283a9696f72a3fdfe3f29fe3",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2335, DE 15 DE JULHO DE 1964  DISPÕE SOBRE O DESLIGAMENTO DO SR. ALCIDES GARCIA  Publicado no Departamento do Expediente, e afixado no Paço; revisar"
+  },
+  "29897": {
+    "sha256_fonte": "20c3e019b6512a0f1e1d9c1e3d1cc0e927e3ec72ed7b30e629b6df6960ec8fd9",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2334, DE 14 DE JULHO DE 1964  DISPÕE SOBRE O DESLIGAMENTO DO SR. LÁZARO ALVES  Publicado no Departamento do Expediente, e afixado no Paço M; revisar"
+  },
+  "29885": {
+    "sha256_fonte": "6b6fe655b2b27deaef6fecec705ee50ee568a79ccaab119c0480ceafd63a5b29",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2328, DE 26 DE JUNHO DE 1964  APOSENTA O SR. JOSÉ FABER DE ANCHIETA PRADO, DIRETOR DO DEPARTAMENTO DO PESSOAL.  Publicado no Departamento d; revisar"
+  },
+  "26280": {
+    "sha256_fonte": "215333e83705c0bce4b33f213aaebbd136ceec5998a2509a8326ef9dd7b32f1f",
+    "motivo": "alerta de granularidade/outra publicação: [{\"offset\": 13424, \"trecho\": \"\\n**Artigo 38** – As sessões das câmaras e do Tribunal Pleno serão públicas.\\n\\n**Artigo 39** – A ordem dos trabalhos nas sessões será a seguinte:\\n\\na) – abertura da ses; revisar sem cortar automaticamente"
+  },
+  "29810": {
+    "sha256_fonte": "d98d1306d10f0b3a0cd3cad628abe671e2cdc926f41e56dc4ba82efd342133f4",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2289, DE 13 DE ABRIL DE 1964  APOSENTA O SR. OSWALDO SILVA LIMA, FUNCIONÁRIO DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Cam; revisar"
+  },
+  "29787": {
+    "sha256_fonte": "3267f86564448386df56ec6c5a7b3cca553ca05e9e9a751f33c0fbbc09546398",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2277, DE 17 DE MARÇO DE 1964  APOSENTA O SR. JOÃO GOMES CARVALHO, FUNCIONÁRIO DO DEPARTAMENTO DO PESSOAL  O Prefeito Municipal de Campinas,; revisar"
+  },
+  "29782": {
+    "sha256_fonte": "929d235fb1ee64cf681815f1ea017bee040dfbdcb3b7c53da1b527d85b200bf9",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2274, DE 13 DE MARÇO DE 1964  APOSENTA O SR. DR. JOSÉ ANDERSON, FUNCIONÁRIO DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO PÚBLICA  O Prefeit; revisar"
+  },
+  "29778": {
+    "sha256_fonte": "6722fe6e5da2f7b232bad8b938c00568c50397c3cf5a0eafde70ffcb1e31f2eb",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2272, DE 9 DE MARÇO DE 1964  APOSENTA O SR. JOSÉ GIROTTO, FUNCIONÁRIO DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, ; revisar"
+  },
+  "29770": {
+    "sha256_fonte": "ab736df7b94e717dbd968aeac4eb1943c316eaddcf01b42abb7a3b4be85e0289",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2268, DE 26 DE FEVEREIRO DE 1964  APOSENTA O SR. ERNESTO LOVISARO, FUNCIONÁRIO DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Municipal de ; revisar"
+  },
+  "29768": {
+    "sha256_fonte": "21227d853ba1c365844b47a2f9c7ea58db2d602595231dafa69f54d13c88c92c",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2267, DE 26 DE FEVEREIRO DE 1964  APOSENTA O SR. ARIOVALDO WUSTEMBERG, FUNCIONÁRIO DO DEPARTAMENTO DE ÁGUA E ESGOTOS.  O Prefeito Municipal; revisar"
+  },
+  "29766": {
+    "sha256_fonte": "57c522826b70fd68e52b3dcea15e7194e73d4d73b895993b59ab71c465dd81b4",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 2266, DE 20 DE FEVEREIRO DE 1964  APOSENTA O SR. DR. JOSÉ ALFIO PIAZON, FUNCIONÁRIO DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO PÚBLICA  O; revisar"
+  },
+  "29752": {
+    "sha256_fonte": "b73c89167a69514aaeaebd32e7609499f78fb92ae5b96d23718e4c46f6964482",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"2259\"], \"epigrafe_diversa\": [\"DECRETO\", \"2224\"], \"posicao_no_corpo\": 105, \"trecho\": \"DECRETO Nº 2.224 DE 30 DE DEZEMBRO DE 1963, E DÁ OUTRA PROVIDÊNCIA\", \"motivo\"; revisar sem cortar automaticamente"
+  },
+  "30752": {
+    "sha256_fonte": "d4d9d12c5385b5d65e5d946914fa1e967e87b0f338e829e61cfaa1884b13ba7b",
+    "motivo": "sem artigo inicial reconhecível: DECRETO  DECRETO nº 2839 de 29 de agosto de 1966 – Dispõe sobre relotação de cargo e funcionária, referência “16”, cargo lotado pela titular efetiva M; revisar"
+  },
+  "30676": {
+    "sha256_fonte": "062db8a38c0b157d631d12f9feffb99a8ed1541c2dff11ea2fed98ea7555ab5e",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"2775\"], \"epigrafe_diversa\": [\"DECRETO\", \"2658\"], \"posicao_no_corpo\": 102, \"trecho\": \"DECRETO Nº 2658, DE 22 DE SETEMBRO DE 1965.\", \"motivo\": \"epígrafe de outra id; revisar sem cortar automaticamente"
+  },
+  "30675": {
+    "sha256_fonte": "e21edcaacac3bf868d28499f3f873aa41fa2b0da3710b894ba47bd75b8bfbeab",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"2774\"], \"epigrafe_diversa\": [\"DECRETO\", \"2754\"], \"posicao_no_corpo\": 102, \"trecho\": \"DECRETO Nº 2754, DE 28 DE JANEIRO DE 1966.\", \"motivo\": \"epígrafe de outra ide; revisar sem cortar automaticamente"
+  },
+  "30673": {
+    "sha256_fonte": "1777ccf6819f923a1612c784b6daa0543f79a5600e03ad5d91eeedeaa6fc8e62",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"2772\"], \"epigrafe_diversa\": [\"DECRETO\", \"2724\"], \"posicao_no_corpo\": 104, \"trecho\": \"DECRETO Nº 2724 DE 6 DE DEZEMBRO DE 1965.\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "30655": {
+    "sha256_fonte": "90f1e00fba20ef9afd13d6d620edc9694e359379e41ee1b572ebbddcd400b3f9",
+    "motivo": "sem artigo inicial reconhecível: > Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.  DECRETO N.o 2756, DE 28 DE JANEIRO DE 1966. Declara de utilida; revisar"
+  },
+  "30641": {
+    "sha256_fonte": "b2410cce1b598bee580b06c545bdbda8504fda5c32cfb9c5c02c984d06637109",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"2742\"], \"epigrafe_diversa\": [\"DECRETO\", \"2494\"], \"posicao_no_corpo\": 103, \"trecho\": \"DECRETO Nº 2494, DE 6 DE ABRIL DE 1965.\", \"motivo\": \"epígrafe de outra identi; revisar sem cortar automaticamente"
+  },
+  "31171": {
+    "sha256_fonte": "9ab861ed64f14b483cd8dd0ccdeb1d7984789a71525185c0e632eaa93a6b246c",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"3239\"], \"epigrafe_diversa\": [\"DECRETO LEGISLATIVO\", \"3239\"], \"posicao_no_corpo\": 65, \"trecho\": \"DECRETO LEGISLATIVO Nº 3.239 DE 03 DE MARÇO DE 2011 CONCEDE DIPLOM; revisar sem cortar automaticamente"
+  },
+  "19212": {
+    "sha256_fonte": "9cb04e784f936fd93a5ac001edbcb145ea710992de7545a999b4229e0bf27120",
+    "motivo": "sem artigo inicial reconhecível: (Foi impresso em folheto separado)  DECRETO Nº. 328 DE 29 DE DEZEMBRO DE 1950 DISPÕE QUE SE OBSERVE, NA EXECUÇÃO DO ORÇAMENTO DO MUNICÍPIO DE CAMPINAS; revisar"
+  },
+  "21811": {
+    "sha256_fonte": "4f9c055e31a3a512d7f0d9dc4eb16b2183a6accabcffa5c0b079e2945156ab96",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 355 DE 21 DE DEZEMBRO DE 1951 DISPÕE QUE SE OBSERVA, NA EXECUÇÃO DO ORÇAMENTO DO MUNICÍPIO DE CAMPINAS, PARA 1952, A DISCRIMINAÇÃO DA DESP; revisar"
+  },
+  "18800": {
+    "sha256_fonte": "12ee9816438c08bb270cc32ac15037e7c9c4e098e408e35957d0444ff0370e8e",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 404, DE 22 DE DEZEMBRO DE 1952 DISPÕE QUE SE OBSERVE, NA EXECUÇÃO DO ORÇAMENTO DO MUNICÍPIO DE CAMPINAS, PARA 1953, A DISCRIMINAÇÃO DA DES; revisar"
+  },
+  "18769": {
+    "sha256_fonte": "361857556eb1b21b21de4ddd39f7ae6ad8552f803e1ab8263974ec6341136d8f",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 396, DE 01 DE DEZEMBRO DE 1952 DECRETA LEITO OFICIAL PELO PASSAMENTO DO DR. JOAQUIM ALVARO DE SOUSA CAMARGO  O DR. ANTÔNIO MENDONÇA DE BAR; revisar"
+  },
+  "18756": {
+    "sha256_fonte": "3231d3462dcfb7adfb1c45889c325f69f2e1691af73b0c6b00e27a8713d5d4b5",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 383, DE 17 DE NOVEMBRO DE 1952 APOSENTA O JARDINEIRO, SNR. BENEDITO PORCATTI  O PREFEITO MUNICIPAL DE CAMPINAS, USANDO DAS ATRIBUIÇÕES QUE; revisar"
+  },
+  "18750": {
+    "sha256_fonte": "d3de35e98de003f4c2b8a739730d152fe0641757bd5c7ad2a9cd9e3d82e0384a",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 377, DE 12 DE NOVEMBRO DE 1952 APOSENTA SEBASTIÃO PEDROSO DO D. A. A. P.  O PREFEITO MUNICIPAL DE CAMPINAS, USANDO DAS ATRIBUIÇÕES QUE LHE; revisar"
+  },
+  "18749": {
+    "sha256_fonte": "f32cfdbcc9c4f355ac6f5f7aed0f5d0a51f8113ed69be10530ca2c06a709a548",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 376, DE 12 DE NOVEMBRO DE 1952 RETIFICA O DECRETO Nº. 517, DE 20 DE SETEMBRO DE 1951  O PREFEITO MUNICIPAL DE CAMPINAS, USANDO DAS ATRIBUI; revisar"
+  },
+  "19009": {
+    "sha256_fonte": "7c026a56a774333409f9f54faff60fb35b7b72979da80f910b73ca066d22b057",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 500, DE 12 DE DEZEMBRO DE 1953 DISPÕE QUE SE OBSERVE, NA EXECUÇÃO DO ORÇAMENTO DO MUNICÍPIO DE CAMPINAS, PARA 1854, A DISCRIMINAÇÃO DA DES; revisar"
+  },
+  "19001": {
+    "sha256_fonte": "4f079f2cfa4fa7403aeb7a073dfb1a8d8a6a5144e71c978d0a4f575acfd5f42c",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 492, DE 21 DE NOVEMBRO DE 1953 APOSENTA A PROFESSORA DONA AURÉLIA GOMES, DO DEPARTAMENTO DE ENSINO E DIFUSÃO CULTURAL  O Prefeito Municipa; revisar"
+  },
+  "18994": {
+    "sha256_fonte": "b908a8a2f5c43fb0a0087e9dd8c378d6f22e38a06943f7ed4a38ad1629acb081",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 485, DE 07 DE NOVEMBRO DE 1953 APOSENTA O SR. OSCAR AUGUSTO ARAGÃO, DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Municipal de Campinas, ; revisar"
+  },
+  "18991": {
+    "sha256_fonte": "a49ba9db1c0fd28b7c2bd8910b35cd2db77ab39d12c12c5637703d7e307a09ab",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 482, DE 27 DE OUTUBRO DE 1953 APOSENTA O SR. DURVAL NABOR DE FARIA, DO DEPARTAMENTO DA FAZENDA  O Prefeito Municipal de Campinas na confor; revisar"
+  },
+  "18987": {
+    "sha256_fonte": "eec277cc343438b4fd3d44221fa99c8090801d022444295962c56435313d678d",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 479, DE 20 DE OUTUBRO DE 1953 APOSENTA O SR. GUMERCINDO RODRIGUES, DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, us; revisar"
+  },
+  "18917": {
+    "sha256_fonte": "98a860285994825aa75515296b0607bf8becfd3439ab0ecae2cd124e5aee8401",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 473, DE 12 DE SETEMBRO DE 1953 APOSENTA O SR. FRANELSEO DE PAULA, DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, usa; revisar"
+  },
+  "18886": {
+    "sha256_fonte": "5d8fe7972860a671a375cc5dc522f5056489dff9c81d4f51cba7ee4da829ecb3",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 442, DE 09 DE ABRIL DE 1953 APOSENTA O SR. MANOEL DE SONSA FILHO, DA INSPETORIA FISCAL  O Prefeito Municipal de Campinas, usando das atrib; revisar"
+  },
+  "18834": {
+    "sha256_fonte": "0a7b267b35db02b5381713349df0f170d9fb52884d996f048524caae6624c886",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 438, DE 06 DE ABRIL DE 1953 NOMEIA EM CARÁTER EFETIVO Dª. DAVINA RIBAS MOURA  O Prefeito Municipal de Campinas, usando das atribuições de ; revisar"
+  },
+  "18825": {
+    "sha256_fonte": "4c3b9ca05843bb6377a6691af628f08920512ea2f3ad9ba8063d4116867d3b43",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N. 429, DE 12 DE MARÇO DE 1953 APOSENTA O SR. SEBASTIÃO BARBOSA DOS SANTOS, DO DEPARTAMENTO DA FAZENDA  O Prefeito Municipal de Campinas, usan; revisar"
+  },
+  "18817": {
+    "sha256_fonte": "dfa0a92b0b66956a3c16877f8fdbe65600e29ca047e41ff9321da820422bd02b",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 421, DE 06 DE FEVEREIRO DE 1953 APOSENTA O SR. FAUSTO BARBOSA DE AZEVEDO, DA INSPETORIA FISCAL  O Prefeito Municipal de Campinas, usando d; revisar"
+  },
+  "18813": {
+    "sha256_fonte": "141e7f605267f08d9cb325868d17de97d16c7e116587af496ef3542d473fb671",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 417, DE 23 DE JANEIRO DE 1953 APOSENTA O SR. DOLOR DE CAMARGO, DA INSPETORIA FISCAL  O Prefeito Municipal de Campinas, usando das atribuiç; revisar"
+  },
+  "18810": {
+    "sha256_fonte": "574a587653a8f114c4f86eb0ca27b7ba57b7fed8bd5e89d77b9854ceb81292fc",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 414, DE 16 DE JANEIRO DE 1953 APOSENTA O SR. HERCULANO KRAMBECK, DA INSPETORIA FISCAL  O Prefeito Municipal de Campinas, usando das atribu; revisar"
+  },
+  "18809": {
+    "sha256_fonte": "67eed9280c156883ef4abf04502338e2ee052fa3daf59369a6abfbdc01b77672",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 413, DE 14 DE JANEIRO DE 1953 DECRETA LUTO OFICIAL PELO PASSAMENTO DO SR. ANTÔNIO DE OLIVEIRA VALENTE  O Dr. Antônio Mendonça de Barros, P; revisar"
+  },
+  "18808": {
+    "sha256_fonte": "83b9b68182fd93fb3a92a0c8fc0661e448d864166e35f0e2e105cd026892cfc9",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 412, DE 13 DE JANEIRO DE 1953 APOSENTA O SR. MANOEL JOÃO STOMPER, DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, usa; revisar"
+  },
+  "19205": {
+    "sha256_fonte": "873f639018fa5683da21048ee4dd46e792128b7d8b6800ac9905a31b8c85a55f",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 601, DE 09 DE DEZEMBRO DE 1954 DISPÕE QUE SE OBSERVE, NA EXECUÇÃO DO ORÇAMENTO DO MUNICÍPIO DE CAMPINAS, PARA 1955, A DISCRIMINAÇÃO DA DES; revisar"
+  },
+  "19182": {
+    "sha256_fonte": "36b0457fa41dbfc5cf3b3220f85fb04023b75067f805916777fc77c0db43c664",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"578\"], \"epigrafe_diversa\": [\"LEI\", \"210\"], \"posicao_no_corpo\": 112, \"trecho\": \"LEI Nº. 210, DE 23 DE SETEMBRODE 1949, QUE INSTITUI A \\\"SEMANA DE CARLOS GOMES\\\"\", ; revisar sem cortar automaticamente"
+  },
+  "19167": {
+    "sha256_fonte": "f833854659ae81e06c7918f641e62af5ba8e7d256b8322d340a56d2cb99454a5",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 563, DE 27 DE JULHO DE 1954 APOSENTA O SR. ALBERTO BARBARINI, DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Vice-Prefeito Municipal, em exercício,; revisar"
+  },
+  "19164": {
+    "sha256_fonte": "562a4f7e74cedd5f872379d1137bb83ceb34cc36f4a2b0e7570a9f7dc9368a9e",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 560, DE 23 DE JULHO DE 1954 APOSENTA O SR. LUIZ DE BARROS MORAIS, DO DEPARTAMENTO DA FAZENDA  0 Vice-Prefeito Municipal, em exercício, na ; revisar"
+  },
+  "19150": {
+    "sha256_fonte": "f81a7a144b427da4bafb6f4b14a74d3914f9a7b36b74b391c69dc9ab1389d79d",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 546, DE 28 DE JUNHO DE 1954 APOSENTA O SNR. SOTERO OZAMIS, DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, na conform; revisar"
+  },
+  "19148": {
+    "sha256_fonte": "a4cdf6f4a6edd6ba0cf2b826028384fe14888cca46680d8b94835d69c8e0e0cb",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 544, DE 07 DE JUNHO DE 1954 APOSENTA O SNR. ANTÔNIO CARLOS DE ABREU SAMPAIO, DO DEPARTAMENTO LEGAL  O Prefeito Municipal de Campinas, usan; revisar"
+  },
+  "19035": {
+    "sha256_fonte": "e8e9ce13ef3de1d31275746cbd3f0a7250c5e03767cf4ded5722cdb284c57cb5",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 526, DE 15 DE MARÇO DE 1954 APOSENTA A PROFESSORA DONA URANA GOMES BARROS, DO DEPARTAMENTO DE ENSINO E DIFUSÃO CULTURAL  O Prefeito Munici; revisar"
+  },
+  "19034": {
+    "sha256_fonte": "a77d575c49ef5cec3c80c78ff0b2229a2a18a70acbeb61a2a91e924186ab7df8",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 525, DE 15 DE MARÇO DE 1954 APOSENTA O SNR. ALBANO DE LIMA, DO DEPARTAMENTO DE ENSINO E DIFUSÃO CULTURAL  O Prefeito Municipal de Campinas; revisar"
+  },
+  "19018": {
+    "sha256_fonte": "692ec8f99dbd6a1b1072dc285285c38967f878d623085f1a9872d5b914252eec",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 509, DE 19 DE JANEIRO DE 1954 ALTERA PROVENTOS DE APOSENTADORIA  O Prefeito Municipal de Campinas, usando das atribuições que lhe confere ; revisar"
+  },
+  "22540": {
+    "sha256_fonte": "4030daafb3110b75fde7667054867c528c8b03300df18d599d4dfa87b3ce74b6",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 773, DE 29 DE DEZEMBRO DE 1955 APOSENTA O SR. PASCHOAL NISTA, DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, usando ; revisar"
+  },
+  "22537": {
+    "sha256_fonte": "bf8feb570d9972201b7957b05a16171677884f1aa38ba595c12cb5061f31401f",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 770, DE 27 DE DEZEMBRO DE 1955 APOSENTA O SR. JOAQUIM PAYOLLA, DO DEPARTAMENTO DE VIGILÂNCIA E FISCALIZAÇÃO  O Prefeito Municipal de Campi; revisar"
+  },
+  "22524": {
+    "sha256_fonte": "6c360bb1862fc0a51ca4cbe650099ddfe8a53a9ed9bea504f6bdf72ad1b702d4",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 757, DE 21 DE DEZEMBRO DE 1955 DISPÕE QUE SE OBSERVE, NA EXECUÇÃO DO ORÇAMENTO DO MUNICÍPIO DE CAMPINAS, PARA 1956, A DISCRIMINAÇÃO DA DES; revisar"
+  },
+  "22468": {
+    "sha256_fonte": "ea1ceb6cbc51243e45f49ab99b77610ead41dc2c6a8185f17721526313b36e02",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 704, DE 18 DE OUTUBRO DE 1955 APOSENTA O SR. OSCAR ORSE, DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, usando das a; revisar"
+  },
+  "22446": {
+    "sha256_fonte": "69f3a49e3a1523c700253336d8190f5bd503ff15c31d9c42cfcd6cd0b48effcc",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 682, DE 31 DE AGOSTO DE 1955 APOSENTA O SR. HERMANO PENTEADO, DO DEPARTAMENTO DA FAZENDA  O Prefeito Municipal de Campinas, na conformidad; revisar"
+  },
+  "22430": {
+    "sha256_fonte": "c17901d96270831591943dffc69074bda16d7eb01fe752cd953db911a1cbc0f0",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N°. 666, DE 20 DE JULHO DE 1955 APOSENTA O SR. DR. MÁRIO FERRARIA, DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, substi; revisar"
+  },
+  "22426": {
+    "sha256_fonte": "79fd6d5d24c43216a42c12c5590ac2bbcab25496a624f48e5859d238b12c8baf",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 662, DE 05 DE JULHO DE 1955 APOSENTA O SR. ANGELO AMILCARE BELTRAME, DO DEPARTAMENTO DA FAZENDA  O Prefeito Municipal de Campinas, substit; revisar"
+  },
+  "22425": {
+    "sha256_fonte": "84c39f8f1f1cb14268476de590bf8fc5fcf8eaf898457341af6200fef2c556b8",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N°. 661, DE 5 DE JULHO DE 1955 APOSENTA A SRA. MARIA DO CARMO SAMPAIO, DO DEPARTAMENTO DE ENSINO E DIFUSÃO CULTURAL  O Prefeito Municipal de C; revisar"
+  },
+  "22424": {
+    "sha256_fonte": "69d44c3c217b3c48ad5a40cbdd78ed033bd408378c6b72337db602c0fa148135",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N°. 660, DE 04 DE JULHO DE 1955 APOSENTA O SR. ANGELINO AMÉRICO DE GODOY, DO DEPARTAMENTO LEGAL  O Prefeito Municipal de Campinas, substituto,; revisar"
+  },
+  "22416": {
+    "sha256_fonte": "c17124784d9334b9020e9265257e2bb3f9789ed2366c5eb2116b71b640dd5a81",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"652\"], \"epigrafe_diversa\": [\"LEI\", \"304\"], \"posicao_no_corpo\": 586, \"trecho\": \"Lei nº. 304, de 08 de março de 1950 e Cr$ 866,70 (oitocentos e sessenta e seis cruz; revisar sem cortar automaticamente"
+  },
+  "22399": {
+    "sha256_fonte": "0e7d910f2aee85e3ef7544149b9daa11968ffd6787fe147f5fd8a892e79032de",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N°. 639, DE 10 DE MAIO DE 1955 APOSENTA O SR. JOSÉ CELINO DE CARVALHO, DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, na; revisar"
+  },
+  "22394": {
+    "sha256_fonte": "cb43315d6c1ed36eb20b7d7c15dc8bf32f09e6377f57cc49dfd95106ca0ba2ab",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N°. 634, DE 28 DE ABRIL DE 1955 APOSENTA O SR. HERMINIO VASSOLER, DO GABINETE DO PREFEITO  O Vice-Prefeito Municipal, em exercício, na conform; revisar"
+  },
+  "22384": {
+    "sha256_fonte": "21a231dc3d97c86c5ba54ef6fdd4f6f1468a030195510db67e0ca9d89256fb27",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 624, DE 11 DE ABRIL DE 1955 APOSENTA O SR. ERNESTO GASBARRO, DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Municipal de Campinas, na conf; revisar"
+  },
+  "22380": {
+    "sha256_fonte": "f3c9f11e025c53872f67b824c1eb1f18c14cde87fcf941ea7e2c1db58d7df2b8",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"620\"], \"epigrafe_diversa\": [\"DECRETO\", \"820\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº. 820, DE 23 DE FEVEREIRO DE 1956 REGULAMENTA A LEI Nº. 1441, DE 02 DE ; revisar sem cortar automaticamente"
+  },
+  "22378": {
+    "sha256_fonte": "fed5cff0340b701beb83af4b301eb910553ae37a5ab5595bc39be6395adf4a9b",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"618\"], \"epigrafe_diversa\": [\"DECRETO\", \"616\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº. 616, DE 04 DE MARÇO DE 1955 DISPÕE SOBRE RELOTAÇÃO DE CARGO E FUNCION; revisar sem cortar automaticamente"
+  },
+  "22377": {
+    "sha256_fonte": "fa05c5bac7e8a4bb13d92a8df0446cb4cc319cadaca414e4101b2634d5b093b7",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 617, DE 1º. DE MARÇO DE 1955 APOSENTA O SR. JOSÉ JUSTO, DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Municipal de Campinas, na conformid; revisar"
+  },
+  "22791": {
+    "sha256_fonte": "254b725d60dab8e4c04490e6cf01dcf6e5c589c1619e150f50062292dc898b73",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"1003\"], \"epigrafe_diversa\": [\"LEI\", \"182\"], \"posicao_no_corpo\": 1578, \"trecho\": \"Lei nº. 182, de 8/7/1948.\", \"motivo\": \"epígrafe de outra identidade no anexo; pos; revisar sem cortar automaticamente"
+  },
+  "22787": {
+    "sha256_fonte": "fa9baea01f464aa3ad788979b934cfbd0a4fb87947b435fd303cba6b8e2a57b8",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 999, DE 21 DE DEZEMBRO DE 1956 DISPÕE QUE SE OBSERVE, NA EXECUÇÃO DO ORÇAMENTO DO MUNICÍPIO DE CAMPINAS, PARA 1957, A DISCRIMINAÇÃO DA DES; revisar"
+  },
+  "22784": {
+    "sha256_fonte": "48c32060c1e34ee437cc9110e2b90f995e449ff217f9e6ab1de73081f8d515b7",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 996, DE 13 DE DEZEMBRO DE 1956 APOSENTA O SR. JOÃO ROSA DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campinas, usando das at; revisar"
+  },
+  "22760": {
+    "sha256_fonte": "594ba9f657d0d6a4d3289fe542f0e7fc5b5b6b3ded636b935f10a311f288dfe4",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 972, DE 14 DE NOVEMBRO DE 1956 APOSENTA O SR. JOSÉ CHIAVEGATTO, FUNCIONÁRIO DO DEPARTAMENTO DE VIGILÂNCIA E FISCALIZAÇÃO  O Prefeito Munic; revisar"
+  },
+  "22705": {
+    "sha256_fonte": "755ca817a9c155b4d145699cae622cc70d11c561f5f0bcc935b55e288463a4fc",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 921, DE 03 DE SETEMBRO DE 1956 APOSENTA O SR. EPONINO VASCONCELOS DE SOUZA CAMARGO, FUNCIONÁRIO DO DEPARTAMENTO DA FAZENDA  O Prefeito Mun; revisar"
+  },
+  "22656": {
+    "sha256_fonte": "66f552b104c5ec293cb9343f8c6b79f7f2acdfa62d8c0f058ac4f6a893ce00bf",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 878, DE 20 DE JUNHO DE 1956 APOSENTA O SR. FRANCISCO FONSECA, FUNCIONÁRIO DO DEPARTAMENTO, DA EXPEDIENTE  O Prefeito Municipal de Campinas; revisar"
+  },
+  "22649": {
+    "sha256_fonte": "e818acf535f3eeab8e0e8e63b9f661dca86015c88964f6f81018fdea2d5dbfbd",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 871, DE 30 DE MAIO DE 1956 APOSENTA O SR. ADMAR MAIA, FUNCIONÁRIO DO DEPARTAMENTO DO EXPEDIENTE  O Prefeito Municipal de Campinas, usando ; revisar"
+  },
+  "22647": {
+    "sha256_fonte": "ed9986653e78638c8b08b296f0f5c4cf8b160994460eaf1802ecda69f8f2ddaa",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 869, DE 24 DE MAIO DE 1956 APOSENTA O SR. HOMERO VASCONCELOS DE SOUZA CAMARGO, FUNCIONÁRIO DO DEPARTAMENTO DE ENSINO E DIFUSÃO CULTURAL  O; revisar"
+  },
+  "22626": {
+    "sha256_fonte": "6a42da493f4c1a83974e3b5d3b8f7ff6793aa0d22aab3a068802107909a47a1a",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 848, DE 16 DE ABRIL DE 1956 APOSENTA O SR. ALCINO MARCONDES DE MOURA, DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO PÚBLICA.  O Prefeito Mu; revisar"
+  },
+  "22585": {
+    "sha256_fonte": "6009072d423ae5919419a42076ef44b8ea129a7beabd80ed63e7457d24eb567d",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 808, DE 31 DE JANEIRO DE 1956 APOSENTA O SR. JOÃO BATISTA, DO CORPO MUNICIPAL DE BOMBEIROS  O prefeito Municipal de Campinas, na conformid; revisar"
+  },
+  "22557": {
+    "sha256_fonte": "282b3e92c7d38edfa62d676f2b75ee5f83c47e8559cdedb8e264199722875a5d",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 790, DE 14 DE JANEIRO DE 1956 EXONERA FUNCIONÁRIOS  O Prefeito Municipal de Campinas, usando das atribuições do seu cargo, Considerando qu; revisar"
+  },
+  "22556": {
+    "sha256_fonte": "c291626c2687281f0962b0663857502c1b3cdd744b131a6eb33347a5ebfc1fc2",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 789, DE 10 DE JANEIRO DE 1956 EXONERA FUNCIONÁRIO  O Prefeito Municipal de Campinas, usando das atribuições do seu cargo, Considerando que; revisar"
+  },
+  "22555": {
+    "sha256_fonte": "792741e7e097b5ad188fc364154bd7c1f8433ceaadfdbef1e3ad2ca7eb64a822",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 788, DE 10 DE JANEIRO DE 1956 EXONERAÇÃO DE FUNCIONÁRIO  O Prefeito Municipal de Campinas, usando das atribuições do seu cargo, Consideran; revisar"
+  },
+  "23237": {
+    "sha256_fonte": "408bd07d86be323ef46ba25df8c0b43cefc670f03ab4a664b6a97670736ef0be",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1193, DE 30 DE DEZEMBRO DE 1957 Dispões que se observe, no execução do orçamento do Município de Campinas, pare 1958, a discriminação do d; revisar"
+  },
+  "23207": {
+    "sha256_fonte": "7bb40377683d601c3dcf4a94f67db447663200d965576d51c059077f164f4b5d",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1165, DE 22 DE OUTUBRO DE 1957 APOSENTA O SR. SEBASTIÃO BENEDITO DE SOUZA CAMPOS, FUNCIONÁRIO DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO; revisar"
+  },
+  "23203": {
+    "sha256_fonte": "f63457d617603d1059aeb9d29e8c59412e6c0304596255589579d38c69eb6729",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N°. 1161, DE 11 DE OUTUBRO DE 1957 APOSENTA Dª. ALBERTINA SERRA AMARAL, FUNCIONÁRIA DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO PÚBLICA  O Pr; revisar"
+  },
+  "23201": {
+    "sha256_fonte": "16e17a03d23fffa208cf8792489ac7d663588f0607b3bbf30a1e92007fcd9b06",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N°. 1159, DE 30 DE SETEMBRO DE 1957 APOSENTA O SR. PEDRO DOMINGOS VITALE, FUNCIONÁRIO DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Municipal; revisar"
+  },
+  "23197": {
+    "sha256_fonte": "a66ce7bde9f7c39474cb1c24e637b8d4cd0423fadb2a99508432f09d1a2aa341",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1155, DE 17 DE SETEMBRO DE 1957 APOSENTA O SR. LOURENÇO HARDY, FUNCIONÁRIO DO DEPARTAMENTA DE ÁGUAS E ESGOTOS  0 Prefeito Municipal de Cam; revisar"
+  },
+  "23185": {
+    "sha256_fonte": "5e5d9ca6e6f04a529fe155db8aea69d3e36e23e5a76d85153901731717a83039",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"1143\"], \"epigrafe_diversa\": [\"DECRETO\", \"761\"], \"posicao_no_corpo\": 109, \"trecho\": \"DECRETO Nº. 761, DE 27 DE DEZEMBRO DE 1955 E APROVOU OS PLANOS DE ARRUAMENTO E; revisar sem cortar automaticamente"
+  },
+  "23139": {
+    "sha256_fonte": "656405024cde585892dd5c01bb7738eff3df7a3daaf46a847729abc97baa35dc",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1109, DE 04 DE JUNHO DE 1957 APOSENTA O SR. AMADEU BASSI, SERVIDOR DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO PÚBLICA  O Prefeito Munici; revisar"
+  },
+  "23133": {
+    "sha256_fonte": "9890190d08c724bf7ff252b3303996c80f3f60f3c2ec4fcd9a21bba5683647ce",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1103, DE 18 DE MAIO DE 1957 APOSENTA O SR. EDMUNDO FERREIRA DA COSTA, FUNCIONÁRIO DO DEPARTAMENTO DA FAZENDA  O Prefeito Municipal de Camp; revisar"
+  },
+  "23123": {
+    "sha256_fonte": "6b03aef1972eac9297486abce04d3cb02d38d2363834586ca665105518b4e499",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1093, DE 30 DE ABRIL DE 1957 APOSENTA Dª. CLÉLIA LACERDA NOGUEIRA, FUNCIONÁRIA DO DEPARTAMENTO DE ÁGUAS O ESGOTOS  O Prefeito Municipal de; revisar"
+  },
+  "23111": {
+    "sha256_fonte": "6203f4d7729399c548b8411462659469d7ae5a3741cec74206ec93b24fc06336",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1081, DE 12 DE ABRIL DE 1957 APOSENTO O SR. ZEFERINO FERREIRA LEAL, FUNCIONÁRIO DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Municipal d; revisar"
+  },
+  "23097": {
+    "sha256_fonte": "fe77f7fecc727270435998ce2b97ab38affc886175bde0bdc1689724c41c0be8",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"1067\"], \"epigrafe_diversa\": [\"LEI\", \"328\"], \"posicao_no_corpo\": 325, \"trecho\": \"Lei nº. 328, de 18 de fevereiro de 1946, tanto de produtores como de revendedores,; revisar sem cortar automaticamente"
+  },
+  "23085": {
+    "sha256_fonte": "176cdb74410568766be9745d694af880cd2c5bdb4b8c120fd1c7014ef9892323",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1055, DE 15 DE MARÇO DE 195? APOSENTA O SR. MANOEL GONÇALVES CUNHA, FUNCIONÁRIO DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO PÚBLICA  0 Pr; revisar"
+  },
+  "23084": {
+    "sha256_fonte": "fe667340ec5e70b19f807a79be43d8d72cc954bda7f7ea8b895622505f209550",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1054, DE 15 DE MARÇO DE 1957 APOSENTA O SR. ANTÔNIO ALVES DE ANDRADE, FUNCIONÁRIO DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal ; revisar"
+  },
+  "23071": {
+    "sha256_fonte": "bf0fe4723dd7fb66a2d111a8b485d440368818d8e2a7b16ec85ef747321151d8",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1041, DE 12 DE FEVEREIRO DE 1957 DECLARA DE UTILIDADE PUBLICA E AUTORIZA A DESAPROPRIAÇÃO DE TERRENOS, NECESSÁRIOS AO ALARGAMENTO DA RUA A; revisar"
+  },
+  "23069": {
+    "sha256_fonte": "f8d0519cc67cd943449bc602b755f31c50b745fff40b3c5f875336af02f27ff2",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1039, DE 06 DE FEVEREIRO DE 1957 APOSENTO O SR. CARLOS FERREIRA DA COSTA, FUNCIONÁRIO DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Munic; revisar"
+  },
+  "23058": {
+    "sha256_fonte": "27c9353307fb7ec2f9969b88a6d7e00e3495561c3031c0fdff437283ead5bd7b",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1028, DE 15 DE JANEIRO DE 1957 APOSENTA O SR. GUMERCINDO CHIARAMONTE, FUNCIONÁRIO DO DEPARTAMENTO DA FAZENDA  O Prefeito Municipal de Camp; revisar"
+  },
+  "23051": {
+    "sha256_fonte": "83ec4a194a3d6182fa29fdc09759f236659a26265f745efc1fc8333aeafd141b",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1021, DE 09 DE JANEIRO DE 1957 DISPÕE SOBRE DESLIGAMENTO DO FUNCIONÁRIO ANSELMO ELOI DE CASTRO  O Prefeito Municipal de Campinas, usando d; revisar"
+  },
+  "23407": {
+    "sha256_fonte": "ef237c380700dbe06b168ab5fe76645b4b35172ff1d083ba9b59a147a3c2cb79",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1325, DE 30 DE DEZEMBRO DE 1958 Dispõe que se observe, na execução do Orçamento do Município de Campinas, para 1959, a discriminação da de; revisar"
+  },
+  "23403": {
+    "sha256_fonte": "a527b1697f4a7e02f8bdea440509c679dfbbe0151121a3f86e696bf954527a03",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1321, DE 16 DE DEZEMBRO DE 1958 APOSENTO O SR. EVARISTO JULIO CIRILO FANCESCHINI, FUNCIONÁRIO DO DEPARTAMENTO DE VIGILÂNCIA E FISCALIZAÇÃO; revisar"
+  },
+  "23354": {
+    "sha256_fonte": "88d2f6857033201d8924e5751699e3d79739c726602639e5efc438968edb98b8",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1298, DE 10 DE OUTUBRO DE 1958 MAJORA A TABELA DE SALÁRIOS DOS EXTRANUMERÁRIOS DIARISTAS DO QUADRO DE OPERÁRIOS O PREFEITO MUNICIPAL DE CA; revisar"
+  },
+  "23351": {
+    "sha256_fonte": "04d74815be96fca0291f41ba1adf6df35d56d63f7f8e851bb67a5238395068e0",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1295, DE 04 DE OUTUBRO DE 1958 APOSENTA O SR. EGYDIO DONATO, FUNCIONÁRIO DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO PÚBLICA  O Prefeito ; revisar"
+  },
+  "23336": {
+    "sha256_fonte": "4057b94cbf93cc4328cb48212d724fa29e9f30763259ebc3aef1a2d01686d013",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1280, DE 03 DE SETEMBRO DE 1958 APOSENTO O SR. DR. ADOLPHO CARLOS GUIMARÃES, FUNCIONÁRIO DO DEPARTAMENTO DE ASSISTÊNCIA E ALIMENTAÇÃO PÚBL; revisar"
+  },
+  "23298": {
+    "sha256_fonte": "05792e77c1bc94a6e43c64848f0ec97c9ee13a058de3732af16765e1b5e5ecfe",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1253, DE 18 DE JUNHO DE 1958 APOSENTA O SR. GABRIEL PEIXOTO, FUNCIONÁRIO DO DEPARTAMENTO DE OBRAS E VIAÇÃO  O Prefeito Municipal de Campin; revisar"
+  },
+  "23278": {
+    "sha256_fonte": "8b83ee87667abdde623ac6fdc667db08f923b2a1896eccbcf52b233a9fb5eba9",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1234, DE 06 DE MAIO DE 1958 APOSENTA O SR. EMISSÁRIO BITTENCOURT PRADO, FUNCIONÁRIO DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Municip; revisar"
+  },
+  "23260": {
+    "sha256_fonte": "db3ba386ec87487948aa64a072276451fbea36a7ea88c0b9f2d739a6911e6afd",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1216, DE 25 DE FEVEREIRO DE 1958 APOSENTA O SR. EUGÊNIO GRAUPNER, FUNCIONÁRIO DO DEPARTAMENTO DE VIGILÂNCIA E FISCALIZAÇÃO  O Prefeito Mun; revisar"
+  },
+  "23258": {
+    "sha256_fonte": "9d83506701c467e20080f7c9e7c2acfde8f35907cda21301cbb3df526be3d44e",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1214, DE 24 DE FEVEREIRO DE 1958 DISPÕE SOBRE O DESLIGAMENTO DO SR. FRANCISCO GABRIEL  O Prefeito Municipal de Campinas, usando das atribu; revisar"
+  },
+  "23250": {
+    "sha256_fonte": "5f423cd6f23aa847dbfee7027dce16e3cd918287a66231f3abb99c71827aade0",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1206, DE 28 DE JANEIRO DE 1958 APOSENTA O SR. LUIZ UBIALI, FUNCIONÁRIO DO DEPARTAMENTO DE ÁGUAS E ESGOTOS  O Prefeito Municipal de Campina; revisar"
+  },
+  "23246": {
+    "sha256_fonte": "3d23aa1c5874e625e801737fa4040ee4827604ce13a9f19f581f074d57c7ca96",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº. 1202, DE 20 DE JANEIRO DE 1958 APOSENTA DNA. MARIA AUGUSTA DE PAULA NEVES, FUNCIONÁRÍO DO DEPARTAMENTO DE ENSINO E DIFUSÃO CULTURAL  0 Pre; revisar"
+  },
+  "19053": {
+    "sha256_fonte": "fa524641564f2b215b99b9373cf4d0ba889b5f17c76da5717673859bcb1c5d4e",
+    "motivo": "data do cadastro 02/06/1995, mas a epígrafe e o fecho dizem \"02 de junho de 1950\" e o cadastro é de 1950; revisar a data"
+  },
+  "39092": {
+    "sha256_fonte": "341fe6a50e0c13e8427d63489f6f94a45dbe6c74b35453bf0e9060d6b6e3dcbb",
+    "motivo": "OCR com contador de folha \"2/2\" colado na assinatura (impedindo o par \"1/2\"-\"2/2\" de sair) e colunas embaralhadas entre os artigos 4º e 5º; revisar"
+  },
+  "11824": {
+    "sha256_fonte": "4910a6d4ad1beac6b20b23054b8a845f03547b384491e18cece20364aac14142",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10265\"], \"epigrafe_diversa\": [\"DECRETO\", \"10266\"], \"posicao_no_corpo\": 1107, \"trecho\": \"DECRETO Nº 10.266 DE 22 DE OUTUBRO DE 1990\", \"motivo\": \"epígrafe de outra ; revisar sem cortar automaticamente"
+  },
+  "11412": {
+    "sha256_fonte": "994a79c991a06bb23c2b1326140ab04ab4987c12a3b219dd379e3e0af0255eb1",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10211\"], \"epigrafe_diversa\": [\"DECRETO\", \"10050\"], \"posicao_no_corpo\": 600, \"trecho\": \"Decreto nº 10.050 de 02 de janeiro de 1990 autorizado pela Lei nº 6.169/90,; revisar sem cortar automaticamente"
+  },
+  "11396": {
+    "sha256_fonte": "1ae554e2d72769bbf164a173d80eba8bd5084fba52819c741cffb09bd43ae0f7",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10194\"], \"epigrafe_diversa\": [\"DECRETO\", \"10193\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 10.193 DE 23 DE JULHO DE 1990\", \"motivo\": \"epígrafe de outra ident; revisar sem cortar automaticamente"
+  },
+  "11365": {
+    "sha256_fonte": "d6c1b6dc2cda0a15ba01cbc2e495e911c3e77f45a0ff88d5823b6d737510e56a",
+    "motivo": "sem artigo inicial reconhecível: > Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.  1/2  DECRETO N° 10.163 DE 15 DE JUNHO DE 1990 DISPÕE SOBRE ABE; revisar"
+  },
+  "11322": {
+    "sha256_fonte": "4b18e3b4447c5c14118784c22674a0298032e41ed5ef28edf1b40aa1822535f8",
+    "motivo": "sem artigo inicial reconhecível: > Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.  DECRETO N° 10.119 DE 24 DE ABRIL DE 1990 DECLARA DE UTILIDADE ; revisar"
+  },
+  "11316": {
+    "sha256_fonte": "1f7019cbe897a9a45c7da0d5abe42eede7fbd86b64503c7f299082c4134ed27d",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10113\"], \"epigrafe_diversa\": [\"DECRETO\", \"101113\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 10.1113 DE 09 DE ABRIL DE 1990\", \"motivo\": \"epígrafe de outra ide; revisar sem cortar automaticamente"
+  },
+  "27319": {
+    "sha256_fonte": "67985c915b099b115c6c262085bfc346f71d228d1e9b09b581a876acb92b9680",
+    "motivo": "sem artigo inicial reconhecível: > Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.  DECRETO N° 10.108 DE 30 DE MARÇO DE 1990 DISPÕE SOBRE PRORROGA; revisar"
+  },
+  "35607": {
+    "sha256_fonte": "d690675f2d8e734bc139c4f451abad522d0d389565e63358c291bfd14266e842",
+    "motivo": "sem artigo inicial reconhecível: > Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.  PUBLICADO NOVAMENTE POR TER SAÍDO COM INCORREÇÕES  DECRETO N° ; revisar"
+  },
+  "35606": {
+    "sha256_fonte": "d7822fdd309bed9c74d8ff732f79e2ed2cc90cf65e076b9bdd9a44fd2d633015",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10104\"], \"epigrafe_diversa\": [\"LEI\", \"6148\"], \"posicao_no_corpo\": 3579, \"trecho\": \"Lei nº 6.148/89, será corrigido na forma do artigo anterior e poderá ser parcel; revisar sem cortar automaticamente"
+  },
+  "19719": {
+    "sha256_fonte": "f553ead77f786e783684ede4b9bcc07f46a9a3a0c1a22b494d8f8e78015729a9",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10088\"], \"epigrafe_diversa\": [\"DECRETO\", \"10086\"], \"posicao_no_corpo\": 1098, \"trecho\": \"Decreto nº 10.086 de 21 de Fevereiro de 1990 e realizado de acordo com o a; revisar sem cortar automaticamente"
+  },
+  "10044": {
+    "sha256_fonte": "8c85df3f49392220e66114369c7b01ad5b3a331fab983b8ad5727547d43c9f45",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10638\"], \"epigrafe_diversa\": [\"LEI\", \"5626\"], \"posicao_no_corpo\": 718, \"trecho\": \"LEI Nº 5626/85, COM A REDAÇÃO DADA PELA LEI Nº 6360/90.\", \"motivo\": \"epígrafe de; revisar sem cortar automaticamente"
+  },
+  "9882": {
+    "sha256_fonte": "c79f25df05a3c977d3a7754b6ef5c71249e3f58bc0ac822516f78c24294ee79b",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10583\"], \"epigrafe_diversa\": [\"LEI\", \"12583\"], \"posicao_no_corpo\": 121, \"trecho\": \"LEI Nº 12.583 DE 12 DE JULHO DE 2000 DENOMINA RUA MOACIR TRAMARIN UMA VIA PÚBLI; revisar sem cortar automaticamente"
+  },
+  "11169": {
+    "sha256_fonte": "e94ef0c103486abf94d8b7568f66f739d556f1e233edd136530806b2f1c78eaa",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 10962 DE 28 DE OUTUBRO DE 1992  DISPÕE SOBRE A ATUALIZAÇÃO DO ORÇAMENTO, RELATIVO AO PERÍODO CORRESPONDENTE AO TERCEIRO TRIMESTRE, NO VALOR; revisar"
+  },
+  "10985": {
+    "sha256_fonte": "92f204111c9632c28e933c44bd2937764093c4dce85f7ac6c46fb6d918e42b54",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10869\"], \"epigrafe_diversa\": [\"LEI\", \"6890\"], \"posicao_no_corpo\": 1147, \"trecho\": \"Lei Municipal nº 6.890/91.\", \"motivo\": \"epígrafe de outra identidade no anexo; ; revisar sem cortar automaticamente"
+  },
+  "10501": {
+    "sha256_fonte": "c85e1b3fdd2b6f192d2043d68e605d8a1ca4960402f4408b8c6331305666cc2e",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 10835 DE 30 DE JUNHO DE 1992  AUTORIZA A VENDA DE PASSE POPULAR EM CARATER ESPECIAL E DA OUTRAS PROVIDÊNCIAS.  O Prefeito do Município de C; revisar"
+  },
+  "10098": {
+    "sha256_fonte": "b4f541284cc1f8a333f2737738ed3b69a8807bd8647f912423fe3fcae4a0c094",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"10777\"], \"epigrafe_diversa\": [\"LEI\", \"6850\"], \"posicao_no_corpo\": 44148, \"trecho\": \"LEI MUNICIPAL Nº 6.850, DE 17 DE DEZEMBRO DE 1.991\", \"motivo\": \"epígrafe de ou; revisar sem cortar automaticamente"
+  },
+  "19567": {
+    "sha256_fonte": "f45281a316501774d51ca6637dd649deb56495479024b8531aa49dc358abcbbe",
+    "motivo": "sem artigo inicial reconhecível: DECRETO NO 10.699 DE 29 DE JANEIRO DE 1992  ESTABELECE NORMAS SOBRE ORÇAMENTÁRIAS E DÁ OUTRAS PROVIDÊNCIAS  O prefeito Municipal de Campinas, no uso d; revisar"
+  },
+  "19565": {
+    "sha256_fonte": "2f7a053270fa14d79b2cffe38c7c48660f8b68764a91781152aa3a8f7a9adc39",
+    "motivo": "sem artigo inicial reconhecível: REVOGADO P; DEC. 10.719  DECRETO NO 10.697 DE 27 DE JANEIRO DE 1992  ALTERA O DECRETO NO 10.692, DE 20.01.1992 QUE FIXOU O VALOR DAS GRATIFICAÇÕES – S; revisar"
+  },
+  "19562": {
+    "sha256_fonte": "7e2136b8e1b0e4c03b7f0dce771bef5262702d221dd1b148a24794e282a48e89",
+    "motivo": "sem artigo inicial reconhecível: DECRETO NO 10.694 DE 22 DE JANEIRO DE 1992  ESTABELECE NOVAS TARIFAS PARA SERVIÇO DE TRANSPORTE PASSAGEIROS POR MEIO DE AUTOMÓVEL DE ALUGUEL E DÁ OUTR; revisar"
+  },
+  "19563": {
+    "sha256_fonte": "3784c1fd50ed54b8d34d8f61e12dd3417d29ae120445d7efc9ac3ad798678f29",
+    "motivo": "sem artigo inicial reconhecível: DECRETO NO 10.695 DE 21 DE JANEIRO DE 1992  DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE CR$ 20.000.000,00 (VINTE MILHÕES DE CRU; revisar"
+  },
+  "19560": {
+    "sha256_fonte": "42fa6a75f5bf7773e4f449360abfe7b64f6de7216faab77853b8fddb7f070660",
+    "motivo": "sem artigo inicial reconhecível: DECRETO NO 10.692 DE 20 DE JANEIRO DE 1992  ALTERA O VALOR DAS GRATIFICAÇÕES – SUS -, CONCEDIDAS AOS SERVIDORES DA SECRETÁRIA MUNICIPAL DE SAÚDE E DO ; revisar"
+  },
+  "16225": {
+    "sha256_fonte": "99127ab2a13ee01d35726d93a74477b7190ae1978e49e27e69c16b5b937be0f8",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"11396\"], \"epigrafe_diversa\": [\"DECRETO\", \"11393\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 11.393 DE 06 DE DEZEMBRO DE 1993\", \"motivo\": \"epígrafe de outra id; revisar sem cortar automaticamente"
+  },
+  "16215": {
+    "sha256_fonte": "8fa52fe69b86419d2f56ec405393debf7931ffc7ffba39bc6bf38dd6030d609c",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"11385\"], \"epigrafe_diversa\": [\"DECRETO\", \"11383\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 11.383 DE 29 DE NOVEMBRO DE 1993\", \"motivo\": \"epígrafe de outra id; revisar sem cortar automaticamente"
+  },
+  "15964": {
+    "sha256_fonte": "00f6364743e749225c4222335925a6c2f499f4e87e290697d9ab4708dab4254c",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"11677\"], \"epigrafe_diversa\": [\"DECRETO\", \"11667\"], \"posicao_no_corpo\": 21, \"trecho\": \"DECRETO Nº 11667 DE 21 DE NOVEMBRO DE 1994\", \"motivo\": \"epígrafe de outra id; revisar sem cortar automaticamente"
+  },
+  "15522": {
+    "sha256_fonte": "26c989708824c219fd7356f924b3e7a0561e49cef6dc9ae294cd0977a8f44139",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"11507\"], \"epigrafe_diversa\": [\"DECRETO\", \"11057\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 11057 DE 29 DE ABRIL DE 1994\", \"motivo\": \"epígrafe de outra identi; revisar sem cortar automaticamente"
+  },
+  "16268": {
+    "sha256_fonte": "74837d7f57d5c57d1005ee1990b1499f5f3d389a59dfe939494540f9ab824682",
+    "motivo": "sem artigo inicial reconhecível: RETIFICAÇÃO  NA EDIÇÃO DO DIÁRIO OFICIAL Nº 5903 DE 27 DE JANEIRO DE 1994  ONDE SE LÊ: DECRETO Nº 11.141 DE 26 DE JANEIRO DE 1994  LEIA-SE: DECRETO Nº; revisar"
+  },
+  "15879": {
+    "sha256_fonte": "a93ebd2983c36c3db91f34fc7904becc6ea188de1c0961c944b90cb2918309f5",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"12105\"], \"epigrafe_diversa\": [\"RESOLUCAO\", \"666\"], \"posicao_no_corpo\": 2717, \"trecho\": \"Resolução nº. 666/15/12/95/CMC e publicado no Departamento de Expediente, ; revisar sem cortar automaticamente"
+  },
+  "15859": {
+    "sha256_fonte": "26b712276418d352a0f984696b5e134024f2d3dc8f16b680d1fa14d6c1cac102",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"12085\"], \"epigrafe_diversa\": [\"DECRETO\", \"11085\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 11.085 DE 06 DE DEZEMBRO DE 1995\", \"motivo\": \"epígrafe de outra id; revisar sem cortar automaticamente"
+  },
+  "15752": {
+    "sha256_fonte": "c467a7960948873c8e2e842a4b9c43326dc38cc44702a6af3cf532f4523e986c",
+    "motivo": "alerta de granularidade/outra publicação: [{\"offset\": 11590, \"trecho\": \"e ordem:\\n\\nI – verificação e registro do número de conselheiros presentes, através de assinatura no livro de presenças, pelo presidente da Mesa;\\n\\nII – abertura da sess; revisar sem cortar automaticamente"
+  },
+  "16039": {
+    "sha256_fonte": "99f93eb610fd641fbfdc282549f6d63b91a846a9d21c76c3efdd6bf9cdbf79ca",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"11795\"], \"epigrafe_diversa\": [\"DECRETO\", \"11975\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 11.975 DE 19 DE ABRIL DE 1995\", \"motivo\": \"epígrafe de outra ident; revisar sem cortar automaticamente"
+  },
+  "16015": {
+    "sha256_fonte": "ced9d1b924e54f981b2baf32edbc4a15757c1aeddf24a8bcebe13a2eb92bc2a5",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"11776\"], \"epigrafe_diversa\": [\"DECRETO\", \"11775\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 11.775 DE 05 DE ABRIL DE 1995\", \"motivo\": \"epígrafe de outra ident; revisar sem cortar automaticamente"
+  },
+  "15997": {
+    "sha256_fonte": "0545c9987c4db1d093da80d01d5d2b5fec9055487bf26d21344cdb8c16d0896a",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"11713\"], \"epigrafe_diversa\": [\"DECRETO\", \"11173\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 11.173 DE 23 DE JANEIRO DE 1.995.\", \"motivo\": \"epígrafe de outra i; revisar sem cortar automaticamente"
+  },
+  "15995": {
+    "sha256_fonte": "f81af3a9530206b8efab225e08664bf282bb3160c69fe432b8cb198f804f11b4",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"11711\"], \"epigrafe_diversa\": [\"LEI\", \"7436\"], \"posicao_no_corpo\": 7069, \"trecho\": \"LEI 7436/93 E ALTERAÇÕES\", \"motivo\": \"epígrafe de outra identidade no anexo; po; revisar sem cortar automaticamente"
+  },
+  "35608": {
+    "sha256_fonte": "415877f4ab096f21485ce4b99423fb13e62923ecb26d719fcfc7177ce4874aad",
+    "motivo": "OCR com contador de página \"1/2\" solto antes do decreto e \"2/2\" colado no cabeçalho do art. 2º da tabela; revisar"
+  },
+  "21328": {
+    "sha256_fonte": "5b93c792b326eb92fdb31e0a6d2598d9d20dfcd2f173a0d3e264c7a6d18fa806",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8687\"], \"epigrafe_diversa\": [\"DECRETO\", \"8702\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO N° 8702 DE 22 DE NOVEMBRO DE 1985\", \"motivo\": \"epígrafe de outra identi; revisar sem cortar automaticamente"
+  },
+  "21304": {
+    "sha256_fonte": "7f449633dbe81a27248f94dda7d3b704a28076986d4f83704dea0ef15b910494",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8671\"], \"epigrafe_diversa\": [\"DECRETO\", \"8702\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO N° 8702 DE 22 DE NOVEMBRO DE 1985\", \"motivo\": \"epígrafe de outra identi; revisar sem cortar automaticamente"
+  },
+  "21291": {
+    "sha256_fonte": "45a06b069dd424a26ed7af62c558448c85db00f18f179cd1c5d7a23643c88c8f",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8658\"], \"epigrafe_diversa\": [\"DECRETO\", \"8678\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO N° 8678 DE 24 DE OUTUBRO DE 1985\", \"motivo\": \"epígrafe de outra identid; revisar sem cortar automaticamente"
+  },
+  "21290": {
+    "sha256_fonte": "d17b3c592131a6671dcd26bce5c3c9c2e41a5843bf5427295d4df5a8c97c87f4",
+    "motivo": "alerta de granularidade/outra publicação: [{\"offset\": 8151, \"trecho\": \" de nova publicação.\\n\\n**Artigo 21°** - A ordem dos trabalhos das sessões será o seguinte:\\n\\nI – verificação do número de Conselheiros presentes;\\n\\nII – abertura da ses; revisar sem cortar automaticamente"
+  },
+  "21265": {
+    "sha256_fonte": "4d4ccdaef760914b0ca2a4df3f08a8e70b48562f8fb864220c9e9182bdebeeb9",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8648\"], \"epigrafe_diversa\": [\"DECRETO\", \"8647\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO N° 8647 DE 23 DE OUTUBRO DE 1985\", \"motivo\": \"epígrafe de outra identid; revisar sem cortar automaticamente"
+  },
+  "21252": {
+    "sha256_fonte": "62dec0ddcfce58982c650aefe7aa283bedee3422dff42a8e2768d6448f38823f",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8635\"], \"epigrafe_diversa\": [\"DECRETO\", \"8636\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO N° 8636 DE 11 DE OUTUBRO DE 1985\", \"motivo\": \"epígrafe de outra identid; revisar sem cortar automaticamente"
+  },
+  "21222": {
+    "sha256_fonte": "165fa5204b3285d42ef832f5e697f5efe9389b056adfc5313668dc077266aa53",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8605\"], \"epigrafe_diversa\": [\"LEI\", \"4021\"], \"posicao_no_corpo\": 840, \"trecho\": \"Lei n° 4.021/84 ........................................ Cr$ 1.417.569.120\", \"mot; revisar sem cortar automaticamente"
+  },
+  "20961": {
+    "sha256_fonte": "eca0e2c53264d6f6071e3de50cc9950ad1269628ce5fec4d1eefdbd8087b4452",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8410\"], \"epigrafe_diversa\": [\"DECRETO\", \"8140\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 8140 DE 03 DE ABRIL DE 1985\", \"motivo\": \"epígrafe de outra identidad; revisar sem cortar automaticamente"
+  },
+  "20084": {
+    "sha256_fonte": "641bfab24ff3ae10f95bc0169c59a47d03c163c7721b4c58665b0fb3c8705cae",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9003\"], \"epigrafe_diversa\": [\"LEI\", \"5673\"], \"posicao_no_corpo\": 722, \"trecho\": \"Lei nº 5.673/86 4.1.2.0 Equipamentos e Material Permanente Recursos da FAE.......; revisar sem cortar automaticamente"
+  },
+  "11584": {
+    "sha256_fonte": "ba8bdbb7fda7c5d8b3c6a77eaad62b6870721ba49fcfd8cdcb7936e29584be1b",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9396\"], \"epigrafe_diversa\": [\"LEI\", \"5789\"], \"posicao_no_corpo\": 862, \"trecho\": \"Lei n° 5.789/87 3.1.3.1 Remuneração de Serviços Pessoais 0.29 Rec.MEC/P.N.D.E.Pré; revisar sem cortar automaticamente"
+  },
+  "20647": {
+    "sha256_fonte": "eac1fa6e6a848b34db276aca6a98133499f4ad027151f9aa0c9fd06f76286927",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9394\"], \"epigrafe_diversa\": [\"LEI\", \"5863\"], \"posicao_no_corpo\": 823, \"trecho\": \"Lei n°. 5863/87 3.1.2.0 Material de Consumo 0.32 Recursos da LBA ................; revisar sem cortar automaticamente"
+  },
+  "20612": {
+    "sha256_fonte": "4f5f17cc28173d5971cb81d6e4eebf08ec59911b39ad4edafa113d2b3dd4ff9e",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9357\"], \"epigrafe_diversa\": [\"LEI\", \"5698\"], \"posicao_no_corpo\": 976, \"trecho\": \"Lei n° 5.698/86 3.1.3.1 Remuneração de Serviços Pessoais 00.09 Recursos da FNEJA-; revisar sem cortar automaticamente"
+  },
+  "20608": {
+    "sha256_fonte": "652e87b69d705909c52d07d77bd9357a44d26fdf5953a10490210294ff230bd9",
+    "motivo": "sem artigo inicial reconhecível: (REVOGADO PELO DECRETO 9.391)  DECRETO N° 9353 DE 16 DE NOVEMBRO DE 1987.  ESTABELECE NOVAS TARIFAS PARA O SERVIÇO DE TRANSPORTES DE PASSAGEIROS POR M; revisar"
+  },
+  "20601": {
+    "sha256_fonte": "cb9fe99f2ab9b457f8cf337d6fb8adfca2fd42b9c16dfd0aa1855035948fa542",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9346\"], \"epigrafe_diversa\": [\"LEI\", \"5853\"], \"posicao_no_corpo\": 781, \"trecho\": \"Lei n° 5.853/87 4.1.1.0 Obras e Instalações 0.30 Recursos do MEC/FNDE............; revisar sem cortar automaticamente"
+  },
+  "20596": {
+    "sha256_fonte": "168f4343b74c3f0262ab0a0e23a29b1797d083b1867d75f6525559eb6ae1e02d",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9341\"], \"epigrafe_diversa\": [\"LEI\", \"5726\"], \"posicao_no_corpo\": 865, \"trecho\": \"Lei n° 5.726/ 86 4.1.1.0 Obras e Instalações 0.31 Recursos da S.E.A.A-...........; revisar sem cortar automaticamente"
+  },
+  "20417": {
+    "sha256_fonte": "77954275936ec382664107f49b968459c7fc4cb7c051f464b3014d38297e18ca",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9235\"], \"epigrafe_diversa\": [\"LEI\", \"5814\"], \"posicao_no_corpo\": 1102, \"trecho\": \"Lei nº 5.814/87 4.2.7.0 Concessão de Empréstimos................................; revisar sem cortar automaticamente"
+  },
+  "20361": {
+    "sha256_fonte": "99d7afdefa9eafa18e393c9bb67fdd73456028ad99efbf10f7bd5753027cbfa0",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9215\"], \"epigrafe_diversa\": [\"LEI\", \"5814\"], \"posicao_no_corpo\": 994, \"trecho\": \"Lei nº 5.814/87 4.270 Concessão de Empréstimos Cz$ 50.000.000,00\", \"motivo\": \"epí; revisar sem cortar automaticamente"
+  },
+  "20352": {
+    "sha256_fonte": "f980f0ee072fa173d5cc20d2429fde5e6674285ad523fb748b366df436b2c705",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N 9206 DE JUNHO DE 1987  DECLARA LUTO OFICIAL PELO FALECIMENTO DO SENHOR RUY RODRIGUEZ.  O Prefeito do Município de Campinas, no uso de suas a; revisar"
+  },
+  "20275": {
+    "sha256_fonte": "7c5a9e2b92f68aad9e74ec4c19c7c8a896e77fd1edba919b27450e1b478762ee",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9165\"], \"epigrafe_diversa\": [\"DECRETO\", \"19165\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 19165 DE 26 DE MAIO DE 1987\", \"motivo\": \"epígrafe de outra identida; revisar sem cortar automaticamente"
+  },
+  "20271": {
+    "sha256_fonte": "51a476b918173d70ca61bd50aa187e93ecbf3a840451ae9cfa58ca883d0a5be8",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9161\"], \"epigrafe_diversa\": [\"DECRETO\", \"19165\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 19165 DE 26 DE MAIO DE 1987\", \"motivo\": \"epígrafe de outra identida; revisar sem cortar automaticamente"
+  },
+  "20246": {
+    "sha256_fonte": "5705cf63a16999c86c70357c44eaf9d8bc1f38e10b5bc20a6e107abe72466322",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9150\"], \"epigrafe_diversa\": [\"DECRETO\", \"9156\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 9156 DE 14 DE MAIO DE 1987\", \"motivo\": \"epígrafe de outra identidade; revisar sem cortar automaticamente"
+  },
+  "20211": {
+    "sha256_fonte": "6e2e1f8be6082c377cd5bd92f93872766e6631878bc18ef44984693a6701f893",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9123\"], \"epigrafe_diversa\": [\"LEI\", \"5732\"], \"posicao_no_corpo\": 709, \"trecho\": \"Lei nº 5.732/86 3.1.2.0 Material de Consumo 0.26 Recursos do PROFIC/S.E.E........; revisar sem cortar automaticamente"
+  },
+  "20148": {
+    "sha256_fonte": "3bdeaa9c36a98354965af8383a70c9a3e8e85f4a96006e9471acf7ed56d5bd16",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9061\"], \"epigrafe_diversa\": [\"DECRETO\", \"9110\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 9110 DE 19 DE MARÇO DE 1987\", \"motivo\": \"epígrafe de outra identidad; revisar sem cortar automaticamente"
+  },
+  "11713": {
+    "sha256_fonte": "546932d812739c868d8ffc04b86f3ce89dafc898eeadbb1dbb8e2037eb696900",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9495\"], \"epigrafe_diversa\": [\"LEI\", \"5875\"], \"posicao_no_corpo\": 787, \"trecho\": \"Lei n° 5875/87 3.1.3.2 Outros Serviços e Encargos 0.9 Recursos da Fundação EDUCAR; revisar sem cortar automaticamente"
+  },
+  "11712": {
+    "sha256_fonte": "50a37f1cc7632c8bf30dca476a09defaef9905bf004062d8dec0358810569eab",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9494\"], \"epigrafe_diversa\": [\"LEI\", \"5727\"], \"posicao_no_corpo\": 1227, \"trecho\": \"Lei n° 5727/86 4.1.1.0 Obras e Instalações 0.31 Recursos da S.E.A.A.............; revisar sem cortar automaticamente"
+  },
+  "11692": {
+    "sha256_fonte": "a4f030b7df1e2f440b57bcfe0008bffc081a0b1261bbeaa46f7e7ed972d4666e",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9453\"], \"epigrafe_diversa\": [\"LEI\", \"5727\"], \"posicao_no_corpo\": 976, \"trecho\": \"Lei n° 5727/86 4.1.1.0 Obras e Instalações 0.31 Recursos da S.E.A.A..............; revisar sem cortar automaticamente"
+  },
+  "11614": {
+    "sha256_fonte": "c5f0cd405256e80e3caa7a8e703a976dadcfde15a4f570a2c9dfe87b15ea1363",
+    "motivo": "sem artigo inicial reconhecível: DECRETO N° 9434 DE 02 DE FEVEREIRO DE 1988  ACRESCENTA ARTIGOS AO DECRETO N° 9205, DE 26 DE JUNHO DE 1987, QUE APROVA O REGULAMENTO GERAL DO CARNAVAL ; revisar"
+  },
+  "11595": {
+    "sha256_fonte": "a925f9a150d62ce36b42e0859e4c534f81fc77e6aefc78f09da0878d624578b8",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9409\"], \"epigrafe_diversa\": [\"LEI\", \"5863\"], \"posicao_no_corpo\": 904, \"trecho\": \"Lei n° 5.863/87 3.1.2.0 Material de Consumo 0.32 Recursos da L.B.A...............; revisar sem cortar automaticamente"
+  },
+  "19623": {
+    "sha256_fonte": "06bb8d4e013f16d4257fc62fc109f06a74f8f63d4e5ce20d9378b1b8e1d905a9",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9997\"], \"epigrafe_diversa\": [\"LEI\", \"6114\"], \"posicao_no_corpo\": 479, \"trecho\": \"Lei Municipal nº 6114, de 13 de novembro de 1989,\", \"motivo\": \"epígrafe de outra ; revisar sem cortar automaticamente"
+  },
+  "19574": {
+    "sha256_fonte": "eed3bee7fbd77ca721170179cdb8b76a9a4b025d3c73d3c631c2add6dcf2e702",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"9949\"], \"epigrafe_diversa\": [\"DECRETO\", \"9948\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 9948 DE 13 DE OUTUBRO DE 1989\", \"motivo\": \"epígrafe de outra identid; revisar sem cortar automaticamente"
+  },
+  "20009": {
+    "sha256_fonte": "d55be5994d964271fb1a8231e0e5ecb6ece575a4097271285e6f9a03390fc334",
+    "motivo": "data do cadastro 24/06/1983, mas o texto diz \"25 DE SETEMBRO DE 1986\", o cadastro é de 1986 e a numeração (Decreto 8926) indica 1986; revisar a data"
+  },
+  "10398": {
+    "sha256_fonte": "88be17f0c8bd908723382da54670a02144e41a6956d3422c1d7a86de5300f062",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"6638\"], \"epigrafe_diversa\": [\"LEI\", \"4168\"], \"posicao_no_corpo\": 18092, \"trecho\": \"Lei nº 4168/72 072/3.0.0.0 DESPESAS CORRENTES 3.1.0.0 DESPESAS DE CUSTEIO 3.1.4; revisar sem cortar automaticamente"
+  },
+  "10358": {
+    "sha256_fonte": "34d3243e1819cd593ae938f6f55fc0f187b1d44a5ad9b4967d5ab72dac997a33",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"6596\"], \"epigrafe_diversa\": [\"LEI\", \"1993\"], \"posicao_no_corpo\": 1338, \"trecho\": \"Lei Municipal nº 1993, de 29 de janeiro de 1959 (Código de obras e Urbanismo), e; revisar sem cortar automaticamente"
+  },
+  "11017": {
+    "sha256_fonte": "82cdacbc4788773bad907db2339cb20d5698597eb355b119d697c2ad29d84efd",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"7376\"], \"epigrafe_diversa\": [\"LEI\", \"4959\"], \"posicao_no_corpo\": 197, \"trecho\": \"LEI Nº 4959, DE 6 DE DEZEMBRO DE 1979, E DÁ OUTRAS PROVIDÊNCIAS.\", \"motivo\": \"epí; revisar sem cortar automaticamente"
+  },
+  "11000": {
+    "sha256_fonte": "a058c4f06b3ee15025982fc1903e1d3e1c10ed2c24f722360d86bf9a84a188f4",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 7357, DE 16 DE SETEMBRO DE 1982  DESMEMBRA ATRIBUIÇÕES DE EMPENHO E DE COMPRA DE MATERIAL DE ÓRGÃOS DA SECRETARIA MUNICIPAL DOS NEGÓCIOS JU; revisar"
+  },
+  "10917": {
+    "sha256_fonte": "714cf4298f562e3d6d53109851135100d8568cccef9cd425604e7da339a68f16",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"7292\"], \"epigrafe_diversa\": [\"DECRETO\", \"792\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 792 DE 2 DE AGOSTO DE 1982\", \"motivo\": \"epígrafe de outra identidade ; revisar sem cortar automaticamente"
+  },
+  "10748": {
+    "sha256_fonte": "297db70432a9dacec754da96d5f86b5687947c9a12999efa3af3d228f440b2a3",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"7136\"], \"epigrafe_diversa\": [\"LEI\", \"4852\"], \"posicao_no_corpo\": 1942, \"trecho\": \"Lei nº 4.852/78.................................................................; revisar sem cortar automaticamente"
+  },
+  "10646": {
+    "sha256_fonte": "4554ae0713ce48e6161b6af24fcb0b0e76d796cb8f490b162788a763f5154720",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"7029\"], \"epigrafe_diversa\": [\"DECRETO\", \"5487\"], \"posicao_no_corpo\": 251, \"trecho\": \"DECRETO 5.487, DE 12 DE SETEMBRO DE 1.978.\", \"motivo\": \"epígrafe de outra ide; revisar sem cortar automaticamente"
+  },
+  "10141": {
+    "sha256_fonte": "87fc0d9f9db0dcfb309baa40036c2e733175e86e1eb79372a577bf0ef5f2c0a0",
+    "motivo": "sem artigo inicial reconhecível: RETIFICAÇÃO  DECRETO Nº 7.980, DE 28 DE DEZEMBRO DE 1983  NO ARTIGO 5º, ONDE SE LÊ: ARTIGO 3º ­ O LOTEAMENTO DEVERÁ APRESENTAR CRONOGRAMA DE OBRAS, ..; revisar"
+  },
+  "11283": {
+    "sha256_fonte": "3a4e588a60c9a6311efc75dc98604b66a64d817e36afe1e8379a78a98569e942",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"7815\"], \"epigrafe_diversa\": [\"LEI\", \"4320\"], \"posicao_no_corpo\": 3102, \"trecho\": \"Lei 4320/64 ............................................... 10.000,00 4000.00 DE; revisar sem cortar automaticamente"
+  },
+  "20804": {
+    "sha256_fonte": "a8570d19f53e4f2d3d2bad29ead1600a36fa3f9e25b87e0e5618299d33af7dcb",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 8270 DE 19 DE NOVEMBRO DE 1.984  ONDE SE LÊ: 13/13.0212.05/3120 MATERIAL DE CONSUMO..................Cr$ 18.900.000,00  LEIA-SE: 13/13.0212; revisar"
+  },
+  "20799": {
+    "sha256_fonte": "7d728ad67740381b1a566188ca379963bf6c0a93b3b0e15d7155515a91ee662e",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8263\"], \"epigrafe_diversa\": [\"LEI\", \"4057\"], \"posicao_no_corpo\": 1366, \"trecho\": \"Lei nº 4.057/71.................................2000.000,00 4 – Despesas com Est; revisar sem cortar automaticamente"
+  },
+  "20794": {
+    "sha256_fonte": "1623bb03e030dcd6aab46c8950423eda3b9ac81f9860713a713fbc1e42a533d0",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8258\"], \"epigrafe_diversa\": [\"DECRETO\", \"8255\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 8.255 DE 05 DE NOVEMBRO DE 1.984\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "20792": {
+    "sha256_fonte": "0168e81f039657ca02573119e82193a821097b2bbd9f775884cb769351a55b0e",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8256\"], \"epigrafe_diversa\": [\"DECRETO\", \"8255\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 8.255 DE 05 DE NOVEMBRO DE 1.984\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "20790": {
+    "sha256_fonte": "bbd9e1068f2fd795b2115a0abe29b8a87b569fd660d4b755b0d411e225d7f485",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8254\"], \"epigrafe_diversa\": [\"DECRETO\", \"8252\"], \"posicao_no_corpo\": 55, \"trecho\": \"DECRETO Nº 8.252 DE 05 DE NOVEMBRO DE 1.984\", \"motivo\": \"epígrafe de outra ide; revisar sem cortar automaticamente"
+  },
+  "20743": {
+    "sha256_fonte": "bbeacf55611a85974bc80084cb76b1e326ecd2da48f93289dc9a42b2b8414084",
+    "motivo": "sem artigo inicial reconhecível: DECRETO Nº 8233 DE 17 DE OUTUBRO DE 1.984  ONDE SE LÊ: 13.1.0/03.07.02.12.103/3132....................Cr$ 2.800.000,00 13.1.0/03.08.0332.108/3192.....; revisar"
+  },
+  "20735": {
+    "sha256_fonte": "89b0c7a6fa6abe00ec88de4c56ecd031440979ddcc206c8c905dce7cbf9721e8",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8225\"], \"epigrafe_diversa\": [\"DECRETO\", \"81225\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 81225 DE 05 DE OUTUBRO DE 1.984\", \"motivo\": \"epígrafe de outra iden; revisar sem cortar automaticamente"
+  },
+  "20717": {
+    "sha256_fonte": "efc0729aba01965981e2a074ea472bec6432a5e45fa5348c6097cdf4d7111200",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8201\"], \"epigrafe_diversa\": [\"DECRETO\", \"81201\"], \"posicao_no_corpo\": 13, \"trecho\": \"DECRETO Nº 81201 DE 12 DE SETEMBRO DE 1.984\", \"motivo\": \"epígrafe de outra id; revisar sem cortar automaticamente"
+  },
+  "20716": {
+    "sha256_fonte": "463a33ac20c45856d2a80a9527dbf072d38d47f1fc19763ff984005fc02ecd88",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8200\"], \"epigrafe_diversa\": [\"DECRETO\", \"8120\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 8120 DE 12 DE SETEMBRO DE 1.984\", \"motivo\": \"epígrafe de outra ident; revisar sem cortar automaticamente"
+  },
+  "20662": {
+    "sha256_fonte": "bd59ceb9dd1ad9c6ef566ffdae2355e0f2e053aeb019de07f312449bef4042f0",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8164\"], \"epigrafe_diversa\": [\"DECRETO\", \"8167\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 8167 DE 02 DE AGOSTO DE 1.984\", \"motivo\": \"epígrafe de outra identid; revisar sem cortar automaticamente"
+  },
+  "20657": {
+    "sha256_fonte": "e8db5d87b9b4d65c28de3fa7bdb932e4fcc40c774d4e3cb5d5310f8aa708c303",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8159\"], \"epigrafe_diversa\": [\"DECRETO\", \"8158\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 8158 DE 24 DE JULHO DE 1.984\", \"motivo\": \"epígrafe de outra identida; revisar sem cortar automaticamente"
+  },
+  "10289": {
+    "sha256_fonte": "0915823841b3d7af7adbb5191c08a2f31e68f1042bb5654385f9867bb3969798",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8134\"], \"epigrafe_diversa\": [\"LEI\", \"4238\"], \"posicao_no_corpo\": 861, \"trecho\": \"LEI Nº 4238/72.................................................CR$ 750.000,00\", \"; revisar sem cortar automaticamente"
+  },
+  "10279": {
+    "sha256_fonte": "ece66e57119e24c9f76dcdb37dfe88d5db06850ea140ea0c77c01cd8084a59e9",
+    "motivo": "alerta de granularidade/outra publicação: [{\"identidade_esperada\": [\"DECRETO\", \"8124\"], \"epigrafe_diversa\": [\"DECRETO\", \"8024\"], \"posicao_no_corpo\": 0, \"trecho\": \"DECRETO Nº 8024 DE 23 DE FEVEREIRO DE 1984\", \"motivo\": \"epígrafe de outra ident; revisar sem cortar automaticamente"
+  }
+}
