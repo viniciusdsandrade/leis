@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 01/11/2026 19:53:23 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 01/11/2026 20:42:27 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.283.525 documentos · 1.163.132 / ~11.768.799 nas séries com meta (9.9%) · 18.030 sem meta**
+**1.289.121 documentos · 1.168.728 / ~11.768.799 nas séries com meta (9.9%) · 18.030 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-681.261 documentos · 578.678 / ~861.320 nas séries com meta (67.2%) · 6.553 sem meta
+686.857 documentos · 584.274 / ~861.320 nas séries com meta (67.8%) · 6.553 sem meta
 
 ### Infralegal — tributário
 
@@ -272,11 +272,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal estadual
 
-405.620 documentos · 393.439 / ~577.054 nas séries com meta (68.2%) · 0 sem meta
+411.216 documentos · 399.035 / ~577.054 nas séries com meta (69.2%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Decretos dos governadores (27 UF) | 313.019 | 400.000 | `estaduais/*/decretos`, `estaduais/*/decretos-nao-numerados` | Casas Civis e diários oficiais estaduais |
+| 🟦 | Decretos dos governadores (27 UF) | 318.615 | 400.000 | `estaduais/*/decretos`, `estaduais/*/decretos-nao-numerados` | Casas Civis e diários oficiais estaduais |
 | ⬜️ | Regulamentos do ICMS (RICMS das 27 UF) | 0 | 27 | `estaduais/*/regulamentos` | Secretarias de Fazenda |
 | 🟦 | Instruções normativas e portarias das SEFAZ | 1.432 | 50.000 | `estaduais/*/instrucoes-normativas` | Secretarias de Fazenda |
 | ⬜️ | Resoluções e decisões normativas dos TCE | 0 | 10.000 | `estaduais/*/resolucoes-tce` | Tribunais de Contas estaduais |
@@ -334,9 +334,9 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
+| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
 | `reguladores/ministerio-da-economia/recomendacoes` | 2 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
-| `reguladores/ministerio-da-economia/atos-normativos` | 1 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
+| `reguladores/ministerio-da-economia/atos-normativos` | 1 |
 | `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
