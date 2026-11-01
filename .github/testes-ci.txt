@@ -13,6 +13,7 @@ test_baixar_cittatec.py
 test_baixar_dioly.py
 test_baixar_uberlandia.py
 test_baseline_municipal_head_20261027.py
+test_bibjuri_campinas.py
 test_capitais_https.py
 test_carimbo_campinas.py
 test_cmbh_sil.py
