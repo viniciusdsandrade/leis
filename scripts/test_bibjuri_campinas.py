@@ -91,7 +91,8 @@ class Identidade(unittest.TestCase):
         for epigrafe in ("DECRETO Nº 4.813 DE 29 DE DEZEMBRO DE 1975", "DECRETO N.º 4813, DE 29 DE DEZEMBRO DE 1975",
                          "**DECRETO N° 4.813, de 29 de dezembro de 1975**", "DECRETO No 4.813 - DE 29 DE DEZEMBRO DE 1975",
                          "DECRETO N. º 4.813, DE 29 DE DEZEMBRO DE 1975", "DECRETO N.º 4 813 DE 29 DE DEZEMBRO DE 1 .975",
-                         "DECRETO N.º 4.813, DE 29 DE DEZEMBRO DE 1.975."):
+                         "DECRETO N.º 4.813, DE 29 DE DEZEMBRO DE 1.975.", "DECRETO Nº 4,813, DE 29 DE DEZEMBRO DE 1975",
+                         "DECRETO N/4813, DE 29 DE DEZEMBRO DE 1975", "DECRETO Nº 4.813. DE 29 DE DEZEMBRO DE 1975."):
             corpo = epigrafe + "\n\nEmenta.\n\nDECRETA:\n\n**Art. 1º** Texto.\n\nPaço Municipal, 29 de dezembro de 1975"
             self.assertIsNone(b.identidade(corpo, FICHA, INFO), epigrafe)
 
@@ -147,6 +148,13 @@ class Integridade(unittest.TestCase):
     def test_outra_epigrafe_retem(self):
         corpo = self.CORPO + "\n\nDECRETO Nº 4.814 DE 29 DE DEZEMBRO DE 1975\n\nDECRETA:\n\n**Art. 1º** Outro ato."
         self.assertIn("mais de um ato", b.integridade(corpo, FICHA, INFO))
+
+    def test_ato_nao_articulado_e_apontado_como_tal(self):
+        corpo = ("DECRETO Nº 1.533, DE 15 DE FEVEREIRO DE 1960.\n\nAposenta o Sr. João, funcionário.\n\n"
+                 "O Prefeito Municipal de Campinas, usando das atribuições que lhe são conferidas por lei,\n\n"
+                 "A P O S E N T A, a partir de 29 de dezembro de 1959, o Sr. João no cargo de Chefe do Serviço de Limpeza Pública.\n\n"
+                 "Campinas, 15 de fevereiro de 1960\n\n**MIGUEL VICENTE CURY**  \nPrefeito Municipal")
+        self.assertTrue(b.integridade(corpo, {"numero": "1533", "data": "1960-02-15"}, INFO).startswith("ato em forma não articulada"))
 
     def test_sem_fecho_ou_sem_artigo_retem(self):
         self.assertIn("fecho", b.integridade(self.CORPO.split("Paço Municipal")[0] + "Texto final sem assinatura nem local.", FICHA, INFO))
@@ -225,6 +233,28 @@ class Cartoes(unittest.TestCase):
         cartoes.append({"id": 1, "numero": "4813", "data": "1998-01-01", "titulo": ""})
         self.assertEqual([c["id"] for c in b.casar(FICHA, cartoes)], [100364, 1])
         self.assertEqual(b.casar({"numero": "9999", "data": "1975-01-01"}, cartoes), [])
+
+
+class FonteTextoCoerente(unittest.TestCase):
+    """Regra usada por scripts/municipios/campinas/campinas.py verificar (fora do checkout do CI; a regra fica aqui)."""
+    PDF = "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1975/32979/32979_texto_integral.pdf"
+    BIBJURI = "https://bibjuri.campinas.sp.gov.br/index/visualizaroriginal/id/100364"
+
+    def test_anexo_do_sapl_continua_valendo_sem_esquema(self):
+        self.assertTrue(b.fonte_texto_coerente(self.PDF, self.PDF))
+        self.assertTrue(b.fonte_texto_coerente(self.PDF, self.PDF.replace("https://", "http://")))
+        self.assertFalse(b.fonte_texto_coerente(self.PDF.replace("32979", "32978"), self.PDF))
+
+    def test_bibjuri_vale_so_quando_a_ficha_nao_tem_anexo(self):
+        self.assertTrue(b.fonte_texto_coerente(self.BIBJURI, ""))
+        self.assertTrue(b.fonte_texto_coerente(self.BIBJURI, None))
+        self.assertTrue(b.fonte_texto_coerente(self.BIBJURI.replace("visualizaroriginal", "visualizaratualizada"), ""))
+        self.assertFalse(b.fonte_texto_coerente(self.BIBJURI, self.PDF))
+
+    def test_outros_enderecos_nao_valem_para_ficha_sem_anexo(self):
+        self.assertFalse(b.fonte_texto_coerente("https://bibjuri.campinas.sp.gov.br/images/full/abc.pdf", ""))
+        self.assertFalse(b.fonte_texto_coerente("https://outro.sp.gov.br/index/visualizaroriginal/id/1", ""))
+        self.assertFalse(b.fonte_texto_coerente("", ""))
 
 
 if __name__ == "__main__":

@@ -24,6 +24,13 @@ conversor_novo.py      Rascunho do conversor PDF para MD com cabeçalho e rodap�
 medir_conversor.py     Regenera os .md de Campinas com o conversor novo e classifica o que muda   não
 medir_outros.py        Compara o conversor atual e o novo nos PDFs em cache fora de Campinas      não
 
+`regenerar` refaz o corpo na mesma ordem do pipeline (carimbos e, quando versao_texto anota o recorte, o ato
+próprio da página de livro de leis) e também confere os .md do bibjuri a partir do HTML em cache.
+Testes destas ferramentas: test_campinas.py nesta pasta, rodado localmente (o CI não faz checkout de scripts/municipios/).
+
+Em `verificar`, um .md cuja ficha do SAPL não tem anexo passa quando `fonte_texto` aponta uma página de norma
+do bibjuri (lotes de baixar_bibjuri_campinas.py); anos sem índice parcial são lidos das páginas da API em cache.
+
 Tipos do SAPL de Campinas usados em --tipo e em cobertura.py/prefetch.py: 1 Lei, 2 Lei
 Complementar, 4 Decreto, 7 Decreto Legislativo, 8 Resolução, 9 Emenda à Lei Orgânica, 17
 Decreto-lei, 18 Leis até 1948, 19 Decretos até 1948, 20 Resoluções até 1948, 21 Lei Orgânica.
