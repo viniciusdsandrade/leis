@@ -377,6 +377,8 @@ def texto_pdf_para_md(texto, topo=8, pe=5):
 OCR_BIN = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bin", "ocr")
 _ocr_vagas = threading.Semaphore(2)  # OCR é pesado: no máximo 2 simultâneos por processo
 AVISO_OCR = "> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.\n\n"
+AVISO_OCR_COLUNAS = ("> Texto obtido por OCR a partir de PDF escaneado, com cada página lida em duas colunas; "
+                     "pode conter erros de reconhecimento.\n\n")
 AVISO_OCR_IMAGEM = "> Texto obtido por OCR a partir de imagem; pode conter erros de reconhecimento.\n\n"
 AVISO_SEM_TEXTO = ("> A fonte oficial não disponibiliza o texto desta norma: o documento servido "
                    "está vazio. Só os metadados foram preservados.\n\n")
@@ -419,36 +421,199 @@ def rotacao_das_paginas(pdf):
     return [int(x) for x in re.findall(r"^Page\s+\d+\s+rot:\s+(\d+)", r.stdout.decode("utf-8", "replace"), re.M)]
 
 
-def ocr_vision_por_pagina(pdf, tmp):
+def ler_pgm(dados):
+    """Imagem PGM binária (P5, 8 bits) do pdftoppm -gray: (largura, altura, bytes dos pixels)."""
+    m = re.match(rb"P5\s+(?:#[^\n]*\n\s*)*(\d+)\s+(\d+)\s+(\d+)\s", dados)
+    if not m or int(m[3]) > 255:
+        raise ValueError("PGM P5 de 8 bits esperado")
+    largura, altura = int(m[1]), int(m[2])
+    return largura, altura, dados[m.end():m.end() + largura * altura]
+
+
+def perfil_de_bordas(largura, altura, pixels, passo=2, limiar=60, y_ini=0, y_fim=None):
+    """Quantas bordas verticais (pixel muito diferente do pixel `passo` linhas abaixo) há em cada coluna e em cada linha.
+
+    Texto impresso tem bordas em quase toda linha; papel em branco, sombra da encadernação ou mancha uniforme não têm.
+    Por isso a calha entre duas colunas aparece como vale de bordas, seja ela clara ou escura. `y_ini`/`y_fim`
+    limitam as linhas consideradas (o miolo da página, sem cabeçalho e rodapé).
+    """
+    por_coluna = [0] * largura
+    por_linha = [0] * altura
+    for y in range(y_ini, (altura if y_fim is None else y_fim) - passo, passo):
+        a = pixels[y * largura:(y + 1) * largura]
+        b = pixels[(y + passo) * largura:(y + passo + 1) * largura]
+        n = 0
+        for x in range(largura):
+            if abs(a[x] - b[x]) > limiar:
+                por_coluna[x] += 1
+                n += 1
+        por_linha[y] = n
+    return por_coluna, por_linha
+
+
+def detectar_colunas(dados_pgm, largura_minima=0.015, faixa_borda=0.12):
+    """Duas colunas de texto separadas por uma calha estável perto do meio da página.
+
+    Devolve {"calha": (x0, x1), "topo": y0, "base": y1} em pixels da imagem, ou None quando a página é de uma
+    coluna só ou a calha não é clara (estreita, com bordas em mais de 10% das linhas com texto, ou texto de um lado
+    só). Cabeçalho ou rodapé que atravessa as duas colunas (título do livro, número da página) fica fora de topo/base.
+    """
+    largura, altura, pixels = ler_pgm(dados_pgm)
+    _, por_linha = perfil_de_bordas(largura, altura, pixels)
+    # a calha é procurada no miolo da página: cabeçalho e rodapé podem atravessá-la
+    por_coluna, _ = perfil_de_bordas(largura, altura, pixels, y_ini=int(altura * faixa_borda), y_fim=int(altura * (1 - faixa_borda)))
+    pico = max(por_coluna) if por_coluna else 0
+    if not pico:
+        return None
+    janela = max(3, largura // 100)
+    suave = [sum(por_coluna[max(0, x - janela):x + janela + 1]) / (2 * janela + 1) for x in range(largura)]
+    centro = range(int(largura * 0.3), int(largura * 0.7))
+    vale = min(centro, key=lambda x: suave[x])
+    limiar_calha = 0.03 * pico
+    if suave[vale] > limiar_calha:
+        return None
+    x0 = vale
+    while x0 > 0 and suave[x0 - 1] <= limiar_calha:
+        x0 -= 1
+    x1 = vale
+    while x1 < largura - 1 and suave[x1 + 1] <= limiar_calha:
+        x1 += 1
+    if x1 - x0 < largura * largura_minima or not (largura * 0.3 <= (x0 + x1) / 2 <= largura * 0.7):
+        return None
+    esquerda = sum(por_coluna[:x0]) / max(1, x0)
+    direita = sum(por_coluna[x1 + 1:]) / max(1, largura - x1 - 1)
+    if min(esquerda, direita) < 0.2 * pico:
+        return None
+    # linhas com texto em que a calha também tem borda: cabeçalho/rodapé atravessando as colunas, ou texto corrido
+    passo = 2
+    linhas_texto = [y for y in range(0, altura - passo, passo) if por_linha[y] > largura * 0.02]
+    if not linhas_texto:
+        return None
+    atravessam = []
+    for y in linhas_texto:
+        a = pixels[y * largura + x0:y * largura + x1 + 1]
+        b = pixels[(y + passo) * largura + x0:(y + passo) * largura + x1 + 1]
+        if any(abs(p - q) > 60 for p, q in zip(a, b)):
+            atravessam.append(y)
+    topo, base = 0, altura
+    no_topo = [y for y in atravessam if y < altura * faixa_borda]
+    na_base = [y for y in atravessam if y > altura * (1 - faixa_borda)]
+    no_meio = [y for y in atravessam if altura * faixa_borda <= y <= altura * (1 - faixa_borda)]
+    if len(no_meio) > 0.1 * len(linhas_texto):
+        return None
+    if no_topo:
+        topo = min(altura - 1, max(no_topo) + 3 * passo)
+    if na_base:
+        base = max(topo + 1, min(na_base) - 3 * passo)
+    return {"calha": (x0, x1), "topo": topo, "base": base}
+
+
+NUMERO_DE_PAGINA_SOLTO = re.compile(r"^\s*[-–—]?\s*\d{1,3}\s*[-–—]\s*$|^\s*[-–—]\s*\d{1,3}\s*$")
+
+
+def sem_numero_de_pagina_nas_bordas(texto):
+    """Tira o número de página ("— 43 —") quando é a primeira ou a última linha da coluna lida pelo OCR."""
+    linhas = texto.strip().split("\n")
+    while linhas and NUMERO_DE_PAGINA_SOLTO.match(linhas[0]):
+        linhas.pop(0)
+    while linhas and NUMERO_DE_PAGINA_SOLTO.match(linhas[-1]):
+        linhas.pop()
+    return "\n".join(linhas)
+
+
+def numero_de_paginas(pdf):
+    info = subprocess.run(["pdfinfo", pdf], capture_output=True, timeout=120).stdout.decode("utf-8", "replace")
+    m = re.search(r"^Pages:\s+(\d+)", info, re.M)
+    return int(m[1]) if m else 0
+
+
+def layouts_das_paginas(pdf, tmp):
+    """detectar_colunas de cada página (render em 100 dpi, cinza); lista com um layout ou None por página."""
+    layouts = []
+    for n in range(1, numero_de_paginas(pdf) + 1):
+        base = os.path.join(tmp, f"g{n}")
+        r = subprocess.run(["pdftoppm", "-gray", "-r", "100", "-f", str(n), "-l", str(n), pdf, base], capture_output=True, timeout=600)
+        pgm = next((os.path.join(tmp, f) for f in os.listdir(tmp) if f.startswith(f"g{n}") and f.endswith(".pgm")), None)
+        layout = None
+        if r.returncode == 0 and pgm:
+            with open(pgm, "rb") as f:
+                try:
+                    layout = detectar_colunas(f.read())
+                except ValueError:
+                    layout = None
+        layouts.append(layout)
+    return layouts
+
+
+def ocr_vision_por_pagina(pdf, tmp, colunas=False):
     """Páginas giradas (/Rotate 90, scanners em paisagem): o Vision lê o PDF sem aplicar a rotação e perde ou
-    embaralha o texto; o pdftoppm aplica, então cada página vai como imagem. Páginas separadas por \f, como no pdftotext."""
-    r = subprocess.run(["pdftoppm", "-png", "-r", "300", pdf, os.path.join(tmp, "p")], capture_output=True, timeout=600)
-    if r.returncode != 0:
-        return ""
-    paginas = []
-    for nome in sorted(n for n in os.listdir(tmp) if n.startswith("p") and n.endswith(".png")):
-        r = subprocess.run([OCR_BIN, os.path.join(tmp, nome)], capture_output=True, timeout=600)
+    embaralha o texto; o pdftoppm aplica, então cada página vai como imagem. Páginas separadas por \f, como no pdftotext.
+
+    Com `colunas` (True, ou a lista de layouts já detectados), cada página passa por detectar_colunas em 100 dpi; quando há duas colunas (páginas de livro
+    digitalizadas em dupla, por exemplo), a esquerda e a direita são renderizadas em separado a 300 dpi, com a calha
+    inteira de margem, lidas uma de cada vez e emendadas esquerda depois direita, sem o cabeçalho ou rodapé que
+    atravessa as colunas. Devolve (texto, modo), modo "colunas" se alguma página foi lida assim, senão "pagina".
+    """
+    layouts = colunas if isinstance(colunas, list) else (layouts_das_paginas(pdf, tmp) if colunas else [])
+    total = len(layouts) or numero_de_paginas(pdf)
+    if not total:
+        return "", "pagina"
+    paginas, modo = [], "pagina"
+    for n in range(1, total + 1):
+        layout = layouts[n - 1] if n <= len(layouts) else None
+        if layout:
+            (x0, x1), topo, base_y = layout["calha"], layout["topo"], layout["base"]
+            recortes = [(0, topo, (x1 + 1) * 3, (base_y - topo) * 3), (x0 * 3, topo, 10 ** 6, (base_y - topo) * 3)]
+            textos = []
+            for k, (x, y, w, h) in enumerate(recortes):
+                saida = os.path.join(tmp, f"c{n}_{k}")
+                r = subprocess.run(["pdftoppm", "-png", "-r", "300", "-f", str(n), "-l", str(n), "-x", str(x), "-y", str(y * 3),
+                                    "-W", str(w), "-H", str(h), pdf, saida], capture_output=True, timeout=600)
+                png = next((os.path.join(tmp, f) for f in os.listdir(tmp) if f.startswith(f"c{n}_{k}") and f.endswith(".png")), None)
+                if r.returncode != 0 or not png:
+                    textos = None
+                    break
+                r = subprocess.run([OCR_BIN, png], capture_output=True, timeout=600)
+                textos.append(sem_numero_de_pagina_nas_bordas(r.stdout.decode("utf-8", "replace")))
+            if textos is not None:
+                paginas.append("\n".join(t for t in textos if t))
+                modo = "colunas"
+                continue
+        saida = os.path.join(tmp, f"p{n}")
+        r = subprocess.run(["pdftoppm", "-png", "-r", "300", "-f", str(n), "-l", str(n), pdf, saida], capture_output=True, timeout=600)
+        png = next((os.path.join(tmp, f) for f in os.listdir(tmp) if f.startswith(f"p{n}") and f.endswith(".png")), None)
+        if r.returncode != 0 or not png:
+            paginas.append("")
+            continue
+        r = subprocess.run([OCR_BIN, png], capture_output=True, timeout=600)
         paginas.append(r.stdout.decode("utf-8", "replace"))
-    return "\f".join(paginas)
+    return "\f".join(paginas), modo
 
 
-def ocr_pdf(bruto):
-    """OCR com o Vision do macOS (scripts/bin/ocr) ou Tesseract no Linux."""
+def ocr_pdf_detalhado(bruto, colunas=False):
+    """OCR com o Vision do macOS (scripts/bin/ocr) ou Tesseract no Linux: (texto, modo), modo "pagina" ou "colunas"."""
     texto = ""
     if os.path.exists(OCR_BIN):
         with _ocr_vagas, tempfile.TemporaryDirectory() as tmp:
             pdf = os.path.join(tmp, "a.pdf")
             with open(pdf, "wb") as f:
                 f.write(bruto)
-            if any(rotacao_das_paginas(pdf)) and shutil.which("pdftoppm"):
-                texto = ocr_vision_por_pagina(pdf, tmp)
+            # só a página girada ou com duas colunas é lida página a página; o resto vai inteiro ao Vision, como sempre
+            layouts = layouts_das_paginas(pdf, tmp) if colunas and shutil.which("pdftoppm") else []
+            if (any(layouts) or any(rotacao_das_paginas(pdf))) and shutil.which("pdftoppm"):
+                texto, modo = ocr_vision_por_pagina(pdf, tmp, layouts or False)
             else:
                 r = subprocess.run([OCR_BIN, pdf], capture_output=True, timeout=1800)
-                texto = r.stdout.decode("utf-8", "replace")
+                texto, modo = r.stdout.decode("utf-8", "replace"), "pagina"
             if len(re.sub(r"\W", "", texto)) >= 80:
-                return texto
+                return texto, modo
     # sem Tesseract, o pouco que o Vision leu continua valendo, como antes do fallback
-    return ocr_pdf_tesseract(bruto) or texto
+    return ocr_pdf_tesseract(bruto) or texto, "pagina"
+
+
+def ocr_pdf(bruto):
+    """OCR com o Vision do macOS (scripts/bin/ocr) ou Tesseract no Linux."""
+    return ocr_pdf_detalhado(bruto)[0]
 
 
 def ocr_imagem(bruto):
@@ -492,8 +657,10 @@ def sem_campo_pagina_word(corpo):
     return "\n\n".join(paragrafos) + fim
 
 
-def documento_para_md(bruto, url="", content_type="", remover_inicio=()):
-    """Converte um documento baixado (HTML, PDF, DOC...) em Markdown. Retorna (corpo, None) ou (None, motivo)."""
+def documento_para_md(bruto, url="", content_type="", remover_inicio=(), colunas=False):
+    """Converte um documento baixado (HTML, PDF, DOC...) em Markdown. Retorna (corpo, None) ou (None, motivo).
+
+    `colunas` liga, só no OCR de PDF escaneado, a leitura por coluna das páginas em duas colunas (detectar_colunas)."""
     if b"\0" in bruto[:4096] and not (imagem_bruta(bruto) or bruto.startswith(
             (b"%PDF", b"\xd0\xcf\x11\xe0", b"PK", b"\xff\xfe", b"\xfe\xff"))):
         return None, "formato binário não reconhecido; arquivo oficial possivelmente corrompido"
@@ -506,9 +673,9 @@ def documento_para_md(bruto, url="", content_type="", remover_inicio=()):
     if texto is not None:
         aviso = AVISO_OCR_IMAGEM.replace("imagem;", f"imagem ({motor_imagem});") if motor_imagem else ""
         if not imagem_bruta(bruto) and pdf_escaneado(texto):
-            texto_ocr = ocr_pdf(bruto)
+            texto_ocr, modo = ocr_pdf_detalhado(bruto, colunas)
             if len(re.sub(r"\W", "", texto_ocr)) > len(re.sub(r"\W", "", texto)):
-                texto, aviso = texto_ocr, AVISO_OCR
+                texto, aviso = texto_ocr, (AVISO_OCR_COLUNAS if modo == "colunas" else AVISO_OCR)
         corpo = texto_pdf_para_md(texto)
         if len(re.sub(r"\W", "", corpo)) < 80:
             return None, "imagem sem texto legível por OCR" if imagem_bruta(bruto) else "PDF sem texto legível (nem por OCR)"

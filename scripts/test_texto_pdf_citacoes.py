@@ -82,5 +82,67 @@ class RotacaoDasPaginas(unittest.TestCase):
                 self.assertEqual(rotacao_das_paginas(pdf), esperado)
 
 
+class ColunasDaPagina(unittest.TestCase):
+    """Páginas de livro digitalizadas em dupla: duas colunas de texto separadas por uma calha, com ou sem sombra."""
+
+    @staticmethod
+    def pagina(largura=400, altura=600, colunas=((20, 180), (220, 380)), calha_cinza=255, cabecalho=None):
+        """PGM sintético: linhas de texto são faixas de 4 px alternando tinta e papel, com letras simuladas por
+        pixels alternados; `cabecalho` = (y0, y1) de uma faixa que atravessa a página inteira."""
+        pixels = bytearray(b"\xff" * (largura * altura))
+        for y in range(altura):
+            for x0, x1 in colunas:
+                if 40 <= y < altura - 40 and (y // 4) % 2 == 0:
+                    for x in range(x0, x1):
+                        pixels[y * largura + x] = 0 if (x // 3) % 2 == 0 else 255
+            if cabecalho and cabecalho[0] <= y < cabecalho[1] and (y // 2) % 2 == 0:
+                for x in range(10, largura - 10):
+                    pixels[y * largura + x] = 0
+        if calha_cinza != 255:
+            for y in range(altura):
+                for x in range(colunas[0][1] + 5, colunas[1][0] - 5):
+                    pixels[y * largura + x] = calha_cinza
+        return b"P5\n# teste\n%d %d\n255\n" % (largura, altura) + bytes(pixels)
+
+    def test_le_pgm_binario(self):
+        from comum import ler_pgm
+        largura, altura, pixels = ler_pgm(self.pagina(largura=40, altura=30, colunas=((2, 18), (22, 38))))
+        self.assertEqual((largura, altura, len(pixels)), (40, 30, 1200))
+
+    def test_duas_colunas_com_calha_clara(self):
+        from comum import detectar_colunas
+        layout = detectar_colunas(self.pagina())
+        self.assertIsNotNone(layout)
+        x0, x1 = layout["calha"]
+        self.assertTrue(175 <= x0 <= 185 and 215 <= x1 <= 225, layout)
+        self.assertEqual((layout["topo"], layout["base"]), (0, 600))
+
+    def test_sombra_da_encadernacao_na_calha_nao_atrapalha(self):
+        from comum import detectar_colunas
+        layout = detectar_colunas(self.pagina(calha_cinza=40))
+        self.assertIsNotNone(layout)
+        self.assertTrue(175 <= layout["calha"][0] <= 190 and 210 <= layout["calha"][1] <= 225, layout)
+
+    def test_cabecalho_que_atravessa_as_colunas_fica_fora(self):
+        from comum import detectar_colunas
+        layout = detectar_colunas(self.pagina(cabecalho=(12, 28)))
+        self.assertIsNotNone(layout)
+        self.assertTrue(28 <= layout["topo"] <= 40, layout)
+
+    def test_numero_de_pagina_na_borda_da_coluna_sai(self):
+        from comum import sem_numero_de_pagina_nas_bordas
+        self.assertEqual(sem_numero_de_pagina_nas_bordas("— 43 —\nArt. 1.° — Texto.\nCampinas, 1909.\n- 44 -\n"), "Art. 1.° — Texto.\nCampinas, 1909.")
+        # no meio do texto a linha fica: pode ser dispositivo ou valor
+        self.assertEqual(sem_numero_de_pagina_nas_bordas("Art. 1.° — Texto.\n- 44 -\nArt. 2.° — Mais."), "Art. 1.° — Texto.\n- 44 -\nArt. 2.° — Mais.")
+
+    def test_uma_coluna_so_e_texto_atravessando_o_meio_nao_sao_colunas(self):
+        from comum import detectar_colunas
+        self.assertIsNone(detectar_colunas(self.pagina(colunas=((20, 380),))))
+        # metade das linhas atravessa a calha: não é layout de duas colunas
+        self.assertIsNone(detectar_colunas(self.pagina(cabecalho=(100, 400))))
+        # texto só de um lado
+        self.assertIsNone(detectar_colunas(self.pagina(colunas=((20, 180),))))
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -1,6 +1,7 @@
 """Leis orgânicas e emendas integrais em SAPLs municipais oficiais; cache retomável."""
 import argparse
 import datetime as dt
+import difflib
 import hashlib
 import fcntl
 import json
@@ -9,7 +10,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from comum import Rede, decodificar, documento_para_md, normalizar_chave, yaml_str
+from comum import AVISO_OCR_COLUNAS, Rede, decodificar, documento_para_md, normalizar_chave, yaml_str
 from granularidade_sapl import EPIGRAFE, EPIGRAFES_ANTIGAS, alertas_multiplos_atos, alertas_outras_publicacoes, classe, numero_base
 
 RAIZ = Path(__file__).resolve().parent.parent / "municipais"
@@ -79,13 +80,15 @@ def html_sem_imagens(html):
     return re.sub(r"<img\b[^>]*>", "", html, flags=re.I)
 
 
-def corpo_de_fonte(bruto, url, content_type=""):
-    """Converte o anexo oficial; logotipos em HTML do SIREL não são texto da norma."""
+def corpo_de_fonte(bruto, url, content_type="", colunas=False):
+    """Converte o anexo oficial; logotipos em HTML do SIREL não são texto da norma.
+
+    `colunas`: OCR por coluna das páginas em duas colunas (livros de leis digitalizados em dupla)."""
     cabeca = bruto.lstrip()[:15].lower()
     if url.lower().endswith((".html", ".htm")) or cabeca.startswith(b"<html") or cabeca.startswith(b"<!doctype"):
         html = html_sem_imagens(decodificar(bruto, content_type))
         return documento_para_md(html.encode("utf-8"), url, "text/html; charset=utf-8")
-    return documento_para_md(bruto, url, content_type)
+    return documento_para_md(bruto, url, content_type, colunas=colunas)
 
 
 def categoria_norma(tipo, norma=None):
@@ -277,7 +280,7 @@ CABECALHO_DOM_NA_FRASE_CAMPINAS = re.compile(
 # ("CÂMARA MUNICIPAL DE CAMPINAS 1/18 Publicada no Diário Oficial..."); sem o contador, não há como distinguir do texto
 PAGINA_NO_INICIO_CAMPINAS = re.compile(r"CÂMARA MUNICIPAL DE CAMPINAS \d+/\d* (?=\S)")
 # número de página de livro de leis impresso, às vezes duas por linha ("- 58 - - 59 -")
-MARCA_PAGINA_CAMPINAS = re.compile(r"(?:-\s*\d{1,3}\s*-\s*)+")
+MARCA_PAGINA_CAMPINAS = re.compile(r"(?:[-–—]\s*\d{1,3}\s*[-–—]\s*)+")
 SUPLEMENTO_CAMPINAS = re.compile(r"TABELAS? [^.\n]{0,80}PUBLICADAS? EM SUPLEMENTO", re.I)
 CONTADOR_FOLHA = re.compile(r"(\d+)/(\d+)")
 
@@ -440,7 +443,10 @@ FECHO_DE_LIVRO = re.compile(
 # Campinas, etc. Faco saber..."): não dá para saber onde acaba o nome do secretário, então a página fica retida
 PREAMBULO_COLADO = re.compile(r"(?is)\b(?:Prefeito|Intendente|Vice-Prefeito)\s+Municipal\b.{0,200}?(?:saber|seguinte|decret|promulg)")
 PREAMBULO_DO_ATO_SEGUINTE = re.compile(
-    r"(?is)(?<=[.\n•·])\s*(?:(?:O|A)\s+)?(?:Dr\.?\s+|[Dd]outor\s+|[Cc]idad[ãa]o\s+)?[A-ZÁ-Ú][^.•·,]{0,60}?,?\s*\b(?:Prefeito|Intendente|Vice-Prefeito)\b(?=.{0,200}?(?:saber|seguinte|decret|promulg)).{0,300}$")
+    r"(?is)(?<=[.\n•·])\s*(?:[-–—]\s*\d{1,3}\s*[-–—]\s*)?(?:(?:O|A)\s+)?(?:[Dd]?r\.?\s+|[Dd]outor\s+|[Cc]idad[ãa]o\s+)?"
+    r"[A-ZÁ-Ú][^.•·,]{0,60}?[.,]?\s*\b(?:Prefeito|Intendente|Vice-Prefeito)\b(?=.{0,200}?(?:saber|seguinte|decret|promulg)).{0,300}$")
+# quem assina o fecho ("Campinas, 17 de Fevereiro de 1927. Orosimbo Maia Publicada..."), em qualquer ato da página
+ASSINATURA_DO_FECHO = re.compile(r"\s*\.?\s*((?:Dr\.\s+)?[A-ZÁ-Ú][\w'’.-]*(?:\s+(?:d[aeo]s?\s+)?[A-ZÁ-Ú][\w'’.-]*){0,4}?)\s+(?=Publicad)")
 # tabela de orçamento da coluna vizinha que vaza para o recorte ("0$000 O DIRETOR, 0$000 ADMAR MAIA 0$000 5$000")
 QUANTIA_ANTIGA = re.compile(r"\d+[$S]\d{3}")
 ATO_FINANCEIRO = re.compile(r"(?i)or[çc]a|receita|despe[sz]a|cr[eé]dito|imposto|taxa|vencimento|ordenado|sal[aá]rio|aux[ií]lio|subven|pagamento|verba|emprestimo|empr[eé]stimo|cont[ao]s?\b|quantia|r[eé]is")
@@ -457,10 +463,19 @@ def epigrafes_da_pagina(corpo):
     return sorted(por_inicio.items())
 
 
+def mes_por_extenso(palavra):
+    """Número do mês a partir do nome, tolerando o OCR ("Ontubro", "Outubco", "Dezemarg"); None se não parecer mês."""
+    chave = normalizar_chave(palavra)
+    for i, nome in enumerate(MESES_PT, 1):
+        if chave[:3] == normalizar_chave(nome)[:3]:
+            return i
+    parecido = difflib.get_close_matches(chave, [normalizar_chave(n) for n in MESES_PT], n=1, cutoff=0.7)
+    return [normalizar_chave(n) for n in MESES_PT].index(parecido[0]) + 1 if parecido else None
+
+
 def data_de_fecho(m):
-    mes = next((i for i, nome in enumerate(MESES_PT, 1) if normalizar_chave(m[2])[:3] == normalizar_chave(nome)[:3]), None)
     try:
-        return dt.date(int(m[3]), mes or 0, int(m[1])).isoformat()
+        return dt.date(int(m[3]), mes_por_extenso(m[2]) or 0, int(m[1])).isoformat()
     except ValueError:
         return None
 
@@ -508,8 +523,16 @@ def recortar_ato_de_livro(corpo, tipo, numero, data_cadastro):
     m = PREAMBULO_DO_ATO_SEGUINTE.search(cauda)
     if m:
         recorte = recorte[:ultimo_fecho.end() + m.start()]
-    if PREAMBULO_COLADO.search(recorte[ultimo_fecho.end():]):
-        raise RuntimeError("página de livro de leis: preâmbulo do ato seguinte colado ao fecho, sem separador que permita apará-lo; revisar")
+    cauda = recorte[ultimo_fecho.end():]
+    if PREAMBULO_COLADO.search(cauda):
+        # "O Secretario, Amilar Alves Orosimbo Maia, Prefeito Municipal de Campinas, etc. Faço saber...": o nome que assina
+        # o fecho do próprio ato ("Campinas, 17 de Fevereiro de 1927. Orosimbo Maia Publicada...") abre o preâmbulo seguinte
+        nomes = {m[1] for f in FECHO_DE_LIVRO.finditer(corpo) for m in [ASSINATURA_DO_FECHO.match(corpo, f.end())] if m}
+        cortes = [m.start() for nome in nomes for m in [re.search(re.escape(nome) + r"[.,]?\s*\b(?:Vice-)?(?:Prefeito|Intendente)\b", cauda)] if m]
+        if cortes:
+            recorte = recorte[:ultimo_fecho.end() + min(cortes)]
+        if PREAMBULO_COLADO.search(recorte[ultimo_fecho.end():]):
+            raise RuntimeError("página de livro de leis: preâmbulo do ato seguinte colado ao fecho, sem separador que permita apará-lo; revisar")
     if len(QUANTIA_ANTIGA.findall(recorte)) >= 3 and not ATO_FINANCEIRO.search(recorte):
         raise RuntimeError("página de livro de leis: quantias de tabela da coluna vizinha dentro do recorte de ato sem matéria financeira (colunas entrelaçadas pelo OCR); revisar")
     return aviso + recorte.strip().rstrip(" •·-–—") + "\n", fechos[-1][1]
@@ -693,7 +716,8 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                             retencao = motivo_retencao(cache, n["id"], b)
                             if retencao:
                                 raise RuntimeError("fonte retida para revisão de integralidade: " + retencao)
-                            corpo, motivo = corpo_de_fonte(b, url)
+                            livro_de_leis = host == "sapl.campinas.sp.leg.br" and 0 < ano_norma <= 1948
+                            corpo, motivo = corpo_de_fonte(b, url, colunas=livro_de_leis)
                             if motivo:
                                 raise RuntimeError(motivo)
                             notas_texto = []
@@ -704,8 +728,9 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 if ano_norma and ano_norma <= 1948 and (alertas_multiplos_atos(corpo, tipo["descricao"], n["numero"])
                                                                         or not abre_com_a_propria_epigrafe(corpo, tipo["descricao"], n["numero"])):
                                     corpo, data_fecho = recortar_ato_de_livro(corpo, tipo["descricao"], n["numero"], n.get("data") or "")
-                                    notas_texto.append("ato recortado da página do livro de leis anexada no SAPL, que traz mais de um ato; "
-                                                       "a página inteira está em fonte_texto")
+                                    notas_texto.append("ato recortado da página do livro de leis anexada no SAPL, que traz mais de um ato"
+                                                       + (", lida em duas colunas pelo OCR" if corpo.startswith(AVISO_OCR_COLUNAS.rstrip("\n")) else "")
+                                                       + "; a página inteira está em fonte_texto")
                                     if not n.get("data"):
                                         n = {**n, "data": data_fecho, "data_do_fecho": True}
                                 if not numero_proprio_no_inicio(corpo, n["numero"]):
