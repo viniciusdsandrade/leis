@@ -1,6 +1,6 @@
 # Contribuindo
 
-Este repositório (fork de [ctresb/leis](https://github.com/ctresb/leis)) consolida o ordenamento jurídico brasileiro em Markdown estruturado. Para manter a integridade de um acervo com centenas de milhares de normas e garantir que os scripts de auditoria passem sem erros, siga as diretrizes abaixo.
+Este repositório consolida o ordenamento jurídico brasileiro em Markdown estruturado. Para manter a integridade de um acervo com centenas de milhares de normas e garantir que os scripts de auditoria passem sem erros, siga as diretrizes abaixo.
 
 ---
 
