@@ -1343,3 +1343,13 @@
 {"id": "12110", "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/1994/decreto-39667-13.12.1994.html", "motivo": "documento vazio", "status": "sem_texto"}
 {"id": "12145", "url": "https://www.al.sp.gov.br/repositorio/legislacao/decreto/1994/decreto-39699-16.12.1994.html", "motivo": "documento vazio", "status": "sem_texto"}
 {"id": "210281", "http": 404, "motivo": "api", "status": "sem_texto"}
+{"id": "23669", "motivo": "a página da ALESP para a ficha do Decreto 30.953, de 14/12/1989, traz o texto do Decreto 30.952 do mesmo dia (mesma epígrafe, ementa e valores, sem a retificação); texto retido", "status": "sem_texto"}
+{"id": "47821", "motivo": "a página abre com 'Retificação' e epígrafe e fecho dão 23/07/1987, enquanto a ficha dá 22/07/1987 (DOE de 23/07/1987); texto retido para revisão da data", "status": "sem_texto"}
+{"id": "47316", "motivo": "epígrafe e fecho dão 17/09/1987, enquanto a ficha dá 18/09/1987 (DOE de 19/09/1987); texto retido para revisão da data", "status": "sem_texto"}
+{"id": "22696", "motivo": "epígrafe e fecho do Decreto 31.597 dão 22/05/1990, enquanto a ficha dá 23/05/1990 (DOE de 24/05/1990); texto retido para revisão da data", "status": "sem_texto"}
+{"id": "22697", "motivo": "epígrafe e fecho do Decreto 31.598 dão 22/05/1990, enquanto a ficha dá 23/05/1990 (DOE de 24/05/1990); texto retido para revisão da data", "status": "sem_texto"}
+{"id": "22698", "motivo": "epígrafe e fecho do Decreto 31.599 dão 22/05/1990, enquanto a ficha dá 23/05/1990 (DOE de 24/05/1990); texto retido para revisão da data", "status": "sem_texto"}
+{"id": "22699", "motivo": "epígrafe e fecho do Decreto 31.600 dão 22/05/1990, enquanto a ficha dá 23/05/1990 (DOE de 24/05/1990); texto retido para revisão da data", "status": "sem_texto"}
+{"id": "22700", "motivo": "epígrafe e fecho do Decreto 31.601 dão 22/05/1990, enquanto a ficha dá 23/05/1990 (DOE de 24/05/1990); texto retido para revisão da data", "status": "sem_texto"}
+{"id": "22645", "motivo": "epígrafe e fecho do Decreto 31.672 dão 06/06/1990, enquanto a ficha dá 07/06/1990 (DOE de 08/06/1990); texto retido para revisão da data", "status": "sem_texto"}
+{"id": "14179", "motivo": "epígrafe e fecho do Decreto 38.174 dão 29/12/1993, enquanto a ficha dá 28/12/1993 (DOE de 29/12/1993); texto retido para revisão da data", "status": "sem_texto"}
