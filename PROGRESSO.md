@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 02/11/2026 15:17:02 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 02/11/2026 15:18:02 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.290.807 documentos · 1.168.958 / ~11.768.799 nas séries com meta (9.9%) · 18.030 sem meta**
+**1.290.805 documentos · 1.168.956 / ~11.768.799 nas séries com meta (9.9%) · 18.030 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -291,11 +291,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 5.571 municípios no cadastro do IBGE, sem índice legislativo central.
 
-115.419 documentos · 103.942 / ~10.332.713 nas séries com meta (1.0%) · 11.477 sem meta
+115.417 documentos · 103.940 / ~10.332.713 nas séries com meta (1.0%) · 11.477 sem meta
 
 ### Legislação municipal
 
-115.419 documentos · 103.942 / ~10.332.713 nas séries com meta (1.0%) · 11.477 sem meta
+115.417 documentos · 103.940 / ~10.332.713 nas séries com meta (1.0%) · 11.477 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -306,7 +306,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | 🟦 | Leis ordinárias e complementares municipais (27 capitais primeiro) | 55.713 | 8.300.000 | `municipais/*/*/leis-ordinarias`, `municipais/*/*/leis-complementares` | Câmaras municipais |
 | — | Decretos legislativos municipais | 7.441 | desconhecida | `municipais/*/*/decretos-legislativos` | SAPL/Interlegis; universo nacional ainda desconhecido |
 | — | Resoluções municipais | 4.036 | desconhecida | `municipais/*/*/resolucoes` | SAPL/Interlegis; universo nacional ainda desconhecido |
-| 🟦 | Decretos municipais | 45.830 | 2.000.000 | `municipais/*/*/decretos` | prefeituras e diários oficiais |
+| 🟦 | Decretos municipais | 45.828 | 2.000.000 | `municipais/*/*/decretos` | prefeituras e diários oficiais |
 
 ---
 
@@ -335,8 +335,8 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
 | `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
-| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
+| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |
