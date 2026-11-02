@@ -102,7 +102,7 @@ def main():
         confronto=str(dedup_path.relative_to(ROOT)), sha256_confronto=sha(dedup_path),
         replay_integral=str(replay_path.relative_to(ROOT)), sha256_replay=sha(replay_path),
         criterio='Confronto conjunto das 3.228 identidades contra blobs completos por OID de HEAD; nenhum componente foi adicionado como reserva nesta comparação final.'))
-    prefix = '/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I '
+    prefix = 'python3 -I '
     receipt = output / 'entrega-final.json'
     (output / 'TESTAR.txt').write_text(
         'Replay integral em saída nova:\n' + prefix + 'scripts/qa_municipal_persistente_20261027.py scripts/verificar_entrega_ta_sem_promocoes_v2.py --manifesto ' + str(receipt.relative_to(ROOT)) + ' --replay --saida NOVA_SAIDA_REPLAY.json\n\n' +

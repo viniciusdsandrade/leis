@@ -86,7 +86,7 @@ def main():
         colisoes=0, fontes=collision['fontes'], controle=str(context / 'colisoes-globais.json')))
     (a.saida / 'TESTAR.txt').write_text(
         'Replay independente (use diretório de saída novo):\n'
-        '/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/auditar_commonmark_ta_v2.py'
+        'python3 -I scripts/auditar_commonmark_ta_v2.py'
         f' --lista {a.saida}/normas.paths.txt --materializados {dirs["materializados"]} --saida /tmp/ta{len(norms)}-replay-root\n'
         f'Esperado: {len(norms)} aprovados, 0 retidos.\n'
         'Verifique também todos os SHA/bytes de manifesto.json antes do staging. Não incorporar normas de listas intermediárias.\n')
