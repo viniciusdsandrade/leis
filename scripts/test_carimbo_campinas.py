@@ -251,6 +251,10 @@ class CabecalhoDePagina(unittest.TestCase):
             corpo, _ = limpar_carimbo_campinas("\n\n".join([LEI, *fracoes]))
             self.assertEqual(corpo, "\n\n".join([LEI, *fracoes]), fracoes)
 
+    def test_numero_de_pagina_com_travessao_sai(self):
+        corpo, _ = limpar_carimbo_campinas("**Art. 1.°** — Fica aprovado o\n\n— 43 —\n\nperimetro urbano.\n\n- 42 —\n\n**Art. 2.°** — Revogam-se.")
+        self.assertEqual(corpo, "**Art. 1.°** — Fica aprovado o perimetro urbano.\n\n**Art. 2.°** — Revogam-se.")
+
     def test_numero_de_pagina_de_livro_sai_e_a_frase_se_reune(self):
         corpo, _ = limpar_carimbo_campinas("\n\n".join([LEI, "- 58 - - 59 -", "§ 10 - Thesouraria"]))
         self.assertEqual(corpo, "\n\n".join([LEI, "§ 10 - Thesouraria"]))
@@ -427,6 +431,14 @@ class RecorteDeAtoDeLivro(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "não bate"):
             recortar_ato_de_livro(self.PAGINA_1933, "Decretos Até 1948", "63", "1933-12-05")
 
+    def test_mes_do_fecho_com_erro_de_ocr(self):
+        from baixar_organicas_sapl import mes_por_extenso, recortar_ato_de_livro
+        self.assertEqual([mes_por_extenso(m) for m in ("Ontubro", "Outubco", "Dezemarg", "Setmbro", "Março", "MAIO")], [10, 10, 12, 9, 3, 5])
+        self.assertIsNone(mes_por_extenso("Publicada"))
+        pagina = self.PAGINA_1933.replace("Campinas, 4 de Dezembro de 1933", "Campinas, 4 de Dezemrbo de 1933")
+        _, data = recortar_ato_de_livro(pagina, "Decretos Até 1948", "63", "1933-12-04")
+        self.assertEqual(data, "1933-12-04")
+
     def test_retem_colunas_entrelacadas(self):
         from baixar_organicas_sapl import recortar_ato_de_livro
         pagina = self.PAGINA_1933.replace("**Art. 1.°** — Os perimetros", "**Art. 3.°** — Os perimetros")
@@ -447,14 +459,36 @@ class RecorteDeAtoDeLivro(unittest.TestCase):
                                           "Faco saber que a Camara derrotou e ell promulog a geoninte - 43\n\nLEI N. 135")
         recorte, _ = recortar_ato_de_livro(pagina, "Leis Até 1948", "134", "1909-10-30")
         self.assertTrue(recorte.rstrip().endswith("O Secretario, LEOPOLDO AMARAL."), recorte[-120:])
-        # sem ponto entre o nome do secretário e o preâmbulo seguinte não há como apará-lo: retém (Lei 439/1928)
+        # sem ponto entre o nome do secretário e o preâmbulo seguinte, vale o nome que assina o fecho do próprio ato
         pagina = self.PAGINA_1909.replace("LEOPOLDO AMARAL. Orosimbo Maia, Prefeito", "LEOPOLDO AMARAL Orosimbo Maia, Prefeito")
+        pagina = pagina.replace("Campinas, 30 de Outubro de 1909. OROSIMBO MAIA. Publicada", "Campinas, 30 de Outubro de 1909. Orosimbo Maia Publicada")
+        recorte, _ = recortar_ato_de_livro(pagina, "Leis Até 1948", "134", "1909-10-30")
+        self.assertTrue(recorte.rstrip().endswith("O Secretario, LEOPOLDO AMARAL"), recorte[-120:])
+        # o nome que assina o fecho de outro ato da mesma página também serve
+        pagina2 = pagina.replace("Campinas, 30 de Outubro de 1909. Orosimbo Maia Publicada", "Campinas, 30 de Outubro de 1909. Publicada")
+        pagina2 = "Campinas, 22 de Outubro de 1909. Orosimbo Maia Publicada na Secretaria, aos 22 de Outubro de 1909. " + pagina2
+        recorte, _ = recortar_ato_de_livro(pagina2, "Leis Até 1948", "134", "1909-10-30")
+        self.assertTrue(recorte.rstrip().endswith("O Secretario, LEOPOLDO AMARAL"), recorte[-120:])
+        # sem assinatura reconhecível em ato algum, continua retido
+        pagina = pagina.replace("Campinas, 30 de Outubro de 1909. Orosimbo Maia Publicada", "Campinas, 30 de Outubro de 1909. Publicada")
         with self.assertRaisesRegex(RuntimeError, "colado ao fecho"):
             recortar_ato_de_livro(pagina, "Leis Até 1948", "134", "1909-10-30")
+        # número de página e OCR do título ("r. Miguel", "Penteado. Prefeito") antes do preâmbulo seguinte
+        pagina = self.PAGINA_1909.replace("LEOPOLDO AMARAL. Orosimbo Maia, Prefeito Municipal de Campinas, etc. Faço saber",
+                                          "LEOPOLDO AMARAL. - 23 - r. Miguel de Barros Penteado. Prefeito Municipal de Campinas, eli aco saber")
+        recorte, _ = recortar_ato_de_livro(pagina, "Leis Até 1948", "134", "1909-10-30")
+        self.assertTrue(recorte.rstrip().endswith("O Secretario, LEOPOLDO AMARAL."), recorte[-120:])
         # assinatura do prefeito no fecho do próprio ato não é preâmbulo
         pagina = self.PAGINA_1933.replace("Campinas, 4 de Dezembro de 1933. P. Leite de Barros.", "Campinas, 4 de Dezembro de 1933. P. LEITE DE BARROS PREFEITO MUNICIPAL")
         recorte, _ = recortar_ato_de_livro(pagina, "Decretos Até 1948", "63", "1933-12-04")
         self.assertIn("PREFEITO MUNICIPAL Publicado na Secretaria", recorte)
+
+    def test_nome_do_secretario_antes_do_ponto_fica(self):
+        # Lei 310/1923: "O Secretario, Amilar Alves. Dr. Miguel de Barros Penteado, Prefeito Municipal..." apara só a partir de "Dr."
+        from baixar_organicas_sapl import recortar_ato_de_livro
+        pagina = self.PAGINA_1909.replace("O Secretario, LEOPOLDO AMARAL. Orosimbo Maia, Prefeito", "O Secretario, Amilar Alves. Dr. Miguel de Barros Penteado, Prefeito")
+        recorte, _ = recortar_ato_de_livro(pagina, "Leis Até 1948", "134", "1909-10-30")
+        self.assertTrue(recorte.rstrip().endswith("O Secretario, Amilar Alves."), recorte[-120:])
 
     def test_quantias_da_coluna_vizinha_retem_ato_sem_materia_financeira(self):
         from baixar_organicas_sapl import recortar_ato_de_livro
