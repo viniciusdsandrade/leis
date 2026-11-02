@@ -13,7 +13,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[3]  # raiz do repositório
 sys.path.insert(0, str(REPO / "scripts"))
-from baixar_bibjuri_campinas import fonte_texto_coerente  # noqa: E402
+from baixar_bibjuri_campinas import fonte_texto_coerente, registros_de_retencao, retencao_do_anexo  # noqa: E402
 
 HOST = "sapl.campinas.sp.leg.br"
 MUN = REPO / "municipais/SP/campinas"
@@ -95,6 +95,7 @@ def verificar(siglas, anos):
     dup = {k: v for k, v in por_id.items() if len(v) > 1}
     equiv = json.loads((CACHE / "equivalencias.json").read_text()) if (CACHE / "equivalencias.json").exists() else {}
     falhas = ultima_falha()
+    registros = registros_de_retencao()
     total = {"indice": 0, "md": 0, "equivalentes": 0, "sem_md": 0, "divergencias": 0}
     sem_md = []
     for ano in anos:
@@ -131,9 +132,20 @@ def verificar(siglas, anos):
             from baixar_organicas_sapl import texto_de_outra_norma
             troca = texto_de_outra_norma(HOST, n["id"])
             esperado = troca["texto_integral"] if troca else (n.get("texto_integral") or "")
-            if not fonte_texto_coerente(meta["fonte_texto"], esperado):
-                erros.append("fonte_texto difere do texto_integral do cadastro"
-                             + ("" if esperado else " (ficha sem anexo: só página do bibjuri vale)"))
+            # bibjuri com anexo na ficha: só quando o .md declara a retenção e o registro do pipeline do SAPL a confirma
+            retencao = retencao_do_anexo(n, registros) if esperado and meta.get("observacao_fonte") else None
+            if not fonte_texto_coerente(meta["fonte_texto"], esperado, anexo_retido=bool(retencao)):
+                if not esperado:
+                    erros.append("fonte_texto difere do texto_integral do cadastro (ficha sem anexo: só página do bibjuri vale)")
+                elif "bibjuri.campinas.sp.gov.br" in meta["fonte_texto"]:
+                    erros.append("fonte_texto no bibjuri, mas a ficha tem anexo "
+                                 + ("e o registro do pipeline do SAPL não confirma a retenção declarada em observacao_fonte"
+                                    if meta.get("observacao_fonte") else "e o .md não declara a retenção em observacao_fonte"))
+                else:
+                    erros.append("fonte_texto difere do texto_integral do cadastro")
+            elif meta.get("observacao_fonte") and not (retencao and "bibjuri.campinas.sp.gov.br" in meta["fonte_texto"]):
+                erros.append("observacao_fonte declara anexo retido, mas a ficha não tem anexo, o registro de retenção não o "
+                             "confirma ou o texto não vem do bibjuri")
             if meta["codigo_ibge"] != "3509502" or meta["municipio"] != "Campinas" or meta["uf"] != "SP":
                 erros.append("identidade municipal")
             if not p.name.endswith(f"-sapl-{n['id']}.md"):
