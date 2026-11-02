@@ -152,14 +152,19 @@ def coletar():
 
 
 def signatarios_do_git():
-    """Top signatários pelo histórico, separando pessoas de autorias institucionais."""
+    """Top signatários pelo histórico, separando pessoas de autorias institucionais.
+
+    Conta só os commits de norma, cuja autoria é sintética (nome-sobrenome-NNNNN@exemplo.com).
+    Commits de lote, de quem mantém o acervo ou de colaboradores, não são assinatura de norma.
+    """
     try:
-        saida = subprocess.run(["git", "-C", RAIZ, "log", "--format=%an"],
+        saida = subprocess.run(["git", "-C", RAIZ, "log", "--format=%an%x09%ae"],
                                capture_output=True, text=True, check=True).stdout
     except (subprocess.CalledProcessError, FileNotFoundError):
         return [], 0
-    c = collections.Counter(saida.splitlines())
-    inst = re.compile(r"^(Estado d|Distrito Federal|República Federativa|Joao Davi)")
+    c = collections.Counter(nome for nome, _, mail in (l.partition("\t") for l in saida.splitlines())
+                            if mail.endswith("@exemplo.com"))
+    inst = re.compile(r"^(Estado d|Distrito Federal|República Federativa)")
     pessoas = [(n, v) for n, v in c.most_common() if not inst.match(n)]
     return pessoas[:15], len(c)
 

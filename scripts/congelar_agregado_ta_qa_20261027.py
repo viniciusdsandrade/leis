@@ -44,7 +44,7 @@ def main():
  def dump(path,value):
   with path.open('x') as f:json.dump(value,f,ensure_ascii=False,indent=2);f.write('\n')
  dump(a.saida/'fixtures-head.json',fixtures);add(a.saida/'fixtures-head.json')
- receipt=a.saida/'entrega-final.json';prefix='/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I '
+ receipt=a.saida/'entrega-final.json';prefix='python3 -I '
  (a.saida/'TESTAR.txt').write_text(prefix+'scripts/qa_municipal_persistente_20261027.py scripts/verificar_entrega_ta_sem_promocoes_v2.py --manifesto '+str(receipt)+' --replay --saida NOVA_SAIDA_REPLAY.json\nEsperado: '+str(n)+'/'+str(n)+' replays, zero problemas.\n\n'+prefix+'scripts/comparar_baseline_municipal_head_20261027.py --baseline '+str(a.baseline)+' --lista '+m['lista_normas']+' --saida NOVA_SAIDA_CONFRONTO.json\nEsperado: '+str(b['total'])+' comparados, '+str(n)+' candidatos, zero colisões. Revalidar HEAD atual antes de publicar.\n')
  add(a.saida/'TESTAR.txt');listing=a.saida/'entrega-final.paths.txt';listing.write_text('\n'.join(sorted(records))+'\n');add(listing)
  m.update(arquivos=list(records.values()),bytes=sum(x['bytes'] for x in records.values()),confronto_final=str(a.confronto),replay_integral=str(a.replay),fixtures_head=str(a.saida/'fixtures-head.json'),limite='Agregado com replay integral e confronto conjunto contra blobs completos HEAD e reservas qualificadas externas. Nenhum componente integra o baseline conjunto; fixtures HEAD idênticos sem contagem. Originais preservados. Não certifica vigência/cobertura integral por contagem.')

@@ -66,7 +66,7 @@ def main():
  instructions=a.saida/'INSTRUCOES_ROOT.txt';(R/instructions).write_text(
   'Mapa de publicação exclusivo: 3.227 MDs novos. Há três fixtures idênticos a HEAD, sem contagem; não há canônico antigo de Buritis, nem MDs novos dos 921/586. Provas e candidatos de reparo são TXT privados, sem promoção. Os três pacotes de origem continuam intactos.\n\n'
   '1. Repetir SHA/bytes deste manifesto e dos artefatos. Repetir dedup contra HEAD real por OID, formato e gates do índice no ROOT.\n'
-  '2. Replay: /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/verificar_entrega_ta_sem_promocoes_v3_privado_20261027.py --manifesto '+str(a.saida/'manifesto.json')+' --replay --saida NOVA_SAIDA_REPLAY3227.json\n'
+  '2. Replay: python3 -I scripts/verificar_entrega_ta_sem_promocoes_v3_privado_20261027.py --manifesto '+str(a.saida/'manifesto.json')+' --replay --saida NOVA_SAIDA_REPLAY3227.json\n'
   '3. Testes: python3 -I scripts/test_perfil_ta_tachados_preservados_20261027.py e python3 -I scripts/test_materializador_ta_v7_privado_20261027.py, usando o Python bundled. Esperado: 14 + 2 testes.\n\n'
   'Stage somente ROOT, quando os gates passarem (não executado pelo agente):\n'
   'git --literal-pathspecs -c core.autocrlf=false add -f --pathspec-from-file='+str(a.saida/'stage.paths.z')+' --pathspec-file-nul\n'

@@ -62,7 +62,7 @@ def main():
     dump(a.saida/'componentes.json', componentes)
     receipt = a.saida/'entrega-final.json'
     (a.saida/'TESTAR.txt').write_text(
-        '/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I '
+        'python3 -I '
         'scripts/qa_municipal_persistente_20261027.py scripts/verificar_entrega_ta_sem_promocoes_v2.py '
         f'--manifesto {receipt} --replay --saida {a.saida}/replay-ROOT-NOVO.json\n'
         f'Esperado: {len(norms)} replays aprovados, zero problemas. Use saída nova.\n')

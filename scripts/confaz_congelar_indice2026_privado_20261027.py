@@ -97,7 +97,7 @@ def main():
                   'Condições, notas, ratificação e efeitos permanecem literais, sem calcular vigência.',
                   'Histórico, tachas e identidades inconclusivas continuam retidos; nenhum canônico foi escrito.',
                   'ROOT deve rever os candidatos e revalidar HEAD/reservas qualificadas antes de qualquer promoção.']))
-    prefix = '/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I '
+    prefix = 'python3 -I '
     (args.saida / 'TESTAR.txt').write_text(prefix + 'scripts/test_confaz_piloto_privado_v2_20261027.py\n' +
         prefix + 'scripts/test_confaz_indice2026_privado_20261027.py\n\n' +
         prefix + 'scripts/confaz_auditar_piloto_privado_v3_20261027.py --captura reguladores/_fonte/auditorias/' + names[1] + ' --saida NOVA_SAIDA_QA\n' +

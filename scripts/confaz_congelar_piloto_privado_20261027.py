@@ -66,8 +66,8 @@ def main():
           'auditar_cache_dou.py','auditar.py','baixar_dou.py','comum.py','html2md.py','metadados_lotes.py']
     files.update('scripts/'+p for p in code);files.add('scripts/estados/pe_fidelidade_visivel.py');files.add(str(Path(__file__).resolve().relative_to(ROOT)))
     (a.saida/'TESTAR.txt').write_text(
-        'Testes offline (8 casos):\n/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_confaz_piloto_privado_v2_20261027.py\n\n'
-        'Replay da representação/CSS, sempre em saída nova:\n/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/confaz_auditar_piloto_privado_v3_20261027.py --captura reguladores/_fonte/auditorias/confaz-piloto-v2-20261027 --saida NOVA_SAIDA\n'
+        'Testes offline (8 casos):\npython3 -I scripts/test_confaz_piloto_privado_v2_20261027.py\n\n'
+        'Replay da representação/CSS, sempre em saída nova:\npython3 -I scripts/confaz_auditar_piloto_privado_v3_20261027.py --captura reguladores/_fonte/auditorias/confaz-piloto-v2-20261027 --saida NOVA_SAIDA\n'
         'Esperado: 6 representações verificadas, 0 retidos. Não é autorização de publicação.\n'
         'Controle histórico: repetir com --captura reguladores/_fonte/auditorias/confaz-controle-historico35-20261027; esperado 0 representações liberadas, 1 retido.\n'
         'Aliases: scripts/confaz_confrontar_head_privado_v2_20261027.py --qa reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027 --saida NOVA_SAIDA_HEAD\n'

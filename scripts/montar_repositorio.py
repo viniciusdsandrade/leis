@@ -167,11 +167,29 @@ def dados(s):
     return b"data %d\n" % len(b) + b
 
 
+IDENTIDADE = re.compile(r"^[^<>\n]+ <[^<>\s]+@[^<>\s]+>$")
+
+
+def identidade_git():
+    """Nome e e-mail do `git config` deste clone, no formato "Nome <email>"; vazio se faltar algum."""
+    def cfg(chave):
+        r = subprocess.run(["git", "-C", RAIZ, "config", chave], capture_output=True, text=True)
+        return r.stdout.strip()
+    nome, mail = cfg("user.name"), cfg("user.email")
+    return "%s <%s>" % (nome, mail) if nome and mail else ""
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--saida", required=True, help="pasta do repositório a criar")
     ap.add_argument("--limite", type=int, help="processa só as N primeiras normas (teste)")
+    ap.add_argument("--identidade", metavar='"Nome <email>"',
+                    help="quem assina o commit inicial de ferramentas e documentação; "
+                         "padrão: user.name e user.email do git config deste clone")
     a = ap.parse_args()
+    eu = a.identidade or identidade_git()
+    if not IDENTIDADE.match(eu):
+        ap.error('defina --identidade "Nome <email>" ou user.name e user.email no git config')
 
     repo = os.path.abspath(a.saida)
     os.makedirs(repo, exist_ok=True)
@@ -187,7 +205,6 @@ def main():
         ["git", "fast-import", "--quiet", "--date-format=raw"],
         cwd=repo, stdin=subprocess.PIPE)
     w = fluxo.stdin
-    eu = "Joao Davi <joao@supersoniclabs.ai>"
 
     # commit inicial: ferramentas e documentação
     base = []
