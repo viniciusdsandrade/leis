@@ -11,7 +11,11 @@ Por que esta fonte entra
 
 Como funciona
     1. Fichas: a API do SAPL (normajuridica, por tipo e ano) lista as normas; ficam só as sem `texto_integral` e
-       sem `.md` já publicado em municipais/SP/campinas (qualquer subpasta, qualquer origem).
+       sem `.md` já publicado em municipais/SP/campinas (qualquer subpasta, qualquer origem). Com `--incluir-retidas`
+       entram também as fichas COM anexo e sem `.md` cujo anexo o pipeline do SAPL reteve por integridade
+       (retidos-integralidade.json ou última falha de conteúdo em falhas.jsonl, no cache de baixar_organicas_sapl.py):
+       páginas de livro digitalizadas com vários atos, OCR ilegível, artigos fora de ordem. O `.md` declara isso em
+       `observacao_fonte`, com o motivo registrado; `fonte` continua sendo a ficha do SAPL.
     2. Cartões: a busca avançada do bibjuri, paginada por ano e tipo (10 por página), dá id, número e data de
        cada norma. Quem não aparece na listagem do ano é procurado por número e ano.
     3. Texto: a página "Texto Original" é baixada, o bloco `div#div-conteudo-lei` é isolado e convertido com
@@ -25,9 +29,14 @@ Como funciona
        pode variar); o texto precisa de artigo inicial e fecho reconhecíveis; páginas com
        imagem embutida (quadros e anexos em PNG), com epígrafe de outra norma (`granularidade_sapl`) ou com
        aviso de outra publicação são retidas com o motivo em municipais/_indice/bibjuri-campinas/retidos.json.
+       Também ficam retidas a página cujo texto não traz a ementa da ficha (outro ato sob o mesmo número e data), a
+       ficha cujo ano de cadastro difere do ano da data (a pasta sairia errada) e a página do bibjuri que já deu
+       texto a outro `.md` (duas fichas para o mesmo ato).
     5. Gravação: `municipais/SP/campinas/<pasta>/<ano>/<pasta>-<numero>-<ano>-sapl-<id>.md`, mesmo nome e mesmo
        front matter dos lotes do SAPL, com `fonte` no registro do SAPL, `fonte_texto` na página original do
-       bibjuri, `publicacao` do DOM e `sha256_fonte` do HTML baixado. Nenhum arquivo existente é alterado.
+       bibjuri, `publicacao` do DOM e `sha256_fonte` do HTML baixado. O título e `tipo_na_fonte` usam o nome do
+       tipo na ficha do SAPL, como o pipeline do SAPL ("Leis Até 1948", "Decretos Até 1948", "Decreto-lei").
+       Nenhum arquivo existente é alterado.
 
     Respostas da busca ficam em municipais/_indice/bibjuri-campinas/, páginas de norma em
     municipais/_fonte/bibjuri-campinas/ (bytes originais), páginas da API do SAPL no cache de
@@ -36,7 +45,8 @@ Como funciona
 Uso
     python3 -I scripts/baixar_bibjuri_campinas.py --tipo decreto --de 1970 --ate 1979 --listar   # só conta
     python3 -I scripts/baixar_bibjuri_campinas.py --tipo decreto --de 1975 --ate 1975 --max 20
-    python3 -I scripts/baixar_bibjuri_campinas.py --tipo lei --de 1892 --ate 1948
+    python3 -I scripts/baixar_bibjuri_campinas.py --tipo lei --de 1892 --ate 1948 --incluir-retidas
+    python3 -I scripts/baixar_bibjuri_campinas.py --tipo decreto-lei --de 1940 --ate 1947 --incluir-retidas
 """
 import argparse
 import datetime as dt
@@ -64,22 +74,37 @@ HOST_SAPL = "sapl.campinas.sp.leg.br"
 CACHE = RAIZ / "_indice/bibjuri-campinas"
 FONTE = RAIZ / "_fonte/bibjuri-campinas"
 CACHE_SAPL = RAIZ / "_indice/organicas-sapl" / HOST_SAPL
+FONTE_SAPL = RAIZ / "_fonte/organicas-sapl" / HOST_SAPL
 IDENTIDADE = (("municipio", "Campinas"), ("uf", "SP"), ("codigo_ibge", "3509502"))
-# tipo da linha de comando -> tipos do SAPL (ids da API), tipo da busca do bibjuri, pasta e rótulos do acervo
+# tipo da linha de comando -> tipos do SAPL (ids da API), tipo da busca do bibjuri, pasta e rótulos do acervo; os
+# decretos até 1948 (19) e os decretos-leis (17) vão para a pasta dos decretos, como no pipeline do SAPL
 TIPOS = {
-    "decreto": {"sapl": (4,), "bibjuri": 57, "sigla": "DEC", "pasta": "decretos", "tipo": "Decreto",
+    "decreto": {"sapl": (4, 19), "bibjuri": 57, "sigla": "DEC", "pasta": "decretos", "tipo": "Decreto",
                 "tipo_na_fonte": "Decreto", "epigrafe": "DECRETO", "titulo": "Decreto"},
+    "decreto-lei": {"sapl": (17,), "bibjuri": 93, "sigla": "DEL", "pasta": "decretos", "tipo": "Decreto-Lei",
+                    "tipo_na_fonte": "Decreto-lei", "epigrafe": "DECRETO-LEI", "titulo": "Decreto-lei"},
     "lei": {"sapl": (1, 18), "bibjuri": 55, "sigla": "LEI", "pasta": "leis-ordinarias", "tipo": "Lei ordinária",
             "tipo_na_fonte": "Lei", "epigrafe": "LEI", "titulo": "Lei"},
 }
+# nome do tipo na API do SAPL (tiponormajuridica), que o pipeline do SAPL grava em tipo_na_fonte e no título (__str__)
+ROTULO_SAPL = {1: "Lei", 4: "Decreto", 17: "Decreto-lei", 18: "Leis Até 1948", 19: "Decretos Até 1948"}
+# Anexo retido pelo pipeline do SAPL (--incluir-retidas). Conta a recusa do texto lido do anexo ("...; revisar",
+# "conferir a identidade do anexo", "recortar o ato antes de publicar", "PDF sem texto legível (nem por OCR)", "texto
+# possivelmente incompleto"); não contam falha de rede ou de ferramenta ("[Errno 2] ... 'pdftotext'", "HTTP 404"), ficha
+# que não tinha anexo na época ("norma sem texto integral") nem dúvida sobre a data do cadastro, que o texto de outra
+# fonte não resolve.
+RETENCAO_DE_CONTEUDO = re.compile(r"\brevis(?:ar|ão)\b|conferir a identidade|recortar o ato|nem por OCR|possivelmente incompleto", re.I)
+RETENCAO_DE_DATA = re.compile(r"data do (?:cadastro|texto e do cadastro)|revisar a data", re.I)
+PREFIXO_RETENCAO = "fonte retida para revisão de integralidade: "
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro",
          "novembro", "dezembro"]
 MES_NUMERO = {normal(m): i + 1 for i, m in enumerate(MESES)}
 # "DECRETO Nº 4.813 DE 29 DE DEZEMBRO DE 1975", "DECRETO N.º 2.740, DE 30 DE DEZEMBRO DE 1965", "LEI N. 287 (": a data
 # é opcional porque os livros de leis antigos não a trazem na epígrafe; nesse caso ela é conferida no fecho.
 # Só formatação varia na transcrição: "N. º", "N.º", "No", "N/"; "3 626", "3.626" e "1,674"; "1.º DE ABRIL"; ano "1.970" ou "1 .970".
+# "DECRETO-LEI Nº 96" (ou "DECRETO LEI") é epígrafe de decreto-lei, nunca de decreto nem de lei.
 EPIGRAFE = re.compile(
-    r"(?P<tipo>DECRETO|LEI)\s+N(?:\s*[.º°o/])*\s*(?P<numero>\d(?:[\d., ]*\d)?(?:-[A-Z])?)"
+    r"(?P<tipo>DECRETO[- ]LEI|DECRETO|LEI)\s+N(?:\s*[.º°o/])*\s*(?P<numero>\d(?:[\d., ]*\d)?(?:-[A-Z])?)"
     r"(?:\s*[,.–—-]?\s*(?:DE\s+)?(?P<dia>\d{1,2})\s*[º°.]*\s*(?:DE\s+)?(?P<mes>[A-ZÇÃa-zçã]{4,9})\s*(?:DE\s+)?(?P<ano>\d\s*\.?\s*\d{3}))?",
     re.I)
 # "Campinas, 29 de dezembro de 1975", "aos 15 dias de maio de 1.970", "aos 5 dias do mês de Maio de 1.970"
@@ -97,6 +122,15 @@ ARTIGO = re.compile(r"(?m)^\W{0,4}Art(?:igo|\.)?\s*(?:1|único|unico)\b|\bArt(?:
 ARTIGO_QUALQUER = re.compile(r"(?m)^\W{0,4}Art(?:igo|\.)\s*\d")
 # decretos de pessoal dos anos 1960 em forma não articulada: "A P O S E N T A, a partir de...", "NOMEIA", "EXONERA"
 FORMULA_DIRETA = re.compile(r"(?m)^\W*(?:A\s*P\s*O\s*S\s*E\s*N\s*T\s*A|NOMEIA|EXONERA|DESIGNA|DISPENSA|REMOVE|PROMOVE|READMITE|REVERTE|TRANSFERE|DEMITE)\b")
+# A ementa da ficha do SAPL tem de reaparecer no texto: palavras de 4 letras ou mais, sem acento, comparadas pelos 5
+# primeiros caracteres (a ficha antiga vem em maiúsculas, com grafia antiga e erros de digitação: "PERTECENTE",
+# "PATRIMO NIO", "CAXIAS"). Calibração em 02/11/2026 nos 2.915 textos do bibjuri no acervo: 2.782 com 100%, 112 de
+# 60% a 99%, 18 com ementa curta demais e só 3 abaixo de 40% (0%, 8% e 29%), os três com o texto de outro ato sob o
+# mesmo número e a mesma data (DEL 29/1940 com a ementa do 28/1940 do bibjuri; decretos 3.360/1969 e 3.779/1971).
+# Ementa com menos de 3 palavras úteis não é conferida.
+EMENTA_MINIMA = 0.4
+PALAVRAS_VAZIAS = frozenset("PARA PELO PELA PELOS PELAS COMO DESDE SOBRE ENTRE ESTE ESTA ESSE ESSA ESTES ESTAS QUAL "
+                            "QUAIS UMAS OUTRA OUTRO OUTRAS OUTROS DEMAIS PROVIDENCIAS".split())
 FIM_DO_CONTEUDO = ("Visite tamb", 'id="footer"', "Coordenadoria de Estudos Jur")
 SEM_ORIGINAL = re.compile(r"Este conte[úu]do n[ãa]o possui Original", re.I)
 ANEXO_DA_FONTE = re.compile(r'href=["\x27](/images/full/[^"\x27]+)["\x27]', re.I)
@@ -206,6 +240,92 @@ def ids_publicados():
     return ids
 
 
+def paginas_bibjuri_usadas():
+    """Páginas do bibjuri (id da norma) que já deram texto a um .md de Campinas: id -> caminho relativo."""
+    usadas = {}
+    for p in MUNICIPIO.glob("**/*-sapl-*.md"):
+        with p.open("rb") as f:
+            cabecalho = f.read(8192).decode("utf-8", errors="replace").split("\n---\n", 1)[0]
+        m = re.search(r'^fonte_texto: "https?://bibjuri\.campinas\.sp\.gov\.br/index/visualizar(?:original|atualizada)/id/(\d+)"',
+                      cabecalho, re.M)
+        if m:
+            usadas[int(m.group(1))] = str(p.relative_to(RAIZ.parent))
+    return usadas
+
+
+# ------------------------------------------------------------------------------------------ anexo retido no SAPL
+def registros_de_retencao():
+    """retidos-integralidade.json e a última falha de cada ficha em falhas.jsonl, ambos do pipeline do SAPL."""
+    falhas = {}
+    caminho = CACHE_SAPL / "falhas.jsonl"
+    if caminho.exists():
+        for linha in caminho.read_text(encoding="utf-8").splitlines():
+            try:
+                registro = json.loads(linha)
+            except ValueError:  # linha truncada por interrupção do pipeline
+                continue
+            if isinstance(registro, dict) and "id" in registro:
+                falhas[int(registro["id"])] = registro  # o arquivo só cresce: a última linha da ficha é a última falha
+    return ler_json(CACHE_SAPL / "retidos-integralidade.json", {}), falhas
+
+
+def motivo_legivel(motivo):
+    """Motivo do pipeline do SAPL sem o prefixo de retenção, sem o JSON dos alertas e com no máximo 300 caracteres."""
+    motivo = re.sub(r"\s+", " ", motivo).strip()
+    if motivo.startswith(PREFIXO_RETENCAO):
+        motivo = motivo[len(PREFIXO_RETENCAO):]
+    motivo = re.split(r":\s*[\[{]", motivo, maxsplit=1)[0].strip(" ;:")
+    return motivo if len(motivo) <= 300 else motivo[:297].rstrip() + "..."
+
+
+def retencao_registrada(ident, retidos, falhas, sha_anexo=None):
+    """Motivo pelo qual o pipeline do SAPL reteve por integridade o anexo da ficha `ident`, ou None.
+
+    Vale o registro em retidos-integralidade.json, se o anexo em cache ainda é o mesmo (SHA-256) que foi retido; sem
+    registro, vale a última falha da ficha em falhas.jsonl quando é recusa do conteúdo lido do anexo. Retenção por data
+    do cadastro em dúvida não conta: a página de outra fonte não confirma a data da ficha."""
+    registro = retidos.get(str(ident))
+    if registro:
+        if sha_anexo and registro.get("sha256_fonte") and registro["sha256_fonte"] != sha_anexo:
+            return None  # o anexo mudou depois da retenção: o pipeline do SAPL precisa reavaliá-lo
+        motivo = registro.get("motivo") or ""
+    else:
+        motivo = (falhas.get(int(ident)) or {}).get("erro") or ""
+        if not RETENCAO_DE_CONTEUDO.search(motivo):
+            return None
+    if not motivo.strip() or RETENCAO_DE_DATA.search(motivo):
+        return None
+    return motivo_legivel(motivo)
+
+
+def retencao_do_anexo(norma, registros):
+    """retencao_registrada para uma ficha com anexo, conferindo o SHA-256 do anexo no cache do pipeline do SAPL."""
+    if not norma.get("texto_integral"):
+        return None
+    anexo = FONTE_SAPL / f"{norma['id']}.bin"
+    sha = hashlib.sha256(anexo.read_bytes()).hexdigest() if anexo.exists() else None
+    return retencao_registrada(norma["id"], *registros, sha_anexo=sha)
+
+
+def observacao_de_retencao(norma, motivo):
+    """Texto de `observacao_fonte`: o anexo do SAPL existe, foi retido por integridade, e o texto vem do bibjuri."""
+    return (f"a ficha do SAPL tem anexo de texto ({norma['texto_integral']}), retido por integridade no pipeline do "
+            f"SAPL: {motivo}; o texto deste arquivo vem da Biblioteca Jurídica da Prefeitura (fonte_texto)")
+
+
+def alvos_do_ano(fichas, publicados, retencao=None):
+    """Fichas a converter, como (ficha, motivo da retenção do anexo ou None): as sem anexo e sem .md e, quando
+    `retencao` (ficha -> motivo ou None) é dada, as com anexo retido por integridade e sem .md."""
+    alvos = [(n, None) for n in fichas if not n.get("texto_integral") and n["id"] not in publicados]
+    if retencao:
+        for n in fichas:
+            if n.get("texto_integral") and n["id"] not in publicados:
+                motivo = retencao(n)
+                if motivo:
+                    alvos.append((n, motivo))
+    return alvos
+
+
 # ------------------------------------------------------------------------------------------ bibjuri
 def cartoes_da_pagina(pagina):
     """Cartões de uma página de resultados: id, número (só dígitos), data ISO e título literal."""
@@ -254,9 +374,9 @@ def cartoes_do_ano(fonte, info, ano):
 
 
 def casar(norma, cartoes):
-    """Cartões com o mesmo número da ficha; os de mesma data vêm primeiro."""
-    numero = str(norma["numero"]).replace(".", "").strip()
-    iguais = [c for c in cartoes if c["numero"] == numero]
+    """Cartões com o mesmo número da ficha ("07" no cartão de 1892 é a lei 7); os de mesma data vêm primeiro."""
+    numero = so_digitos(norma["numero"])
+    iguais = [c for c in cartoes if c["numero"] and so_digitos(c["numero"]) == numero]
     return sorted(iguais, key=lambda c: c["data"] != norma.get("data"))
 
 
@@ -347,7 +467,8 @@ def identidade(corpo, norma, info):
     for m in EPIGRAFE.finditer(inicio):
         # a epígrafe abre um parágrafo e vem em maiúsculas; "Altera o Decreto nº 4.813, de ..." é citação
         antes = inicio[inicio.rfind("\n", 0, m.start()) + 1:m.start()]
-        if m.group("tipo").isupper() and normal(m.group("tipo")) == info["epigrafe"] and not re.search(r"\w", antes):
+        tipo = re.sub(r"[- ]+", "-", normal(m.group("tipo")))
+        if m.group("tipo").isupper() and tipo == info["epigrafe"] and not re.search(r"\w", antes):
             achado = m
             break
     if not achado:
@@ -392,24 +513,50 @@ def integridade(corpo, norma, info):
     return None
 
 
+def rotulo_sapl(norma, info, campo="titulo"):
+    """Nome do tipo como a ficha do SAPL o dá ("Leis Até 1948", "Decreto-lei"); sem o tipo na ficha, o rótulo de `info`."""
+    return ROTULO_SAPL.get(norma.get("tipo"), info[campo])
+
+
+def radicais(texto):
+    """Palavras de 4 letras ou mais, sem acento e sem as vazias, pelos 5 primeiros caracteres."""
+    return {p[:5] for p in re.findall(r"[A-Z0-9]+", normal(texto)) if len(p) >= 4 and not p.isdigit() and p not in PALAVRAS_VAZIAS}
+
+
+def ementa_diverge(corpo, norma):
+    """None quando a ementa da ficha do SAPL reaparece no texto (EMENTA_MINIMA) ou é curta demais para conferir; senão o
+    motivo. Pega o texto de outro ato com o mesmo número e a mesma data (numeração divergente entre as fontes)."""
+    ementa = radicais(norma.get("ementa") or "")
+    if len(ementa) < 3:
+        return None
+    achadas = ementa & radicais(texto_plano(corpo))
+    if len(achadas) / len(ementa) >= EMENTA_MINIMA:
+        return None
+    return (f"ementa da ficha do SAPL não confere com o texto ({len(achadas)} de {len(ementa)} palavras): "
+            + re.sub(r"\s+", " ", norma["ementa"]).strip()[:120])
+
+
 def titulo_de(norma, info):
+    """Título no formato do __str__ da ficha do SAPL: "Decreto nº 4.813, de 29 de dezembro de 1975"."""
     data = dt.date.fromisoformat(norma["data"])
     numero = str(norma["numero"]).strip()
     if numero.isdigit():
         numero = f"{int(numero):,}".replace(",", ".")
-    return f"{info['titulo']} nº {numero}, de {data.day:02d} de {MESES[data.month - 1]} de {data.year}"
+    return f"{rotulo_sapl(norma, info)} nº {numero}, de {data.day:02d} de {MESES[data.month - 1]} de {data.year}"
 
 
-def montar_md(norma, cartao, corpo, publicacao, notas, bruto, info, hoje, edicao="original"):
-    """Texto completo do .md: front matter nos moldes dos lotes do SAPL de Campinas, H1 e corpo."""
+def montar_md(norma, cartao, corpo, publicacao, notas, bruto, info, hoje, edicao="original", retencao=None):
+    """Texto completo do .md: front matter nos moldes dos lotes do SAPL de Campinas, H1 e corpo. `retencao` é o motivo
+    pelo qual o pipeline do SAPL reteve o anexo da ficha; entra em `observacao_fonte`."""
     titulo = titulo_de(norma, info)
     rotulo, rota = EDICOES[edicao]
-    meta = [("titulo", titulo), ("tipo", info["tipo"]), ("tipo_na_fonte", info["tipo_na_fonte"]),
+    meta = [("titulo", titulo), ("tipo", info["tipo"]), ("tipo_na_fonte", rotulo_sapl(norma, info, "tipo_na_fonte")),
             ("numero", str(norma["numero"])), ("data", norma["data"]), *IDENTIDADE,
             ("versao_texto", rotulo + "; " + "; ".join(notas)),
             ("publicacao", publicacao or ""),
             ("fonte", f"https://{HOST_SAPL}/norma/{norma['id']}"),
             ("fonte_texto", f"{BIBJURI}/index/{rota}/id/{cartao['id']}"),
+            *((("observacao_fonte", observacao_de_retencao(norma, retencao)),) if retencao else ()),
             ("sha256_fonte", hashlib.sha256(bruto).hexdigest()),
             ("sha256_texto", hashlib.sha256(corpo.encode("utf-8")).hexdigest()),
             ("baixado_em", hoje.isoformat())]
@@ -424,7 +571,7 @@ def avaliar(bloco, norma, info):
     if imagem_embutida(bloco):
         return "imagem embutida no texto (quadro ou anexo em figura)", None, None, None, pdf
     corpo, publicacao, notas = converter(bloco)
-    motivo = identidade(corpo, norma, info) or integridade(corpo, norma, info)
+    motivo = identidade(corpo, norma, info) or integridade(corpo, norma, info) or ementa_diverge(corpo, norma)
     if motivo and pdf:
         motivo = "texto não transcrito na fonte, que remete a arquivo digitalizado; " + motivo
     elif (motivo and motivo.startswith(("epígrafe do ato não reconhecida", "texto curto demais", "texto sem artigo"))
@@ -435,12 +582,16 @@ def avaliar(bloco, norma, info):
     return motivo, corpo, publicacao, notas, pdf
 
 
-def fonte_texto_coerente(fonte_texto, texto_integral):
+def fonte_texto_coerente(fonte_texto, texto_integral, anexo_retido=False):
     """Regra de `campinas.py verificar`: o texto do .md tem de vir do anexo da ficha do SAPL (mesma URL, sem esquema)
-    ou, só quando a ficha não tem anexo, de uma página de norma do bibjuri (texto original ou consolidado)."""
+    ou de uma página de norma do bibjuri (texto original ou consolidado), mas o bibjuri só vale quando a ficha não tem
+    anexo ou quando o anexo foi retido por integridade (`anexo_retido`: registro do pipeline do SAPL e
+    `observacao_fonte` no .md, conferidos por quem chama)."""
     sem_esquema = (fonte_texto or "").split("://", 1)[-1]
-    if texto_integral:
-        return sem_esquema == texto_integral.split("://", 1)[-1]
+    if texto_integral and sem_esquema == texto_integral.split("://", 1)[-1]:
+        return True
+    if texto_integral and not anexo_retido:
+        return False
     partes = urllib.parse.urlsplit(fonte_texto or "")
     return (partes.hostname == urllib.parse.urlsplit(BIBJURI).hostname
             and bool(re.fullmatch(r"/index/visualizar(?:original|atualizada)/id/\d+", partes.path)))
@@ -452,8 +603,14 @@ def destino_de(norma, info):
     return MUNICIPIO / info["pasta"] / ano / f"{info['pasta']}-{numero}-{ano}-sapl-{norma['id']}.md"
 
 
-def processar(fonte, norma, cartoes, info, hoje, consolidado=True):
-    """Devolve (estado, detalhe): "novo" com o caminho, "retida"/"sem_cartao" com o motivo, "existente"."""
+def processar(fonte, norma, cartoes, info, hoje, consolidado=True, retencao=None, usadas=None):
+    """Devolve (estado, detalhe): "novo" com o caminho, "retida"/"sem_cartao" com o motivo, "existente".
+
+    `retencao`: motivo pelo qual o pipeline do SAPL reteve o anexo da ficha (vai para observacao_fonte).
+    `usadas`: páginas do bibjuri que já deram texto a um .md (id -> caminho); atualizado a cada novo .md."""
+    if norma.get("data") and norma["data"][:4] != str(norma.get("ano") or norma["data"][:4]):
+        # a pasta sai do ano da data; campinas.py verificar exige o ano do cadastro igual ao da pasta
+        return "retida", {"motivo": f"ano do cadastro do SAPL ({norma['ano']}) difere do ano da data da ficha ({norma['data']})"}
     candidatos = casar(norma, cartoes)
     if not candidatos:
         total, achados = buscar(fonte, info["bibjuri"], int(norma["data"][:4]) if norma.get("data") else norma["ano"],
@@ -484,47 +641,67 @@ def processar(fonte, norma, cartoes, info, hoje, consolidado=True):
     if motivo:
         return "retida", {"motivo": motivo, **registro}
     destino = destino_de(norma, info)
+    caminho = str(destino.relative_to(RAIZ.parent))
     if destino.exists():
-        return "existente", {"caminho": str(destino.relative_to(RAIZ.parent)), **registro}
-    escrever(destino, montar_md(norma, cartao, corpo, publicacao, notas, bruto, info, hoje, edicao))
-    return "novo", {"caminho": str(destino.relative_to(RAIZ.parent)), **registro}
+        return "existente", {"caminho": caminho, **registro}
+    if usadas is not None and usadas.get(cartao["id"], caminho) != caminho:
+        return "retida", {"motivo": f"a página do bibjuri já deu texto a outro .md ({usadas[cartao['id']]}): duas fichas para o mesmo ato?",
+                          **registro}
+    escrever(destino, montar_md(norma, cartao, corpo, publicacao, notas, bruto, info, hoje, edicao, retencao))
+    if usadas is not None:
+        usadas[cartao["id"]] = caminho
+    return "novo", {"caminho": caminho, **registro}
 
 
 # ------------------------------------------------------------------------------------------ execução
-def executar(tipo, de, ate, maximo=0, listar=False, rps=1.0, consolidado=True):
+def executar(tipo, de, ate, maximo=0, listar=False, rps=1.0, consolidado=True, incluir_retidas=False):
     info = TIPOS[tipo]
     fonte = Fonte(rps)
     CACHE.mkdir(parents=True, exist_ok=True)
     publicados = ids_publicados()
     retidos = ler_json(CACHE / "retidos.json", {})
     sem_cartao = ler_json(CACHE / "sem-cartao.json", {})
+    retencao = None
+    if incluir_retidas:
+        registros = registros_de_retencao()
+        retencao = lambda n: retencao_do_anexo(n, registros)  # noqa: E731
+    usadas = None if listar else paginas_bibjuri_usadas()
     hoje = dt.date.today()
     novos_total = 0
     for ano in range(de, ate + 1):
         fichas = [n for t in info["sapl"] for n in fichas_sapl(fonte, t, ano)]
         sem_texto = [n for n in fichas if not n.get("texto_integral")]
-        alvos = [n for n in sem_texto if n["id"] not in publicados]
+        alvos = alvos_do_ano(fichas, publicados, retencao)
+        n_retidas = sum(1 for _, motivo in alvos if motivo)
+        descricao = (f"fichas {len(fichas)}, sem texto {len(sem_texto)}, já publicadas {sum(1 for n in sem_texto if n['id'] in publicados)}, "
+                     f"alvos {len(alvos)}" + (f" (com anexo retido no SAPL {n_retidas})" if incluir_retidas else ""))
         cartoes = cartoes_do_ano(fonte, info, ano)
         if listar:
-            com_cartao = sum(1 for n in alvos if casar(n, cartoes))
-            print(f"{ano}: fichas {len(fichas)}, sem texto {len(sem_texto)}, já publicadas {len(sem_texto) - len(alvos)}, "
-                  f"alvos {len(alvos)}, com cartão no bibjuri {com_cartao}, cartões no ano {len(cartoes)}", flush=True)
+            com_cartao = sum(1 for n, _ in alvos if casar(n, cartoes))
+            retidas_com_cartao = sum(1 for n, motivo in alvos if motivo and casar(n, cartoes))
+            print(f"{ano}: {descricao}, com cartão no bibjuri {com_cartao}"
+                  + (f" (com anexo retido {retidas_com_cartao})" if incluir_retidas else "")
+                  + f", cartões no ano {len(cartoes)}", flush=True)
             continue
-        contagem = {"novo": 0, "novo_consolidado": 0, "retida": 0, "sem_cartao": 0, "existente": 0, "erro": 0}
+        contagem = {"novo": 0, "novo_consolidado": 0, "novo_anexo_retido": 0, "retida": 0, "sem_cartao": 0, "existente": 0, "erro": 0}
         motivos = {}
-        for n in alvos:
+        for n, anexo_retido in alvos:
             if maximo and novos_total >= maximo:
                 break
             chave = str(n["id"])
             try:
-                estado, detalhe = processar(fonte, n, cartoes, info, hoje, consolidado)
+                estado, detalhe = processar(fonte, n, cartoes, info, hoje, consolidado, anexo_retido, usadas)
             except Exception as e:  # rede ou página inesperada: segue para a próxima ficha
                 estado, detalhe = "erro", {"motivo": f"erro: {str(e)[:200]}"}
                 print(f"  ERRO {ano} {n['numero']} (sapl {n['id']}): {e}", flush=True)
             contagem[estado] += 1
             if estado == "novo" and detalhe.get("edicao") == "consolidado":
                 contagem["novo_consolidado"] += 1
+            if estado == "novo" and anexo_retido:
+                contagem["novo_anexo_retido"] += 1
             registro = {"numero": str(n["numero"]), "data": n.get("data"), "ano": ano, "tipo": tipo, "em": hoje.isoformat(), **detalhe}
+            if anexo_retido:
+                registro["anexo_sapl_retido"] = anexo_retido
             if estado in ("retida", "erro"):
                 retidos[chave] = registro
                 motivos[detalhe["motivo"].split(":")[0]] = motivos.get(detalhe["motivo"].split(":")[0], 0) + 1
@@ -541,8 +718,7 @@ def executar(tipo, de, ate, maximo=0, listar=False, rps=1.0, consolidado=True):
                 print(f"  ... {ano}: {sum(contagem.values())}/{len(alvos)} {contagem}", flush=True)
         gravar_json(CACHE / "retidos.json", retidos)
         gravar_json(CACHE / "sem-cartao.json", sem_cartao)
-        print(f"{ano}: fichas {len(fichas)}, sem texto {len(sem_texto)}, já publicadas {len(sem_texto) - len(alvos)}, "
-              f"alvos {len(alvos)} -> {contagem}" + (f"; motivos {motivos}" if motivos else ""), flush=True)
+        print(f"{ano}: {descricao} -> {contagem}" + (f"; motivos {motivos}" if motivos else ""), flush=True)
         if maximo and novos_total >= maximo:
             print(f"limite de {maximo} novas conversões atingido", flush=True)
             break
@@ -559,5 +735,8 @@ if __name__ == "__main__":
     ap.add_argument("--rps", type=float, default=1.0, help="requisições por segundo por host")
     ap.add_argument("--sem-consolidado", action="store_true",
                     help="retém as normas sem texto original em vez de usar o texto consolidado da fonte")
+    ap.add_argument("--incluir-retidas", action="store_true",
+                    help="toma também as fichas com anexo no SAPL retido por integridade (retidos-integralidade.json ou "
+                         "última falha de conteúdo em falhas.jsonl) e sem .md; o .md declara isso em observacao_fonte")
     a = ap.parse_args()
-    executar(a.tipo, a.de, a.ate, a.max, a.listar, a.rps, consolidado=not a.sem_consolidado)
+    executar(a.tipo, a.de, a.ate, a.max, a.listar, a.rps, consolidado=not a.sem_consolidado, incluir_retidas=a.incluir_retidas)
