@@ -94,7 +94,7 @@ def processar(n):
         ("data", f"{ano}-{mes}-{dia}"),
         ("ementa", " ".join((info.get("dsEmenta") or n.get("Ementa") or "").split())),
         ("situacao", situacao),
-        ("revogada", situacao.lower().startswith("revogad")),
+        ("revogada", {"revogada": True, "revogado": True, "vigente": False, "em vigor": False}.get(situacao.strip().lower())),
         ("versao_texto", "original" if url == (info.get("urlIntegraOriginal") or "").replace(" ", "%20") else "atualizada"),
         ("publicacao", info.get("nomePublicacaoDO") or ""),
         ("fonte", f"https://www.al.sp.gov.br/norma/{n['IdNorma']}"),
@@ -104,10 +104,33 @@ def processar(n):
 
 
 if __name__ == "__main__":
-    itens = indice(refazer="--refazer" in sys.argv)
+    import argparse
+    parser = argparse.ArgumentParser(description=f"Coletor da legislação de {UF} (ALESP)")
+    parser.add_argument("--refazer", action="store_true", help="Baixa novamente o índice legislacao_normas.zip")
+    parser.add_argument("--anos", type=str, help="Filtra por ano ou intervalo, ex: 1970-1979 ou 1979")
+    parser.add_argument("--tipo", type=str, help="Filtra por pasta ou IdTipo, ex: decretos ou 3")
+    parser.add_argument("limite", nargs="?", type=int, default=None, help="Limite máximo de itens a processar")
+    args = parser.parse_args()
+
+    itens = indice(refazer=args.refazer)
     itens.sort(key=lambda n: n["Data"], reverse=True)
     print(f"[{UF}] {len(itens)} normas no índice", flush=True)
-    limite = [a for a in sys.argv[1:] if a.isdigit()]
-    if limite:
-        itens = itens[: int(limite[0])]
+
+    if args.anos:
+        if "-" in args.anos:
+            ini, fim = args.anos.split("-")
+            anos = set(range(int(ini), int(fim) + 1))
+        else:
+            anos = {int(args.anos)}
+        itens = [n for n in itens if int(n["Data"][:4]) in anos]
+        print(f"[{UF}] {len(itens)} normas selecionadas no filtro de anos ({args.anos})", flush=True)
+
+    if args.tipo:
+        itens = [n for n in itens if n["IdTipo"] == args.tipo or TIPOS.get(n["IdTipo"], ("",))[0] == args.tipo]
+        print(f"[{UF}] {len(itens)} normas selecionadas no filtro de tipo ({args.tipo})", flush=True)
+
+    if args.limite:
+        itens = itens[: args.limite]
+        print(f"[{UF}] limitado aos primeiros {args.limite} itens", flush=True)
+
     executar(UF, itens, processar)
