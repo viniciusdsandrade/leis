@@ -10,41 +10,53 @@ A `constituicao.md` na raiz: texto vigente, do Planalto.
 
 | Tipo | Normas |
 | --- | ---: |
-| decretos-lei | 12.250 |
-| leis-complementares | 237 |
+| constituicoes-historicas | 7 |
+| decretos | 109.616 |
+| decretos-legislativos | 21.359 |
+| decretos-lei | 12.376 |
+| decretos-nao-numerados | 14.510 |
+| emendas-constitucionais | 172 |
+| leis-complementares | 239 |
+| leis-constitucionais | 21 |
 | leis-delegadas | 13 |
-| leis-ordinarias | 16.684 |
+| leis-ordinarias | 16.784 |
+| medidas-provisorias | 7.499 |
+| regimentos | 3 |
+| regulamentos | 20 |
+| resolucoes-camara | 2.280 |
+| resolucoes-congresso | 91 |
+| resolucoes-senado | 6.574 |
 
 ## Estados e Distrito Federal
 
 | UF | Normas | Constituição | Leis ord. | Leis compl. | Emendas | Outras | Via OCR | Sem texto (principais motivos) |
 | --- | ---: | :---: | ---: | ---: | ---: | ---: | ---: | --- |
-| AC | 2355 | não | 2159 | 195 | 1 | 0 | 366 | sem arquivo: 11 |
-| AL | 2954 | sim | 2774 | 72 | 52 | 55 | 104 | sem arquivo: 76; PDF sem texto legível (nem por OCR): 1 |
-| AM | 8081 | sim | 7634 | 298 | 144 | 3 | 0 | sem arquivo: 4527 |
-| AP | 3606 | sim | 3423 | 182 | 0 | 0 | 0 | sem texto integral no portal: 100 |
-| BA | 15342 | sim | 15165 | 60 | 33 | 79 | 0 | HTTP 404: 53; corpo vazio: 4 |
-| CE | 11182 | não | 10640 | 405 | 137 | 0 | 0 | sem texto na página: 93; erro: 6 |
-| DF | 9170 | sim | 7959 | 1070 | 134 | 6 | 0 | documento vazio: 3; sem arquivo: 2 |
-| ES | 13805 | sim | 12510 | 1179 | 114 | 1 | 0 | erro: 311; texto não encontrado: 41; texto vazio: 2 |
-| GO | 27415 | sim | 25296 | 215 | 88 | 1815 | 0 |  |
-| MA | 8798 | não | 8538 | 201 | 59 | 0 | 7 |  |
-| MG | 26733 | sim | 26055 | 189 | 150 | 336 | 0 | a fonte serve um documento vazio (só metadados preservados): 1 |
-| MS | 7213 | sim | 6643 | 355 | 97 | 117 | 0 |  |
-| MT | 10415 | sim | 9442 | 850 | 122 | 0 | 1 | HTTP 404: 8; erro: 1 |
-| PA | 11995 | não | 11686 | 208 | 101 | 0 | 3191 | a fonte informa que o texto não está no acervo: 14; erro: 8 |
-| PB | 15047 | sim | 14579 | 403 | 62 | 2 | 5051 | sem arquivo: 49; erro: 4; PDF sem texto legível (nem por OCR): 2 |
-| PE | 13552 | não | 12677 | 499 | 73 | 303 | 0 | erro: 2 |
-| PI | 5913 | sim | 5366 | 303 | 72 | 171 | 3281 | sem arquivo: 128; erro: 1 |
-| PR | 0 | não | 0 | 0 | 0 | 0 | 0 |  |
-| RJ | 0 | não | 0 | 0 | 0 | 0 | 0 |  |
-| RN | 5305 | sim | 4492 | 812 | 0 | 0 | 635 | HTTP 404: 1241; erro: 173 |
-| RO | 8025 | sim | 6493 | 1350 | 180 | 0 | 4034 | sem arquivo: 16; PDF sem texto legível (nem por OCR): 1 |
-| RR | 2906 | sim | 2400 | 378 | 104 | 23 | 300 | sem arquivo: 5 |
-| RS | 11158 | sim | 10688 | 325 | 130 | 14 | 0 | documento vazio: 5569; erro: 22 |
-| SC | 22254 | não | 21243 | 909 | 102 | 0 | 0 | texto vazio: 4 |
-| SE | 9955 | sim | 9198 | 436 | 57 | 263 | 0 | erro: 411; indice: 1 |
-| SP | 40203 | sim | 35157 | 1421 | 116 | 3507 | 0 | sem link de texto: 88; erro: 58; só PDF: 14 |
-| TO | 1282 | não | 1217 | 46 | 19 | 0 | 46 | sem arquivo: 120 |
+| AC | 5206 | sim | 4311 | 381 | 1 | 512 | 889 | sem arquivo: 25; erro: 1 |
+| AL | 3891 | sim | 2775 | 72 | 52 | 991 | 554 | sem arquivo: 171; PDF sem texto legível (nem por OCR): 2 |
+| AM | 10419 | sim | 7638 | 298 | 144 | 2338 | 0 | sem arquivo: 9061 |
+| AP | 5532 | sim | 3424 | 182 | 0 | 1925 | 0 | sem texto integral no portal: 752 |
+| BA | 38943 | sim | 15165 | 60 | 33 | 23680 | 0 | HTTP 404: 53; corpo vazio: 4 |
+| CE | 11232 | sim | 10640 | 405 | 137 | 49 | 0 | HTTP 404: 257; sem texto na página: 93; erro: 6 |
+| DF | 83316 | sim | 7962 | 1070 | 134 | 74149 | 9 | sem arquivo: 175; documento vazio: 22; erro: 3 |
+| ES | 16788 | sim | 12510 | 1179 | 114 | 2984 | 0 | texto não encontrado: 945; erro: 446; indice: 11 |
+| GO | 52278 | sim | 25298 | 215 | 88 | 26676 | 0 |  |
+| MA | 8807 | sim | 8538 | 201 | 59 | 8 | 8 |  |
+| MG | 84839 | sim | 26055 | 189 | 150 | 58442 | 0 | a fonte serve um documento vazio (só metadados preservados): 1 |
+| MS | 22988 | sim | 6646 | 355 | 97 | 15889 | 0 |  |
+| MT | 26358 | sim | 9450 | 851 | 122 | 15934 | 2 | erro: 314; HTTP 404: 8 |
+| PA | 28580 | sim | 11694 | 208 | 101 | 16576 | 4559 | a fonte informa que o texto não está no acervo: 29; erro: 12; arquivo oficial binário não reconhecido; conteúdo idêntico confirmado : 2 |
+| PB | 17585 | sim | 14610 | 403 | 62 | 2509 | 5117 | sem arquivo: 95; erro: 4; PDF sem texto legível (nem por OCR): 4 |
+| PE | 50387 | sim | 12679 | 499 | 73 | 37135 | 0 | erro: 392 |
+| PI | 6948 | sim | 5367 | 303 | 72 | 1205 | 3622 | sem arquivo: 275; erro: 2 |
+| PR | 8 | sim | 0 | 0 | 7 | 0 | 0 |  |
+| RJ | 1335 | sim | 1334 | 0 | 0 | 0 | 0 |  |
+| RN | 5414 | sim | 4518 | 814 | 0 | 81 | 636 | HTTP 404: 2482; erro: 346 |
+| RO | 12365 | sim | 6493 | 1350 | 180 | 4340 | 7428 | sem arquivo: 57; PDF sem texto legível (nem por OCR): 2 |
+| RR | 3226 | sim | 2401 | 378 | 104 | 342 | 308 | HTTP 403: 2186; sem arquivo: 10 |
+| RS | 37100 | sim | 10688 | 325 | 130 | 25956 | 5 | documento vazio: 5574; erro: 172 |
+| SC | 51199 | sim | 21538 | 913 | 105 | 28642 | 0 | texto vazio: 4 |
+| SE | 10878 | sim | 10099 | 458 | 57 | 263 | 0 | erro: 411; indice: 1 |
+| SP | 173999 | sim | 35158 | 1421 | 118 | 137293 | 0 | erro: 848; documento vazio: 645; sem link de texto: 167 |
+| TO | 3562 | sim | 3274 | 91 | 19 | 177 | 172 | sem arquivo: 242 |
 
-**Total: 323.849 normas em Markdown.**
+**Total: 964.748 normas em Markdown.**
