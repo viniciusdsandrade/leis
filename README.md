@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 02/11/2026 eram **1.298.161 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 06/11/2026 eram **1.348.337 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 487.075 | 83,6% |
-| 2 | Infralegal e jurisprudência | 695.669 | 68,7% |
+| 2 | Infralegal e jurisprudência | 745.845 | 74,5% |
 | 3 | Direito municipal | 115.417 | 1,0% |
-| | **Total** | **1.298.161** | |
+| | **Total** | **1.348.337** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -38,14 +38,14 @@ no navegador sem servidor.
 ## Progresso desde outubro de 2026
 
 Desde 21/10/2026 o acervo cresce por pull requests neste repositório, cada lote auditado antes
-do commit. Até 02/11/2026 foram 40 pull requests mesclados, com **62.298 normas novas**
+do commit. Até 06/11/2026 foram 52 pull requests mesclados, com **112.474 normas novas**
 coletadas e conferidas aqui, além de 34.020 normas de colaboradores, revisadas e integradas
 (veja [Contribuições integradas](#contribuições-integradas)).
 
 | Frente | O que entrou | Pull requests |
 | --- | --- | --- |
 | **Campinas (SP)** | 42.615 normas, do SAPL da Câmara e da Biblioteca Jurídica da Prefeitura: 16.776 leis ordinárias (1893 a 2026), 598 leis complementares, a Lei Orgânica e 54 emendas, 17.832 decretos (1931 a 2026), 6.306 decretos legislativos (1967 a 2026), 1.042 resoluções da Câmara (1903 a 2026), plano diretor e código tributário | #6 a #28, #31, #32, #34, #35, #39 a #41 |
-| **Estado de São Paulo** | 19.651 normas da ALESP: 18.144 decretos (1980 a 2008), 1.456 resoluções (1867 a 2007), 43 decretos legislativos, 6 constituições históricas e 2 emendas constitucionais históricas | #30, #33, #37, #38, #42 |
+| **Estado de São Paulo** | 69.827 normas da ALESP: 68.320 decretos (1889 a 2008 e 25 de 2026), 1.456 resoluções (1867 a 2007), 43 decretos legislativos, 6 constituições históricas e 2 emendas constitucionais históricas | #30, #33, #37, #38, #42, #45 a #54 |
 | **CONTRAN** | Resoluções 1.032 e 1.033 de 2026, do Diário Oficial da União | #29 |
 | **Nova Friburgo (RJ)** | Lei Orgânica e 29 emendas, do SAPL da Câmara, no lugar de uma versão colada sem cabeçalho nem fonte | |
 | **Qualidade** | auditoria do acervo e testes no CI; correções de padrão nos lotes integrados (Word, Salvador, Nova Prata, Rio de Janeiro); trava para texto integral publicado fora do DOU | #3 a #5, #29 |
@@ -244,8 +244,6 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 
 | O quê | Situação |
 | --- | --- |
-| **Estado de SP**: decretos anteriores a 1980 | cerca de 50 mil decretos ainda não coletados da ALESP |
-| **Estado de SP**: 10 decretos de 1987 a 1993 | o texto da ALESP diverge da ficha; ficam em `estaduais/SP/_falhas.jsonl` para revisão |
 | **Campinas**: cerca de 900 atos do SAPL | retidos por integridade (OCR ilegível, vários atos na mesma página, texto de outro ato), cada um com o motivo registrado |
 | **Campinas**: 53 atos até 1948 | o bibjuri só tem a ementa ou não tem a norma |
 | **Campinas**: bibjuri nas décadas de 1950 e de 1980 a 2000 | lotes ainda não coletados |
