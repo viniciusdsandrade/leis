@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 07/11/2026 22:06:44 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 07/11/2026 22:17:05 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.349.412 documentos · 1.227.563 / ~11.768.799 nas séries com meta (10.4%) · 18.030 sem meta**
+**1.350.530 documentos · 1.228.681 / ~11.768.799 nas séries com meta (10.4%) · 18.030 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -14,7 +14,7 @@ Há 7.639 pendências de integralidade registradas em [registro auditável](scri
 
 Planalto, Senado, Câmara e assembleias.
 
-487.083 documentos · 480.750 / ~574.766 nas séries com meta (83.6%) · 0 sem meta
+488.201 documentos · 481.868 / ~574.766 nas séries com meta (83.8%) · 0 sem meta
 
 ### Constituição Federal
 
@@ -75,14 +75,14 @@ Planalto, Senado, Câmara e assembleias.
 
 ### Leis estaduais e distritais
 
-301.566 documentos · 295.246 / ~347.467 nas séries com meta (85.0%) · 0 sem meta
+302.684 documentos · 296.364 / ~347.467 nas séries com meta (85.3%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
 | ✅ | Constituições estaduais e Lei Orgânica do DF | 27 | 27 | `estaduais/*/constituicao`, `estaduais/*/lei-organica` | Assembleias e Casas Civis |
 | 🟦 | Constituições estaduais históricas | 15 | 40 | `estaduais/*/constituicoes-historicas` | Assembleias |
 | 🟦 | Emendas constitucionais estaduais | 2.025 | 2.200 | `estaduais/*/emendas-constitucionais` | Assembleias |
-| 🟦 | Leis ordinárias estaduais | 279.363 | 330.000 | `estaduais/*/leis-ordinarias` | 19 scripts, uma fonte por UF |
+| 🟦 | Leis ordinárias estaduais | 280.481 | 330.000 | `estaduais/*/leis-ordinarias` | 19 scripts, uma fonte por UF |
 | 🟦 | Leis complementares estaduais | 12.616 | 14.000 | `estaduais/*/leis-complementares` | 19 scripts, uma fonte por UF |
 | ✅ | Decretos-leis e leis delegadas estaduais | 6.666 | 600 | `estaduais/*/decretos-lei`, `estaduais/*/leis-delegadas`, `estaduais/*/decretos-lei-complementares` | Assembleias |
 | ✅ | Leis promulgadas, constitucionais e emendas à Lei Orgânica | 854 | 600 | `estaduais/*/leis-promulgadas`, `estaduais/*/leis-constitucionais`, `estaduais/*/emendas-lei-organica` | Assembleias |
@@ -334,9 +334,9 @@ Diários oficiais e portais de órgãos e tribunais.
 | `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
 | `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
 | `reguladores/ministerio-da-economia/sumulas` | 4 |
-| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
 | `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
-| `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
+| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
+| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
 | `reguladores/ministerio-da-economia/atos-normativos` | 1 |
+| `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
 | `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
