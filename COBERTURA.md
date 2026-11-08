@@ -48,7 +48,7 @@ A `constituicao.md` na raiz: texto vigente, do Planalto.
 | PB | 17585 | sim | 14610 | 403 | 62 | 2509 | 5117 | sem arquivo: 95; erro: 4; PDF sem texto legível (nem por OCR): 4 |
 | PE | 50387 | sim | 12679 | 499 | 73 | 37135 | 0 | erro: 392 |
 | PI | 6948 | sim | 5367 | 303 | 72 | 1205 | 3622 | sem arquivo: 275; erro: 2 |
-| PR | 8 | sim | 0 | 0 | 7 | 0 | 0 |  |
+| PR | 3016 | sim | 3008 | 0 | 7 | 0 | 0 | anexos em PDF não coletados: o texto do ato ficaria incompleto: 275; erro: 22 |
 | RJ | 1335 | sim | 1334 | 0 | 0 | 0 | 0 |  |
 | RN | 5414 | sim | 4518 | 814 | 0 | 81 | 636 | HTTP 404: 2482; erro: 346 |
 | RO | 12365 | sim | 6493 | 1350 | 180 | 4340 | 7428 | sem arquivo: 57; PDF sem texto legível (nem por OCR): 2 |
@@ -56,7 +56,7 @@ A `constituicao.md` na raiz: texto vigente, do Planalto.
 | RS | 37100 | sim | 10688 | 325 | 130 | 25956 | 5 | documento vazio: 5574; erro: 172 |
 | SC | 51199 | sim | 21538 | 913 | 105 | 28642 | 0 | texto vazio: 4 |
 | SE | 10878 | sim | 10099 | 458 | 57 | 263 | 0 | erro: 411; indice: 1 |
-| SP | 173999 | sim | 35158 | 1421 | 118 | 137293 | 0 | erro: 848; documento vazio: 645; sem link de texto: 167 |
+| SP | 174007 | sim | 35166 | 1421 | 118 | 137293 | 1 | erro: 787; documento vazio: 645; sem link de texto: 167 |
 | TO | 3562 | sim | 3274 | 91 | 19 | 177 | 172 | sem arquivo: 242 |
 
-**Total: 964.748 normas em Markdown.**
+**Total: 967.764 normas em Markdown.**

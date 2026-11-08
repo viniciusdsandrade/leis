@@ -17,6 +17,7 @@ import datetime as dt
 import fnmatch
 import glob
 import os
+import re
 import sys
 import subprocess
 from zoneinfo import ZoneInfo
@@ -270,6 +271,92 @@ def markdown(medidas, achadas, pendentes=()):
     else:
         L.append("Nenhuma: todo arquivo do repositório está sob um item do plano.")
     return "\n".join(L) + "\n"
+
+
+def inteiro(s):
+    """'1.348.337' (milhar brasileiro) ou '1348337' → int."""
+    return int(str(s).replace(".", "").replace("\u00a0", "").replace(" ", ""))
+
+
+def ler_cobertura(s):
+    """'84,2%' ou '84.2%' → 84.2."""
+    return float(str(s).strip().rstrip("%").replace(",", "."))
+
+
+_RESUMO_FASE = re.compile(
+    r"^([0-9.]+)(?: documentos| / ).*\(([0-9]+[.,][0-9]+)%\)"
+)
+
+
+def ler_progresso(texto):
+    """Data, total e (documentos, cobertura) das três fases em `PROGRESSO.md`."""
+    data = total = None
+    fases = {}
+    fase = None
+    for linha in texto.splitlines():
+        if data is None:
+            m = re.match(r"Gerado em (\d{2}/\d{2}/\d{4})", linha)
+            if m:
+                data = m.group(1)
+        if total is None and linha.startswith("**"):
+            m = re.match(r"\*\*([0-9.]+)", linha)
+            if m:
+                total = inteiro(m.group(1))
+        m = re.match(r"## Fase (\d)\b", linha)
+        if m:
+            fase = int(m.group(1))
+            continue
+        if fase is None:
+            continue
+        m = _RESUMO_FASE.match(linha)
+        if m:
+            fases[fase] = {
+                "documentos": inteiro(m.group(1)),
+                "cobertura": ler_cobertura(m.group(2) + "%"),
+            }
+            fase = None
+    if data is None or total is None:
+        raise ValueError("PROGRESSO.md sem data ou total")
+    if set(fases) != {1, 2, 3}:
+        raise ValueError(f"PROGRESSO.md fases incompletas: {sorted(fases)}")
+    return {"data": data, "total": total, "fases": fases}
+
+
+def ler_readme_acervo(texto):
+    """Data, total e fases da tabela 'O acervo' do README."""
+    try:
+        trecho = texto.split("## O acervo", 1)[1].split("\n---", 1)[0]
+    except IndexError as e:
+        raise ValueError("README.md sem seção 'O acervo'") from e
+    cab = re.search(
+        r"Em (\d{2}/\d{2}/\d{4}) eram \*\*([0-9.]+) documentos\*\*",
+        trecho,
+    )
+    if not cab:
+        raise ValueError("README.md sem linha de data/total do acervo")
+    fases = {}
+    for m in re.finditer(
+        r"^\| (\d) \| [^|]+ \| ([0-9.]+) \| ([0-9]+,[0-9]+%) \|",
+        trecho,
+        re.MULTILINE,
+    ):
+        fases[int(m.group(1))] = {
+            "documentos": inteiro(m.group(2)),
+            "cobertura": ler_cobertura(m.group(3)),
+        }
+    total_tab = re.search(
+        r"^\| \| \*\*Total\*\* \| \*\*([0-9.]+)\*\* \|",
+        trecho,
+        re.MULTILINE,
+    )
+    if not total_tab:
+        raise ValueError("README.md sem linha de total do acervo")
+    total = inteiro(cab.group(2))
+    if inteiro(total_tab.group(1)) != total:
+        raise ValueError("README.md: total da tabela diverge do total do cabeçalho")
+    if set(fases) != {1, 2, 3}:
+        raise ValueError(f"README.md fases incompletas: {sorted(fases)}")
+    return {"data": cab.group(1), "total": total, "fases": fases}
 
 
 def main():
