@@ -18,7 +18,7 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 06/11/2026 eram **1.348.337 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 08/11/2026 eram **1.348.337 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
@@ -38,17 +38,20 @@ no navegador sem servidor.
 ## Progresso desde outubro de 2026
 
 Desde 21/10/2026 o acervo cresce por pull requests neste repositório, cada lote auditado antes
-do commit. Até 06/11/2026 foram 52 pull requests mesclados, com **112.474 normas novas**
-coletadas e conferidas aqui, além de 34.020 normas de colaboradores, revisadas e integradas
-(veja [Contribuições integradas](#contribuições-integradas)).
+do commit. Até 08/11/2026 o GitHub registra 53 pull requests mesclados (#3 a #55) e 9 abertos
+(#56 a #64). Na main estão **112.474 normas novas** coletadas e conferidas aqui, além de 34.020
+normas de colaboradores, revisadas e integradas
+(veja [Contribuições integradas](#contribuições-integradas)). Os 9 PRs abertos somam 5.043
+normas (Paraná, Campinas bibjuri e lacunas de São Paulo).
 
 | Frente | O que entrou | Pull requests |
 | --- | --- | --- |
-| **Campinas (SP)** | 42.615 normas, do SAPL da Câmara e da Biblioteca Jurídica da Prefeitura: 16.776 leis ordinárias (1893 a 2026), 598 leis complementares, a Lei Orgânica e 54 emendas, 17.832 decretos (1931 a 2026), 6.306 decretos legislativos (1967 a 2026), 1.042 resoluções da Câmara (1903 a 2026), plano diretor e código tributário | #6 a #28, #31, #32, #34, #35, #39 a #41 |
-| **Estado de São Paulo** | 69.827 normas da ALESP: 68.320 decretos (1889 a 2008 e 25 de 2026), 1.456 resoluções (1867 a 2007), 43 decretos legislativos, 6 constituições históricas e 2 emendas constitucionais históricas | #30, #33, #37, #38, #42, #45 a #54 |
+| **Campinas (SP)** | 42.615 normas na main, do SAPL da Câmara e da Biblioteca Jurídica da Prefeitura: 16.776 leis ordinárias (1893 a 2026), 598 leis complementares, a Lei Orgânica e 54 emendas, 17.832 decretos (1931 a 2026), 6.306 decretos legislativos (1967 a 2026), 1.042 resoluções da Câmara (1903 a 2026), plano diretor e código tributário; 2.027 decretos (1950 a 1959 e 1980 a 2026) em PRs abertos, 44.642 no total da frente | #6 a #28, #31, #32, #34, #35, #39 a #41; abertos #58, #60, #62, #63 |
+| **Estado de São Paulo** | 69.827 normas da ALESP na main: 68.320 decretos (1889 a 2008 e 25 de 2026), 1.456 resoluções (1867 a 2007), 43 decretos legislativos, 6 constituições históricas e 2 emendas constitucionais históricas; 8 leis (seis de 1948 a 1981 e duas de 2026) em PR aberto, 69.835 no total da frente | #30, #33, #37, #38, #42, #45 a #54; aberto #57 |
+| **Paraná** | 3.008 leis ordinárias (2020 a 2026) em PRs abertos, no texto compilado da Casa Civil (`legislacao.pr.gov.br`); limite: cerca de 6 a 10% das leis têm anexos em PDF não coletados; o servidor bloqueia acima de cerca de 15 req/min | abertos #59, #61, #64 |
 | **CONTRAN** | Resoluções 1.032 e 1.033 de 2026, do Diário Oficial da União | #29 |
 | **Nova Friburgo (RJ)** | Lei Orgânica e 29 emendas, do SAPL da Câmara, no lugar de uma versão colada sem cabeçalho nem fonte | |
-| **Qualidade** | auditoria do acervo e testes no CI; correções de padrão nos lotes integrados (Word, Salvador, Nova Prata, Rio de Janeiro); trava para texto integral publicado fora do DOU | #3 a #5, #29 |
+| **Qualidade** | auditoria do acervo e testes no CI; correções de padrão nos lotes integrados (Word, Salvador, Nova Prata, Rio de Janeiro); trava para texto integral publicado fora do DOU; COBERTURA.md e estatisticas.html de 07/11/2026 em PR aberto | #3 a #5, #29; aberto #56 |
 
 Como esse trabalho foi feito:
 
@@ -205,7 +208,7 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | MT | Assembleia Legislativa | redação atual, PDF gerado pelo site |
 | PA | Banco de Leis da ALEPA | PDF, com OCR quando escaneado |
 | PE | Alepe Legis | texto atualizado quando existe |
-| PR | Sistema Estadual de Legislação | ver pendências |
+| PR | Sistema Estadual de Legislação (Casa Civil, `legislacao.pr.gov.br`) | texto compilado; leis ordinárias 2020–2026 em PRs abertos |
 | RJ | Legislação Estadual da ALERJ (Lotus Notes) | ver pendências |
 | RN | Assembleia Legislativa | PDF, acervo a partir de 1994 |
 | RS | Sistema LEGIS da Assembleia; Constituição no portal do DAL | PDF nas recentes, HTML nas antigas |
@@ -246,14 +249,14 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | --- | --- |
 | **Campinas**: cerca de 900 atos do SAPL | retidos por integridade (OCR ilegível, vários atos na mesma página, texto de outro ato), cada um com o motivo registrado |
 | **Campinas**: 53 atos até 1948 | o bibjuri só tem a ementa ou não tem a norma |
-| **Campinas**: bibjuri nas décadas de 1950 e de 1980 a 2000 | lotes ainda não coletados |
+| **Campinas**: bibjuri nas décadas de 1950 e de 1980 a 2026 | lotes em PRs abertos (#58, #60, #62 e #63) |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
 ### Pendências das fontes estaduais
 
 | O quê | Por quê |
 | --- | --- |
-| **PR**: destravado em 15/10/2026 | o WAF de `legislacao.pr.gov.br` devolvia 403 a partir da segunda requisição; em novo teste, seis requisições seguidas responderam 200, e `scripts/estados/pr.py` passou a coletar lei, lei complementar, emenda, Constituição, decreto, resolução e portaria |
+| **PR**: leis ordinárias 2020–2026 em PRs abertos (#59, #61 e #64) | o WAF de `legislacao.pr.gov.br` devolvia 403; `scripts/estados/pr.py` coleta lei, lei complementar, emenda, Constituição, decreto, resolução e portaria; o servidor bloqueia acima de cerca de 15 req/min, e cerca de 6 a 10% das leis têm anexos em PDF pendentes |
 | **RJ**: nada coletado | o Lotus Notes da ALERJ fecha a conexão ou leva mais de 60 s por página; `scripts/estados/rj.py` está pronto para quando o servidor voltar |
 | **AC**: só até 2009 | limite do SAPL da Assembleia |
 | **TO**: a partir de 2020 | limite do SAPL da Assembleia |
