@@ -244,6 +244,11 @@ class Fonte(unittest.TestCase):
                                             "dom/637215631201563126372118.pdf")
         self.assertIsNone(d.link_dom("<p>sem link</p>"))
 
+    def test_dois_enderecos_colados_no_mesmo_link(self):
+        bloco = ('<a href="https://portal-adm.campinas.sp.gov.br/sites/default/files/publicacoes-dom/dom/179785.pdf'
+                 'https://portal-api.campinas.sp.gov.br//sites/default/files/publicacoes-dom/dom/179786.pdf">x</a>')
+        self.assertEqual(d.link_dom(bloco), "https://portal-adm.campinas.sp.gov.br/sites/default/files/publicacoes-dom/dom/179785.pdf")
+
     def test_publicacao_da_pagina_do_bibjuri(self):
         bloco = "<p><em>(Publica&ccedil;&atilde;o DOM 18/01/2024 p.1)</em></p>"
         self.assertEqual(d.publicacao_do_bloco(bloco), "DOM 18/01/2024 p.1")

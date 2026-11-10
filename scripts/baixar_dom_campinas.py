@@ -386,8 +386,13 @@ def url_canonica(href):
 
 
 def link_dom(bloco):
+    """Primeiro PDF de edição do DOM no bloco. A fonte às vezes cola dois endereços no mesmo href
+    ("...dom/1797851352.pdfhttps://portal-api..."): fica o primeiro."""
     m = LINK_DOM.search(bloco or "")
-    return url_canonica(m.group(1)) if m else None
+    if not m:
+        return None
+    primeiro = re.split(r"(?<=\.pdf)(?=https?://)", m.group(1), flags=re.I)[0]
+    return url_canonica(primeiro)
 
 
 def publicacao_do_bloco(bloco):
