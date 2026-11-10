@@ -102,6 +102,22 @@ class Recorte(unittest.TestCase):
         self.assertEqual(pagina, 4)
         self.assertIn("Artigo 2º", texto)
 
+    def test_assinatura_do_prefeito_com_variantes(self):
+        for cargo in ("Prefeito Municipal de Campinas", "Prefeita Municipal", "Prefeito Municipal em Exercício",
+                      "Vice-Prefeito"):
+            with self.subTest(cargo=cargo):
+                texto, _, motivo = d.recortar([(1, DECRETO.replace("Prefeito Municipal", cargo))], NORMA)
+                self.assertIsNone(motivo)
+                self.assertIn(cargo, texto)
+
+    def test_anexo_depois_das_assinaturas_retem(self):
+        com_anexo = DECRETO.replace("Artigo 2º", "Parágrafo único. O termo do Anexo Único será assinado pelos pais.\nArtigo 2º")
+        _, _, motivo = d.recortar([(1, com_anexo + NOTA + "\nANEXO ÚNICO\nTERMO DE RESPONSABILIDADE\n")], NORMA)
+        self.assertTrue(motivo.startswith("anexo do decreto publicado depois"), motivo)
+        # sem menção a anexo no corpo, o ANEXO seguinte é de outro ato e o decreto passa
+        texto, _, motivo = d.recortar([(1, DECRETO + NOTA + "\nANEXO I DA PORTARIA 10/2024\n")], NORMA)
+        self.assertIsNone(motivo)
+
     def test_sem_assinatura_antes_do_proximo_decreto_retem(self):
         sem_fim = DECRETO.split("Campinas, 17")[0]
         _, _, motivo = d.recortar([(1, sem_fim + "\nDECRETO Nº 23.146, DE 17 DE JANEIRO DE 2024\n" + DECRETO.split("\n", 2)[2])], NORMA)

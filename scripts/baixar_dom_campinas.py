@@ -46,7 +46,8 @@ NOTA_QUADRO = "quadros preservados como texto pré-formatado, no alinhamento do 
 MES_RX = {1: "JANEIRO", 2: "FEVEREIRO", 3: "MAR[ÇC]O", 4: "ABRIL", 5: "MAIO", 6: "JUNHO", 7: "JULHO", 8: "AGOSTO",
           9: "SETEMBRO", 10: "OUTUBRO", 11: "NOVEMBRO", 12: "DEZEMBRO"}
 PROXIMO_DECRETO = re.compile(r"^[ \t]*DECRETO\s+N[º°o.]?\s*\d", re.M)
-PREFEITO = re.compile(r"^[ \t]*PREFEIT[OA](?:\s+MUNICIPAL)?[ \t]*$", re.M | re.I)
+PREFEITO = re.compile(r"^[ \t]*(?:VICE-)?PREFEIT[OA](?:\s+MUNICIPAL)?(?:\s+DE\s+CAMPINAS)?(?:\s+EM\s+EXERC[ÍI]CIO)?[ \t]*$",
+                      re.M | re.I)
 CHEFE_GABINETE = re.compile(r"^[^\n]*Chefe\s+de\s+Gabinete\s+do\s+Prefeito[^\n]*$", re.M | re.I)
 # nome em maiúsculas ou cargo de quem referenda o ato; cabeçalho de seção (SECRETARIA..., GABINETE...) não é assinatura
 ASSINATURA = re.compile(
@@ -228,6 +229,9 @@ def recortar(trechos, norma):
             fim += len(linha.group(0))
             if fim - pref.end() > 900:
                 break
+    # anexo do próprio decreto publicado depois das assinaturas: o limite do anexo não é seguro; retém
+    if re.search(r"^[ \t]*ANEXO\b", trecho[fim:fim + 2000], re.M | re.I) and re.search(r"\banexo\b", trecho[:fim], re.I):
+        return None, pagina, "anexo do decreto publicado depois das assinaturas; o recorte do anexo não está implementado"
     return trecho[:fim].strip("\n") + "\n", pagina, None
 
 
