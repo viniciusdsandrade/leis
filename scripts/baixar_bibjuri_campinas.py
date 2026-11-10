@@ -584,7 +584,8 @@ def avaliar(bloco, norma, info):
 
 def fonte_texto_coerente(fonte_texto, texto_integral, anexo_retido=False):
     """Regra de `campinas.py verificar`: o texto do .md tem de vir do anexo da ficha do SAPL (mesma URL, sem esquema)
-    ou de uma página de norma do bibjuri (texto original ou consolidado), mas o bibjuri só vale quando a ficha não tem
+    ou de uma página de norma do bibjuri (texto original ou consolidado) ou da edição do DOM no portal da Prefeitura
+    (esta só quando a ficha não tem anexo), mas o bibjuri só vale quando a ficha não tem
     anexo ou quando o anexo foi retido por integridade (`anexo_retido`: registro do pipeline do SAPL e
     `observacao_fonte` no .md, conferidos por quem chama)."""
     sem_esquema = (fonte_texto or "").split("://", 1)[-1]
@@ -593,6 +594,9 @@ def fonte_texto_coerente(fonte_texto, texto_integral, anexo_retido=False):
     if texto_integral and not anexo_retido:
         return False
     partes = urllib.parse.urlsplit(fonte_texto or "")
+    if partes.hostname == "portal-adm.campinas.sp.gov.br":
+        # edição do Diário Oficial do Município (baixar_dom_campinas.py): só para ficha sem anexo
+        return not texto_integral and bool(re.fullmatch(r"/sites/default/files/publicacoes-dom/[\w./-]+\.pdf", partes.path))
     return (partes.hostname == urllib.parse.urlsplit(BIBJURI).hostname
             and bool(re.fullmatch(r"/index/visualizar(?:original|atualizada)/id/\d+", partes.path)))
 

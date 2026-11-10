@@ -434,6 +434,12 @@ class FonteTextoCoerente(unittest.TestCase):
     PDF = "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1975/32979/32979_texto_integral.pdf"
     BIBJURI = "https://bibjuri.campinas.sp.gov.br/index/visualizaroriginal/id/100364"
 
+    def test_edicao_do_dom_so_vale_para_ficha_sem_anexo(self):
+        dom = "https://portal-adm.campinas.sp.gov.br/sites/default/files/publicacoes-dom/dom/637215631201563126372118.pdf"
+        self.assertTrue(b.fonte_texto_coerente(dom, ""))
+        self.assertFalse(b.fonte_texto_coerente(dom, "https://sapl.campinas.sp.leg.br/media/sapl/public/normajuridica/1/1.pdf"))
+        self.assertFalse(b.fonte_texto_coerente("https://portal-adm.campinas.sp.gov.br/outra/coisa.pdf", ""))
+
     def test_anexo_do_sapl_continua_valendo_sem_esquema(self):
         self.assertTrue(b.fonte_texto_coerente(self.PDF, self.PDF))
         self.assertTrue(b.fonte_texto_coerente(self.PDF, self.PDF.replace("https://", "http://")))
