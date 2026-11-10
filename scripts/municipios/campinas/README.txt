@@ -30,6 +30,9 @@ Testes destas ferramentas: test_campinas.py nesta pasta, rodado localmente (o CI
 
 Em `verificar`, um .md cuja ficha do SAPL não tem anexo passa quando `fonte_texto` aponta uma página de norma
 do bibjuri (lotes de baixar_bibjuri_campinas.py); anos sem índice parcial são lidos das páginas da API em cache.
+O mesmo vale para a edição do Diário Oficial do Município no portal da Prefeitura (lotes de
+scripts/baixar_dom_campinas.py, que recorta o decreto do PDF da edição lido coluna a coluna); `regenerar` refaz esses
+.md a partir do PDF em municipais/_fonte/dom-campinas.
 
 Tipos do SAPL de Campinas usados em --tipo e em cobertura.py/prefetch.py: 1 Lei, 2 Lei
 Complementar, 4 Decreto, 7 Decreto Legislativo, 8 Resolução, 9 Emenda à Lei Orgânica, 17

@@ -136,7 +136,7 @@ def verificar(siglas, anos):
             retencao = retencao_do_anexo(n, registros) if esperado and meta.get("observacao_fonte") else None
             if not fonte_texto_coerente(meta["fonte_texto"], esperado, anexo_retido=bool(retencao)):
                 if not esperado:
-                    erros.append("fonte_texto difere do texto_integral do cadastro (ficha sem anexo: só página do bibjuri vale)")
+                    erros.append("fonte_texto difere do texto_integral do cadastro (ficha sem anexo: só página do bibjuri ou edição do DOM vale)")
                 elif "bibjuri.campinas.sp.gov.br" in meta["fonte_texto"]:
                     erros.append("fonte_texto no bibjuri, mas a ficha tem anexo "
                                  + ("e o registro do pipeline do SAPL não confirma a retenção declarada em observacao_fonte"
@@ -214,6 +214,8 @@ def carimbos(arquivos, min_freq):
 # nota que o pipeline grava em versao_texto quando recorta o ato de uma página de livro de leis (Campinas, até 1948)
 NOTA_RECORTE = "ato recortado da página do livro de leis anexada no SAPL"
 FONTE_BIBJURI = REPO / "municipais/_fonte/bibjuri-campinas"
+FONTE_DOM = REPO / "municipais/_fonte/dom-campinas"
+_EDICAO_DOM = {}  # a última edição do DOM lida, para refazer em sequência os decretos da mesma edição
 
 
 def pos_processar(corpo, meta):
@@ -229,6 +231,16 @@ def pos_processar(corpo, meta):
 def corpo_regenerado(meta, bruto):
     """Corpo do .md refeito a partir da fonte em cache com o código atual. Devolve (corpo, motivo)."""
     from baixar_organicas_sapl import corpo_de_fonte
+    if "/publicacoes-dom/" in meta["fonte_texto"]:
+        import baixar_bibjuri_campinas as bibjuri
+        import baixar_dom_campinas as dom
+        info = next(i for i in bibjuri.TIPOS.values() if i["tipo"] == meta["tipo"])
+        pdf = fonte_em_cache(meta)
+        if pdf not in _EDICAO_DOM:
+            _EDICAO_DOM.clear()
+            _EDICAO_DOM[pdf] = dom.Edicao(pdf)
+        motivo, corpo, _pagina, _quadro = dom.avaliar(_EDICAO_DOM[pdf], {"numero": meta["numero"], "data": meta["data"]}, info)
+        return corpo, motivo
     if "bibjuri.campinas.sp.gov.br" in meta["fonte_texto"]:
         import baixar_bibjuri_campinas as bibjuri
         from comum import decodificar
@@ -246,7 +258,10 @@ def corpo_regenerado(meta, bruto):
 
 
 def fonte_em_cache(meta):
-    """Arquivo bruto da fonte: .bin do pipeline SAPL ou a página HTML do bibjuri (original ou consolidada)."""
+    """Arquivo bruto da fonte: .bin do pipeline SAPL, a página HTML do bibjuri (original ou consolidada) ou o PDF da
+    edição do DOM."""
+    if "/publicacoes-dom/" in meta["fonte_texto"]:
+        return FONTE_DOM / meta["fonte_texto"].rsplit("/", 1)[1]
     if "bibjuri.campinas.sp.gov.br" in meta["fonte_texto"]:
         ident = meta["fonte_texto"].rsplit("/", 1)[1]
         return FONTE_BIBJURI / (f"{ident}.html" if "visualizaroriginal" in meta["fonte_texto"] else f"{ident}-consolidado.html")
