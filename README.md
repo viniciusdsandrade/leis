@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 08/11/2026 eram **1.353.380 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 12/11/2026 eram **1.380.098 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
-| 1 | Legislação federal e leis estaduais | 490.091 | 84,2% |
-| 2 | Infralegal e jurisprudência | 745.845 | 74,5% |
-| 3 | Direito municipal | 117.444 | 1,0% |
-| | **Total** | **1.353.380** | |
+| 1 | Legislação federal e leis estaduais | 505.994 | 86,9% |
+| 2 | Infralegal e jurisprudência | 755.351 | 74,5% |
+| 3 | Direito municipal | 118.753 | 1,0% |
+| | **Total** | **1.380.098** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -38,18 +38,18 @@ no navegador sem servidor.
 ## Progresso desde outubro de 2026
 
 Desde 21/10/2026 o acervo cresce por pull requests neste repositório, cada lote auditado antes
-do commit. Até 08/11/2026 foram 62 pull requests mesclados (#3 a #64), com **117.517 normas novas**
+do commit. Até 12/11/2026 foram 80 pull requests mesclados (#3 a #83), com **134.729 normas novas**
 coletadas e conferidas aqui, além de 34.020 normas de colaboradores, revisadas e integradas
 (veja [Contribuições integradas](#contribuições-integradas)).
 
 | Frente | O que entrou | Pull requests |
 | --- | --- | --- |
-| **Campinas (SP)** | 44.642 normas, do SAPL da Câmara e da Biblioteca Jurídica da Prefeitura: 16.776 leis ordinárias (1893 a 2026), 598 leis complementares, a Lei Orgânica e 54 emendas, 19.859 decretos (1931 a 2026), 6.306 decretos legislativos (1967 a 2026), 1.042 resoluções da Câmara (1903 a 2026), plano diretor e código tributário | #6 a #28, #31, #32, #34, #35, #39 a #41, #58, #60, #62, #63 |
+| **Campinas (SP)** | 45.951 normas, do SAPL da Câmara, da Biblioteca Jurídica da Prefeitura e do Diário Oficial do Município: 16.776 leis ordinárias (1893 a 2026), 598 leis complementares, a Lei Orgânica e 54 emendas, 21.168 decretos (1931 a 2026), 6.306 decretos legislativos (1967 a 2026), 1.042 resoluções da Câmara (1903 a 2026), plano diretor e código tributário | #6 a #28, #31, #32, #34, #35, #39 a #41, #58, #60, #62, #63, #67 a #69 |
 | **Estado de São Paulo** | 69.835 normas da ALESP: 68.320 decretos (1889 a 2008 e 25 de 2026), 1.456 resoluções (1867 a 2007), 43 decretos legislativos, 8 leis (seis de 1948 a 1981 e duas de 2026), 6 constituições históricas e 2 emendas constitucionais históricas | #30, #33, #37, #38, #42, #45 a #54, #57 |
-| **Paraná** | 3.008 leis ordinárias (2020 a 2026), no texto compilado da Casa Civil (`legislacao.pr.gov.br`); limite: cerca de 6 a 10% das leis têm anexos em PDF não coletados; o servidor bloqueia acima de cerca de 15 req/min | #59, #61, #64 |
+| **Paraná** | 18.911 normas, no texto compilado da Casa Civil (`legislacao.pr.gov.br`): 18.604 leis ordinárias (1960 a 2026), 255 leis complementares (1972 a 2026) e 52 emendas constitucionais (1993 a 2024; somam 59 até 2026 com a base); limite: 1.564 atos com anexos em PDF registrados em `estaduais/PR/_falhas.jsonl`; o servidor bloqueia acima de cerca de 15 req/min | #59, #61, #64, #70 a #83 |
 | **CONTRAN** | Resoluções 1.032 e 1.033 de 2026, do Diário Oficial da União | #29 |
 | **Nova Friburgo (RJ)** | Lei Orgânica e 29 emendas, do SAPL da Câmara, no lugar de uma versão colada sem cabeçalho nem fonte | |
-| **Qualidade** | auditoria do acervo e testes no CI; correções de padrão nos lotes integrados (Word, Salvador, Nova Prata, Rio de Janeiro); trava para texto integral publicado fora do DOU | #3 a #5, #29, #56 |
+| **Qualidade** | auditoria do acervo e testes no CI; correções de padrão nos lotes integrados (Word, Salvador, Nova Prata, Rio de Janeiro); trava para texto integral publicado fora do DOU | #3 a #5, #29, #56, #66 |
 
 Como esse trabalho foi feito:
 
@@ -206,7 +206,7 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | MT | Assembleia Legislativa | redação atual, PDF gerado pelo site |
 | PA | Banco de Leis da ALEPA | PDF, com OCR quando escaneado |
 | PE | Alepe Legis | texto atualizado quando existe |
-| PR | Sistema Estadual de Legislação (Casa Civil, `legislacao.pr.gov.br`) | texto compilado; leis ordinárias 2020–2026 no acervo |
+| PR | Sistema Estadual de Legislação (Casa Civil, `legislacao.pr.gov.br`) | texto compilado; leis ordinárias 1960 a 2026, leis complementares 1972 a 2026, emendas constitucionais 1993 a 2026 e Constituição no acervo |
 | RJ | Legislação Estadual da ALERJ (Lotus Notes) | ver pendências |
 | RN | Assembleia Legislativa | PDF, acervo a partir de 1994 |
 | RS | Sistema LEGIS da Assembleia; Constituição no portal do DAL | PDF nas recentes, HTML nas antigas |
@@ -247,13 +247,14 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | --- | --- |
 | **Campinas**: cerca de 900 atos do SAPL | retidos por integridade (OCR ilegível, vários atos na mesma página, texto de outro ato), cada um com o motivo registrado |
 | **Campinas**: 53 atos até 1948 | o bibjuri só tem a ementa ou não tem a norma |
+| **Campinas**: 84 decretos no recorte do DOM | retidos por integridade em [`municipais/_indice/dom-campinas/retidos.json`](municipais/_indice/dom-campinas/retidos.json) (epígrafe ausente no jornal, falta de assinatura ou anexo posterior) |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
 ### Pendências das fontes estaduais
 
 | O quê | Por quê |
 | --- | --- |
-| **PR**: leis complementares, emendas, Constituição, decretos, resoluções e portarias; anexos em PDF | leis ordinárias 2020–2026 estão no acervo (#59, #61 e #64); `scripts/estados/pr.py` para quando o servidor recusa; o teto é cerca de 15 req/min, e cerca de 6 a 10% das leis têm anexos em PDF pendentes |
+| **PR**: leis ordinárias anteriores a 1960 (3.640 no índice de 1822 a 1959), decretos, resoluções e portarias; anexos em PDF | leis ordinárias de 1960 a 2026 (#59, #61, #64 e #70 a #81), todas as 255 leis complementares em HTML (1972 a 2026, #83), as 59 emendas constitucionais (1993 a 2026, #82) e a Constituição estão no acervo; `scripts/estados/pr.py` para quando o servidor recusa (teto de cerca de 15 req/min), e 1.564 atos com anexos em PDF seguem registrados em `estaduais/PR/_falhas.jsonl` |
 | **RJ**: nada coletado | o Lotus Notes da ALERJ fecha a conexão ou leva mais de 60 s por página; `scripts/estados/rj.py` está pronto para quando o servidor voltar |
 | **AC**: só até 2009 | limite do SAPL da Assembleia |
 | **TO**: a partir de 2020 | limite do SAPL da Assembleia |

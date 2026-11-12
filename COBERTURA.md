@@ -48,7 +48,7 @@ A `constituicao.md` na raiz: texto vigente, do Planalto.
 | PB | 17585 | sim | 14610 | 403 | 62 | 2509 | 5117 | sem arquivo: 95; erro: 4; PDF sem texto legível (nem por OCR): 4 |
 | PE | 50387 | sim | 12679 | 499 | 73 | 37135 | 0 | erro: 392 |
 | PI | 6948 | sim | 5367 | 303 | 72 | 1205 | 3622 | sem arquivo: 275; erro: 2 |
-| PR | 3016 | sim | 3008 | 0 | 7 | 0 | 0 | anexos em PDF não coletados: o texto do ato ficaria incompleto: 275; erro: 22 |
+| PR | 18919 | sim | 18604 | 255 | 59 | 0 | 0 | anexos em PDF não coletados: o texto do ato ficaria incompleto: 1564 |
 | RJ | 1335 | sim | 1334 | 0 | 0 | 0 | 0 |  |
 | RN | 5414 | sim | 4518 | 814 | 0 | 81 | 636 | HTTP 404: 2482; erro: 346 |
 | RO | 12365 | sim | 6493 | 1350 | 180 | 4340 | 7428 | sem arquivo: 57; PDF sem texto legível (nem por OCR): 2 |
@@ -59,4 +59,4 @@ A `constituicao.md` na raiz: texto vigente, do Planalto.
 | SP | 174007 | sim | 35166 | 1421 | 118 | 137293 | 1 | erro: 787; documento vazio: 645; sem link de texto: 167 |
 | TO | 3562 | sim | 3274 | 91 | 19 | 177 | 172 | sem arquivo: 242 |
 
-**Total: 967.764 normas em Markdown.**
+**Total: 983.667 normas em Markdown.**

@@ -110,7 +110,7 @@ def coletar():
     for dp, dn, fn in os.walk(RAIZ):
         dn[:] = [d for d in dn if not d.startswith("_") and d not in ("scripts", "fonte", ".git")]
         for f in fn:
-            if not f.endswith(".md") or f in ("README.md", "COBERTURA.md"):
+            if not f.endswith(".md") or f in ("README.md", "COBERTURA.md", "PROGRESSO.md", "CONTRIBUTING.md"):
                 continue
             p = os.path.join(dp, f)
             with open(p, encoding="utf-8", errors="replace") as h:

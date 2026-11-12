@@ -5,6 +5,7 @@ import subprocess
 import tempfile
 import unittest
 from unittest.mock import patch
+import xml.etree.ElementTree as ET
 
 from pendencias_integralidade import REGISTRO, carregar
 from plano import Item
@@ -76,6 +77,18 @@ class ProgressoTest(unittest.TestCase):
         self.assertEqual(lido['fases'][1], {'documentos': 1000, 'cobertura': 10.5})
         self.assertEqual(lido['fases'][2], {'documentos': 2000, 'cobertura': 20.0})
         self.assertEqual(lido['fases'][3], {'documentos': 9345, 'cobertura': 1.5})
+
+    def test_desenhar_destaca_subtotal_fases_1_e_2(self):
+        a = Item('setor1', 'a', 'federal/a', 100, 1, 'fonte')
+        b = Item('setor2', 'b', 'federal/b', 100, 2, 'fonte')
+        c = Item('setor3', 'c', 'municipais/c', 1800, 3, 'fonte')
+        medidas = [(a, 80), (b, 40), (c, 0)]
+        with patch.object(progresso, 'por_setor', lambda: {'setor1': [a], 'setor2': [b], 'setor3': [c]}):
+            svg = progresso.desenhar(medidas)
+        ET.fromstring(svg)
+        self.assertIn('Fases 1 e 2 (federal e estadual, exceto estimativa municipal) · 120 / ~200', svg)
+        self.assertIn('>60.0%<', svg)
+        self.assertIn('>6.0%<', svg)
 
     def test_readme_acervo_coincide_com_progresso(self):
         raiz = Path(progresso.RAIZ)
