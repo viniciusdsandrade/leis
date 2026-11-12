@@ -200,7 +200,9 @@ def resumo(medidas):
 def desenhar(medidas):
     atual_item = {id(i): n for i, n in medidas}
     total, conhecido, meta, desconhecido = totais(medidas)
-    corpo, y = [], 174
+    _, f12_conhecido, f12_meta, _ = totais([(i, n) for i, n in medidas if i.fase in (1, 2)])
+    mostrar_f12 = bool(f12_meta and f12_meta != meta)
+    corpo, y = [], (212 if mostrar_f12 else 174)
     for fase in sorted(FASES):
         itens = [(i, n) for i, n in medidas if i.fase == fase]
         _, fa, fm, fu = totais(itens)
@@ -229,10 +231,21 @@ def desenhar(medidas):
            f'<text x="{X_ROTULO}" y="62" font-size="12.5" fill="{TEXTO}">{mil(total)} documentos em Markdown · {mil(desconhecido)} em séries sem meta</text>',
            f'<text x="{X_ROTULO}" y="82" font-size="12" fill="{FRACO}">{base_percentual}</text>',
            f'<text x="{X_PCT}" y="82" font-size="13" text-anchor="end" fill="{PARCIAL}">{percentual(conhecido, meta)}</text>',
-           f'<rect x="{X_ROTULO}" y="98" width="{LARG - 48}" height="16" rx="8" fill="{TRILHA}"/>']
+           f'<rect x="{X_ROTULO}" y="96" width="{LARG - 48}" height="16" rx="8" fill="{TRILHA}"/>']
     if frac:
-        cab.append(f'<rect x="{X_ROTULO}" y="98" width="{round((LARG - 48) * frac)}" height="16" rx="8" fill="{PARCIAL}"/>')
-    pe = f'<text x="{X_ROTULO}" y="{altura - 14}" font-size="10.5" fill="{FRACO}">Atualizado em {dt.date.today():%d/%m/%Y} · metas estimadas ou contadas nos índices oficiais</text>'
+        cab.append(f'<rect x="{X_ROTULO}" y="96" width="{round((LARG - 48) * frac)}" height="16" rx="8" fill="{PARCIAL}"/>')
+    if mostrar_f12:
+        f12_frac = min(f12_conhecido / f12_meta, 1)
+        f12_cor = cor(f12_conhecido, f12_meta)
+        cab.extend([
+            f'<text x="{X_ROTULO}" y="136" font-size="12" fill="{FRACO}">Fases 1 e 2 (federal e estadual, exceto estimativa municipal) · {mil(f12_conhecido)} / ~{mil(f12_meta)}</text>',
+            f'<text x="{X_PCT}" y="136" font-size="12.5" font-weight="600" text-anchor="end" fill="{f12_cor}">{percentual(f12_conhecido, f12_meta)}</text>',
+            f'<rect x="{X_ROTULO}" y="146" width="{LARG - 48}" height="12" rx="6" fill="{TRILHA}"/>',
+        ])
+        if f12_frac:
+            cab.append(f'<rect x="{X_ROTULO}" y="146" width="{round((LARG - 48) * f12_frac)}" height="12" rx="6" fill="{f12_cor}"/>')
+    hoje = dt.datetime.now(ZoneInfo("America/Recife")).date()
+    pe = f'<text x="{X_ROTULO}" y="{altura - 14}" font-size="10.5" fill="{FRACO}">Atualizado em {hoje:%d/%m/%Y} · metas estimadas ou contadas nos índices oficiais</text>'
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{LARG}" height="{altura}" viewBox="0 0 {LARG} {altura}" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">'
             + "".join(cab + corpo) + pe + "</svg>\n")
 

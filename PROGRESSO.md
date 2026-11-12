@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 12/11/2026 18:06:10 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 12/11/2026 18:20:22 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.370.592 documentos · 1.248.743 / ~11.768.799 nas séries com meta (10.6%) · 18.030 sem meta**
+**1.380.098 documentos · 1.248.743 / ~11.768.799 nas séries com meta (10.6%) · 27.536 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,11 +91,11 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-745.845 documentos · 641.806 / ~861.320 nas séries com meta (74.5%) · 6.553 sem meta
+755.351 documentos · 641.806 / ~861.320 nas séries com meta (74.5%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
-78.736 / ~134.038 documentos (58.7%)
+84.676 documentos · 78.736 / ~134.038 nas séries com meta (58.7%) · 5.940 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -105,6 +105,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | 🟦 | Procuradoria-Geral da Fazenda Nacional | 255 | 1.500 | `reguladores/pgfn` | Diário Oficial da União (in.gov.br) |
 | 🟦 | CARF: súmulas e resoluções | 76 | 300 | `reguladores/carf` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério da Fazenda: demais atos normativos | 847 | 3.000 | `reguladores/fazenda` | Diário Oficial da União (in.gov.br) |
+| — | Ministério da Economia (denominação histórica) | 5.940 | desconhecida | `reguladores/ministerio-da-economia` | Diário Oficial da União (órgão literal da publicação) |
 
 ### Infralegal — trânsito e transportes
 
@@ -160,7 +161,7 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — financeiro
 
-8.673 documentos · 7.289 / ~19.550 nas séries com meta (37.3%) · 0 sem meta
+9.024 documentos · 7.289 / ~19.550 nas séries com meta (37.3%) · 351 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -172,6 +173,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | 🟦 | Conselho Federal de Contabilidade: resoluções | 266 | 1.800 | `reguladores/cfc` | Diário Oficial da União (in.gov.br) |
 | ✅ | INMETRO: resoluções e instruções | 2.248 | 2.000 | `reguladores/inmetro` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério do Desenvolvimento, Indústria, Comércio e Serviços | 1.285 | 3.000 | `reguladores/mdic` | Diário Oficial da União (in.gov.br) |
+| — | Ministério da Indústria, Comércio Exterior e Serviços (denominação histórica) | 351 | desconhecida | `reguladores/ministerio-da-industria-comercio-exterio` | Diário Oficial da União (órgão literal da publicação) |
 | 🟦 | Ministério do Empreendedorismo e da Microempresa | 138 | 400 | `reguladores/empreendedorismo` | Diário Oficial da União (in.gov.br) |
 
 ### Infralegal — infraestrutura e energia
@@ -192,7 +194,7 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — educação e cultura
 
-21.140 documentos · 9.931 / ~12.300 nas séries com meta (80.7%) · 0 sem meta
+21.142 documentos · 9.931 / ~12.300 nas séries com meta (80.7%) · 2 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -203,17 +205,20 @@ Diários oficiais e portais de órgãos e tribunais.
 | 🟦 | ANCINE: instruções normativas | 353 | 500 | `reguladores/ancine` | Diário Oficial da União (in.gov.br) |
 | ✅ | IPHAN: portarias e instruções normativas | 534 | 400 | `reguladores/iphan` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério da Cultura | 4.123 | 1.200 | `reguladores/cultura` | Diário Oficial da União (in.gov.br) |
+| — | Secretaria Especial da Cultura (denominação histórica) | 2 | desconhecida | `reguladores/secretaria-especial-da-cultura` | Diário Oficial da União (órgão literal da publicação) |
 | ✅ | Ministério do Esporte | 714 | 400 | `reguladores/esporte` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério do Turismo | 779 | 600 | `reguladores/turismo` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério da Ciência, Tecnologia e Inovação | 4.149 | 1.500 | `reguladores/mcti` | Diário Oficial da União (in.gov.br) |
 
 ### Infralegal — justiça e controle
 
-30.234 documentos · 22.763 / ~27.700 nas séries com meta (82.2%) · 9 sem meta
+30.736 documentos · 22.763 / ~27.700 nas séries com meta (82.2%) · 511 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
 | ✅ | Ministério da Justiça e Segurança Pública | 5.593 | 3.000 | `reguladores/mj` | Diário Oficial da União (in.gov.br) |
+| — | Ministério da Segurança Pública (denominação histórica) | 308 | desconhecida | `reguladores/ministerio-da-seguranca-publica` | Diário Oficial da União (órgão literal da publicação) |
+| — | Ministério Extraordinário da Segurança Pública (denominação histórica) | 185 | desconhecida | `reguladores/ministerio-extraordinario-da-seguranca-p` | Diário Oficial da União (órgão literal da publicação) |
 | 🟦 | Controladoria-Geral da União: instruções normativas e portarias | 454 | 1.200 | `reguladores/cgu` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Advocacia-Geral da União: atos normativos | 537 | 1.500 | `reguladores/agu` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério Público da União: resoluções e portarias | 1.780 | 1.200 | `reguladores/mpu` | Diário Oficial da União (in.gov.br) |
@@ -221,7 +226,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | 🟦 | Defensoria Pública da União | 240 | 400 | `reguladores/dpu` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Tribunal de Contas da União: instruções normativas e resoluções | 244 | 1.500 | `reguladores/tcu` | Diário Oficial da União (in.gov.br) |
 | ✅ | Conselhos federais de fiscalização profissional (CFM, COFEN, CONFEA/CREA e demais) | 8.207 | 7.000 | `reguladores/conselhos-profissionais` | Diário Oficial da União (in.gov.br) |
-| — | Atos em rubricas gerais do DOU (órgão discriminado nos metadados) | 9 | desconhecida | `reguladores/editais-e-avisos`, `reguladores/entidades-de-fiscalizacao-dos-profission` | Diário Oficial da União; rubrica e órgão preservados sem atribuir meta de outra série |
+| — | Atos em rubricas gerais do DOU (órgão discriminado nos metadados) | 18 | desconhecida | `reguladores/editais-e-avisos`, `reguladores/entidades-de-fiscalizacao-dos-profission`, `reguladores/atos-do-poder-executivo` | Diário Oficial da União; rubrica e órgão preservados sem atribuir meta de outra série |
 | ✅ | Presidência da República: atos normativos | 2.062 | 2.000 | `reguladores/presidencia` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério da Gestão e da Inovação em Serviços Públicos | 1.842 | 2.500 | `reguladores/gestao` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério do Planejamento e Orçamento | 1.497 | 1.200 | `reguladores/planejamento` | Diário Oficial da União (in.gov.br) |
@@ -233,7 +238,7 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — direitos e desenvolvimento social
 
-5.360 documentos · 3.486 / ~5.400 nas séries com meta (64.6%) · 516 sem meta
+8.071 documentos · 3.486 / ~5.400 nas séries com meta (64.6%) · 3.227 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -241,6 +246,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | ✅ | Ministério dos Direitos Humanos e da Cidadania | 947 | 800 | `reguladores/mdh` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério das Mulheres | 65 | 300 | `reguladores/mulheres` | Diário Oficial da União (in.gov.br) |
 | — | Ministério da Mulher, da Família e dos Direitos Humanos (denominação histórica) | 516 | desconhecida | `reguladores/ministerio-da-mulher-da-familia-e-dos-di` | Diário Oficial da União (órgão literal da publicação) |
+| — | Ministério da Cidadania (denominação histórica) | 2.711 | desconhecida | `reguladores/ministerio-da-cidadania` | Diário Oficial da União (órgão literal da publicação) |
 | 🟦 | Ministério da Igualdade Racial | 61 | 300 | `reguladores/igualdade-racial` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Ministério dos Povos Indígenas | 239 | 300 | `reguladores/mpi` | Diário Oficial da União (in.gov.br) |
 | ✅ | Ministério do Desenvolvimento Agrário e Agricultura Familiar | 2.411 | 1.200 | `reguladores/mda` | Diário Oficial da União (in.gov.br) |
@@ -314,29 +320,4 @@ Diários oficiais e portais de órgãos e tribunais.
 
 | Pasta | Arquivos |
 | --- | ---: |
-| `reguladores/ministerio-da-economia/portarias` | 4.531 |
-| `reguladores/ministerio-da-cidadania/portarias` | 2.200 |
-| `reguladores/ministerio-da-economia/resolucoes` | 1.036 |
-| `reguladores/ministerio-da-cidadania/deliberacoes` | 321 |
-| `reguladores/ministerio-da-seguranca-publica/portarias` | 285 |
-| `reguladores/ministerio-da-industria-comercio-exterio/portarias` | 281 |
-| `reguladores/ministerio-da-economia/circulares` | 218 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/portarias` | 169 |
-| `reguladores/ministerio-da-cidadania/resolucoes` | 161 |
-| `reguladores/ministerio-da-economia/instrucoes-normativas` | 137 |
-| `reguladores/ministerio-da-industria-comercio-exterio/circulares` | 38 |
-| `reguladores/ministerio-da-cidadania/instrucoes-normativas` | 29 |
-| `reguladores/ministerio-da-industria-comercio-exterio/resolucoes` | 22 |
-| `reguladores/ministerio-da-seguranca-publica/deliberacoes` | 17 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/deliberacoes` | 14 |
-| `reguladores/ministerio-da-economia/provimentos` | 11 |
-| `reguladores/ministerio-da-industria-comercio-exterio/instrucoes-normativas` | 10 |
-| `reguladores/atos-do-poder-executivo/deliberacoes` | 9 |
-| `reguladores/ministerio-da-seguranca-publica/resolucoes` | 5 |
-| `reguladores/ministerio-da-economia/sumulas` | 4 |
-| `reguladores/secretaria-especial-da-cultura/portarias` | 2 |
-| `reguladores/ministerio-extraordinario-da-seguranca-p/resolucoes` | 2 |
-| `reguladores/ministerio-da-economia/recomendacoes` | 2 |
-| `reguladores/ministerio-da-seguranca-publica/instrucoes-normativas` | 1 |
 | `scripts/dados/federal730-export-publicacao-20261028-001` | 1 |
-| `reguladores/ministerio-da-economia/atos-normativos` | 1 |
