@@ -1,6 +1,7 @@
 """Paraná — Sistema Estadual de Legislação (Casa Civil, legislacao.pr.gov.br).
 
-Índice: listarAtosAno.do?action=listarAtos&anoAto=AAAA (POST com codTipoAto), um ano por vez.
+Índice: listarAtosAno.do?action=listarAtos&anoAto=AAAA (POST com codTipoAto), um ano por vez; os decretos,
+que a fonte lista por mês, com &mesAto=M (13 é o ano inteiro).
 Texto: pesquisarAto.do?action=exibir&codAto=N&tipoVisualizacao=compilado (texto compilado).
 
 Uso: python3 -I scripts/estados/pr.py [--tipo leis-ordinarias] [--anos 2020-2026] [--rps 0.25] [--so-indice] [limite]
@@ -50,6 +51,7 @@ SEM_INDICE = []  # (codTipoAto, ano, mês) cuja listagem a fonte não entregou; 
 # O mês sem atos e a página de erro trazem ambos "Nenhum registro encontrado"; só o erro preenche a mensagem AJAX.
 SEM_ATOS = "Nenhum registro encontrado"
 ERRO_DA_FONTE = "globalAjaxMsgError +="
+TODOS_OS_MESES = 13  # nos tipos listados por mês (decretos), a fonte numera assim a opção do ano inteiro
 _sessao = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
 LINHA = re.compile(
     r"codAto=(\d+)&indice.*?_epigrafeAto\">(.*?)</div>.*?_descricaoItemAto\">(.*?)</div>.*?_dataPublicacao\">(.*?)</div>",
@@ -142,11 +144,12 @@ def pagina_de_anos(tipo, pasta, refazer):
 
 def pagina_do_indice(pasta, tipo, ano, refazer, mes=None):
     """Listagem do ano, ou de um mês dele, vinda do cache ou da fonte; None quando a fonte devolve erro.
-    O ano vem da lista de anos com atos, então só vale com atos; o mês também vale vazio. Erro não fica no cache."""
+    O ano (sem mês, ou TODOS_OS_MESES) vem da lista de anos com atos, então só vale com atos; o mês também vale
+    vazio. Erro não fica no cache."""
     cache = os.path.join(pasta, f"tipo-{tipo}-{ano}{f'-{mes:02d}' if mes else ''}.html")
 
     def valida(h):
-        return bool(LINHA.search(h)) or (mes is not None and SEM_ATOS in h and ERRO_DA_FONTE not in h)
+        return bool(LINHA.search(h)) or (mes not in (None, TODOS_OS_MESES) and SEM_ATOS in h and ERRO_DA_FONTE not in h)
 
     if os.path.exists(cache) and not refazer:
         with open(cache, encoding="utf-8") as f:
@@ -191,17 +194,28 @@ def indice(refazer=False, tipos=None, anos=None):
             continue
         html = pagina_de_anos(tipo, pasta, refazer)
         anos_do_tipo = sorted({a for _, a in re.findall(r"listarAtos\('(\d{4})', '(\d{4})'\)", html)}, reverse=True)
-        if not anos_do_tipo and not anos:  # tipo com um único ato (Constituição): a página já é o próprio ato
+        # Os decretos saem por listarAtosAnoMes: os doze meses e a opção 13, que é o ano inteiro.
+        meses_do_tipo = {}
+        for _, ano, mes in re.findall(r"listarAtosAnoMes\('(\d{4})', '(\d{4})', '(\d{1,2})'\)", html):
+            meses_do_tipo.setdefault(ano, set()).add(int(mes))
+        if not anos_do_tipo and not meses_do_tipo and not anos:  # um único ato (Constituição): a página já é o ato
             for cod in dict.fromkeys(re.findall(r'name="codAto" value="(\d+)"', html)):
                 itens[cod] = {"codAto": cod, "tipo": tipo, "epigrafe": "", "ementa": "", "publicacao": ""}
-        for ano in anos_do_tipo:
+        for ano in sorted(set(anos_do_tipo) | set(meses_do_tipo), reverse=True):
             if anos and int(ano) not in anos:
                 continue
-            paginas = [pagina_do_indice(pasta, tipo, ano, refazer)]
+            meses = sorted(meses_do_tipo.get(ano) or range(1, 13))
+            if ano in anos_do_tipo:
+                paginas = [pagina_do_indice(pasta, tipo, ano, refazer)]
+            elif TODOS_OS_MESES in meses:
+                paginas = [pagina_do_indice(pasta, tipo, ano, refazer, TODOS_OS_MESES)]
+            else:
+                paginas = [None]
             if paginas[0] is None:
-                # Um ato defeituoso derruba a listagem do ano inteiro (leis ordinárias de 1954); os meses saem um a um.
+                # Sem a listagem do ano, ou com ela derrubada por um ato defeituoso (leis ordinárias de 1954), os
+                # meses saem um a um: os que a fonte anuncia ou, sem anúncio, os doze.
                 paginas = []
-                for mes in range(1, 13):
+                for mes in (m for m in meses if m != TODOS_OS_MESES):
                     h = pagina_do_indice(pasta, tipo, ano, refazer, mes)
                     if h is None:
                         SEM_INDICE.append((tipo, ano, mes))

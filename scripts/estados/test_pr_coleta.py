@@ -284,6 +284,47 @@ class IndiceComErroDaFonte(unittest.TestCase):
         self.assertIn("rode de novo mais tarde", str(saida.exception.code))
         self.assertFalse(os.path.exists(self.cache("1954")))
 
+    def decretos(self):
+        """Recorte da página real dos decretos (tipo 11): só listarAtosAnoMes, com a opção 13 para o ano inteiro."""
+        with open(os.path.join(self.pasta, "tipo-11-anos.html"), "w", encoding="utf-8") as f:
+            f.write("".join(f"<a href=\"javascript:listarAtosAnoMes('2026', '{a}', '{m}')\">x</a>"
+                            for a, m in (("2026", 1), ("2026", 2), ("2026", 13), ("1894", 11), ("1894", 13))))
+        jan = listagem("90001", "Decreto 12001 - 5 de Janeiro de 2026")
+        fev = listagem("90002", "Decreto 12050 - 3 de Fevereiro de 2026")
+        de1894 = listagem("90003", "Decreto 1 - 20 de Novembro de 1894")
+        self.respostas.update({("2026", "1"): jan, ("2026", "2"): fev, ("2026", "13"): jan + fev,
+                               ("1894", "11"): de1894, ("1894", "13"): de1894})
+
+    def test_tipo_listado_por_mes_pede_o_ano_inteiro_pela_opcao_13(self):
+        self.decretos()
+        with patch.object(pr, "post", self.post):
+            itens = pr.indice(tipos={"11"})
+        self.assertEqual(self.pedidos, [("2026", "13"), ("1894", "13")])
+        self.assertEqual([(i["codAto"], i["tipo"], i["ano"]) for i in itens],
+                         [("90001", "11", "2026"), ("90002", "11", "2026"), ("90003", "11", "1894")])
+        self.assertEqual(pr.SEM_INDICE, [])
+        self.assertTrue(os.path.exists(os.path.join(self.pasta, "tipo-11-2026-13.html")))
+
+    def test_ano_inteiro_com_erro_cai_nos_meses_anunciados(self):
+        self.decretos()
+        self.respostas[("2026", "13")] = ERRO_HTML
+        self.respostas[("2026", "2")] = ERRO_HTML
+        with patch.object(pr, "post", self.post):
+            itens = pr.indice(tipos={"11"}, anos={2026})
+        self.assertEqual(self.pedidos, [("2026", "13"), ("2026", "1"), ("2026", "2")])
+        self.assertEqual([i["codAto"] for i in itens], ["90001"])
+        self.assertEqual(pr.SEM_INDICE, [("11", "2026", 2)])
+        self.assertEqual(pr.recortes_sem_indice(), "decretos 2026 (mês 02)")
+        self.assertFalse(os.path.exists(os.path.join(self.pasta, "tipo-11-2026-13.html")))
+
+    def test_ano_inteiro_vazio_nao_vale_como_resposta(self):
+        self.decretos()
+        self.respostas[("1894", "13")] = VAZIO_HTML
+        with patch.object(pr, "post", self.post):
+            itens = pr.indice(tipos={"11"}, anos={1894})
+        self.assertEqual(self.pedidos, [("1894", "13"), ("1894", "11")])
+        self.assertEqual(len(itens), 1)
+
     def test_execucao_termina_com_erro_e_nomeia_o_recorte(self):
         with patch.object(pr, "post", self.post), self.assertRaises(SystemExit) as saida:
             pr.main(["--tipo", "leis-ordinarias", "--anos", "1954-1955", "--so-indice"])
