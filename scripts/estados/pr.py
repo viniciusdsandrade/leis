@@ -14,6 +14,7 @@ O servidor recusa (HTTP 403) quem pede demais: a primeira recusa interrompe a co
 falha para os itens restantes, e a coleta deve recomeçar mais tarde em ritmo menor.
 """
 import datetime as dt
+import glob
 import gzip
 import html as htmllib
 import http.cookiejar
@@ -180,6 +181,52 @@ def recortes_sem_indice():
         for (t, a), meses in por_ano.items())
 
 
+def listagem_do_ano(pasta, tipo, ano, refazer, meses, tem_listagem_anual, registrar=True):
+    """Páginas da listagem de um ano: a do ano inteiro ou, se ela faltar, as dos meses. Sem a listagem do ano, ou
+    com ela derrubada por um ato defeituoso (leis ordinárias de 1954), os meses saem um a um: os que a fonte
+    anuncia ou, sem anúncio, os doze. O mês que também falhar entra em SEM_INDICE, se `registrar`."""
+    if tem_listagem_anual:
+        inteiro = pagina_do_indice(pasta, tipo, ano, refazer)
+    elif TODOS_OS_MESES in meses:
+        inteiro = pagina_do_indice(pasta, tipo, ano, refazer, TODOS_OS_MESES)
+    else:
+        inteiro = None
+    if inteiro is not None:
+        return [inteiro]
+    paginas = []
+    for mes in (m for m in meses if m != TODOS_OS_MESES):
+        h = pagina_do_indice(pasta, tipo, ano, refazer, mes)
+        if h is not None:
+            paginas.append(h)
+        elif registrar:
+            SEM_INDICE.append((tipo, ano, mes))
+    return paginas
+
+
+def ano_da_epigrafe(epigrafe):
+    """Ano da data da epígrafe ("Decreto 12323 - 18 de Dezembro de 2025", "... de 2025 - REPUBLICADO"), ou None."""
+    m = re.search(r" de \w+ de (\d{4})\b", epigrafe)
+    return m.group(1) if m else None
+
+
+_LISTADOS = {}  # (codTipoAto, ano) -> codAto que a listagem daquele ano traz
+_LISTADOS_TRAVA = threading.Lock()
+
+
+def listado_em(tipo, ano, cod):
+    """A fonte lista o ato `cod` no ano `ano`? Lê a listagem daquele ano, do cache ou da fonte, uma vez só.
+    Ano que a fonte não anuncia, ou cuja listagem falha, conta como não listado, sem registrar falha de índice."""
+    with _LISTADOS_TRAVA:
+        if (tipo, ano) not in _LISTADOS:
+            pasta = os.path.join(RAIZ_ESTADUAIS, UF, "_indice")
+            html = pagina_de_anos(tipo, pasta, False)
+            anuais = {a for _, a in re.findall(r"listarAtos\('(\d{4})', '(\d{4})'\)", html)}
+            meses = sorted({int(m) for _, a, m in re.findall(r"listarAtosAnoMes\('(\d{4})', '(\d{4})', '(\d{1,2})'\)", html) if a == ano})
+            paginas = listagem_do_ano(pasta, tipo, ano, False, meses or range(1, 13), ano in anuais, registrar=False) if ano in anuais or meses else []
+            _LISTADOS[tipo, ano] = {c for c, *_ in LINHA.findall("".join(paginas))}
+        return cod in _LISTADOS[tipo, ano]
+
+
 def indice(refazer=False, tipos=None, anos=None):
     """Índice dos atos. `tipos` (codTipoAto) e `anos` (conjunto) limitam as páginas pedidas à fonte;
     só o índice completo é gravado em atos.json."""
@@ -200,29 +247,16 @@ def indice(refazer=False, tipos=None, anos=None):
             meses_do_tipo.setdefault(ano, set()).add(int(mes))
         if not anos_do_tipo and not meses_do_tipo and not anos:  # um único ato (Constituição): a página já é o ato
             for cod in dict.fromkeys(re.findall(r'name="codAto" value="(\d+)"', html)):
-                itens[cod] = {"codAto": cod, "tipo": tipo, "epigrafe": "", "ementa": "", "publicacao": ""}
+                itens[cod, None] = {"codAto": cod, "tipo": tipo, "epigrafe": "", "ementa": "", "publicacao": ""}
         for ano in sorted(set(anos_do_tipo) | set(meses_do_tipo), reverse=True):
             if anos and int(ano) not in anos:
                 continue
             meses = sorted(meses_do_tipo.get(ano) or range(1, 13))
-            if ano in anos_do_tipo:
-                paginas = [pagina_do_indice(pasta, tipo, ano, refazer)]
-            elif TODOS_OS_MESES in meses:
-                paginas = [pagina_do_indice(pasta, tipo, ano, refazer, TODOS_OS_MESES)]
-            else:
-                paginas = [None]
-            if paginas[0] is None:
-                # Sem a listagem do ano, ou com ela derrubada por um ato defeituoso (leis ordinárias de 1954), os
-                # meses saem um a um: os que a fonte anuncia ou, sem anúncio, os doze.
-                paginas = []
-                for mes in (m for m in meses if m != TODOS_OS_MESES):
-                    h = pagina_do_indice(pasta, tipo, ano, refazer, mes)
-                    if h is None:
-                        SEM_INDICE.append((tipo, ano, mes))
-                    else:
-                        paginas.append(h)
+            paginas = listagem_do_ano(pasta, tipo, ano, refazer, meses, ano in anos_do_tipo)
+            # A chave leva o ano porque a fonte lista alguns atos em dois anos (o decreto republicado, no da data
+            # e no da republicação); `processar` grava cada um num ano só.
             for cod, epi, ementa, pub in LINHA.findall("".join(paginas)):
-                itens[cod] = {"codAto": cod, "tipo": tipo, "ano": ano, "epigrafe": limpar(epi), "ementa": limpar(ementa), "publicacao": limpar(pub)}
+                itens[cod, ano] = {"codAto": cod, "tipo": tipo, "ano": ano, "epigrafe": limpar(epi), "ementa": limpar(ementa), "publicacao": limpar(pub)}
         print(f"[{UF}] índice tipo {tipo}: {sum(1 for i in itens.values() if i['tipo'] == tipo)}", flush=True)
     lista = list(itens.values())
     if not tipos and not anos and not SEM_INDICE:
@@ -302,9 +336,18 @@ def processar(it):
     if ini < 0:
         return "sem_texto", {"codAto": it["codAto"], "motivo": "sem texto"}
     trecho = html[ini : fim if fim > 0 else None]
+    titulo = limpar(re.search(r"<h3>(.*?)</h3>", trecho, re.S).group(1)) or epi
+    do_titulo = ano_da_epigrafe(titulo)
+    if it.get("ano") and do_titulo and do_titulo != it["ano"]:
+        # A listagem deste ano traz um ato que a própria página data de outro: republicação, ou erro de digitação
+        # na listagem (Lei 20941, de 2021, listada também em 2010). Se a fonte o lista no ano da página, é lá que
+        # ele entra; se não, fica aqui, a menos que outro ano em que também apareça já o tenha gravado.
+        if listado_em(it["tipo"], do_titulo, it["codAto"]):
+            return "pulado", None
+        if glob.glob(os.path.join(os.path.dirname(os.path.dirname(md)), "*", f"*-id{it['codAto']}.md")):
+            return "pulado", None
     if "exibirAnexo(" in trecho:  # a lei remete a anexos em PDF (tabelas, mapas), que não estão no HTML do ato
         return "sem_texto", {"codAto": it["codAto"], "motivo": "anexos em PDF não coletados: o texto do ato ficaria incompleto"}
-    titulo = limpar(re.search(r"<h3>(.*?)</h3>", trecho, re.S).group(1)) or epi
     corpo = html_para_md(trecho)
     if len(re.sub(r"\W", "", corpo)) < 40:
         return "sem_texto", {"codAto": it["codAto"], "motivo": "texto vazio"}
