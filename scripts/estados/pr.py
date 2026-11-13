@@ -5,6 +5,8 @@ Texto: pesquisarAto.do?action=exibir&codAto=N&tipoVisualizacao=compilado (texto 
 
 Uso: python3 -I scripts/estados/pr.py [--tipo leis-ordinarias] [--anos 2020-2026] [--rps 0.25] [--so-indice] [limite]
 O índice guarda em _indice cada página por tipo e ano, então uma coleta interrompida retoma de onde parou.
+Listagem de ano sem ato algum é falha da fonte (HTTP 200 com página de erro): não é guardada e o ano é pedido
+mês a mês; o mês que também falhar é avisado e a execução termina com erro.
 O servidor recusa (HTTP 403) quem pede demais: a primeira recusa interrompe a coleta inteira, sem registrar
 falha para os itens restantes, e a coleta deve recomeçar mais tarde em ritmo menor.
 """
@@ -42,6 +44,10 @@ TIPOS = {
 rede = Rede(rps=1)  # o WAF já devolveu 403 a partir da segunda requisição; mantém-se devagar
 RECUSA_HTTP = (401, 403, 429)
 RECUSADO = threading.Event()  # ligado na primeira recusa da fonte; os demais itens não vão à rede
+SEM_INDICE = []  # (codTipoAto, ano, mês) cuja listagem a fonte não entregou; ficam fora do recorte e do cache
+# O mês sem atos e a página de erro trazem ambos "Nenhum registro encontrado"; só o erro preenche a mensagem AJAX.
+SEM_ATOS = "Nenhum registro encontrado"
+ERRO_DA_FONTE = "globalAjaxMsgError +="
 _sessao = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
 LINHA = re.compile(
     r"codAto=(\d+)&indice.*?_epigrafeAto\">(.*?)</div>.*?_descricaoItemAto\">(.*?)</div>.*?_dataPublicacao\">(.*?)</div>",
@@ -132,6 +138,43 @@ def pagina_de_anos(tipo, pasta, refazer):
     return html
 
 
+def pagina_do_indice(pasta, tipo, ano, refazer, mes=None):
+    """Listagem do ano, ou de um mês dele, vinda do cache ou da fonte; None quando a fonte devolve erro.
+    O ano vem da lista de anos com atos, então só vale com atos; o mês também vale vazio. Erro não fica no cache."""
+    cache = os.path.join(pasta, f"tipo-{tipo}-{ano}{f'-{mes:02d}' if mes else ''}.html")
+
+    def valida(h):
+        return bool(LINHA.search(h)) or (mes is not None and SEM_ATOS in h and ERRO_DA_FONTE not in h)
+
+    if os.path.exists(cache) and not refazer:
+        with open(cache, encoding="utf-8") as f:
+            h = f.read()
+        if valida(h):
+            return h
+    h = post(
+        f"listarAtosAno.do?action=listarAtos&anoAto={ano}{f'&mesAto={mes}' if mes else ''}&isPaginado=false",
+        dict(codTipoAto=tipo, codTipoAtoSelecionado=tipo, codOrgaoUnidade="1100", codOrgaoUnidadeSelecionado="1100",
+             pesquisou="", anoAtoPesquisado="0", paginaAtual="", isPaginado="false", site="1"),
+    )
+    if not valida(h):
+        if os.path.exists(cache):
+            os.remove(cache)
+        return None
+    with open(cache, "w", encoding="utf-8") as f:
+        f.write(h)
+    return h
+
+
+def recortes_sem_indice():
+    """Anos e meses que a fonte não listou, por extenso; o ano com os doze meses em falta aparece uma vez só."""
+    por_ano = {}
+    for tipo, ano, mes in SEM_INDICE:
+        por_ano.setdefault((tipo, ano), []).append(mes)
+    return ", ".join(
+        f"{TIPOS[t][0]} {a}" + ("" if len(meses) == 12 else " (" + ", ".join(f"mês {m:02d}" for m in meses) + ")")
+        for (t, a), meses in por_ano.items())
+
+
 def indice(refazer=False, tipos=None, anos=None):
     """Índice dos atos. `tipos` (codTipoAto) e `anos` (conjunto) limitam as páginas pedidas à fonte;
     só o índice completo é gravado em atos.json."""
@@ -152,23 +195,21 @@ def indice(refazer=False, tipos=None, anos=None):
         for ano in anos_do_tipo:
             if anos and int(ano) not in anos:
                 continue
-            cache = os.path.join(pasta, f"tipo-{tipo}-{ano}.html")
-            if os.path.exists(cache) and not refazer:
-                with open(cache, encoding="utf-8") as f:
-                    h = f.read()
-            else:
-                h = post(
-                    f"listarAtosAno.do?action=listarAtos&anoAto={ano}&isPaginado=false",
-                    dict(codTipoAto=tipo, codTipoAtoSelecionado=tipo, codOrgaoUnidade="1100", codOrgaoUnidadeSelecionado="1100",
-                         pesquisou="", anoAtoPesquisado="0", paginaAtual="", isPaginado="false", site="1"),
-                )
-                with open(cache, "w", encoding="utf-8") as f:
-                    f.write(h)
-            for cod, epi, ementa, pub in LINHA.findall(h):
+            paginas = [pagina_do_indice(pasta, tipo, ano, refazer)]
+            if paginas[0] is None:
+                # Um ato defeituoso derruba a listagem do ano inteiro (leis ordinárias de 1954); os meses saem um a um.
+                paginas = []
+                for mes in range(1, 13):
+                    h = pagina_do_indice(pasta, tipo, ano, refazer, mes)
+                    if h is None:
+                        SEM_INDICE.append((tipo, ano, mes))
+                    else:
+                        paginas.append(h)
+            for cod, epi, ementa, pub in LINHA.findall("".join(paginas)):
                 itens[cod] = {"codAto": cod, "tipo": tipo, "ano": ano, "epigrafe": limpar(epi), "ementa": limpar(ementa), "publicacao": limpar(pub)}
         print(f"[{UF}] índice tipo {tipo}: {sum(1 for i in itens.values() if i['tipo'] == tipo)}", flush=True)
     lista = list(itens.values())
-    if not tipos and not anos:
+    if not tipos and not anos and not SEM_INDICE:
         with open(arq, "w", encoding="utf-8") as f:
             json.dump(lista, f, ensure_ascii=False)
     return lista
@@ -267,14 +308,21 @@ def main(argv=None):
         sys.exit(f"[{UF}] {e}. O índice guarda as páginas já baixadas: rode de novo mais tarde, com --rps menor.")
     itens.sort(key=lambda i: (i.get("ano") or "", int(i["codAto"])), reverse=True)
     print(f"[{UF}] {len(itens)} normas no recorte do índice", flush=True)
-    if args.so_indice:
-        return
-    if args.limite:
-        itens = itens[: args.limite]
-    executar(UF, itens, processar, workers=args.workers)
-    if RECUSADO.is_set():
-        sys.exit(f"[{UF}] a fonte recusou o acesso (HTTP 401, 403 ou 429); coleta interrompida sem registrar falha nos itens restantes. "
-                 "Rode de novo mais tarde, com --rps menor.")
+    sem_indice = ""
+    if SEM_INDICE:
+        sem_indice = (f"[{UF}] a fonte não entregou a listagem de: {recortes_sem_indice()}. Esses recortes ficaram fora do "
+                      "índice e não foram guardados em _indice; rode de novo para pedi-los outra vez.")
+        if not args.so_indice:
+            print(sem_indice, flush=True)
+    if not args.so_indice:
+        if args.limite:
+            itens = itens[: args.limite]
+        executar(UF, itens, processar, workers=args.workers)
+        if RECUSADO.is_set():
+            sys.exit(f"[{UF}] a fonte recusou o acesso (HTTP 401, 403 ou 429); coleta interrompida sem registrar falha nos itens "
+                     "restantes. Rode de novo mais tarde, com --rps menor.")
+    if sem_indice:
+        sys.exit(sem_indice)
 
 
 if __name__ == "__main__":

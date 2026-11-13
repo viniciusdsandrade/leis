@@ -153,5 +153,133 @@ class Recusa(unittest.TestCase):
         self.assertFalse(os.path.exists(os.path.join(self.tmp.name, "PR", "leis-ordinarias", "2026", "lei-23390-2026-id99.md")))
 
 
+ANOS_HTML = "<a href=\"javascript:listarAtos('1955', '1955')\">1955</a><a href=\"javascript:listarAtos('1955', '1954')\">1954</a>"
+# Recortes das respostas reais da fonte (13/11/2026). A página de erro também diz "Nenhum registro encontrado";
+# o que a separa do mês sem atos é a mensagem atribuída a globalAjaxMsgError.
+ERRO_HTML = """<script type="text/javascript">
+		globalAjaxMsgError = '<table align="center"><tr>';
+		globalAjaxMsgError += '<td><img src="/legislacao/images/icon_msg_aviso.png"></td>';
+		globalAjaxMsgError += '<td class="msg_aviso">gov.pr.celepar.framework.exception.ApplicationException: Sistema temporariamente indisponível. Aguarde alguns instantes e tente novamente.</td>';
+		globalAjaxMsgError += '</tr></table>';
+</script>
+		<div width="100%" align="center"><i>Nenhum registro encontrado.</i></div>
+<script type="text/javascript">
+	if( (typeof globalAjaxMsgError) != "undefined" && globalAjaxMsgError != null && trimStr(globalAjaxMsgError) != "" ) { sysmsg.innerHTML = globalAjaxMsgError; }
+</script>"""
+VAZIO_HTML = """<br>
+		<div width="100%" align="center"><i>Nenhum registro encontrado.</i></div>
+<script type="text/javascript">
+	if( (typeof globalAjaxMsgError) != "undefined" && globalAjaxMsgError != null && trimStr(globalAjaxMsgError) != "" ) { sysmsg.innerHTML = globalAjaxMsgError; }
+</script>"""
+
+
+def listagem(cod, epigrafe):
+    return (f"<a href=\"JavaScript:exibir('/legislacao/listarAtosAno.do?action=exibir&codAto={cod}&indice=1&totalRegistros=1');\"></a>"
+            f"<div id=\"{cod}_epigrafeAto\">{epigrafe}</div><div id=\"{cod}_descricaoItemAto\">Ementa.<br/></div>"
+            f"<div id=\"{cod}_dataPublicacao\">04/01/1955</div>")
+
+
+class IndiceComErroDaFonte(unittest.TestCase):
+    """A Casa Civil responde HTTP 200 com página de erro na listagem de 1954 das leis ordinárias; por mês,
+    só junho falha e outubro vem vazio. As respostas abaixo reproduzem esse quadro."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        p = patch.object(pr, "RAIZ_ESTADUAIS", self.tmp.name)
+        p.start()
+        self.addCleanup(p.stop)
+        pr.SEM_INDICE.clear()
+        self.addCleanup(pr.SEM_INDICE.clear)
+        self.pasta = os.path.join(self.tmp.name, "PR", "_indice")
+        os.makedirs(self.pasta)
+        with open(os.path.join(self.pasta, "tipo-1-anos.html"), "w", encoding="utf-8") as f:
+            f.write(ANOS_HTML)
+        self.respostas = {("1955", None): listagem("15000", "Lei 2500 - 3 de Janeiro de 1955"), ("1954", None): ERRO_HTML,
+                          ("1954", "6"): ERRO_HTML, ("1954", "10"): VAZIO_HTML}
+        for mes in (1, 2, 3, 4, 5, 7, 8, 9, 11, 12):
+            self.respostas[("1954", str(mes))] = listagem(str(14000 + mes), f"Lei {1600 + mes} - 5 do mês {mes} de 1954")
+        self.pedidos = []
+
+    def post(self, caminho, dados, tentativas=4):
+        query = dict(par.split("=") for par in caminho.split("?")[1].split("&"))
+        self.pedidos.append((query["anoAto"], query.get("mesAto")))
+        return self.respostas[self.pedidos[-1]]
+
+    def cache(self, recorte):
+        return os.path.join(self.pasta, f"tipo-1-{recorte}.html")
+
+    def test_ano_com_erro_sai_mes_a_mes_e_so_o_mes_com_erro_fica_de_fora(self):
+        with patch.object(pr, "post", self.post):
+            itens = pr.indice(tipos={"1"}, anos={1954, 1955})
+        self.assertEqual(sorted(i["codAto"] for i in itens),
+                         ["14001", "14002", "14003", "14004", "14005", "14007", "14008", "14009", "14011", "14012", "15000"])
+        self.assertEqual({i["ano"] for i in itens if i["codAto"] != "15000"}, {"1954"})
+        self.assertEqual(pr.SEM_INDICE, [("1", "1954", 6)])
+        self.assertEqual(pr.recortes_sem_indice(), "leis-ordinarias 1954 (mês 06)")
+        self.assertTrue(os.path.exists(self.cache("1955")))
+        self.assertTrue(os.path.exists(self.cache("1954-01")))
+        self.assertTrue(os.path.exists(self.cache("1954-10")), "mês sem atos é resposta válida e fica no cache")
+        self.assertFalse(os.path.exists(self.cache("1954")), "página de erro do ano não vira cache")
+        self.assertFalse(os.path.exists(self.cache("1954-06")), "página de erro do mês não vira cache")
+
+    def test_retomada_so_pede_de_novo_o_que_falhou(self):
+        with patch.object(pr, "post", self.post):
+            pr.indice(tipos={"1"}, anos={1954})
+            self.pedidos.clear()
+            pr.SEM_INDICE.clear()
+            itens = pr.indice(tipos={"1"}, anos={1954})
+        self.assertEqual(self.pedidos, [("1954", None), ("1954", "6")])
+        self.assertEqual(len(itens), 10)
+        self.assertEqual(pr.SEM_INDICE, [("1", "1954", 6)])
+
+    def test_erro_ja_guardado_por_coleta_antiga_e_pedido_de_novo_e_removido(self):
+        with open(self.cache("1954"), "w", encoding="utf-8") as f:
+            f.write(ERRO_HTML)
+        with patch.object(pr, "post", self.post):
+            pr.indice(tipos={"1"}, anos={1954})
+        self.assertEqual(self.pedidos[0], ("1954", None))
+        self.assertFalse(os.path.exists(self.cache("1954")))
+
+    def test_erro_ja_guardado_e_substituido_quando_a_fonte_volta(self):
+        with open(self.cache("1954"), "w", encoding="utf-8") as f:
+            f.write(ERRO_HTML)
+        self.respostas[("1954", None)] = listagem("15500", "Lei 2000 - 5 de Março de 1954")
+        with patch.object(pr, "post", self.post):
+            itens = pr.indice(tipos={"1"}, anos={1954})
+        self.assertEqual([i["codAto"] for i in itens], ["15500"])
+        self.assertEqual(self.pedidos, [("1954", None)])
+        self.assertEqual(pr.SEM_INDICE, [])
+        with open(self.cache("1954"), encoding="utf-8") as f:
+            self.assertIn("15500_epigrafeAto", f.read())
+
+    def test_ano_sem_nenhum_mes_listado_aparece_uma_vez_no_aviso(self):
+        for mes in range(1, 13):
+            self.respostas[("1954", str(mes))] = ERRO_HTML
+        with patch.object(pr, "post", self.post):
+            itens = pr.indice(tipos={"1"}, anos={1954})
+        self.assertEqual(itens, [])
+        self.assertEqual(len(pr.SEM_INDICE), 12)
+        self.assertEqual(pr.recortes_sem_indice(), "leis-ordinarias 1954")
+
+    def test_listagem_valida_em_cache_nao_vai_a_rede(self):
+        with open(self.cache("1955"), "w", encoding="utf-8") as f:
+            f.write(self.respostas[("1955", None)])
+        with patch.object(pr, "post", side_effect=AssertionError("não deveria ir à rede")):
+            itens = pr.indice(tipos={"1"}, anos={1955})
+        self.assertEqual(len(itens), 1)
+
+    def test_indice_completo_nao_grava_atos_json_com_recorte_faltando(self):
+        with patch.object(pr, "post", self.post), patch.object(pr, "TIPOS", {"1": pr.TIPOS["1"]}):
+            pr.indice()
+        self.assertFalse(os.path.exists(os.path.join(self.pasta, "atos.json")))
+
+    def test_execucao_termina_com_erro_e_nomeia_o_recorte(self):
+        with patch.object(pr, "post", self.post), self.assertRaises(SystemExit) as saida:
+            pr.main(["--tipo", "leis-ordinarias", "--anos", "1954-1955", "--so-indice"])
+        self.assertIn("leis-ordinarias 1954 (mês 06)", str(saida.exception.code))
+        self.assertNotIn("1955", str(saida.exception.code))
+
+
 if __name__ == "__main__":
     unittest.main()
