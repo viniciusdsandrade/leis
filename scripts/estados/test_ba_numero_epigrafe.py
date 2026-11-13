@@ -16,3 +16,7 @@ class NumeroEpigrafeTest(unittest.TestCase):
             conferir_numero_epigrafe('DECRETO Nº 372 DE 12 DE MAIO DE 1987', '272')
         with self.assertRaises(ValueError):
             conferir_numero_epigrafe('DECRETO Nº 181 DE 09 DE JULHO DE 1991', '181-A')
+
+
+if __name__ == '__main__':
+    unittest.main()

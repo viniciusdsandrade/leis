@@ -110,6 +110,7 @@ jobs:
           sparse-checkout-cone-mode: false
           sparse-checkout: |
             /scripts/*.py
+            /scripts/estados/**/*.py
             /.github/testes-ci.txt
             /.github/requirements-ci.txt
 
