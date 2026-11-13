@@ -76,3 +76,7 @@ class SINJTachadosTest(unittest.TestCase):
         self.assertEqual(status, 'sem_texto')
         self.assertEqual(diagnostic['motivo'], 'documento vazio')
         write.assert_not_called()
+
+
+if __name__ == '__main__':
+    unittest.main()

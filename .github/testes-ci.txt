@@ -1,5 +1,6 @@
 # Testes de scripts/ que o CI roda (.github/workflows/auditoria.yml), um por linha.
-# Critério: passam num checkout só com scripts/*.py. Ficam de fora os que dependem de dados em
+# Critério: passam num checkout só com scripts/*.py e scripts/estados/**/*.py (os testes dos
+# coletores estaduais entram como estados/test_*.py). Ficam de fora os que dependem de dados em
 # scripts/dados, de fixtures não versionadas ou de módulos externos (lxml, html5lib, cssselect2,
 # tinycss2, pdfplumber), e test_congelar_agregado_ta_qa_20261027.py, que fixa o hash de
 # baixar_organicas_sapl.py da entrega de 27/10/2026 e falha a cada mudança nele.
@@ -69,3 +70,29 @@ test_texto_pdf_citacoes.py
 test_textos_articulados_sapl.py
 test_tributaria_sp.py
 test_verificar_promocoes_ta.py
+estados/test_anexos_fonte.py
+estados/test_avisos_fonte.py
+estados/test_ba_numero_epigrafe.py
+estados/test_go_cache_edicao.py
+estados/test_integridade_por_tipo.py
+estados/test_integridade_texto.py
+estados/test_mg_fallback.py
+estados/test_pdf_texto_fiel.py
+estados/test_pe_auditoria_cache.py
+estados/test_pe_commonmark_contexto.py
+estados/test_pe_fidelidade_visivel.py
+estados/test_pe_identidade_retomada.py
+estados/test_pe_infralegal.py
+estados/test_pe_infralegal_cache.py
+estados/test_pe_recuperacao_utf8.py
+estados/test_pr_coleta.py
+estados/test_rj_apresentacao.py
+estados/test_rj_complementar.py
+estados/test_rs_html.py
+estados/test_sapl.py
+estados/test_sapl_conversao.py
+estados/test_sinj_tachados.py
+estados/test_sp_cabecalho.py
+estados/test_tabelas_estrutura.py
+estados/test_vigencia_coletores.py
+estados/test_visuais_fonte.py
