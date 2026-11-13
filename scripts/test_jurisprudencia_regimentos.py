@@ -58,9 +58,9 @@ def pdf_com_texto(texto):
 
 
 class RegimentosPdfTest(unittest.TestCase):
-    def test_somente_pdf_direto_sem_stj_tse_stf_nem_cliente_js(self):
+    def test_somente_pdf_direto_sem_stj_tse_nem_cliente_js(self):
         slugs = [s for s, *_ in coletor.REGIMENTOS]
-        self.assertEqual(set(slugs), {"tst", "tcu", "stm"})
+        self.assertEqual(set(slugs), {"tst", "tcu", "stm", "stf"})
         with open(coletor.__file__, encoding="utf-8") as f:
             baixo = f.read().lower()
         self.assertNotIn("playwright", baixo)
@@ -122,6 +122,68 @@ class RegimentosPdfTest(unittest.TestCase):
                 falhas = f.read()
             self.assertIn("regimento/stm", falhas)
             self.assertIn("não é PDF", falhas)
+
+
+# Recorte do `pdftohtml -xml` da edição de 2023 do RISTF (páginas 22 e 26): a redação revogada sai na
+# cor #7b7879, que a página imprime tachada; a nota "(Revogado pela...)" que a segue vem em preto.
+XML_STF = """<pdf2xml producer="poppler" version="26.10.0">
+<page number="22" position="absolute" top="0" left="0" height="892" width="654">
+	<fontspec id="0" size="14" family="ESJKVA+ArnoPro-Caption" color="#2a8a49"/>
+	<fontspec id="4" size="17" family="RPIXVA+ArnoPro-SmText" color="#231f20"/>
+	<fontspec id="5" size="17" family="PSDNTE+ArnoPro-SmbdItalicSmText" color="#2a8a49"/>
+	<fontspec id="7" size="15" family="PSDNTE+ArnoPro-SmbdItalicSmText" color="#7b7879"/>
+	<fontspec id="8" size="15" family="NIRORI+ArnoPro" color="#7b7879"/>
+	<fontspec id="9" size="17" family="XCXNBO+ArnoPro-SmbdSmText" color="#231f20"/>
+	<fontspec id="10" size="14" family="JKZONQ+ArnoPro" color="#231f20"/>
+<text top="45" left="290" width="74" height="17" font="0"><i>Art. 2º, caput</i></text>
+<text top="820" left="306" width="43" height="17" font="0">— 21 —</text>
+<text top="493" left="82" width="41" height="21" font="5"><i>Art. 3º</i></text>
+<text top="494" left="123" width="390" height="21" font="4">  São órgãos do Tribunal o Plenário, as Turmas e o Presidente.</text>
+<text top="540" left="82" width="43" height="21" font="5"><i>Art. 4º</i></text>
+<text top="540" left="125" width="304" height="21" font="4">  As Turmas são constituídas de cinco Ministros.</text>
+<text top="564" left="82" width="21" height="19" font="7"><i>§ 1º</i></text>
+<text top="564" left="103" width="361" height="19" font="8"><i>  O Ministro mais antigo, integrante da Turma, é o seu Presidente.</i></text>
+<text top="586" left="82" width="23" height="21" font="9">§ 1º</text>
+<text top="586" left="105" width="471" height="21" font="4">  A Turma é presidida pelo Ministro mais antigo dentre seus membros, por </text>
+<text top="609" left="99" width="476" height="21" font="4">um período de um ano, vedada a recondução.  </text>
+<text top="658" left="99" width="368" height="17" font="10"><i>(Redação dada pela<a href="ristf.html#232"> Emenda Regimental n.&#160;25, de 26 de junho de 2008</a></i><i>)</i></text>
+</page>
+<page number="26" position="absolute" top="0" left="0" height="892" width="654">
+<text top="45" left="300" width="54" height="17" font="0"><i>Art. 5º, x</i></text>
+<text top="726" left="99" width="13" height="19" font="7"><i>f )</i></text>
+<text top="726" left="117" width="265" height="19" font="8"><i>a extradição requisitada por Estado estrangeiro;</i></text>
+<text top="728" left="385" width="190" height="17" font="10"><i>(Revogado pela Emenda Regimental</i></text>
+<text top="820" left="306" width="43" height="17" font="0">— 25 —</text>
+</page>
+</pdf2xml>"""
+
+
+class TachadoPelaCorTest(unittest.TestCase):
+    def setUp(self):
+        self.linhas = coletor.texto_do_xml_com_tachados(XML_STF, coletor.TACHADO_POR_COR["stf"]).split("\n")
+
+    def test_redacao_revogada_sai_tachada_e_a_vigente_nao(self):
+        self.assertIn("~~§ 1º O Ministro mais antigo, integrante da Turma, é o seu Presidente.~~", self.linhas)
+        self.assertIn("§ 1º A Turma é presidida pelo Ministro mais antigo dentre seus membros, por", self.linhas)
+        self.assertIn("(Redação dada pela Emenda Regimental n. 25, de 26 de junho de 2008)", self.linhas)
+
+    def test_linha_mista_tacha_so_o_trecho_revogado(self):
+        self.assertIn("~~f ) a extradição requisitada por Estado estrangeiro;~~ (Revogado pela Emenda Regimental", self.linhas)
+
+    def test_cabecalho_e_rodape_corridos_ficam_de_fora(self):
+        texto = "\n".join(self.linhas)
+        self.assertNotIn("caput", texto)
+        self.assertNotIn("— 21 —", texto)
+        self.assertNotIn("Art. 5º, x", texto)
+
+    def test_salto_maior_que_a_entrelinha_abre_paragrafo_e_cada_marca_fecha_na_linha(self):
+        i = self.linhas.index("Art. 3º São órgãos do Tribunal o Plenário, as Turmas e o Presidente.")
+        self.assertEqual(self.linhas[i + 1], "")
+        self.assertEqual(self.linhas[i + 2], "Art. 4º As Turmas são constituídas de cinco Ministros.")
+        self.assertTrue(all(linha.count("~~") % 2 == 0 for linha in self.linhas))
+
+    def test_sem_a_cor_nada_e_tachado(self):
+        self.assertNotIn("~~", coletor.texto_do_xml_com_tachados(XML_STF, "#000000"))
 
 
 if __name__ == "__main__":
