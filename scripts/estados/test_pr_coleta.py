@@ -274,6 +274,16 @@ class IndiceComErroDaFonte(unittest.TestCase):
             pr.indice()
         self.assertFalse(os.path.exists(os.path.join(self.pasta, "atos.json")))
 
+    def test_fonte_fora_do_ar_no_indice_termina_com_mensagem_e_sem_cache(self):
+        def fora_do_ar(caminho, dados, tentativas=4):
+            raise pr.urllib.error.HTTPError(caminho, 503, "Service Unavailable", None, None)
+
+        with patch.object(pr, "post", fora_do_ar), self.assertRaises(SystemExit) as saida:
+            pr.main(["--tipo", "leis-ordinarias", "--anos", "1954", "--so-indice"])
+        self.assertIn("503", str(saida.exception.code))
+        self.assertIn("rode de novo mais tarde", str(saida.exception.code))
+        self.assertFalse(os.path.exists(self.cache("1954")))
+
     def test_execucao_termina_com_erro_e_nomeia_o_recorte(self):
         with patch.object(pr, "post", self.post), self.assertRaises(SystemExit) as saida:
             pr.main(["--tipo", "leis-ordinarias", "--anos", "1954-1955", "--so-indice"])

@@ -348,7 +348,7 @@ def main(argv=None):
             itens = filtrar(itens, tipos, anos)
         else:
             itens = indice(refazer=args.refazer, tipos=tipos, anos=anos)
-    except RuntimeError as e:
+    except (RuntimeError, OSError) as e:  # OSError cobre a fonte fora do ar (HTTP 503, tempo esgotado, DNS)
         sys.exit(f"[{UF}] {e}. O índice guarda as páginas já baixadas: rode de novo mais tarde, com --rps menor.")
     itens.sort(key=lambda i: (i.get("ano") or "", int(i["codAto"])), reverse=True)
     print(f"[{UF}] {len(itens)} normas no recorte do índice", flush=True)
