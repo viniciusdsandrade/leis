@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 12/11/2026 eram **1.380.098 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 13/11/2026 eram **1.387.367 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
-| 1 | Legislação federal e leis estaduais | 505.994 | 86,9% |
-| 2 | Infralegal e jurisprudência | 755.351 | 74,5% |
+| 1 | Legislação federal e leis estaduais | 510.295 | 87,7% |
+| 2 | Infralegal e jurisprudência | 758.319 | 74,9% |
 | 3 | Direito municipal | 118.753 | 1,0% |
-| | **Total** | **1.380.098** | |
+| | **Total** | **1.387.367** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -111,7 +111,7 @@ scripts/                             coletores, conversores, auditorias e testes
 scripts/municipios/campinas/         verificação do acervo de Campinas
 scripts/plano.py                     o escopo: todo tipo de norma que deve estar aqui
 .github/workflows/auditoria.yml      auditoria e testes no CI
-.githooks/pre-commit                 regenera PROGRESSO.md e progresso.svg a cada commit
+.githooks/pre-commit                 regenera PROGRESSO.md, progresso.svg e a tabela "O acervo" a cada commit
 COBERTURA.md                         números por esfera e tipo, e as lacunas
 PROGRESSO.md                         o plano medido contra o acervo, item a item
 estatisticas.html                    gráficos sobre o acervo, num arquivo único
@@ -274,7 +274,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | Identidade IBGE, rotas e duplicatas entre lotes municipais | `scripts/auditar_municipal.py --staged` |
 | Identidade das normas de Campinas contra a API do SAPL | `scripts/municipios/campinas/campinas.py verificar` |
 | Testes dos coletores e conversores | os testes listados em `.github/testes-ci.txt`, rodados no CI |
-| Contagens e progresso | `.githooks/pre-commit` regenera `PROGRESSO.md` e `progresso.svg` (ative com `git config core.hooksPath .githooks`) |
+| Contagens e progresso | `.githooks/pre-commit` regenera `PROGRESSO.md`, `progresso.svg` e os números da seção "O acervo" deste README (ative com `git config core.hooksPath .githooks`) |
 
 Os PDFs escaneados passam por OCR com o framework Vision do macOS (`scripts/ocr.swift`). Em
 digitalizações de duas colunas, o OCR procura a calha vertical entre as colunas e lê a da

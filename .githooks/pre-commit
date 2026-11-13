@@ -1,4 +1,15 @@
 #!/bin/sh
 set -e
+# O progresso.py reescreve também os números da seção "O acervo" do README. O README só entra
+# no commit se não tinha mudança pendente antes: edição feita à mão não é arrastada pelo gancho.
+readme_limpo=0
+if git diff --quiet -- README.md 2>/dev/null; then readme_limpo=1; fi
 python3 -I scripts/progresso.py --git-index
 git add PROGRESSO.md progresso.svg
+if [ -f README.md ] && ! git diff --quiet -- README.md; then
+  if [ "$readme_limpo" = 1 ]; then
+    git add README.md
+  else
+    echo "pre-commit: README.md tem mudanças fora deste commit; a seção 'O acervo' foi atualizada no arquivo, mas não entrou." >&2
+  fi
+fi

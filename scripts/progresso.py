@@ -372,6 +372,46 @@ def ler_readme_acervo(texto):
     return {"data": cab.group(1), "total": total, "fases": fases}
 
 
+def atualizar_readme_acervo(texto, prog):
+    """O README com a data, o total e as fases da seção 'O acervo' iguais aos de `prog`.
+
+    `prog` tem o formato de `ler_progresso`. Só os números da seção mudam; o resto do texto,
+    dentro e fora dela, fica como está. Levanta ValueError se a seção não tiver o que reescrever.
+    """
+    antes, titulo, resto = texto.partition("## O acervo")
+    if not titulo:
+        raise ValueError("README.md sem seção 'O acervo'")
+    trecho, corte, depois = resto.partition("\n---")
+
+    def linha_da_fase(m):
+        fase = prog["fases"][int(m.group(1))]
+        cobertura = f"{fase['cobertura']:.1f}".replace(".", ",")
+        return f"| {m.group(1)} |{m.group(2)}| {mil(fase['documentos'])} | {cobertura}% |"
+
+    trecho = re.sub(
+        r"Em \d{2}/\d{2}/\d{4} eram \*\*[0-9.]+ documentos\*\*",
+        f"Em {prog['data']} eram **{mil(prog['total'])} documentos**",
+        trecho,
+        count=1,
+    )
+    trecho = re.sub(
+        r"^\| ([123]) \|([^|]+)\| [0-9.]+ \| [0-9]+,[0-9]+% \|",
+        linha_da_fase,
+        trecho,
+        flags=re.MULTILINE,
+    )
+    trecho = re.sub(
+        r"^\| \| \*\*Total\*\* \| \*\*[0-9.]+\*\* \|",
+        f"| | **Total** | **{mil(prog['total'])}** |",
+        trecho,
+        flags=re.MULTILINE,
+    )
+    novo = antes + titulo + trecho + corte + depois
+    if ler_readme_acervo(novo) != prog:
+        raise ValueError("README.md: a seção 'O acervo' não ficou igual ao PROGRESSO.md")
+    return novo
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--conferir", action="store_true", help="só imprime o resumo, não grava arquivos")
@@ -394,9 +434,21 @@ def main():
         return
     with open(os.path.join(RAIZ, "progresso.svg"), "w", encoding="utf-8") as f:
         f.write(desenhar(medidas))
+    relatorio = markdown(medidas, achadas, pendentes)
     with open(os.path.join(RAIZ, "PROGRESSO.md"), "w", encoding="utf-8") as f:
-        f.write(markdown(medidas, achadas, pendentes))
-    print("\ngravados: progresso.svg, PROGRESSO.md")
+        f.write(relatorio)
+    gravados = ["progresso.svg", "PROGRESSO.md"]
+    # O README repete o resumo do PROGRESSO; fora do checkout esparso (CI, worktrees de lote) ele não existe.
+    readme = os.path.join(RAIZ, "README.md")
+    if os.path.isfile(readme):
+        with open(readme, encoding="utf-8") as f:
+            texto = f.read()
+        novo = atualizar_readme_acervo(texto, ler_progresso(relatorio))
+        if novo != texto:
+            with open(readme, "w", encoding="utf-8") as f:
+                f.write(novo)
+            gravados.append("README.md")
+    print("\ngravados: " + ", ".join(gravados))
 
 
 if __name__ == "__main__":
