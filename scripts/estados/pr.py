@@ -4,9 +4,11 @@
 Texto: pesquisarAto.do?action=exibir&codAto=N&tipoVisualizacao=compilado (texto compilado).
 
 Uso: python3 -I scripts/estados/pr.py [--tipo leis-ordinarias] [--anos 2020-2026] [--rps 0.25] [--so-indice] [limite]
+     python3 -I scripts/estados/pr.py --atos 14467,14471 [--rps 0.2]   (atos que nenhuma listagem entrega)
 O índice guarda em _indice cada página por tipo e ano, então uma coleta interrompida retoma de onde parou.
 Listagem de ano sem ato algum é falha da fonte (HTTP 200 com página de erro): não é guardada e o ano é pedido
-mês a mês; o mês que também falhar é avisado e a execução termina com erro.
+mês a mês; o mês que também falhar é avisado e a execução termina com erro. Os atos desse mês continuam
+acessíveis pelo codAto: --atos os pede um a um e tira a epígrafe, o ano e a súmula da página de cada ato.
 O servidor recusa (HTTP 403) quem pede demais: a primeira recusa interrompe a coleta inteira, sem registrar
 falha para os itens restantes, e a coleta deve recomeçar mais tarde em ritmo menor.
 """
@@ -215,9 +217,57 @@ def indice(refazer=False, tipos=None, anos=None):
     return lista
 
 
+def pagina_do_ato(cod):
+    """(HTTP, bytes, content-type) da página do ato, do cache de documentos ou da fonte; None quando a fonte
+    recusa o acesso (e então liga RECUSADO). Toda resposta 200 fica no cache."""
+    cache = os.path.join(RAIZ_ESTADUAIS, UF, "_indice", "documentos", cod + ".html.gz")
+    if os.path.exists(cache):
+        with open(cache, "rb") as f:
+            return 200, gzip.decompress(f.read()), "text/html;charset=UTF-8"
+    if RECUSADO.is_set():
+        return None
+    try:
+        st, bruto, ctype = rede.get(f"{B}/exibirAto.do?action=iniciarProcesso&codAto={cod}", timeout=60, tentativas=1)
+    except RuntimeError as e:
+        if "HTTP Error 429" in str(e):
+            RECUSADO.set()
+            return None
+        raise
+    if st in RECUSA_HTTP:
+        RECUSADO.set()
+        return None
+    if st == 200:
+        os.makedirs(os.path.dirname(cache), exist_ok=True)
+        with open(cache, "wb") as f:
+            f.write(gzip.compress(bruto))
+    return st, bruto, ctype
+
+
+def itens_avulsos(cods):
+    """Itens de índice montados da página de cada ato, para os que nenhuma listagem entrega (junho de 1954).
+    Devolve (itens, codAto sem ato): a fonte responde 200 com a página em branco para o codAto que não existe."""
+    itens, sem_ato = [], []
+    for cod in cods:
+        resposta = pagina_do_ato(cod)
+        if resposta is None:
+            raise RuntimeError("fonte recusou acesso; coleta interrompida")
+        st, bruto, ctype = resposta
+        html = decodificar(bruto, ctype) if st == 200 else ""
+        tipo = re.search(r'name="codTipoAto" value="(\d+)"', html)
+        epigrafe = limpar((re.search(r"<h3>(.*?)</h3>", html, re.S) or ["", ""])[1])
+        ano = re.search(r" de (\d{4})$", epigrafe)
+        if not tipo or tipo.group(1) not in TIPOS or not ano:
+            sem_ato.append(cod)
+            continue
+        ementa = re.search(r"S[úu]mula:</b>\s*<a[^>]*>(.*?)</a>", html, re.S)
+        itens.append({"codAto": cod, "tipo": tipo.group(1), "ano": ano.group(1), "epigrafe": epigrafe,
+                      "ementa": limpar(ementa.group(1)) if ementa else "", "publicacao": ""})
+    return itens, sem_ato
+
+
 def processar(it):
     pasta, nome, prefixo = TIPOS[it["tipo"]]
-    url = f"{B}/exibirAto.do?action=iniciarProcesso&codAto={it['codAto']}"
+    url = f"{B}/exibirAto.do?action=iniciarProcesso&codAto={it['codAto']}"  # o mesmo endereço pedido em pagina_do_ato
     epi = it.get("epigrafe") or ""
     num = re.search(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? de (\w+) de (\d{4})", epi)  # dia 1º vem com ordinal
     ano = it.get("ano") or (num.group(4) if num else "sem-ano")
@@ -226,27 +276,12 @@ def processar(it):
     md, fonte = caminhos(UF, pasta, ano, slug)
     if os.path.exists(md):
         return "pulado", None
-    cache = os.path.join(RAIZ_ESTADUAIS, UF, "_indice", "documentos", it["codAto"] + ".html.gz")
-    if os.path.exists(cache):
-        st, bruto, ctype = 200, gzip.decompress(open(cache, "rb").read()), "text/html;charset=UTF-8"
-    else:
-        if RECUSADO.is_set():
-            return "bloqueado", None
-        try:
-            st, bruto, ctype = rede.get(url, timeout=60, tentativas=1)
-        except RuntimeError as e:
-            if "HTTP Error 429" in str(e):
-                RECUSADO.set()
-                return "bloqueado", None
-            raise
-        if st in RECUSA_HTTP:
-            RECUSADO.set()
-            return "bloqueado", None
+    resposta = pagina_do_ato(it["codAto"])
+    if resposta is None:
+        return "bloqueado", None
+    st, bruto, ctype = resposta
     if st != 200:
         return "sem_texto", {"codAto": it["codAto"], "http": st}
-    os.makedirs(os.path.dirname(cache), exist_ok=True)
-    with open(cache, "wb") as f:
-        f.write(gzip.compress(bruto))
     html = decodificar(bruto, ctype)
     ini = html.find("<h3>")
     fim = html.find("</form>", ini)
@@ -293,6 +328,7 @@ def main(argv=None):
     parser.add_argument("--rps", type=float, default=1.0, help="Requisições por segundo (padrão 1)")
     parser.add_argument("--workers", type=int, default=3, help="Textos em paralelo (padrão 3)")
     parser.add_argument("--so-indice", action="store_true", help="Só monta o índice do recorte, sem baixar os textos")
+    parser.add_argument("--atos", type=str, help="codAto separados por vírgula, no lugar do índice: atos que a listagem não entrega")
     parser.add_argument("limite", nargs="?", type=int, default=None, help="Máximo de itens a processar")
     args = parser.parse_args(argv)
     if args.rps != 1.0:
@@ -302,8 +338,16 @@ def main(argv=None):
         anos = faixa_de_anos(args.anos) if args.anos else None
     except ValueError as e:
         sys.exit(f"[{UF}] {e}")
+    sem_ato = []
     try:
-        itens = indice(refazer=args.refazer, tipos=tipos, anos=anos)
+        if args.atos:
+            cods = [c.strip() for c in args.atos.split(",") if c.strip()]
+            if not all(c.isdigit() for c in cods):
+                sys.exit(f"[{UF}] --atos espera codAto numéricos separados por vírgula")
+            itens, sem_ato = itens_avulsos(list(dict.fromkeys(cods)))
+            itens = filtrar(itens, tipos, anos)
+        else:
+            itens = indice(refazer=args.refazer, tipos=tipos, anos=anos)
     except RuntimeError as e:
         sys.exit(f"[{UF}] {e}. O índice guarda as páginas já baixadas: rode de novo mais tarde, com --rps menor.")
     itens.sort(key=lambda i: (i.get("ano") or "", int(i["codAto"])), reverse=True)
@@ -323,6 +367,8 @@ def main(argv=None):
                      "restantes. Rode de novo mais tarde, com --rps menor.")
     if sem_indice:
         sys.exit(sem_indice)
+    if sem_ato:
+        sys.exit(f"[{UF}] a fonte não tem ato nestes codAto: {', '.join(sem_ato)}")
 
 
 if __name__ == "__main__":

@@ -281,5 +281,91 @@ class IndiceComErroDaFonte(unittest.TestCase):
         self.assertNotIn("1955", str(saida.exception.code))
 
 
+# Recortes das páginas reais de exibirAto.do: a Lei 1918 (codAto 14467, junho de 1954) e o codAto 14469, sem ato.
+ATO_HTML = """<form name="exibirAtoForm" method="post" action="/legislacao/exibirAto.do">
+		<input type="hidden" name="codAto" value="14467">
+		<input type="hidden" name="codTipoAto" value="1">
+		<input type="hidden" name="dataAto" value="04/06/1954">
+		<input type="hidden" name="nroAto" value="1918">
+		<h3>Lei 1918 - 04 de Junho de 1954</h3>
+		<br>
+		Publicado no Di&aacute;rio Oficial n<sup>o</sup>. 76 de 7 de Junho de 1954
+		<br><br>
+					<p>
+						<b class="labelAto">Súmula:</b>
+						<a id='150308'>Abre à Secretaria de Educação e Cultura um crédito especial de Cr$ 200.000,00, como auxílio à Prefeitura de Morretes.<br/></a>
+					</p>
+					<p>
+						<b class="labelAto"></b>
+						<a id='150312'>Art. 1º. Fica aberto à Secretaria de Educação e Cultura, um crédito especial de Cr$ 200.000,00 (duzentos mil cruzeiros).<br/></a>
+					</p>
+</form>"""
+SEM_ATO_HTML = """<form name="exibirAtoForm" method="post" action="/legislacao/exibirAto.do">
+		<input type="hidden" name="codAto" value="">
+		<input type="hidden" name="codTipoAto" value="">
+		<h3></h3>
+</form>"""
+
+
+class AtosAvulsos(unittest.TestCase):
+    """Junho de 1954 não sai em listagem alguma, mas cada lei abre pelo codAto."""
+
+    def setUp(self):
+        self.tmp = tempfile.TemporaryDirectory()
+        self.addCleanup(self.tmp.cleanup)
+        pr.RECUSADO.clear()
+        self.addCleanup(pr.RECUSADO.clear)
+        p = patch.object(pr, "RAIZ_ESTADUAIS", self.tmp.name)
+        p.start()
+        self.addCleanup(p.stop)
+        p = patch.object(pr, "caminhos", lambda uf, pasta, ano, slug: (
+            os.path.join(self.tmp.name, uf, pasta, str(ano), slug + ".md"),
+            os.path.join(self.tmp.name, uf, "_fonte", pasta, str(ano), slug + ".html.gz")))
+        p.start()
+        self.addCleanup(p.stop)
+        self.pedidos = []
+
+    def get(self, url, **kw):
+        cod = url.split("codAto=")[1]
+        self.pedidos.append(cod)
+        return 200, (ATO_HTML if cod == "14467" else SEM_ATO_HTML).encode("utf-8"), "text/html;charset=UTF-8"
+
+    def test_item_sai_da_pagina_do_ato_e_codato_vazio_e_apontado(self):
+        with patch.object(pr.rede, "get", self.get):
+            itens, sem_ato = pr.itens_avulsos(["14467", "14469"])
+        self.assertEqual(sem_ato, ["14469"])
+        self.assertEqual(len(itens), 1)
+        self.assertEqual(itens[0]["codAto"], "14467")
+        self.assertEqual(itens[0]["tipo"], "1")
+        self.assertEqual(itens[0]["ano"], "1954")
+        self.assertEqual(itens[0]["epigrafe"], "Lei 1918 - 04 de Junho de 1954")
+        self.assertTrue(itens[0]["ementa"].startswith("Abre à Secretaria de Educação e Cultura"))
+        self.assertTrue(itens[0]["ementa"].endswith("Prefeitura de Morretes."))
+
+    def test_recusa_da_fonte_interrompe_sem_inventar_item(self):
+        with patch.object(pr.rede, "get", lambda url, **kw: (403, b"", "")), self.assertRaises(RuntimeError):
+            pr.itens_avulsos(["14467"])
+        self.assertTrue(pr.RECUSADO.is_set())
+
+    def test_execucao_grava_o_ato_pede_cada_pagina_uma_vez_e_termina_com_erro_pelo_codato_vazio(self):
+        with patch.object(pr.rede, "get", self.get), self.assertRaises(SystemExit) as saida:
+            pr.main(["--atos", "14467,14469", "--workers", "1"])
+        self.assertIn("14469", str(saida.exception.code))
+        self.assertNotIn("14467", str(saida.exception.code))
+        self.assertEqual(sorted(self.pedidos), ["14467", "14469"])
+        gravado = os.path.join(self.tmp.name, "PR", "leis-ordinarias", "1954", "lei-1918-1954-id14467.md")
+        with open(gravado, encoding="utf-8") as f:
+            texto = f.read()
+        self.assertIn("data: 1954-06-04", texto)
+        self.assertIn('ementa: "Abre à Secretaria de Educação e Cultura', texto)
+        self.assertIn("exibirAto.do?action=iniciarProcesso&codAto=14467", texto)
+        self.assertIn("Fica aberto à Secretaria de Educação e Cultura, um crédito especial de Cr$ 200.000,00", texto)
+
+    def test_filtro_de_ano_vale_para_os_avulsos(self):
+        with patch.object(pr.rede, "get", self.get), patch.object(pr, "executar") as executar:
+            pr.main(["--atos", "14467", "--anos", "1955"])
+        self.assertEqual(executar.call_args.args[1], [])
+
+
 if __name__ == "__main__":
     unittest.main()
