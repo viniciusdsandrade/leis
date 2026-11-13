@@ -36,6 +36,21 @@ class Filtros(unittest.TestCase):
         self.assertEqual(len(pr.filtrar(LISTA)), 4)
 
 
+class Cobertura(unittest.TestCase):
+    def test_fecha_quando_md_ou_falha_cobrem_o_indice(self):
+        r = pr.cobertura(["10", "20", "30"], ["10"], ["30"])
+        self.assertEqual(r["indice"], 3)
+        self.assertEqual(r["md"], 1)
+        self.assertEqual(r["falhas"], 1)
+        self.assertEqual(r["faltando"], ["20"])
+
+    def test_normaliza_int_e_str_e_ignora_falha_fora_do_indice(self):
+        r = pr.cobertura([1, 2], ["1", "2"], ["99"])
+        self.assertEqual(r["faltando"], [])
+        self.assertEqual(r["falhas"], 0)
+        self.assertEqual(r["md"], 2)
+
+
 class Recusa(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
@@ -90,6 +105,21 @@ class Recusa(unittest.TestCase):
             texto = f.read()
         self.assertIn("data: 2024-04-11", texto)
         self.assertIn("Esta Lei entra em vigor na data de sua publicação", texto)
+
+    def test_mes_com_acento_historico_preenche_data(self):
+        pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
+        os.makedirs(pasta)
+        html = ("<html><body><h3>Lei 4057 - 28 de Agôsto de 1959</h3><p>Art. 1º Esta Lei entra em vigor na data de sua "
+                "publicação, revogadas as disposições em contrário.</p></form></body></html>")
+        with open(os.path.join(pasta, "12388.html.gz"), "wb") as f:
+            f.write(gzip.compress(html.encode("utf-8")))
+        it = {"codAto": "12388", "tipo": "1", "ano": "1959", "epigrafe": "Lei 4057 - 28 de Agôsto de 1959", "ementa": "x"}
+        with patch.object(pr.rede, "get", side_effect=AssertionError("não deveria ir à rede")):
+            self.assertEqual(pr.processar(it), ("ok", None))
+        gravado = os.path.join(self.tmp.name, "PR", "leis-ordinarias", "1959", "lei-4057-1959-id12388.md")
+        with open(gravado, encoding="utf-8") as f:
+            texto = f.read()
+        self.assertIn("data: 1959-08-28", texto)
 
     def test_dia_primeiro_com_ordinal_mantem_numero_e_data(self):
         pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
