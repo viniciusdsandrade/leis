@@ -43,6 +43,7 @@ test_integralidade_pdf_sapl.py
 test_integrar_anexos_sapl.py
 test_integridade_anexos_decreto.py
 test_jurisprudencia_atualizar_indice.py
+test_jurisprudencia_regimentos.py
 test_liberar_decorativos_sapl.py
 test_lote_decretos_rede.py
 test_marcar_tachados_sapl.py

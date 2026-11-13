@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 13/11/2026 11:13:47 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 13/11/2026 12:15:49 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.384.400 documentos · 1.253.045 / ~11.768.799 nas séries com meta (10.6%) · 27.536 sem meta**
+**1.384.401 documentos · 1.253.046 / ~11.768.799 nas séries com meta (10.6%) · 27.536 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-755.351 documentos · 641.806 / ~861.320 nas séries com meta (74.5%) · 16.059 sem meta
+755.352 documentos · 641.807 / ~861.320 nas séries com meta (74.5%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
@@ -253,7 +253,7 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Jurisprudência vinculante
 
-11.564 documentos · 11.559 / ~14.667 nas séries com meta (78.8%) · 0 sem meta
+11.565 documentos · 11.560 / ~14.667 nas séries com meta (78.8%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -265,7 +265,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | ✅ | Temas de recursos repetitivos (STJ) | 1.474 | 1.474 | `jurisprudencia/stj/repetitivos` | STJ — dados abertos, Temas.csv (números únicos) |
 | ✅ | Súmulas e orientações jurisprudenciais do TST | 1.157 | 1.157 | `jurisprudencia/tst` | tst.jus.br |
 | 🟦 | Súmulas do TCU, TNU, STM e TSE | 398 | 700 | `jurisprudencia/outros-tribunais`, `jurisprudencia/tnu/sumulas` | tcu.gov.br, cjf.jus.br, stm.jus.br, tse.jus.br |
-| 🟦 | Regimentos internos dos tribunais superiores | 2 | 6 | `jurisprudencia/regimentos` | portais dos tribunais |
+| 🟦 | Regimentos internos dos tribunais superiores | 3 | 6 | `jurisprudencia/regimentos` | portais dos tribunais |
 | ✅ | Temas de uniformização da TNU, incluindo cancelados | 394 | 394 | `jurisprudencia/tnu/uniformizacao` | CNJ — Pangea/BNP (precedentes da TNU) |
 
 ### Súmulas do TRF4
