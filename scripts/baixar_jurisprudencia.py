@@ -188,6 +188,56 @@ def texto_do_pdf(caminho):
         os.unlink(saida)
 
 
+def texto_do_xml_com_tachados(xml, cor, faixa=(0.075, 0.91)):
+    """Texto de um `pdftohtml -xml`, linha a linha, com `~~` em volta dos trechos impressos na cor `cor`.
+
+    `pdftotext` devolve a redação tachada como texto comum; o XML do poppler informa a cor de cada trecho,
+    e é por ela que a edição do STF distingue a redação revogada. `faixa` é a fração da altura da página
+    que guarda o corpo: o que fica acima (cabeçalho corrido) ou abaixo (rodapé) sai.
+    """
+    cores, paginas = {}, []
+    for pagina in re.split(r"<page ", xml)[1:]:
+        cores.update({i: c.lower() for i, c in re.findall(r'<fontspec id="(\d+)"[^>]*color="(#[0-9a-fA-F]{6})"', pagina)})
+        altura = int(re.search(r'height="(\d+)"', pagina).group(1))
+        trechos = []
+        for topo, esq, larg, alt, fonte, bruto in re.findall(
+                r'<text top="(\d+)" left="(\d+)" width="(\d+)" height="(\d+)" font="(\d+)">(.*?)</text>', pagina, re.S):
+            txt = html.unescape(re.sub(r"<[^>]+>", "", bruto)).replace("\xa0", " ")
+            if txt.strip() and faixa[0] * altura <= int(topo) < faixa[1] * altura:
+                trechos.append((int(topo), int(esq), int(larg), int(alt), cores.get(fonte) == cor, txt))
+        trechos.sort()
+        linhas = []  # [topo, altura, [trechos]]: trechos de uma mesma linha diferem poucos pontos no topo
+        for t in trechos:
+            if linhas and t[0] - linhas[-1][0] <= 5:
+                linhas[-1][2].append(t)
+            else:
+                linhas.append([t[0], t[3], [t]])
+        saida, anterior = [], None
+        for topo, alt, da_linha in linhas:
+            if anterior is not None and topo - anterior > 1.6 * alt:  # salto maior que a entrelinha: parágrafo novo
+                saida.append("")
+            anterior = topo
+            partes, fim = [], None  # [tachado, texto, separador antes]: trechos vizinhos de mesma condição
+            for _, esq, larg, _, tachado, txt in sorted(da_linha, key=lambda t: t[1]):
+                # Na página, palavras distintas distam 3 pontos ou mais; pontuação colada dista até 1.
+                sep = " " if fim is not None and (esq - fim > 1 or txt[0].isspace() or partes[-1][1][-1].isspace()) else ""
+                if partes and partes[-1][0] == tachado:
+                    partes[-1][1] += sep + txt
+                else:
+                    partes.append([tachado, txt, sep])
+                fim = esq + larg
+            saida.append("".join(sep + (f"~~{' '.join(txt.split())}~~" if tachado else " ".join(txt.split()))
+                                 for tachado, txt, sep in partes))
+        paginas.append("\n".join(saida))
+    return "\n\n".join(paginas)
+
+
+def texto_do_pdf_com_tachados(caminho, cor):
+    xml = subprocess.run(["pdftohtml", "-xml", "-i", "-stdout", caminho], check=True,
+                         stdout=subprocess.PIPE, stderr=subprocess.DEVNULL).stdout.decode("utf-8", "replace")
+    return texto_do_xml_com_tachados(xml, cor)
+
+
 def bnp_stf(limite, refazer=False, tribunal="STF", atualizar_indice=False):
     tribunal = tribunal.upper()
     """Precedentes STF do Banco Nacional de Precedentes do CNJ, com paginação e JSON original."""
@@ -383,8 +433,8 @@ def tnu_sumulas_complementares(limite, refazer=False):
     return cont
 
 
-# STJ, TSE e STF: os portais oficiais respondem com casca JS/WAF; este coletor
-# não contorna. Ficam de fora até haver PDF direto (HTTP 200 e corpo `%PDF`).
+# STJ e TSE: os portais oficiais recusam este coletor (HTTP 404 e 403 em 13/11/2026) ou respondem
+# com casca JS/WAF, e ele não contorna. Ficam de fora até haver PDF direto (HTTP 200 e corpo `%PDF`).
 REGIMENTOS = [
     ("tst", "Tribunal Superior do Trabalho", "2017-11-20",
      "https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/116169/2017_ra1937_ri_tst_livro_vigente.pdf?sequence=22&isAllowed=y",
@@ -394,7 +444,15 @@ REGIMENTOS = [
     ("stm", "Superior Tribunal Militar", "2020-02-12",
      "https://dspace.stm.jus.br/xmlui/bitstream/handle/123456789/197174/Regimento_Interno_5__Ed._v6_PDFA.pdf?sequence=5&isAllowed=y",
      "5ª ed. 2025, compilado até a Emenda Regimental n. 4/2025."),
+    # A data é a da publicação no Diário da Justiça, a que a própria edição registra.
+    ("stf", "Supremo Tribunal Federal", "1980-10-27",
+     "https://www.stf.jus.br/arquivo/cms/legislacaoRegimentoInterno/anexo/RISTF.pdf",
+     "Edição de 2023, atualizada até a Emenda Regimental n. 58/2022; emendas posteriores não constam."),
 ]
+
+
+# Edições que imprimem a redação revogada tachada: a cor do texto tachado, para marcá-lo com `~~`.
+TACHADO_POR_COR = {"stf": "#7b7879"}
 
 
 def regimentos(limite, refazer=False):
@@ -407,7 +465,8 @@ def regimentos(limite, refazer=False):
         try:
             pdf = os.path.join(RAIZ, "_fonte", "regimentos", f"regimento-{slug}.pdf")
             baixar_pdf(url, pdf, limite)
-            corpo = limpar(texto_do_pdf(pdf))
+            cor = TACHADO_POR_COR.get(slug)
+            corpo = limpar(texto_do_pdf_com_tachados(pdf, cor) if cor else texto_do_pdf(pdf))
             if len(corpo) < 10000 or "REGIMENTO" not in corpo.upper():
                 raise RuntimeError("PDF sem regimento completo reconhecível")
             titulo = f"Regimento Interno do {nome}"
