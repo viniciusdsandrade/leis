@@ -18,6 +18,7 @@ import re
 import sys
 import threading
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 import urllib.error
@@ -46,7 +47,11 @@ LINHA = re.compile(
     r"codAto=(\d+)&indice.*?_epigrafeAto\">(.*?)</div>.*?_descricaoItemAto\">(.*?)</div>.*?_dataPublicacao\">(.*?)</div>",
     re.S,
 )
-MESES = {m: i for i, m in enumerate(
+def sem_acento(s):
+    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+
+
+MESES = {sem_acento(m): i for i, m in enumerate(
     "janeiro fevereiro março abril maio junho julho agosto setembro outubro novembro dezembro".split(), 1)}
 
 
@@ -95,6 +100,19 @@ def filtrar(lista, tipos=None, anos=None):
     return [i for i in lista
             if (not tipos or i["tipo"] in tipos)
             and (not anos or ((i.get("ano") or "").isdigit() and int(i["ano"]) in anos))]
+
+
+def cobertura(ids_indice, ids_md, ids_falha):
+    """codAto do índice cobertos por markdown no disco ou por linha em `_falhas.jsonl`."""
+    indice = {str(i) for i in ids_indice}
+    md = {str(i) for i in ids_md}
+    falha = {str(i) for i in ids_falha}
+    return {
+        "indice": len(indice),
+        "md": len(indice & md),
+        "falhas": len(indice & falha),
+        "faltando": sorted(indice - md - falha, key=lambda s: int(s) if s.isdigit() else s),
+    }
 
 
 def pagina_de_anos(tipo, pasta, refazer):
@@ -202,8 +220,9 @@ def processar(it):
         return "sem_texto", {"codAto": it["codAto"], "motivo": "texto vazio"}
     data = ""
     m = re.search(r"(\d{1,2})[º°]? de (\w+) de (\d{4})", titulo)
-    if m and m.group(2).lower() in MESES:
-        data = f"{m.group(3)}-{MESES[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+    mes = sem_acento(m.group(2).lower()) if m else ""
+    if m and mes in MESES:
+        data = f"{m.group(3)}-{MESES[mes]:02d}-{int(m.group(1)):02d}"
     if data:
         try:
             if dt.date.fromisoformat(data) > dt.date.today():
