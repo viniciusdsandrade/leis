@@ -5,6 +5,7 @@ que a fonte lista por mês, com &mesAto=M (13 é o ano inteiro).
 Texto: pesquisarAto.do?action=exibir&codAto=N&tipoVisualizacao=compilado (texto compilado).
 
 Uso: python3 -I scripts/estados/pr.py [--tipo leis-ordinarias] [--anos 2020-2026] [--rps 0.25] [--so-indice] [limite]
+     python3 -I scripts/estados/pr.py --tipo decretos --anos 2026 --conferir   (fecha o lote contra o índice)
      python3 -I scripts/estados/pr.py --atos 14467,14471 [--rps 0.2]   (atos que nenhuma listagem entrega)
 O índice guarda em _indice cada página por tipo e ano, então uma coleta interrompida retoma de onde parou.
 Listagem de ano sem ato algum é falha da fonte (HTTP 200 com página de erro): não é guardada e o ano é pedido
@@ -376,6 +377,50 @@ def processar(it):
     return "ok", None
 
 
+def conferir(itens):
+    """Fecha o recorte contra o índice, sem coletar: cada ato tem de ter markdown, linha de retenção em
+    `_falhas.jsonl` ou pertencer a outro ano (ver `processar`). Devolve o relatório; `pendencias` diz se o lote
+    ainda não fecha. Lê só o que já está em disco, salvo a listagem de outro ano que ainda não esteja no cache."""
+    retidos, erros, repetidas = set(), [], 0
+    falhas = os.path.join(RAIZ_ESTADUAIS, UF, "_falhas.jsonl")
+    if os.path.exists(falhas):
+        with open(falhas, encoding="utf-8") as f:
+            for linha in f:
+                reg = json.loads(linha) if linha.strip() else {}
+                if reg.get("status") == "erro":  # falha de rede: some ao repetir a coleta, não é retenção
+                    erros += re.findall(r"'codAto': '(\d+)'", reg.get("item", ""))
+                elif reg.get("codAto"):
+                    repetidas += reg["codAto"] in retidos
+                    retidos.add(reg["codAto"])
+    gravados = {}  # codTipoAto -> codAto com markdown, em qualquer ano
+    for tipo in {i["tipo"] for i in itens}:
+        nomes = glob.glob(os.path.join(RAIZ_ESTADUAIS, UF, TIPOS[tipo][0], "*", "*-id*.md"))
+        gravados[tipo] = {n.rsplit("-id", 1)[1][:-3] for n in nomes}
+    rel = {"indice": 0, "md": 0, "retidos": 0, "de_outro_ano": [], "faltando": []}
+    for cod, tipo, ano in sorted({(i["codAto"], i["tipo"], i.get("ano")) for i in itens}, key=lambda t: int(t[0])):
+        rel["indice"] += 1
+        if cod in gravados[tipo]:
+            rel["md"] += 1
+        elif cod in retidos:
+            rel["retidos"] += 1
+        else:
+            cache = os.path.join(RAIZ_ESTADUAIS, UF, "_indice", "documentos", cod + ".html.gz")
+            do_titulo = None
+            if ano and os.path.exists(cache):
+                st, bruto, ctype = pagina_do_ato(cod)
+                h3 = re.search(r"<h3>(.*?)</h3>", decodificar(bruto, ctype), re.S)
+                do_titulo = ano_da_epigrafe(limpar(h3.group(1))) if h3 else None
+            if do_titulo and do_titulo != ano and listado_em(tipo, do_titulo, cod):
+                rel["de_outro_ano"].append(cod)
+            else:
+                rel["faltando"].append(cod)
+    do_recorte = {i["codAto"] for i in itens}
+    rel["erros_de_rede"] = sorted(set(erros) & do_recorte, key=int)
+    rel["retencoes_repetidas"] = repetidas
+    rel["pendencias"] = bool(rel["faltando"] or rel["erros_de_rede"])
+    return rel
+
+
 def main(argv=None):
     import argparse
     parser = argparse.ArgumentParser(description=f"Coletor da legislação de {UF} (Casa Civil)")
@@ -386,6 +431,7 @@ def main(argv=None):
     parser.add_argument("--workers", type=int, default=3, help="Textos em paralelo (padrão 3)")
     parser.add_argument("--so-indice", action="store_true", help="Só monta o índice do recorte, sem baixar os textos")
     parser.add_argument("--atos", type=str, help="codAto separados por vírgula, no lugar do índice: atos que a listagem não entrega")
+    parser.add_argument("--conferir", action="store_true", help="Não coleta: confere o recorte contra markdown e _falhas.jsonl")
     parser.add_argument("limite", nargs="?", type=int, default=None, help="Máximo de itens a processar")
     args = parser.parse_args(argv)
     if args.rps != 1.0:
@@ -415,7 +461,18 @@ def main(argv=None):
                       "índice e não foram guardados em _indice; rode de novo para pedi-los outra vez.")
         if not args.so_indice:
             print(sem_indice, flush=True)
-    if not args.so_indice:
+    if args.conferir:
+        rel = conferir(itens)
+        print(f"[{UF}] conferência: {rel['indice']} atos no índice = {rel['md']} com markdown + {rel['retidos']} retidos em "
+              f"_falhas.jsonl + {len(rel['de_outro_ano'])} de outro ano + {len(rel['faltando'])} faltando", flush=True)
+        for rotulo, chave in (("faltando", "faltando"), ("de outro ano", "de_outro_ano"), ("com erro de rede em _falhas.jsonl", "erros_de_rede")):
+            if rel[chave]:
+                print(f"[{UF}] {rotulo}: {', '.join(rel[chave][:40])}{' ...' if len(rel[chave]) > 40 else ''}", flush=True)
+        if rel["retencoes_repetidas"]:
+            print(f"[{UF}] {rel['retencoes_repetidas']} linha(s) de retenção repetida(s) em _falhas.jsonl", flush=True)
+        if rel["pendencias"]:
+            sys.exit(f"[{UF}] o recorte não fecha: repita a coleta e tire de _falhas.jsonl as linhas com status 'erro'.")
+    elif not args.so_indice:
         if args.limite:
             itens = itens[: args.limite]
         executar(UF, itens, processar, workers=args.workers)

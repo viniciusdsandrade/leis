@@ -427,6 +427,34 @@ class AtoListadoEmDoisAnos(unittest.TestCase):
         self.assertEqual(self.pedidos, ["2026", "2025"])
         self.assertEqual(pr.SEM_INDICE, [])
 
+    def test_conferencia_fecha_o_lote_contando_o_ato_de_outro_ano(self):
+        pr.main(["--tipo", "decretos", "--anos", "2026", "--workers", "1"])
+        rel = pr.conferir(pr.indice(tipos={"11"}, anos={2026}))
+        self.assertEqual((rel["indice"], rel["md"], rel["retidos"]), (3, 2, 0))
+        self.assertEqual(rel["de_outro_ano"], ["384881"])
+        self.assertEqual(rel["faltando"], [])
+        self.assertFalse(rel["pendencias"])
+        pr.main(["--tipo", "decretos", "--anos", "2026", "--conferir"])  # lote fechado: termina sem erro
+
+    def test_conferencia_aponta_ato_sem_arquivo_retencao_e_erro_de_rede(self):
+        pr.main(["--tipo", "decretos", "--anos", "2026", "--workers", "1"])
+        os.remove(os.path.join(self.tmp.name, "PR", "decretos", "2026", "dec-12500-2026-id400001.md"))
+        itens = pr.indice(tipos={"11"}, anos={2026})
+        self.assertEqual(pr.conferir(itens)["faltando"], ["400001"])
+        with self.assertRaises(SystemExit):
+            pr.main(["--tipo", "decretos", "--anos", "2026", "--conferir"])
+        falhas = os.path.join(self.tmp.name, "PR", "_falhas.jsonl")
+        with open(falhas, "a", encoding="utf-8") as f:
+            f.write('{"codAto": "400001", "motivo": "anexos em PDF não coletados", "status": "sem_texto"}\n')
+        rel = pr.conferir(itens)
+        self.assertEqual((rel["retidos"], rel["faltando"], rel["pendencias"]), (1, [], False))
+        with open(falhas, "a", encoding="utf-8") as f:
+            f.write('{"item": "{\'codAto\': \'258039\', \'tipo\': \'11\'}", "erro": "The read operation timed out", "status": "erro"}\n')
+            f.write('{"item": "{\'codAto\': \'999999\', \'tipo\': \'11\'}", "erro": "de outro lote", "status": "erro"}\n')
+        rel = pr.conferir(itens)
+        self.assertEqual(rel["erros_de_rede"], ["258039"])
+        self.assertTrue(rel["pendencias"])
+
     def test_listagem_do_outro_ano_fora_do_ar_nao_interrompe_e_o_ato_fica_onde_foi_visto(self):
         with patch.dict(self.LISTAGENS, {"2025": ERRO_HTML}):
             pr.main(["--tipo", "decretos", "--anos", "2026", "--workers", "1"])
