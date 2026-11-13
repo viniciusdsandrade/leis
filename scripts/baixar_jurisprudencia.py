@@ -383,16 +383,23 @@ def tnu_sumulas_complementares(limite, refazer=False):
     return cont
 
 
+# STJ, TSE e STF: os portais oficiais respondem com casca JS/WAF; este coletor
+# não contorna. Ficam de fora até haver PDF direto (HTTP 200 e corpo `%PDF`).
+REGIMENTOS = [
+    ("tst", "Tribunal Superior do Trabalho", "2017-11-20",
+     "https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/116169/2017_ra1937_ri_tst_livro_vigente.pdf?sequence=22&isAllowed=y",
+     "Última alteração: Emenda Regimental n. 11, de 20 de maio de 2026."),
+    ("tcu", "Tribunal de Contas da União", "2011-11-30",
+     "https://portal.tcu.gov.br/uploads/RITCU_2025_a6a18744fc.pdf", "Edição consolidada de 2025."),
+    ("stm", "Superior Tribunal Militar", "2020-02-12",
+     "https://dspace.stm.jus.br/xmlui/bitstream/handle/123456789/197174/Regimento_Interno_5__Ed._v6_PDFA.pdf?sequence=5&isAllowed=y",
+     "5ª ed. 2025, compilado até a Emenda Regimental n. 4/2025."),
+]
+
+
 def regimentos(limite, refazer=False):
-    fontes = [
-        ("tst", "Tribunal Superior do Trabalho", "2017-11-20",
-         "https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/116169/2017_ra1937_ri_tst_livro_vigente.pdf?sequence=22&isAllowed=y",
-         "Última alteração: Emenda Regimental n. 11, de 20 de maio de 2026."),
-        ("tcu", "Tribunal de Contas da União", "2011-11-30",
-         "https://portal.tcu.gov.br/uploads/RITCU_2025_a6a18744fc.pdf", "Edição consolidada de 2025."),
-    ]
     cont = {"ok": 0, "pulado": 0}
-    for slug, nome, data, url, versao in fontes:
+    for slug, nome, data, url, versao in REGIMENTOS:
         destino = os.path.join(RAIZ, "regimentos", f"regimento-{slug}.md")
         if os.path.exists(destino) and not refazer:
             cont["pulado"] += 1
