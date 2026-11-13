@@ -94,4 +94,4 @@ python3 scripts/auditar_municipal.py --staged --saida /tmp/auditoria-municipal.j
 
 O commit só deve ser criado se os scripts reportarem zero erros e zero problemas.
 
-`PROGRESSO.md` e `progresso.svg` são regenerados pelo hook `.githooks/pre-commit` (ative com `git config core.hooksPath .githooks`) ou à mão com `python3 -I scripts/progresso.py --git-index`.
+`PROGRESSO.md`, `progresso.svg` e os números da seção "O acervo" do `README.md` são regenerados pelo hook `.githooks/pre-commit` (ative com `git config core.hooksPath .githooks`) ou à mão com `python3 -I scripts/progresso.py --git-index`.

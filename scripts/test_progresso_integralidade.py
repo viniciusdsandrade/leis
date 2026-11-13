@@ -78,6 +78,58 @@ class ProgressoTest(unittest.TestCase):
         self.assertEqual(lido['fases'][2], {'documentos': 2000, 'cobertura': 20.0})
         self.assertEqual(lido['fases'][3], {'documentos': 9345, 'cobertura': 1.5})
 
+    def test_atualizar_readme_acervo_reescreve_so_os_numeros(self):
+        texto = (
+            "# Leis\n\nApresentação com 1.000 documentos citados fora da seção.\n\n"
+            "## O acervo\n\n"
+            "Em 08/11/2026 eram **12.345 documentos**. As contagens por série ficam no PROGRESSO.\n\n"
+            "| Fase | Escopo | Documentos | Cobertura da meta |\n"
+            "| --- | --- | ---: | ---: |\n"
+            "| 1 | Legislação federal e leis estaduais | 1.000 | 10,5% |\n"
+            "| 2 | Infralegal e jurisprudência | 2.000 | 20,0% |\n"
+            "| 3 | Direito municipal | 9.345 | 1,5% |\n"
+            "| | **Total** | **12.345** | |\n"
+            "\nLinha depois da tabela.\n"
+            "\n---\n\n## Outra seção\n\n| 1 | fora da seção | 7 | 7,0% |\n"
+        )
+        prog = {'data': '13/11/2026', 'total': 1387367, 'fases': {
+            1: {'documentos': 510295, 'cobertura': 87.6},
+            2: {'documentos': 758319, 'cobertura': 74.9},
+            3: {'documentos': 118753, 'cobertura': 1.0},
+        }}
+        novo = progresso.atualizar_readme_acervo(texto, prog)
+        self.assertEqual(progresso.ler_readme_acervo(novo), prog)
+        self.assertIn("Em 13/11/2026 eram **1.387.367 documentos**. As contagens por série ficam", novo)
+        self.assertIn("| 2 | Infralegal e jurisprudência | 758.319 | 74,9% |\n", novo)
+        self.assertIn("| 3 | Direito municipal | 118.753 | 1,0% |\n", novo)
+        self.assertIn("| | **Total** | **1.387.367** | |\n", novo)
+        # o que não é número da seção fica como estava
+        self.assertIn("Apresentação com 1.000 documentos citados fora da seção.", novo)
+        self.assertIn("\nLinha depois da tabela.\n", novo)
+        self.assertTrue(novo.endswith("\n---\n\n## Outra seção\n\n| 1 | fora da seção | 7 | 7,0% |\n"))
+        self.assertEqual(len(novo.splitlines()), len(texto.splitlines()))
+
+    def test_atualizar_readme_acervo_em_dia_devolve_o_mesmo_texto(self):
+        texto = (
+            "## O acervo\n\n"
+            "Em 08/11/2026 eram **12.345 documentos**.\n\n"
+            "| 1 | Legislação federal e leis estaduais | 1.000 | 10,5% |\n"
+            "| 2 | Infralegal e jurisprudência | 2.000 | 20,0% |\n"
+            "| 3 | Direito municipal | 9.345 | 1,5% |\n"
+            "| | **Total** | **12.345** | |\n"
+            "\n---\n"
+        )
+        self.assertEqual(progresso.atualizar_readme_acervo(texto, progresso.ler_readme_acervo(texto)), texto)
+
+    def test_atualizar_readme_acervo_recusa_readme_sem_a_tabela(self):
+        prog = {'data': '13/11/2026', 'total': 3, 'fases': {
+            f: {'documentos': 1, 'cobertura': 1.0} for f in (1, 2, 3)}}
+        with self.assertRaises(ValueError):
+            progresso.atualizar_readme_acervo("# Leis\n\nSem a seção.\n", prog)
+        with self.assertRaises(ValueError):
+            progresso.atualizar_readme_acervo(
+                "## O acervo\n\nEm 08/11/2026 eram **3 documentos**.\n\n| 1 | só uma fase | 3 | 1,0% |\n\n---\n", prog)
+
     def test_desenhar_destaca_subtotal_fases_1_e_2(self):
         a = Item('setor1', 'a', 'federal/a', 100, 1, 'fonte')
         b = Item('setor2', 'b', 'federal/b', 100, 2, 'fonte')
