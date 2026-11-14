@@ -291,8 +291,8 @@ PAGINA = r"""<!doctype html>
 
 <h2>Normas por esfera</h2>
 <div class="cartao"><table class="barras" id="t-ufs"></table></div>
-<p class="nota">Paraná e Rio de Janeiro não aparecem: a fonte do PR bloqueia acesso automatizado e
-o servidor da ALERJ não respondia. O Acre tem acervo só até 2009.</p>
+<p class="nota">O Rio de Janeiro ainda não aparece: o servidor da ALERJ não respondia durante as coletas.
+O Acre tem acervo só até 2009.</p>
 
 <h2>Quando foram aprovadas</h2>
 <div class="cartao"><div id="g-decadas"></div></div>
