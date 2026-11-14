@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 14/11/2026 00:25:17 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 14/11/2026 17:46:44 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.391.559 documentos · 1.256.012 / ~11.768.799 nas séries com meta (10.7%) · 27.536 sem meta**
+**1.391.591 documentos · 1.256.037 / ~11.768.799 nas séries com meta (10.7%) · 27.536 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -14,50 +14,50 @@ Há 7.639 pendências de integralidade registradas em [registro auditável](scri
 
 Planalto, Senado, Câmara e assembleias.
 
-510.295 documentos · 503.962 / ~574.766 nas séries com meta (87.7%) · 0 sem meta
+510.327 documentos · 503.987 / ~574.766 nas séries com meta (87.7%) · 0 sem meta
 
 ### Constituição Federal
 
-180 / ~180 documentos (100.0%)
+182 documentos · 180 / ~180 nas séries com meta (100.0%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
 | ✅ | Constituição de 1988 (texto compilado; edição no cabeçalho) | 1 | 1 | `constituicao.md` | https://www.planalto.gov.br |
 | ✅ | Constituições históricas (1824, 1891, 1934, 1937, 1946, 1967, 1969) | 7 | 7 | `federal/constituicoes-historicas` | https://www.planalto.gov.br |
-| ✅ | Emendas constitucionais e de revisão | 172 | 172 | `federal/emendas-constitucionais` | https://normas.leg.br |
+| ✅ | Emendas constitucionais e de revisão | 174 | 172 | `federal/emendas-constitucionais` | https://normas.leg.br |
 
 ### Leis federais
 
-29.433 / ~29.534 documentos (99.7%)
+29.437 documentos · 29.436 / ~29.534 nas séries com meta (99.7%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Leis ordinárias, numeradas e não numeradas (1822–hoje) | 16.784 | 16.883 | `federal/leis-ordinarias` | Senado (índice) + normas.leg.br (texto) |
-| ✅ | Leis complementares | 239 | 239 | `federal/leis-complementares` | normas.leg.br |
+| 🟦 | Leis ordinárias, numeradas e não numeradas (1822–hoje) | 16.787 | 16.883 | `federal/leis-ordinarias` | Senado (índice) + normas.leg.br (texto) |
+| ✅ | Leis complementares | 240 | 239 | `federal/leis-complementares` | normas.leg.br |
 | ✅ | Leis delegadas (série encerrada) | 13 | 13 | `federal/leis-delegadas` | normas.leg.br |
 | ✅ | Leis constitucionais da Carta de 1937 (1938–1946) | 21 | 21 | `federal/leis-constitucionais` | https://www.planalto.gov.br/ccivil_03/LEIS/LCT/Quadro_Lct.htm |
 | 🟦 | Decretos-leis (série encerrada em 1988) | 12.376 | 12.378 | `federal/decretos-lei` | normas.leg.br |
 
 ### Atos do Congresso
 
-37.806 documentos · 37.804 / ~38.248 nas séries com meta (98.8%) · 0 sem meta
+37.820 documentos · 37.814 / ~38.248 nas séries com meta (98.9%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Decretos legislativos | 21.359 | 21.775 | `federal/decretos-legislativos` | normas.leg.br |
-| ✅ | Medidas provisórias (originais e reedições) | 7.499 | 7.497 | `federal/medidas-provisorias` | Planalto + normas.leg.br |
+| 🟦 | Decretos legislativos | 21.364 | 21.775 | `federal/decretos-legislativos` | normas.leg.br |
+| ✅ | Medidas provisórias (originais e reedições) | 7.503 | 7.497 | `federal/medidas-provisorias` | Planalto + normas.leg.br |
 | 🟦 | Resoluções do Senado Federal | 6.574 | 6.578 | `federal/resolucoes-senado` | normas.leg.br |
-| 🟦 | Resoluções da Câmara dos Deputados | 2.280 | 2.300 | `federal/resolucoes-camara` | camara.leg.br |
+| 🟦 | Resoluções da Câmara dos Deputados | 2.285 | 2.300 | `federal/resolucoes-camara` | camara.leg.br |
 | 🟦 | Resoluções do Congresso Nacional e da Revisão Constitucional | 91 | 95 | `federal/resolucoes-congresso` | normas.leg.br |
 | ✅ | Regimentos internos (Senado, Câmara, Congresso) | 3 | 3 | `federal/regimentos` | senado.leg.br, camara.leg.br |
 
 ### Decretos do Executivo federal
 
-117.937 / ~153.657 documentos (76.8%)
+117.949 / ~153.657 documentos (76.8%)
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Decretos numerados (1889–hoje, as duas séries) | 103.407 | 139.127 | `federal/decretos` | normas.leg.br + Planalto |
+| 🟦 | Decretos numerados (1889–hoje, as duas séries) | 103.419 | 139.127 | `federal/decretos` | normas.leg.br + Planalto |
 | ✅ | Decretos não numerados | 14.510 | 14.510 | `federal/decretos-nao-numerados` | Planalto |
 | ✅ | Regulamentos consolidados (RIR, RIPI, Aduaneiro, RPS, PAF) | 20 | 20 | `federal/regulamentos` | Planalto |
 
