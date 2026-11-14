@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 13/11/2026 22:19:04 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 14/11/2026 00:25:17 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.389.991 documentos · 1.256.012 / ~11.768.799 nas séries com meta (10.7%) · 27.536 sem meta**
+**1.391.559 documentos · 1.256.012 / ~11.768.799 nas séries com meta (10.7%) · 27.536 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-760.943 documentos · 644.774 / ~861.320 nas séries com meta (74.9%) · 16.059 sem meta
+762.511 documentos · 644.774 / ~861.320 nas séries com meta (74.9%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
@@ -278,7 +278,7 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal estadual
 
-475.794 documentos · 459.533 / ~577.054 nas séries com meta (79.6%) · 0 sem meta
+477.362 documentos · 459.533 / ~577.054 nas séries com meta (79.6%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
@@ -289,7 +289,7 @@ Diários oficiais e portais de órgãos e tribunais.
 | ⬜️ | Resoluções e provimentos dos TJ e das Corregedorias | 0 | 8.000 | `estaduais/*/resolucoes-tj` | Tribunais de Justiça |
 | 🟦 | Regimentos internos das Assembleias | 18 | 27 | `estaduais/*/regimentos` | Assembleias |
 | 🟦 | Decretos legislativos estaduais | 17.396 | 20.000 | `estaduais/*/decretos-legislativos` | Assembleias (SAPL e sistemas próprios) |
-| ✅ | Resoluções das Assembleias | 41.261 | 25.000 | `estaduais/*/resolucoes` | Assembleias (SAPL e sistemas próprios) |
+| ✅ | Resoluções das Assembleias | 42.829 | 25.000 | `estaduais/*/resolucoes` | Assembleias (SAPL e sistemas próprios) |
 | 🟦 | Portarias das administrações estaduais e distrital | 33.821 | 60.000 | `estaduais/*/portarias` | SINJ-DF, Legisla Goiás e sistemas equivalentes |
 | 🟦 | Deliberações, súmulas administrativas, provimentos e pareceres normativos | 2.753 | 4.000 | `estaduais/*/deliberacoes`, `estaduais/*/sumulas`, `estaduais/*/provimentos`, `estaduais/*/pareceres-normativos` | SINJ-DF, Legisla Goiás e sistemas equivalentes |
 
