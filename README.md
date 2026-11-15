@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 15/11/2026 eram **1.396.151 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 15/11/2026 eram **1.398.921 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 510.374 | 87,7% |
-| 2 | Infralegal e jurisprudência | 766.716 | 75,3% |
+| 2 | Infralegal e jurisprudência | 769.486 | 75,6% |
 | 3 | Direito municipal | 119.061 | 1,0% |
-| | **Total** | **1.396.151** | |
+| | **Total** | **1.398.921** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -207,7 +207,7 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | MT | Assembleia Legislativa | redação atual, PDF gerado pelo site |
 | PA | Banco de Leis da ALEPA | PDF, com OCR quando escaneado |
 | PE | Alepe Legis | texto atualizado quando existe |
-| PR | Sistema Estadual de Legislação (Casa Civil, `legislacao.pr.gov.br`) | texto compilado; Constituição, leis ordinárias (1822 a 2026), leis complementares (1972 a 2026), emendas constitucionais (1993 a 2026), decretos de 2026 e resoluções (1995 a 2026) no acervo |
+| PR | Sistema Estadual de Legislação (Casa Civil, `legislacao.pr.gov.br`) | texto compilado; Constituição, leis ordinárias (1822 a 2026), leis complementares (1972 a 2026), emendas constitucionais (1993 a 2026), decretos de 2026, resoluções (1995 a 2026) e portarias (1992 a 2026) no acervo |
 | RJ | Legislação Estadual da ALERJ (Lotus Notes) | ver pendências |
 | RN | Assembleia Legislativa | PDF, acervo a partir de 1994 |
 | RS | Sistema LEGIS da Assembleia; Constituição no portal do DAL | PDF nas recentes, HTML nas antigas |
