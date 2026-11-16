@@ -14,7 +14,7 @@ data_publicacao: "2023-12-27"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1273"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/27_12_2023_29092817.pdf"
 sha256_fonte: "64df1163819f124f6bd84cadd3396667cae9d71c307a85cfbbf51397880663b7"
-sha256_texto: "7c8c49129a0203e107f548ba070f64a78b8ed25057286c3e5a2792fb53957c27"
+sha256_texto: "44a5667dfd2f5288f894f7bf2c5f33c6398e19282d26d6db96efd05f6ca8cc89"
 baixado_em: "2026-11-15"
 ---
 
@@ -204,9 +204,7 @@ VIII - atender às normas técnicas e às leis municipais, estaduais e federais 
 
 **Parágrafo único** - Não configurará descontinuidade a suspensão ou o atraso, isolado ou circunstancial, do serviço, ditados por razões de força maior ou por eventos cuja ocorrência não seja de responsabilidade direta ou indireta do operador.
 
-**Art. 16** – Para assegurar a continuidade dos serviços prestados em regime público, em caso de situação emergencial e excepcional comprometedora do funcionamento dos serviços, da segurança das pessoas, obras, equipamentos e outros
-
-bens, o Poder Público poderá:
+**Art. 16** – Para assegurar a continuidade dos serviços prestados em regime público, em caso de situação emergencial e excepcional comprometedora do funcionamento dos serviços, da segurança das pessoas, obras, equipamentos e outros bens, o Poder Público poderá:
 
 I - contratar a prestação dos serviços em regime de empreitada ou locação de serviços, nos termos da legislação aplicável; e
 

@@ -14,7 +14,7 @@ data_publicacao: "2024-04-09"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1339"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2264_09064356.pdf"
 sha256_fonte: "5319f84a0058bda0a62c27563f553f7e52c656924c796ebc0c8c1f6e149fd2e6"
-sha256_texto: "bb55b23de69d0705573e5091f146bdfca0095cf3bbf91bb692006e50a14ab683"
+sha256_texto: "6e1812d7416154da554c62da180a254cacd41a07edb5a1ff7e0d2648554532c5"
 baixado_em: "2026-11-15"
 ---
 
@@ -30,9 +30,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Art. 1º** - Fica criado o Conselho Municipal dos Direitos da Pessoa Idosa - CMDPI.
 
-**Parágrafo único** - O Conselho Municipal dos Direitos da Pessoa Idosa - CMDPI
-
-como órgão pertencente à estrutura organizacional do Poder Executivo, vinculado à Secretaria Municipal de Assistência Social e Proteção à Pessoa.
+**Parágrafo único** - O Conselho Municipal dos Direitos da Pessoa Idosa - CMDPI como órgão pertencente à estrutura organizacional do Poder Executivo, vinculado à Secretaria Municipal de Assistência Social e Proteção à Pessoa.
 
 **Art. 2º** - O Conselho Municipal dos Direitos da Pessoa Idosa - CMDPI -observará, no exercício de suas atribuições, as diretrizes básicas prioritárias em conformidade com a Lei 14.423/2022, de 22 de julho de 2022, cabendo à pessoa idosa todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei e/ou por outros meios, todas as oportunidades e facilidades, para preservação de sua saúde física e mental e seu aperfeiçoamento moral, intelectual, espiritual e social, em condições de liberdade e dignidade.
 

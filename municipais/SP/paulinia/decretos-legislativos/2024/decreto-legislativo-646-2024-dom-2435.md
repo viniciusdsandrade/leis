@@ -14,7 +14,7 @@ data_publicacao: "2024-12-18"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1511"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2435_18063757.pdf"
 sha256_fonte: "0e3cdb1e5016953c6177b42acb0edeba7a05e77d4d9a404d9ba6bf6089953f96"
-sha256_texto: "b72c977f9769dab89ee3027194ebbbb34875a0e4dc6c7e406ca379902d997f22"
+sha256_texto: "6b01f077fb05a5c391eceaf8c1b488bab4335d92dc11d5eec70d240dc16723de"
 baixado_em: "2026-11-15"
 ---
 
@@ -24,9 +24,7 @@ DECRETO LEGISLATIVO Nº 646, DE 17 DE DEZEMBRO DE 2024
 
 “DISPÕE SOBRE A CONCESSÃO DO DIPLOMA 28 DE FEVEREIRO À DELÍCIAS DO ERNANDES.”
 
-Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO
-
-o seguinte Decreto Legislativo:
+Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
 **Artigo 1º** Fica concedido o DIPLOMA 28 DE FEVEREIRO à DELÍCIAS DO ERNANDES, pelos relevantes serviços prestados a Paulínia.
 

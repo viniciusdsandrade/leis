@@ -14,7 +14,7 @@ data_publicacao: "2024-12-19"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1512"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2436_19063101.pdf"
 sha256_fonte: "0b39dcb3bbe97337c6a342cd3abb67bad0aa06ddec06cc8990d1fe98968270c2"
-sha256_texto: "c52773955bae15f8b350f493282fc97941a7e55dcda1d7aa34373f2b26928a6f"
+sha256_texto: "84e3daf588c301c33f462920ea73eda88ee81681df1fd0d2a67360ecdd09e6f9"
 baixado_em: "2026-11-15"
 ---
 
@@ -76,9 +76,7 @@ XVII - Formular e zelar pela efetiva implantação e implementação das políti
 
 XVIII - Propor e incentivar a realização de campanhas visando à prevenção de deficiência e promoção de direitos que contribuam para efetiva participação da Pessoa com Deficiência na vida comunitária;
 
-XIX - Acompanhar o planejamento e avaliar a execução das políticas setoriais de
-
-educação, saúde, trabalho, assistência social, políticas de acessibilidade e outras relativas à Pessoa com Deficiência e serviços que envolvam diretamente as Pessoas com Deficiência;
+XIX - Acompanhar o planejamento e avaliar a execução das políticas setoriais de educação, saúde, trabalho, assistência social, políticas de acessibilidade e outras relativas à Pessoa com Deficiência e serviços que envolvam diretamente as Pessoas com Deficiência;
 
 XX - Articular com o Poder Público Municipal que seja assegurado, por meio de políticas públicas e participação da Sociedade Civil, a proteção especial na forma prevista nos artigos 203 e 227 da Constituição Federal e 277 e 281 da Constituição do Estado de São Paulo;
 

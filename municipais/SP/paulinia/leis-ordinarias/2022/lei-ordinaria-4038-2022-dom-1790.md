@@ -14,7 +14,7 @@ data_publicacao: "2022-03-09"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1008"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/0ecf33071937679616376b1aafd88f8d2022.pdf"
 sha256_fonte: "e7265de2a76a5db62f1e6274410703f18d5f44f4bcb95dc809903c5befa93797"
-sha256_texto: "87a6948bf9dea6e5917e85723e37769e9ea408255d6bdba406bdde6531529d1d"
+sha256_texto: "bbc9ebaddc023472fca751ba2de07f8c6fbab7f2ce1f17f9e912b1a829c097fb"
 baixado_em: "2026-11-15"
 ---
 
@@ -46,9 +46,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Art. 4º** - Para fazer jus às subvenções, as Associações de Pais e Mestres de cada unidade escolar devem estar legalmente constituídas, com Atas de Eleições, posses de seus membros, Estatutos em conformidade com o Decreto Estadual nº 65.298 de 18 de novembro de 2020 e suas alterações, atualizados e registrados junto ao Cartório de Registro de Pessoas Jurídicas e ao Cadastro Nacional da Pessoa Jurídica (CNPJ/MF) e demais formalidades legais pertinentes.
 
-Parágrafo Único - Os recursos financeiros deverão ser depositados em contas bancárias específicas para movimentações dos recursos de que trata esta Lei, em nome da Unidade Executora, junto à instituição financeira indicada pela Secretaria Municipal de Educação e sua movimentação deve ser realizada de acordo com as
-
-orientações da Secretaria Municipal de Educação e relacionadas com o objeto da transferência.
+Parágrafo Único - Os recursos financeiros deverão ser depositados em contas bancárias específicas para movimentações dos recursos de que trata esta Lei, em nome da Unidade Executora, junto à instituição financeira indicada pela Secretaria Municipal de Educação e sua movimentação deve ser realizada de acordo com as orientações da Secretaria Municipal de Educação e relacionadas com o objeto da transferência.
 
 **Art. 5º** - A aplicação dos recursos financeiros deverá constar do Plano Anual de Trabalho das Associações, devidamente aprovado pela Secretaria de Educação e pelo Conselho de Escola e integrados ao plano Escolar, e utilizados supletivamente no custeio das atividades escolares, com o fim de permitir a melhoria do ensino, o desenvolvimento de atividades de assistência escolar, conservação e manutenção do prédio, dos equipamentos e das instalações.
 

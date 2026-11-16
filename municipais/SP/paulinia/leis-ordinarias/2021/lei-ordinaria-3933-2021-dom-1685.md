@@ -14,7 +14,7 @@ data_publicacao: "2021-08-26"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/714"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/517d9c6f34484b153c7d3a30e2b7374e2021.pdf"
 sha256_fonte: "ae5a81880f3507720d976f4850d82d230cffbd3b9e7c9b82da7e100992c11932"
-sha256_texto: "44cb978a43e2807f84b1615daf54d57b79e96a548b76b35fd0947fc98c23e3d3"
+sha256_texto: "798f2aadf2f4f25191390abf8bef8f07dd22397b0ed04452cf842b0ae7c29ce1"
 baixado_em: "2026-11-15"
 ---
 
@@ -28,9 +28,7 @@ LEI Nº 3.933, DE 20 DE AGOSTO DE 2021
 
 A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO e PROMULGO a seguinte Lei:
 
-**Artigo 1º** - Fica denominada “PRAÇA CLÉLIA SCURSONI PERISSINOTTO”,
-
-o Sistema de Lazer 04, localizado entre as Ruas Israel Francisco de Assis, Ana Maria Padovani, João Bordin e Ortêncio Padovani, do loteamento Residencial São José, no bairro João Aranha, no quarteirão 1189.
+**Artigo 1º** - Fica denominada “PRAÇA CLÉLIA SCURSONI PERISSINOTTO”, o Sistema de Lazer 04, localizado entre as Ruas Israel Francisco de Assis, Ana Maria Padovani, João Bordin e Ortêncio Padovani, do loteamento Residencial São José, no bairro João Aranha, no quarteirão 1189.
 
 **Artigo 2º** - As despesas com execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 

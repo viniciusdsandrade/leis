@@ -14,7 +14,7 @@ data_publicacao: "2022-12-21"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/828"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/f0ad02fd392bc0a40eeddf135bd47ba92022.pdf"
 sha256_fonte: "41be729e3c8e528abb3a1b51458b7bd904107b592a8c767d133bddb38deee3cf"
-sha256_texto: "5ddcb04f4056a4d4df61daa324aed50464caea2843c4c3cbca48a3c82bbae982"
+sha256_texto: "2ac62d2df48cf4eca5c90bf9c124992e9477ad72aacb68780ec0871f6b33baf6"
 baixado_em: "2026-11-15"
 ---
 
@@ -30,9 +30,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Art. 1º** - Fica instituído o Programa "Ensino de Direito dos Animais nas Escolas" nas Escolas da Rede Municipal de Ensino do Município de Paulínia.
 
-**Art. 2º** - Entende-se por Programa "Ensino de Direito dos Animais nas Escolas", o processo por meio do qual o indivíduo e a coletividade constroem valores sociais, conhecimento e atitudes voltadas para o respeito e o bem-estar dos animais, de
-
-modo a garantir que seus interesses básicos sejam respeitados, proporcionando-lhes uma melhor qualidade de vida.
+**Art. 2º** - Entende-se por Programa "Ensino de Direito dos Animais nas Escolas", o processo por meio do qual o indivíduo e a coletividade constroem valores sociais, conhecimento e atitudes voltadas para o respeito e o bem-estar dos animais, de modo a garantir que seus interesses básicos sejam respeitados, proporcionando-lhes uma melhor qualidade de vida.
 
 **Art. 3º** - São objetivos fundamentais do programa "Ensino de Direito dos Animais nas Escolas":
 

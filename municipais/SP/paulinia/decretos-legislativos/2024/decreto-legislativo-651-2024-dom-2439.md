@@ -14,7 +14,7 @@ data_publicacao: "2024-12-26"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1516"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2439_26063407.pdf"
 sha256_fonte: "8cc449aa38b0290363e63c534f6034fbf76e159456cdb81ab5e5d00002c23d6b"
-sha256_texto: "f43732434418dac9630e4fa2708d3d55cb824ffbf899e783a72ad2feea3f762f"
+sha256_texto: "30dffdd01d314df0a7cd93b60a8dfe6cf80530bea17b9913bbc49f22f75fbfed"
 baixado_em: "2026-11-15"
 ---
 
@@ -24,9 +24,7 @@ DECRETO LEGISLATIVO Nº 651, DE 26 DE DEZEMBRO DE 2024
 
 “DISPÕE SOBRE A CONCESSÃO DO DIPLOMA DE MÉRITO DA SAÚDE AO SENHOR RODRIGO PEREZ DO PRADO.”
 
-Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO
-
-o seguinte Decreto Legislativo:
+Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
 **Artigo 1º** Fica concedido o DIPLOMA DE MÉRITO DA SAÚDE ao Senhor RODRIGO PEREZ DO PRADO, pelos relevantes serviços prestados em prol da saúde no Município de Paulínia.
 

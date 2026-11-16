@@ -14,7 +14,7 @@ data_publicacao: "2025-12-04"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1743"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2661_04052846.pdf"
 sha256_fonte: "9dac9d3f7a7019d8781e26543fcd4da5c8c83e970a4f5f51130936502df97bb9"
-sha256_texto: "be7a27368c8afb88a459c411ab3f7c4ee13d17783e41e5fcc41f5e793e68c814"
+sha256_texto: "33d3e3e70c1c84c1622eb186606d5a7ceb9b7401e46e8cb4f378581a788a75a5"
 baixado_em: "2026-11-15"
 ---
 
@@ -44,9 +44,7 @@ III – utilizem bens públicos, próprios ou locados pelo Município, para real
 
 **Art. 5º** A fiscalização será regulamentada pelo Poder Executivo, naquilo que diz respeito ao art. 1º.
 
-**Art. 6º** Os valores arrecadados com as multas previstas nesta Lei serão utilizados
-
-exclusivamente para a preservação dos símbolos municipais, programas educacionais sobre cidadania e iniciativas culturais voltadas à valorização da história local.
+**Art. 6º** Os valores arrecadados com as multas previstas nesta Lei serão utilizados exclusivamente para a preservação dos símbolos municipais, programas educacionais sobre cidadania e iniciativas culturais voltadas à valorização da história local.
 
 **Art. 7º** A Prefeitura poderá regulamentar esta Lei, definindo padrões de visibilidade, proporção e formas de comprovação do cumprimento da obrigação prevista.
 

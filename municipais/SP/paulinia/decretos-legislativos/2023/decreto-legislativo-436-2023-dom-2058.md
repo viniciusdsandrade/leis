@@ -14,7 +14,7 @@ data_publicacao: "2023-05-18"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1184"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/9161d112ffee8722944da53bd38e8fe52023.pdf"
 sha256_fonte: "46420b678d45a0be98a1744072ab0fb2c6c371dd0da10294e29206035f232ccc"
-sha256_texto: "332d52636884673541c6e5fe7183dc42341414a38f3139d6399974a31f1c63af"
+sha256_texto: "e63e348d1ad6e973512b27c6af3c98233c23a9cb06169a2d1f1b78977486719d"
 baixado_em: "2026-11-15"
 ---
 
@@ -24,9 +24,7 @@ DECRETO LEGISLATIVO Nº 436, DE 16 DE MAIO DE 2023
 
 “DISPÕE SOBRE A CONCESSÃO DO DIPLOMA D. HILDA MARIA ORAGGIO DE MÉRITO EDUCACIONAL AO COLÉGIO ANGLO PAULÍNIA.”
 
-Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO
-
-o seguinte Decreto Legislativo:
+Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
 **Artigo 1º** - Fica concedido o “DIPLOMA D. HILDA MARIA ORAGGIO DE MÉRITO EDUCACIONAL” ao COLÉGIO ANGLO DE PAULÍNIA, pelos relevantes serviços prestados a Paulínia.
 

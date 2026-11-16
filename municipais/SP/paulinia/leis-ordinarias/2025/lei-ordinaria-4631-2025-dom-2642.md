@@ -14,7 +14,7 @@ data_publicacao: "2025-11-05"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1724"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2642_05061942.pdf"
 sha256_fonte: "8ddeb7aad0f16785fdd0e76b2cec1db5155b8d9d5645ba8f60444b877ac3b724"
-sha256_texto: "1946f1d98c9a0ae7c96f57ebecb386170270b5f7fc45de3d382cd181ac74d4aa"
+sha256_texto: "f4bba237ff94da046cba39700d7856aaaaa7e6834e14e38d05ff1cffea1f743a"
 baixado_em: "2026-11-15"
 ---
 
@@ -164,9 +164,7 @@ DA OCUPAÇÃO DE VAGAS REMANESCENTES
 
 **§ 1º** O número de vagas disponíveis para o segundo semestre será definido com base na quantidade de bolsas não ocupadas após a conclusão do processo seletivo do primeiro semestre, respeitando a distribuição de bolsas por modalidade de ensino (superior e técnico), conforme o Art. 3º desta Lei.
 
-**§ 2º** O processo seletivo simplificado para vagas remanescentes será regido por
-
-um edital específico, que deverá ser publicado no Diário Oficial do Município com antecedência mínima de 15 (quinze) dias do início das inscrições.
+**§ 2º** O processo seletivo simplificado para vagas remanescentes será regido por um edital específico, que deverá ser publicado no Diário Oficial do Município com antecedência mínima de 15 (quinze) dias do início das inscrições.
 
 **§ 3º** Os candidatos inscritos deverão cumprir todos os requisitos de elegibilidade e critérios de classificação estabelecidos para o processo seletivo regular.
 

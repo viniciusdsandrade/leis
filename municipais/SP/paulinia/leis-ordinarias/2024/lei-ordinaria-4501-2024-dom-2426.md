@@ -14,7 +14,7 @@ data_publicacao: "2024-12-05"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1502"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2426_05055229.pdf"
 sha256_fonte: "d1614b4f02f2feca4f9f7b53b98122e839130365b3063df9c7aa50e23ab0162b"
-sha256_texto: "119d38a8469da5d749fdc32be7d8491cd73eab4073e56e94982f21e1e5482600"
+sha256_texto: "5cf7884d75736640b6a2759f62f5704aadde84e7826c7e8dc9290d50fb2f037d"
 baixado_em: "2026-11-15"
 ---
 
@@ -30,9 +30,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Artigo 1º** Fica instituído no município de Paulínia o Dia Municipal dos Caminhoneiros GSD, a ser comemorado, anualmente, no dia 10 de novembro.
 
-**Parágrafo único.** O Dia Municipal dos Caminhoneiros GSD possui o objetivo de
-
-homenagear os profissionais que diariamente se dedicam a transportar nosso alimento, nosso combustível e as riquezas do Brasil através da promoção de eventos a serem realizados no âmbito do Município.
+**Parágrafo único.** O Dia Municipal dos Caminhoneiros GSD possui o objetivo de homenagear os profissionais que diariamente se dedicam a transportar nosso alimento, nosso combustível e as riquezas do Brasil através da promoção de eventos a serem realizados no âmbito do Município.
 
 **Artigo 2º** A referida data passará a integrar o Calendário Oficial de Eventos do Município de Paulínia.
 

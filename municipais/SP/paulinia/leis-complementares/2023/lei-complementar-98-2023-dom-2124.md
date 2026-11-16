@@ -14,7 +14,7 @@ data_publicacao: "2023-08-24"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1118"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/338c1e59c2f764159cc32e2b31d363ca2023.pdf"
 sha256_fonte: "5c2d3c44fae9b57a9271353d2f59ac3887354dc1b390c3fb687edfc0dd5df473"
-sha256_texto: "c7e7551c2b85091eba091969e55e45941fe257b7989edc81523c048d5b032a3e"
+sha256_texto: "13e4bb07ab6a05e961b23097236b3210b08bf893c107f13442de52109a2a77d0"
 baixado_em: "2026-11-15"
 ---
 
@@ -80,9 +80,7 @@ DAS MODALIDADES DE LIQUIDAÇÃO DOS DÉBITOS
 
 I - Para débitos tributários e não tributários acima de R$ 1.000.000,00 (um milhão de reais), fica autorizado o parcelamento em até 100 (cem vezes) em parcelas iguais, mensais e sucessivas, corrigidas pelo Índice Nacional de Preços ao Consumidor - IPCA;
 
-II - Para débitos tributários e não tributários acima de R$ 500.000,00 (quinhentos
-
-mil reais) e inferior a R$ 1.000.000,00 (um milhão de reais), fica autorizado o parcelamento em até 70 (setenta vezes) em parcelas, iguais, mensais e sucessivas, corrigidas pelo Índice Nacional de Preços ao Consumidor - IPCA;
+II - Para débitos tributários e não tributários acima de R$ 500.000,00 (quinhentos mil reais) e inferior a R$ 1.000.000,00 (um milhão de reais), fica autorizado o parcelamento em até 70 (setenta vezes) em parcelas, iguais, mensais e sucessivas, corrigidas pelo Índice Nacional de Preços ao Consumidor - IPCA;
 
 III - Para débitos tributários e não tributários acima de R$ 100.000,00 (cem mil reais) e inferior a R$ 500.000,00 (quinhentos mil reais), fica autorizado o parcelamento em até 60 (sessenta vezes) em parcelas iguais, mensais e sucessivas, corrigidas pelo Índice Nacional de Preços ao Consumidor - IPCA;
 

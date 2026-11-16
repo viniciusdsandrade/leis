@@ -14,7 +14,7 @@ data_publicacao: "2025-08-21"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1672"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2591_21051704.pdf"
 sha256_fonte: "2810bd54de5eeae4e3721b5878619bb1056b658c38cc0927b28ce3d904be1896"
-sha256_texto: "4c9c73c63679b93d463bce35d2c8ccc1da77d790db06ec15bb02123a1158f1be"
+sha256_texto: "7a87bf24dd7d949d56d56ca16aa8758ebea7fe8cc322737f0a9547e1043036c5"
 baixado_em: "2026-11-15"
 ---
 
@@ -24,9 +24,7 @@ DECRETO LEGISLATIVO Nº 715, DE 19 DE AGOSTO DE 2025
 
 “DISPÕE SOBRE A CONCESSÃO DO TÍTULO DE CIDADÃO PAULINENSE AO SENHOR RAFAEL MOREIRA TAVARES GOFFI.”
 
-Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO
-
-o seguinte Decreto Legislativo:
+Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
 **Art. 1º** Fica concedido o TÍTULO DE CIDADÃO PAULINENSE ao senhor Rafael Moreira Tavares Goffi, pelos relevantes serviços prestados na cidade.
 

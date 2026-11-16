@@ -14,7 +14,7 @@ data_publicacao: "2025-08-25"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1674"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2593_25051700.pdf"
 sha256_fonte: "4f0f1cd46967ace845b6636d1f39bdceb5e99caed749ec8b5ea2c18ed1eaf9cf"
-sha256_texto: "6a5811799f89539b5ef2694747ae991dc4bc6948e820745b74c4e416b3b9fdec"
+sha256_texto: "dfc20c0627afe1557b83d46c133b94a4a6ae0eb88b0d38182643eac3afdcb33d"
 baixado_em: "2026-11-15"
 ---
 
@@ -46,9 +46,7 @@ V – identificar necessidades, propor medidas ou instrumentos necessários à i
 
 VI – zelar pela diversidade cultural da população do Município, especialmente pela preservação da memória e das tradições africanas e afrobrasileiras, constitutivos da formação histórica e social;
 
-VII – acompanhar e propor medidas de proteção a direitos violados ou ameaçados de violação por discriminação étnico-racial e/ou religiosa em todas as suas formas
-
-e manifestações;
+VII – acompanhar e propor medidas de proteção a direitos violados ou ameaçados de violação por discriminação étnico-racial e/ou religiosa em todas as suas formas e manifestações;
 
 VIII – identificar sistemas de indicadores, com o objetivo de estabelecer metas e procedimentos para monitorar as atividades relacionadas com a promoção da igualdade racial no Município;
 

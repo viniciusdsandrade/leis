@@ -14,7 +14,7 @@ data_publicacao: "2021-04-13"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/782"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/556ddcfd261d1d55e8435eeeef52228e2021.pdf"
 sha256_fonte: "cd50b91c4fafedc7da754511d23be994b9a1bacb51bea700e6e686640f4e9799"
-sha256_texto: "3ad5f2735344e22f5ff2ebe7c87b378488568a6e8404069fafc8e8cc7a81cb87"
+sha256_texto: "797ef3b2729d71014e9af0925fe8e9b905d998d71b074fadcd9632ccf223975a"
 baixado_em: "2026-11-15"
 ---
 
@@ -32,9 +32,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 “Artigo 3º - Fica denominada “RUA MARIA DOS ANJOS SILVESTRE”, a via pública designada como Rua 09, do loteamento residencial Paulínia 245 (La Dolce Vita), com aproximadamente 270,00 metros de extensão, tendo início na Rua Alayde Ferro Piva e término na Rua Joaquim Moysés de Souza.”
 
-**Artigo 2º** - As despesas com execução da presente Lei correrão por conta de
-
-verba própria do orçamento vigente, suplementada se necessário.
+**Artigo 2º** - As despesas com execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 
 **Artigo 3º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

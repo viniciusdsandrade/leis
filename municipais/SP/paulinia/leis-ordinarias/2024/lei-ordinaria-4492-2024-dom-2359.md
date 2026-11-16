@@ -14,7 +14,7 @@ data_publicacao: "2024-08-28"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1435"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2359_28063006.pdf"
 sha256_fonte: "7589fe1c6e027b4a3261f6983f2c63f1c764b6054d25ad64b5b13bcd03f3b64d"
-sha256_texto: "07638dcac639ea8645877fcf749df6310c8ac254ea5b22fc6e77d95bcb25d741"
+sha256_texto: "97f29eb6066f7bea1b7252e0a48d5189aafbeb590dd76b1e199a4954d126deec"
 baixado_em: "2026-11-15"
 ---
 
@@ -28,9 +28,7 @@ LEI Nº 4.492, DE 26 DE AGOSTO DE 2024
 
 A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO e PROMULGO a seguinte Lei:
 
-**Art. 1º** Fica instituído o Dia da Marcha para Jesus no município de Paulínia, a ser comemorado, anualmente, e preferencialmente no primeiro final de semana do
-
-mês de agosto.
+**Art. 1º** Fica instituído o Dia da Marcha para Jesus no município de Paulínia, a ser comemorado, anualmente, e preferencialmente no primeiro final de semana do mês de agosto.
 
 **Parágrafo único.** Durante as comemorações do Dia da Marcha para Jesus, ocorrerão atividades culturais e apresentações artísticas gospel.
 

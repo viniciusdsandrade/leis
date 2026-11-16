@@ -14,7 +14,7 @@ data_publicacao: "2023-04-12"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1208"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/e80185e0e42b69a33bcaf9e0e8c9f46d2023.pdf"
 sha256_fonte: "cda1e23c5a2c1a5190697135dea864a3a8e91be588b99d0c8d5d6a17a88a0f16"
-sha256_texto: "c79d4bfbcd850091fe8a9840c592fccacec3e43c96684c5d3eca84d2557ac40b"
+sha256_texto: "65b163ab45155784f3f21a22c7d60b4c50c7bcf4f147151ca3de5c76cbc128d0"
 baixado_em: "2026-11-15"
 ---
 
@@ -32,9 +32,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Artigo 2º** - As despesas com a execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 
-**Artigo 3º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as
-
-disposições em contrário.
+**Artigo 3º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Paulínia, 11 de Abril de 2023.
 

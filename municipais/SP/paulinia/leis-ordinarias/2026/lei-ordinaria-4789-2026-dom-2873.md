@@ -14,7 +14,7 @@ data_publicacao: "2026-11-03"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1957"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2873_03071542.pdf"
 sha256_fonte: "7fd2cd91d1fe4fe74d3af2ff102b088c00a1fe0227e046d0469da1328c99edb8"
-sha256_texto: "32b2d5838b77acd207ad8afeab90257832863e58ffa26623c29960e0b6fd920a"
+sha256_texto: "80d3e972cd17ff5c7ada366173ac2a71446cd8a066e8a39d1b1cae7fe5f483ff"
 baixado_em: "2026-11-15"
 ---
 
@@ -114,9 +114,7 @@ h) Anotação de Responsabilidade Técnica (ART) ou Registro de Responsabilidade
 
 i) Prova de que a obra em todos os lotes resultantes já existia na data de publicação desta lei (fotos com data, imagens do Google Earth ou registros da base cartográfica municipal).
 
-**§ 1º** Fica autorizada a aprovação do desdobro em lotes onde incidam construções clandestinas, as quais deverão ser regularizadas após o registro do desdobro no cartório de registro de imóveis competente, cada qual em seus respectivos lotes
-
-resultantes do desdobro.
+**§ 1º** Fica autorizada a aprovação do desdobro em lotes onde incidam construções clandestinas, as quais deverão ser regularizadas após o registro do desdobro no cartório de registro de imóveis competente, cada qual em seus respectivos lotes resultantes do desdobro.
 
 **§ 2º** O prazo estabelecido nesta Lei é específico para o procedimento de desdobro de lote, prevalecendo sobre o prazo geral previsto no Art. 17, por tratar-se de procedimento de natureza distinta e com requisitos próprios.
 
@@ -178,9 +176,7 @@ d) A conformidade com o Código de Obras do Município, apontando eventuais irre
 
 **§ 1º** Indeferido o pedido de regularização, o proprietário poderá interpor recurso administrativo ao órgão hierarquicamente superior, no prazo de 15 (quinze) dias úteis contados da notificação do indeferimento.
 
-**§ 2º** Esgotada a via administrativa e mantido o indeferimento, o interessado poderá
-
-requerer revisão do caso perante o Conselho Municipal competente, no prazo de 15 (quinze) dias úteis contados da decisão do recurso.
+**§ 2º** Esgotada a via administrativa e mantido o indeferimento, o interessado poderá requerer revisão do caso perante o Conselho Municipal competente, no prazo de 15 (quinze) dias úteis contados da decisão do recurso.
 
 **§ 3º** O Município, por meio do órgão competente, poderá expedir normas complementares e regulamentos, omissos nessa Lei, necessários à execução desta Lei.
 

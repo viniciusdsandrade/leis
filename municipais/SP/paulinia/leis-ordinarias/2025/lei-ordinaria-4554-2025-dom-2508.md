@@ -14,7 +14,7 @@ data_publicacao: "2025-04-15"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1588"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2508_15062614.pdf"
 sha256_fonte: "c011260dbbe68a14c6f16f5b9e3c7a9bfe1734dd41ff8bb8fb1728f1415b8350"
-sha256_texto: "37217d9af88451016c764c43467e57706d414c1a2d72261b586baaf65f547ec7"
+sha256_texto: "68d5d5767dc71b8906ac5a62c49b85190f31506152ce411fac6c8cb17308f7e4"
 baixado_em: "2026-11-15"
 ---
 
@@ -44,9 +44,7 @@ V - Planejamento participativo: envolver a população nas decisões de planejam
 
 VI - Redução de emissões de gases do efeito estufa: estimular políticas de mobilidade sustentável, eficiência energética, fomentar construções ecoeficientes e adoção de tecnologias limpas, contribuindo para as metas globais de combate às mudanças climáticas;
 
-VII - Transição energética sustentável: impulsionar a implementação de energias
-
-renováveis, como solar e eólica, no setor público e privado, bem como a modernização da infraestrutura urbana para reduzir a dependência de combustíveis fósseis;
+VII - Transição energética sustentável: impulsionar a implementação de energias renováveis, como solar e eólica, no setor público e privado, bem como a modernização da infraestrutura urbana para reduzir a dependência de combustíveis fósseis;
 
 VIII - Parcerias estratégicas: estimular a cooperação entre o poder público, universidades, setor privado e organizações da sociedade civil para a troca de conhecimentos, pesquisas e ações voltadas à resiliência urbana e sustentabilidade.
 

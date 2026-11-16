@@ -14,7 +14,7 @@ data_publicacao: "2022-05-17"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/969"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/5f90db7b404aaf05571a857a5ba0bd5a2022.pdf"
 sha256_fonte: "718838a4baccb403ec0726dc07e7a6f8ddeb727b72f18826ebc8fb8d4cfe8dbb"
-sha256_texto: "c905cb5e51222d669646403807469e44718d39b386472dc8d8b0d63fb2f0edac"
+sha256_texto: "1d8819a300e7d9bef4a8f507f0443df8e80a9eae2f2a64a25e6afcb2389eb163"
 baixado_em: "2026-11-15"
 ---
 
@@ -70,9 +70,7 @@ II - Anexos V e VI da Lei de Diretrizes Orçamentárias para o exercício financ
 
 27.07 FUNDO MUNICIPAL DE APOIO AO ESPORTE – FMAE
 
-**Art. 3º** - Para atender a despesa com o crédito adicional de que trata o artigo anterior, serão utilizados os recursos da anulação parcial das dotações orçamentárias,
-
-conforme saldo disponível no orçamento vigente na oportunidade de sua regulamentação, das seguintes secretaria e unidades executoras:
+**Art. 3º** - Para atender a despesa com o crédito adicional de que trata o artigo anterior, serão utilizados os recursos da anulação parcial das dotações orçamentárias, conforme saldo disponível no orçamento vigente na oportunidade de sua regulamentação, das seguintes secretaria e unidades executoras:
 
 2 GABINETE DO PREFEITO E DEPENDÊNCIAS
 

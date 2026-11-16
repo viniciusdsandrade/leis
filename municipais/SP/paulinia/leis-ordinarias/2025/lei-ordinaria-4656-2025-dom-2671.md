@@ -14,7 +14,7 @@ data_publicacao: "2025-12-18"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1754"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2671_18060502.pdf"
 sha256_fonte: "ea7d0431c83b1b461f2a7fb2609105be9529507d723a18c6ca717d43d97d39ee"
-sha256_texto: "37d9cb51855bcaf9b8943a192e5d116d4e05c778731ce369a9ec150a0ce29405"
+sha256_texto: "94d11090e6119d930a72d11a61cd6baa7921dc1196c585721fb78aecd53ec19c"
 baixado_em: "2026-11-15"
 ---
 
@@ -30,9 +30,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Art. 1º** Fica denominada “PRAÇA BRENO TONON PRETO” o Espaço Público, entre a Rua Ositha Sigrist Pongeluppi e a Avenida Dr. Heitor Nascimento, entre os quarteirões, 216, 219 e 220, no loteamento Chácaras Nossa Senhora Auxiliadora, no bairro Morumbi.
 
-**Art. 2º** As despesas com a execução da presente Lei correrão por conta de verba
-
-própria do orçamento vigente, suplementada se necessário.
+**Art. 2º** As despesas com a execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 
 **Art. 3º** Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

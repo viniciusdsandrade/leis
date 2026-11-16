@@ -14,7 +14,7 @@ data_publicacao: "2025-08-15"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1668"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2587_15064421.pdf"
 sha256_fonte: "f349f90973ba6ea068e1064271b6006615cbd9900a8685296867134a3d2e037e"
-sha256_texto: "85b8f0adcd47627bf7324e489e97cf2a9232243232465499ddeaf94dd9260182"
+sha256_texto: "85e585e36f08c15736bc5aef79ab15f0386041816ef90505f26256d80fa51565"
 baixado_em: "2026-11-15"
 ---
 
@@ -30,9 +30,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Art. 1º** Fica denominada “RUA HELENA APARECIDA VIEIRA” a via pública designada como Avenida 02 – Lado A e Lado B até a rotária com a Av. Comendador Dr. João Sylvio Zanetti - PLN 460 e a via pública designada como Suporte Viário da Avenida 2 – Lado A, no bairro Betel, com aproximadamente 290,00m.
 
-**Art. 2º** As despesas com a execução da presente Lei correrão por conta de verba
-
-própria do orçamento vigente, suplementada se necessário.
+**Art. 2º** As despesas com a execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 
 **Art. 3º** Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

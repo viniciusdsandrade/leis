@@ -14,7 +14,7 @@ data_publicacao: "2023-12-20"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1272"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2198_26024713.pdf"
 sha256_fonte: "185c309ce50660522bb7592d1d2e4aa770a7de9dd468b9b28e6b28de70db1c96"
-sha256_texto: "2be5f381fb1f7e9688020b158667140a457f40b6ea9cb65a933bdbfe86a85769"
+sha256_texto: "882fa03d66e4166c3bf823064d606920be2eed5a4e38e6449569fae748fcee8e"
 baixado_em: "2026-11-15"
 ---
 
@@ -26,9 +26,7 @@ DECRETO LEGISLATIVO Nº 501, DE 19 DE DEZEMBRO DE 2023
 
 Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
-**Artigo 1º** - Fica concedido o Diploma Mauro Garcia de Paula de Mérito Esportivo
-
-ao senhor JOÃO VICTOR COSTA DE OLIVEIRA, pelos relevantes serviços prestados a Paulínia.
+**Artigo 1º** - Fica concedido o Diploma Mauro Garcia de Paula de Mérito Esportivo ao senhor JOÃO VICTOR COSTA DE OLIVEIRA, pelos relevantes serviços prestados a Paulínia.
 
 **Artigo 2º** - A Câmara Municipal fará, solenemente, a entrega do título ao homenageado.
 

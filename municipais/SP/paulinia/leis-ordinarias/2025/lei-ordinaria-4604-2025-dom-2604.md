@@ -14,7 +14,7 @@ data_publicacao: "2025-09-09"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1685"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2604_09051446.pdf"
 sha256_fonte: "26e38c21a61c743d7b10a090ad8bdcdb9a2627fed24bf8f43aed2a6324d2687e"
-sha256_texto: "e7360e497435df61b7905288d76c3efc973397dc04d487bc149b53736cd0b523"
+sha256_texto: "c605df837613a63e1672fe29c658c0d8da0a8e09ae4844ad911eb4b07a11dffc"
 baixado_em: "2026-11-15"
 ---
 
@@ -64,9 +64,7 @@ I - Exigir o uso de focinheira, enforcador ou equipamentos de contenção que ca
 
 II - Impedir o acesso ou permanência do cão de assistência nos locais indicados no Art. 3º;
 
-III - Utilizar o cão de assistência para fins de defesa pessoal, ataque, intimidação
-
-ou para obtenção de qualquer vantagem ilícita;
+III - Utilizar o cão de assistência para fins de defesa pessoal, ataque, intimidação ou para obtenção de qualquer vantagem ilícita;
 
 IV - Cobrar valores ou taxas adicionais pela presença do animal.
 

@@ -14,7 +14,7 @@ data_publicacao: "2026-05-06"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1837"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2753_06053444.pdf"
 sha256_fonte: "af9fc7849a4a33ebbd52d933b6c2dfa6669736aeb7d67bcd73784c07107aab09"
-sha256_texto: "393dc9df4193cdf5bf4c71189a811fc3f3fe2e1454b4854d80620ea2a546bf09"
+sha256_texto: "2e0f60ac7b471dfdf59a8fc4e9e1ca21e0ac14658905baabb488000a7c484568"
 baixado_em: "2026-11-15"
 ---
 
@@ -34,9 +34,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 I – orientar a população sobre a necessidade da avaliação médica pré-participação esportiva (APPE) antes do início ou retomada da prática de exercícios físicos;
 
-II – alertar sobre os riscos da prática esportiva sem acompanhamento médico, especialmente quanto a lesões osteomusculares, complicações cardiovasculares
-
-e outros agravos à saúde;
+II – alertar sobre os riscos da prática esportiva sem acompanhamento médico, especialmente quanto a lesões osteomusculares, complicações cardiovasculares e outros agravos à saúde;
 
 III – incentivar a realização periódica de exames médicos, respeitando as especificidades relacionadas à idade, ao sexo e às condições clínicas dos praticantes;
 

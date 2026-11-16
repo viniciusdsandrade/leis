@@ -14,7 +14,7 @@ data_publicacao: "2023-12-20"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1272"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2198_26024713.pdf"
 sha256_fonte: "185c309ce50660522bb7592d1d2e4aa770a7de9dd468b9b28e6b28de70db1c96"
-sha256_texto: "094c025ff2d189dbe0759732a7a8b7fa1564c47bddfde6adad3565ef584bce89"
+sha256_texto: "d2162abe94004d8df4caed0ba7045b29e7637a5415e5e91de49dacb2c294c669"
 baixado_em: "2026-11-15"
 ---
 
@@ -24,9 +24,7 @@ DECRETO LEGISLATIVO Nº 509, DE 19 DE DEZEMBRO DE 2023
 
 “DISPÕE SOBRE A CONCESSÃO DO DIPLOMA PAULO GUSTAVO DE MÉRITO CULTURAL AO SENHOR RAFAEL APARECIDO DE SOUZA FRANÇA.”
 
-Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO
-
-o seguinte Decreto Legislativo:
+Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
 **Artigo 1º** - Fica concedido o DIPLOMA PAULO GUSTAVO DE MÉRITO CULTURAL ao senhor Rafael Aparecido Souza de França, pelos relevantes serviços prestados a Paulínia.
 

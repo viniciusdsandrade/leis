@@ -14,7 +14,7 @@ data_publicacao: "2023-10-16"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1085"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/164524c09b4cbd4f9063a2e17520fadb2023.pdf"
 sha256_fonte: "e3ba83b327fac9cee9832fcd262dceb8d058061780a18b3eedf266a8278181ff"
-sha256_texto: "24e2687de2c9155fb97ba997c9f24c6f04ed0df7d84a663269d985049614a344"
+sha256_texto: "b8e30761ebe44856aebe6c52b7fb5d8c4e0f59eb0502a702ba95ee12a7ab7f32"
 baixado_em: "2026-11-15"
 ---
 
@@ -34,9 +34,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Artigo 3º** - A “Maratoninha de Paulínia” será realizada anualmente no mês de outubro, preferencialmente próximo ao Dia das Crianças, em local determinado pela prefeitura ou em espaços públicos adequados.
 
-**Artigo 4º** - A “Maratoninha de Paulínia” terá um caráter recreativo e não competitivo, visando a inclusão de todas as crianças, independentemente de sua condição
-
-física ou habilidade atlética.
+**Artigo 4º** - A “Maratoninha de Paulínia” terá um caráter recreativo e não competitivo, visando a inclusão de todas as crianças, independentemente de sua condição física ou habilidade atlética.
 
 **Artigo 5º** - A “Maratoninha de Paulínia” será dividida em diferentes categorias de idade, garantindo que as atividades sejam adaptadas às necessidades e capacidade das crianças.
 

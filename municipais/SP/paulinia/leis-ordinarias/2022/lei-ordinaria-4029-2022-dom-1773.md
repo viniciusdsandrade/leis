@@ -14,7 +14,7 @@ data_publicacao: "2022-02-09"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1025"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/0b6048e84fe6aec3e06f3044687b4df82022.pdf"
 sha256_fonte: "0302192b68cc2f67d1c19e62b710e64df6be9f3874e835c123aa6fcc1276b6d4"
-sha256_texto: "6df42eef14f2a1358604fc6e7a2a268a018e6ba3cfbbd62f68bcdeddcf9839b9"
+sha256_texto: "3d4c2cde19dc6d51a0107befa17b6df6167354c6528bd0ba327471596df1832e"
 baixado_em: "2026-11-15"
 ---
 
@@ -32,9 +32,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Artigo 2º** - As despesas com a execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 
-**Artigo 3º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as
-
-disposições em contrário.
+**Artigo 3º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Paulínia, 07 de Fevereiro de 2022.
 

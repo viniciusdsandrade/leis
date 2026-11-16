@@ -14,7 +14,7 @@ data_publicacao: "2025-12-10"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1747"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2665_10052641.pdf"
 sha256_fonte: "e3e2d5b2e420810d601fdf3b1921c152f49a13ca22e6a1af23a7cde3157ee6b3"
-sha256_texto: "338f8b654834d4744464b66ce1df1694ce7c99ba51637d23ada4407b69cb9427"
+sha256_texto: "dc817f3bdeb5959c69dc7148863e9757704ef1ce7665a5f25b108a2708eec291"
 baixado_em: "2026-11-15"
 ---
 
@@ -26,9 +26,7 @@ DECRETO LEGISLATIVO Nº 761, DE 09 DE DEZEMBRO DE 2025
 
 Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
-**Art. 1º** Fica concedido o DIPLOMA 28 DE FEVEREIRO à Driver Auto Escola – Centro
-
-de Formação de Condutores, pelos relevantes serviços prestados a Paulínia.
+**Art. 1º** Fica concedido o DIPLOMA 28 DE FEVEREIRO à Driver Auto Escola – Centro de Formação de Condutores, pelos relevantes serviços prestados a Paulínia.
 
 **Art. 2º** A Câmara Municipal fará, solenemente, a entrega do título à homenageada.
 

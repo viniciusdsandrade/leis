@@ -14,7 +14,7 @@ data_publicacao: "2024-05-08"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1359"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2284_08054923.pdf"
 sha256_fonte: "511372ea37d6fd251ab1d5947d71c3cc3049dd26296ce6f54498625cedf700a3"
-sha256_texto: "c652887e932d393ed533b21c908453308b9ef72b4dbcdcf450c70cc753eea4f1"
+sha256_texto: "ced2bf8ee91c2ca067a6c0642e24a73206552bc1d94da0b93d6580c9ac3b3b15"
 baixado_em: "2026-11-15"
 ---
 
@@ -66,9 +66,7 @@ d) Percentual concluído da obra.
 
 **Art. 6º** - A plataforma digital também poderá ser disponibilizada em formato para smartphones, como forma de ampliar o seu alcance e a adesão do cidadão.
 
-**Art. 7º** - De forma a permitir à sociedade o conhecimento do link de Acompanhamento das Obras Públicas, a Plataforma Digital poderá ser divulgada de forma ampla e irrestrita nos meios de comunicação disponíveis e ter ampla visibilidade no Portal
-
-da Transparência do Município.
+**Art. 7º** - De forma a permitir à sociedade o conhecimento do link de Acompanhamento das Obras Públicas, a Plataforma Digital poderá ser divulgada de forma ampla e irrestrita nos meios de comunicação disponíveis e ter ampla visibilidade no Portal da Transparência do Município.
 
 **Art. 8º** - As despesas decorrentes com a presente Lei decorrerão por conta de verbas próprias do orçamento vigente, suplementadas se necessário.
 

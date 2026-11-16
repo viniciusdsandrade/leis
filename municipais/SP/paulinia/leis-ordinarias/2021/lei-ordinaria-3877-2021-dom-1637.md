@@ -14,7 +14,7 @@ data_publicacao: "2021-05-20"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/762"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/96e44beaa18a0f5955e6489fd7cb50f52021.pdf"
 sha256_fonte: "1ab8b04d0df7fe3f92db691b2451cf7ae91bc9d1448f0397e3dde4bcdc854cfd"
-sha256_texto: "353a0b025d39c0a9cae87067cfd8e126c859ceb0a3f719a315149e7746c7b635"
+sha256_texto: "4ade0a299d6201f464bafc480b4343f51a3277cd65a6060611d9d0805bd480f8"
 baixado_em: "2026-11-15"
 ---
 
@@ -28,9 +28,7 @@ LEI Nº 3877, DE 17 DE MAIO DE 2021
 
 A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO e PROMULGO a seguinte Lei:
 
-**Artigo 1º** - Esta Lei cria o Programa Rua do Ciclismo no âmbito do Município de Paulínia que tem como objetivo desenvolver e ordenar a prática de ciclismo nas
-
-vias e logradouros públicos de forma segura.
+**Artigo 1º** - Esta Lei cria o Programa Rua do Ciclismo no âmbito do Município de Paulínia que tem como objetivo desenvolver e ordenar a prática de ciclismo nas vias e logradouros públicos de forma segura.
 
 **Artigo 2º** - São objetivos específicos do Programa:
 

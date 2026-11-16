@@ -14,7 +14,7 @@ data_publicacao: "2024-04-04"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1335"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2260_05051202.pdf"
 sha256_fonte: "38c203b64d4125b144191ae78b5575559dc73fbbf116e944bc53fbee73c7df27"
-sha256_texto: "c481d53ba8b07633b5b7edbf84db15bdcfe85136c3a0ac8eb5707bf26a316748"
+sha256_texto: "f07723ac26fda9ab6d364bd07c823b97b8e17ed0aa6097039836c3df87fe241e"
 baixado_em: "2026-11-15"
 ---
 
@@ -126,9 +126,7 @@ III - a situação econômica do infrator;
 
 IV - a reincidência.
 
-**Art. 18** - São passíveis de punição, na forma da presente Lei, a Administração direta e indireta e seus agentes públicos; agentes políticos; servidores públicos, os
-
-concessionários, permissionários e qualquer contratado e delegatário do Município de Paulínia; entidades parceiras e conveniadas com o Município de Paulínia; escolas privadas com funcionamento autorizado pelo Município de Paulínia; organizações religiosas; e, ainda, qualquer instituição, grupo de pessoas ou particulares, os cidadãos e qualquer organização social ou empresa, com ou sem fins lucrativos, de caráter privado, instaladas no Município de Paulínia, que praticarem as infrações administrativas descritas nesta Lei.
+**Art. 18** - São passíveis de punição, na forma da presente Lei, a Administração direta e indireta e seus agentes públicos; agentes políticos; servidores públicos, os concessionários, permissionários e qualquer contratado e delegatário do Município de Paulínia; entidades parceiras e conveniadas com o Município de Paulínia; escolas privadas com funcionamento autorizado pelo Município de Paulínia; organizações religiosas; e, ainda, qualquer instituição, grupo de pessoas ou particulares, os cidadãos e qualquer organização social ou empresa, com ou sem fins lucrativos, de caráter privado, instaladas no Município de Paulínia, que praticarem as infrações administrativas descritas nesta Lei.
 
 **Art. 19** – Verificada, por qualquer meio, a prática dos atos discriminatórios a que se refere esta Lei, deverá ser aberto processo administrativo com as seguintes finalidades:
 
