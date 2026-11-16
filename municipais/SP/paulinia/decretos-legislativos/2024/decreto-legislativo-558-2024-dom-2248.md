@@ -1,0 +1,45 @@
+---
+titulo: "Decreto Legislativo nº 558, de 12 de março de 2024"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "558"
+data: "2024-03-12"
+municipio: "Paulínia"
+uf: "SP"
+codigo_ibge: "3536505"
+ementa: "DISPÕE SOBRE A CONCESSÃO DO DIPLOMA FRANCISCO CÂNDIDO XAVIER (CHICO XAVIER) DE MÉRITO SOCIAL AO PROJETO ASA – AMOR, SUPERAÇÃO, AUTISMO."
+versao_texto: "texto original (não consolidado); recortado da edição do Diário Oficial do Município (PDF do portal da Prefeitura de Paulínia), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Diário Oficial do Município de Paulínia, edição nº 2248, de 15/03/2024, p. 10"
+data_publicacao: "2024-03-15"
+fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1322"
+fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2248_03045214.pdf"
+sha256_fonte: "a87fb0edf29705eb48d518bf8edeba8a3a0b42c23cdf35e686f77132887215b9"
+sha256_texto: "c7b998c50b926e24adef8bf9874fcfc3a29e1543ab508a24c01ec18ff0802889"
+baixado_em: "2026-11-15"
+---
+
+# Decreto Legislativo nº 558, de 12 de março de 2024
+
+DECRETO LEGISLATIVO Nº 558, DE 12 DE MARÇO DE 2024
+
+“DISPÕE SOBRE A CONCESSÃO DO DIPLOMA FRANCISCO CÂNDIDO XAVIER (CHICO XAVIER) DE MÉRITO SOCIAL AO PROJETO ASA – AMOR, SUPERAÇÃO, AUTISMO.”
+
+Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
+
+**Artigo 1º** - Fica concedido o DIPLOMA FRANCISCO CÂNDIDO XAVIER (CHICO XAVIER) DE MÉRITO SOCIAL ao PROJETO ASA – Amor, Superação, Autismo, pelas relevantes obras sociais no município de Paulínia.
+
+**Artigo 2º** - A Câmara Municipal fará, solenemente, a entrega do diploma ao homenageado.
+
+**Artigo 3º** - Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Prédio Ulysses Guimarães, 12 de março de 2024
+
+VEREADOR EDILSINHO RODRIGUES
+
+PRESIDENTE
+
+Publicado na Secretaria. Data supra.
+
+RODRIGO ANTONIO QUAIATTI
+
+DIRETOR DO DEPARTAMENTO LEGISLATIVO

@@ -1,4 +1,5 @@
 import sys
+import pathlib
 import unittest
 from pathlib import Path
 
@@ -183,6 +184,14 @@ class Recorte(unittest.TestCase):
         self.assertIsNone(recorte)
         self.assertIn("data do fecho (2026-11-12)", motivo)
 
+    def test_rodape_da_pagina_dentro_do_recorte_retém(self):
+        for rodape in ("Semanário Oficial | Paulínia | Edição 1.712 | Paulínia, 18 de Outubro de 2021 | 3",
+                       "Diário Oficial | | Edição 2.881 | Paulínia, 13 de Novembro de 2026 | 2"):
+            texto = LEI.replace("Art. 2º Esta Lei", rodape + "\nArt. 2º Esta Lei")
+            (_, recorte, motivo), = atos(texto)
+            self.assertIsNone(recorte)
+            self.assertIn("rodapé da página", motivo)
+
     def test_outra_publicacao_intercalada_retém(self):
         texto = DECRETO.replace("ARTIGO 2º", "Objeto: aquisição de material.\nARTIGO 2º")
         (_, recorte, motivo), = atos(texto)
@@ -280,6 +289,60 @@ class Gravacao(unittest.TestCase):
     def test_ementa_ausente_quando_o_ato_abre_com_o_preambulo(self):
         self.assertEqual(p.ementa_de("DECRETO Nº 1\n\nFulano, Prefeito, no uso de suas atribuições, DECRETA:\n\nArt. 1º X."), "")
 
+    def test_ementa_partida_em_dois_paragrafos_segue_ate_fechar_as_aspas(self):
+        corpo = ("DECRETO Nº 8682 DE 1 DE JULHO DE 2024\n\n“DISPÕE SOBRE A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR À\n\n"
+                 "DOTAÇÃO DO ORÇAMENTO VIGENTE, E DÁ OUTRAS PROVIDÊNCIAS”.\n\nO cidadão FULANO, Prefeito, D E C R E T A:\n\nArt. 1º X.")
+        self.assertEqual(p.ementa_de(corpo),
+                         "DISPÕE SOBRE A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR À DOTAÇÃO DO ORÇAMENTO VIGENTE, E DÁ OUTRAS PROVIDÊNCIAS.")
+
+    def test_ementa_com_aspas_nunca_fechadas_fica_no_primeiro_paragrafo(self):
+        corpo = ("DECRETO Nº 1\n\n“DECLARA DE UTILIDADE PÚBLICA A RUA X.\n\n"
+                 "O cidadão FULANO, Prefeito Municipal de Paulínia, usando de suas atribuições, DECRETA:\n\nArt. 1º X.")
+        self.assertEqual(p.ementa_de(corpo), "DECLARA DE UTILIDADE PÚBLICA A RUA X.")
+
+    def test_ementa_em_caixa_alta_sem_aspas_segue_enquanto_durar_a_caixa_alta(self):
+        corpo = ("LEI Nº 1\n\nINSTITUI OS JOGOS MUNICIPAIS ESPORTIVOS DE\n\nAREIA.\n\n"
+                 "A Câmara Municipal APROVOU e eu, Prefeito, SANCIONO e PROMULGO a seguinte Lei:\n\nArt. 1º X.")
+        self.assertEqual(p.ementa_de(corpo), "INSTITUI OS JOGOS MUNICIPAIS ESPORTIVOS DE AREIA.")
+
+    def test_ementa_depois_da_nota_do_projeto_sem_o_parentese_de_abertura(self):
+        corpo = ("LEI Nº 1\n\nProjeto de Lei Nº 67/2025 de autoria do Ver. Fulano)\n\n“DISPÕE SOBRE A PRESENÇA DE DOULA.”\n\n"
+                 "A Câmara Municipal APROVOU e eu, Prefeito, SANCIONO e PROMULGO a seguinte Lei:\n\nArt. 1º X.")
+        self.assertEqual(p.ementa_de(corpo), "DISPÕE SOBRE A PRESENÇA DE DOULA.")
+
+    def test_ementa_guarda_as_aspas_de_dentro(self):
+        corpo = "DECRETO Nº 1\n\n“REGULAMENTA A LEI Nº 2, QUE “DISPÕE SOBRE X”.”\n\nFULANO, Prefeito, DECRETA:\n\nArt. 1º X."
+        self.assertEqual(p.ementa_de(corpo), "REGULAMENTA A LEI Nº 2, QUE “DISPÕE SOBRE X”.")
+
+    def test_ementa_cuja_continuacao_traz_so_o_ano_ou_poucas_minusculas(self):
+        corpo = ("DECRETO Nº 8662 DE 04 DE JUNHO DE 2024\n\n“DISPÕE SOBRE A REVOGAÇÃO DO DECRETO Nº 8661, DE 28 DE MAIO DE\n\n2024”\n\n"
+                 "O cidadão FULANO, Prefeito Municipal de Paulínia, no uso da atribuição, D E C R E T A:\n\nArt. 1º X.")
+        self.assertEqual(p.ementa_de(corpo), "DISPÕE SOBRE A REVOGAÇÃO DO DECRETO Nº 8661, DE 28 DE MAIO DE 2024")
+        corpo = ("LEI Nº 1\n\n“AUTORIZA O PODER EXECUTIVO A CONCEDER VERBA À TÍTULO DE\n\nSUBVENÇÃO SOCIAL ÀS ASSOCIAÇÕES DE PAIS E MESTRES - APMs\n\n"
+                 "DA REDE MUNICIPAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.”\n\nA Câmara Municipal APROVOU e eu, Prefeito, SANCIONO a seguinte Lei:")
+        self.assertEqual(p.ementa_de(corpo), "AUTORIZA O PODER EXECUTIVO A CONCEDER VERBA À TÍTULO DE SUBVENÇÃO SOCIAL ÀS ASSOCIAÇÕES "
+                                             "DE PAIS E MESTRES - APMs DA REDE MUNICIPAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.")
+
+    def test_ementa_depois_da_nota_do_projeto_sem_o_parentese_de_fecho(self):
+        corpo = ("LEI Nº 1\n\n(Projeto de Lei nº 06/2024 de autoria do Ver. Fulano\n\n“DECLARA DE UTILIDADE PÚBLICA O INSTITUTO X.”\n\n"
+                 "A Câmara Municipal APROVOU e eu, Prefeito, SANCIONO e PROMULGO a seguinte Lei:\n\nArt. 1º X.")
+        self.assertEqual(p.ementa_de(corpo), "DECLARA DE UTILIDADE PÚBLICA O INSTITUTO X.")
+
+    def test_republicacao_cede_o_lugar_a_edicao_mais_antiga(self):
+        import datetime as dt, tempfile
+        (ato, recorte, _), = atos(LEI)
+        md = p.montar_md(ato, self.EDICAO, *p.dom.para_md(recorte), "a" * 64, dt.date(2026, 11, 15))
+        with tempfile.TemporaryDirectory() as pasta:
+            gravado = pathlib.Path(pasta) / "lei-ordinaria-4797-2026-dom-2881.md"
+            gravado.write_text(md, encoding="utf-8")
+            self.assertEqual(p.edicao_do_arquivo(gravado), 2881)
+            falha = p.republicacao(gravado, pathlib.Path("lei-ordinaria-4797-2026-dom-2879.md"), "Lei Ordinária", ato)
+        self.assertEqual(falha, {
+            "edicao": "2881", "data_edicao": "2026-11-13",
+            "fonte": "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1965",
+            "tipo": "Lei Ordinária", "numero": ato["numero"], "data": ato["data"],
+            "motivo": "ato já recortado de outra edição (lei-ordinaria-4797-2026-dom-2879.md); republicação a conferir"})
+
 
 class DuasLeituras(unittest.TestCase):
     FLUXO = p.so_letras("Art. 1º Fica criado o conselho, com as atri-\nbuições desta Lei.\nArt. 2º Esta Lei entra em vigor.\n"
@@ -308,6 +371,12 @@ class Geometria(unittest.TestCase):
         self.assertEqual(p.mancha(841.9, primeira), (169.0, 785.0))
         interna = [(30.0, 26.0, 80.0, 36.0, "GABRIEL"), (30.0, 801.0, 70.0, 810.0, "Diário"), (75.0, 801.0, 110.0, 810.0, "Oficial"),
                    (115.0, 801.0, 118.0, 810.0, "|"), (125.0, 801.0, 160.0, 810.0, "Edição"), (165.0, 801.0, 190.0, 810.0, "2.881")]
+        self.assertEqual(p.mancha(841.9, interna), (15.0, 800.0))
+
+    def test_mancha_para_no_rodape_que_ainda_diz_semanario(self):
+        interna = [(30.0, 26.0, 80.0, 36.0, "GABRIEL"), (30.0, 801.0, 70.0, 810.0, "Semanário"), (75.0, 801.0, 110.0, 810.0, "Oficial"),
+                   (115.0, 801.0, 118.0, 810.0, "|"), (120.0, 801.0, 150.0, 810.0, "Paulínia"), (152.0, 801.0, 154.0, 810.0, "|"),
+                   (160.0, 801.0, 190.0, 810.0, "Edição"), (195.0, 801.0, 220.0, 810.0, "1.712")]
         self.assertEqual(p.mancha(841.9, interna), (15.0, 800.0))
 
     def test_carimbo_da_assinatura_digital_sai_e_o_texto_fica(self):

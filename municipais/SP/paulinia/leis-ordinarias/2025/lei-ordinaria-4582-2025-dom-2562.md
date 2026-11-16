@@ -1,0 +1,419 @@
+---
+titulo: "Lei nº 4.582, de 7 de julho de 2025"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "4582"
+data: "2025-07-07"
+municipio: "Paulínia"
+uf: "SP"
+codigo_ibge: "3536505"
+ementa: "DISPÕE SOBRE A INSTITUIÇÃO DE DIRETRIZES A SEREM OBSERVADAS NA ELABORAÇÃO E EXECUÇÃO DA LEI ORÇAMENTÁRIA DO MUNICÍPIO PARA O EXERCÍCIO DE 2026 E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "texto original (não consolidado); recortado da edição do Diário Oficial do Município (PDF do portal da Prefeitura de Paulínia), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Diário Oficial do Município de Paulínia, edição nº 2562, de 11/07/2025, p. 5"
+data_publicacao: "2025-07-11"
+fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1642"
+fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2562_11053108.pdf"
+sha256_fonte: "6f8d903adab1bf9bd50dacef8afc671f42f57fe46462b08ef6c883c178c32a86"
+sha256_texto: "9899897930fcbc97b1e893d4fc2f74a5c25558ecc19f7b7ec97cd5dbb308870e"
+baixado_em: "2026-11-15"
+---
+
+# Lei nº 4.582, de 7 de julho de 2025
+
+LEI Nº 4.582, DE 07 DE JULHO DE 2025
+
+(Projeto de Lei Nº 44/2025 de autoria do Executivo)
+
+“DISPÕE SOBRE A INSTITUIÇÃO DE DIRETRIZES A SEREM OBSERVADAS NA ELABORAÇÃO E EXECUÇÃO DA LEI ORÇAMENTÁRIA DO MUNICÍPIO PARA O EXERCÍCIO DE 2026 E DÁ OUTRAS PROVIDÊNCIAS.”
+
+A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO e PROMULGO a seguinte Lei:
+
+#### CAPÍTULO I
+
+DAS DIRETRIZES GERAIS
+
+**Art. 1º** Esta Lei estabelece as diretrizes gerais que nortearão a elaboração do Orçamento do Município de Paulínia, Estado de São Paulo, para o exercício financeiro de 2026, observados os princípios estabelecidos na Constituição Federal de 1988, na Constituição Estadual, na Lei Federal nº 4.320 de 17 de março de 1964, na Lei Complementar nº 101/2000 – Lei de Responsabilidade Fiscal e na Lei Orgânica do Município, compreendendo orientações para:
+
+I - a elaboração da proposta orçamentária;
+
+II - a estrutura e a organização do orçamento;
+
+III - as alterações na legislação tributária do Município;
+
+IV - as despesas do Município com pessoal e encargos;
+
+V - a execução orçamentária;
+
+VI - as disposições gerais.
+
+**Art. 2º** A proposta orçamentária não conterá dispositivo estranho à previsão da receita e à fixação da despesa, face à Constituição Federal e a Lei de Responsabilidade Fiscal, atenderá a um processo de planejamento permanente, à descentralização, à participação comunitária e conterá uma reserva de contingência.
+
+**§ 1º** A proposta orçamentária conterá o orçamento fiscal referente aos Poderes Executivo e Legislativo Municipal, seus fundos e Entidades da Administração Direta e Indireta;
+
+**§ 2º** A proposta orçamentária conterá o orçamento da seguridade social, abrangendo todas as entidades de saúde, previdência e assistência social;
+
+**§ 3º** O Poder Legislativo bem como as Autarquias e Fundos Municipais, encaminharão ao Poder Executivo, sua proposta orçamentária até o dia 31 de agosto, e com limites estabelecidos de conformidade com a Emenda Constitucional nº 25/2000 e Emenda Constitucional nº 58/2009, e dispositivos da Lei Complementar nº 101/2000 – Lei de Responsabilidade Fiscal, quando se tratar do Poder Legislativo e dentro das previsões de suas receitas estimadas quando se tratar de Autarquias e Fundos Municipais.
+
+**§ 4º** Para fins de atendimento ao parágrafo anterior, o Poder Executivo encaminhará ao Legislativo, até 31 de julho, estudos e estimativas das receitas para o exercício subsequente, conforme Artigo 12, § 3º da Lei de Responsabilidade Fiscal.
+
+**Art. 3º** A Lei Orçamentária Anual disporá, na fixação da despesa e na estimativa da receita, atenção aos princípios de:
+
+I – Prioridade de investimentos nas áreas sociais;
+
+II – Austeridade na gestão dos recursos públicos;
+
+III – Modernização na ação governamental;
+
+IV – Princípio do equilíbrio orçamentário, tanto na previsão como na execução
+
+orçamentária.
+
+**Art. 4º** Para atender o disposto na Lei de Responsabilidade Fiscal, o Poder Executivo se incumbirá do seguinte:
+
+I – Estabelecer programação financeira e o cronograma de execução mensal de desembolso por natureza de despesa, considerando a estimativa de arrecadação, no prazo previsto no artigo 8º da Lei Complementar nº 101/2000 - Lei de Responsabilidade Fiscal;
+
+II – O desdobramento da receita prevista deverá ser realizado em metas bimestrais de arrecadação e no prazo exigido;
+
+III – Publicar até 30 (trinta) dias após o encerramento do bimestre, Relatório Resumido da Execução Orçamentária - RREO, verificando o alcance das metas bimestrais de arrecadação, e se não atingidas deverá realizar a limitação de empenhos e da movimentação financeira, até restabelecimento do equilíbrio orçamentário e financeiro, observando-se os critérios estabelecidos na presente Lei;
+
+IV – O Poder Executivo emitirá ao final de cada quadrimestre, Relatório de Gestão Fiscal - RGF, avaliando o cumprimento das Metas Fiscais no período, em audiência pública, perante ao Poder Legislativo, conforme exigido pelo artigo 9º, § 4º da Lei Complementar nº 101/2000 - Lei de Responsabilidade Fiscal;
+
+V – O desembolso dos recursos financeiros consignados a Câmara Municipal de Paulínia, será feito até o dia 20 (vinte) de cada mês, sob forma de duodécimos, ou de comum acordo entre os Poderes, em parcela única, atendendo-se o disposto no artigo 20, § 5º da Lei Complementar nº 101/2000 - Lei de Responsabilidade Fiscal, e as condições da Emenda Constitucional nº 25, de 14 de fevereiro de 2000 e Emenda Constitucional nº 58, de 23 de setembro de 2009.
+
+VI – O cronograma de desembolso dará prioridade ao pagamento de despesas de caráter continuado do município em relação às despesas de caráter discricionário e respeitará todas as vinculações constitucionais e legais existentes, além de especial atenção às despesas críticas à vida humana.
+
+VII – O Plano Plurianual, Lei de Diretrizes Orçamentárias, Lei Orçamentária Anual, Prestações de Contas, Pareceres do Tribunal de Contas do Estado de São Paulo, serão amplamente divulgados, inclusive na Internet, e ficarão à disposição da comunidade;
+
+VIII – A participação popular, nas audiências públicas de apresentação e discussão de planos governamentais, será amplamente incentivada, através dos meios de comunicação disponíveis na administração.
+
+#### CAPÍTULO II
+
+DAS METAS FISCAIS
+
+**Art. 5º** A Lei Orçamentária Anual poderá detalhar os projetos e atividades correspondentes a classificação funcional-programática em sub-projetos e sub-atividades.
+
+**Art. 6º** A proposta orçamentária anual atenderá as diretrizes gerais e os princípios de unidade, universalidade e anualidade, não podendo o montante das despesas fixadas excederem a previsão da receita para o exercício.
+
+**Art. 7º** As receitas e as despesas serão estimadas tomando-se por base o disposto no artigo 12 da Lei Complementar nº 101/00, índice de inflação apurado nos últimos 12 (doze) meses, a tendência e o comportamento da arrecadação municipal mês a mês, tendo em vista principalmente os reflexos dos planos de estabilização econômica editados pelos Governos Federal e Estadual e as intervenções feitas na economia por meio de políticas governamentais, na conformidade do Demonstrativo II, que dispõe sobre as Metas Fiscais.
+
+**§ 1º** Na estimativa das receitas deverão ser consideradas, também, as eventuais modificações da legislação tributária, para melhoria da arrecadação, e ainda:
+
+I - a atualização dos elementos físicos das unidades imobiliárias;
+
+II - a edição de uma planta genérica de valores de forma a minimizar a diferença entre as alíquotas nominais e as efetivas;
+
+III - a expansão do número de contribuintes;
+
+IV - a atualização do cadastro imobiliário fiscal;
+
+V - atuação rigorosa dos órgãos de fiscalização;
+
+VI - aperfeiçoamento da administração dos tributos municipais;
+
+VII - outras alterações, no sentido de melhoria da receita.
+
+**§ 2º** As taxas de polícia administrativa e de serviços públicos deverão remunerar a atividade municipal de maneira a equilibrar as respectivas despesas.
+
+**§ 3º** Nenhum compromisso será assumido sem que haja saldo em dotação orçamentária e saldos financeiros previstos na programação de desembolso. As inscrições dos restos a pagar obedecerão ao montante das disponibilidades de caixa, visando evitar-se déficit orçamentário e financeiro com atendimento ao artigo 42
+
+da Lei Complementar nº 101/2000 - Lei de Responsabilidade Fiscal.
+
+**Art. 8º** Os demonstrativos de metas, planejamentos, riscos fiscais, estrutura de registros e unidades orçamentárias e executoras, que trata a legislação pertinente, integrarão a presente Lei conforme disposto:
+
+I – Anexo de Metas e Riscos Fiscais, compreendendo:
+
+Demonstrativo de Riscos Fiscais;
+
+Demonstrativo I – Metas anuais;
+
+Demonstrativo II – Avaliação do cumprimento das metas fiscais do exercício anterior;
+
+Demonstrativo III – Metas fiscais atuais comparadas com as fixadas nos três exercícios anteriores;
+
+Demonstrativo IV – Evolução do patrimônio líquido;
+
+Demonstrativo V – Origem e aplicação dos recursos obtidos com a alienação de ativos;
+
+Demonstrativo VI - Avaliação da situação financeira e atuarial do regime próprio de previdência dos servidores públicos;
+
+Demonstrativo VII – Estimativa e compensação da renúncia da receita;
+
+Demonstrativo VIII – Margem de expansão das despesas obrigatórias de caráter continuado.
+
+**§ 1º** A descrição dos programas governamentais por metas de indicadores e custos, bem como a descrição das ações dos programas por unidades executoras e ações voltadas ao desenvolvimento dos programas governamentais, serão enviadas juntamente com o projeto de lei do Plano Plurianual para o quadriênio 2026- 2029, conforme determinar os anexos I, II e III desse Plano Plurianual para o exercício financeiro de 2026.
+
+**§ 2º** As unidades orçamentárias, quando da elaboração de suas propostas parciais, deverão atender a estrutura orçamentária e as determinações emanadas pelos setores competentes da área, abrangendo o seu diagnóstico básico, suas diretrizes gerais e prioridades, além da necessária compatibilidade com o Plano Plurianual.
+
+**§ 3º** Para cumprimento do disposto no § único, do artigo 48, da Lei Complementar nº 101/00 – LRF, o Executivo realizará audiências públicas para discussão das metas e prioridades, antes do envio do projeto à Câmara de Vereadores, no prazo fixado no artigo 45, inciso IX, da LOM – Lei Orgânica do Município de Paulínia, ficando garantida a participação popular.
+
+#### CAPÍTULO III
+
+DO ORÇAMENTO FISCAL
+
+**Art. 9º** O Orçamento Fiscal abrangerá os Poderes Executivo e Legislativo, e as entidades da Administração Direta e Indireta, e serão elaborados de conformidade com a Portaria nº 42 do Ministério do Orçamento e da Gestão e Portaria Interministerial nº 163, de 04 de maio de 2001, e suas posteriores alterações, quanto à natureza da despesa.
+
+**Art. 10.** Em atendimento à Lei Complementar nº 131, de 27 de maio de 2009, a transparência será assegurada também, mediante liberação ao pleno conhecimento e acompanhamento da sociedade, em tempo real, de informações pormenorizadas sobre a execução orçamentária e financeira em meios eletrônicos, compreendendo:
+
+I - quanto à receita: o lançamento e o recebimento de toda a receita, orçamentária ou extra orçamentária;
+
+II - quanto à despesa: todos os atos praticados no decorrer da execução da despesa, no momento de sua realização, com a disponibilização mínima dos dados referentes ao número do correspondente processo, ao bem fornecido ou ao serviço prestado, a pessoa física ou jurídica beneficiária do pagamento e, quando for o caso, ao procedimento licitatório realizado;
+
+Parágrafo Único. O detalhamento das informações sobre a receita e a despesa, deverá atender o disposto no Decreto Federal nº 10.540, de 05 de novembro de 2020.
+
+**Art. 11.** No exercício de 2026, as despesas com pessoal e encargos dos Poderes Executivo e Legislativo poderão ter acréscimo real em relação aos créditos correspondentes, e os aumentos ficarão condicionados à existência de dotação orçamentária, expressa autorização legislativa, e às disposições contidas no artigo 169 da Constituição Federal, no artigo 38 do Ato das Disposições Constitucionais Transitórias, e nos artigos 18, 19 e 20 da Lei Complementar nº 101/00 – Lei de Responsabilidade Fiscal , não podendo exceder o limite prudencial de 51,30%
+
+(cinquenta e um inteiros e trinta décimos percentuais) ao Executivo e 6,00% (seis por cento) ao Legislativo da Receita Corrente Líquida.
+
+**Art. 12.** Na hipótese de ser atingido o limite prudencial de que trata o art. 22, da Lei Complementar Federal n° 101, de 2000, a convocação para prestação de horas suplementares de trabalho somente poderá ocorrer, na execução de programas de saúde, educação e segurança pública, destinadas ao atendimento de relevante interesse público, que não possam sofrer interrupção e/ ou voltadas à resolução de situações emergenciais de risco ou de prejuízo para a sociedade, devidamente comprovado.
+
+**Art. 13.** Na elaboração da proposta orçamentária serão atendidos preferencialmente os projetos e atividades constantes nas Metas e Prioridades do Plano Plurianual para o exercício de 2026 podendo na medida das necessidades, serem elencados novos programas, desde que financiados com recursos próprios ou de outras esferas do governo.
+
+**Art. 14.** Poderá ser criado no exercício de 2026 cargos para suprir as necessidades de demanda dos serviços municipais, reestruturar e alterar os cargos já existentes, bem como realização de concurso público ou processo seletivo para preenchimento de cargos ou funções públicas.
+
+**§ 1º** Fica o Poder Executivo autorizado ao que dispõe o § 1º do artigo 169 da Constituição Federal, desde que haja prévia dotação orçamentária para o atendimento, obedecidos os limites e normas legais, e mediante lei específica, quando necessária.
+
+**§ 2º** A lei que criar, reestruturar ou alterar cargos deverá demonstrar o impacto orçamentário e financeiro, nos termos dos artigos 16 e 17 da Lei Complementar nº 101/00, ressalvando-se o disposto no § 6º do artigo 17 da mesma lei.
+
+**Art. 15.** O Município aplicará, no mínimo, 25% (vinte e cinco por cento) das receitas resultantes de impostos na manutenção e desenvolvimento do ensino, nos termos do artigo 212 da Constituição Federal, bem como atenderá os dispositivos da Emenda Constitucional nº 29, de 13 de setembro de 2000 e Lei Complementar nº 141, de 13 de janeiro de 2012 e aplicará obrigatoriamente, no mínimo, 15% (quinze por cento) da mesma base de receitas em ações de saúde pública.
+
+**§ 1º** Os recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, serão utilizados nos termos da legislação vigente, com atendimento prioritário à educação básica, destacando a valorização do magistério, abrangendo toda à educação básica de responsabilidade do município.
+
+**§ 2º** Os recursos transferidos pelo governo federal e estadual, para aplicação nas áreas da educação, saúde e assistência social, deverão ser utilizados no exercício de recebimento, salvo situações devidamente justificáveis.
+
+**Art. 16.** As transferências financeiras a outras entidades da Administração Pública Municipal serão destinadas ao atendimento de despesas decorrentes da execução orçamentária, na hipótese de insuficiência de recursos próprios para sua realização.
+
+Parágrafo Único. Os repasses previstos no caput serão efetuados em valores decorrentes da própria lei orçamentária anual e da abertura de créditos adicionais, suplementares e especiais, autorizados em lei, e dos créditos adicionais extraordinários.
+
+#### CAPÍTULO IV
+
+DAS RECEITAS E LEGISLAÇÃO TRIBUTÁRIA
+
+**Art. 17.** Na estimativa das receitas deverão ser consideradas, ainda, as modificações da legislação tributária, incumbindo à Administração observar o seguinte:
+
+I – A atualização dos elementos físicos das unidades imobiliárias;
+
+II – A edição de uma planta genérica de valores de forma a minimizar a diferença entre as alíquotas nominais e as efetivas;
+
+III – A expansão do número de contribuintes;
+
+IV – A atualização do cadastro imobiliário fiscal.
+
+V - atuação rigorosa dos órgãos de fiscalização;
+
+VI - aperfeiçoamento da administração dos tributos municipais;
+
+VII - outras alterações, no sentido de melhoria da receita.
+
+**§ 1º** As taxas de polícia administrativa e de serviços públicos deverão remunerar a atividade municipal de maneira a equilibrar as respectivas despesas.
+
+**§ 2º** Ao crédito tributário e não-tributário inscrito em dívida ativa, cujo recolhimento se dá por meio do parcelamento, será aplicado 1% (um por cento) ao mês a título de acréscimos financeiros do parcelamento, de modo a se obter o valor da parcela mensal, o qual permanecerá constante da primeira até a última, desde que recolhidas nos respectivos vencimentos fixados, consoante dispõe o artigo 214, do Código Tributário Municipal (Lei Complementar nº 88/2022).
+
+**§ 3º** Os créditos vencidos da Fazenda Municipal de qualquer natureza, inclusive os fiscais e tributários, incluídas as multas de qualquer espécie, serão atualizados mensalmente de acordo com a Taxa Referencial do Sistema Especial de Liquidação e de Custódia (Selic) e, em caso de sua extinção, por outro índice federal que vier a substituí-lo, consoante dispõe o artigo 138, do Código Tributário Municipal.
+
+**§ 4º** Fica mantida no Município de Paulínia, a UFP - Unidade Fiscal de Paulínia, que servirá de índice de correção dos valores fiscais concernentes aos tributos municipais não vencidos, nos termos do art. 141, do Código Tributário Municipal.
+
+**Art. 18.** A concessão ou ampliação de incentivos ou benefícios de natureza tributária deverão estar autorizadas em lei municipal, e atender ao disposto no artigo 14 e incisos da Lei Complementar nº 101/2000 - Lei de Responsabilidade Fiscal, obedecidos os cuidados mencionados no § 2º, quando for o caso.
+
+Parágrafo Único. A concessão ou ampliação de incentivos ou benefícios de natureza tributária somente será pleiteada ao Legislativo, nos seguintes casos:
+
+I - para fins de atendimento a objetivos sociais;
+
+II - como incentivo à geração de emprego e renda;
+
+III - para fins de melhoria da arrecadação.
+
+**Art. 19.** O Poder Executivo poderá enviar ao Legislativo projeto de Lei concedendo desconto parcial, progressivo ou total e isenção total do pagamento de multa e juros de débitos inscritos em Dívida Ativa Tributária, em caráter geral, através do programa de Refinanciamento da Dívida, bem como concessão de moratória, abrindo novos prazos para parcelamento.
+
+#### CAPÍTULO V
+
+DAS SUBVENÇÕES A ENTIDADES
+
+**Art. 20.** É vedada a inclusão de quaisquer recursos do Município, na lei orçamentária e nos créditos adicionais, para clubes, associações de servidores e de dotações a título de subvenções sociais, ressalvadas aquelas destinadas a entidades privadas, de natureza continuada, sem fins lucrativos, de atendimento ao público nas áreas de assistência social, saúde ou educação ou que estejam registradas no Conselho Municipal de Assistência Social – CMAS, desde que compatíveis com os programas constantes da Lei Orçamentária Anual, mediante parceria, ajuste ou congênere, pelo qual fiquem claramente definidos os deveres e obrigações de cada parte, a forma e os prazos para prestação de contas.
+
+**§ 1º** As entidades privadas beneficiadas com recursos públicos municipais, a qualquer título, submeter-se-ão à fiscalização do Poder Público com a finalidade de verificar o cumprimento de metas e objetivos para os quais receberam os recursos.
+
+**§ 2º** Sem prejuízo da observância das condições estabelecidas neste artigo, as dotações incluídas na Lei Orçamentária para sua execução, dependerão ainda de:
+
+I – Normas a serem observadas na concessão de auxílios, prevendo-se cláusula de reversão no caso do desvio de finalidade;
+
+II – Identificação do beneficiário e do valor transferido no respectivo convênio, ajuste ou congênere.
+
+**§ 3º** A entidade beneficiada deverá, obrigatoriamente, depositar estes recursos em conta especificamente aberta para este fim, sob pena de suspensão dos repasses no caso de desobediência.
+
+**§ 4º** Fica vedada a concessão de ajuda financeira às entidades que não prestarem contas dos recursos anteriormente recebidos, assim como as que não tiverem suas contas aprovadas pelo Executivo Municipal.
+
+**§ 5º** As disposições do caput deste artigo serão observadas sem prejuízo do cumprimento das demais normas da legislação federal vigente, em particular da Lei nº 13.019, de 31 de julho de 2014, alterada pela Lei nº 13.204, de 14 de dezembro de 2015, no que compete aos municípios.
+
+**Art. 21.** O Poder Executivo poderá subsidiar despesas do Governo do Estado de
+
+São Paulo para custeio de atividades da Polícia Militar e Polícia Civil, bem como ao Poder Judiciário e Eleitoral, mediante a assinatura de convênio entre as partes, bem como a Justiça Trabalhista mediante convênio.
+
+**Art. 22.** Nos termos do art. 45, II, da Lei Federal n° 13.019/2014, somente será autorizado o pagamento de servidores públicos com recursos vinculados a parcerias se estiverem regularmente formalizadas e nas hipóteses previstas em lei municipal específica.
+
+#### CAPÍTULO VI
+
+DA AUTORIZAÇÃO PARA ABERTURA DE CRÉDITOS E SUPLEMENTAÇÃO ORÇAMENTÁRIA
+
+**Art. 23.** O Poder Executivo é autorizado, mediante Decreto, nos termos da Constituição Federal e da Lei 4.320 de 1964, a:
+
+I - Abrir créditos adicionais suplementares até o limite de 20% (vinte por cento) do orçamento das despesas, com base na legislação vigente.
+
+II - As suplementações do Poder Legislativo ocorrerão na forma do caput deste artigo, através de Ato da Mesa Diretora, referendado por Decreto do Poder Executivo, no prazo máximo de 03 (três dias), a contar de seu recebimento.
+
+III - Transpor, remanejar ou transferir recursos do orçamento das despesas, dentro de uma mesma categoria de programação ou para outra categoria de programação, desde de que dentro da mesma secretaria, mediante decreto do Poder Executivo, nos termos do inciso VI, do artigo 167. da Constituição Federal, em atendimento às necessidades da Administração até o limite de 12% (doze por cento) do orçamento das despesas.
+
+IV - Transpor, remanejar ou transferir recursos do orçamento das despesas, dentro de uma mesma categoria de programação ou para outra categoria de programação, entre secretarias e/ou órgãos diferentes, mediante decreto do Poder Executivo, nos termos do inciso VI, do artigo 167. da Constituição Federal, em atendimento às necessidades da Administração até o limite de 8% (oito por cento) do orçamento das despesas.
+
+V – Abrir créditos adicionais suplementares até o limite de 100% (cem por cento) da dotação consignada como Reserva de Contingência mediante decreto do Poder Executivo;
+
+VI – Abrir créditos adicionais suplementares até o limite de 100% (com por cento) do superávit financeiro, apurado no balanço patrimonial do exercício anterior, respeitando-se as respectivas Destinações de Recursos (fontes de recursos e códigos de aplicação) mediante decreto do Poder Executivo;
+
+VII – Abrir créditos adicionais suplementares com recursos provenientes do excesso de arrecadação advindo da fonte de recursos do Tesouro até o limite de 15% (quinze por cento) do total da despesa fixada mediante decreto do Poder Executivo;
+
+VIII - Realizar operações de crédito até o limite estabelecido pela legislação em vigor;
+
+IX - Contingenciar parte das dotações, quando a evolução da receita comprometer os resultados previstos.
+
+**§ 1º** Não onerarão o limite previsto no inciso I, II, III e IV, os créditos destinados a suprir insuficiência nas dotações orçamentárias relativas às despesas:
+
+I - do grupo de pessoal e encargos sociais de ativos, inativos e pensionistas, da dívida pública, ao cumprimento de sentenças judiciais, das despesas de exercícios anteriores, dos programas das funções constitucionais de educação e saúde;
+
+II - de recursos legalmente vinculados nos termos do parágrafo único do artigo 8º, da Lei Complementar Federal nº 101, de 04 de maio de 2000;
+
+**§ 2º** Fica o Poder Executivo autorizado a incluir, nas categorias funcionais programáticas existentes: categorias econômicas, grupos de natureza de despesa, modalidades de aplicação, elementos de despesa, fontes de recurso e códigos de aplicação, a fim de atender às necessidades das secretarias municipais, em especial relacionadas a transferências de recursos Federais e/ou Estaduais e a atender adequações aos planos de contas do STN e do TCESP.
+
+**§ 3º** A lei poderá autorizar e, desde que assim expresso, criar diretamente crédito adicional.
+
+**Art. 24.** Observadas as prioridades a que se refere o artigo 3º desta Lei, a Lei Orçamentária Anual ou as de créditos adicionais, somente incluirão novos projetos e despesas obrigatórias de duração continuada, observado o disposto nos artigos 17 e 45 da Lei Complementar nº 101/00 se:
+
+I – Houverem sido adequadamente atendidos todos os que estiverem em andamento;
+
+II – Estiverem preservados os recursos necessários à conservação do patrimônio
+
+público;
+
+III – Estiverem perfeitamente definidas suas fontes de custeio;
+
+IV – Os recursos alocados destinarem-se a contrapartidas de recursos federais, estaduais ou de operações de créditos com objetivo de concluir etapas de uma ação municipal.
+
+**§ 1º** Os projetos que representam a criação, expansão ou aperfeiçoamento de ação governamental, só poderão ser incluídos se atenderem ao disposto nos incisos I e II e parágrafos 1º e 2º do artigo 16 da Lei Complementar nº 101/00.
+
+**§ 2º** Para efeito da ressalva de que trata o § 3º do artigo 16 da Lei Complementar nº 101/00 - Lei de Responsabilidade Fiscal, considera-se irrelevante a despesa decorrente de criação, expansão ou aperfeiçoamento de ação governamental, cujo valor total no exercício não ultrapasse a 0,002% da Receita Corrente Líquida - RCL estando desobrigado da estimativa do impacto orçamentário-financeiro.
+
+**Art. 25.** O monitoramento de indicadores dos programas de governo e metas das ações deverá ser realizado através do Departamento de Controle Interno, em conjunto com as Secretarias Municipais responsáveis, tendo em vista o devido acompanhamento e avaliação do planejamento orçamentário.
+
+Parágrafo Único. Nos casos em que o monitoramento dos programas e ações de governo aponte necessidade de adequação das métricas estabelecidas nos indicadores e metas estabelecidos, está poderá ser realizada mediante decreto do poder executivo.
+
+#### CAPÍTULO VII
+
+DA RESERVA DE CONTINGÊNCIA
+
+**Art. 26.** A Lei Orçamentária conterá dotação para reserva de contingência, de passivos contingentes e outros riscos e eventos fiscais imprevistos, constituída exclusivamente com recursos do orçamento fiscal, em montante equivalente a pelo menos 0,5 % (meio por cento) da receita corrente líquida realizada no exercício anterior.
+
+Parágrafo Único. O valor reservado para contingência de 0,5% (zero vírgula cinco por cento) da receita corrente liquida será utilizado para atendimento de passivos não previstos na Lei Orçamentária, e no caso de sua não utilização, ou utilização parcial, seu saldo poderá ser destinado ao reforço de outras dotações orçamentárias de custeio, no último quadrimestre do exercício.
+
+#### CAPÍTULO VIII
+
+DAS EMENDAS IMPOSITIVAS
+
+**Art. 27.** A Lei Orçamentária conterá dotação destinadas ao atendimento das emendas impositivas, constituída exclusivamente com recursos do orçamento fiscal, em montante equivalente a pelo menos 0,5% (um por cento) da receita corrente líquida realizada no exercício anterior. Sendo estas de execução obrigatório na Lei Orçamentária Anual.
+
+**§ 1º** As emendas individuais ao projeto de lei orçamentária serão aprovadas no valor de R$ 12.614.000,00 (Doze milhões seiscentos e doze mil e trinta reais), sendo individualmente o valor de R$ 742.000,00 (Setecentos e quarenta e dois mil reais) para cada vereador.
+
+**§ 2º** As emendas individuais deverão ser especificadas em anexo próprio da Lei Orçamentária Anual (LOA), indicando a Secretaria Municipal, os Programas e as Ações de Governo e as Naturezas de Despesas a que se destinam, bem como o valor a ser aplicado.
+
+**§ 3º** Do valor total destinados as emendas 25% (vinte e cinco por cento) deste percentual serão destinados a ações e serviços públicos de educação, e 25% (vinte e cinco por cento) a ações e serviços públicos de saúde.
+
+**§ 4º** As despesas decorrentes das emendas individuais devem guardar correspondência com o interesse público da ação pretendida e ao princípio da impessoalidade.
+
+**§ 5º** Para fins do disposto no art. 66-A., § 2º, da Lei Orgânica do Município de Paulínia, consideram-se impedimentos de ordem técnica qualquer situação ou evento de ordem fática ou legal que obste ou suspenda a execução da programação orçamentária, em especial os que seguem abaixo:
+
+I - a não comprovação de que os recursos orçamentários ou financeiros são suficientes para conclusão do projeto ou de etapa útil com funcionalidade
+
+que permita o imediato usufruto dos benefícios pela sociedade;
+
+II - a incompatibilidade do objeto da emenda com a finalidade do programa ou da ação orçamentária emendada;
+
+III - a incompatibilidade do valor proposto com o cronograma físico financeiro de execução do projeto, no caso de emendas relativas à execução de obras;
+
+IV - a destinação de recursos a que não guarde correspondência com o interesse público e o princípio da impessoalidade;
+
+V - outros impedimentos técnicos que inviabilizem o empenho dentro do exercício financeiro.
+
+**§ 6º** Identificados os impedimentos retro mencionados, serão adotadas as providências prevista no § 2º, art. 66-A, da Lei Orgânica do Município de Paulínia.
+
+#### CAPÍTULO IX
+
+DA LIMITAÇÃO DE EMPENHOS
+
+**Art. 28.** Caso seja necessária a limitação de empenho das dotações orçamentárias e da movimentação financeira para manutenção na hipótese de ocorrência das circunstanciais estabelecidas no caput do artigo 9º, e no inciso II do parágrafo 1º do artigo 31, todos da Lei Complementar nº 101/00 – Lei de Responsabilidade Fiscal, será fixado, separadamente, percentual de limitação para o conjunto de “projetos” e “atividades”, calculando de forma proporcional à participação dos Poderes no total das dotações constantes da lei orçamentária de 2021, excluídas as:
+
+I – Despesas que constituem obrigações constitucionais ou legais de execução;
+
+II – Despesas com ações vinculadas às funções saúde, educação e assistência social, não incluídas no inciso I.
+
+III – Despesas necessárias para o cumprimento de convênios, termos de parceria, termos de fomento, termos de gestão e demais ajustes e congêneres firmados contidos no artigo 20 da presente Lei.
+
+#### CAPÍTULO X
+
+DAS DISPOSIÇÕES GERAIS
+
+**Art. 29.** A proposta orçamentária, que o Poder Executivo encaminhará ao Poder Legislativo até o dia 30 de setembro, conforme LOM - Lei Orgânica do Município de Paulínia será composta de:
+
+I - Mensagem ao Representante do Poder Legislativo;
+
+II - PLOA - Projeto de Lei Orçamentária Anual e respectivos anexos;
+
+Parágrafo Único. Integrarão obrigatoriamente ao Projeto de Lei Orçamentária Anual:
+
+a) sumário geral da receita por fontes de recursos e das despesas por funções de governo;
+
+b) sumário geral das receitas e das despesas, por categorias econômicas;
+
+c) sumário da receita por fontes de recursos, e respectiva legislação;
+
+d) quadro das dotações orçamentárias por órgãos do governo e da administração;
+
+e) demais demonstrativos exigidos pela Lei Federal nº 4.320, de 17 de março de 1964 e pela Lei Complementar nº 101/2000 - Lei de Responsabilidade Fiscal.
+
+**Art. 30.** A Lei Orçamentária Anual para 2026 contemplará recursos para pagamento da despesa decorrente de débitos de financiamentos, parcelamentos, bem como de débitos com a previdência social.
+
+**Art. 31.** A inclusão de recursos para o custeio de despesas na LOA - Lei Orçamentária Anual 2026, de outros entes da Federação somente poderá ocorrer em situações que envolvam claramente o atendimento de interesses locais, atendidos os dispositivos constantes do artigo 62 da Lei Complementar nº 101, de 04 de maio de 2000 e mediante lei específica.
+
+**Art. 32.** A Lei Orçamentária Anual para 2026 somente contemplará dotações orçamentárias para investimentos com duração superior a um exercício financeiro se o mesmo estiver contido no plano plurianual ou em lei municipal que autorize sua inclusão.
+
+**Art. 33.** A proposta orçamentária será elaborada por unidade orçamentária, podendo ser desdobrada por unidades executoras, e as despesas serão classificadas de conformidade com a Portaria 42, de 14 de abril de 1999, e Portaria Interministerial nº 163, de 04 de maio de 2001, com alterações posteriores, além de atendimento às normas complementares que venham a ser estabelecidas, incluindo-se em cada dotação orçamentária, a fonte de recursos e códigos de aplicação.
+
+**Art. 34.** Verificado eventual saldo de dotação orçamentária da Câmara Municipal de Paulínia que não será utilizado no exercício, o órgão poderá oferecer tais recursos, definindo especificamente sua destinação e apenas para áreas sociais, como fonte para abertura de créditos adicionais pelo Poder Executivo.
+
+**Art. 35.** Fica o Poder Executivo autorizado a realizar chamamento público, concessões, privatizações ou Parcerias Públicos-Privadas nos termos da legislação vigente.
+
+**Art. 36.** Para fins do necessário controle e transparência fiscal, as despesas relacionadas à propaganda e publicidade oficial deverão onerar atividade programática específica conforme deliberação pelo Tribunal de Contas do Estado de São Paulo, aplicando-se o mesmo princípio com relação às despesas sob o regime de adiantamento, conforme artigos 68 e 69 da Lei Federal nº 4.320, de 17 de março de 1964.
+
+**Art. 37.** Se o Poder Executivo não receber o autógrafo da Lei Orçamentária Anual - LOA até 31 de dezembro de 2026, fica autorizada a execução da Proposta Orçamentária, originalmente encaminhada à Câmara Municipal, sendo as dotações liberadas para movimentação na razão de 1/12 (um doze avos) para cada mês até a data de recebimento do autógrafo.
+
+**Art. 38.** Para efeito de compatibilização das peças de planejamento, fica o Poder Executivo autorizado a promover as devidas alterações nos os valores, nas metas, projetos, ações e as prioridades contidas nos Anexos I, II e III do Plano Plurianual para o quadriênio de 2026-2029, face as adequações necessárias das propostas da Administração, as quais foram apresentadas e discutidas nas audiências públicas, conforme a discriminação de ações e prioridades contidas nos Anexos I, V e VI desta Lei.
+
+**Art. 39.** As metas e prioridades para o exercício de 2026, conforme estabelecidas no § 2º do art. 165 da Constituição Federal, serão aquelas previstas e destacadas no Plano Plurianual para o quadriênio de 2026-2029, cujas dotações para atendimento serão fixadas na proposta orçamentária anual para o exercício de 2026.
+
+**Art. 40.** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Paulínia, 07 de Julho de 2025.
+
+DANILO BARROS
+
+Prefeito Municipal
+
+Lavrado e publicado no Gabinete do Prefeito, na data
+
+REBECA ROCHA LEAL
+
+Secretária Mun. de Chefia de Gabinete do Prefeito
+
+NICHOLAS ANDREWS BACCARIN
+
+Secretário Municipal de Finanças
+
+GABRIEL CURCI TAVARES RISSO
+
+Procurador Geral do Município

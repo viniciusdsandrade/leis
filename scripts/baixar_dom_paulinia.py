@@ -88,7 +88,8 @@ def linhas_da_pagina(palavras):
 
 
 TITULO_EDICAO = re.compile(r"Di[áa]rio\s+Oficial\s*-\s*Ano\s+[IVXLC]+\s*-\s*Edi[çc][ãa]o", re.I)
-RODAPE = re.compile(r"Di[áa]rio\s+Oficial\s*\|.*Edi[çc][ãa]o", re.I)
+# a linha corrida do pé da página; em edições de 2021 e 2022 ela ainda diz "Semanário Oficial"
+RODAPE = re.compile(r"(?:Di[áa]rio|Seman[áa]rio)\s+Oficial\s*\|.*Edi[çc][ãa]o", re.I)
 
 
 NUMERO_DA_EDICAO = re.compile(rf"Edi[çc][ãa]o\s+(\d[\d.]*)\s*(?:[-|]\s*(?:Paul[íi]nia,\s*)?(\d{{1,2}})\s+de\s+({_MES})\s+de\s+(\d{{4}}))?", re.I)
@@ -152,7 +153,7 @@ def fluxo_do_pdf(pdf):
     """Letras e dígitos da edição na ordem do fluxo do PDF (`pdftotext -raw`), sem o rodapé corrido e o expediente:
     uma segunda leitura, independente da geometria, para confrontar com o recorte."""
     bruto = subprocess.run(["pdftotext", "-q", "-raw", "-enc", "UTF-8", str(pdf), "-"], capture_output=True, timeout=900).stdout
-    texto = re.sub(r"Di[áa]rio[ \t]+Oficial[ \t]*\|[^\n]*Edi[çc][ãa]o[^\n]*", "", bruto.decode("utf-8", "replace").replace("\f", "\n"))
+    texto = re.sub(r"(?:Di[áa]rio|Seman[áa]rio)[ \t]+Oficial[ \t]*\|[^\n]*Edi[çc][ãa]o[^\n]*", "", bruto.decode("utf-8", "replace").replace("\f", "\n"))
     return so_letras("\n".join(ln for ln in texto.split("\n") if not ln.startswith("Expediente:")))
 
 
@@ -384,6 +385,8 @@ def recortar(trecho, ato):
         return None, "linha em maiúsculas depois das assinaturas (assinatura com cargo não reconhecido ou outro título); a conferir"
     if ANEXO_PROPRIO.search(recorte) and not ANEXO.search(recorte):
         return None, "o ato cita anexo próprio que não está no recorte"
+    if any(RODAPE.search(linha) for linha in recorte.split("\n")):
+        return None, "rodapé da página dentro do recorte; a área de texto da página não foi delimitada"
     intercalado = INTERCALADO.search(recorte, len(ato["epigrafe"]))
     if intercalado:
         return None, "trecho de outra publicação intercalado no recorte: " + intercalado.group(0).strip()[:80]
@@ -408,18 +411,59 @@ def destino_de(ato, edicao):
     return DESTINO / pasta / ato["data"][:4] / (nome + ".md")
 
 
+_FECHA_ASPAS = re.compile(r"[”\"]\s*\.?\s*$")
+_NOTA_DO_PROJETO = re.compile(r"^\(?\s*Projeto de (?:Lei|Decreto|Emenda|Resolução)\b.{0,200}$", re.I | re.S)
+_PREAMBULO = re.compile(r"^(?:O|A)\s+(?:CIDADÃO|CIDADÃ|PREFEIT|PRESIDENTE|MESA|CÂMARA)|\b(?:DECRETA|PROMULG[AO]|SANCIONO)\b", re.I)
+
+
+def _caixa_alta(texto):
+    return bool(re.search(r"[A-ZÀ-Ú]", texto)) and not re.search(r"[a-zà-ú]", texto)
+
+
+def _continua_em_caixa_alta(texto):
+    """Continuação de ementa em maiúsculas: sem minúsculas ou com poucas ("APMs", "MUNICíPIO", "(Matrícula 17.527)")."""
+    minusculas, maiusculas = len(re.findall(r"[a-zà-ú]", texto)), len(re.findall(r"[A-ZÀ-Ú]", texto))
+    return minusculas <= 0.4 * (minusculas + maiusculas)
+
+
 def ementa_de(corpo):
-    """A ementa, quando o parágrafo que segue a epígrafe (e a nota do projeto) vem entre aspas ou em maiúsculas."""
-    paragrafos = [p for p in corpo.split("\n\n") if p.strip()][1:4]
-    for p in paragrafos:
-        limpo = re.sub(r"\\([*_])", r"\1", p.strip())
-        if limpo.startswith("(") and limpo.endswith(")"):
-            continue  # "(Projeto de Lei Nº 127/2026 de autoria do Ver. ...)"
-        sem_aspas = limpo.strip("“”\"' ")
-        if limpo[:1] in "“\"" or (re.search(r"[A-ZÀ-Ú]", limpo) and not re.search(r"[a-zà-ú]", limpo)):
-            return " ".join(sem_aspas.split())
+    """A ementa, quando o parágrafo que segue a epígrafe (e a nota do projeto) vem entre aspas ou em maiúsculas.
+
+    O diário às vezes parte a ementa em mais de um parágrafo: a leitura segue até o parágrafo que fecha as aspas (ou,
+    sem aspas, enquanto durar a caixa alta). Sem fecho à vista, vale só o primeiro parágrafo."""
+    paragrafos = [re.sub(r"\\([*_])", r"\1", p.strip()) for p in corpo.split("\n\n") if p.strip()][1:9]
+    while paragrafos and (_NOTA_DO_PROJETO.match(paragrafos[0]) or (paragrafos[0].startswith("(") and paragrafos[0].endswith(")"))):
+        paragrafos.pop(0)  # "(Projeto de Lei Nº 127/2026 de autoria do Ver. ...)"
+    if not paragrafos:
         return ""
-    return ""
+    primeiro, partes = paragrafos[0], [paragrafos[0]]
+    alta = _caixa_alta(primeiro)
+    if primeiro[:1] in "“\"":
+        if not _FECHA_ASPAS.search(primeiro[1:]):
+            for p in paragrafos[1:5]:
+                if ARTIGO.match(p) or _PREAMBULO.search(p) or (alta and not _continua_em_caixa_alta(p)):
+                    partes = [primeiro]
+                    break
+                partes.append(p)
+                if _FECHA_ASPAS.search(p):
+                    break
+            else:
+                partes = [primeiro]
+    elif alta:
+        if not primeiro.endswith("."):
+            for p in paragrafos[1:5]:
+                if not _continua_em_caixa_alta(p) or ARTIGO.match(p) or _PREAMBULO.search(p):
+                    break
+                partes.append(p)
+                if p.rstrip("”\" ").endswith("."):
+                    break
+    else:
+        return ""
+    ementa = " ".join(" ".join(partes).strip("“”\"' ").split())
+    fecho = re.search(r"[”\"]\s*\.$", ementa)
+    if fecho and (ementa.count("”") > ementa.count("“") or ementa.count('"') % 2):
+        ementa = ementa[:fecho.start()] + "."  # aspas de fora fechadas antes do ponto final: `...PROVIDÊNCIAS”.`
+    return ementa
 
 
 def montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje):
@@ -559,6 +603,24 @@ def gravar_falhas(registros):
     tmp.replace(FALHAS)
 
 
+def edicao_do_arquivo(arquivo):
+    """Número da edição de onde o arquivo foi recortado (`...-dom-<edição>.md`)."""
+    return int(arquivo.stem.rsplit("-", 1)[1])
+
+
+def republicacao(gravado, destino, tipo, ato):
+    """Retenção do arquivo `gravado`, que cede o lugar ao mesmo ato recortado de edição anterior (`destino`)."""
+    texto = gravado.read_text(encoding="utf-8")
+
+    def campo(nome):
+        m = re.search(rf'^{nome}: "([^"]*)"', texto, re.M)
+        return m.group(1) if m else ""
+
+    return {"edicao": str(edicao_do_arquivo(gravado)), "data_edicao": campo("data_publicacao"), "fonte": campo("fonte"),
+            "tipo": tipo, "numero": ato["numero"], "data": ato["data"],
+            "motivo": f"ato já recortado de outra edição ({destino.name}); republicação a conferir"}
+
+
 def executar(de, ate, maximo=0, listar=False, rps=0.5):
     rede = Rede(rps=rps, headers={"Accept-Language": "pt-BR"})
     CACHE.mkdir(parents=True, exist_ok=True)
@@ -618,8 +680,14 @@ def executar(de, ate, maximo=0, listar=False, rps=0.5):
                 corpo, tem_quadro = dom.para_md(recorte)
                 motivo = diverge_do_fluxo(corpo, leitura.fluxo())
             if not motivo and chave in ja and ja[chave] != destino:
-                motivo = f"ato já recortado de outra edição ({ja[chave].name}); republicação a conferir"
-                contagem["republicada"] += 1
+                if edicao_do_arquivo(ja[chave]) > int(edicao["edicao"]):
+                    # a edição mais antiga é a publicação original: o arquivo da mais nova sai e vira a republicação
+                    falhas.append(republicacao(ja[chave], destino, tipo, ato))
+                    ja.pop(chave).unlink()
+                    contagem["republicada"] += 1
+                else:
+                    motivo = f"ato já recortado de outra edição ({ja[chave].name}); republicação a conferir"
+                    contagem["republicada"] += 1
             elif motivo:
                 contagem["retida"] += 1
             if motivo:
