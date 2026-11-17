@@ -90,6 +90,15 @@ HOSTS_CARIMBO_1DOC = {"sapl.jarinu.sp.leg.br"}
 HOSTS_EPIGRAFE_PROPRIA = {"sapl.jarinu.sp.leg.br"}
 
 
+def ficha_importada_com_data_provisoria(norma):
+    """Ficha que o SAPL de Jarinu importou do acervo histórico ("Documento importado do acervo historico - Decreto
+    Legislativo 24/2026" na ementa, "Importado de DL4_2025.pdf" na observação), com a data provisória de 1º de
+    janeiro: a data não é a do ato, e o anexo às vezes é outro documento (ofício, pauta, ata ou o projeto)."""
+    importada = ("importado do acervo historico" in (norma.get("ementa") or "").lower()
+                 or (norma.get("observacao") or "").startswith("Importado de "))
+    return importada and (norma.get("data") or "")[5:] == "01-01"
+
+
 def corpo_de_fonte(bruto, url, content_type="", colunas=False, carimbo_1doc=False):
     """Converte o anexo oficial; logotipos em HTML do SIREL não são texto da norma.
 
@@ -756,6 +765,8 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                     leg = legibilidade(corpo, lexico)
                                     if leg is not None and leg < LEGIBILIDADE_MINIMA:
                                         raise RuntimeError(f"OCR com baixa legibilidade ({leg:.0%} das palavras conhecidas no acervo do município); revisar")
+                            if host in HOSTS_EPIGRAFE_PROPRIA and ficha_importada_com_data_provisoria(n):
+                                raise RuntimeError("ficha importada do acervo histórico com a data provisória de 1º de janeiro; conferir a data e o anexo")
                             if host in HOSTS_EPIGRAFE_PROPRIA and not abre_com_a_propria_epigrafe(corpo, tipo["descricao"], n["numero"]):
                                 raise RuntimeError("o anexo não abre com a epígrafe da própria norma; conferir a identidade do documento")
                             if troca:
