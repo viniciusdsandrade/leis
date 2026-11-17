@@ -493,7 +493,9 @@ class Geometria(unittest.TestCase):
     def test_formato_fora_do_modelo(self):
         self.assertIsNone(p.fora_do_modelo({1: (722.835, 841.89, [])}))
         self.assertIn("fora dos leiautes", p.fora_do_modelo({1: (722.835, 841.89, []), 2: (651.969, 864.567, [])}))
-        self.assertIn("fora dos leiautes", p.fora_do_modelo({1: (765.0, 884.0, [])}))  # a edição 1205, de 2016
+        self.assertIsNone(p.fora_do_modelo({1: (764.835, 883.89, [])}))  # a edição 1205, de 2016, em página maior
+        self.assertEqual(p.leiaute({1: (764.835, 883.89, [])}), "modelo")
+        self.assertIn("fora dos leiautes", p.fora_do_modelo({1: (800.0, 900.0, [])}))
 
     def test_leiaute_de_jornal_simples_e_duplo(self):
         self.assertEqual(p.leiaute({1: (651.969, 892.913, []), 2: (1303.94, 892.913, []), 3: (651.969, 892.913, [])}), p.JORNAL)
