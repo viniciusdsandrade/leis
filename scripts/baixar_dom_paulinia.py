@@ -655,6 +655,8 @@ def montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje):
 # ------------------------------------------------------------------------------------------ edições e execução
 ITEM = '<div class="dof_publicacao_diario sw_item_listagem">'
 MODELO = (722.8, 841.9)  # pt: página do leiaute de duas colunas conferido
+# a mesma diagramação numa página maior: a edição nº 1205, de 10/08/2016, composta em 764,8 x 883,9 pt
+MODELOS = [MODELO, (764.8, 883.9)]
 JORNAL_PAGINAS = [(652.0, 892.9), (1303.9, 892.9)]  # pt: o formato de jornal, página simples e dupla; outro não é lido
 
 
@@ -774,7 +776,7 @@ def leiaute(paginas):
     medidas = [(largura, altura) for largura, altura, _ in paginas.values()]
     if medidas and all(_do_formato(lg, al, JORNAL_PAGINAS) for lg, al in medidas):
         return JORNAL
-    if medidas and all(_do_formato(lg, al, [MODELO]) for lg, al in medidas):
+    if medidas and all(_do_formato(lg, al, MODELOS) for lg, al in medidas):
         return "modelo"
     return None
 
@@ -784,7 +786,7 @@ def fora_do_modelo(paginas):
     if leiaute(paginas):
         return None
     for n, (largura, altura, _) in sorted(paginas.items()):
-        if not _do_formato(largura, altura, [MODELO, *JORNAL_PAGINAS]):
+        if not _do_formato(largura, altura, [*MODELOS, *JORNAL_PAGINAS]):
             return f"página {n} de {largura:.0f} x {altura:.0f} pt, fora dos leiautes conferidos (duas colunas e jornal)"
     return "edição que mistura o leiaute de duas colunas e o de jornal"
 

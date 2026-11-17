@@ -18,7 +18,7 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 17/11/2026 eram **1.406.270 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 17/11/2026 eram **1.406.271 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
@@ -26,8 +26,8 @@ são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do 
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 510.442 | 87,7% |
 | 2 | Infralegal e jurisprudência | 772.985 | 76,0% |
-| 3 | Direito municipal | 122.843 | 1,1% |
-| | **Total** | **1.406.270** | |
+| 3 | Direito municipal | 122.844 | 1,1% |
+| | **Total** | **1.406.271** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -250,7 +250,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | **Campinas**: cerca de 900 atos do SAPL | retidos por integridade (OCR ilegível, vários atos na mesma página, texto de outro ato), cada um com o motivo registrado |
 | **Campinas**: 53 atos até 1948 | o bibjuri só tem a ementa ou não tem a norma |
 | **Campinas**: 84 decretos no recorte do DOM | retidos por integridade em [`municipais/_indice/dom-campinas/retidos.json`](municipais/_indice/dom-campinas/retidos.json) (epígrafe ausente no jornal, falta de assinatura ou anexo posterior) |
-| **Paulínia**: 654 atos de 2013 a 2026 no recorte do Diário Oficial (Semanário Oficial até agosto de 2020) | retidos por integridade em [`municipais/SP/paulinia/_falhas.jsonl`](municipais/SP/paulinia/_falhas.jsonl) (anexo depois das assinaturas, quadro lido como prosa, falta de assinatura, data do fecho diferente da epígrafe), mais 33 republicações a conferir; 10 edições ficam fora porque o número impresso no PDF não é o da listagem do portal (nº 1029, 1052, 1184, 1272, 1988, 2086, 2262, 2353, 2657 e 2755); a nº 1205 (agosto de 2016) tem um terceiro formato de página e ainda não é lida; as edições de 2012 não são baixadas, porque o `robots.txt` do portal, conferido em novembro de 2026, veda os caminhos dos PDFs |
+| **Paulínia**: 654 atos de 2013 a 2026 no recorte do Diário Oficial (Semanário Oficial até agosto de 2020) | retidos por integridade em [`municipais/SP/paulinia/_falhas.jsonl`](municipais/SP/paulinia/_falhas.jsonl) (anexo depois das assinaturas, quadro lido como prosa, falta de assinatura, data do fecho diferente da epígrafe), mais 33 republicações a conferir; 10 edições ficam fora porque o número impresso no PDF não é o da listagem do portal (nº 1029, 1052, 1184, 1272, 1988, 2086, 2262, 2353, 2657 e 2755); as edições de 2012 não são baixadas, porque o `robots.txt` do portal, conferido em novembro de 2026, veda os caminhos dos PDFs |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
 ### Pendências das fontes estaduais
