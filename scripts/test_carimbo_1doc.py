@@ -71,6 +71,13 @@ class Carimbo1Doc(unittest.TestCase):
         self.assertIn("ela sanciona e promulga a presente Lei:", corpo)
         self.assertIn("Art. 2.", corpo)
 
+    def test_carimbo_do_sistema_da_camara_tambem_sai(self):
+        camara = ["ASSINADO POR $ASSINANTE$ - $DATAHORAASSINATURA$ - 703F-05ZZ-3B0X-1MVE"]
+        corpo, motivo = comum.documento_para_md(pdf(CORPO, camara), "lei.pdf", carimbo_1doc=True)
+        self.assertIsNone(motivo)
+        self.assertNotIn("ASSINANTE", corpo)
+        self.assertIn("ela sanciona e promulga a presente Lei:", corpo)
+
     def test_sem_a_opcao_nada_muda(self):
         corpo, motivo = comum.documento_para_md(pdf(CORPO, CARIMBO), "lei.pdf")
         self.assertIsNone(motivo)

@@ -662,8 +662,11 @@ def sem_campo_pagina_word(corpo):
 #   "Assinado por 2 pessoas: FULANO DE TAL e BELTRANA DA SILVA"
 #   "Para verificar a validade das assinaturas, acesse https://jarinu.1doc.com.br/verificacao/9829-CFDB-A882-5954 e ..."
 # O `pdftotext -layout` o devolve como linha própria no meio do corpo, cercada de linhas em branco que partem o
-# parágrafo; por isso a página é lida recortada à esquerda da faixa do carimbo.
-CARIMBO_1DOC = re.compile(r"Assinado por \d+ pessoas?:|Para verificar a validade das assinaturas|1doc\.com\.br/verificacao")
+# parágrafo; por isso a página é lida recortada à esquerda da faixa do carimbo. Na mesma faixa vem às vezes o carimbo
+# do sistema da Câmara de Jarinu, com o modelo por preencher: "ASSINADO POR $ASSINANTE$ - $DATAHORAASSINATURA$ -
+# 703F-05ZZ-3B0X-1MVE".
+CARIMBO_1DOC = re.compile(r"Assinado por \d+ pessoas?:|Para verificar a validade das assinaturas|1doc\.com\.br/verificacao|"
+                          r"ASSINADO POR \S+ - \S+ - [0-9A-Z]{4}(?:-[0-9A-Z]{4}){3}")
 
 
 def texto_pdf_sem_carimbo_1doc(pdf):
