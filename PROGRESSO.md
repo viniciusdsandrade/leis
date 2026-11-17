@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 14/11/2026 18:33:01 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 14/11/2026 18:33:13 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.395.425 documentos · 1.259.683 / ~11.768.799 nas séries com meta (10.7%) · 27.536 sem meta**
+**1.395.756 documentos · 1.260.014 / ~11.768.799 nas séries com meta (10.7%) · 27.536 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,15 +91,15 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-766.335 documentos · 648.410 / ~861.320 nas séries com meta (75.3%) · 16.059 sem meta
+766.666 documentos · 648.741 / ~861.320 nas séries com meta (75.3%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
-84.676 documentos · 78.736 / ~134.038 nas séries com meta (58.7%) · 5.940 sem meta
+85.007 documentos · 79.067 / ~134.038 nas séries com meta (59.0%) · 5.940 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Receita Federal: instruções normativas, portarias, atos declaratórios, soluções de consulta e pareceres normativos | 75.511 | 115.238 | `reguladores/rfb` | RFB — Sijut (23 espécies normativas) e Diário Oficial da União |
+| 🟦 | Receita Federal: instruções normativas, portarias, atos declaratórios, soluções de consulta e pareceres normativos | 75.842 | 115.238 | `reguladores/rfb` | RFB — Sijut (23 espécies normativas) e Diário Oficial da União |
 | 🟦 | CONFAZ: convênios, protocolos e ajustes SINIEF | 1.581 | 12.000 | `reguladores/confaz` | Diário Oficial da União (in.gov.br) e portal oficial CONFAZ |
 | 🟦 | Tesouro Nacional: portarias e instruções | 466 | 2.000 | `reguladores/stn` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Procuradoria-Geral da Fazenda Nacional | 255 | 1.500 | `reguladores/pgfn` | Diário Oficial da União (in.gov.br) |
