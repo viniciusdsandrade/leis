@@ -14,7 +14,7 @@ data_publicacao: "2023-10-11"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1086"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/82d04538813f2f9bbeecc817055a1f712023.pdf"
 sha256_fonte: "b56543939f4ef17b8da832b514de7ebcc1f4b9c93bb09a06bfa8f275fd0af925"
-sha256_texto: "3380222b50c2ddd8ac0e5c10538d2c2e43bebf09e82109b0b0e6ef3349b8c822"
+sha256_texto: "178b393a9691f1b8462e0bafbd45147b30cccce7c4d4d3b4b59828970428f6a9"
 baixado_em: "2026-11-15"
 ---
 
@@ -24,9 +24,7 @@ DECRETO LEGISLATIVO Nº 466, DE 10 DE OUTUBRO DE 2023
 
 “DISPÕE SOBRE A CONCESSÃO DO DIPLOMA DR. PEDRO POLITANO NETO DE MÉRITO JURÍDICO AO SENHOR RAFAEL CERONI SUCCI.”
 
-Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO
-
-o seguinte Decreto Legislativo:
+Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
 **Artigo 1º** - Fica concedido o Diploma “DR. PEDRO POLITANO NETO DE MÉRITO JURÍDICO” ao Senhor Rafael Ceroni Succi, pelos relevantes serviços prestados a Paulínia.
 

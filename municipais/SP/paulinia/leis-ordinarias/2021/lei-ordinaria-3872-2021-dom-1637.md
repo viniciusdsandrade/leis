@@ -14,7 +14,7 @@ data_publicacao: "2021-05-20"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/762"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/96e44beaa18a0f5955e6489fd7cb50f52021.pdf"
 sha256_fonte: "1ab8b04d0df7fe3f92db691b2451cf7ae91bc9d1448f0397e3dde4bcdc854cfd"
-sha256_texto: "50ff194c28eb7826a5cf5fd31beb5f07db373d202aa783d5fc4a332de09f16d6"
+sha256_texto: "835bbf89f9de27f25a6a7979a7f32a07fb20f15cd8d2aff60a97220b60f6561f"
 baixado_em: "2026-11-15"
 ---
 
@@ -42,9 +42,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 IX – Entrega e implantação obrigatória do Projeto de lixeiras subterrâneas, localizada na área externa e particular do empreendimento, cuja localização poderá ser exigida pela municipalidade de acordo com análise do sistema viário local, às expensas do interessado, contendo sugestão de localização e volume dos contêineres, de modo que atenda a número de moradores do respectivo empreendimento, consoante Projeto da Secretaria de Obras, devendo realizar a separação adequada dos resíduos sólidos (orgânicos e recicláveis).
 
-X – Para os loteamentos já implantados e/ou aprovados, fica estabelecido um prazo de 05 (cinco) anos para adequação, porém a obrigatoriedade fica sujeita a viabilidade técnica do local, e se for
-
-o caso, fica desde já, autorizado pelo Poder Executivo, a utilizar área pública próxima para viabilizar tal procedimento.
+X – Para os loteamentos já implantados e/ou aprovados, fica estabelecido um prazo de 05 (cinco) anos para adequação, porém a obrigatoriedade fica sujeita a viabilidade técnica do local, e se for o caso, fica desde já, autorizado pelo Poder Executivo, a utilizar área pública próxima para viabilizar tal procedimento.
 
 **Artigo 2º** - As presentes alterações bem como a Lei inicial 3316/2012, deverão ser regulamento por Decreto do Executivo, tornando sem efeito o artigo 31º da Lei 3316/2012.
 

@@ -14,7 +14,7 @@ data_publicacao: "2024-01-11"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1280"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2206_03023108.pdf"
 sha256_fonte: "ec53ab3bdd31cbfe65c11de1d7ce19fef15a7dfed276d898b9204f54b62f500b"
-sha256_texto: "be0fbb9197283d7bc4627000bd41aed8b19c8c22290e3c62cf0848d1a5f0021b"
+sha256_texto: "36f1ed4364908e97c420e76332ad1c8b9abf9c9cfd135335965e6d6786a2bbb8"
 baixado_em: "2026-11-15"
 ---
 
@@ -44,9 +44,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Art. 8º** O proprietário que, comprovadamente, não dispuser de recursos para proceder às obras de conservação e reparação de que o bem tombado necessite, deverá oportunamente comunicar esse fato ao Conselho, sob pena de multa.
 
-**Art. 9º** Para evitar prejuízo à visibilidade ou ao destaque de qualquer edificação ou sítio tombado, nenhuma obra de construção ou demolição opera ser executada na
-
-área compreendida num raio de até 300m (trezentos metros) sem que o projeto da obra seja previamente aprovado pelo Conselho.
+**Art. 9º** Para evitar prejuízo à visibilidade ou ao destaque de qualquer edificação ou sítio tombado, nenhuma obra de construção ou demolição opera ser executada na área compreendida num raio de até 300m (trezentos metros) sem que o projeto da obra seja previamente aprovado pelo Conselho.
 
 **Art. 10.** Nenhuma obra de construção ou demolição nas vizinhanças de bens tombados, sejam edificações, loteamentos ou locação e colocação de propaganda-painéis, dísticos, cartazes ou semelhantes poderá ser autorizada ou aprovada pelo Município, quando estiver em desacordo com os padrões de ordem estética fixados pelo Conselho.
 

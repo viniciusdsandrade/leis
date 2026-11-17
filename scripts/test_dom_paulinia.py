@@ -67,6 +67,26 @@ class Epigrafe(unittest.TestCase):
             self.assertIsNotNone(m, linha)
             self.assertEqual((m.group(1), m.group(2)), esperado)
 
+    def test_epigrafe_em_versalete_ou_caixa_mista(self):
+        casos = {"Lei nº 3691, de 12 de JULHO DE 2019": ("lei ordinaria", "3691", "2019-07-12"),
+                 "DECRETO Nº 7.431 de 10 DE JANEIRO DE 2.019.": ("decreto", "7431", "2019-01-10"),
+                 "Lei COMPLEMENTAR nº 70 DE 31 DE outubro DE 2019": ("lei complementar", "70", "2019-10-31"),
+                 "decreto nº 7724, de 08 de janeiro de 2020": ("decreto", "7724", "2020-01-08")}
+        for linha, (chave, numero, data) in casos.items():
+            texto = linha + "\n\nFulano, Prefeito, SANCIONA, PROMULGA e DECRETA:\n\nArt. 1º X.\n"
+            (ato, _, _), = p.atos_da_edicao([(1, texto)], data)
+            self.assertEqual((ato["chave"], ato["numero"], ato["data"]), (chave, numero, data), linha)
+
+    def test_citacao_em_caixa_mista_de_ato_antigo_nao_e_epigrafe(self):
+        texto = DECRETO.replace("ARTIGO 2º", "com fundamento na\nLei Complementar nº 16, de 30 de dezembro de 1999.\nARTIGO 2º")
+        (ato, recorte, motivo), = atos(texto)
+        self.assertEqual(ato["chave"], "decreto")
+        self.assertIsNone(motivo)
+        self.assertIn("Lei Complementar nº 16, de 30 de dezembro de 1999.", recorte)
+        # a mesma citação em maiúsculas segue registrada, como antes
+        em_maiusculas = DECRETO.replace("ARTIGO 2º", "LEI COMPLEMENTAR Nº 16, DE 30 DE DEZEMBRO DE 1999.\nARTIGO 2º")
+        self.assertEqual(len(atos(em_maiusculas)), 2)
+
     def test_citacao_no_meio_da_frase_nao_e_epigrafe(self):
         for linha in ("nos termos da Lei nº 4.582 de 07 de julho de 2025, artigo 4º",
                       "LEI MUNICIPAL Nº 3.405, DE 16 DE DEZEMBRO DE 2014, QUE INSTITUI",
@@ -328,6 +348,25 @@ class Gravacao(unittest.TestCase):
                  "A Câmara Municipal APROVOU e eu, Prefeito, SANCIONO e PROMULGO a seguinte Lei:\n\nArt. 1º X.")
         self.assertEqual(p.ementa_de(corpo), "DECLARA DE UTILIDADE PÚBLICA O INSTITUTO X.")
 
+    def test_rejunta_o_paragrafo_partido_no_meio_da_frase(self):
+        corpo = ("Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO\n\no seguinte Decreto Legislativo:\n\n"
+                 "**Art. 1º** Fica concedido o diploma ao\n\njovem sanfoneiro Fulano, pelos relevantes serviços\n\nprestados.\n\n"
+                 "**Art. 2º** Vale:\n\na) a primeira alínea;\n\nb) a segunda\n\nii - item\n\nFULANO\n\nde Tal")
+        self.assertEqual(p.rejuntar(corpo),
+                         "Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:\n\n"
+                         "**Art. 1º** Fica concedido o diploma ao jovem sanfoneiro Fulano, pelos relevantes serviços prestados.\n\n"
+                         "**Art. 2º** Vale:\n\na) a primeira alínea;\n\nb) a segunda\n\nii - item\n\nFULANO de Tal")
+
+    def test_rejuntar_nao_mexe_em_quadro_nem_em_palavra_hifenizada(self):
+        corpo = "Valores do\n\n```text\nDESPESA   VALOR\n\nmaterial    10\n```\n\nanexo acima.\n\ncom o depar-\n\ntamento.\n"
+        self.assertEqual(p.rejuntar(corpo), corpo)
+        self.assertEqual(p.rejuntar("# Título\n\nminúscula"), "# Título\n\nminúscula")
+
+    def test_rejuntar_com_o_fluxo_so_junta_o_que_o_pdf_confirma(self):
+        corpo = "**Art. 1º** Fica concedido o diploma ao\n\njovem Fulano\n\npelos serviços."
+        fluxo = p.so_letras("Art. 1º Fica concedido o diploma ao jovem Fulano OUTRA COLUNA pelos serviços.")
+        self.assertEqual(p.rejuntar(corpo, fluxo), "**Art. 1º** Fica concedido o diploma ao jovem Fulano\n\npelos serviços.")
+
     def test_republicacao_cede_o_lugar_a_edicao_mais_antiga(self):
         import datetime as dt, tempfile
         (ato, recorte, _), = atos(LEI)
@@ -378,6 +417,33 @@ class Geometria(unittest.TestCase):
                    (115.0, 801.0, 118.0, 810.0, "|"), (120.0, 801.0, 150.0, 810.0, "Paulínia"), (152.0, 801.0, 154.0, 810.0, "|"),
                    (160.0, 801.0, 190.0, 810.0, "Edição"), (195.0, 801.0, 220.0, 810.0, "1.712")]
         self.assertEqual(p.mancha(841.9, interna), (15.0, 800.0))
+
+    def test_titulo_e_rodape_do_semanario_oficial(self):
+        def pagina(*linhas):  # cada linha vira palavras lado a lado na altura dada
+            return {1: (722.8, 841.9, [(30.0 + 40 * i, y, 65.0 + 40 * i, y + 10, w) for y, texto in linhas for i, w in enumerate(texto.split())])}
+        casos = {"Semanário Oficial - Ano XXIII - Edição 1.175 - 24 de fevereiro de 2016": ("1175", "2016-02-24"),
+                 "Semanário Oﬁ cial - Ano XXIII - Edição 1.236 - 09 de março de 2017": ("1236", "2017-03-09"),
+                 "Semanário Oficial EXTRA - Ano XXIV - Edição 1.276 - 20 de novembro de 2017": ("1276", "2017-11-20"),
+                 "Semanário Oficial - Ano XXVI - Edição 1.384 - EXTRA - 22 de fevereiro de 2019": ("1384", "2019-02-22"),
+                 "Diário Oficial - Ano XXVII - Edição 1.553 - 05 de Novembro de 2020": ("1553", "2020-11-05")}
+        for titulo, esperado in casos.items():
+            self.assertEqual(p.edicao_impressa(pagina((133.0, titulo))), esperado, titulo)
+        # sem título em texto (2013 e 2014), vale o rodapé; a linha de 2015 sem "Edição" não dá o número
+        self.assertEqual(p.edicao_impressa(pagina((810.0, "Semanário Oficial | | Edição 1036 | Paulínia, 30 de outubro de 2013"))),
+                         ("1036", "2013-10-30"))
+        self.assertEqual(p.edicao_impressa(pagina((801.0, "Semanário Oficial | | 1118 | Paulínia, 11 de março de 2015 2"))), (None, None))
+        for rodape in ("Semanário Oficial | | 1118 | Paulínia, 11 de março de 2015 2",
+                       "Semanário Ofi cial | | Edição 1.236 | Paulínia, 09 de março de 2017 | 2",
+                       "Semanário Oficial EXTRA | | Edição 1.276 | Paulínia, 20 de novembro de 2017 | 2"):
+            _, altura, palavras = pagina((26.0, "TEXTO"), (801.0, rodape))[1]
+            self.assertEqual(p.mancha(altura, palavras), (15.0, 800.0), rodape)
+
+    def test_mancha_deixa_fora_o_numero_da_pagina_composto_acima_do_rodape(self):
+        palavras = [(30.0, 26.0, 80.0, 36.0, "TEXTO"), (30.0, 790.0, 80.0, 800.0, "corpo"),
+                    (30.0, 807.0, 40.0, 818.0, "2"), (45.0, 807.0, 100.0, 818.0, "PAULÍNIA"),
+                    (200.0, 810.0, 260.0, 820.0, "Semanário"), (265.0, 810.0, 300.0, 820.0, "Oficial"), (305.0, 810.0, 308.0, 820.0, "|"),
+                    (312.0, 810.0, 315.0, 820.0, "|"), (320.0, 810.0, 350.0, 820.0, "Edição"), (355.0, 810.0, 380.0, 820.0, "1036")]
+        self.assertEqual(p.mancha(841.9, palavras), (15.0, 806.0))
 
     def test_carimbo_da_assinatura_digital_sai_e_o_texto_fica(self):
         texto = ("Prédio Ulysses Guimarães, 19 de fevereiro de 2026\n"

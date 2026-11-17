@@ -14,7 +14,7 @@ data_publicacao: "2024-02-22"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1307"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2233_03042413.pdf"
 sha256_fonte: "1ffc01e58180d9705c89aad2b28a97de83506df31cce8de7b847971bf685dbab"
-sha256_texto: "e3c2e8e9d55bfc9f8ce3eb77690a8d4630c17040043038805e67e443205776a2"
+sha256_texto: "ad1e0a92dff681e58b892cc7a57fc0fdf8045040652ace9e2281a9db0dd5e14d"
 baixado_em: "2026-11-15"
 ---
 
@@ -30,9 +30,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Artigo 1º** - Fica denominada “RUA ROBSON JORGE ABU KAMEL”, a via pública designada como Rua 08 do loteamento Reserva São Bento, no bairro São Bento, com aproximadamente 244 metros de extensão, com início na Rua Ibrahim Mattar e término na Rua Zulmira Fadini Corrêa.
 
-**Artigo 2º** - Fica denominada “RUA SEBASTIÃO IGNÁCIO”, a via pública designada como Rua 17 do loteamento Reserva São Bento, no bairro São Bento, com
-
-aproximadamente 182 metros de extensão, com início na Rua Ibrahim Mattar e término na Rua Zulmira Fadini Corrêa.
+**Artigo 2º** - Fica denominada “RUA SEBASTIÃO IGNÁCIO”, a via pública designada como Rua 17 do loteamento Reserva São Bento, no bairro São Bento, com aproximadamente 182 metros de extensão, com início na Rua Ibrahim Mattar e término na Rua Zulmira Fadini Corrêa.
 
 **Artigo 3º** - As despesas com a execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 

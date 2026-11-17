@@ -14,7 +14,7 @@ data_publicacao: "2022-11-10"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/855"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/66617ff925aff50c5a4692c2b153b9c42022.pdf"
 sha256_fonte: "8a7011961375dcc3bc14647a899d7f9479f71886c1a5a65ef7106cc72e53d821"
-sha256_texto: "fb6419df54802aa9423c184d67a65300caad4a7009529d06321a5642aee4a989"
+sha256_texto: "fe603015bfcfecd37c25fd754d621af3ecf3e4e18f18ee68c6c4a052afcefa54"
 baixado_em: "2026-11-15"
 ---
 
@@ -42,9 +42,7 @@ III - Destinatário: a quem se destinam as ações de cuidado, mencionadas no ca
 
 **§ 3º** - O benefício será concedido prioritariamente quando o destinatário seja beneficiário do Benefício de Prestação Continuada - BPC/LOAS.
 
-**Art. 2º** - Os destinatários dos cuidados são os seguintes sujeitos qualificados, a
-
-saber:
+**Art. 2º** - Os destinatários dos cuidados são os seguintes sujeitos qualificados, a saber:
 
 I - pessoa idosa acamada;
 

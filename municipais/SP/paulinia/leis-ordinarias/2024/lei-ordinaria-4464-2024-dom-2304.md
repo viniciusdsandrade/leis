@@ -14,7 +14,7 @@ data_publicacao: "2024-06-10"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1379"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2304_10050626.pdf"
 sha256_fonte: "9906bf66a03b4a549c99940aefb41e467243cbccce8856d2ce67445afc315772"
-sha256_texto: "e2fa002fd19bf4d44957ff4aada939b8dcd432aa54656302191c4a4bf617af01"
+sha256_texto: "f547965ce026b6385dcb6f44a2172d2d659410d7404374ae1de86e0755451d78"
 baixado_em: "2026-11-15"
 ---
 
@@ -98,9 +98,7 @@ XII - Fomentar a educação e o apoio ao paciente e à sua família;
 
 XIII – (Vetado).
 
-XIV - Poderá garantir tratamento diferenciado, universal e integral às crianças e aos
-
-adolescentes, priorizando a estimulação precoce e tratamento continuado, como:
+XIV - Poderá garantir tratamento diferenciado, universal e integral às crianças e aos adolescentes, priorizando a estimulação precoce e tratamento continuado, como:
 
 a) (Vetado).
 

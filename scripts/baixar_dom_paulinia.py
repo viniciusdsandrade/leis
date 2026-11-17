@@ -87,12 +87,17 @@ def linhas_da_pagina(palavras):
     return [(float(y), max(p[1] for p in ps), " ".join(p[2] for p in sorted(ps))) for y, ps in sorted(grupos.items())]
 
 
-TITULO_EDICAO = re.compile(r"Di[áa]rio\s+Oficial\s*-\s*Ano\s+[IVXLC]+\s*-\s*Edi[çc][ãa]o", re.I)
-# a linha corrida do pé da página; em edições de 2021 e 2022 ela ainda diz "Semanário Oficial"
-RODAPE = re.compile(r"(?:Di[áa]rio|Seman[áa]rio)\s+Oficial\s*\|.*Edi[çc][ãa]o", re.I)
+# o nome do periódico: "Semanário Oficial" até 2020 (e ainda no rodapé de edições de 2021 e 2022), depois "Diário
+# Oficial"; com "EXTRA" nas edições extras e, em 2017, com a ligadura partida ("Oﬁ cial", "Ofi cial")
+_OFICIAL = r"(?:Di[áa]rio|Seman[áa]rio)[ \t]+O(?:fi|ﬁ)[ \t]?cial(?:[ \t]+EXTRA)?"
+TITULO_EDICAO = re.compile(rf"{_OFICIAL}[ \t]*-[ \t]*Ano[ \t]+[IVXLC]+[ \t]*-[ \t]*Edi[çc][ãa]o", re.I)
+# a linha corrida do pé da página: "Semanário Oficial | | Edição 1.175 | Paulínia, 24 de fevereiro de 2016 | 2"; em
+# 2015 sem a palavra "Edição" ("Semanário Oficial | | 1118 | Paulínia, 11 de março de 2015 2")
+_RODAPE = rf"{_OFICIAL}[ \t]*\|[^\n]*(?:Edi[çc][ãa]o|Paul[íi]nia,)"
+RODAPE = re.compile(_RODAPE, re.I)
 
 
-NUMERO_DA_EDICAO = re.compile(rf"Edi[çc][ãa]o\s+(\d[\d.]*)\s*(?:[-|]\s*(?:Paul[íi]nia,\s*)?(\d{{1,2}})\s+de\s+({_MES})\s+de\s+(\d{{4}}))?", re.I)
+NUMERO_DA_EDICAO = re.compile(rf"Edi[çc][ãa]o\s+(\d[\d.]*)\s*(?:-\s*EXTRA\s*)?(?:[-|]\s*(?:Paul[íi]nia,\s*)?(\d{{1,2}})\s+de\s+({_MES})\s+de\s+(\d{{4}}))?", re.I)
 
 
 def edicao_impressa(paginas):
@@ -112,11 +117,16 @@ def mancha(altura, palavras):
     """(topo, base) da área de texto da página, medida nas palavras: abaixo da linha do título da edição (primeira
     página) e acima do expediente ou do rodapé corrido."""
     topo, base = float(TOPO), altura
-    for y0, y1, texto in linhas_da_pagina(palavras):
+    linhas = linhas_da_pagina(palavras)
+    for y0, y1, texto in linhas:
         if y0 < altura * 0.35 and TITULO_EDICAO.search(texto):
             topo = max(topo, y1 + 1)
         elif y0 > altura * 0.6 and (RODAPE.search(texto) or texto.lstrip().startswith("Expediente:")):
             base = min(base, y0 - 1)
+    # o número da página e o nome da cidade, compostos na mesma faixa do rodapé mas alguns pontos acima dele
+    for y0, y1, _ in linhas:
+        if y0 > altura * 0.9 and y0 <= base < y1:
+            base = y0 - 1
     return topo, base
 
 
@@ -153,7 +163,7 @@ def fluxo_do_pdf(pdf):
     """Letras e dígitos da edição na ordem do fluxo do PDF (`pdftotext -raw`), sem o rodapé corrido e o expediente:
     uma segunda leitura, independente da geometria, para confrontar com o recorte."""
     bruto = subprocess.run(["pdftotext", "-q", "-raw", "-enc", "UTF-8", str(pdf), "-"], capture_output=True, timeout=900).stdout
-    texto = re.sub(r"(?:Di[áa]rio|Seman[áa]rio)[ \t]+Oficial[ \t]*\|[^\n]*Edi[çc][ãa]o[^\n]*", "", bruto.decode("utf-8", "replace").replace("\f", "\n"))
+    texto = re.sub(_RODAPE + r"[^\n]*", "", bruto.decode("utf-8", "replace").replace("\f", "\n"), flags=re.I)
     return so_letras("\n".join(ln for ln in texto.split("\n") if not ln.startswith("Expediente:")))
 
 
@@ -163,7 +173,7 @@ def diverge_do_fluxo(corpo, fluxo):
     prosa = re.sub(r"```text\n.*?\n```", "", corpo, flags=re.S)
     ausentes = []
     for paragrafo in prosa.split("\n\n"):
-        letras = so_letras(re.sub(r"\\([*_])", r"\1", paragrafo).replace("**", "").lstrip("#"))
+        letras = _letras_do_paragrafo(paragrafo)
         if len(letras) >= 8 and letras not in fluxo:
             ausentes.append(" ".join(paragrafo.split())[:60])
     if ausentes:
@@ -200,9 +210,12 @@ class Edicao:
 
 
 # ------------------------------------------------------------------------------------------ recorte dos atos
-EPIGRAFE = re.compile(
-    r"^[ \t]*(LEI COMPLEMENTAR|LEI|DECRETO LEGISLATIVO|DECRETO|EMENDA À LEI ORGÂNICA)[ \t]+N[º°o.]*[ \t]*(\d[\d.]*)[ \t]*,?[ \t]*DE[ \t]+(\d{1,2})[ \t]*[º°o]?"
-    rf"[ \t]+DE[ \t]+((?i:{_MES}))[ \t]+DE[ \t]+(\d\.?\d{{3}})[ \t]*\.?[ \t]*$", re.M)
+# a epígrafe em linha própria. Em maiúsculas na maior parte das edições; em versalete ou caixa mista em outras ("Lei nº
+# 3691, de 12 de JULHO DE 2019", "DECRETO Nº 7.431 de 10 DE JANEIRO DE 2.019."), por isso sem distinção de caixa
+_EPIGRAFE = (r"^[ \t]*(LEI COMPLEMENTAR|LEI|DECRETO LEGISLATIVO|DECRETO|EMENDA À LEI ORGÂNICA)[ \t]+N[º°o.]*[ \t]*(\d[\d.]*)[ \t]*,?[ \t]*DE[ \t]+(\d{1,2})[ \t]*[º°o]?"
+             rf"[ \t]+DE[ \t]+((?i:{_MES}))[ \t]+DE[ \t]+(\d\.?\d{{3}})[ \t]*\.?[ \t]*$")
+EPIGRAFE = re.compile(_EPIGRAFE, re.M | re.I)
+EPIGRAFE_EM_MAIUSCULAS = re.compile(_EPIGRAFE, re.M)
 # onde outra publicação começa: epígrafe de outro ato, título de aviso ou cabeçalho de órgão, sempre em maiúsculas
 LIMITE = re.compile(
     r"^[ \t]*(?:(?:LEI COMPLEMENTAR|LEI|DECRETO LEGISLATIVO|DECRETO|PORTARIA|RESOLU[ÇC][ÃA]O|EMENDA|ATO|INSTRU[ÇC][ÃA]O)[ \t]+"
@@ -299,9 +312,16 @@ def atos_da_edicao(trechos, data_edicao):
         pos = len(texto)
     achados = []
     for m in EPIGRAFE.finditer(texto):
-        chave, tipo_na_fonte = TIPOS[m.group(1)]
+        chave, tipo_na_fonte = TIPOS[" ".join(m.group(1).upper().split())]
+        data = data_iso(m.group(3), m.group(4), m.group(5))
+        if not EPIGRAFE_EM_MAIUSCULAS.match(m.group(0)):
+            # em caixa mista a linha também pode ser a citação de outro ato no meio de um texto: só vale como
+            # epígrafe a que tem data de publicação possível nesta edição
+            atraso = (dt.date.fromisoformat(data_edicao) - dt.date.fromisoformat(data)).days if data and data_edicao else -1
+            if not 0 <= atraso <= PRAZO_DE_PUBLICACAO:
+                continue
         achados.append((m, {"chave": chave, "tipo_na_fonte": tipo_na_fonte, "numero": m.group(2).replace(".", "").lstrip("0") or "0",
-                            "data": data_iso(m.group(3), m.group(4), m.group(5)),
+                            "data": data,
                             "pagina": max(n for p, n in paginas if p <= m.start()),
                             "epigrafe": " ".join(m.group(0).split())}))
     vezes = {}
@@ -399,6 +419,36 @@ def recortar(trecho, ato):
 
 
 # ------------------------------------------------------------------------------------------ gravação
+_QUADRO = re.compile(r"(```text\n.*?\n```)", re.S)
+
+
+def _letras_do_paragrafo(paragrafo):
+    return so_letras(re.sub(r"\\([*_])", r"\1", paragrafo).replace("**", "").lstrip("#"))
+
+
+def rejuntar(corpo, fluxo=None):
+    """Desfaz a quebra de parágrafo no meio da frase: o diário às vezes espaça as linhas de um mesmo período, e a
+    leitura as devolve como parágrafos ("... eu, seu Presidente, PROMULGO" / "o seguinte Decreto Legislativo:").
+    Junta o parágrafo que começa em minúscula ao anterior que não termina em pontuação; quadros ficam como estão.
+    Com o fluxo do PDF, só junta o que ele confirma como texto contínuo; o resto fica em dois parágrafos."""
+    saida = []
+    for trecho in _QUADRO.split(corpo):
+        if trecho.startswith("```text"):
+            saida.append(trecho)
+            continue
+        juntos = []
+        for paragrafo in trecho.split("\n\n"):
+            anterior = juntos[-1].rstrip() if juntos else ""
+            if (anterior and re.match(r"[a-zà-ú]", paragrafo) and not re.match(r"[a-z]{1,4}[ \t]*[)\-–.]", paragrafo)
+                    and not anterior.lstrip().startswith("#") and not re.search(r"[.:;!?”\")\-–]$", anterior)
+                    and (fluxo is None or _letras_do_paragrafo(anterior + " " + paragrafo) in fluxo)):
+                juntos[-1] = anterior + " " + paragrafo
+            else:
+                juntos.append(paragrafo)
+        saida.append("\n\n".join(juntos))
+    return "".join(saida)
+
+
 def titulo_de(ato):
     ano, mes, dia = (int(x) for x in ato["data"].split("-"))
     numero = f"{int(ato['numero']):,}".replace(",", ".")
@@ -647,17 +697,18 @@ def executar(de, ate, maximo=0, listar=False, rps=0.5):
         edicao["pdf"] = (cache.get(edicao["id"]) or {}).get("pdf")
         base = {"edicao": edicao["edicao"], "data_edicao": edicao["data"],
                 "fonte": f"{BASE}/portal/diario-oficial/ver/{edicao['id']}"}
-        falhas = [f for f in falhas if f["edicao"] != edicao["edicao"]]
+        # pela página da edição, não pelo número: a listagem do portal repete alguns números em edições diferentes
+        falhas = [f for f in falhas if f["fonte"] != base["fonte"]]
         try:
             edicao["pdf"], pdf = baixar_pdf(rede, edicao)
             cache[edicao["id"]] = {"edicao": edicao["edicao"], "data": edicao["data"], "pdf": edicao["pdf"]}
             leitura = Edicao(pdf)
-            numero, data_impressa = edicao_impressa(leitura.paginas)
-            if numero != edicao["edicao"]:
-                raise RuntimeError(f"o PDF baixado traz a edição {numero or 'sem número'}, não a {edicao['edicao']}")
             motivo = fora_do_modelo(leitura.paginas)
             if motivo:
                 raise RuntimeError(motivo)
+            numero, data_impressa = edicao_impressa(leitura.paginas)
+            if numero != edicao["edicao"]:
+                raise RuntimeError(f"o PDF baixado traz a edição {numero or 'sem número'}, não a {edicao['edicao']}")
             if data_impressa:
                 edicao["data"] = data_impressa  # a data impressa na edição vale mais que a de postagem no portal
                 cache[edicao["id"]]["data"] = data_impressa
@@ -678,6 +729,7 @@ def executar(de, ate, maximo=0, listar=False, rps=0.5):
             corpo = tem_quadro = None
             if not motivo:
                 corpo, tem_quadro = dom.para_md(recorte)
+                corpo = rejuntar(corpo, leitura.fluxo())
                 motivo = diverge_do_fluxo(corpo, leitura.fluxo())
             if not motivo and chave in ja and ja[chave] != destino:
                 if edicao_do_arquivo(ja[chave]) > int(edicao["edicao"]):

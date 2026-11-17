@@ -14,7 +14,7 @@ data_publicacao: "2023-12-08"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1052"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/c35bf4fcb3048739252eb6799fa827d52023.pdf"
 sha256_fonte: "045a5b4a260b35ddca4a51479d56e7a8bb1465ebaafe02f9f7618f5bf539be3a"
-sha256_texto: "a79f089a91ca4bcfbdf7cf20d9d012e1844b4e75edde772e3f3984619d3bcde5"
+sha256_texto: "58b1c5811dc88107ca84cdf7bc3fce0e844e17f58757e452e272b113524fa9bc"
 baixado_em: "2026-11-15"
 ---
 
@@ -102,9 +102,7 @@ II – 50 UFP, em se tratando de pessoa jurídica.
 
 II - consolidado o débito fiscal, será aplicado 1% (um por cento) ao mês a título de acréscimos financeiros do parcelamento, de modo a se obter o valor da parcela mensal, o qual permanecerá constante da primeira até a última, desde que recolhidas nos respectivos vencimentos fixados.
 
-III - a primeira parcela do parcelamento vencerá em até 10 (dez) dias da formalização do respectivo termo, não podendo as parcelas subsequentes resultar em
-
-prazo superior a 30 (trinta) dias do vencimento da primeira parcela; ”
+III - a primeira parcela do parcelamento vencerá em até 10 (dez) dias da formalização do respectivo termo, não podendo as parcelas subsequentes resultar em prazo superior a 30 (trinta) dias do vencimento da primeira parcela; ”
 
 **Art. 13** - O caput do artigo 215 da Lei Complementar Nº 88, de 30 de setembro de 2022, passa a vigorar com a seguinte redação:
 
@@ -154,9 +152,7 @@ III – Em relação aos outros cadastros e tributos do Município, o contribuin
 
 **Art. 19** - O caput do artigo 273 da Lei Complementar Nº 88, de 30 de setembro de 2022, passa a vigorar com a seguinte redação:
 
-“Art. 273. O imposto será lançando anualmente em cada exercício, observando-se
-
-o estado do terreno em 1º de janeiro do ano a que corresponder o lançamento.”
+“Art. 273. O imposto será lançando anualmente em cada exercício, observando-se o estado do terreno em 1º de janeiro do ano a que corresponder o lançamento.”
 
 **Art. 20** - O caput do artigo 288 da Lei Complementar Nº 88, de 30 de setembro de 2022, passa a vigorar com a seguinte redação:
 
@@ -670,9 +666,7 @@ de qualquer espécie.
 
 **Art. 25** - O caput e incisos do artigo 313 da Lei Complementar Nº 88, de 30 de setembro de 2022, passam a vigorar com a seguinte numeração e redação:
 
-“Art. 313. O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do
-
-prestador, exceto nas hipóteses previstas nos incisos I a XXV, quando o imposto será devido no local:
+“Art. 313. O serviço considera-se prestado e o imposto devido no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXV, quando o imposto será devido no local:
 
 I – do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado, na hipótese do § 1o do art. 1o desta Lei Complementar;
 

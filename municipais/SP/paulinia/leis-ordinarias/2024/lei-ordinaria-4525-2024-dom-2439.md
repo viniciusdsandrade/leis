@@ -14,7 +14,7 @@ data_publicacao: "2024-12-26"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1516"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2439_26063407.pdf"
 sha256_fonte: "8cc449aa38b0290363e63c534f6034fbf76e159456cdb81ab5e5d00002c23d6b"
-sha256_texto: "bd2c46695f627a2fa06bc43afa86c1de2024d7c573e5eb3538d90ce95b4ac2e5"
+sha256_texto: "a6231db37218f5a0d2e3613104708b09f02b82e65ce4ffb16d3e892fc52e14ba"
 baixado_em: "2026-11-15"
 ---
 
@@ -30,9 +30,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Art. 1º** Fica denominada “PRAÇA ANTÔNIO MARQUES DA SILVA”, a rotatória entre a Rua Corina Caselatto Grandin, e as Avenidas Alexandre Cazelatto e Luiz Grandin.
 
-**Art. 2º** As despesas com a execução da presente Lei correrão por conta de verba
-
-própria do orçamento vigente, suplementada se necessário.
+**Art. 2º** As despesas com a execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 
 **Art. 3º** Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

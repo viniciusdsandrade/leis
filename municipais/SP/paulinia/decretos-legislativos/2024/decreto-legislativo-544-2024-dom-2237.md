@@ -14,7 +14,7 @@ data_publicacao: "2024-02-29"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1311"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2237_03042906.pdf"
 sha256_fonte: "573443a60995dfde73eb1c1de312515c931aa186a87ad490f64a9ba46e6e4230"
-sha256_texto: "5b8ea6f013b8584377b758b3a47cbc357e4032d71428bf6ba8af7f7be78fdcac"
+sha256_texto: "03c41b17d37c48aa863e15104b5f1f3a5bf3f996378d34e5d1b88cd8a8fbde61"
 baixado_em: "2026-11-15"
 ---
 
@@ -26,9 +26,7 @@ DECRETO LEGISLATIVO Nº 544, DE 27 DE FEVEREIRO DE 2024
 
 Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
 
-**Artigo 1º** - Fica concedido o DIPLOMA PAULO GUSTAVO DE MÉRITO CULTURAL
-
-à BIG BAND DA DIVISÃO DE MÚSICA DE PAULÍNIA, pelos relevantes serviços prestados nas ações promoção, incentivo e fomento à cultura no municí-pio.
+**Artigo 1º** - Fica concedido o DIPLOMA PAULO GUSTAVO DE MÉRITO CULTURAL à BIG BAND DA DIVISÃO DE MÚSICA DE PAULÍNIA, pelos relevantes serviços prestados nas ações promoção, incentivo e fomento à cultura no municí-pio.
 
 **Artigo 2º** - A Câmara Municipal fará, solenemente, a entrega do diploma à homenageada.
 

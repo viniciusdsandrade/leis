@@ -14,7 +14,7 @@ data_publicacao: "2026-10-06"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1940"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2856_06050940.pdf"
 sha256_fonte: "db12292bfc796acbcb65e04af218529053a21d1fcc990607451bf4e7e6603247"
-sha256_texto: "417e5f703572a467e8805609a5b64208b40902a08fa5be56340a357834a9bb45"
+sha256_texto: "c154f5d4dc32bbe121a9d360fbaab691dbec62a696c58b32803ce8652d9982e5"
 baixado_em: "2026-11-15"
 ---
 
@@ -50,9 +50,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Art. 3º** O art. 2º da Lei Municipal nº 3.499, de 03 de março de 2016, passa a vigorar com a seguinte redação:
 
-“Art. 2º A recomposição será integral e abrangerá todos os elementos do espaço público efetivamente atingidos, de modo a restituir ao local condições adequadas
-
-de segurança, funcionalidade, acessibilidade e conservação.
+“Art. 2º A recomposição será integral e abrangerá todos os elementos do espaço público efetivamente atingidos, de modo a restituir ao local condições adequadas de segurança, funcionalidade, acessibilidade e conservação.
 
 **§ 1º** Serão utilizados o mesmo tipo de material e o padrão de qualidade originalmente existentes ou solução compatível de desempenho técnico equivalente ou superior, observadas as normas técnicas aplicáveis e as características originais do local.
 

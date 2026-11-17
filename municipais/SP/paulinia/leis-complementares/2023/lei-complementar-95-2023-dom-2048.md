@@ -14,7 +14,7 @@ data_publicacao: "2023-05-04"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1194"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/0fbe94aee6f3ea589cd2e75890e97d4e2023.pdf"
 sha256_fonte: "fbdc47cdb991bf6b8899ebccdd9ab81f2f4469a20086c30e6877f8ada3f7b899"
-sha256_texto: "89195841b4bc632ee8f7cbd21ad202034498a6524aeb6f0f76305471fcfd4bc4"
+sha256_texto: "149f11abdca94b937e8158ceb27002db6626b7cd9a536d1537839cfe08a05559"
 baixado_em: "2026-11-15"
 ---
 
@@ -122,9 +122,7 @@ III - planejar, coordenar e avaliar o Plano Municipal de Promoção de Igualdade
 
 IV - promover ações que estimulem o respeito aos direitos individuais e coletivos e promovam a correção das desigualdades étnico-raciais no tocante à educação, saúde, segurança, trabalho, moradia, cultura, esporte, lazer, financiamentos públicos e acesso à justiça;
 
-V - coordenar, articular e acompanhar as políticas transversais de Governo para a
-
-promoção da igualdade racial;
+V - coordenar, articular e acompanhar as políticas transversais de Governo para a promoção da igualdade racial;
 
 VI - combater a discriminação racial e religiosa.
 
@@ -186,9 +184,7 @@ Das Competências e da Estrutura da Secretaria Municipal de Desenvolvimento e Ge
 
 (...)
 
-III - Expedir correspondências e atos da Secretaria Municipal de Desenvolvimento
-
-e Gestão de Pessoas, e, Administração Municipal relacionados a atos de pessoal;
+III - Expedir correspondências e atos da Secretaria Municipal de Desenvolvimento e Gestão de Pessoas, e, Administração Municipal relacionados a atos de pessoal;
 
 **Art. 9º** - Fica alterado o art. 61 e parágrafo único do mesmo artigo da Lei Complementar nº 82, de 30 de março de 2022 passando a ter a seguinte redação:
 

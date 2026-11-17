@@ -14,7 +14,7 @@ data_publicacao: "2024-05-17"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1366"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2291_17051030.pdf"
 sha256_fonte: "5f382490e78da88fe1a78a37af49874479fe2f2cfe8a0f0606702b2fc828e8d0"
-sha256_texto: "030c855b721e2b1ef6685a8b169ec61ed84cd6d015de7e82900e3ff38bb566ae"
+sha256_texto: "7db2e6595da6b2585423a1db43e750165513a17beefa70f5b601dd803d1f0cf9"
 baixado_em: "2026-11-15"
 ---
 
@@ -54,9 +54,7 @@ VIII - outros bens públicos, assim definidos em Lei.
 
 **Art. 2º** - Todo e qualquer ato de pichação, vandalismo ou depredação contra o Patrimônio Público ou pichação contra os bens públicos ou patrimônio privado, implicará ao seu causador, aplicação de multa equivalente a 500 UFP’s (Quinhentas Unidades Fiscais de Paulínia) para cada ato praticado, dobrando-se o valor no caso de reincidência, independentemente das sanções penais cabíveis e da obrigação de indenizar os danos de ordem material e moral, porventura ocasionados.
 
-**§ 1º** - No caso de pichação, vandalismo ou depredação contra monumento ou coisa tombada, em virtude do seu valor artístico, arqueológico ou histórico, a multa
-
-será aplicada em dobro.
+**§ 1º** - No caso de pichação, vandalismo ou depredação contra monumento ou coisa tombada, em virtude do seu valor artístico, arqueológico ou histórico, a multa será aplicada em dobro.
 
 **§ 2º** - Até o vencimento da multa, o responsável poderá firmar Termo de Compromisso de Reparação da Paisagem Urbana, e, somente, após comprovação do integral cumprimento afastará a incidência da multa prevista nesta Lei, e poderá abranger também a obrigação de indenizar os danos de ordem material e moral porventura ocasionados.
 

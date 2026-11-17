@@ -14,7 +14,7 @@ data_publicacao: "2024-06-13"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1382"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2307_13053420.pdf"
 sha256_fonte: "bb9b95b640f2ea9e73afac8ecf468b571ef7358fc32b7fd0b9efe36fd1345bda"
-sha256_texto: "6c9d8ddf0b154a5eb3e65a6e6c2dccefc06b7976d71d0e8097aad5adcec4926a"
+sha256_texto: "9881a0375fced20d5fbf9b6663f50ddc25da0ed60a88098e75c1d152ef160aba"
 baixado_em: "2026-11-15"
 ---
 
@@ -50,9 +50,7 @@ VII - O fortalecimento de setores estratégicos por meio de práticas sustentáv
 
 VIII - O monitoramento das ações previstas e a revisão do plano periodicamente.
 
-**Art. 3º** - O Plano Municipal de Adaptação à Mudança Climática de Paulínia assegurará a adequada implementação das estratégias traçadas, prioritariamente, nas
-
-áreas de segurança alimentar e nutricional, hídrica e energética, com vistas ao desenvolvimento socioeconômico alinhado à redução das desigualdades sociais.
+**Art. 3º** - O Plano Municipal de Adaptação à Mudança Climática de Paulínia assegurará a adequada implementação das estratégias traçadas, prioritariamente, nas áreas de segurança alimentar e nutricional, hídrica e energética, com vistas ao desenvolvimento socioeconômico alinhado à redução das desigualdades sociais.
 
 **Parágrafo único** - Deverão ser contempladas medidas de adaptação para diversos setores, respeitadas suas peculiaridades e considerando as diretrizes estabelecidas na legislação pertinente.
 

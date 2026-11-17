@@ -14,7 +14,7 @@ data_publicacao: "2021-07-15"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/738"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/72b40fdb0304cab3e92a25f683e70c102021.pdf"
 sha256_fonte: "d6297497bdc04ef7c0a3a6d56f94cc249916e0f3ea1cf39d2858c9d97dd9a4cc"
-sha256_texto: "cd889947ad020bbbe6804c9946c5a188da19d2115234349146353091b1b02ba0"
+sha256_texto: "621e4331652ea6beb0cef96c5ef820dc4c99562ce200aab77b7293902311fd38"
 baixado_em: "2026-11-15"
 ---
 
@@ -32,9 +32,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Artigo 2º** - As despesas com a execução da presente Lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
 
-**Artigo 3º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as
-
-disposições em contrário.
+**Artigo 3º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Paulínia, 13 de Julho de 2021.
 

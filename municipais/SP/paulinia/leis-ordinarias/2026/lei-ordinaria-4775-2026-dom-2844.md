@@ -14,7 +14,7 @@ data_publicacao: "2026-09-18"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1928"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2844_18054232.pdf"
 sha256_fonte: "a61b447a2c1fb8f65bbbbb9ce8429fe9966fde3eee64dcdc1ff56dbfc9709938"
-sha256_texto: "79e5349f3f7099a38a61eec25c912f7665977e3aff1631f2972e0dcf35505dc8"
+sha256_texto: "e8bfefe350a37754ee88af60d7798ff03984e82f26bfa4db8885cc0c9e2fffe7"
 baixado_em: "2026-11-15"
 ---
 
@@ -68,9 +68,7 @@ V - capacitação de profissionais das áreas de saúde, educação e assistênc
 
 VI - promoção de ações voltadas à orientação de gestantes, pais e responsáveis;
 
-VII - incentivo à identificação e ao encaminhamento adequado dos casos pelos
-
-serviços de saúde;
+VII - incentivo à identificação e ao encaminhamento adequado dos casos pelos serviços de saúde;
 
 VIII - desenvolvimento de ações de combate ao preconceito e à discriminação;
 

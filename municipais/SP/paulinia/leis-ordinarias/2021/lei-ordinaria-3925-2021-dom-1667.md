@@ -14,7 +14,7 @@ data_publicacao: "2021-07-23"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/732"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/60b5b45b10d0383ef4c64b4c1fa434fd2021.pdf"
 sha256_fonte: "158e16b721cedfe8ed279a6690a99d7e689af2b693bfdfe6fe6af4853e6afa66"
-sha256_texto: "d7a1366ecc3b99c3c8f02d6f742d95e6f26d44b2c676cb65a2d9684bf64798f2"
+sha256_texto: "3937c43f50b561a1ea1def58d790509df505b96f6c141cb5750a6da5c46834f6"
 baixado_em: "2026-11-15"
 ---
 
@@ -28,9 +28,7 @@ LEI Nº 3.925, DE 20 DE JULHO DE 2021
 
 A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO e PROMULGO a seguinte Lei:
 
-**Artigo 1º** - Fica revogada a Lei Municipal nº 2.218, de 10 de dezembro de 1998,
-
-que autorizou a doação com encargo de área de terreno, nos termos do disposto na Lei Municipal nº 2.880, de 19 de julho de 2007, a KALAHARI DO BRASIL
+**Artigo 1º** - Fica revogada a Lei Municipal nº 2.218, de 10 de dezembro de 1998, que autorizou a doação com encargo de área de terreno, nos termos do disposto na Lei Municipal nº 2.880, de 19 de julho de 2007, a KALAHARI DO BRASIL
 
 COMÉRCIO DE AQUECEDORES SOLAR LTDA.
 

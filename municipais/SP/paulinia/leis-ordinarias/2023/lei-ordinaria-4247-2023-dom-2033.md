@@ -14,7 +14,7 @@ data_publicacao: "2023-04-11"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1209"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/1b66f79344451fa320a1e039e2fcff002023.pdf"
 sha256_fonte: "47a05b7a69ffbc841ebf9bda5b912a346d86fe7bffaafdf79e8c432901361568"
-sha256_texto: "8ae7b8206bfaa3b2b32bb97787981dc0db89c1cee03c20345966a4bf638b6cd9"
+sha256_texto: "649e14006511ab07185c5fb50ff705fa4472aed1da2336f60f2279b6fbd8109b"
 baixado_em: "2026-11-15"
 ---
 
@@ -28,9 +28,7 @@ LEI Nº 4.247, DE 05 DE ABRIL DE 2023
 
 A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO e PROMULGO a seguinte Lei:
 
-**Art. 1º** - Esta Lei torna obrigatória a exibição de vídeos educativos antidrogas, para fins de acesso à informação, sensibilização, prevenção e combate ao uso de
-
-substâncias alucinógenas ou entorpecentes, nas escolas públicas e privadas no Município.
+**Art. 1º** - Esta Lei torna obrigatória a exibição de vídeos educativos antidrogas, para fins de acesso à informação, sensibilização, prevenção e combate ao uso de substâncias alucinógenas ou entorpecentes, nas escolas públicas e privadas no Município.
 
 **§ 1º** - Os vídeos deverão informar sobre a existência do telefone 153 (emergência da Guarda Municipal de Paulínia) para denúncia sobre tráfico de drogas, bem como conter a informação de que a respectiva ligação não será identificada.
 

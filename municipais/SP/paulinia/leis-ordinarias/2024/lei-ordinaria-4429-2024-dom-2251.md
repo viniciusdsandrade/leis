@@ -14,7 +14,7 @@ data_publicacao: "2024-03-20"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1326"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2251_03050441.pdf"
 sha256_fonte: "86340b7f51d254d22836dab80dbb9691d22afb06a25fa3c3f0883fa04d741414"
-sha256_texto: "803db858066dbae464872585dd48350d7c7713b14ea859646857a1f271707cd4"
+sha256_texto: "05ccf34b1b6448620f78b5a2f437b5e150b52d985547122739bdfdf33e4dfbaa"
 baixado_em: "2026-11-15"
 ---
 
@@ -30,9 +30,7 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **Artigo 1º** - Fica instituído o Dia Municipal do Kung Fu, a ser comemorado, anualmente, no dia 11 de abril.
 
-**Parágrafo único** - O Dia Municipal do Kung Fu possui o objetivo de incentivar a
-
-prática de atividades físicas, por meio da promoção de eventos a serem realizados no âmbito do município.
+**Parágrafo único** - O Dia Municipal do Kung Fu possui o objetivo de incentivar a prática de atividades físicas, por meio da promoção de eventos a serem realizados no âmbito do município.
 
 **Artigo 2º** - Referida data passará a integrar o Calendário Oficial de Eventos do Município de Paulínia.
 

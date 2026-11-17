@@ -14,7 +14,7 @@ data_publicacao: "2021-07-27"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/731"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/d4c9d1e9a7444b4b2d9ff018fb5ba6032021.pdf"
 sha256_fonte: "42ba3151d117ad38e29460e7218f164e776cc1692b93b0373232c936639cbe11"
-sha256_texto: "dae2d9f82774fad55f17f89783901f51f9c5d74d187898d457e1758696e47713"
+sha256_texto: "45269be889e6c2811b9de9c206650f2377e8c09c518058d89e12b8b7e2df0153"
 baixado_em: "2026-11-15"
 ---
 
@@ -170,9 +170,7 @@ Parágrafo Único - O detalhamento das informações sobre a receita e a despesa
 
 **§ 1º** - Os recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, serão utilizados nos termos da legislação vigente, com atendimento prioritário à educação básica, destacando a valorização do magistério, abrangendo toda à educação básica de responsabilidade do município.
 
-**§ 2º** - Os recursos transferidos pelo governo federal e estadual, para aplicação nas áreas da educação, saúde e assistência social, deverão ser utilizados no exercício
-
-de recebimento, salvo situações devidamente justificáveis.
+**§ 2º** - Os recursos transferidos pelo governo federal e estadual, para aplicação nas áreas da educação, saúde e assistência social, deverão ser utilizados no exercício de recebimento, salvo situações devidamente justificáveis.
 
 #### CAPÍTULO IV
 
@@ -268,17 +266,13 @@ IV – Os recursos alocados destinarem-se a contrapartidas de recursos federais,
 
 **§ 1º** - Os projetos que representam a criação, expansão ou aperfeiçoamento de ação governamental, só poderão ser incluídos se atenderem ao disposto nos incisos I e II e parágrafos 1º e 2º do artigo 16 da Lei Complementar nº 101/00.
 
-**§ 2º** - Para efeito da ressalva de que trata o § 3º do artigo 16 da Lei Complementar nº 101/00 - Lei de Responsabilidade Fiscal, considera-se irrelevante a despesa decorrente de criação, expansão ou aperfeiçoamento de ação governamental, cujo
-
-valor total no exercício não ultrapasse a 0,002% da Receita Corrente Líquida - RCL estando desobrigado da estimativa do impacto orçamentário-financeiro.
+**§ 2º** - Para efeito da ressalva de que trata o § 3º do artigo 16 da Lei Complementar nº 101/00 - Lei de Responsabilidade Fiscal, considera-se irrelevante a despesa decorrente de criação, expansão ou aperfeiçoamento de ação governamental, cujo valor total no exercício não ultrapasse a 0,002% da Receita Corrente Líquida - RCL estando desobrigado da estimativa do impacto orçamentário-financeiro.
 
 #### CAPÍTULO VII
 
 DA RESERVA DE CONTINGÊNCIA
 
-**Art. 22** - A Lei Orçamentária conterá dotação para reserva de contingência, destinado ao atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos, constituída exclusivamente com recursos do
-
-orçamento fiscal, em montante equivalente a pelo menos 0,5% (zero vírgula cinco por cento) da receita corrente líquida que for prevista para o exercício de 2022.
+**Art. 22** - A Lei Orçamentária conterá dotação para reserva de contingência, destinado ao atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos, constituída exclusivamente com recursos do orçamento fiscal, em montante equivalente a pelo menos 0,5% (zero vírgula cinco por cento) da receita corrente líquida que for prevista para o exercício de 2022.
 
 Parágrafo Único – O valor reservado para contingência será utilizado para atendimento de passivos não previstos na Lei Orçamentária, e no caso de sua não utilização, ou utilização parcial, seu saldo poderá ser destinado ao reforço de outras dotações orçamentárias de custeio, no último quadrimestre do exercício.
 
@@ -320,9 +314,7 @@ e) - demais demonstrativos exigidos pela Lei Federal nº 4.320, de 17 de março 
 
 **Art. 26** - A inclusão de recursos para o custeio de despesas na LOA - Lei Orçamentária Anual 2022, de outros entes da Federação somente poderá ocorrer em situações que envolvam claramente o atendimento de interesses locais, atendidos os dispositivos constantes do artigo 62 da Lei Complementar nº 101, de 04 de maio de 2000 e mediante lei específica.
 
-**Art. 27** - A Lei Orçamentária Anual para 2022 somente contemplará dotações orçamentárias para investimentos com duração superior a um exercício financeiro se o mesmo estiver contido no plano plurianual ou em lei municipal que autorize
-
-sua inclusão.
+**Art. 27** - A Lei Orçamentária Anual para 2022 somente contemplará dotações orçamentárias para investimentos com duração superior a um exercício financeiro se o mesmo estiver contido no plano plurianual ou em lei municipal que autorize sua inclusão.
 
 **Art. 28** - A proposta orçamentária será elaborada por unidade orçamentária, podendo ser desdobrada por unidades executoras, e as despesas serão classificadas de conformidade com a Portaria 42, de 14 de abril de 1999, e Portaria Interministerial nº 163, de 04 de maio de 2001, com alterações posteriores, além de atendimento às normas complementares que venham a ser estabelecidas, incluindo-se em cada dotação orçamentária, a fonte de recursos e códigos de aplicação.
 

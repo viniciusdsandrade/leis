@@ -14,7 +14,7 @@ data_publicacao: "2024-12-12"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1507"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2431_12054743.pdf"
 sha256_fonte: "08bf2ee437a98b3300367d8aed612df814d317ff24e3da20fa88487e690489ea"
-sha256_texto: "2783d52f8b912b3ec44cd9e40be5c12b691c6437eba33cf7aa619033ffc66a31"
+sha256_texto: "12b67f8a083c0614f7cac3a3f65223a35ca819f124f19c2f8246cd42c2048f66"
 baixado_em: "2026-11-15"
 ---
 
@@ -60,9 +60,7 @@ VI - não possuir imóvel em seu nome e nem ser detentor de direito de usufruto.
 
 **Art. 6º** Regulamento disporá, ainda, entre outros aspectos, sobre:
 
-I - a administração de cada conjunto habitacional do Programa Habitacional Recanto dos Girassóis, que será exercida de forma direta pela Administração Pública municipal ou por Organização da Sociedade Civil (OSC) a ser escolhida
-
-por meio de procedimento licitatório;
+I - a administração de cada conjunto habitacional do Programa Habitacional Recanto dos Girassóis, que será exercida de forma direta pela Administração Pública municipal ou por Organização da Sociedade Civil (OSC) a ser escolhida por meio de procedimento licitatório;
 
 II - os direitos e deveres dos beneficiários, as vedações e condições de permanência no projeto;
 

@@ -14,7 +14,7 @@ data_publicacao: "2025-08-29"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1678"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/2597_29050730.pdf"
 sha256_fonte: "07e3abbdbce62023b7101431ba7e11b23f61a40fe71b6df5e7074e16696d811b"
-sha256_texto: "ca15a91242bb88fada1f6af0819e3a91375de0b5f34917bf2041d010e304b817"
+sha256_texto: "f4897e48c0af1c3d4f73478fbcd366c1a4b410b41052c93faf1b8f8d058f2e52"
 baixado_em: "2026-11-15"
 ---
 
@@ -36,17 +36,13 @@ A Câmara Municipal APROVOU e eu, Prefeito do Município de Paulínia, SANCIONO 
 
 **§ 2º** Considera-se para os efeitos da presente Lei, famílias em situação de vulnerabilidade e risco social aquelas que tenham esgotados os recursos da rede sócio-assistencial;
 
-**§ 3º** Para efeitos desta Lei, será considerado como baixa renda as famílias com
-
-renda per capita mensal de 1/2 salário mínimo nacional vigente;
+**§ 3º** Para efeitos desta Lei, será considerado como baixa renda as famílias com renda per capita mensal de 1/2 salário mínimo nacional vigente;
 
 **§ 4º** Para efeitos desta Lei, considera-se família o núcleo composto de uma ou mais pessoas, unidas por laços consanguíneos, afetivos e/ou de solidariedade, que formem um grupo doméstico, com residência no mesmo domicílio, cuja sobrevivência e reprodução social pressupõem obrigações recíprocas e o compartilhamento de renda e/ou dependência econômica e que deve favorecer a satisfação das necessidades de seus membros, tais como apoio financeiro, alimentação e vestuário, proteção e socialização e apoio emocional entre seus membros;
 
 **§ 5º** O subsídio do Auxílio Emergencial de Moradia será destinado exclusivamente ao pagamento de locação residencial;
 
-**§ 6º** Para cálculo de renda per capita será considerada a renda mensal bruta familiar dividida pelo número de membros da família. A soma dos rendimentos brutos auferidos mensalmente pelos membros da família é composta
-
-por salários, proventos, obrigações alimentícias de caráter indenizatório, benefícios de previdência pública ou privada, seguro-desemprego, comissões, pro labore, outros rendimentos do trabalho não assalariado, rendimentos do trabalho informal ou autônomo, rendimentos auferidos do patrimônio e renda mensal vitalícia;
+**§ 6º** Para cálculo de renda per capita será considerada a renda mensal bruta familiar dividida pelo número de membros da família. A soma dos rendimentos brutos auferidos mensalmente pelos membros da família é composta por salários, proventos, obrigações alimentícias de caráter indenizatório, benefícios de previdência pública ou privada, seguro-desemprego, comissões, pro labore, outros rendimentos do trabalho não assalariado, rendimentos do trabalho informal ou autônomo, rendimentos auferidos do patrimônio e renda mensal vitalícia;
 
 **§ 7º** Não serão computados para o cálculo de renda per capita obrigações alimentícias de relação familiar e benefícios de transferência de renda, tais como PAS, Programa Bolsa Família, Renda Cidadão, Ação Jovem, BPC, Guarda Familiar subsidiada e afins.
 

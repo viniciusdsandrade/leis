@@ -14,7 +14,7 @@ data_publicacao: "2022-10-17"
 fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/870"
 fonte_texto: "https://www.paulinia.sp.gov.br/uploads/72b5f024e45054a4bd8761a301f2f2fa2022.pdf"
 sha256_fonte: "10ff5c32582f695ab321242cb09b2837eb0c06a8cdb9c9be90d7839360c5d727"
-sha256_texto: "47ef3f7f52fe3901f573f675dd1f9600907921c1ac979b69d33decb4dd16b1e7"
+sha256_texto: "065e8140af5ca8e3f4c81d8ee9d88cac3edeaddb464b348a6b58708776914f09"
 baixado_em: "2026-11-15"
 ---
 
@@ -106,9 +106,7 @@ ACIP.
 
 **Art. 6º** - O Conselho Municipal Urbano - COMURB poderá, sempre que necessário, solicitar a contratação de assessoria técnica e operacional às suas atividades, inclusive peritos para Laudos de avaliação, que serão custeadas pela Administração Pública, respeitando a disponibilidade orçamentária.
 
-**Art. 7º** - O funcionamento do Conselho Municipal Urbano - COMURB será disciplinado no respectivo Regimento Interno à ser aprovado por maioria simples, em ato com caráter excepcionalmente deliberativo, pelos seus respectivos membros e pelo Chefe do Executivo, em até 30 (trinta) dias a partir da publicação desta Lei,
-
-devendo contemplar os seguintes aspectos:
+**Art. 7º** - O funcionamento do Conselho Municipal Urbano - COMURB será disciplinado no respectivo Regimento Interno à ser aprovado por maioria simples, em ato com caráter excepcionalmente deliberativo, pelos seus respectivos membros e pelo Chefe do Executivo, em até 30 (trinta) dias a partir da publicação desta Lei, devendo contemplar os seguintes aspectos:
 
 I - Coordenação a quem competirá à condução dos trabalhos;
 
