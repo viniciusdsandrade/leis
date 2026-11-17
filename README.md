@@ -18,7 +18,7 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 14/11/2026 eram **1.395.843 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 15/11/2026 eram **1.396.151 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
@@ -26,8 +26,8 @@ são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do 
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 510.374 | 87,7% |
 | 2 | Infralegal e jurisprudência | 766.716 | 75,3% |
-| 3 | Direito municipal | 118.753 | 1,0% |
-| | **Total** | **1.395.843** | |
+| 3 | Direito municipal | 119.061 | 1,0% |
+| | **Total** | **1.396.151** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -218,6 +218,7 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | --- | --- |
 | Campinas (SP) | SAPL da Câmara Municipal (API REST), com PDF anexado e OCR quando escaneado |
 | Campinas (SP) | Biblioteca Jurídica da Prefeitura (bibjuri), para normas que o SAPL cadastra só como ficha |
+| Paulínia (SP) | Diário Oficial do Município (portal da Prefeitura, PDF nascido digital): leis, decretos e decretos legislativos recortados das edições |
 | Municípios com SAPL | SAPL das câmaras, para leis orgânicas e emendas |
 | Salvador (BA) | Diário Oficial do Município e Diário Oficial do Legislativo (Dioly) |
 | Rio de Janeiro (RJ) | Câmara Municipal do Rio de Janeiro |
@@ -249,6 +250,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | **Campinas**: cerca de 900 atos do SAPL | retidos por integridade (OCR ilegível, vários atos na mesma página, texto de outro ato), cada um com o motivo registrado |
 | **Campinas**: 53 atos até 1948 | o bibjuri só tem a ementa ou não tem a norma |
 | **Campinas**: 84 decretos no recorte do DOM | retidos por integridade em [`municipais/_indice/dom-campinas/retidos.json`](municipais/_indice/dom-campinas/retidos.json) (epígrafe ausente no jornal, falta de assinatura ou anexo posterior) |
+| **Paulínia**: 43 atos de 2026 no recorte do Diário Oficial | retidos por integridade em [`municipais/SP/paulinia/_falhas.jsonl`](municipais/SP/paulinia/_falhas.jsonl) (anexo depois das assinaturas, quadro lido como prosa, falta de assinatura, republicação); a edição nº 2755 fica fora porque o portal entrega o PDF da nº 2756; edições de 2012 a 2025 ainda por coletar |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
 ### Pendências das fontes estaduais

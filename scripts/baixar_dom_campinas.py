@@ -84,10 +84,10 @@ def palavras_por_pagina(pdf):
     return paginas
 
 
-def calha(largura, caixas):
+def calha(largura, caixas, topo=TOPO):
     """x da calha: entre 40% e 60% da largura, o ponto coberto pelo menor número de palavras (mais perto do centro no
     empate). None quando nenhum ponto fica quase livre, isto é, a página não tem duas colunas."""
-    corpo = [c for c in caixas if c[1] >= TOPO]
+    corpo = [c for c in caixas if c[1] >= topo]
     if not corpo:
         return None
     melhor = None
@@ -101,20 +101,24 @@ def calha(largura, caixas):
     return None if n > max(8, linhas * 0.3) else float(melhor[1])
 
 
-def zonas_da_pagina(largura, altura, caixas):
+def zonas_da_pagina(largura, altura, caixas, topo=TOPO, base=None):
     """Regiões da página na ordem de leitura: [(x, y, w, h)]. Faixas que cruzam a calha são lidas inteiras; entre
-    elas, a coluna esquerda e depois a direita."""
-    g = calha(largura, caixas)
+    elas, a coluna esquerda e depois a direita. `topo` e `base` limitam a mancha: acima e abaixo ficam o cabeçalho e
+    o rodapé corridos (outros diários usam medidas próprias)."""
+    if base is not None:
+        caixas = [c for c in caixas if c[3] <= base]
+        altura = base
+    g = calha(largura, caixas, topo)
     if g is None:
-        return [(0.0, float(TOPO), largura, altura - TOPO)]
-    cruzam = sorted((y0, y1) for x0, y0, x1, y1 in caixas if y0 >= TOPO and x0 < g - 1 and x1 > g + 1)
+        return [(0.0, float(topo), largura, altura - topo)]
+    cruzam = sorted((y0, y1) for x0, y0, x1, y1 in caixas if y0 >= topo and x0 < g - 1 and x1 > g + 1)
     faixas = []
     for y0, y1 in cruzam:
         if faixas and y0 <= faixas[-1][1] + 6:
             faixas[-1][1] = max(faixas[-1][1], y1)
         else:
             faixas.append([y0, y1])
-    zonas, y = [], float(TOPO)
+    zonas, y = [], float(topo)
     for y0, y1 in faixas:
         if y0 - 1 > y:
             zonas.append(["colunas", y, y0 - 1])
