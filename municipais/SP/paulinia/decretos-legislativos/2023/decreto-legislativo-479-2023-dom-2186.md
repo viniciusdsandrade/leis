@@ -1,0 +1,45 @@
+---
+titulo: "Decreto Legislativo nº 479, de 28 de novembro de 2023"
+tipo: "Decreto Legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "479"
+data: "2023-11-28"
+municipio: "Paulínia"
+uf: "SP"
+codigo_ibge: "3536505"
+ementa: "DISPÕE SOBRE A CONCESSÃO DO DIPLOMA 28 DE FEVEREIRO AO SENHOR AUGUSTO SEBASTIÃO DA SILVA."
+versao_texto: "texto original (não consolidado); recortado da edição do Diário Oficial do Município (PDF do portal da Prefeitura de Paulínia), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Diário Oficial do Município de Paulínia, edição nº 2186, de 04/12/2023, p. 6"
+data_publicacao: "2023-12-04"
+fonte: "https://www.paulinia.sp.gov.br/portal/diario-oficial/ver/1056"
+fonte_texto: "https://www.paulinia.sp.gov.br/uploads/4eefe8f72afe12fffa1888b8fb5c53332023.pdf"
+sha256_fonte: "6143643544503a4a6d6353cc1aff617497cfaf0cb1050b99d05f876071792fdf"
+sha256_texto: "d5e2b9921c1a0e966b30845ab054d3f82d72f421989974fc0596165b6058c6d3"
+baixado_em: "2026-11-15"
+---
+
+# Decreto Legislativo nº 479, de 28 de novembro de 2023
+
+DECRETO LEGISLATIVO Nº 479, DE 28 DE NOVEMBRO DE 2023
+
+“DISPÕE SOBRE A CONCESSÃO DO DIPLOMA 28 DE FEVEREIRO AO SENHOR AUGUSTO SEBASTIÃO DA SILVA.”
+
+Faço saber que a Câmara Municipal APROVOU e eu, seu Presidente, PROMULGO o seguinte Decreto Legislativo:
+
+**Artigo 1º** - Fica concedido o Diploma 28 de Fevereiro ao Senhor Augusto Sebastião da Silva, pelos relevantes serviços prestados a Paulínia.
+
+**Artigo 2º** - A Câmara Municipal fará, solenemente, a entrega do título ao homenageado.
+
+**Artigo 3º** - Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Prédio Ulysses Guimarães, 28 de novembro de 2023
+
+VEREADOR EDILSINHO RODRIGUES
+
+PRESIDENTE
+
+Publicado na Secretaria. Data supra.
+
+RODRIGO ANTONIO QUAIATTI
+
+DIRETOR DO DEPARTAMENTO LEGISLATIVO
