@@ -97,6 +97,15 @@ class IdentidadeDoAnexo(unittest.TestCase):
         oficio = "Câmara Municipal de Jarinu\n\nOfício Legislativo n° 17/2026\n\nJarinu, em 3 de junho de 2026\n"
         self.assertFalse(sapl.abre_com_a_propria_epigrafe(oficio, "Decreto Legislativo", "17"))
 
+    def test_ficha_importada_com_data_provisoria(self):
+        importada = {"ementa": "Documento importado do acervo historico - Decreto Legislativo 24/2026", "data": "2026-01-01"}
+        self.assertTrue(sapl.ficha_importada_com_data_provisoria(importada))
+        self.assertTrue(sapl.ficha_importada_com_data_provisoria({"ementa": "Aprova as contas", "observacao": "Importado de DL4_2025.pdf",
+                                                                   "data": "2025-01-01"}))
+        # importada, mas com data real: segue para as outras conferências
+        self.assertFalse(sapl.ficha_importada_com_data_provisoria({**importada, "data": "2026-06-02"}))
+        self.assertFalse(sapl.ficha_importada_com_data_provisoria({"ementa": "Autoriza o pacto de amizade", "data": "2026-01-01"}))
+
 
 if __name__ == "__main__":
     unittest.main()
