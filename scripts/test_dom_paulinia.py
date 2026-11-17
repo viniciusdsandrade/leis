@@ -492,7 +492,143 @@ class Geometria(unittest.TestCase):
 
     def test_formato_fora_do_modelo(self):
         self.assertIsNone(p.fora_do_modelo({1: (722.835, 841.89, [])}))
-        self.assertIn("fora do leiaute", p.fora_do_modelo({1: (722.835, 841.89, []), 2: (651.969, 864.567, [])}))
+        self.assertIn("fora dos leiautes", p.fora_do_modelo({1: (722.835, 841.89, []), 2: (651.969, 864.567, [])}))
+        self.assertIn("fora dos leiautes", p.fora_do_modelo({1: (765.0, 884.0, [])}))  # a edição 1205, de 2016
+
+    def test_leiaute_de_jornal_simples_e_duplo(self):
+        self.assertEqual(p.leiaute({1: (651.969, 892.913, []), 2: (1303.94, 892.913, []), 3: (651.969, 892.913, [])}), p.JORNAL)
+        self.assertEqual(p.leiaute({1: (722.835, 841.89, [])}), "modelo")
+        self.assertIsNone(p.leiaute({1: (722.835, 841.89, []), 2: (651.969, 892.913, [])}))
+        self.assertIsNone(p.fora_do_modelo({1: (651.969, 892.913, []), 2: (1303.94, 892.913, [])}))
+        self.assertEqual(p.fora_do_modelo({1: (722.835, 841.89, []), 2: (651.969, 892.913, [])}),
+                         "edição que mistura o leiaute de duas colunas e o de jornal")
+
+
+def palavras(y, x, texto, altura=10.6, passo=30):
+    return [(x + passo * i, y, x + passo * i + passo - 4, y + altura, w) for i, w in enumerate(texto.split())]
+
+
+class Jornal(unittest.TestCase):
+    EDICAO = """SERVIÇO
+DE EXPEDIENTE
+
+DECRETO Nº 6.433,
+DE 25 DE FEVEREIRO DE 2013.
+
+        “DISPÕE SOBRE A COMPOSI-
+        ÇÃO DO CONSELHO.”
+
+O cidadão JOSÉ PAVAN JUNIOR, Prefei-
+to do Município de Paulínia, DECRETA:
+
+Artigo 1º - São nomeados os membros.
+
+Artigo 2º - Este Decreto entrará em
+vigor na data de sua publicação.
+
+Palácio 28 de Fevereiro, 25 de fevereiro de
+2013
+
+         JOSÉ PAVAN JUNIOR
+           Prefeito Municipal
+
+Lavrado na Secretaria dos Negócios Ju-
+rídicos e publicado no Gabinete do Pre-
+feito, na data supra.
+
+         DR. WASHINGTON
+     CARLOS RIBEIRO SOARES
+   Secretário dos Negócios Jurídicos
+
+DECRETO Nº 6.434,
+DE 25 DE FEVEREIRO DE 2013.
+"""
+
+    def test_epigrafe_em_duas_linhas_so_no_jornal(self):
+        self.assertTrue(p.EPIGRAFE_DE_JORNAL.search("DECRETO Nº 6.433,\nDE 25 DE FEVEREIRO DE 2013."))
+        self.assertTrue(p.EPIGRAFE_DE_JORNAL.search("LEI Nº 3.300, DE 1º DE MARÇO\nDE 2013"))
+        self.assertIsNone(p.EPIGRAFE_DE_JORNAL.search("DECRETO Nº 6.433,\n\nDE 25 DE FEVEREIRO DE 2013."))
+        self.assertIsNone(p.EPIGRAFE.search("DECRETO Nº 6.433,\nDE 25 DE FEVEREIRO DE 2013."))
+        # a citação em caixa mista no meio da prosa continua fora: a linha não termina no ano
+        self.assertIsNone(p.EPIGRAFE_DE_JORNAL.search("Lei Complementar nº 18, de 09\nde outubro de 2001, que dispõe"))
+
+    def test_recorta_o_ato_com_nome_do_signatario_em_duas_linhas(self):
+        (ato, recorte, motivo), (_, _, _) = p.atos_da_edicao([(4, self.EDICAO)], "2013-02-27", jornal=True)
+        self.assertIsNone(motivo)
+        self.assertEqual(ato["epigrafe"], "DECRETO Nº 6.433, DE 25 DE FEVEREIRO DE 2013.")
+        self.assertTrue(recorte.startswith("DECRETO Nº 6.433, DE 25 DE FEVEREIRO DE 2013.\n"))
+        self.assertTrue(recorte.rstrip().endswith("Secretário dos Negócios Jurídicos"))
+        self.assertNotIn("6.434", recorte)
+        # fora do modo jornal a epígrafe partida não é reconhecida
+        self.assertEqual(p.atos_da_edicao([(4, self.EDICAO)], "2013-02-27"), [])
+
+    def test_fecho_do_palacio_com_a_data_partida_e_conferido(self):
+        trocada = self.EDICAO.replace("Palácio 28 de Fevereiro, 25 de fevereiro de", "Palácio 28 de Fevereiro, 25 de abril de")
+        (_, recorte, motivo), _ = p.atos_da_edicao([(4, trocada)], "2013-02-27", jornal=True)
+        self.assertIsNone(recorte)
+        self.assertIn("data do fecho (2013-04-25) difere", motivo)
+
+    def test_colunas_e_titulo_que_cruza_a_calha(self):
+        # duas colunas de corpo 10,6 pt; o título de seção, em 16,7 pt, atravessa a calha entre elas no alto da página
+        corpo = palavras(100, 20, "um dois três") + palavras(120, 20, "quatro cinco") + palavras(100, 200, "seis sete") + palavras(120, 200, "oito")
+        titulo = palavras(40, 60, "Atos do poder Executivo", altura=16.7, passo=50)
+        regioes = p.colunas_de_jornal(corpo + titulo, 15.0, 800.0)
+        self.assertEqual([(round(x0), round(y0), round(y1)) for x0, y0, x1, y1 in regioes],
+                         [(20, 15, 39), (20, 58, 800), (200, 15, 39), (200, 58, 800)])
+        # sem título, uma região por coluna, da esquerda para a direita
+        self.assertEqual([(round(r[0]), round(r[1])) for r in p.colunas_de_jornal(corpo, 15.0, 800.0)], [(20, 15), (200, 15)])
+
+    def test_titulo_dentro_de_uma_coluna_continua_no_texto(self):
+        corpo = palavras(100, 20, "um dois três") + palavras(100, 200, "seis sete")
+        titulo = palavras(60, 20, "ANEXO I", altura=16.7, passo=40)
+        regioes = p.colunas_de_jornal(corpo + titulo, 15.0, 800.0)
+        self.assertEqual([(round(r[0]), round(r[1]), round(r[3])) for r in regioes], [(20, 15, 800), (200, 15, 800)])
+
+    def test_rodape_de_jornal_e_o_nome_do_periodico(self):
+        rodape = palavras(860, 20, "Paulínia, 27 de fevereiro de 2013 Semanário Oficial - Edição 998")
+        paginas = {1: (651.969, 892.913, palavras(30, 20, "SEMANÁRIO OFICIAL") + rodape)}
+        self.assertEqual(p.edicao_impressa(paginas), ("998", "2013-02-27"))
+        self.assertEqual(p.periodico(paginas), "Semanário Oficial")
+        titulo = {1: (722.8, 841.9, palavras(154.0, 10, "Diário Oficial - Ano XXXIII - Edição 2.881 - 13 de Novembro de 2026"))}
+        self.assertEqual(p.periodico(titulo), "Diário Oficial")
+        self.assertEqual(p.mancha_de_jornal(892.913, rodape + palavras(100, 20, "texto")), (15.0, 859.0))
+
+    def test_publicacao_traz_o_nome_do_periodico(self):
+        ato = {"chave": "decreto", "tipo_na_fonte": "Decreto", "numero": "6433", "data": "2013-02-25", "pagina": 4}
+        edicao = {"edicao": "998", "data": "2013-02-27", "id": "107", "pdf": "https://x/y.pdf", "periodico": "Semanário Oficial"}
+        md = p.montar_md(ato, edicao, "texto", False, "0" * 64, p.dt.date(2026, 11, 17))
+        self.assertIn('publicacao: "Semanário Oficial do Município de Paulínia, edição nº 998, de 27/02/2013, p. 4"', md)
+        self.assertIn("recortado da edição do Semanário Oficial do Município", md)
+        del edicao["periodico"]
+        self.assertIn('publicacao: "Diário Oficial do Município de Paulínia', p.montar_md(ato, edicao, "texto", False, "0" * 64,
+                                                                                    p.dt.date(2026, 11, 17)))
+
+
+class Robots(unittest.TestCase):
+    ROBOTS = """User-agent: *
+Content-Signal: search=yes,ai-train=no,use=reference
+Allow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: *
+Disallow: /uploads/
+Disallow: /portal/download/
+"""
+
+    def test_grupos_do_mesmo_agente_se_somam(self):
+        caminhos = ["/portal/diario-oficial/1/0/0/0/0", "/portal/download/diario-oficial/x/", "/uploads/a.pdf"]
+        self.assertEqual(p.vedados_pelo_robots(self.ROBOTS, caminhos), ["/portal/download/diario-oficial/x/", "/uploads/a.pdf"])
+        self.assertEqual(p.vedados_pelo_robots(self.ROBOTS, ["/portal/diario-oficial/"], "ClaudeBot"), ["/portal/diario-oficial/"])
+
+    def test_allow_mais_longo_vence(self):
+        robots = "User-agent: *\nDisallow: /portal/\nAllow: /portal/diario-oficial/\n"
+        self.assertEqual(p.vedados_pelo_robots(robots, ["/portal/diario-oficial/1", "/portal/download/x"]), ["/portal/download/x"])
+
+    def test_so_cache_nao_baixa(self):
+        with self.assertRaisesRegex(RuntimeError, "robots.txt"):
+            p.baixar_pdf(None, {"id": "nao-existe-no-cache", "token": "x"}, so_cache=True)
 
 
 if __name__ == "__main__":
