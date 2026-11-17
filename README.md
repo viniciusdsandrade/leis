@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 17/11/2026 eram **1.402.862 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 17/11/2026 eram **1.406.270 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 510.442 | 87,7% |
-| 2 | Infralegal e jurisprudência | 769.577 | 75,7% |
+| 2 | Infralegal e jurisprudência | 772.985 | 76,0% |
 | 3 | Direito municipal | 122.843 | 1,1% |
-| | **Total** | **1.402.862** | |
+| | **Total** | **1.406.270** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
