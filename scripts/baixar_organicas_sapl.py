@@ -722,6 +722,10 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                 continue
                             if max_documentos and ok >= max_documentos:
                                 continue
+                            # antes do download: a ficha será retida de qualquer modo, e o pedido ao anexo custa um
+                            # minuto de Crawl-delay em Jarinu
+                            if host in HOSTS_EPIGRAFE_PROPRIA and ficha_importada_com_data_provisoria(n):
+                                raise RuntimeError("ficha importada do acervo histórico com a data provisória de 1º de janeiro; conferir a data e o anexo")
                             troca = texto_de_outra_norma(host, n["id"])
                             url = troca["texto_integral"] if troca else (
                                 n.get("texto_integral") or texto_integral_alternativo(n.get("observacao") or "", host))
@@ -765,8 +769,6 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                     leg = legibilidade(corpo, lexico)
                                     if leg is not None and leg < LEGIBILIDADE_MINIMA:
                                         raise RuntimeError(f"OCR com baixa legibilidade ({leg:.0%} das palavras conhecidas no acervo do município); revisar")
-                            if host in HOSTS_EPIGRAFE_PROPRIA and ficha_importada_com_data_provisoria(n):
-                                raise RuntimeError("ficha importada do acervo histórico com a data provisória de 1º de janeiro; conferir a data e o anexo")
                             if host in HOSTS_EPIGRAFE_PROPRIA and not abre_com_a_propria_epigrafe(corpo, tipo["descricao"], n["numero"]):
                                 raise RuntimeError("o anexo não abre com a epígrafe da própria norma; conferir a identidade do documento")
                             if troca:
