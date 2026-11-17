@@ -97,3 +97,4 @@ estados/test_sp_cabecalho.py
 estados/test_tabelas_estrutura.py
 estados/test_vigencia_coletores.py
 estados/test_visuais_fonte.py
+test_carimbo_1doc.py

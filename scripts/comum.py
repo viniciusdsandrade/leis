@@ -2,6 +2,7 @@
 import collections
 import datetime as dt
 import gzip
+import html as _html
 import hashlib
 import io
 import json
@@ -657,10 +658,50 @@ def sem_campo_pagina_word(corpo):
     return "\n\n".join(paragrafos) + fim
 
 
-def documento_para_md(bruto, url="", content_type="", remover_inicio=(), colunas=False):
+# carimbo da assinatura eletrônica da plataforma 1Doc, impresso na vertical na margem direita de cada página:
+#   "Assinado por 2 pessoas: FULANO DE TAL e BELTRANA DA SILVA"
+#   "Para verificar a validade das assinaturas, acesse https://jarinu.1doc.com.br/verificacao/9829-CFDB-A882-5954 e ..."
+# O `pdftotext -layout` o devolve como linha própria no meio do corpo, cercada de linhas em branco que partem o
+# parágrafo; por isso a página é lida recortada à esquerda da faixa do carimbo.
+CARIMBO_1DOC = re.compile(r"Assinado por \d+ pessoas?:|Para verificar a validade das assinaturas|1doc\.com\.br/verificacao")
+
+
+def texto_pdf_sem_carimbo_1doc(pdf):
+    """(texto, None) do PDF em `pdftotext -layout`, página a página, cada página recortada à esquerda da faixa vertical
+    do carimbo 1Doc quando ela existe; (None, motivo) quando alguma palavra do corpo invade a faixa ou quando sobra
+    pedaço do carimbo no texto. Páginas separadas por \\f, como no pdftotext."""
+    saida = subprocess.run(["pdftotext", "-q", "-bbox", pdf, "-"], capture_output=True, timeout=300).stdout.decode("utf-8", "replace")
+    paginas = re.findall(r'<page width="([\d.]+)" height="([\d.]+)">(.*?)</page>', saida, re.S)
+    textos = []
+    for n, (largura, altura, miolo) in enumerate(paginas, 1):
+        largura, altura = float(largura), float(altura)
+        palavras = [(float(a), float(b), float(c), float(d), _html.unescape(w)) for a, b, c, d, w in
+                    re.findall(r'<word xMin="([\d.]+)" yMin="([\d.]+)" xMax="([\d.]+)" yMax="([\d.]+)">(.*?)</word>', miolo)]
+        # palavra vertical na margem direita: mais alta que larga, a partir de 85% da largura da página
+        verticais = [p for p in palavras if p[0] > largura * 0.85 and len(p[4]) >= 2 and (p[3] - p[1]) > 1.5 * (p[2] - p[0])]
+        args = ["-f", str(n), "-l", str(n)]
+        if verticais:
+            # a faixa é a das palavras verticais; dentro dela também os números e letras soltos do carimbo ("2", "e")
+            x0, x1 = min(p[0] for p in verticais) - 1, max(p[2] for p in verticais) + 1
+            corte = x0
+            invasoras = [p for p in palavras if p[2] > corte and not (p[0] >= x0 and p[2] <= x1)]
+            if invasoras:
+                return None, f"palavra do corpo na faixa do carimbo 1Doc na página {n} (\"{invasoras[0][4]}\"); conferir o recorte"
+            args += ["-x", "0", "-y", "0", "-W", str(int(corte)), "-H", str(int(altura) + 1)]
+        r = subprocess.run(["pdftotext", "-q", "-layout", "-enc", "UTF-8", *args, pdf, "-"], capture_output=True, timeout=300)
+        textos.append(r.stdout.decode("utf-8", "replace").rstrip("\f"))
+    texto = "\f".join(textos)
+    if CARIMBO_1DOC.search(texto):
+        return None, "sobrou parte do carimbo de assinatura 1Doc no texto; conferir o recorte da margem"
+    return texto, None
+
+
+def documento_para_md(bruto, url="", content_type="", remover_inicio=(), colunas=False, carimbo_1doc=False):
     """Converte um documento baixado (HTML, PDF, DOC...) em Markdown. Retorna (corpo, None) ou (None, motivo).
 
-    `colunas` liga, só no OCR de PDF escaneado, a leitura por coluna das páginas em duas colunas (detectar_colunas)."""
+    `colunas` liga, só no OCR de PDF escaneado, a leitura por coluna das páginas em duas colunas (detectar_colunas).
+    `carimbo_1doc` lê o PDF que traz o carimbo de assinatura da plataforma 1Doc recortado à esquerda dele
+    (texto_pdf_sem_carimbo_1doc) e recusa o documento em que o recorte não é seguro."""
     if b"\0" in bruto[:4096] and not (imagem_bruta(bruto) or bruto.startswith(
             (b"%PDF", b"\xd0\xcf\x11\xe0", b"PK", b"\xff\xfe", b"\xfe\xff"))):
         return None, "formato binário não reconhecido; arquivo oficial possivelmente corrompido"
@@ -676,6 +717,13 @@ def documento_para_md(bruto, url="", content_type="", remover_inicio=(), colunas
             texto_ocr, modo = ocr_pdf_detalhado(bruto, colunas)
             if len(re.sub(r"\W", "", texto_ocr)) > len(re.sub(r"\W", "", texto)):
                 texto, aviso = texto_ocr, (AVISO_OCR_COLUNAS if modo == "colunas" else AVISO_OCR)
+        if carimbo_1doc and bruto[:4] == b"%PDF" and CARIMBO_1DOC.search(texto):
+            with tempfile.TemporaryDirectory() as tmp:
+                pdf = os.path.join(tmp, "a.pdf")
+                open(pdf, "wb").write(bruto)
+                texto, motivo = texto_pdf_sem_carimbo_1doc(pdf)
+            if motivo:
+                return None, motivo
         corpo = texto_pdf_para_md(texto)
         if len(re.sub(r"\W", "", corpo)) < 80:
             return None, "imagem sem texto legível por OCR" if imagem_bruta(bruto) else "PDF sem texto legível (nem por OCR)"

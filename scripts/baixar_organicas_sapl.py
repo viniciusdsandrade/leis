@@ -80,15 +80,26 @@ def html_sem_imagens(html):
     return re.sub(r"<img\b[^>]*>", "", html, flags=re.I)
 
 
-def corpo_de_fonte(bruto, url, content_type="", colunas=False):
+# SAPLs cujos anexos trazem o carimbo de assinatura da plataforma 1Doc na margem (comum.sem_carimbo_1doc). Ligado
+# por casa, depois de conferido nos anexos dela: nos acervos já publicados de outras casas o carimbo ficou dentro de
+# blocos pré-formatados e a regeneração deles mudaria o texto.
+HOSTS_CARIMBO_1DOC = {"sapl.jarinu.sp.leg.br"}
+# SAPLs em que o anexo tem de abrir com a epígrafe da própria norma: em Jarinu, as fichas importadas do acervo
+# histórico trazem às vezes outro documento anexado (o "Decreto Legislativo 17/2026" anexa o Ofício Legislativo
+# nº 17/2026; outros, a pauta ou a ata da sessão), e o número igual no começo do texto não basta para notar a troca.
+HOSTS_EPIGRAFE_PROPRIA = {"sapl.jarinu.sp.leg.br"}
+
+
+def corpo_de_fonte(bruto, url, content_type="", colunas=False, carimbo_1doc=False):
     """Converte o anexo oficial; logotipos em HTML do SIREL não são texto da norma.
 
-    `colunas`: OCR por coluna das páginas em duas colunas (livros de leis digitalizados em dupla)."""
+    `colunas`: OCR por coluna das páginas em duas colunas (livros de leis digitalizados em dupla).
+    `carimbo_1doc`: tira o carimbo de assinatura da plataforma 1Doc (HOSTS_CARIMBO_1DOC)."""
     cabeca = bruto.lstrip()[:15].lower()
     if url.lower().endswith((".html", ".htm")) or cabeca.startswith(b"<html") or cabeca.startswith(b"<!doctype"):
         html = html_sem_imagens(decodificar(bruto, content_type))
         return documento_para_md(html.encode("utf-8"), url, "text/html; charset=utf-8")
-    return documento_para_md(bruto, url, content_type, colunas=colunas)
+    return documento_para_md(bruto, url, content_type, colunas=colunas, carimbo_1doc=carimbo_1doc)
 
 
 def categoria_norma(tipo, norma=None):
@@ -717,7 +728,7 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                             if retencao:
                                 raise RuntimeError("fonte retida para revisão de integralidade: " + retencao)
                             livro_de_leis = host == "sapl.campinas.sp.leg.br" and 0 < ano_norma <= 1948
-                            corpo, motivo = corpo_de_fonte(b, url, colunas=livro_de_leis)
+                            corpo, motivo = corpo_de_fonte(b, url, colunas=livro_de_leis, carimbo_1doc=host in HOSTS_CARIMBO_1DOC)
                             if motivo:
                                 raise RuntimeError(motivo)
                             notas_texto = []
@@ -745,6 +756,8 @@ def executar(fontes, rps, modo="organicas", max_documentos=0, ano_filtro=None, s
                                     leg = legibilidade(corpo, lexico)
                                     if leg is not None and leg < LEGIBILIDADE_MINIMA:
                                         raise RuntimeError(f"OCR com baixa legibilidade ({leg:.0%} das palavras conhecidas no acervo do município); revisar")
+                            if host in HOSTS_EPIGRAFE_PROPRIA and not abre_com_a_propria_epigrafe(corpo, tipo["descricao"], n["numero"]):
+                                raise RuntimeError("o anexo não abre com a epígrafe da própria norma; conferir a identidade do documento")
                             if troca:
                                 notas_texto.append(troca["nota"])
                             granularidade = alertas_multiplos_atos(corpo, tipo["descricao"], n["numero"])
