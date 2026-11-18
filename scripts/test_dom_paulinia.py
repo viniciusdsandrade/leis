@@ -432,6 +432,9 @@ class Geometria(unittest.TestCase):
         self.assertEqual(p.edicao_impressa(pagina((810.0, "Semanário Oficial | | Edição 1036 | Paulínia, 30 de outubro de 2013"))),
                          ("1036", "2013-10-30"))
         self.assertEqual(p.edicao_impressa(pagina((801.0, "Semanário Oficial | | 1118 | Paulínia, 11 de março de 2015 2"))), (None, None))
+        # começo de 2012: "Ano XVIII – Edição 946" no alto da primeira página, sem o nome do periódico na linha
+        self.assertEqual(p.edicao_impressa(pagina((182.0, "Ano XVIII – Edição 946 27 de fevereiro de 2012"))), ("946", "2012-02-27"))
+        self.assertEqual(p.edicao_impressa(pagina((600.0, "Ano XVIII – Edição 946 27 de fevereiro de 2012"))), (None, None))
         for rodape in ("Semanário Oficial | | 1118 | Paulínia, 11 de março de 2015 2",
                        "Semanário Ofi cial | | Edição 1.236 | Paulínia, 09 de março de 2017 | 2",
                        "Semanário Oficial EXTRA | | Edição 1.276 | Paulínia, 20 de novembro de 2017 | 2"):
@@ -492,7 +495,7 @@ class Geometria(unittest.TestCase):
 
     def test_formato_fora_do_modelo(self):
         self.assertIsNone(p.fora_do_modelo({1: (722.835, 841.89, [])}))
-        self.assertIn("fora dos leiautes", p.fora_do_modelo({1: (722.835, 841.89, []), 2: (651.969, 864.567, [])}))
+        self.assertIn("fora dos leiautes", p.fora_do_modelo({1: (722.835, 841.89, []), 2: (612.0, 792.0, [])}))
         self.assertIsNone(p.fora_do_modelo({1: (764.835, 883.89, [])}))  # a edição 1205, de 2016, em página maior
         self.assertEqual(p.leiaute({1: (764.835, 883.89, [])}), "modelo")
         self.assertIn("fora dos leiautes", p.fora_do_modelo({1: (800.0, 900.0, [])}))
@@ -500,6 +503,10 @@ class Geometria(unittest.TestCase):
     def test_leiaute_de_jornal_simples_e_duplo(self):
         self.assertEqual(p.leiaute({1: (651.969, 892.913, []), 2: (1303.94, 892.913, []), 3: (651.969, 892.913, [])}), p.JORNAL)
         self.assertEqual(p.leiaute({1: (722.835, 841.89, [])}), "modelo")
+        # as alturas de 2012
+        self.assertEqual(p.leiaute({1: (651.969, 864.567, [])}), p.JORNAL)
+        self.assertEqual(p.leiaute({1: (680.315, 921.26, []), 2: (1332.28, 921.26, [])}), p.JORNAL)
+        self.assertEqual(p.leiaute({1: (693.969, 934.913, []), 2: (1345.94, 934.913, [])}), p.JORNAL)
         self.assertIsNone(p.leiaute({1: (722.835, 841.89, []), 2: (651.969, 892.913, [])}))
         self.assertIsNone(p.fora_do_modelo({1: (651.969, 892.913, []), 2: (1303.94, 892.913, [])}))
         self.assertEqual(p.fora_do_modelo({1: (722.835, 841.89, []), 2: (651.969, 892.913, [])}),
@@ -563,6 +570,18 @@ DE 25 DE FEVEREIRO DE 2013.
         self.assertNotIn("6.434", recorte)
         # fora do modo jornal a epígrafe partida não é reconhecida
         self.assertEqual(p.atos_da_edicao([(4, self.EDICAO)], "2013-02-27"), [])
+
+    def test_sobrenome_sozinho_na_segunda_linha_do_nome(self):
+        # 2012: "LEONARDO ESPÁRTACO CEZAR" / "BALLONE" / "Secretário dos Negócios Jurídicos"
+        partida = self.EDICAO.replace("         DR. WASHINGTON\n     CARLOS RIBEIRO SOARES\n",
+                                      "  LEONARDO ESPÁRTACO CEZAR\n               BALLONE\n")
+        self.assertIn("BALLONE", partida)
+        (_, recorte, motivo), _ = p.atos_da_edicao([(4, partida)], "2013-02-27", jornal=True)
+        self.assertIsNone(motivo)
+        self.assertTrue(recorte.rstrip().endswith("Secretário dos Negócios Jurídicos"))
+        # um título de uma palavra sem cargo depois não entra no bloco
+        self.assertFalse(p.continua_o_nome("DECRETA:"))
+        self.assertFalse(p.continua_o_nome("Ballone"))
 
     def test_fecho_do_palacio_com_a_data_partida_e_conferido(self):
         trocada = self.EDICAO.replace("Palácio 28 de Fevereiro, 25 de fevereiro de", "Palácio 28 de Fevereiro, 25 de abril de")

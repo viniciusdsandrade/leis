@@ -4,7 +4,9 @@ Fonte: o portal da Prefeitura (`www.paulinia.sp.gov.br/portal/diario-oficial`), 
 digital e lista todas em dados abertos (`/portal/dados-abertos/diario-oficial/<ano>`). É a publicação oficial dos atos,
 com as leis e os decretos do Executivo. O `robots.txt` libera a listagem, mas em novembro de 2026 traz um segundo grupo
 `User-agent: *` que veda `/portal/download/` e `/uploads/`, os caminhos dos PDFs: o coletor lê o `robots.txt` a cada
-execução, somando os grupos do mesmo agente (RFC 9309), e, com o download vedado, só lê as edições já em cache.
+execução, somando os grupos do mesmo agente (RFC 9309), e, com o download vedado, só lê as edições já em cache. A
+opção `--apesar-do-robots` baixa mesmo assim, só com a autorização expressa do mantenedor do acervo (dada em 17/11/2026
+para as edições de 2012), e limita o ritmo a uma requisição a cada cinco segundos.
 
 As outras duas rotas de Paulínia não entram, e o motivo fica registrado para quem tentar: o sistema legislativo da
 Câmara (`paulinia.siscam.com.br`) só admite no `robots.txt` os buscadores que nomeia e entrega as leis como PDF
@@ -24,7 +26,7 @@ próprio PDF (`pdftotext -raw`): parágrafo que não aparece inteiro nas duas le
 prosa, coluna fora de ordem). O número da edição impresso no PDF tem de ser o da edição pedida. O que falha fica em
 `municipais/SP/paulinia/_falhas.jsonl`, com o motivo.
 
-    python3 -I scripts/baixar_dom_paulinia.py --de 2026 --ate 2026 [--listar] [--max N] [--rps 0.5]
+    python3 -I scripts/baixar_dom_paulinia.py --de 2026 --ate 2026 [--listar] [--max N] [--rps 0.5] [--apesar-do-robots]
     python3 -I scripts/baixar_dom_paulinia.py --despejar edicao.pdf     # texto em ordem de leitura, para conferência
     python3 -I scripts/baixar_dom_paulinia.py --lei-organica            # texto compilado que a Câmara publica em PDF
 
@@ -50,6 +52,7 @@ BASE = "https://www.paulinia.sp.gov.br"
 RAIZ = Path(__file__).resolve().parent.parent / "municipais"
 DESTINO = RAIZ / UF / "paulinia"
 CACHE = RAIZ / "_indice" / "dom-paulinia"
+RPS_APESAR_DO_ROBOTS = 0.2  # com o download vedado pelo robots.txt, no máximo uma requisição a cada cinco segundos
 FONTE = RAIZ / "_fonte" / "dom-paulinia"
 FALHAS = DESTINO / "_falhas.jsonl"
 LEI_ORGANICA_PDF = "https://www.camarapaulinia.sp.gov.br/wp-content/uploads/2023/11/Lei-Organica.pdf"
@@ -103,6 +106,10 @@ RODAPE = re.compile(_RODAPE, re.I)
 
 # o formato de jornal (2012 a agosto de 2013): página dupla, quatro colunas por página, e o rodapé "Paulínia, 27 de
 # fevereiro de 2013 Semanário Oficial - Edição 998" (em espelho na página da direita)
+# o título da primeira página no começo de 2012, sem o nome do periódico na mesma linha: "Ano XVIII – Edição 946  27 de
+# fevereiro de 2012"; nas nº 937 a 945 nem isso: o número está só na capa, que é imagem
+TITULO_DE_2012 = re.compile(rf"Ano[ \t]+[IVXLC]+[ \t]*[–-][ \t]*Edi[çc][ãa]o[ \t]+(\d[\d.]*)[ \t]+(\d{{1,2}})[ \t]+de[ \t]+({_MES})[ \t]+de[ \t]+(\d{{4}})",
+                            re.I)
 RODAPE_DE_JORNAL = re.compile(rf"Seman[áa]rio[ \t]*Oficial[ \t]*-[ \t]*Edi[çc][ãa]o[ \t]*(\d[\d.]*)", re.I)
 DATA_DO_RODAPE_DE_JORNAL = re.compile(rf"Paul[íi]nia,[ \t]*(\d{{1,2}})[ \t]+de[ \t]+({_MES})[ \t]+de[ \t]+(\d{{4}})", re.I)
 JORNAL = "jornal"
@@ -112,13 +119,17 @@ NUMERO_DA_EDICAO = re.compile(rf"Edi[çc][ãa]o\s+(\d[\d.]*)\s*(?:-\s*EXTRA\s*)?
 def edicao_impressa(paginas):
     """(número, data ISO ou None) que a própria edição imprime no título da primeira página ou no rodapé corrido;
     (None, None) quando nenhuma linha traz o número. Confere que o PDF baixado é o da edição pedida."""
-    for _, (_, altura, palavras) in sorted(paginas.items()):
+    primeira = min(paginas, default=None)
+    for n, (_, altura, palavras) in sorted(paginas.items()):
         for y0, _, texto in linhas_da_pagina(palavras):
             if TITULO_EDICAO.search(texto) or RODAPE.search(texto):
                 m = NUMERO_DA_EDICAO.search(texto)
                 if m:
                     data = data_iso(m.group(2), m.group(3), m.group(4)) if m.group(2) else None
                     return m.group(1).replace(".", ""), data
+            titulo = TITULO_DE_2012.fullmatch(texto.strip()) if n == primeira and y0 < altura * 0.3 else None
+            if titulo:
+                return titulo.group(1).replace(".", ""), data_iso(*titulo.groups()[1:])
             jornal = RODAPE_DE_JORNAL.search(texto) if y0 > altura * 0.9 else None
             if jornal:
                 data = DATA_DO_RODAPE_DE_JORNAL.search(texto)
@@ -376,12 +387,17 @@ def nome(conteudo):
             and not re.search(r"\S[ \t]{3,}\S", conteudo))
 
 
+def continua_o_nome(conteudo):
+    """Segunda linha do nome partido pela coluna de jornal: outro trecho de nome ou um sobrenome sozinho ("BALLONE")."""
+    return nome(conteudo) or (bool(re.fullmatch(r"[A-ZÀ-Ú][A-ZÀ-Ú'.]{2,}", conteudo)) and not NAO_E_ASSINATURA.match(conteudo))
+
+
 def fim_das_assinaturas(trecho, inicio, jornal=False):
     """Posição em que termina o bloco de assinaturas que começa em `inicio` (fim da linha do signatário): pares de nome
     e cargo, cargos avulsos e a nota de lavratura, que pode ocupar até três linhas (com quebra de coluna no meio) e
     termina em ponto. Nome sem cargo reconhecido na linha seguinte não entra: pode ser o título de outra publicação.
-    Com `jornal`, a coluna estreita parte o nome em duas linhas ("DR. WASHINGTON CARLOS" / "RIBEIRO SOARES"): vale
-    também o nome de duas linhas seguido do cargo."""
+    Com `jornal`, a coluna estreita parte o nome em duas linhas ("DR. WASHINGTON CARLOS" / "RIBEIRO SOARES", ou
+    "LEONARDO ESPÁRTACO CEZAR" / "BALLONE"): vale também o nome de duas linhas seguido do cargo."""
     linhas = [(m.end(), m.group(0).strip()) for m in re.finditer(r"[^\n]*\n?", trecho[inicio:]) if m.group(0)]
     fim, nota, i = inicio, 0, 0
     while i < len(linhas) and fim - inicio <= 1500:
@@ -393,7 +409,7 @@ def fim_das_assinaturas(trecho, inicio, jornal=False):
         # depois do nome, o cargo também aparece grafado como o órgão ("Secretaria de Defesa e ... do Meio Ambiente")
         par = nome(conteudo) and seguinte is not None and bool(
             CARGO.fullmatch(linhas[seguinte][1]) or re.fullmatch(r"Secretaria [^\n]{3,90}(?<![:;,.])", linhas[seguinte][1]))
-        if not par and jornal and nome(conteudo) and seguinte is not None and nome(linhas[seguinte][1]):
+        if not par and jornal and nome(conteudo) and seguinte is not None and continua_o_nome(linhas[seguinte][1]):
             terceira = next((k for k in range(seguinte + 1, len(linhas)) if linhas[k][1]), None)
             if terceira is not None and CARGO.fullmatch(linhas[terceira][1]):
                 par, seguinte = True, terceira
@@ -658,6 +674,9 @@ MODELO = (722.8, 841.9)  # pt: página do leiaute de duas colunas conferido
 # a mesma diagramação numa página maior: a edição nº 1205, de 10/08/2016, composta em 764,8 x 883,9 pt
 MODELOS = [MODELO, (764.8, 883.9)]
 JORNAL_PAGINAS = [(652.0, 892.9), (1303.9, 892.9)]  # pt: o formato de jornal, página simples e dupla; outro não é lido
+# 2012: a mesma diagramação em páginas de outra altura (nº 937 a 945: 652 x 864,6; nº 947: 680,3 x 921,3 e a dupla
+# 1332,3 x 921,3; o segundo PDF da nº 986: 694 x 934,9 e a dupla 1345,9 x 934,9)
+JORNAL_PAGINAS += [(652.0, 864.6), (680.3, 921.3), (1332.3, 921.3), (694.0, 934.9), (1345.9, 934.9)]
 
 
 def texto_html(bruto):
@@ -836,7 +855,9 @@ def republicacao(gravado, destino, tipo, ato):
             "motivo": f"ato já recortado de outra edição ({destino.name}); republicação a conferir"}
 
 
-def executar(de, ate, maximo=0, listar=False, rps=0.5):
+def executar(de, ate, maximo=0, listar=False, rps=0.5, apesar_do_robots=False):
+    if apesar_do_robots:
+        rps = min(rps, RPS_APESAR_DO_ROBOTS)
     rede = Rede(rps=rps, headers={"Accept-Language": "pt-BR"})
     CACHE.mkdir(parents=True, exist_ok=True)
     arquivo_cache = CACHE / "edicoes.json"
@@ -846,8 +867,11 @@ def executar(de, ate, maximo=0, listar=False, rps=0.5):
                                                                       "/portal/download/", "/uploads/"]) if st == 200 else []
     if {"/portal/diario-oficial/", "/portal/dados-abertos/"} & set(vedados):
         raise RuntimeError(f"o robots.txt do portal veda a listagem das edições: {vedados}")
-    so_cache = bool(vedados)
-    if so_cache:
+    so_cache = bool(vedados) and not apesar_do_robots
+    if vedados and apesar_do_robots:
+        print(f"[aviso] o robots.txt veda {', '.join(vedados)}; baixando mesmo assim (--apesar-do-robots), a {rps} req/s",
+              flush=True)
+    elif so_cache:
         print(f"[aviso] o robots.txt veda {', '.join(vedados)}: só as edições já em cache serão lidas", flush=True)
     edicoes = listar_edicoes(rede, de, ate)
     for ano in range(de, ate + 1):
@@ -1013,6 +1037,8 @@ if __name__ == "__main__":
     ap.add_argument("--max", type=int, default=0, help="limita novas conversões; 0 = sem limite")
     ap.add_argument("--listar", action="store_true", help="só confere a listagem contra os dados abertos; não baixa PDFs")
     ap.add_argument("--rps", type=float, default=0.5, help="requisições por segundo")
+    ap.add_argument("--apesar-do-robots", action="store_true",
+                    help="baixa os PDFs mesmo com o robots.txt vedando o download; só com autorização do mantenedor")
     ap.add_argument("--despejar", type=Path, help="mostra o texto de uma edição em ordem de leitura e sai")
     ap.add_argument("--lei-organica", action="store_true", help="grava a Lei Orgânica compilada do site da Câmara e sai")
     ap.add_argument("--periodico", action="store_true",
@@ -1027,6 +1053,6 @@ if __name__ == "__main__":
     elif a.lei_organica:
         print(lei_organica(Rede(rps=a.rps), dt.date.today()))
     elif a.de and a.ate:
-        executar(a.de, a.ate, a.max, a.listar, a.rps)
+        executar(a.de, a.ate, a.max, a.listar, a.rps, a.apesar_do_robots)
     else:
         ap.error("informe --de e --ate, --lei-organica ou --despejar")
