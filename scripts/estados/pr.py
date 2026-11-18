@@ -318,7 +318,8 @@ def processar(it):
     pasta, nome, prefixo = TIPOS[it["tipo"]]
     url = f"{B}/exibirAto.do?action=iniciarProcesso&codAto={it['codAto']}"  # o mesmo endereço pedido em pagina_do_ato
     epi = it.get("epigrafe") or ""
-    num = re.search(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? de (\w+) de (\d{4})", epi)  # dia 1º vem com ordinal
+    # dia 1º vem com ordinal; às vezes falta o "de" antes do ano ("Decreto 7092 - 16 de agosto 2024")
+    num = re.search(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})", epi)
     ano = it.get("ano") or (num.group(4) if num else "sem-ano")
     numero = num.group(1).replace(".", "") if num else "sn"
     slug = f"{prefixo}-{numero}-{ano}-id{it['codAto']}"
@@ -353,7 +354,7 @@ def processar(it):
     if len(re.sub(r"\W", "", corpo)) < 40:
         return "sem_texto", {"codAto": it["codAto"], "motivo": "texto vazio"}
     data = ""
-    m = re.search(r"(\d{1,2})[º°]? de (\w+) de (\d{4})", titulo)
+    m = re.search(r"(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})", titulo)
     mes = sem_acento(m.group(2).lower()) if m else ""
     if m and mes in MESES:
         data = f"{m.group(3)}-{MESES[mes]:02d}-{int(m.group(1)):02d}"
