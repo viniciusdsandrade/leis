@@ -231,9 +231,11 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 Cada coletor documenta no cabeçalho a API ou o caminho que usa. Todos limitam a taxa a 1 a 4
 requisições por segundo, são retomáveis (pulam o que já existe) e guardam o original em
 `_fonte/`. **Bloqueios de acesso automatizado não são contornados.** A única exceção registrada são os PDFs do
-Diário Oficial de Paulínia, que o `robots.txt` do portal, conferido em novembro de 2026, veda: as edições de 2012 foram
-baixadas com a autorização expressa do mantenedor do acervo, a uma requisição a cada cinco segundos
-(`baixar_dom_paulinia.py --apesar-do-robots`).
+Diário Oficial no portal das Prefeituras de Paulínia, Valinhos e Vinhedo, que o `robots.txt` desses portais, conferido
+em novembro de 2026, veda. O mantenedor do acervo autorizou expressamente baixá-los, a uma requisição a cada cinco
+segundos: em Paulínia, as edições de 2012 (17/11/2026); em Valinhos e Vinhedo, todas as edições (18/11/2026,
+confirmada em 19/11/2026). As autorizações ficam em [`scripts/portal_diario_oficial.py`](scripts/portal_diario_oficial.py),
+que recusa a opção `--apesar-do-robots` em qualquer outro município ou ano.
 
 ---
 
