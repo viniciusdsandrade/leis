@@ -400,6 +400,16 @@ class DuasLeituras(unittest.TestCase):
         corpo = "**Art. 2º** Esta Lei entra em vigor.\n\n```text\nJORNADA   CARGO\n40h       Agente\n```"
         self.assertIsNone(p.diverge_do_fluxo(corpo, self.FLUXO))
 
+    def test_quadro_entre_a_epigrafe_e_o_primeiro_artigo_retém(self):
+        # Decreto 9.031/2026: o quadro de orçamento de outro ato caiu no meio da ementa, lido fora de ordem
+        quadro = "```text\nFICHA FUNCIONAL     VALOR     EMENDA\n1158   02.12.01.26   10.000,00\n```\n\n"
+        corpo = ("DECRETO Nº 9031, DE 09 DE MARÇO DE 2026.\n\n“DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO MUNICI-\n\n"
+                 + quadro + "O cidadão FULANO, Prefeito do Município de Paulínia, DECRETA:\n\n**Art. 1º** Ficam nomeados os membros.")
+        self.assertIn("quadro entre a epígrafe e o primeiro artigo", p.quadro_no_preambulo(corpo))
+        # o quadro do próprio ato, depois do primeiro artigo, não retém
+        self.assertIsNone(p.quadro_no_preambulo(corpo.replace(quadro, "") + "\n\n" + quadro.strip()))
+        self.assertIsNone(p.quadro_no_preambulo("LEI Nº 1\n\nARTIGO ÚNICO - Esta Lei entra em vigor."))
+
 
 class Geometria(unittest.TestCase):
     def test_mancha_da_primeira_pagina_e_das_internas(self):
