@@ -23,8 +23,11 @@ Recorte: da epígrafe ("LEI Nº 4.797, DE 13 DE NOVEMBRO DE 2026") ao bloco de a
 data do fecho igual à da epígrafe, assinatura do Prefeito, artigos em sequência, nenhum trecho de outra publicação
 intercalado, anexo depois das assinaturas retido. Por fim, a leitura por colunas é confrontada com a ordem do fluxo do
 próprio PDF (`pdftotext -raw`): parágrafo que não aparece inteiro nas duas leituras retém o ato (quadro lido como
-prosa, coluna fora de ordem). O número da edição impresso no PDF tem de ser o da edição pedida. O que falha fica em
-`municipais/SP/paulinia/_falhas.jsonl`, com o motivo.
+prosa, coluna fora de ordem). O número da edição impresso no PDF tem de ser o da edição pedida. Nas nº 937 a 945
+(janeiro e fevereiro de 2012), o número e a data estão só na faixa do cabeçalho da capa, que é imagem. Ali o OCR dessa
+faixa (o Vision do macOS em `scripts/bin/ocr` ou o Tesseract) confere a identidade, que só vale com número e data iguais
+aos da listagem, e o ato gravado registra a conferência em `versao_texto`. O texto dos atos continua sendo o do PDF. O
+que falha fica em `municipais/SP/paulinia/_falhas.jsonl`, com o motivo.
 
     python3 -I scripts/baixar_dom_paulinia.py --de 2026 --ate 2026 [--listar] [--max N] [--rps 0.5] [--apesar-do-robots]
     python3 -I scripts/baixar_dom_paulinia.py --despejar edicao.pdf     # texto em ordem de leitura, para conferência
@@ -35,17 +38,22 @@ compilada que o arquivo declara ("Atualizada até a Emenda nº ...").
 """
 import argparse
 import datetime as dt
+import functools
 import hashlib
 import html
 import json
+import math
+import os
 import re
+import shutil
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import baixar_dom_campinas as dom  # noqa: E402
-from comum import CANONICO, Rede, documento_para_md, slugify, yaml_str  # noqa: E402
+from comum import CANONICO, OCR_BIN, Rede, documento_para_md, slugify, yaml_str  # noqa: E402
 
 MUNICIPIO, UF, CODIGO_IBGE = "Paulínia", "SP", "3536505"
 BASE = "https://www.paulinia.sp.gov.br"
@@ -107,7 +115,7 @@ RODAPE = re.compile(_RODAPE, re.I)
 # o formato de jornal (2012 a agosto de 2013): página dupla, quatro colunas por página, e o rodapé "Paulínia, 27 de
 # fevereiro de 2013 Semanário Oficial - Edição 998" (em espelho na página da direita)
 # o título da primeira página no começo de 2012, sem o nome do periódico na mesma linha: "Ano XVIII – Edição 946  27 de
-# fevereiro de 2012"; nas nº 937 a 945 nem isso: o número está só na capa, que é imagem
+# fevereiro de 2012"; nas nº 937 a 945 nem isso: o número está só na capa, que é imagem (ver `edicao_da_capa`)
 TITULO_DE_2012 = re.compile(rf"Ano[ \t]+[IVXLC]+[ \t]*[–-][ \t]*Edi[çc][ãa]o[ \t]+(\d[\d.]*)[ \t]+(\d{{1,2}})[ \t]+de[ \t]+({_MES})[ \t]+de[ \t]+(\d{{4}})",
                             re.I)
 RODAPE_DE_JORNAL = re.compile(rf"Seman[áa]rio[ \t]*Oficial[ \t]*-[ \t]*Edi[çc][ãa]o[ \t]*(\d[\d.]*)", re.I)
@@ -137,15 +145,78 @@ def edicao_impressa(paginas):
     return None, None
 
 
-def periodico(paginas):
+# nas nº 937 a 945 o número e a data estão só na faixa do cabeçalho da capa, uma imagem: "Ano XVIII - Edição: 945" à
+# esquerda e "Paulínia, 22 de fevereiro de 2012" à direita (na nº 943, "Edição Extra" acima do número)
+NUMERO_DA_CAPA = re.compile(r"\bAno\s+[IVXLC]+\s*[–-]\s*Edi[çc][ãa]o\s*:?\s*(\d[\d.]*)", re.I)
+DATA_DA_CAPA = re.compile(rf"\bPaul[íi]nia\s*,\s*(\d{{1,2}})\s+de\s+({_MES})\s+de\s+(\d{{4}})", re.I)
+NOME_DA_CAPA = re.compile(r"\b(Seman[áa]rio|Di[áa]rio)\s+Oficial\b", re.I)
+ALTO_DA_CAPA = 0.2  # fração da altura da primeira página lida por OCR; a faixa ocupa os 140 pt de cima, de 864,6
+NOTA_CAPA = "número e data da edição conferidos por OCR da faixa do cabeçalho da capa, onde estão só em imagem"
+
+
+@functools.lru_cache(maxsize=8)
+def ocr_do_alto_da_capa(pdf, largura, altura):
+    """Texto do alto da primeira página (`largura` x `altura` pt), renderizado a 300 dpi e lido pelo Vision do macOS
+    (`scripts/bin/ocr`) ou, sem ele, pelo Tesseract; vazio sem o `pdftoppm` ou sem motor de OCR. Guardado em memória:
+    a identidade e o nome do periódico leem a mesma capa."""
+    vision = os.path.exists(OCR_BIN)
+    if not vision and not shutil.which("tesseract"):
+        return ""
+    try:
+        with tempfile.TemporaryDirectory() as tmp:
+            r = subprocess.run(["pdftoppm", "-q", "-png", "-r", "300", "-f", "1", "-l", "1", "-x", "0", "-y", "0",
+                                "-W", str(math.ceil(largura * 300 / 72)), "-H", str(math.ceil(altura * ALTO_DA_CAPA * 300 / 72)),
+                                str(pdf), os.path.join(tmp, "capa")], capture_output=True, timeout=120)
+            png = next(Path(tmp).glob("capa*.png"), None)
+            if r.returncode != 0 or not png:
+                return ""
+            comando = [OCR_BIN, str(png)] if vision else ["tesseract", str(png), "stdout", "-l", "por"]
+            r = subprocess.run(comando, capture_output=True, timeout=120)
+            return r.stdout.decode("utf-8", "replace") if r.returncode == 0 else ""
+    except (OSError, subprocess.TimeoutExpired):
+        return ""
+
+
+def edicao_da_capa(texto):
+    """(número, data ISO) que o OCR leu na faixa do cabeçalho da capa; (None, None) quando falta um dos dois ou quando
+    há mais de um número ou mais de uma data, porque aí a leitura não identifica a edição."""
+    numeros = {m.group(1).replace(".", "") for m in NUMERO_DA_CAPA.finditer(texto)}
+    datas = {data_iso(*m.groups()) for m in DATA_DA_CAPA.finditer(texto)}
+    if len(numeros) != 1 or len(datas) != 1 or None in datas:
+        return None, None
+    return numeros.pop(), datas.pop()
+
+
+def identidade_conferida(paginas, edicao, ler_capa):
+    """(data impressa ou None, se a identidade veio do OCR da capa) da edição cujo PDF traz o número pedido; levanta
+    RuntimeError quando não traz. Sem número em texto, `ler_capa()` devolve o OCR da capa, e ele só identifica a edição
+    com número e data iguais aos da listagem."""
+    numero, data = edicao_impressa(paginas)
+    if numero is not None:
+        if numero != edicao["edicao"]:
+            raise RuntimeError(f"o PDF baixado traz a edição {numero}, não a {edicao['edicao']}")
+        return data, False
+    numero, data = edicao_da_capa(ler_capa())
+    if numero is None:
+        raise RuntimeError(f"o PDF baixado traz a edição sem número (nem no OCR da capa), não a {edicao['edicao']}")
+    if (numero, data) != (edicao["edicao"], edicao["data"]):
+        raise RuntimeError(f"a capa lida por OCR traz a edição {numero} de {data}, não a {edicao['edicao']} de {edicao['data']}")
+    return data, True
+
+
+def periodico(paginas, ler_capa=None):
     """Nome que a edição dá a si mesma, "Semanário Oficial" (até 2020) ou "Diário Oficial": o do título da primeira
-    página; sem título em texto, o do rodapé."""
+    página; sem título em texto, o do rodapé; sem nenhum dos dois, o da capa lida por OCR (`ler_capa()`, chamado só
+    então, como nas nº 937 a 945); por fim, "Diário Oficial"."""
     for criterio in (TITULO_EDICAO, RODAPE, RODAPE_DE_JORNAL):
         for _, (_, _, palavras) in sorted(paginas.items()):
             for _, _, texto in linhas_da_pagina(palavras):
                 m = criterio.search(texto)
                 if m:
                     return "Semanário Oficial" if m.group(0)[:1] in "Ss" else "Diário Oficial"
+    m = NOME_DA_CAPA.search(ler_capa()) if ler_capa else None
+    if m:
+        return "Semanário Oficial" if m.group(1)[:1] in "Ss" else "Diário Oficial"
     return "Diário Oficial"
 
 
@@ -650,7 +721,8 @@ def montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje):
     _, tipo = CANONICO[ato["chave"]]
     titulo = titulo_de(ato)
     jornal = edicao.get("periodico") or "Diário Oficial"
-    notas = [NOTA_DOM.replace("Diário Oficial", jornal)] + ([dom.NOTA_QUADRO] if tem_quadro else [])
+    notas = ([NOTA_DOM.replace("Diário Oficial", jornal)] + ([dom.NOTA_QUADRO] if tem_quadro else [])
+             + ([NOTA_CAPA] if edicao.get("pela_capa") else []))
     dia = dt.date.fromisoformat(edicao["data"]).strftime("%d/%m/%Y")
     meta = [("titulo", titulo), ("tipo", tipo), ("tipo_na_fonte", ato["tipo_na_fonte"]), ("numero", ato["numero"]),
             ("data", ato["data"]), ("municipio", MUNICIPIO), ("uf", UF), ("codigo_ibge", CODIGO_IBGE)]
@@ -903,13 +975,13 @@ def executar(de, ate, maximo=0, listar=False, rps=0.5, apesar_do_robots=False):
             motivo = fora_do_modelo(leitura.paginas)
             if motivo:
                 raise RuntimeError(motivo)
-            numero, data_impressa = edicao_impressa(leitura.paginas)
-            if numero != edicao["edicao"]:
-                raise RuntimeError(f"o PDF baixado traz a edição {numero or 'sem número'}, não a {edicao['edicao']}")
+            largura, altura, _ = leitura.paginas[min(leitura.paginas)]
+            data_impressa, edicao["pela_capa"] = identidade_conferida(
+                leitura.paginas, edicao, lambda: ocr_do_alto_da_capa(pdf, largura, altura))
             if data_impressa:
                 edicao["data"] = data_impressa  # a data impressa na edição vale mais que a de postagem no portal
                 cache[edicao["id"]]["data"] = data_impressa
-            edicao["periodico"] = periodico(leitura.paginas)
+            edicao["periodico"] = periodico(leitura.paginas, lambda: ocr_do_alto_da_capa(pdf, largura, altura))
             atos = atos_da_edicao(leitura.trechos(), edicao["data"], leitura.jornal)
             sha_pdf = hashlib.sha256(pdf.read_bytes()).hexdigest()
         except Exception as e:  # rede ou PDF inesperado: registra e segue para a próxima edição
@@ -976,7 +1048,11 @@ def regravar_periodico(gravar=False):
         ident = fonte.group(1)
         if ident not in nomes:
             pdf = next(iter(sorted(FONTE.glob(f"{ident}-*.pdf"))), None)
-            nomes[ident] = periodico(palavras_da_edicao(pdf, ate=3)) if pdf else None
+            nomes[ident] = None
+            if pdf:
+                paginas = palavras_da_edicao(pdf, ate=3)
+                capa = paginas[min(paginas)][:2] if paginas else None
+                nomes[ident] = periodico(paginas, (lambda: ocr_do_alto_da_capa(pdf, *capa)) if capa else None)
         nome_certo = nomes[ident]
         if not nome_certo:
             contagem["sem_pdf"] += 1
