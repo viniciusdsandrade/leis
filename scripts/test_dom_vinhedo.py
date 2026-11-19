@@ -78,20 +78,41 @@ class Leitura(unittest.TestCase):
 
     def test_marcas_de_continuacao_do_documento_saem(self):
         texto = "Art. 1º Fica nomeado:\n–\nDecreto nº 460/2026 – folha 2\n–\n1– Titular: Fulano;\nDecreto nº 460/2026"
-        self.assertEqual(vi.sem_folhas(texto), "Art. 1º Fica nomeado:\n1– Titular: Fulano;\nDecreto nº 460/2026")
-        self.assertEqual(vi.sem_folhas("Lei Complementar n' 200/2023 -- Folha 2\nArt. 2º X."), "Lei Complementar n' 200/2023 -- Folha 2\nArt. 2º X.")
+        self.assertEqual(vi.sem_moldura(texto), "Art. 1º Fica nomeado:\n1– Titular: Fulano;\nDecreto nº 460/2026")
+        self.assertEqual(vi.sem_moldura("Lei Complementar n' 200/2023 -- Folha 2\nArt. 2º X."), "Lei Complementar n' 200/2023 -- Folha 2\nArt. 2º X.")
+
+    def test_moldura_dos_documentos_da_camara_sai(self):
+        texto = ("                          MÁRCIO MELLE\n"
+                 "                                     Para verificar sua autenticidade, acesse: https://www.camaravinhedo.\n"
+                 "                        Presidente da Câmara\n"
+                 "Publicado e Registrado na data supra. Documento assinado digitalmente por Márcio Raul Melle (079.***.***-41) em 21/08/2026 15:37\n"
+                 " e informe o código: 2604221527529C13\n"
+                 "  www.camaravinhedo.sp.gov.br | ouvidoria@camaravinhedo.sp.gov.br | PABX: +55 (19) 3826-7700\n"
+                 "                    Ouvidoria: +55 (19) 3826-7701\n"
+                 "                                     Av. Dois de Abril, 78\n                                    Centro | Vinhedo | SP\n"
+                 "                                                13280-077\n"
+                 "Art. 1º A sede fica na Av. Dois de Abril, 78, Centro.")
+        self.assertEqual([l.strip() for l in vi.sem_moldura(texto).split("\n")],
+                         ["MÁRCIO MELLE", "Presidente da Câmara", "Publicado e Registrado na data supra.",
+                          "Art. 1º A sede fica na Av. Dois de Abril, 78, Centro."])
 
     def test_leiaute_do_boletim_gerado_pelo_sistema(self):
         self.assertIsNone(vi.fora_do_leiaute({1: (595.28, 841.89, []), 2: (841.89, 1190.55, [])}))
         self.assertIn("fora do leiaute conferido", vi.fora_do_leiaute({1: (722.835, 841.89, [])}))  # o jornal até 2021
+        self.assertIsNone(vi.fora_do_leiaute({1: (595.28, 841.89, []), 2: (1190.55, 841.89, [])}))  # quadro deitado
         self.assertEqual(vi.fora_do_leiaute({}), "PDF sem páginas legíveis")
 
     def test_cobertura_por_imagem_pela_listagem_do_pdfimages(self):
         paginas = {1: (841.9, 1190.5, []), 2: (595.3, 841.9, []), 3: (595.3, 841.9, [])}
         cobertura = vi.cobertura_da_listagem(LISTA, paginas)
-        self.assertLess(cobertura[1], 0.1)    # a faixa do cabeçalho
-        self.assertGreater(cobertura[2], 0.9)  # a página do documento escaneado
-        self.assertLess(cobertura[3], 0.1)    # uma foto pequena
+        self.assertLess(cobertura[1][0], 0.1)    # a faixa do cabeçalho
+        self.assertGreater(cobertura[2][0], 0.9)  # a página do documento escaneado
+        self.assertLess(cobertura[3][0], 0.1)    # uma foto pequena
+        # o documento escaneado em quatro faixas: nenhuma cobre a página, a soma cobre
+        faixas = "\n".join(f"   4 {k} image 1728 646 rgb 3 8 jpeg no 30 0 208 208 100K 4%" for k in range(4))
+        maior, soma = vi.cobertura_da_listagem(faixas, {4: (595.3, 841.9, [])})[4]
+        self.assertLess(maior, vi.COBERTA)
+        self.assertGreater(soma, vi.COBERTA_NA_SOMA)
 
 
 class Recorte(unittest.TestCase):
@@ -102,6 +123,19 @@ class Recorte(unittest.TestCase):
         self.assertTrue(recorte.rstrip().endswith("Diretora do Departamento de Expediente"))
         self.assertNotIn("SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO", recorte)
 
+    def test_decreto_legislativo_da_camara_decreta(self):
+        texto = ("DECRETO LEGISLATIVO Nº 2, DE 19 DE AGOSTO DE 2026\n"
+                 "Dispõe sobre a concessão do Título “Prêmio Acessibilidade e Inclusão”.\n\n"
+                 "A Câmara de Vereadores de Vinhedo, Estado de São Paulo, DECRETA:\n\n"
+                 "Art. 1º Fica concedido o Título.\nArt. 2º Este Decreto Legislativo entra em vigor na data de sua publicação.\n\n"
+                 "Câmara de Vereadores de Vinhedo, aos dezenove dias do mês de agosto de dois mil e vinte e seis.\n\n"
+                 "MÁRCIO MELLE\nPresidente da Câmara\nPublicado e Registrado na data supra.\n")
+        (ato, recorte, motivo), = base.atos_da_edicao([(3, texto)], "2026-08-25", perfil=vi.PERFIL)
+        self.assertIsNone(motivo)
+        self.assertTrue(recorte.rstrip().endswith("Publicado e Registrado na data supra."))
+        # o mesmo texto, no perfil de Paulínia, fica sem a fórmula de promulgação
+        self.assertIn("fórmula de promulgação", base.atos_da_edicao([(3, texto)], "2026-08-25")[0][2])
+
     def test_cabecalho_ou_rodape_dentro_do_recorte_retem(self):
         for intruso in (CABECALHO, "Boletim Municipal do Município de Vinhedo/SP"):
             texto = DECRETO.replace("Art. 2.º", intruso + "\nArt. 2.º", 1)
@@ -111,6 +145,8 @@ class Recorte(unittest.TestCase):
         ato = {"pagina": 3}
         self.assertIn("OCR da origem", vi.pagina_em_imagem(LeituraFalsa({}, [3]), ato, ""))
         self.assertIsNone(vi.pagina_em_imagem(LeituraFalsa({}, [2]), ato, ""))
+        # começa em página de texto e continua numa página em imagem
+        self.assertIn("a página 4 reproduz", vi.pagina_em_imagem(LeituraFalsa({}, [4]), ato, "Art. 1º X.\n\n⟦página 4 em imagem⟧\n\nArt. 2º Y."))
         paginas = {2: pagina((109.0, CABECALHO), (1151.0, "Boletim Municipal do Município de Vinhedo/SP")),
                    3: pagina((109.0, CABECALHO), *[(200.0 + 12 * i, "texto de uma página com OCR da origem " * 3) for i in range(12)])}
         self.assertEqual(vi.paginas_sem_texto(LeituraFalsa(paginas, [2, 3])),

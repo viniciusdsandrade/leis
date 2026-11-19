@@ -479,6 +479,7 @@ class Perfil:
     apenso: re.Pattern = APENSO
     corrido: re.Pattern = RODAPE
     intercalado: re.Pattern = INTERCALADO
+    formula: dict = None  # fórmula de promulgação por tipo de ato; sem ela, a de Paulínia (FORMULA)
 
 
 PAULINIA = Perfil()
@@ -622,7 +623,7 @@ def recortar(trecho, ato, jornal=False, perfil=PAULINIA):
     artigo = ARTIGO.search(trecho)
     if not artigo:
         return None, "sem artigo entre a epígrafe e a publicação seguinte"
-    if not FORMULA[ato["chave"]].search(re.sub(r"-[ \t]*\n\s*", "", trecho[:artigo.start()])):  # "PROMUL-" + "GO"
+    if not (perfil.formula or FORMULA)[ato["chave"]].search(re.sub(r"-[ \t]*\n\s*", "", trecho[:artigo.start()])):  # "PROMUL-" + "GO"
         return None, "fórmula de promulgação ausente antes do primeiro artigo"
     signatario = None
     for s in perfil.signatario.finditer(trecho, artigo.end()):
@@ -1054,8 +1055,9 @@ def executar_diario(diario, de, ate, maximo=0, listar=False, rps=0.5, apesar_do_
             if not motivo:
                 corpo, tem_quadro = dom.para_md(recorte)
                 corpo = rejuntar(corpo, leitura.fluxo())
-                motivo = (diverge_do_fluxo(corpo, leitura.fluxo()) or quadro_no_preambulo(corpo)
-                          or (diario.retencao(leitura, ato, corpo) if diario.retencao else None))
+                # a retenção própria do Diário vem antes: é o motivo mais preciso (página em imagem, em Vinhedo)
+                motivo = ((diario.retencao(leitura, ato, corpo) if diario.retencao else None)
+                          or diverge_do_fluxo(corpo, leitura.fluxo()) or quadro_no_preambulo(corpo))
             if not motivo and chave in ja and ja[chave] != destino:
                 if edicao_do_arquivo(ja[chave]) > int(edicao["edicao"]):
                     # a edição mais antiga é a publicação original: o arquivo da mais nova sai e vira a republicação
