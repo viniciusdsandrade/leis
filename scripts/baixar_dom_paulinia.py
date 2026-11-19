@@ -21,7 +21,7 @@ do título ("Diário Oficial - Ano ... - Edição ...") e o expediente; nas dema
 Recorte: da epígrafe ("LEI Nº 4.797, DE 13 DE NOVEMBRO DE 2026") ao bloco de assinaturas que segue o fecho
 ("Paulínia, 13 de novembro de 2026"). Travas: epígrafe única na edição, fórmula de promulgação e artigo presentes,
 data do fecho igual à da epígrafe, assinatura do Prefeito, artigos em sequência, nenhum trecho de outra publicação
-intercalado, anexo depois das assinaturas retido. Por fim, a leitura por colunas é confrontada com a ordem do fluxo do
+intercalado nem quadro entre a epígrafe e o primeiro artigo, anexo depois das assinaturas retido. Por fim, a leitura por colunas é confrontada com a ordem do fluxo do
 próprio PDF (`pdftotext -raw`): parágrafo que não aparece inteiro nas duas leituras retém o ato (quadro lido como
 prosa, coluna fora de ordem). O número da edição impresso no PDF tem de ser o da edição pedida. Nas nº 937 a 945
 (janeiro e fevereiro de 2012), o número e a data estão só na faixa do cabeçalho da capa, que é imagem. Ali o OCR dessa
@@ -345,6 +345,21 @@ def diverge_do_fluxo(corpo, fluxo):
     if ausentes:
         return (f"leitura por colunas difere do fluxo do PDF em {len(ausentes)} parágrafo(s), a começar por "
                 f"\"{ausentes[0]}\"; conferir quadro lido como prosa ou ordem das colunas")
+    return None
+
+
+PRIMEIRO_ARTIGO_NO_MD = re.compile(r"^[ \t]*(?:\*\*)?(?:Art\.?|ART\.?|ARTIGO|Artigo)[ \t]*(?:1[ \t]*[ºo°]|1\.|[Úú]nico|ÚNICO)",
+                                   re.M)
+
+
+def quadro_no_preambulo(corpo):
+    """Motivo quando há quadro entre a epígrafe e o primeiro artigo. O preâmbulo de lei ou decreto não traz quadro: o que
+    aparece ali é de outra publicação lida fora de ordem (o anexo do ato vizinho, por exemplo), e a conferência com o
+    fluxo do PDF não o pega, porque quadros ficam fora dela e as linhas de prosa que o seguem existem no PDF."""
+    artigo = PRIMEIRO_ARTIGO_NO_MD.search(corpo)
+    quadro = corpo.find("```text")
+    if quadro >= 0 and (artigo is None or quadro < artigo.start()):
+        return "quadro entre a epígrafe e o primeiro artigo (trecho de outra publicação?); conferir a ordem de leitura"
     return None
 
 
@@ -1000,7 +1015,7 @@ def executar(de, ate, maximo=0, listar=False, rps=0.5, apesar_do_robots=False):
             if not motivo:
                 corpo, tem_quadro = dom.para_md(recorte)
                 corpo = rejuntar(corpo, leitura.fluxo())
-                motivo = diverge_do_fluxo(corpo, leitura.fluxo())
+                motivo = diverge_do_fluxo(corpo, leitura.fluxo()) or quadro_no_preambulo(corpo)
             if not motivo and chave in ja and ja[chave] != destino:
                 if edicao_do_arquivo(ja[chave]) > int(edicao["edicao"]):
                     # a edição mais antiga é a publicação original: o arquivo da mais nova sai e vira a republicação
