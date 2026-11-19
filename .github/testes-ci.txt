@@ -28,6 +28,7 @@ test_docx_sapl.py
 test_dom_campinas.py
 test_dom_paulinia.py
 test_dom_valinhos.py
+test_dom_vinhedo.py
 test_dou_acesso.py
 test_dou_integralidade.py
 test_dpl_planalto_identidade.py

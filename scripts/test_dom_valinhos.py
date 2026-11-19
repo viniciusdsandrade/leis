@@ -153,6 +153,9 @@ class Leitura(unittest.TestCase):
         sem_dia = pagina((109.0, "Terça, 1 de junho de 2021 Prefeitura Municipal de Valinhos"), (110.0, "Nº 2.120 - Ano XXXII"))
         self.assertEqual(v.edicao_impressa({1: sem_dia}), ("2120", "2021-06-01"))
         self.assertEqual(v.edicao_impressa({1: pagina((300.0, "Nº 3071 - Ano XXXVII"))}), (None, None))  # fora do título
+        for titulo in ("Nº 2961 Cadeno Dois - Ano XXXVII", "Nº 3004 caderno dois - Ano XXXVII"):  # o caderno dois
+            capa = pagina((109.0, titulo + " Prefeitura Municipal de Valinhos"), (110.0, "terça-feira, 26 de maio de 2026"))
+            self.assertEqual(v.edicao_impressa({1: capa})[0], titulo.split()[1])
 
     def test_mancha_abaixo_do_titulo_e_do_cabecalho_corrido(self):
         self.assertEqual(v.mancha(1, 907.1, self.CAPA[2]), (131.4, 907.1))
@@ -188,7 +191,7 @@ class Gravacao(unittest.TestCase):
                          "SP/valinhos/leis-ordinarias/2026/lei-ordinaria-7015-2026-dom-3071.md")
 
     def test_sem_verbo_de_ementa_nao_ha_ementa(self):
-        self.assertEqual(v.ementa_de("DECRETO Nº 1, DE 2 DE MAIO DE 2026\n\nFULANO, Prefeito, DECRETA:\n\n**Art. 1º** X."), "")
+        self.assertEqual(v.base.ementa_de("DECRETO Nº 1, DE 2 DE MAIO DE 2026\n\nFULANO, Prefeito, DECRETA:\n\n**Art. 1º** X.", caixa_mista=True), "")
 
 
 if __name__ == "__main__":

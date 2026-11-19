@@ -30,7 +30,6 @@ vem em caixa mista, e a linha "Mens. 77/26 – P.L. 264/26 – ..." que abre a p
 import argparse
 import datetime as dt
 import hashlib
-import json
 import re
 import subprocess
 import sys
@@ -39,7 +38,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import baixar_dom_paulinia as base  # noqa: E402
 import portal_diario_oficial as portal  # noqa: E402
-from comum import CANONICO, Rede, yaml_str  # noqa: E402
+from comum import CANONICO, yaml_str  # noqa: E402
 
 PORTAL = portal.MUNICIPIOS["valinhos"]
 MUNICIPIO, UF, CODIGO_IBGE, BASE = PORTAL.nome, "SP", PORTAL.codigo_ibge, PORTAL.base
@@ -54,7 +53,9 @@ ALTO_DO_CABECALHO = 45  # pt: o cabeçalho corrido das páginas internas fica en
 _MES = base._MES
 _DIA = r"(?:segunda|terça|terca|quarta|quinta|sexta)(?:-feira)?|s[áa]bado|domingo"
 _DATA_CORRIDA = rf"Valinhos,\s*(?:{_DIA}),\s*\d{{1,2}}\s+de\s+{_MES}\s+de\s+\d{{4}}"
-NUMERO_DO_TITULO = re.compile(r"\bN[º°o]\s*(\d[\d.]*)\s*-\s*Ano\s+[IVXLC]+\b")
+# "Nº 3071 - Ano XXXVII"; no caderno dois da edição (relatórios fiscais), "Nº 3004 caderno dois - Ano XXXVII" ou, com o
+# erro da fonte, "Nº 2961 Cadeno Dois - Ano XXXVII": o número é o da edição do dia, como na listagem
+NUMERO_DO_TITULO = re.compile(r"\bN[º°o]\s*(\d[\d.]*)\s*(?:-?\s*Car?der?no\s+Dois\s*)?-\s*Ano\s+[IVXLC]+\b", re.I)
 DATA_DO_TITULO = re.compile(rf"\b(?:{_DIA}),\s*(\d{{1,2}})\s+de\s+({_MES})\s+de\s+(\d{{4}})", re.I)
 TITULO = re.compile(rf"ATOS OFICIAIS|\bAno\s+[IVXLC]+\b|Prefeitura Municipal de Valinhos|www\.valinhos|{DATA_DO_TITULO.pattern}",
                     re.I)
@@ -81,14 +82,6 @@ PERFIL = base.Perfil(
     apenso=re.compile(base.APENSO.pattern.replace("PAUL[ÍI]NIA", "VALINHOS"), re.I),
     corrido=CORRIDO,
 )
-VERBO_DA_EMENTA = re.compile(
-    r"(?:Disp[õo]e|Institui|Autoriza|Altera|Acrescenta|Cria|Denomina|Declara|Concede|Estabelece|Regulamenta|Fixa|"
-    r"Aprova|Revoga|Abre|D[áa]|Disciplina|Define|Torna|Inclui|Exclui|Modifica|Prorroga|Ratifica|Reconhece|Homologa|"
-    r"Nomeia|Exonera|Designa|Constitui|Comp[õo]e|Considera|Dispensa|Pro[íi]be|Garante|Determina|Organiza|Reorganiza|"
-    r"Extingue|Transforma|Oficializa|Consolida|Convoca|Suspende|Delega|Atualiza|Reajusta|Desafeta|Permite|Veda|"
-    r"Implanta|Confere|Outorga|Amplia|Reduz|Isenta|Cancela|Retifica|Adota)\b")
-
-
 # ------------------------------------------------------------------------------------------ leitura da edição
 def visiveis(palavras):
     """As palavras de altura positiva: o modelo das edições guarda texto oculto (yMax menor que yMin)."""
@@ -107,6 +100,8 @@ def fora_do_leiaute(paginas):
 
 def edicao_impressa(paginas):
     """(número, data ISO) que o título da primeira página imprime; (None, None) sem número, e data None sem data."""
+    if not paginas:
+        return None, None
     _, _, palavras = paginas[min(paginas)]
     numero = data = None
     for y0, _, texto in base.linhas_da_pagina(visiveis(palavras)):
@@ -162,18 +157,6 @@ class Edicao(base.Edicao):
 
 
 # ------------------------------------------------------------------------------------------ gravação
-def ementa_de(corpo):
-    """A ementa: entre aspas ou em maiúsculas, como em Paulínia, ou, como Valinhos a compõe, o parágrafo em caixa mista
-    que segue a epígrafe e abre com o verbo da ementa ("Altera a Lei nº 6.964/2026, ...")."""
-    ementa = base.ementa_de(corpo)
-    if ementa:
-        return ementa
-    paragrafos = [" ".join(p.split()) for p in corpo.split("\n\n") if p.strip()]
-    if len(paragrafos) > 1 and VERBO_DA_EMENTA.match(paragrafos[1]):
-        return paragrafos[1]
-    return ""
-
-
 def montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje):
     _, tipo = CANONICO[ato["chave"]]
     titulo = base.titulo_de(ato)
@@ -181,7 +164,7 @@ def montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje):
     dia = dt.date.fromisoformat(edicao["data"]).strftime("%d/%m/%Y")
     meta = [("titulo", titulo), ("tipo", tipo), ("tipo_na_fonte", ato["tipo_na_fonte"]), ("numero", ato["numero"]),
             ("data", ato["data"]), ("municipio", MUNICIPIO), ("uf", UF), ("codigo_ibge", CODIGO_IBGE)]
-    ementa = ementa_de(corpo)
+    ementa = base.ementa_de(corpo, caixa_mista=True)
     if ementa:
         meta.append(("ementa", ementa))
     meta += [("versao_texto", "texto original (não consolidado); " + "; ".join(notas)),
@@ -196,94 +179,13 @@ def montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje):
 
 
 # ------------------------------------------------------------------------------------------ execução
+VALINHOS = base.Diario(portal=PORTAL, destino=DESTINO, falhas=FALHAS, edicao=Edicao, fora_do_leiaute=fora_do_leiaute,
+                       edicao_impressa=edicao_impressa, perfil=PERFIL, montar_md=montar_md)
+
+
 def executar(de, ate, maximo=0, listar=False, rps=0.5, apesar_do_robots=False):
-    if apesar_do_robots:
-        rps = min(rps, portal.RPS_APESAR_DO_ROBOTS)
-    rede = Rede(rps=rps, headers={"Accept-Language": "pt-BR"})
-    indice = portal.ler_indice(PORTAL)
-    so_cache = portal.conferir_robots(rede, PORTAL, apesar_do_robots, de, ate, rps)
-    edicoes = portal.listar_edicoes(rede, BASE, de, ate)
-    portal.conferir_dados_abertos(rede, PORTAL, edicoes, de, ate)
-    if listar:
-        return 0
-    ja = base.publicados(DESTINO)
-    falhas = base.ler_falhas(FALHAS)
-    hoje = dt.date.today()
-    contagem = {"edicoes": 0, "novo": 0, "pulado": 0, "retida": 0, "republicada": 0, "erro": 0}
-    motivos = {}
-    for edicao in edicoes:
-        if maximo and contagem["novo"] >= maximo:
-            print(f"limite de {maximo} novas conversões atingido", flush=True)
-            break
-        edicao["pdf"] = (indice.get(edicao["id"]) or {}).get("pdf")
-        registro_base = {"edicao": edicao["edicao"], "data_edicao": edicao["data"],
-                         "fonte": f"{BASE}/portal/diario-oficial/ver/{edicao['id']}"}
-        # pela página da edição, não pelo número: o "caderno dois" repete o número da edição do dia
-        falhas = [f for f in falhas if f["fonte"] != registro_base["fonte"]]
-        try:
-            edicao["pdf"], pdf = portal.baixar_pdf(rede, BASE, PORTAL.fonte, edicao, so_cache)
-            indice[edicao["id"]] = {"edicao": edicao["edicao"], "data": edicao["data"], "pdf": edicao["pdf"]}
-            leitura = Edicao(pdf)
-            motivo = fora_do_leiaute(leitura.paginas)
-            if motivo:
-                raise RuntimeError(motivo)
-            numero, data_impressa = edicao_impressa(leitura.paginas)
-            if numero != edicao["edicao"]:
-                raise RuntimeError(f"o PDF baixado traz a edição {numero or 'sem número'}, não a {edicao['edicao']}")
-            if data_impressa:
-                edicao["data"] = data_impressa  # a data impressa na edição vale mais que a de postagem no portal
-            atos = base.atos_da_edicao(leitura.trechos(), edicao["data"], perfil=PERFIL)
-            sha_pdf = hashlib.sha256(pdf.read_bytes()).hexdigest()
-        except Exception as e:  # rede ou PDF inesperado: registra e segue para a próxima edição
-            contagem["erro"] += 1
-            falhas.append({**registro_base, "motivo": f"erro: {str(e)[:200]}"})
-            print(f"[erro] edição {edicao['edicao']} ({edicao['data']}): {e}", flush=True)
-            continue
-        contagem["edicoes"] += 1
-        registro_base["data_edicao"] = edicao["data"]
-        for ato, recorte, motivo in atos:
-            _, tipo = CANONICO[ato["chave"]]
-            registro = {**registro_base, "tipo": tipo, "numero": ato["numero"], "data": ato["data"], "pagina": ato["pagina"]}
-            chave = (ato["chave"], ato["numero"], (ato["data"] or "0000")[:4])
-            destino = base.destino_de(ato, edicao, DESTINO) if ato["data"] else None
-            corpo = tem_quadro = None
-            if not motivo:
-                corpo, tem_quadro = base.dom.para_md(recorte)
-                corpo = base.rejuntar(corpo, leitura.fluxo())
-                motivo = base.diverge_do_fluxo(corpo, leitura.fluxo()) or base.quadro_no_preambulo(corpo)
-            if not motivo and chave in ja and ja[chave] != destino:
-                if base.edicao_do_arquivo(ja[chave]) > int(edicao["edicao"]):
-                    # a edição mais antiga é a publicação original: o arquivo da mais nova sai e vira a republicação
-                    falhas.append(base.republicacao(ja[chave], destino, tipo, ato))
-                    ja.pop(chave).unlink()
-                    contagem["republicada"] += 1
-                else:
-                    motivo = f"ato já recortado de outra edição ({ja[chave].name}); republicação a conferir"
-                    contagem["republicada"] += 1
-            elif motivo:
-                contagem["retida"] += 1
-            if motivo:
-                falhas.append({**registro, "motivo": motivo})
-                resumo = motivo.split(":")[0].split("(")[0].strip()[:70]
-                motivos[resumo] = motivos.get(resumo, 0) + 1
-                continue
-            if destino.exists():
-                contagem["pulado"] += 1
-                continue
-            destino.parent.mkdir(parents=True, exist_ok=True)
-            tmp = destino.with_suffix(".tmp")
-            tmp.write_text(montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje), encoding="utf-8")
-            tmp.replace(destino)
-            ja[chave] = destino
-            contagem["novo"] += 1
-        if contagem["edicoes"] % 20 == 0:
-            base.gravar_falhas(falhas, FALHAS)
-            portal.gravar_indice(PORTAL, indice)
-            print(f"  ... edição {edicao['edicao']} ({edicao['data']}): {contagem}", flush=True)
-    base.gravar_falhas(falhas, FALHAS)
-    portal.gravar_indice(PORTAL, indice)
-    print(json.dumps({"contagem": contagem, "motivos": motivos}, ensure_ascii=False), flush=True)
-    return contagem["novo"]
+    """O fluxo comum aos Diários do portal (`baixar_dom_paulinia.executar_diario`) com a leitura de Valinhos."""
+    return base.executar_diario(VALINHOS, de, ate, maximo, listar, rps, apesar_do_robots)
 
 
 if __name__ == "__main__":
