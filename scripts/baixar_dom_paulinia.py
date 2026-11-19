@@ -49,19 +49,23 @@ import shutil
 import subprocess
 import sys
 import tempfile
+from dataclasses import dataclass
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import baixar_dom_campinas as dom  # noqa: E402
+import portal_diario_oficial as portal  # noqa: E402
 from comum import CANONICO, OCR_BIN, Rede, documento_para_md, slugify, yaml_str  # noqa: E402
+from portal_diario_oficial import edicoes_da_pagina, vedados_pelo_robots  # noqa: E402,F401  (também usados pelos testes)
 
 MUNICIPIO, UF, CODIGO_IBGE = "Paulínia", "SP", "3536505"
-BASE = "https://www.paulinia.sp.gov.br"
-RAIZ = Path(__file__).resolve().parent.parent / "municipais"
+PORTAL = portal.MUNICIPIOS["paulinia"]
+BASE = PORTAL.base
+RAIZ = portal.RAIZ
 DESTINO = RAIZ / UF / "paulinia"
-CACHE = RAIZ / "_indice" / "dom-paulinia"
-RPS_APESAR_DO_ROBOTS = 0.2  # com o download vedado pelo robots.txt, no máximo uma requisição a cada cinco segundos
-FONTE = RAIZ / "_fonte" / "dom-paulinia"
+CACHE = PORTAL.cache
+RPS_APESAR_DO_ROBOTS = portal.RPS_APESAR_DO_ROBOTS
+FONTE = PORTAL.fonte
 FALHAS = DESTINO / "_falhas.jsonl"
 LEI_ORGANICA_PDF = "https://www.camarapaulinia.sp.gov.br/wp-content/uploads/2023/11/Lei-Organica.pdf"
 TOPO = 15  # pt: as páginas internas não têm cabeçalho corrido; o texto começa perto da borda
@@ -459,6 +463,27 @@ ANEXO_PROPRIO = re.compile(
 PRAZO_DE_PUBLICACAO = 120  # dias: ato mais antigo que isto na edição é republicação ou citação, não publicação original
 
 
+@dataclass(frozen=True)
+class Perfil:
+    """O que muda de um Diário Oficial para outro no recorte dos atos: quem assina (nome, cargo, o signatário que fecha o
+    ato), a nota de lavratura, o fecho com a data, o que abre outra publicação, o apenso depois das assinaturas, a linha
+    corrida (rodapé ou cabeçalho) que não pode cair dentro do recorte e o trecho de outra publicação intercalado. O
+    padrão é o de Paulínia; `baixar_dom_valinhos.py` traz o de Valinhos."""
+    nome: re.Pattern = NOME
+    nao_e_assinatura: re.Pattern = NAO_E_ASSINATURA
+    cargo: re.Pattern = CARGO
+    nota: re.Pattern = NOTA
+    signatario: re.Pattern = SIGNATARIO
+    fecho: re.Pattern = FECHO
+    limite: re.Pattern = LIMITE
+    apenso: re.Pattern = APENSO
+    corrido: re.Pattern = RODAPE
+    intercalado: re.Pattern = INTERCALADO
+
+
+PAULINIA = Perfil()
+
+
 def data_iso(dia, mes, ano):
     """'13', 'Novembro', '2.026' -> '2026-11-13'; None quando a data não existe."""
     try:
@@ -467,18 +492,19 @@ def data_iso(dia, mes, ano):
         return None
 
 
-def nome(conteudo):
+def nome(conteudo, perfil=PAULINIA):
     """Linha com o nome de quem assina: maiúsculas, sem dígitos nem colunas, e não um cabeçalho de órgão ou de publicação."""
-    return (len(conteudo) <= 70 and bool(NOME.fullmatch(conteudo)) and not NAO_E_ASSINATURA.match(conteudo)
+    return (len(conteudo) <= 70 and bool(perfil.nome.fullmatch(conteudo)) and not perfil.nao_e_assinatura.match(conteudo)
             and not re.search(r"\S[ \t]{3,}\S", conteudo))
 
 
-def continua_o_nome(conteudo):
+def continua_o_nome(conteudo, perfil=PAULINIA):
     """Segunda linha do nome partido pela coluna de jornal: outro trecho de nome ou um sobrenome sozinho ("BALLONE")."""
-    return nome(conteudo) or (bool(re.fullmatch(r"[A-ZÀ-Ú][A-ZÀ-Ú'.]{2,}", conteudo)) and not NAO_E_ASSINATURA.match(conteudo))
+    return nome(conteudo, perfil) or (bool(re.fullmatch(r"[A-ZÀ-Ú][A-ZÀ-Ú'.]{2,}", conteudo))
+                                      and not perfil.nao_e_assinatura.match(conteudo))
 
 
-def fim_das_assinaturas(trecho, inicio, jornal=False):
+def fim_das_assinaturas(trecho, inicio, jornal=False, perfil=PAULINIA):
     """Posição em que termina o bloco de assinaturas que começa em `inicio` (fim da linha do signatário): pares de nome
     e cargo, cargos avulsos e a nota de lavratura, que pode ocupar até três linhas (com quebra de coluna no meio) e
     termina em ponto. Nome sem cargo reconhecido na linha seguinte não entra: pode ser o título de outra publicação.
@@ -493,28 +519,28 @@ def fim_das_assinaturas(trecho, inicio, jornal=False):
             continue
         seguinte = next((k for k in range(i + 1, len(linhas)) if linhas[k][1]), None)
         # depois do nome, o cargo também aparece grafado como o órgão ("Secretaria de Defesa e ... do Meio Ambiente")
-        par = nome(conteudo) and seguinte is not None and bool(
-            CARGO.fullmatch(linhas[seguinte][1]) or re.fullmatch(r"Secretaria [^\n]{3,90}(?<![:;,.])", linhas[seguinte][1]))
-        if not par and jornal and nome(conteudo) and seguinte is not None and continua_o_nome(linhas[seguinte][1]):
+        par = nome(conteudo, perfil) and seguinte is not None and bool(
+            perfil.cargo.fullmatch(linhas[seguinte][1]) or re.fullmatch(r"Secretaria [^\n]{3,90}(?<![:;,.])", linhas[seguinte][1]))
+        if not par and jornal and nome(conteudo, perfil) and seguinte is not None and continua_o_nome(linhas[seguinte][1], perfil):
             terceira = next((k for k in range(seguinte + 1, len(linhas)) if linhas[k][1]), None)
-            if terceira is not None and CARGO.fullmatch(linhas[terceira][1]):
+            if terceira is not None and perfil.cargo.fullmatch(linhas[terceira][1]):
                 par, seguinte = True, terceira
         if par:
             fim, nota, i = inicio + linhas[seguinte][0], 0, seguinte + 1
-        elif CARGO.fullmatch(conteudo):
+        elif perfil.cargo.fullmatch(conteudo):
             fim, nota, i = inicio + ate, 0, i + 1
         elif nota:
             if nota >= 3:
                 break  # a nota não fechou com ponto: o que segue não é assinatura
             fim, nota, i = inicio + ate, (0 if conteudo.endswith(".") else nota + 1), i + 1
-        elif NOTA.match(conteudo) and not nome(conteudo):
+        elif perfil.nota.match(conteudo) and not nome(conteudo, perfil):
             fim, nota, i = inicio + ate, (0 if conteudo.endswith(".") else 1), i + 1
         else:
             break
     return fim
 
 
-def atos_da_edicao(trechos, data_edicao, jornal=False):
+def atos_da_edicao(trechos, data_edicao, jornal=False, perfil=PAULINIA):
     """[(ato, recorte ou None, motivo ou None)] das leis e decretos da edição. `ato` traz chave, tipo_na_fonte, numero,
     data, pagina e epigrafe; o recorte vai da epígrafe ao fim do bloco de assinaturas. Com `jornal`, a epígrafe pode
     vir partida em mais de uma linha."""
@@ -561,11 +587,11 @@ def atos_da_edicao(trechos, data_edicao, jornal=False):
         # ementa em maiúsculas quebra linhas em "CONSELHO DE ...", "LEI COMPLEMENTAR Nº 88 ..." ou "SECRETARIA ..."
         teto = achados[i + 1][0].start() if i + 1 < len(achados) else len(texto)
         artigo = ARTIGO.search(texto, m.end(), teto)
-        prox = LIMITE.search(texto, artigo.end(), teto) if artigo else None
+        prox = perfil.limite.search(texto, artigo.end(), teto) if artigo else None
         trecho = texto[m.start():prox.start() if prox else teto]
         if jornal:  # a epígrafe partida pela coluna estreita volta a ser uma linha só
             trecho = " ".join(m.group(0).split()) + trecho[len(m.group(0)):]
-        saida.append((ato, *recortar(trecho, ato, jornal)))
+        saida.append((ato, *recortar(trecho, ato, jornal, perfil)))
     return saida
 
 
@@ -591,7 +617,7 @@ def artigos_fora_de_sequencia(recorte):
     return None
 
 
-def recortar(trecho, ato, jornal=False):
+def recortar(trecho, ato, jornal=False, perfil=PAULINIA):
     """(recorte, None) ou (None, motivo) para o trecho que vai da epígrafe do ato até a publicação seguinte."""
     artigo = ARTIGO.search(trecho)
     if not artigo:
@@ -599,31 +625,31 @@ def recortar(trecho, ato, jornal=False):
     if not FORMULA[ato["chave"]].search(re.sub(r"-[ \t]*\n\s*", "", trecho[:artigo.start()])):  # "PROMUL-" + "GO"
         return None, "fórmula de promulgação ausente antes do primeiro artigo"
     signatario = None
-    for s in SIGNATARIO.finditer(trecho, artigo.end()):
+    for s in perfil.signatario.finditer(trecho, artigo.end()):
         signatario = s  # o último antes da publicação seguinte: regulamento em anexo também traz artigos
         break
     if not signatario:
         return None, "sem a assinatura do Prefeito ou do Presidente da Câmara antes da publicação seguinte"
-    fechos = [f for f in (FECHO_DE_JORNAL if jornal else FECHO).finditer(trecho, artigo.end(), signatario.start())]
+    fechos = [f for f in (FECHO_DE_JORNAL if jornal else perfil.fecho).finditer(trecho, artigo.end(), signatario.start())]
     if fechos:
         data_fecho = data_iso(*fechos[-1].groups())
         if data_fecho != ato["data"]:
             return None, f"data do fecho ({data_fecho}) difere da data da epígrafe ({ato['data']})"
-    fim = fim_das_assinaturas(trecho, signatario.end(), jornal)
+    fim = fim_das_assinaturas(trecho, signatario.end(), jornal, perfil)
     recorte, resto = trecho[:fim], trecho[fim:]
     # o que segue as assinaturas é outra publicação, salvo anexo, quadro ou frase que continua: aí o limite não é seguro
     seguinte = next((ln for ln in resto.split("\n") if ln.strip()), "")
-    if ANEXO.search(resto[:2500]) or APENSO.match(seguinte):
+    if ANEXO.search(resto[:2500]) or perfil.apenso.match(seguinte):
         return None, "anexo publicado depois das assinaturas; o limite do anexo não é seguro"
     if seguinte.strip()[:1].islower() or re.search(r"\S[ \t]{3,}\S", seguinte.strip()):
         return None, "texto ou quadro depois das assinaturas e antes da publicação seguinte; conferir os limites do ato"
-    if nome(seguinte.strip()):
+    if nome(seguinte.strip(), perfil):
         return None, "linha em maiúsculas depois das assinaturas (assinatura com cargo não reconhecido ou outro título); a conferir"
     if ANEXO_PROPRIO.search(recorte) and not ANEXO.search(recorte):
         return None, "o ato cita anexo próprio que não está no recorte"
-    if any(RODAPE.search(linha) for linha in recorte.split("\n")):
+    if any(perfil.corrido.search(linha) for linha in recorte.split("\n")):
         return None, "rodapé da página dentro do recorte; a área de texto da página não foi delimitada"
-    intercalado = INTERCALADO.search(recorte, len(ato["epigrafe"]))
+    intercalado = perfil.intercalado.search(recorte, len(ato["epigrafe"]))
     if intercalado:
         return None, "trecho de outra publicação intercalado no recorte: " + intercalado.group(0).strip()[:80]
     sequencia = artigos_fora_de_sequencia(recorte)
@@ -671,10 +697,10 @@ def titulo_de(ato):
     return f"{ato['tipo_na_fonte']} nº {numero}, de {'1º' if dia == 1 else dia} de {NOME_MES[mes]} de {ano}"
 
 
-def destino_de(ato, edicao):
+def destino_de(ato, edicao, destino=DESTINO):
     pasta, _ = CANONICO[ato["chave"]]
     nome = slugify(f"{ato['chave']}-{ato['numero']}-{ato['data'][:4]}-dom-{edicao['edicao']}")
-    return DESTINO / pasta / ato["data"][:4] / (nome + ".md")
+    return destino / pasta / ato["data"][:4] / (nome + ".md")
 
 
 _FECHA_ASPAS = re.compile(r"[”\"]\s*\.?\s*$")
@@ -692,8 +718,18 @@ def _continua_em_caixa_alta(texto):
     return minusculas <= 0.4 * (minusculas + maiusculas)
 
 
-def ementa_de(corpo):
-    """A ementa, quando o parágrafo que segue a epígrafe (e a nota do projeto) vem entre aspas ou em maiúsculas.
+# o verbo que abre a ementa em caixa mista, sem aspas ("Altera a Lei nº 6.964/2026, ...", "Dispõe sobre ...")
+VERBO_DA_EMENTA = re.compile(
+    r"(?:Disp[õo]e|Institui|Autoriza|Altera|Acrescenta|Cria|Denomina|Declara|Concede|Estabelece|Regulamenta|Fixa|"
+    r"Aprova|Revoga|Abre|D[áa]|Disciplina|Define|Torna|Inclui|Exclui|Modifica|Prorroga|Ratifica|Reconhece|Homologa|"
+    r"Nomeia|Exonera|Designa|Constitui|Comp[õo]e|Considera|Dispensa|Pro[íi]be|Garante|Determina|Organiza|Reorganiza|"
+    r"Extingue|Transforma|Oficializa|Consolida|Convoca|Suspende|Delega|Atualiza|Reajusta|Desafeta|Permite|Veda|"
+    r"Implanta|Confere|Outorga|Amplia|Reduz|Isenta|Cancela|Retifica|Adota)\b")
+
+
+def ementa_de(corpo, caixa_mista=False):
+    """A ementa, quando o parágrafo que segue a epígrafe (e a nota do projeto) vem entre aspas ou em maiúsculas; com
+    `caixa_mista` (Valinhos, Vinhedo), também o parágrafo sem aspas em caixa mista que abre com o verbo da ementa.
 
     O diário às vezes parte a ementa em mais de um parágrafo: a leitura segue até o parágrafo que fecha as aspas (ou,
     sem aspas, enquanto durar a caixa alta). Sem fecho à vista, vale só o primeiro parágrafo."""
@@ -702,6 +738,8 @@ def ementa_de(corpo):
         paragrafos.pop(0)  # "(Projeto de Lei Nº 127/2026 de autoria do Ver. ...)"
     if not paragrafos:
         return ""
+    if caixa_mista and not _caixa_alta(paragrafos[0]) and paragrafos[0][:1] not in "“\"":
+        return " ".join(paragrafos[0].split()) if VERBO_DA_EMENTA.match(paragrafos[0]) else ""
     primeiro, partes = paragrafos[0], [paragrafos[0]]
     alta = _caixa_alta(primeiro)
     if primeiro[:1] in "“\"":
@@ -756,7 +794,6 @@ def montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje):
 
 
 # ------------------------------------------------------------------------------------------ edições e execução
-ITEM = '<div class="dof_publicacao_diario sw_item_listagem">'
 MODELO = (722.8, 841.9)  # pt: página do leiaute de duas colunas conferido
 # a mesma diagramação numa página maior: a edição nº 1205, de 10/08/2016, composta em 764,8 x 883,9 pt
 MODELOS = [MODELO, (764.8, 883.9)]
@@ -766,110 +803,14 @@ JORNAL_PAGINAS = [(652.0, 892.9), (1303.9, 892.9)]  # pt: o formato de jornal, p
 JORNAL_PAGINAS += [(652.0, 864.6), (680.3, 921.3), (1332.3, 921.3), (694.0, 934.9), (1345.9, 934.9)]
 
 
-def texto_html(bruto):
-    return " ".join(html.unescape(re.sub(r"<[^>]+>", " ", bruto)).split())
-
-
-def edicoes_da_pagina(pagina_html):
-    """[{id, edicao, data, token}] das edições de uma página da listagem do portal; `data` é None quando falta."""
-    saida = []
-    for bloco in pagina_html.split(ITEM)[1:]:
-        ver = re.search(r"/portal/diario-oficial/ver/(\d+)", bloco)
-        token = re.search(r"/portal/download/diario-oficial/([^/\"'\s]+)", bloco)  # o código pode ter hífen
-        rotulo = texto_html(bloco)
-        numero = re.search(r"Edi[çc][ãa]o n[º°o]\s*([\d.]+)", rotulo)
-        postagem = re.search(r"Postagem:\s*(\d{2})/(\d{2})/(\d{4})", rotulo)
-        if not (ver and token and numero):
-            continue
-        data = f"{postagem.group(3)}-{postagem.group(2)}-{postagem.group(1)}" if postagem else None
-        saida.append({"id": ver.group(1), "edicao": numero.group(1).replace(".", ""), "data": data, "token": token.group(1)})
-    return saida
-
-
 def listar_edicoes(rede, de, ate):
-    """Edições postadas entre os anos `de` e `ate`, da mais antiga para a mais recente. A listagem vem da mais recente
-    para a mais antiga: a leitura para na primeira página toda anterior a `de`."""
-    achadas, vistos = [], set()
-    for pagina in range(1, 400):
-        st, bruto, _ = rede.get(f"{BASE}/portal/diario-oficial/{pagina}/0/0/0/0")
-        if st != 200:
-            raise RuntimeError(f"listagem de edições, página {pagina}: HTTP {st}")
-        itens = [e for e in edicoes_da_pagina(bruto.decode("utf-8", "replace")) if e["id"] not in vistos]
-        if not itens:
-            break
-        vistos.update(e["id"] for e in itens)
-        achadas += itens
-        anos = [int(e["data"][:4]) for e in itens if e["data"]]
-        if anos and max(anos) < de:
-            break
-    sem_data = [e["edicao"] for e in achadas if not e["data"]]
-    if sem_data:
-        print(f"[aviso] edições sem data de postagem na listagem, fora da coleta: {', '.join(sem_data)}", flush=True)
-    return sorted((e for e in achadas if e["data"] and de <= int(e["data"][:4]) <= ate),
-                  key=lambda e: (e["data"], int(e["edicao"]), int(e["id"])))
-
-
-def edicoes_dos_dados_abertos(rede, ano):
-    """Números das edições do ano segundo os dados abertos do portal: confere a listagem."""
-    st, bruto, _ = rede.get(f"{BASE}/portal/dados-abertos/diario-oficial/{ano}", "application/json")
-    if st != 200:
-        raise RuntimeError(f"dados abertos de {ano}: HTTP {st}")
-    return {str(e["edicao"]).replace(".", "") for e in json.loads(bruto)["dados"]}
-
-
-def vedados_pelo_robots(robots, caminhos, agente="*"):
-    """Os `caminhos` que o `robots.txt` veda ao `agente`: somados todos os grupos que o nomeiam (RFC 9309, seção 2.2.1),
-    vale a regra de caminho mais longo, e Allow vence Disallow no empate."""
-    regras, grupo, nomes, em_regras = [], False, [], False
-    for linha in robots.splitlines():
-        linha = linha.split("#", 1)[0].strip()
-        if ":" not in linha:
-            continue
-        campo, valor = (x.strip() for x in linha.split(":", 1))
-        campo = campo.lower()
-        if campo == "user-agent":
-            if em_regras:
-                nomes, em_regras = [], False
-            nomes.append(valor.lower())
-            grupo = agente.lower() in nomes
-        elif campo in ("allow", "disallow"):
-            em_regras = True
-            if grupo and valor:
-                regras.append((len(valor), campo == "allow", valor))
-    vedados = []
-    for caminho in caminhos:
-        casadas = sorted((r for r in regras if caminho.startswith(r[2])), key=lambda r: (r[0], r[1]))
-        if casadas and not casadas[-1][1]:
-            vedados.append(caminho)
-    return vedados
+    """Edições de Paulínia postadas entre os anos `de` e `ate`, da mais antiga para a mais recente (ver o portal)."""
+    return portal.listar_edicoes(rede, BASE, de, ate)
 
 
 def baixar_pdf(rede, edicao, so_cache=False):
-    """(endereço do PDF, arquivo em cache). O link de download responde com um redirecionamento em HTML para /uploads.
-    Com `so_cache`, a edição fora do cache é um erro, sem nenhum pedido à rede."""
-    FONTE.mkdir(parents=True, exist_ok=True)
-    em_cache = sorted(FONTE.glob(f"{edicao['id']}-*.pdf"))
-    if em_cache and edicao.get("pdf"):
-        return edicao["pdf"], em_cache[0]
-    if so_cache:
-        raise RuntimeError("PDF fora do cache; o robots.txt do portal veda o download (/portal/download/, /uploads/)")
-    url = f"{BASE}/portal/download/diario-oficial/{edicao['token']}/"
-    st, bruto, _ = rede.get(url)
-    if st != 200:
-        raise RuntimeError(f"download HTTP {st}")
-    if not bruto.startswith(b"%PDF"):
-        alvo = re.search(rb"url=([^\"'> ]+\.pdf)", bruto, re.I)
-        if not alvo:
-            raise RuntimeError("página de download sem o endereço do PDF")
-        url = BASE + alvo.group(1).decode("ascii", "replace")
-        st, bruto, _ = rede.get(url)
-        if st != 200 or not bruto.startswith(b"%PDF"):
-            raise RuntimeError(f"PDF da edição: HTTP {st} ou arquivo que não é PDF")
-    destino = FONTE / f"{edicao['id']}-{slugify(url.rsplit('/', 1)[1])}"
-    tmp = destino.with_suffix(".tmp")
-    tmp.write_bytes(bruto)
-    tmp.replace(destino)
-    return url, destino
+    """(endereço do PDF, arquivo em cache) da edição; com `so_cache`, sem nenhum pedido à rede."""
+    return portal.baixar_pdf(rede, BASE, FONTE, edicao, so_cache)
 
 
 def _do_formato(largura, altura, formatos):
@@ -897,31 +838,31 @@ def fora_do_modelo(paginas):
     return "edição que mistura o leiaute de duas colunas e o de jornal"
 
 
-def publicados():
-    """{(chave, número, ano): arquivo} dos atos já gravados, pelo nome do arquivo."""
+def publicados(destino=DESTINO):
+    """{(chave, número, ano): arquivo} dos atos já gravados em `destino`, pelo nome do arquivo."""
     saida = {}
     for chave in {c for c, _ in TIPOS.values()}:
         pasta, _ = CANONICO[chave]
-        for md in (DESTINO / pasta).glob("*/*.md"):
+        for md in (destino / pasta).glob("*/*.md"):
             m = re.fullmatch(rf"{re.escape(slugify(chave))}-(\d+)-(\d{{4}})-dom-\d+", md.stem)
             if m:
                 saida[(chave, m.group(1), m.group(2))] = md
     return saida
 
 
-def ler_falhas():
-    if not FALHAS.exists():
+def ler_falhas(arquivo=FALHAS):
+    if not arquivo.exists():
         return []
-    return [json.loads(ln) for ln in FALHAS.read_text(encoding="utf-8").splitlines() if ln.strip()]
+    return [json.loads(ln) for ln in arquivo.read_text(encoding="utf-8").splitlines() if ln.strip()]
 
 
-def gravar_falhas(registros):
+def gravar_falhas(registros, arquivo=FALHAS):
     def ordem(r):
         return (int(r["edicao"]), r.get("tipo", ""), int(r.get("numero") or 0))
-    FALHAS.parent.mkdir(parents=True, exist_ok=True)
-    tmp = FALHAS.with_suffix(".tmp")
+    arquivo.parent.mkdir(parents=True, exist_ok=True)
+    tmp = arquivo.with_suffix(".tmp")
     tmp.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in sorted(registros, key=ordem)), encoding="utf-8")
-    tmp.replace(FALHAS)
+    tmp.replace(arquivo)
 
 
 def edicao_do_arquivo(arquivo):
@@ -949,24 +890,9 @@ def executar(de, ate, maximo=0, listar=False, rps=0.5, apesar_do_robots=False):
     CACHE.mkdir(parents=True, exist_ok=True)
     arquivo_cache = CACHE / "edicoes.json"
     cache = json.loads(arquivo_cache.read_text(encoding="utf-8")) if arquivo_cache.exists() else {}
-    st, robots, _ = rede.get(f"{BASE}/robots.txt")
-    vedados = vedados_pelo_robots(robots.decode("utf-8", "replace"), ["/portal/diario-oficial/", "/portal/dados-abertos/",
-                                                                      "/portal/download/", "/uploads/"]) if st == 200 else []
-    if {"/portal/diario-oficial/", "/portal/dados-abertos/"} & set(vedados):
-        raise RuntimeError(f"o robots.txt do portal veda a listagem das edições: {vedados}")
-    so_cache = bool(vedados) and not apesar_do_robots
-    if vedados and apesar_do_robots:
-        print(f"[aviso] o robots.txt veda {', '.join(vedados)}; baixando mesmo assim (--apesar-do-robots), a {rps} req/s",
-              flush=True)
-    elif so_cache:
-        print(f"[aviso] o robots.txt veda {', '.join(vedados)}: só as edições já em cache serão lidas", flush=True)
+    so_cache = portal.conferir_robots(rede, PORTAL, apesar_do_robots, de, ate, rps)
     edicoes = listar_edicoes(rede, de, ate)
-    for ano in range(de, ate + 1):
-        na_listagem = {e["edicao"] for e in edicoes if e["data"][:4] == str(ano)}
-        abertos = edicoes_dos_dados_abertos(rede, ano)
-        print(f"{ano}: {len(na_listagem)} edições na listagem, {len(abertos)} nos dados abertos"
-              + (f"; só nos dados abertos: {sorted(abertos - na_listagem)}" if abertos - na_listagem else "")
-              + (f"; só na listagem: {sorted(na_listagem - abertos)}" if na_listagem - abertos else ""), flush=True)
+    portal.conferir_dados_abertos(rede, PORTAL, edicoes, de, ate)
     if listar:
         return 0
     ja = publicados()
@@ -1046,6 +972,121 @@ def executar(de, ate, maximo=0, listar=False, rps=0.5, apesar_do_robots=False):
             print(f"  ... edição {edicao['edicao']} ({edicao['data']}): {contagem}", flush=True)
     gravar_falhas(falhas)
     arquivo_cache.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(json.dumps({"contagem": contagem, "motivos": motivos}, ensure_ascii=False), flush=True)
+    return contagem["novo"]
+
+
+# ------------------------------------------------------------------------------------------ outros Diários do portal
+@dataclass(frozen=True)
+class Diario:
+    """Um Diário Oficial do mesmo portal lido por este motor (Valinhos, Vinhedo): o município no portal, a pasta dos atos
+    e o arquivo de falhas, a leitura da edição (`edicao(pdf)`, com `paginas`, `trechos()` e `fluxo()`), a conferência
+    do leiaute (`fora_do_leiaute(paginas)`, motivo ou None) e da identidade (`edicao_impressa(paginas)`, número e data),
+    o perfil do recorte e a gravação (`montar_md`). Opcionais: `retencao(leitura, ato, corpo)`, motivo próprio para reter
+    um ato, e `notas(leitura)`, motivos da edição que não dizem respeito a um ato (páginas em imagem, por exemplo)."""
+    portal: object
+    destino: Path
+    falhas: Path
+    edicao: object
+    fora_do_leiaute: object
+    edicao_impressa: object
+    perfil: Perfil
+    montar_md: object
+    retencao: object = None
+    notas: object = None
+
+
+def executar_diario(diario, de, ate, maximo=0, listar=False, rps=0.5, apesar_do_robots=False):
+    """O fluxo de `executar`, sem o que é só de Paulínia (o formato de jornal e o OCR da capa): baixa ou lê do cache cada
+    edição, confere leiaute e identidade, recorta os atos com o perfil do Diário, confere cada recorte com o fluxo do
+    PDF e grava o que passa; a edição mais antiga fica com o ato republicado. Devolve o número de atos novos."""
+    if apesar_do_robots:
+        rps = min(rps, RPS_APESAR_DO_ROBOTS)
+    rede = Rede(rps=rps, headers={"Accept-Language": "pt-BR"})
+    indice = portal.ler_indice(diario.portal)
+    so_cache = portal.conferir_robots(rede, diario.portal, apesar_do_robots, de, ate, rps)
+    edicoes = portal.listar_edicoes(rede, diario.portal.base, de, ate)
+    portal.conferir_dados_abertos(rede, diario.portal, edicoes, de, ate)
+    if listar:
+        return 0
+    ja = publicados(diario.destino)
+    falhas = ler_falhas(diario.falhas)
+    hoje = dt.date.today()
+    contagem = {"edicoes": 0, "novo": 0, "pulado": 0, "retida": 0, "republicada": 0, "erro": 0}
+    motivos = {}
+    for edicao in edicoes:
+        if maximo and contagem["novo"] >= maximo:
+            print(f"limite de {maximo} novas conversões atingido", flush=True)
+            break
+        edicao["pdf"] = (indice.get(edicao["id"]) or {}).get("pdf")
+        registro_base = {"edicao": edicao["edicao"], "data_edicao": edicao["data"],
+                         "fonte": f"{diario.portal.base}/portal/diario-oficial/ver/{edicao['id']}"}
+        # pela página da edição, não pelo número: o portal repete números (o "caderno dois", as edições extras)
+        falhas = [f for f in falhas if f["fonte"] != registro_base["fonte"]]
+        try:
+            edicao["pdf"], pdf = portal.baixar_pdf(rede, diario.portal.base, diario.portal.fonte, edicao, so_cache)
+            indice[edicao["id"]] = {"edicao": edicao["edicao"], "data": edicao["data"], "pdf": edicao["pdf"]}
+            leitura = diario.edicao(pdf)
+            motivo = diario.fora_do_leiaute(leitura.paginas)
+            if motivo:
+                raise RuntimeError(motivo)
+            numero, data_impressa = diario.edicao_impressa(leitura.paginas)
+            if numero != edicao["edicao"]:
+                raise RuntimeError(f"o PDF baixado traz a edição {numero or 'sem número'}, não a {edicao['edicao']}")
+            if data_impressa:
+                edicao["data"] = data_impressa  # a data impressa na edição vale mais que a de postagem no portal
+            atos = atos_da_edicao(leitura.trechos(), edicao["data"], perfil=diario.perfil)
+            sha_pdf = hashlib.sha256(pdf.read_bytes()).hexdigest()
+        except Exception as e:  # rede ou PDF inesperado: registra e segue para a próxima edição
+            contagem["erro"] += 1
+            falhas.append({**registro_base, "motivo": f"erro: {str(e)[:200]}"})
+            print(f"[erro] edição {edicao['edicao']} ({edicao['data']}): {e}", flush=True)
+            continue
+        contagem["edicoes"] += 1
+        registro_base["data_edicao"] = edicao["data"]
+        falhas += [{**registro_base, "motivo": nota} for nota in (diario.notas(leitura) if diario.notas else [])]
+        for ato, recorte, motivo in atos:
+            _, tipo = CANONICO[ato["chave"]]
+            registro = {**registro_base, "tipo": tipo, "numero": ato["numero"], "data": ato["data"], "pagina": ato["pagina"]}
+            chave = (ato["chave"], ato["numero"], (ato["data"] or "0000")[:4])
+            destino = destino_de(ato, edicao, diario.destino) if ato["data"] else None
+            corpo = tem_quadro = None
+            if not motivo:
+                corpo, tem_quadro = dom.para_md(recorte)
+                corpo = rejuntar(corpo, leitura.fluxo())
+                motivo = (diverge_do_fluxo(corpo, leitura.fluxo()) or quadro_no_preambulo(corpo)
+                          or (diario.retencao(leitura, ato, corpo) if diario.retencao else None))
+            if not motivo and chave in ja and ja[chave] != destino:
+                if edicao_do_arquivo(ja[chave]) > int(edicao["edicao"]):
+                    # a edição mais antiga é a publicação original: o arquivo da mais nova sai e vira a republicação
+                    falhas.append(republicacao(ja[chave], destino, tipo, ato))
+                    ja.pop(chave).unlink()
+                    contagem["republicada"] += 1
+                else:
+                    motivo = f"ato já recortado de outra edição ({ja[chave].name}); republicação a conferir"
+                    contagem["republicada"] += 1
+            elif motivo:
+                contagem["retida"] += 1
+            if motivo:
+                falhas.append({**registro, "motivo": motivo})
+                resumo = motivo.split(":")[0].split("(")[0].strip()[:70]
+                motivos[resumo] = motivos.get(resumo, 0) + 1
+                continue
+            if destino.exists():
+                contagem["pulado"] += 1
+                continue
+            destino.parent.mkdir(parents=True, exist_ok=True)
+            tmp = destino.with_suffix(".tmp")
+            tmp.write_text(diario.montar_md(ato, edicao, corpo, tem_quadro, sha_pdf, hoje), encoding="utf-8")
+            tmp.replace(destino)
+            ja[chave] = destino
+            contagem["novo"] += 1
+        if contagem["edicoes"] % 20 == 0:
+            gravar_falhas(falhas, diario.falhas)
+            portal.gravar_indice(diario.portal, indice)
+            print(f"  ... edição {edicao['edicao']} ({edicao['data']}): {contagem}", flush=True)
+    gravar_falhas(falhas, diario.falhas)
+    portal.gravar_indice(diario.portal, indice)
     print(json.dumps({"contagem": contagem, "motivos": motivos}, ensure_ascii=False), flush=True)
     return contagem["novo"]
 

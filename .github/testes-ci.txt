@@ -27,6 +27,8 @@ test_data_captura_ta.py
 test_docx_sapl.py
 test_dom_campinas.py
 test_dom_paulinia.py
+test_dom_valinhos.py
+test_dom_vinhedo.py
 test_dou_acesso.py
 test_dou_integralidade.py
 test_dpl_planalto_identidade.py
@@ -54,6 +56,7 @@ test_organica_curitiba.py
 test_organica_fortaleza.py
 test_organicas_sapl_filtros.py
 test_pendencias_integralidade.py
+test_portal_diario_oficial.py
 test_preparar_index_lote.py
 test_preservar_layout_sapl.py
 test_progresso_integralidade.py

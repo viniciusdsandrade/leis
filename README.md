@@ -18,7 +18,7 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 19/11/2026 eram **1.409.668 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 19/11/2026 eram **1.410.174 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
@@ -26,8 +26,8 @@ são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do 
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 510.442 | 87,7% |
 | 2 | Infralegal e jurisprudência | 776.213 | 76,4% |
-| 3 | Direito municipal | 123.013 | 1,1% |
-| | **Total** | **1.409.668** | |
+| 3 | Direito municipal | 123.519 | 1,1% |
+| | **Total** | **1.410.174** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -219,6 +219,7 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | Campinas (SP) | SAPL da Câmara Municipal (API REST), com PDF anexado e OCR quando escaneado |
 | Campinas (SP) | Biblioteca Jurídica da Prefeitura (bibjuri), para normas que o SAPL cadastra só como ficha |
 | Paulínia (SP) | Diário Oficial do Município (portal da Prefeitura, PDF nascido digital): leis, decretos e decretos legislativos recortados das edições |
+| Valinhos (SP) | Atos Oficiais, o Diário Oficial do Município (portal da Prefeitura, PDF nascido digital): leis, decretos e decretos legislativos recortados das edições |
 | Municípios com SAPL | SAPL das câmaras, para leis orgânicas e emendas |
 | Salvador (BA) | Diário Oficial do Município e Diário Oficial do Legislativo (Dioly) |
 | Rio de Janeiro (RJ) | Câmara Municipal do Rio de Janeiro |
@@ -231,9 +232,11 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 Cada coletor documenta no cabeçalho a API ou o caminho que usa. Todos limitam a taxa a 1 a 4
 requisições por segundo, são retomáveis (pulam o que já existe) e guardam o original em
 `_fonte/`. **Bloqueios de acesso automatizado não são contornados.** A única exceção registrada são os PDFs do
-Diário Oficial de Paulínia, que o `robots.txt` do portal, conferido em novembro de 2026, veda: as edições de 2012 foram
-baixadas com a autorização expressa do mantenedor do acervo, a uma requisição a cada cinco segundos
-(`baixar_dom_paulinia.py --apesar-do-robots`).
+Diário Oficial no portal das Prefeituras de Paulínia, Valinhos e Vinhedo, que o `robots.txt` desses portais, conferido
+em novembro de 2026, veda. O mantenedor do acervo autorizou expressamente baixá-los, a uma requisição a cada cinco
+segundos: em Paulínia, as edições de 2012 (17/11/2026); em Valinhos e Vinhedo, todas as edições (18/11/2026,
+confirmada em 19/11/2026). As autorizações ficam em [`scripts/portal_diario_oficial.py`](scripts/portal_diario_oficial.py),
+que recusa a opção `--apesar-do-robots` em qualquer outro município ou ano.
 
 ---
 
@@ -254,6 +257,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | **Campinas**: 53 atos até 1948 | o bibjuri só tem a ementa ou não tem a norma |
 | **Campinas**: 84 decretos no recorte do DOM | retidos por integridade em [`municipais/_indice/dom-campinas/retidos.json`](municipais/_indice/dom-campinas/retidos.json) (epígrafe ausente no jornal, falta de assinatura ou anexo posterior) |
 | **Paulínia**: 702 atos de 2012 a 2026 no recorte do Diário Oficial (Semanário Oficial até agosto de 2020) | retidos por integridade em [`municipais/SP/paulinia/_falhas.jsonl`](municipais/SP/paulinia/_falhas.jsonl) (anexo depois das assinaturas, quadro lido como prosa ou fora de ordem, falta de assinatura, data do fecho diferente da epígrafe), mais 33 republicações a conferir; 11 edições ficam fora porque o número impresso no PDF não é o da listagem do portal (nº 968, 1029, 1052, 1184, 1272, 1988, 2086, 2262, 2353, 2657 e 2755). Nas nº 937 a 945, de janeiro e fevereiro de 2012, o número e a data só estão na capa, em imagem: a identidade dessas edições foi conferida por OCR da capa, com número e data iguais aos da listagem |
+| **Valinhos**: 51 atos de 2026 no recorte dos Atos Oficiais | retidos por integridade em [`municipais/SP/valinhos/_falhas.jsonl`](municipais/SP/valinhos/_falhas.jsonl) (republicação ou citação de ato antigo, quadro lido como prosa, anexo depois das assinaturas, epígrafe repetida, fórmula de promulgação ausente), mais 2 republicações a conferir; 3 edições ficam fora porque o número impresso no PDF não é o da listagem (nº 2972, 2975 e o caderno dois da 3027), e a nº 3072, postada em 19/11/2026, ainda não foi baixada. Por enquanto, só 2026: as edições de 2017 a 2025, no mesmo leiaute, estão sendo baixadas, e as de 2006 a 2016, jornal com notícias e atos, ficam fora do leiaute lido |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
 ### Pendências das fontes estaduais
