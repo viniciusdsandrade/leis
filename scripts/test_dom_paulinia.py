@@ -652,5 +652,70 @@ Disallow: /portal/download/
             p.baixar_pdf(None, {"id": "nao-existe-no-cache", "token": "x"}, so_cache=True)
 
 
+class Capa(unittest.TestCase):
+    # o que o Vision leu no alto da capa das nº 937 e 943 (esta, extra) em cache, linha a linha
+    OCR_937 = "PAULÍNIA\nSemanário Oficial\nMunicípio de\nFREI\nAno XVIII - Edição: 937\nPaulínia, 4 de janeiro de 2012\n"
+    OCR_943 = ("PAULÍNIA\nFARS\nMunicípio de\nSemanário Oficial\nEdição Extra\nAno XVIII - Edição: 943\n"
+               "Paulínia, 10 de fevereiro de 2012\n")
+    SEM_NUMERO = {1: (652.0, 864.6, [(60.0, 300.0, 120.0, 310.0, "DECRETO")])}  # o texto da capa não traz o número
+
+    def test_numero_e_data_da_faixa_do_cabecalho(self):
+        self.assertEqual(p.edicao_da_capa(self.OCR_937), ("937", "2012-01-04"))
+        self.assertEqual(p.edicao_da_capa(self.OCR_943), ("943", "2012-02-10"))
+        # o Vision às vezes devolve a data antes do número
+        self.assertEqual(p.edicao_da_capa("PAULÍNIA\nPaulínia, 15 de fevereiro de 2012\nAno XVIII - Edição: 944"),
+                         ("944", "2012-02-15"))
+
+    def test_capa_sem_numero_sem_data_ou_ambigua_nao_identifica(self):
+        for texto in ("", "Ano XVIII - Edição: 937", "Paulínia, 4 de janeiro de 2012",
+                      "Ano XVIII - Edição: 937\nAno XVIII - Edição: 938\nPaulínia, 4 de janeiro de 2012",
+                      "Ano XVIII - Edição: 937\nPaulínia, 4 de janeiro de 2012\nPaulínia, 11 de janeiro de 2012",
+                      "Ano XVIII - Edição: 937\nPaulínia, 31 de fevereiro de 2012"):
+            self.assertEqual(p.edicao_da_capa(texto), (None, None), texto)
+
+    def test_capa_so_identifica_com_numero_e_data_da_listagem(self):
+        self.assertEqual(p.identidade_conferida(self.SEM_NUMERO, {"edicao": "937", "data": "2012-01-04"}, lambda: self.OCR_937),
+                         ("2012-01-04", True))
+        with self.assertRaisesRegex(RuntimeError, "a capa lida por OCR traz a edição 937 de 2012-01-04, não a 938 de 2012-01-11"):
+            p.identidade_conferida(self.SEM_NUMERO, {"edicao": "938", "data": "2012-01-11"}, lambda: self.OCR_937)
+        with self.assertRaisesRegex(RuntimeError, "não a 937 de 2012-01-05"):  # o número bate, a data não
+            p.identidade_conferida(self.SEM_NUMERO, {"edicao": "937", "data": "2012-01-05"}, lambda: self.OCR_937)
+        with self.assertRaisesRegex(RuntimeError, r"sem número \(nem no OCR da capa\), não a 937"):
+            p.identidade_conferida(self.SEM_NUMERO, {"edicao": "937", "data": "2012-01-04"}, lambda: "")
+
+    def test_numero_em_texto_dispensa_o_ocr_da_capa(self):
+        def sem_ocr():
+            raise AssertionError("com o número em texto, a capa não é lida")
+        palavras = "Diário Oficial - Ano XXXIII - Edição 2.881 - 13 de Novembro de 2026".split()
+        titulo = {1: (722.8, 841.9, [(10.0 + 40 * i, 154.0, 45.0 + 40 * i, 164.0, w) for i, w in enumerate(palavras)])}
+        self.assertEqual(p.identidade_conferida(titulo, {"edicao": "2881", "data": "2026-11-13"}, sem_ocr), ("2026-11-13", False))
+        with self.assertRaisesRegex(RuntimeError, "o PDF baixado traz a edição 2881, não a 2880$"):
+            p.identidade_conferida(titulo, {"edicao": "2880", "data": "2026-11-12"}, sem_ocr)
+
+    def test_nome_do_periodico_vem_da_capa_quando_falta_em_texto(self):
+        self.assertEqual(p.periodico(self.SEM_NUMERO, lambda: self.OCR_937), "Semanário Oficial")
+        self.assertEqual(p.periodico(self.SEM_NUMERO, lambda: ""), "Diário Oficial")
+        self.assertEqual(p.periodico(self.SEM_NUMERO), "Diário Oficial")
+        palavras = "Semanário Oficial - Ano XXIII - Edição 1.175 - 24 de fevereiro de 2016".split()
+        titulo = {1: (722.8, 841.9, [(30.0 + 40 * i, 133.0, 65.0 + 40 * i, 143.0, w) for i, w in enumerate(palavras)])}
+
+        def sem_ocr():
+            raise AssertionError("com o nome em texto, a capa não é lida")
+        self.assertEqual(p.periodico(titulo, sem_ocr), "Semanário Oficial")
+
+    def test_ato_da_edicao_conferida_pela_capa_registra_o_ocr_sem_marcar_o_texto(self):
+        import datetime as dt
+        (ato, recorte, _), = atos(LEI)
+        conferida = p.montar_md(ato, {**Gravacao.EDICAO, "pela_capa": True}, *p.dom.para_md(recorte), "a" * 64,
+                                dt.date(2026, 11, 19))
+        cab, corpo = conferida[4:].split("\n---\n", 1)
+        self.assertRegex(cab, r'(?m)^versao_texto: "texto original \(não consolidado\); .*; número e data da edição '
+                              r'conferidos por OCR da faixa do cabeçalho da capa, onde estão só em imagem"$')
+        self.assertNotRegex(cab, r"(?m)^ocr")  # o corpo é o texto do PDF: nada de campo nem aviso de OCR
+        self.assertNotIn("Texto obtido por OCR", corpo)
+        comum = p.montar_md(ato, Gravacao.EDICAO, *p.dom.para_md(recorte), "a" * 64, dt.date(2026, 11, 19))
+        self.assertNotIn("OCR", comum)
+
+
 if __name__ == "__main__":
     unittest.main()
