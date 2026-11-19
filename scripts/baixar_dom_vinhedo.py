@@ -17,8 +17,10 @@ Páginas em imagem: o Boletim reproduz parte dos atos como a imagem do documento
 de um OCR feito na origem ("ESTADO DESAOPAULO", "N'" no lugar de "Nº"). Esse texto não é nascido digital: o ato que
 começa numa página coberta por imagem fica retido, e as páginas em imagem sem texto ficam registradas na edição.
 
-Recorte e travas: os de Paulínia (`baixar_dom_paulinia.py`), com o perfil de Vinhedo. Saem do texto as marcas de
-continuação do documento original ("Decreto nº 460/2026 – folha 3"). O fecho vem por extenso ("aos dezoito dias do mês
+Recorte e travas: os de Paulínia (`baixar_dom_paulinia.py`), com o perfil de Vinhedo, em que o decreto legislativo da
+Câmara "DECRETA". Saem do texto as marcas de continuação do documento original ("Decreto nº 460/2026 – folha 3") e a
+moldura dos documentos que a Câmara assina digitalmente (timbre, rodapé e o carimbo "Documento assinado digitalmente
+por ...", como em Paulínia). O fecho vem por extenso ("aos dezoito dias do mês
 de novembro de dois mil e vinte e seis") e não entra na conferência da data. O que falha fica em
 `municipais/SP/vinhedo/_falhas.jsonl`, com o motivo.
 
@@ -43,11 +45,15 @@ PORTAL = portal.MUNICIPIOS["vinhedo"]
 MUNICIPIO, UF, CODIGO_IBGE, BASE = PORTAL.nome, "SP", PORTAL.codigo_ibge, PORTAL.base
 DESTINO = portal.RAIZ / UF / "vinhedo"
 FALHAS = DESTINO / "_falhas.jsonl"
-PAGINAS = [(595.3, 841.9), (841.9, 1190.5)]  # pt: A4 e A3, os formatos do Boletim gerado pelo sistema
+# pt: A4 e A3, os formatos do Boletim gerado pelo sistema, em pé ou deitados (quadros e anexos)
+PAGINAS = [(595.3, 841.9), (841.9, 1190.5), (841.9, 595.3), (1190.5, 841.9)]
 PERIODICO = "Boletim Municipal"
 NOTA_DOM = ("recortado da edição do Boletim Municipal, o Diário Oficial do Município (PDF do portal da Prefeitura de "
             "Vinhedo); não substitui a publicação oficial")
-COBERTA = 0.35  # fração da área da página coberta por uma só imagem a partir da qual a página conta como imagem
+# a página conta como imagem quando uma só imagem cobre esta fração dela, ou quando as imagens somadas cobrem a segunda
+# (o documento escaneado em faixas)
+COBERTA, COBERTA_NA_SOMA = 0.35, 0.6
+MARCA_DE_IMAGEM = "⟦página {} em imagem⟧"
 TEXTO_DE_PAGINA_EM_IMAGEM = 300  # caracteres: menos que isto, além do cabeçalho e do rodapé, é página sem texto
 _MES = base._MES
 _DIA = r"(?:segunda|terça|terca|quarta|quinta|sexta)(?:-feira)?|s[áa]bado|domingo"
@@ -57,6 +63,12 @@ RODAPE_DA_EDICAO = re.compile(r"Boletim Municipal do Munic[íi]pio de Vinhedo|ww
 # a marca de continuação do documento original ("Decreto nº 460/2026 – folha 3"), com o travessão às vezes em outra linha
 FOLHA = re.compile(r"^\s*[–-]?\s*(?:Decreto|Lei(?:\s+Complementar)?|Portaria|Resolu[çc][ãa]o|Edital|Emenda)\s+n[º°o.'’]*\s*"
                    r"\d[\d.]*\s*/\s*\d{4}\s*[–-]?\s*folha\s+\d+\s*[–-]?\s*$|^\s*[–-]\s*$", re.I)
+# a moldura dos documentos que a Câmara assina digitalmente: o timbre e o rodapé de cada página e o carimbo da assinatura
+# na margem, às vezes colado ao fim de uma linha do texto ("Publicado e Registrado na data supra. Documento assinado...")
+MOLDURA_DA_LINHA = re.compile(r"^\s*(?:Av\.\s*Dois de Abril,\s*78|Centro\s*\|\s*Vinhedo\s*\|\s*SP|13280-077|"
+                              r"www\.camaravinhedo\.sp\.gov\.br\s*\|.*|Ouvidoria:\s*\+55.*)\s*$", re.I)
+CARIMBO = re.compile(r"[ \t]*(?:Documento assinado digitalmente por [^\n]*?\bem \d{2}/\d{2}/\d{4} \d{2}:\d{2}|"
+                     r"Para verificar (?:sua|a) autenticidade, acesse:?[ \t]*\S*|e informe o c[óo]digo:?[ \t]*[0-9A-Z]+)", re.I)
 CORRIDO = re.compile(rf"{CABECALHO_DA_EDICAO.pattern}|{RODAPE_DA_EDICAO.pattern}|{FOLHA.pattern}", re.I)
 
 PERFIL = base.Perfil(
@@ -71,6 +83,8 @@ PERFIL = base.Perfil(
     limite=re.compile(base.LIMITE.pattern + r"|^[ \t]*PODER[ \t]+(?:EXECUTIVO|LEGISLATIVO)\b", re.M),
     apenso=re.compile(base.APENSO.pattern.replace("PAUL[ÍI]NIA", "VINHEDO"), re.I),
     corrido=CORRIDO,
+    # o decreto legislativo da Câmara de Vinhedo "DECRETA" ("A Câmara de Vereadores de Vinhedo ... DECRETA:")
+    formula={**base.FORMULA, "decreto legislativo": re.compile(r"PROMULG|D[ \t]?E[ \t]?C[ \t]?R[ \t]?E[ \t]?T[ \t]?A", re.I)},
 )
 
 
@@ -105,20 +119,29 @@ def mancha(altura, palavras):
     return (max(alto) + 1 if alto else float(base.TOPO)), (min(baixo) - 1 if baixo else altura)
 
 
-def sem_folhas(texto):
-    """O texto sem as marcas de continuação do documento original."""
-    return "\n".join(linha for linha in texto.split("\n") if not FOLHA.search(linha))
+def sem_moldura(texto):
+    """O texto sem a moldura das páginas: as marcas de continuação do documento original, o timbre e o rodapé dos
+    documentos da Câmara e o carimbo da assinatura digital (a linha que só tinha o carimbo sai inteira)."""
+    saida = []
+    for linha in texto.split("\n"):
+        if FOLHA.search(linha) or MOLDURA_DA_LINHA.search(linha):
+            continue
+        limpa = CARIMBO.sub("", linha).rstrip()
+        if limpa != linha.rstrip() and not limpa.strip():
+            continue
+        saida.append(limpa)
+    return "\n".join(saida)
 
 
 def cobertura_por_imagem(pdf, paginas):
-    """{página: fração da área coberta pela maior imagem}, pelo `pdfimages -list` do PDF."""
+    """{página: (maior fração coberta por uma imagem, soma das frações)}, pelo `pdfimages -list` do PDF."""
     saida = subprocess.run(["pdfimages", "-list", str(pdf)], capture_output=True, timeout=300).stdout.decode("utf-8", "replace")
     return cobertura_da_listagem(saida, paginas)
 
 
 def cobertura_da_listagem(saida, paginas):
-    """{página: fração da área coberta pela maior imagem}, da saída do `pdfimages -list`: o tamanho da imagem em pixels
-    dividido pela resolução dá a área que ela ocupa na página, em pontos."""
+    """{página: (fração da área coberta pela maior imagem, soma das frações de todas)}, da saída do `pdfimages -list`: o
+    tamanho da imagem em pixels dividido pela resolução dá a área que ela ocupa na página, em pontos."""
     cobertura = {}
     for linha in saida.splitlines():
         campos = linha.split()
@@ -133,7 +156,8 @@ def cobertura_da_listagem(saida, paginas):
             continue
         largura, altura, _ = paginas[n]
         fracao = (largura_px / ppi_x * 72) * (altura_px / ppi_y * 72) / (largura * altura)
-        cobertura[n] = max(cobertura.get(n, 0.0), fracao)
+        maior, soma = cobertura.get(n, (0.0, 0.0))
+        cobertura[n] = (max(maior, fracao), soma + fracao)
     return cobertura
 
 
@@ -154,7 +178,8 @@ class Edicao(base.Edicao):
         return self._cobertura
 
     def em_imagem(self, n):
-        return self.cobertura().get(n, 0.0) >= COBERTA
+        maior, soma = self.cobertura().get(n, (0.0, 0.0))
+        return maior >= COBERTA or soma >= COBERTA_NA_SOMA
 
     def fluxo(self):
         if self._fluxo is None:
@@ -170,17 +195,21 @@ class Edicao(base.Edicao):
         saida = []
         for n, (largura, altura, palavras) in sorted(self.paginas.items()):
             topo, fundo = mancha(altura, palavras)
-            texto = sem_folhas(base.dom.texto_da_regiao(self.pdf, n, 0, topo, largura, fundo - topo)).rstrip()
+            texto = sem_moldura(base.dom.texto_da_regiao(self.pdf, n, 0, topo, largura, fundo - topo)).rstrip()
+            if texto.strip() and self.em_imagem(n):
+                texto = MARCA_DE_IMAGEM.format(n) + "\n" + texto  # o recorte que passar por esta página fica retido
             if texto.strip():
                 saida.append((n, texto))
         return saida
 
 
 def pagina_em_imagem(leitura, ato, corpo):
-    """Retém o ato que começa numa página coberta por imagem: o texto dela, quando existe, é OCR feito na origem."""
-    if leitura.em_imagem(ato["pagina"]):
-        return (f"a página {ato['pagina']} reproduz o documento como imagem; o texto dela é OCR da origem, "
-                "não nascido digital")
+    """Retém o ato que começa ou continua numa página coberta por imagem: o texto dela, quando existe, é OCR feito na
+    origem. A leitura marca o começo de cada página em imagem (`MARCA_DE_IMAGEM`)."""
+    marcadas = [int(n) for n in re.findall(r"⟦página (\d+) em imagem⟧", corpo)]
+    if leitura.em_imagem(ato["pagina"]) or marcadas:
+        pagina = ato["pagina"] if leitura.em_imagem(ato["pagina"]) else marcadas[0]
+        return f"a página {pagina} reproduz o documento como imagem; o texto dela é OCR da origem, não nascido digital"
     return None
 
 
