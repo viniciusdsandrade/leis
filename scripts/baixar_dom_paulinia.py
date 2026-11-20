@@ -1015,6 +1015,7 @@ def executar_diario(diario, de, ate, maximo=0, listar=False, rps=0.5, apesar_do_
     hoje = dt.date.today()
     contagem = {"edicoes": 0, "novo": 0, "pulado": 0, "retida": 0, "republicada": 0, "erro": 0}
     motivos = {}
+    baixadas = {}  # só as edições baixadas nesta execução vão ao índice em disco (ver portal.gravar_indice)
     for edicao in edicoes:
         if maximo and contagem["novo"] >= maximo:
             print(f"limite de {maximo} novas conversões atingido", flush=True)
@@ -1025,8 +1026,10 @@ def executar_diario(diario, de, ate, maximo=0, listar=False, rps=0.5, apesar_do_
         # pela página da edição, não pelo número: o portal repete números (o "caderno dois", as edições extras)
         falhas = [f for f in falhas if f["fonte"] != registro_base["fonte"]]
         try:
+            ja_no_indice = bool(edicao["pdf"])
             edicao["pdf"], pdf = portal.baixar_pdf(rede, diario.portal.base, diario.portal.fonte, edicao, so_cache)
-            indice[edicao["id"]] = {"edicao": edicao["edicao"], "data": edicao["data"], "pdf": edicao["pdf"]}
+            if not ja_no_indice:
+                baixadas[edicao["id"]] = {"edicao": edicao["edicao"], "data": edicao["data"], "pdf": edicao["pdf"]}
             leitura = diario.edicao(pdf)
             motivo = diario.fora_do_leiaute(leitura.paginas)
             if motivo:
@@ -1085,10 +1088,10 @@ def executar_diario(diario, de, ate, maximo=0, listar=False, rps=0.5, apesar_do_
             contagem["novo"] += 1
         if contagem["edicoes"] % 20 == 0:
             gravar_falhas(falhas, diario.falhas)
-            portal.gravar_indice(diario.portal, indice)
+            portal.gravar_indice(diario.portal, baixadas)
             print(f"  ... edição {edicao['edicao']} ({edicao['data']}): {contagem}", flush=True)
     gravar_falhas(falhas, diario.falhas)
-    portal.gravar_indice(diario.portal, indice)
+    portal.gravar_indice(diario.portal, baixadas)
     print(json.dumps({"contagem": contagem, "motivos": motivos}, ensure_ascii=False), flush=True)
     return contagem["novo"]
 

@@ -1,0 +1,259 @@
+---
+titulo: "Lei nº 6.232, de 10 de março de 2022"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6232"
+data: "2022-03-10"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Dispõe sobre autorização para a abertura de crédito adicional suplementar, até o valor de R$ 21.211.679,12."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial; quadros preservados como texto pré-formatado, no alinhamento do PDF"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 2237, de 11/03/2022, p. 1"
+data_publicacao: "2022-03-11"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/1439"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/2237_11070626.pdf"
+sha256_fonte: "15b6c6966e2f675276ed9bbdca9014f5f93bce3d41924641cdb8c11e418f3ffe"
+sha256_texto: "62cc51f70091ab331ec3ba9fa31dda81b68d2d80a4fcb56fa023399230664534"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 6.232, de 10 de março de 2022
+
+LEI Nº 6.232, DE 10 DE MARÇO DE 2022
+
+Dispõe sobre autorização para a abertura de crédito adicional suplementar, até o valor de R$ 21.211.679,12.
+
+LUCIMARA GODOY VILAS BOAS, Prefeita do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo artigo 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ela sanciona e promulga a seguinte Lei:
+
+**Art. 1º** É o Poder Executivo Municipal autorizado a abrir um crédito adicional suplementar, até o valor de R$ 21.211.679,12 (vinte e um milhões, duzentos e
+
+onze mil, seiscentos e setenta e nove reais e doze centavos), a fim de suplementar as seguintes dotações do orçamento:
+
+02.10.00 SECRETARIA DA SAÚDE
+
+02.10.01 Gestão Administrativa - Saúde
+
+10.122.0301.2.201 Manutenção da Unidade
+
+```text
+3390.93.00        Indenizações e Restituições
+95.302.0102       Incr.Temp. MAC-36000308991. ................... R$                        555,37
+95.312.0259       Coronavírus COVID 19................................. R$               15.130,76
+95.312.0260       Coronavírus COVID19-Enf.Emergência....... R$                           11.734,54
+95.312.0267       Coronavírus COVID 19................................. R$                2.907,51
+95.312.0276       Coronavírus COVID 19 Port 1666/20........... R$                       112.392,94
+95.312.0280       Coronavírus COVID-Portaria 1857/20.......... R$                       181.780,00
+95.312.0283       Coronavírus COVID-Portaria 2358/20.......... R$                       198.000,00
+95.312.0287       Coronavírus COVID-Portaria 2298/20.......... R$                         1.951,95
+95.312.0288       Coronavírus COVID-Portaria 3008/20.......... R$                         4.264,85
+95.312.0289       Coronavírus COVID 19 Port 3350/20........... R$                         2.786,25
+95.312.0290       Coronavírus COVID Portaria 3537/20.......... R$                        81.600,00
+4490.93.00        Indenizações e Restituições
+95.312.0291       Coronavírus COVID Portaria 3389/20.......... R$                        11.718,64
+02.10.02          Fundo Municipal de Saúde
+```
+
+10.301.0301.2.255 Gestão dos Serviços de Saúde - Atenção Básica
+
+```text
+3390.30.00        Material de Consumo
+92.301.0002       ATB PAB Estadual. ....................................... R$          261.129,20
+92.301.0006       PAB-Emenda Parlamentar Res.124/21.......... R$                        100.000,00
+95.301.0001       SUS-ATB PAB Fixo. ..................................... R$            567.208,37
+95.301.0041       Transf.SUS-PAB-Incr.Temp.1415/21............ R$                        47.600,00
+95.301.0042       Transf.SUS-PAB-Incr.Temp.1291/21............ R$                       308.786,60
+95.301.0055       Transf.SUS-Apoio Financeiro Extra. ............ R$                     13.263,00
+95.301.0056       Transf.SUS-PAB-Port.3874/21...................... R$                    3.610,54
+95.301.0102       Incr.Temporário PAB-36000274000.............. R$                       22.403,20
+95.301.0152       CEO............................................................... R$ 410.386,21
+95.301.1012       Transf.SUS-PAB-Teste Rápido Gravid. ........ R$                         1.877,56
+3390.32.00        Material de Distribuição Gratuita
+95.301.0001       SUS-ATB PAB Fixo. ..................................... R$            192.600,87
+3390.39.00        Outros Serviços de Terceiros – Pessoa Jurídica
+92.301.0005       Emendas Ações Saúde-Res. 86/2021. ........... R$                      923.474,98
+95.301.0001       SUS-ATB PAB Fixo. ..................................... R$            106.631,22
+95.301.0041       Transf.SUS-PAB-Incr.Temp.1415/21............ R$                       302.400,00
+95.301.0042       Transf.SUS-PAB-Incr.Temp.1291/21............ R$                        31.200,00
+95.301.0152       CEO............................................................... R$  58.185,77
+95.312.0295       Coronavírus COVID-Portaria 894/21............ R$                      312.657,47
+4490.52.00        Equipamentos e Material Permanente
+95.301.0001       SUS-ATB PAB Fixo. ..................................... R$            761.336,21
+95.301.0048       Transf.SUS-Saúde Bucal Port.1783/21. ........ R$                       55.905,00
+95.301.0050       Transf.SUS- At.Básica Port.2708/21............. R$                     56.187,00
+95.301.0147       Rede PAB Prop.139929300001170-0............ R$                        129.095,20
+95.301.0150       Rede PAB Prop.13992930000118004........... R$                         627.216,01
+95.301.1015       Rede PAB Prop.13992930000118006........... R$                          96.720,00
+```
+
+10.302.0301.2.226 Locação de Imóveis
+
+3390.36.00 Outros Serviços de Terceiros – Pessoa Física
+
+95.302.0037 SUS-MAC/Rede Saúde Mental..................... R$ 3.956,84 10.302.0301.2.256 Gestão dos Serviços de Saúde - Assistência
+
+```text
+                  Hospitalar e Ambulatório
+3350.39.00        Outros Serviços de Terceiros – Pessoa Jurídica
+95.302.0039       SUS-MAC-Incr.Temp.Port. 1433/21............. R$                        34.316,00
+95.302.0046       SUS-MAC-Inc.Tem.Em.28130016. .............. R$                         50.000,00
+95.302.0049       SUS-MAC-Incr.Temp.Port. 2682/21............. R$                       300.000,00
+3390.30.00        Material de Consumo
+95.302.0033       SUS-MAC/Limite UPA. ................................ R$                   869,21
+95.302.0034       SUS-MAC/Melhor em Casa.......................... R$                   642.085,88
+95.302.0037       SUS-MAC/Rede Saúde Mental..................... R$                     325.038,17
+95.302.0038       SUS-MAC/FAEC-Terapias Esp.Angiol. ....... R$                            1.804,68
+95.302.0040       SUS-MAC/Saúde Mental Caps Infantil. ....... R$                         64.260,00
+95.302.0043       SUS-MAC-Incr.Temp.Port. 1675/21............. R$                       213.514,00
+95.302.1012       SUS-MAC-Teste Rápido Gravidez. .............. R$                        5.021,86
+3390.36.00        Outros Serviços de Terceiros – Pessoa Física
+95.302.0037       SUS-MAC/Rede Saúde Mental..................... R$                      82.348,00
+3390.39.00        Outros Serviços de Terceiros – Pessoa Jurídica
+92.302.0003       MAC/Detecção/Cont.Câncer Res.62/21........ R$                          13.463,67
+92.312.0258       Coronavírus COVID 19................................. R$               14.021,50
+95.302.0032       MAC/Teto Mun.Média e Alta Complex........ R$                          539.415,71
+95.302.0033       SUS-MAC/Limite UPA. ................................ R$                47.661,41
+95.302.0034       SUS-MAC/Melhor em Casa.......................... R$                   644.037,61
+95.302.0037       SUS-MAC/Rede Saúde Mental..................... R$                     208.083,62
+95.302.0038       SUS-MAC/FAEC-Terapias Esp.Angiol. ....... R$                            2.707,02
+95.302.0039       SUS-MAC-Incr.Temp.Port. 1433/21............. R$                       185.684,00
+95.302.0040       SUS-MAC/Saúde Mental Caps Infantil. ....... R$                         64.260,00
+95.302.0043       SUS-MAC-Incr.Temp.Port. 1675/21............. R$                        95.210,00
+95.302.0044       SUS-MAC-Inc.Tem.Emenda 90600002........ R$                            500.000,00
+95.302.0045       SUS-MAC-Inc.Tem.Emenda 39090002........ R$                            200.000,00
+95.302.0047       SUS-MAC-Inc.Tem.Emenda 41550005........ R$ 1.000.000,00
+95.302.0100       Incr. Temporário MAC-360000289740......... R$                          29.191,87
+95.312.0297       Transf.SUS-MAC-Covid.Port. 2237/21. ....... R$                        924.000,00
+4490.52.00        Equipamentos e Material Permanente
+95.302.0148       Rede PAB Pr.355620171220101362. ............ R$                         1.592,00
+95.302.0149       Rede MAC Pr..13992930000117002............. R$                         36.511,98
+95.302.1014       Rede MAC Pr..13992930000118005............. R$                        857.285,00
+95.310.0000       Saúde - Geral. ................................................ R$    582.109,89
+```
+
+10.303.0301.2.257 Gestão dos Serviços de Saúde – Suporte Profilático
+
+```text
+3390.32.00        Material de Distribuição Gratuita
+92.304.0100       Convênio Glicemia........................................ R$           71.880,02
+95.304.0002       SUS-AFB....................................................... R$          45,22
+3390.39.00        Outros Serviços de Terceiros – Pessoa Jurídica
+92.300.0100       Glicemia. ....................................................... R$    8.831,00
+```
+
+10.304.0301.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil
+
+95.303.0054 SUS-Vigilância Sanitária-ANVISA/FNS...... R$ 224.928,30 10.304.0301.2.258 Gestão dos Serviços de Saúde - Vigilância Sanitária
+
+```text
+3390.30.00        Material de Consumo
+
+91.320.0000         Taxas – Vig. Sanitária.................................... R$            100.849,75
+3390.32.00          Material de Distribuição Gratuita
+91.320.0000         Taxas – Vig. Sanitária.................................... R$             40.432,11
+95.303.0053         SUS-Vigilância em Saúde PFVS................... R$                       140.000,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+91.320.0000         Taxas – Vig. Sanitária.................................... R$              2.242,53
+4490.52.00          Equipamentos e Material Permanente
+91.320.0000         Taxas – Vig. Sanitária.................................... R$            382.810,39
+10.305.0301.2.259   Gestão dos Serviços de Saúde - Vigilância Epidemiológica
+3390.30.00          Material de Consumo
+92.300.1016         Conv.Combate as Arboviroses Dengue. ........ R$                           32.580,00
+92.312.0296         PAB-Covid 19-Resolução 82/21. .................. R$                      131.210,00
+95.303.0051         SUS-Vig.Ações DST/AIDS/Hepatite............ R$                           422.208,90
+95.303.0053         SUS-Vigilância em Saúde PFVS................... R$                        94.893,44
+3390.32.00          Material de Distribuição Gratuita
+95.303.0051         SUS-Vig.Ações DST/AIDS/Hepatite............ R$                            79.748,90
+95.303.0053         SUS-Vigilância em Saúde PFVS................... R$                        20.239,70
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.303.0051         SUS-Vig.Ações DST/AIDS/Hepatite............ R$                           326.420,55
+95.303.0053         SUS-Vigilância em Saúde PFVS................... R$                       582.934,67
+4490.52.00          Equipamentos e Material Permanente
+91.320.0000         Taxas – Vig. Sanitária.................................... R$              6.400,00
+10.306.0301.2.260   Gestão dos Serviços de Saúde - Alimentação e Nutrição
+3390.30.00          Material de Consumo
+95.305.0009         Transferência Gestão SUS............................. R$                  35.800,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.305.0009         Transferência Gestão SUS............................. R$                  60.200,00
+                    Subtotal.......................................................... R$ 16.447.802,62
+
+02.13.00            SECRETARIA DA EDUCAÇÃO
+02.13.01            Gestão Administrativa - Educação
+12.361.0304.2.247   Atendimento ao Ensino Fundamental
+3390.93.00          Indenizações e Restituições
+92.200.0201         Transporte Escolar......................................... R$          534.322,08
+                    Subtotal.......................................................... R$   534.322,08
+
+02.23.00            SECRETARIA DE ASSISTÊNCIA SOCIAL
+02.23.02            Fundo Municipal de Assistência Social
+08.244.0302.2.201   Manutenção da Unidade
+3390.48.00          Outros Auxílios Financeiros a Pessoa Física
+92.500.0216         Benefício Eventual Emergencial. .................. R$                    30.642,82
+08.244.0302.2.218   Proteção Básica
+3390.30.00          Material de Consumo
+92.500.0230         Est-A.Soc.Cofin Progr Est prot B,M eA........ R$                         61.409,40
+95.500.0201         PSB-PAIF-Piso Básico Fixo.......................... R$                        5,59
+95.312.0277         Corona(COVID19)-Port369 Assist-Acol. ..... R$                            58.011,81
+95.312.0279         Corona(COVID19)-Port369 Assist-EPI. ....... R$                           21.367,04
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.500.0201         PSB-PAIF-Piso Básico Fixo.......................... R$                  476.298,92
+08.244.0302.2.219   Proteção Social Especial – Média Complexidade
+3350.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+92.500.0230         Est-A.Soc.Cofin Progr Est prot B,M eA........ R$                          2.547,01
+95.500.0213         PSE-Piso de Transição de Média Com.......... R$                          15.930,00
+3390.30.00          Material de Consumo
+95.312.0278         Corona(COVID19)-Port369 Assist-Alim...... R$                             35.548,29
+95.500.0212         PSE-Piso Fixo Média Com-Abordagem. ...... R$                             39.316,45
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.312.0277         Corona(COVID19)-Port369 Assist-Acol. ..... R$                           139.680,00
+95.500.0210         PSE-Piso Fixo de Media Compl-PAEFI........ R$                            17.000,00
+95.500.0211         PSE-Piso Fixo de Media Compl-MSE. ......... R$                           17.000,00
+95.500.0212         PSE-Piso Fixo de Media Compl-Abord. ....... R$                           16.000,00
+08.244.0302.2.220   Proteção Social Especial – Alta Complexidade
+3350.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.500.0214         PSE-Piso de Alta Complexidade I-Cria......... R$                         30.134,13
+95.500.0215         PSE-Piso de Alta Complexidade I................. R$                      54.000,00
+92.500.0230         Est-A.Soc.Cofin Progr Est prot B,M eA........ R$                          2.391,05
+08.244.0302.2.221   IGDSUAS – Organização e Gestão do SUAS
+3390.30.00          Material de Consumo
+95.500.0220         GES-Índice Gestão Descentral SUAS........... R$                          16.138,30
+08.244.0302.2.223   IGD PBF – Programa Bolsa Família
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.500.0221         GES-Índice Gestão Descentr-IGDBF............ R$                          60.000,00
+4490.52.00          Equipamentos e Material Permanente
+95.500.0221         GES-Índice Gestão Descentr-IGDBF............ R$                          97.020,34
+                    Subtotal.......................................................... R$ 1.190.441,15
+02.24.00            SECRETARIA DE MOBILIDADE URBANA
+02.24.02            Fundo Municipal de Trânsito
+26.782.0309.2.234   Manutenção da Fiscalização e Sinalização de Trânsito
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+93.400.0052         Fundo Municipal de Trânsito......................... R$ 3.039.113,27
+                    Subtotal.......................................................... R$ 3.039.113,27
+                    TOTAL GERAL........................................... R$ 21.211.679,12
+```
+
+**Art. 2º** O crédito aberto no artigo anterior, será coberto com os recursos provenientes do superávit financeiro apurado no balanço patrimonial do exercício de 2021, com fundamento no inciso I, do § 1º do artigo 43, da Lei Federal n° 4.320, de 17 de março de 1964.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, 10 de março de 2022, 126° do Distrito de Paz, 67° do Município e 17° da Comarca.
+
+LUCIMARA GODOY VILAS BOAS
+
+Prefeita Municipal
+
+ARGEU ALENCAR DA SILVA
+
+Secretário de Assuntos Jurídicos
+
+ROBERTO BOSSO
+
+Secretário da Fazenda
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o expediente administrativo no 15.858/21-PMV.
+
+Evandro Regis Zani Diretor do Departamento Técnico-Legislativo

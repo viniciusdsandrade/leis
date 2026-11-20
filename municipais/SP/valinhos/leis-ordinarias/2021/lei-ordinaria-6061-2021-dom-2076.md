@@ -1,0 +1,219 @@
+---
+titulo: "Lei nº 6.061, de 19 de fevereiro de 2021"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6061"
+data: "2021-02-19"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Dispõe sobre autorização para a abertura de crédito adicional suplementar, até o valor de R$ 12.962.963,97."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial; quadros preservados como texto pré-formatado, no alinhamento do PDF"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 2076, de 19/02/2021, p. 1"
+data_publicacao: "2021-02-19"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/79"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/6586cd5601ad39e82749ff1a8ae1c43a.pdf"
+sha256_fonte: "6f241d542ef3750a068599cc9b2e79c949296e67dfb70c097180d07084159b06"
+sha256_texto: "3ad99ff310b5252af9b3ed8bdaa1d77d164e5d37def6fe138f9a671c2377d1e4"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 6.061, de 19 de fevereiro de 2021
+
+LEI Nº 6.061, DE 19 DE FEVEREIRO DE 2021
+
+Dispõe sobre autorização para a abertura de crédito adicional suplementar, até o valor de R$ 12.962.963,97.
+
+LUCIMARA GODOY VILAS BOAS, Prefeita do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo artigo 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ela sanciona e promulga a seguinte Lei:
+
+**Art. 1º** É o Poder Executivo Municipal autorizado a abrir um crédito adicional suplementar, até o valor de R$ 12.962.963,97 (doze milhões, novecentos e sessenta e dois mil, novecentos e sessenta e três reais e noventa e sete centavos), a fim de suplementar as seguintes dotações do orçamento:
+
+```text
+02.10.00            SECRETARIA DA SAÚDE
+02.10.01            Gestão Administrativa - Saúde
+3390.93.00          Indenizações e Restituições
+95.312.0283         Coronavírus COVID Portaria 2358/20............ R$                       198.000,00
+02.10.02            Fundo Municipal de Saúde
+10.301.0201.2.217   Gestão dos Serviços de Saúde
+3390.30.00          Material de Consumo
+92.301.0002         ATB PAB Estadual. ......................................... R$                0,44
+95.301.0001         SUS-ATB PAB Fixo. ....................................... R$            450.589,21
+95.301.0004         Apoio manutenção Unidades Saúde................ R$                       45.335,07
+95.301.0055         ATB PAB Estadual. ......................................... R$           13.263,00
+95.301.0102         Incremento Temporário PAB-3600027............ R$                         35.530,54
+95.301.0152         CEO................................................................. R$ 328.459,00
+95.301.1012         Transf.SUS-PAB-Teste Rápido Gravid. .......... R$                           962,30
+95.312.0259         Coronavírus COVID........................................ R$              7.994,29
+95.312.0280         Coronavírus COVID-Portaria 1857/20............ R$                       181.780,00
+95.312.0288         Coronavírus COVID-Portaria 2298/20............ R$                         7.724,00
+3390.32.00          Material de Distribuição Gratuita
+95.301.0001         SUS-ATB PAB Fixo. ....................................... R$            104.071,87
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.301.0001         SUS-ATB PAB Fixo. ....................................... R$            435.773,77
+95.301.0004         Apoio manutenção Unidades Saúde................ R$                        2.111,67
+95.301.0102         Incremento Temporário PAB-3600027............ R$                         50.000,00
+95.301.0152         CEO................................................................. R$  73.607,59
+95.311.0000         Saúde-Remuneração de Aplicações Fi. ........... R$                       82.155,21
+95.312.0259         Coronavírus COVID........................................ R$             26.878,00
+10.302.0201.2.201   Manutenção da Unidade
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.302.0032         MAC/Teto Mun.Média e Alta Complex.......... R$                          218.307,35
+10.302.0201.2.217   Gestão dos Serviços de Saúde
+3390.30.00          Material de Consumo
+92.312.0258         Coronavírus COVID........................................ R$                286,70
+92.312.0263         Resolução SS 55/2020 Emenda 2019.............. R$                        16.782,29
+92.312.0264         Resolução SS 55/2020 Emenda 2020.............. R$                        31.161,12
+95.301.1012         Transf.SUS-PAB-Teste Rápido Gravid. .......... R$                         5.021,86
+95.302.0032         MAC/Teto Mun.Média e Alta Complex.......... R$                            4.192,76
+95.302.0033         SUS-MAC/Limite UPA. .................................. R$                33.254,92
+95.302.0034         SUS-MAC/Melhor em casa............................. R$                  688.044,03
+95.302.0037         SUS-MAC/Rede Saúde Mental....................... R$                     148.290,17
+95.302.0038         SUS-MAC/FAEC-Terapias Esp.Angiol. ......... R$                            1.804,68
+95.302.0101         Incremento Temporário MAC-3600030.......... R$                           36.000,00
+95.312.0260         Coronavírus COVID19-Enfrentamento........... R$                          95.736,96
+95.312.0267         Coronavírus COVID........................................ R$             67.991,51
+95.312.0276         Coronavírus COVID Portaria 1666/20............ R$                       589.878,40
+3390.36.00          Outros Serviços de Terceiros – Pessoa Física
+95.302.0037         SUS-MAC/Rede Saúde Mental....................... R$                      46.174,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+92.312.0258         Coronavírus COVID........................................ R$             96.845,00
+92.312.0265         Resolução SS 55/2020 Emenda 2020.............. R$                         7.591,00
+95.302.0008         Transf.SUS-MAC-Apoio Manutenção............ R$                          374.856,00
+95.302.0032         MAC/Teto Mun.Média e Alta Complex.......... R$                            3.134,85
+95.302.0033         SUS-MAC/Limite UPA. .................................. R$                 1.361,01
+95.302.0034         SUS-MAC/Melhor em casa............................. R$                  517.816,14
+95.302.0036         SUS-MAC-Rede de Urgência. ........................ R$                    76.812,80
+95.302.0037         SUS-MAC/Rede Saúde Mental....................... R$                     183.352,42
+95.302.0100         Incremento Temporário MAC-3600030.......... R$                           43.191,87
+95.302.0104         Incremento Temporário MAC-3600030.......... R$                           35.971,94
+95.302.0105         Incremento Temporário MAC-3600030.......... R$                          250.000,00
+95.312.0259         Coronavírus COVID........................................ R$              2.096,64
+95.312.0260         Coronavírus COVID19-Enfrentamento........... R$                          42.017,20
+95.312.0276         Coronavírus COVID Portaria 1666/20............ R$ 1.425.911,73
+95.312.0289         Coronavírus COVID Portaria 3350/20............ R$                        33.086,25
+95.312.0290         Coronavírus COVID Portaria 3537/20............ R$                       864.000,00
+10.302.0201.2.226   Locação de Imóveis
+3390.36.00          Outros Serviços de Terceiros – Pessoa Física
+95.302.0037         SUS-MAC/Rede Saúde Mental....................... R$                       3.016,76
+10.303.0201.2.217   Gestão dos Serviços de Saúde
+3390.32.00          Material de Distribuição Gratuita
+92.304.0100         Convênio Glicemia.......................................... R$                1,20
+95.304.0002         SUS-AFB......................................................... R$      59.789,25
+10.304.0201.2.200   Manutenção de Pessoal e Encargos
+3190.11.00          Vencimentos e Vantagens Fixas – Pessoal Civil
+95.303.0054         SUS-Vigilância Sanitária-ANVISA/FNS........ R$                          146.202,30
+10.304.0201.2.217   Gestão dos Serviços de Saúde
+3390.30.00          Material de Consumo
+91.320.0000         Taxas – Vig. Sanitária...................................... R$          90.070,11
+95.312.0287         Coronavírus COVID Portaria 2298/20............ R$                         9.798,00
+3390.32.00          Material de Distribuição Gratuita
+91.320.0000         Taxas – Vig. Sanitária...................................... R$           1.454,51
+95.303.0053         SUS-Vigilância em SaúdePFVS...................... R$                     70.000,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+91.320.0000         Taxas – Vig. Sanitária...................................... R$         107.650,25
+10.305.0201.2.217   Gestão dos Serviços de Saúde
+3390.30.00          Material de Consumo
+
+92.300.1016         Conv.Combate as Arboviroses Dengue. .......... R$                          32.580,00
+95.303.0051         SUS-Vig.Ações DST/AIDS/Hepatite.............. R$                          147.703,90
+95.303.0053         SUS-Vigilância em SaúdePFVS...................... R$                      100.050,94
+3390.32.00          Material de Distribuição Gratuita
+95.303.0051         SUS-Vig.Ações DST/AIDS/Hepatite.............. R$                          114.924,20
+95.303.0053         SUS-Vigilância em SaúdePFVS...................... R$                       20.540,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.303.0051         SUS-Vig.Ações DST/AIDS/Hepatite.............. R$                          502.365,69
+95.303.0053         SUS-Vigilância em SaúdePFVS...................... R$                      486.675,47
+10.306.0201.2.217   Gestão dos Serviços de Saúde
+3390.30.00          Material de Consumo
+95.305.0009         Transferência Gestão SUS............................... R$                 16.850,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.305.0009         Transferência Gestão SUS............................... R$                 47.150,00
+                    Subtotal............................................................ R$ 9.924.030,84
+
+02.13.00            SECRETARIA DA EDUCAÇÃO
+02.13.01            Gestão Administrativa Educação
+12.243.0204.2.201   Manutenção da Atividade
+3390.32.00          Material de Distribuição Gratuita
+95.282.0001         QSE.................................................................. R$  800.000,00
+02.13.08            Alimentação Escolar
+3390.30.00          Material de Consumo
+95.285.0105         PNAE Fundamental......................................... R$              587.671,17
+                    Subtotal............................................................ R$ 1.387.671,17
+
+02.23.00            SECRETARIA DE ASSISTÊNCIA SOCIAL
+02.23.02            Fundo Municipal de Assistência Social
+08.244.0202.2.201   Manutenção da Atividade
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.312.0269         Coronavirus-COVID-PSB-FNAS. .................. R$                          83.352,68
+08.244.0202.2.218   Proteção Básica
+3390.30.00          Material de Consumo
+95.312.0269         Coronavirus-COVID-PSB-FNAS. .................. R$                           5.223,21
+95.312.0277         Coronavirus-COVID-Portaria 369 Assit. ........ R$                          53.088,00
+95.312.0279         Coronavirus-COVID-Portaria 369 Assit. ........ R$                          26.812,52
+95.500.0201         PSB-PAIF-Piso Básico Fixo............................ R$                   98.898,78
+95.500.0202         PSB-SCFV-Serv Conviv.Fortalecim................ R$                         98.898,49
+3390.36.00          Outros Serviços de Terceiros – Pessoa Física
+92.500.0230         Est-A.Soc.Cofin Progr Est prot B,M eA.......... R$                         14.000,00
+95.500.0215         PSE-Piso de Alta Complexidade I................... R$                      60.000,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+92.500.0230         Est-A.Soc.Cofin Progr Est prot B,M eA.......... R$                         11.808,08
+95.500.0201         PSB-PAIF-Piso Básico Fixo............................ R$                  200.000,00
+95.500.0202         PSB-SCFV-Serv Conviv.Fortalecim................ R$                        200.000,00
+95.312.0277         Coronavirus-COVID-Portaria 369 Assit. ........ R$                           9.494,20
+08.244.0202.2.219   Proteção Social Especial – Média Complexidade
+3390.30.00          Material de Consumo
+95.312.0270         Coronavirus-COVID-PSE-FNAS.................... R$                          41.596,00
+95.312.0277         Coronavirus-COVID-Portaria 369 Assit. ........ R$                          65.272,00
+95.312.0278         Coronavirus-COVID-Portaria 369 Assit. ........ R$                         118.680,00
+95.312.0279         Coronavirus-COVID-Portaria 369 Assit. ........ R$                          26.775,00
+3350.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+92.500.0230         Est-A.Soc.Cofin Progr Est prot B,M eA.......... R$                          5.123,67
+95.500.0213         PSE-Piso de Transição de Media Com............ R$                          31.860,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.500.0210         PSE-Piso Fixo de Media Complexidad........... R$                           45.612,11
+95.312.0270         Coronavirus-COVID-PSE-FNAS.................... R$                          51.909,00
+95.312.0277         Coronavirus-COVID-Portaria 369 Assit. ........ R$                           5.169,30
+08.244.0202.2.220   Proteção Social Especial – Alta Complexidade
+3350.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+92.500.0230         Est-A.Soc.Cofin Progr Est prot B,M eA.......... R$                          2.423,20
+95.500.0214         PSE-Piso de Alta Complexidade I-Cria........... R$                        108.000,00
+95.312.0277         Coronavirus-COVID-Portaria 369 Assit. ........ R$                          33.000,00
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.312.0277         Coronavirus-COVID-Portaria 369 Assit. ........ R$                         139.680,00
+08.244.0202.2.221   IGDSUAS – Organização e Gestão do SUAS
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.500.0220         GES-Índice Gestão Descentralizada................ R$                        7.848,51
+08.244.0202.2.223   IGDPBF – Programa Bolsa Família
+3390.39.00          Outros Serviços de Terceiros – Pessoa Jurídica
+95.500.0221         GES-Índice Gestão Descentralizada................ R$                       57.925,22
+4490.52.00          Equipamentos e Material Permanente
+95.500.0221         GES-Índice Gestão Descentralizada................ R$                       48.812,00
+                    Subtotal............................................................ R$ 1.651.261,96
+                    TOTAL GERAL............................................. R$ 12.962.963,97
+```
+
+**Art. 2º** A cobertura do referido crédito adicional suplementar será realizado através de recursos provenientes do superávit financeiro apurado no balanço patrimonial do exercício de 2020, com fundamento no artigo 43, § 1°, inciso I, da Lei Federal n° 4.320, de 17 de março de 1964.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, aos 19 de fevereiro de 2021, 125° do Distrito de Paz, 66° do Município e 16° da Comarca.
+
+LUCIMARA GODOY VILAS BOAS
+
+Prefeita Municipal
+
+CLEBER FERNANDO BERNARDI
+
+Secretário de Assuntos Jurídicos e Institucionais
+
+ROBERTO BOSSO
+
+Secretário da Fazenda
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o expediente administrativo no. 6.655/2020-PMV.
+
+Evandro Régis Zani
+
+Subchefe do Gabinete da Prefeita Respondendo pelo Depto. Técnico-Legislativo/SAJI

@@ -1,0 +1,149 @@
+---
+titulo: "Lei nº 5.642, de 27 de abril de 2018"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5642"
+data: "2018-04-27"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Autoriza o Poder Executivo a abrir crédito adicional suplementar na forma que especifica."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 1647, de 07/05/2018, p. 1"
+data_publicacao: "2018-05-07"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/532"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/6ded34daca119ed2dd7054128d84e4d9.pdf"
+sha256_fonte: "0d07d305c3e58e2d07066e92c1ccbcf5f83ada4d9eb7ab6f7bfad70f56e0d108"
+sha256_texto: "dc66c799c820aed2dbaf86ac73196d33fe078ba0e797b0c17ab5e659b28043ee"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 5.642, de 27 de abril de 2018
+
+LEI N° 5.642, DE 27 DE ABRIL DE 2018
+
+Autoriza o Poder Executivo a abrir crédito adicional suplementar na forma que especifica.
+
+ORESTES PREVITALE JÚNIOR, Prefeito do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo artigo 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+**Art. 1º.** É autorizada a abertura no Departamento Financeiro, do Departamento de Águas e Esgotos de Valinhos, de um crédito adicional suplementar até o valor de R$ 1.260.000,00 (um milhão, duzentos e sessenta mil reais), a fim de suplementar as seguintes dotações do orçamento vigente:
+
+03.01.00 PRESIDÊNCIA
+
+03.01.01 Gabinete do Presidente e Divisões
+
+171220003.2.002/3190.13 Obrigações Patronais............................. R$ 67.000,00
+
+03.02.00 DEPARTAMENTO ADMINISTRATIVO
+
+03.02.01 Gabinete do Diretor e Divisões
+
+171220004.2.005/3190.13 Obrigações Patronais............................. R$ 28.000,00
+
+171220004.2.005/3190.94 Inden. e Restituições Trabalhistas. ........ R$ 130.000,00
+
+173310008.2.011/3390.49 Auxilio Transporte................................. R$ 70.000,00
+
+171220004.2.005/4490.52 Equipamentos e Material Permanente.R$ 700.000,00
+
+03.03.00 DEPARTAMENTO FINANCEIRO
+
+03.03.01 Gabinete do Diretor e Divisões
+
+171230005.2.004/3190.13 Obrigações Patronais ............................ R$ 30.000,00 171230005.2.004/3390.93 Restituições............................................ R$ 20.000,00
+
+03.05.00 DEPARTAMENTO JURÍDICO
+
+03.05.01 Gabinete do Diretor e Divisões
+
+171220004.2.006/3190.13 Obrigações Patronais............................. R$ 20.000,00
+
+171220004.2.006/3390.35 Serviços de Consultoria......................... R$ 120.000,00
+
+170620002.1.004/3390.91 Sentenças Judiciais. ............................... R$ 50.000,00
+
+03.08.00 DEPARTAMENTO DE ALMOXARIFADO GERAL
+
+03.08.01 Gabinete do Diretor e Divisões
+
+171220004.2.026/3190.13 Obrigações Patronais............................. R$ 25.000,00
+
+Total Geral............................................ R$1.260.000,00
+
+**Art. 2º.** O crédito autorizado no art. 1° será coberto através dos recursos provenientes da anulação parcial das dotações abaixo especificadas, com fundamento no disposto no artigo 43, § 1º, inciso III, da Lei Federal nº. 4.320, de 17 de março de 1964, na seguinte conformidade.
+
+03.02.00 DEPARTAMENTO ADMINISTRATIVO
+
+03.02.01 Gabinete do Diretor e Divisões
+
+171220004.2.005/3390.30 Material de Consumo. ......................... R$ 100.000,00
+
+171220004.2.005/3390.39 Outros Serviços de Terceiros – P.J. ..... R$ 105.000,00
+
+03.03.00 DEPARTAMENTO FINANCEIRO
+
+03.03.01 Gabinete do Diretor e Divisões
+
+171230005.2.007/3370.41 Contribuições Consórcios.................... R$ 170.000,00
+
+171230005.2.004/3390.39 Outros Serviços de Terceiros – P.J. ..... R$ 80.000,00
+
+171230005.2.004/3391.93 Restituições – PMV............................. R$ 370.000,00
+
+171230005.2.004/4490.52 Equipamentos e Material Permanente.R$ 10.000,00
+
+03.06.00 DEPTO DE PLANEJ., OBRAS E FISCALIZAÇÃO
+
+03.06.01 Gabinete do Diretor e Divisões
+
+175120011.2.018/3190.13 Obrigações Patronais............................. R$ 10.000,00
+
+175120011.2.018/3390.30 Material de Consumo. ........................... R$ 10.000,00
+
+175120011.2.018/3390.39 Outros Serviços de Terceiros – P.J......... R$ 10.000,00
+
+175120011.2.018/4490.30 Material de Consumo. ........................... R$ 20.000,00
+
+175120011.2.018/4490.39 Outros Serviços de Terceiros – P.J......... R$ 20.000,00
+
+175120011.2.018/4490.52 Equipamentos e Material Permanente... R$ 20.000,00
+
+03.07.00 DEPARTAMENTO DE OPERAÇÃO E MANUTENÇÃO
+
+03.07.01 Gabinete do Diretor e Divisões
+
+175120011.2.019/3190.13 Obrigações Patronais............................. R$ 85.000,00
+
+175120011.2.019/4490.30 Material de Consumo. ........................... R$ 50.000,00
+
+175120011.2.019/4490.39 Outros Serviços de Terceiros – P.J......... R$ 50.000,00
+
+175120011.2.024/4490.51 Obras e Instalações................................ R$ 50.000,00
+
+175120011.2.019/4490.52 Equipamentos e Material Permanente... R$ 100.000,00
+
+Total Geral............................................ R$ 1.260.000,0
+
+**Art. 3º.** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, aos 27 de abril de 2018, 122° do Distrito de Paz, 63° do Município e 13° da
+
+Comarca.
+
+ORESTES PREVITALE JÚNIOR
+
+Prefeito Municipal
+
+JOSÉ LUIZ GARAVELLO JUNIOR
+
+Secretário de Assuntos Jurídicos e Institucionais
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar. Projeto de
+
+Lei de iniciativa do Executivo.
+
+Marcus Bovo de Albuquerque Cabral
+
+Departamento Técnico-Legislativo

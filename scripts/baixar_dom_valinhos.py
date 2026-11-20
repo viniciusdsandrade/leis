@@ -53,9 +53,11 @@ ALTO_DO_CABECALHO = 45  # pt: o cabeçalho corrido das páginas internas fica en
 _MES = base._MES
 _DIA = r"(?:segunda|terça|terca|quarta|quinta|sexta)(?:-feira)?|s[áa]bado|domingo"
 _DATA_CORRIDA = rf"Valinhos,\s*(?:{_DIA}),\s*\d{{1,2}}\s+de\s+{_MES}\s+de\s+\d{{4}}"
-# "Nº 3071 - Ano XXXVII"; no caderno dois da edição (relatórios fiscais), "Nº 3004 caderno dois - Ano XXXVII" ou, com o
-# erro da fonte, "Nº 2961 Cadeno Dois - Ano XXXVII": o número é o da edição do dia, como na listagem
-NUMERO_DO_TITULO = re.compile(r"\bN[º°o]\s*(\d[\d.]*)\s*(?:-?\s*Car?der?no\s+Dois\s*)?-\s*Ano\s+[IVXLC]+\b", re.I)
+# "Nº 3071 - Ano XXXVII"; no caderno dois da edição (relatórios fiscais), "Nº 3004 caderno dois - Ano XXXVII",
+# "Nº 1827 - Caderno 2 - Ano XXX" ou, com o erro da fonte, "Nº 2961 Cadeno Dois - Ano XXXVII": o número é o da edição do
+# dia, como na listagem; a edição extra, "Nº 1731 - EXTRA - Ano XXX" (com ou sem os hífens)
+NUMERO_DO_TITULO = re.compile(r"\bN[º°o]\s*(\d[\d.]*)\s*(?:-?\s*(?:Car?der?no\s+(?:Dois|2|II)|EXTRA)\s*)?-?\s*Ano\s+[IVXLC]+\b",
+                              re.I)
 DATA_DO_TITULO = re.compile(rf"\b(?:{_DIA}),\s*(\d{{1,2}})\s+de\s+({_MES})\s+de\s+(\d{{4}})", re.I)
 TITULO = re.compile(rf"ATOS OFICIAIS|\bAno\s+[IVXLC]+\b|Prefeitura Municipal de Valinhos|www\.valinhos|{DATA_DO_TITULO.pattern}",
                     re.I)
@@ -69,8 +71,11 @@ PERFIL = base.Perfil(
     nome=re.compile(r"[A-ZÀ-Ú][A-ZÀ-Ú'.]*(?:[ \t]+[A-ZÀ-Ú][A-ZÀ-Ú'.]*){1,8}|"
                     r"[A-ZÀ-Ú][a-zà-ú'.]+(?:[ \t]+(?:d[aeo]s?|e|[A-ZÀ-Ú][a-zà-ú'.]*)){1,8}"),
     nao_e_assinatura=re.compile(base.NAO_E_ASSINATURA.pattern.replace("PAUL[ÍI]NIA", "VALINHOS"), re.I),
-    # os cargos de Paulínia, mais o "Subchefe do Gabinete" e os secretários da Mesa da Câmara ("1º Secretário")
-    cargo=re.compile(r"(?:\d{1,2}[º°ª][ \t]+)?" + base.CARGO.pattern.replace("|Chefe|", "|Chefe|Subchefe|"), re.I),
+    # os cargos de Paulínia, mais o "Subchefe do Gabinete", o "Agente Administrativo II" que confere a numeração, a segunda
+    # linha do cargo ("Departamento de Gestão em Legística", só em caixa mista, para não tomar o título de outra publicação)
+    # e os secretários da Mesa da Câmara ("1º Secretário")
+    cargo=re.compile(r"(?:\d{1,2}[º°ª][ \t]+)?" + base.CARGO.pattern.replace(
+        "|Chefe|", "|Chefe|Subchefe|Agente|(?-i:Departamento|Depto\\.)|"), re.I),
     nota=re.compile(r"(?:[A-Za-zÀ-ú]+[ \t,]+){0,2}(?:lavrad|elaborad|publicad|registrad|conferid|redigid)[oa]\b", re.I),
     signatario=re.compile(base.SIGNATARIO.pattern.replace("Paul[íi]nia", "Valinhos"), re.M | re.I),
     # "Prefeitura do Município de Valinhos," e a data na linha seguinte, ou "Valinhos, 18 de novembro de 2026."
@@ -82,7 +87,27 @@ PERFIL = base.Perfil(
     apenso=re.compile(base.APENSO.pattern.replace("PAUL[ÍI]NIA", "VALINHOS"), re.I),
     corrido=CORRIDO,
 )
+# a epígrafe partida em duas linhas, como em 2019 ("DECRETO N° 10.096," e, abaixo, "DE 20 DE MAIO DE 2019"): o número sem
+# a data numa linha e só a data na seguinte, as duas em maiúsculas
+EPIGRAFE_SEM_DATA = re.compile(r"^[ \t]*(?:LEI COMPLEMENTAR|LEI|DECRETO LEGISLATIVO|DECRETO)[ \t]+N[º°o.]*[ \t]*\d[\d.]*[ \t]*,?[ \t]*$")
+SO_A_DATA = re.compile(rf"^[ \t]*DE[ \t]+\d{{1,2}}[ \t]*[º°o]?[ \t]+DE[ \t]+{_MES.upper()}[ \t]+DE[ \t]+\d\.?\d{{3}}[ \t]*\.?[ \t]*$")
+
+
 # ------------------------------------------------------------------------------------------ leitura da edição
+def junta_epigrafe_partida(texto):
+    """Volta a uma linha só a epígrafe partida em duas (o número numa, a data na seguinte)."""
+    linhas = texto.split("\n")
+    saida, i = [], 0
+    while i < len(linhas):
+        if i + 1 < len(linhas) and EPIGRAFE_SEM_DATA.match(linhas[i]) and SO_A_DATA.match(linhas[i + 1]):
+            saida.append(linhas[i].rstrip() + " " + linhas[i + 1].strip())
+            i += 2
+            continue
+        saida.append(linhas[i])
+        i += 1
+    return "\n".join(saida)
+
+
 def visiveis(palavras):
     """As palavras de altura positiva: o modelo das edições guarda texto oculto (yMax menor que yMin)."""
     return [p for p in palavras if p[3] > p[1]]
@@ -150,7 +175,7 @@ class Edicao(base.Edicao):
             topo, fundo = mancha(n, altura, palavras)
             caixas = [p[:4] for p in visiveis(palavras) if p[1] >= topo]
             for regiao in base.dom.zonas_da_pagina(largura, altura, caixas, topo, fundo):
-                texto = base.dom.texto_da_regiao(self.pdf, n, *regiao).rstrip()
+                texto = junta_epigrafe_partida(base.dom.texto_da_regiao(self.pdf, n, *regiao)).rstrip()
                 if texto.strip():
                     saida.append((n, texto))
         return saida

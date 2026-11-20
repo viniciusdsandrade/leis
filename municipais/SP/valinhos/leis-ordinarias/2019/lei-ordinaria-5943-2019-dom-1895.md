@@ -1,0 +1,217 @@
+---
+titulo: "Lei nº 5.943, de 12 de dezembro de 2019"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5943"
+data: "2019-12-12"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Dispõe sobre autorização para a abertura de crédito adicional suplementar, até o valor de R$ 3.958.000,00."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 1895, de 13/12/2019, p. 2"
+data_publicacao: "2019-12-13"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/271"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/01aed8605a3e3c3557d53f06a8209c20.pdf"
+sha256_fonte: "b185b1fbbb8edfa97e81b9b6425062f9fe5770ca9961afc8709bd0bdd241727c"
+sha256_texto: "4f75a0f91cc7c163d808707b32fbb87ad3698b6467a1398d495e0e1db0bb9831"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 5.943, de 12 de dezembro de 2019
+
+LEI Nº 5.943 DE 12 DE DEZEMBRO DE 2019
+
+Dispõe sobre autorização para a abertura de crédito adicional suplementar, até o valor de R$ 3.958.000,00.
+
+ORESTES PREVITALE JÚNIOR, Prefeito do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo artigo 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+**Art. 1º** É o Poder Executivo Municipal autorizado a abrir um crédito adicional suplementar, até o valor de R$ 3.958.000,00 (três milhões, novecentos e cinquenta e oito mil reais), a fim de suplementar as seguintes dotações do orçamento:
+
+02.01.00 GABINETE DO PREFEITO
+
+02.01.01 Gestão Administrativa – Gabinete do Gabinete
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 100.000,00 Subtotal................................................... R$ 100.000,00
+
+02.07.00 SECRETARIA DE PLANEJAMENTO E MEIO
+
+AMBIENTE
+
+02.07.01 Gestão Administrativa – Planejamento e Meio Ambiente
+
+04.122.0205.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 22.000,00 3190.13.00 Obrigações Patronais
+
+01.110.0000 Geral. ...................................................... R$ 13.000,00 Subtotal................................................... R$ 35.000,00
+
+02.08.00 SECRETARIA DA FAZENDA
+
+02.08.01 Gestão Administrativa – Fazenda
+
+04.123.0200.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 200.000,00 Subtotal................................................... R$ 200.000,00
+
+02.10.00 SECRETARIA DA SAÚDE
+
+02.10.02 Fundo Municipal de Saúde
+
+10.302.0201.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.310.0000 Saúde – Geral. ........................................ R$ 1.000.000,00 Subtotal................................................... R$ 1.000.000,00
+
+02.13.00 SECRETARIA DA EDUCAÇÃO
+
+02.13.05 Educação Básica
+
+12.361.0204.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.220.0000 Ensino Fundamental. .............................. R$ 1.280.000,00 Subtotal................................................... R$ 1.280.000,00
+
+02.19.00 SECRETARIA DE ASSUNTOS INTERNOS
+
+02.19.01 Gestão Administrativa – Assuntos Internos
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 450.000,00 3190.13.00 Obrigações Patronais
+
+01.110.0000 Geral. ...................................................... R$ 45.000,00 09.273.0200.0.002 Aposentadorias e Reformas
+
+3190.90.01 Aposentadorias e Reformas
+
+01.110.0000 Geral. ...................................................... R$ 25.000,00 Subtotal................................................... R$ 520.000,00
+
+02.21.00 SECRETARIA DE OBRAS E SERVIÇOS PÚBLICOS
+
+02.21.01 Gestão Administrativa – Obras e Serviços Públicos
+
+04.122.0203.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 150.000,00 Subtotal................................................... R$ 150.000,00
+
+02.22.00 SECRETARIA DE SEGURANÇA PÚBLICA E
+
+CIDADANIA
+
+02.22.01 Gestão Admin. – Segurança Pública e Cidadania
+
+06.181.0203.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 380.000,00 Subtotal................................................... R$ 380.000,00
+
+02.23.00 SECRETARIA DE ASSISTÊNCIA SOCIAL
+
+02.23.01 Gestão Administrativa – Assistência Social
+
+08.244.0202.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 221.000,00 Subtotal................................................... R$ 221.000,00
+
+02.25.00 SECRETARIA DA CULTURA
+
+02.25.01 Gestão Administrativa – Cultura
+
+13.392.0204.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 40.000,00 Subtotal................................................... R$ 40.000,00
+
+02.26.00 SECRETARIA DA LICITAÇÕES
+
+02.26.01 Gestão Administrativa – Licitações
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3190.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+01.110.0000 Geral. ...................................................... R$ 32.000,00 Subtotal................................................... R$ 32.000,00
+
+TOTAL GERAL.................................... R$ 3.958.000,00
+
+**Art. 2º** O crédito autorizado no artigo anterior será coberto com os recursos provenientes da anulação parcial das dotações a seguir especificadas, com fundamento no disposto no artigo 43, § 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, na seguinte conformidade:
+
+02.13.00 SECRETARIA DA EDUCAÇÃO
+
+02.13.01 Gestão Administrativa – Educação
+
+12.243.0204.2.201 Manutenção da Unidade
+
+3390.32.00 Material de Distribuição Gratuita
+
+01.100.2001 Educação-Gastos não Enquad MDE. ..... R$ 690.000,00
+
+12.361.0204.2.201 Manutenção da Unidade
+
+3350.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+01.220.0000 Ensino Fundamental. .............................. R$ 590.000,00 Subtotal................................................... R$ 1.280.000,00
+
+02.21.00 SECRETARIA DE OBRAS E SERVIÇOS PÚBLICOS
+
+02.21.02 Ações de Serviços Públicos
+
+15.452.0203.2.211 Manutenção da Limpeza Pública
+
+3390.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+01.110.0000 Geral. ...................................................... R$ 2.278.000,00 Subtotal................................................... R$ 2.278.000,00
+
+02.23.00 SECRETARIA DE ASSISTÊNCIA SOCIAL
+
+02.23.01 Gestão Administrativa – Assistência Social
+
+08.244.0202.2.201 Manutenção da Unidade
+
+3390.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+01.510.0000 Assistência Social – Geral...................... R$ 400.000,00 Subtotal................................................... R$ 400.000,00
+
+TOTAL GERAL.................................... R$ 3.958.000,00
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, aos 12 de dezembro de 2019, 123° do Distrito de Paz, 64° do Município e 14° da Comarca.
+
+ORESTES PREVITALE JÚNIOR
+
+Prefeito Municipal
+
+JOSÉ LUIZ GARAVELLO JUNIOR
+
+Secretário de Assuntos Jurídicos e Institucionais
+
+MARIA LUISA DENADAI
+
+Secretária da Fazenda
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o expediente administrativo nº 9.032/18-PMV.
+
+Vanderley Berteli Mario
+
+Diretor do Departamento Técnico-Legislativo

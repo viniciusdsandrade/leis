@@ -1,0 +1,73 @@
+---
+titulo: "Lei nº 5.906, de 7 de outubro de 2019"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5906"
+data: "2019-10-07"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Institui o Banco de Cadeiras de Rodas no Município de Valinhos."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 1863, de 11/10/2019, p. 1"
+data_publicacao: "2019-10-11"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/304"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/8ac57327aa775640818b16a073638c43.pdf"
+sha256_fonte: "0eb331a5941c9452837e7c6976c7df7ea8e98ac42bedc0117da536dfa3c447d2"
+sha256_texto: "1adc58cbcd123f148b257ba77b625f0df208e21628c24a50d55d18225755b772"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 5.906, de 7 de outubro de 2019
+
+LEI Nº 5.906 DE 07 DE OUTUBRO DE 2019
+
+Institui o Banco de Cadeiras de Rodas no Município de Valinhos.
+
+ORESTES PREVITALE JÚNIOR, Prefeito do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo artigo 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+**Art. 1º.** Fica instituído o Banco de Cadeiras de Rodas no Município de Valinhos, com o propósito de receber, armazenar e disponibilizar, mediante comodato, os seguintes equipamentos ortopédicos:
+
+I. cadeiras de roda;
+
+II. muletas;
+
+III. bengalas;
+
+IV. andadores;
+
+V. aparelhos para a locomoção de pessoas com mobilidade reduzida.
+
+**§ 1º.** O período do comodato será estabelecido com base na prescrição médica apresentada ou, em sua ausência, na avaliação do órgão responsável por administrar o Banco de Cadeiras de Rodas.
+
+**§ 2º.** O comodato será firmado mediante contrato de caráter gratuito, ficando vedado o repasse, a comercialização ou a venda dos equipamentos.
+
+**Art. 2º.** O Banco de Cadeira de Rodas será formado por doações, sejam elas de pessoas físicas ou jurídicas, podendo ser promovidas campanhas junto à iniciativa privada para arrecadação dos equipamentos.
+
+**Art. 3º.** Os equipamentos que integram o Banco de Cadeiras de Rodas serão disponibilizados, preferencialmente, à população em situação de vulnerabilidade social.
+
+**Parágrafo único.** Caberá aos órgãos competentes da Administração definir os requisitos e avaliar a condição de vulnerabilidade social dos comodatários.
+
+**Art. 4º.** O Executivo regulamentará a presente Lei no que couber.
+
+**Art. 5º.** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, aos 07 de outubro de 2019, 123° do Distrito de Paz, 64° do Município e 14° da Comarca.
+
+ORESTES PREVITALE JÚNIOR
+
+Prefeito Municipal
+
+JOSÉ LUIZ GARAVELLO JUNIOR
+
+Secretário de Assuntos Jurídicos e Institucionais
+
+CARLOS ROBERTO TOSTO
+
+Chefe do Gabinete do Prefeito
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o expediente administrativo nº 19.127/19-PMV.
+
+Vanderley Berteli Mario Diretor do Departamento Técnico-Legislativo

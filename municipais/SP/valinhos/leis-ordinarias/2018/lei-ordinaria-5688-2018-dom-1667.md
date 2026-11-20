@@ -1,0 +1,134 @@
+---
+titulo: "Lei nº 5.688, de 29 de junho de 2018"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5688"
+data: "2018-06-29"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Autoriza o Poder Executivo a abrir crédito adicional suplementar na forma que especifica."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial; quadros preservados como texto pré-formatado, no alinhamento do PDF"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 1667, de 03/07/2018, p. 2"
+data_publicacao: "2018-07-03"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/509"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/14b9c22ea992fd71b9b27f8dfd7ff09e.pdf"
+sha256_fonte: "0741204c50ced2aa9667805a39a4e840f21764e529b1f544a2eb67c2fcd630fc"
+sha256_texto: "c939acbd1a9a329477d77ef6f594a7e1908bc176a9110ad96e913eb3ebfd9958"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 5.688, de 29 de junho de 2018
+
+LEI N° 5.688, DE 29 DE JUNHO DE 2018
+
+Autoriza o Poder Executivo a abrir crédito adicional suplementar na forma que especifica.
+
+ORESTES PREVITALE JÚNIOR, Prefeito do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo artigo 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+**Art. 1º.** É autorizada a abertura no Departamento Financeiro, do Departamento de Águas e Esgotos de Valinhos, de um crédito adicional suplementar até o valor de R$ 1.294.000,00 (um milhão, duzentos e noventa e quatro mil reais), a fim de suplementar as seguintes dotações do orçamento vigente:
+
+03.01.00 PRESIDÊNCIA
+
+03.01.01 Gabinete do Presidente e Divisões
+
+171220003.2.002/3191.13 Obrigações Patronais - Intra. .................R$ 10.000,00
+
+03.02.00 DEPARTAMENTO ADMINISTRATIVO
+
+03.02.01 Gabinete do Diretor e Divisões
+
+171220004.2.005/3190.11 Vencimentos e Vantagens Fixas – P.C. ..R$ 40.000,00 171220004.2.005/3190.94 Inden. e Restituições Trabalhistas. ........R$ 60.000,00 171220004.2.005/3390.37 Locação de Mão de Obra.......................R$ 35.000,00
+
+03.03.00 DEPARTAMENTO FINANCEIRO
+
+03.03.01 Gabinete do Diretor e Divisões
+
+171230005.2.004/3190.11 Vencimentos e Vantagens Fixas – P.C. ..R$ 280.000,00 171230005.2.004/3191.13 Obrigações Patronais - Intra. .................R$ 24.000,00
+
+03.06.00 DEPTO DE PLANEJ., OBRAS E FISCALIZAÇÃO
+
+03.06.01 Gabinete do Diretor e Divisões
+
+175120011.2.018/3190.11 Vencimentos e Vantagens Fixas – P.C. ..R$ 30.000,00 175120011.2.018/3191.13 Obrigações Patronais - Intra. .................R$ 20.000,00
+
+03.07.00 DEPARTAMENTO DE OPERAÇÃO E MANUTENÇÃO
+
+03.07.01 Gabinete do Diretor e Divisões
+
+175120011.2.019/3190.11 Vencimentos e Vantagens Fixas – P.C. ..R$ 350.000,00 175120011.2.019/3190.13 Obrigações Patronais.............................R$ 15.000,00 175120011.2.019/3191.13 Obrigações Patronais - Intra. .................R$ 120.000,00 175120011.2.019/3390.30 Material de Consumo. ...........................R$ 50.000,00 175120011.2.019/3390.39 Outros Serviços de Terceiros – P.J.........R$ 50.000,00 175120011.2.019/4490.39 Outros Serviços de Terceiros – P.J.........R$ 10.000,00 175120011.2.023/4490.51 Obras e Instalações................................R$ 200.000,00 Total Geral............................................R$1.294.000,00
+
+**Art. 2º.** O crédito autorizado no art. 1° será coberto através dos recursos provenientes da anulação parcial das dotações abaixo especificadas, com fundamento no disposto no artigo 43, § 1º, inciso III, da Lei Federal nº. 4.320, de 17 de março de 1964, na seguinte conformidade.
+
+```text
+03.01.00                     PRESIDÊNCIA
+03.01.01                     Gabinete do Presidente e Divisões
+171220003.2.002/3190.05      Salário Família.......................................R$    1.700,00
+171220003.2.002/3190.13      Obrigações Patronais.............................R$        40.000,00
+171220003.2.002/3190.16      Outras Despesas Variáveis – P.C. ..........R$              10.000,00
+
+03.03.00                     DEPARTAMENTO FINANCEIRO
+03.03.01                     Gabinete do Diretor e Divisões
+171230005.2.004/3190.05      Salário Família. .....................................R$     5.000,00
+171230005.2.004/3190.13      Obrigações Patronais.............................R$          5.000,00
+171230005.2.004/3190.16      Outras Despesas Variáveis – P.C. ..........R$                4.000,00
+171230005.2.004/3290.21      Juros s/ a Dívida por Contrato...............R$              5.000,00
+171230005.2.004/3290.22      Outros Encargos da Dívida por
+                             Contrato. ................................................R$ 5.000,00
+171230005.2.004/3390.30      Material de Consumo. ...........................R$           3.000,00
+171230005.2.008/3390.92      Despesas de Exercícios Anteriores........R$ 10.000,00
+171230005.2.004/3390.93      Indenizações. .........................................R$ 10.000,00
+171230005.2.004/3391.93      Restituições............................................R$ 554.300,00
+
+171230005.2.004/4690.71 Principal Dívida Contratual Resgatado. R$                              5.000,00
+
+03.05.00                      DEPARTAMENTO JURÍDICO
+03.05.01                      Gabinete do Diretor e Divisões
+171220004.2.006/3190.05       Salário Família.......................................R$         1.000,00
+171220004.2.006/3190.13       Obrigações Patronais.............................R$              1.500,00
+171220004.2.006/3390.36       Outros Serviços de Terceiros – P.F........R$                     2.000,00
+171220004.2.006/3390.39       Outros Serviços de Terceiros – P.J.........R$                    3.500,00
+170620002.1.004/4490.91       Sentenças Judiciais. ...............................R$           5.000,00
+170620002.1.004/4491.91       Sentenças Judiciais - Intra. ....................R$              5.000,00
+
+03.06.00                      DEPTO DE PLANEJ., OBRAS E FISCALIZAÇÃO
+03.06.01                      Gabinete do Diretor e Divisões
+175120011.2.018/3190.05       Salário Família.......................................R$ 2.000,00
+175120011.2.018/3190.13       Obrigações Patronais.............................R$      7.000,00
+175120011.2.018/3190.16       Outras Despesas Variáveis – P.C. ..........R$ 30.000,00
+175120011.2.018/3390.36       Outros Serviços de Terceiros – P.F........R$             2.000,00
+175120011.2.018/3390.39       Outros Serviços de Terceiros – P.J.........R$            7.000,00
+175120011.2.018/4490.30       Material de Consumo. ...........................R$ 10.000,00
+175120010.1.003/4490.51       Obras e Instalações................................R$ 170.000,00
+175120011.2.018/4490.52       Equipamentos e Material Permanente...R$                  5.000,00
+
+03.07.00                      DEPARTAMENTO DE OPERAÇÃO E MANUTENÇÃO
+03.07.01                      Gabinete do Diretor e Divisões
+175120011.2.019/3190.16       Outras Despesas Variáveis – P.C. ..........R$ 350.000,00
+175120011.2.022/3390.30       Material de Consumo. ...........................R$ 10.000,00
+175120011.2.019/3390.36       Outros Serviços de Terceiros – P.F........R$                 5.000,00
+175120011.2.019/4490.52       Equipamentos e Material Permanente...R$ 20.000,00
+                              Total Geral............................................R$1.294.000,00
+```
+
+**Art. 3º.** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, aos 29 de junho de 2018, 122° do Distrito de Paz, 63° do Município e 13° da Comarca.
+
+ORESTES PREVITALE JÚNIOR
+
+Prefeito Municipal
+
+JOSÉ LUIZ GARAVELLO JUNIOR
+
+Secretário de Assuntos Jurídicos e Institucionais
+
+MARIA LUISA DENADAI
+
+Secretária da Fazenda
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o expediente administrativo nº 9.538/17-PMV.
+
+Vanderley Berteli Mario Diretor do Departamento Técnico-Legislativo
