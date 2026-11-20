@@ -1,0 +1,71 @@
+---
+titulo: "Lei nº 6.622, de 6 de maio de 2024"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6622"
+data: "2024-05-06"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Dispõe sobre autorização para a abertura de crédito adicional especial, até o valor de R$ 2.400.000,00."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 2639, de 07/05/2024, p. 1"
+data_publicacao: "2024-05-07"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/1869"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/2639_07044259.pdf"
+sha256_fonte: "3e68331a95480d8f7b4b7e0411b2394eadfb1ac0d08c6116a69756890343b382"
+sha256_texto: "509fcd61656d796edb6f930166c797c04cc20b010e2632681522b38ad7dce9d0"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 6.622, de 6 de maio de 2024
+
+LEI Nº 6.622, DE 6 DE MAIO DE 2024
+
+Dispõe sobre autorização para a abertura de crédito adicional especial, até o valor de R$ 2.400.000,00.
+
+LUCIMARA ROSSI DE GODOY, Prefeita do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo art. 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ela sanciona e promulga a seguinte Lei:
+
+**Art. 1º** É o Poder Executivo Municipal autorizado a abrir um crédito adicional especial, até o valor de R$ 2.400.000,00 (dois milhões e quatrocentos mil reais), a fim de suplementar a seguinte dotação do orçamento:
+
+02.35.00 SECRETARIA DE DESENVOLVIMENTO URBANO E
+
+MEIO AMBIENTE
+
+02.35.03 Conselho Municipal de Desenvolvimento Urbano
+
+18.541.0305.2.201 Manutenção da Unidade
+
+3390.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+93.100.0042 Fdo. Municipal de Desenvolv.Urbano............. R$ 2.400.000,00 Subtotal............................................................ R$ 2.400.000,00
+
+TOTAL GERAL............................................. R$ 2.400.000,00
+
+**Art. 2º** A cobertura do referido crédito adicional especial será realizada através de recursos provenientes do superávit financeiro apurado no balanço patrimonial do exercício de 2023, com fundamento no inciso I do § 1º do art. 43 da Lei Federal n° 4.320, de 17 de março de 1964 e no inciso IV do §1º do art. 4º da Lei n° 6.572, de 27 de dezembro de 2023.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, 6 de maio de 2024, 128° do Distrito de Paz, 69° do Município e 19° da Comarca.
+
+LUCIMARA ROSSI DE GODOY
+
+Prefeita Municipal
+
+MARCELO SILVA SOUZA
+
+Secretário de Assuntos Jurídicos
+
+CRISLÂNIO LOPES DA SILVA
+
+Secretário da Fazenda
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o Memorando CI nº 4.537/24 – SFP/SF e Processo Administrativo nº
+
+22.909/23 – PMV.
+
+Evandro Régis Zani
+
+Diretor do Departamento de Gestão em Legística

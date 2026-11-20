@@ -1,0 +1,99 @@
+---
+titulo: "Lei nº 6.703, de 20 de fevereiro de 2025"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "6703"
+data: "2025-02-20"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Dispõe sobre autorização para a abertura de crédito adicional especial, até o valor de R$ 806.950,00."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial; quadros preservados como texto pré-formatado, no alinhamento do PDF"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 2806, de 21/02/2025, p. 1"
+data_publicacao: "2025-02-21"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/2044"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/2806_21071208.pdf"
+sha256_fonte: "554061f250f79045127cdde40b33986f4c64675dbc181de49f391f07b8bfbb7f"
+sha256_texto: "81e289db6e2677c170eefbc32767c00550dac88eb9e3eb65ede1d292f861dbee"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 6.703, de 20 de fevereiro de 2025
+
+LEI Nº 6.703, DE 20 DE FEVEREIRO DE 2025
+
+Dispõe sobre autorização para a abertura de crédito adicional especial, até o valor de R$ 806.950,00.
+
+FRANKLIN DUARTE DE LIMA, Prefeito do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo art. 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+**Art. 1º** É o Poder Executivo Municipal autorizado a abrir um crédito adicional especial, até o valor de R$ 806.950,00 (oitocentos e seis mil, novecentos e cinquenta reais), a fim de suplementar as seguintes dotações do orçamento:
+
+02.37.00 SECRETARIA DE CULTURA E TURISMO
+
+02.37.02 Ações de Cultura
+
+13.392.0307.2.264 Fomento a Projetos-PNAB
+
+```text
+3350.41.00        Contribuições
+95.100.1058       Polític.Nacional Aldir Blanc Lei14399/22........ R$                     50.000,00
+3360.45.00        Subvenções Econômicas
+95.100.1058       Polític.Nacional Aldir Blanc Lei14399/22........ R$                   150.000,00
+```
+
+13.392.0307.2.265 Iniciativas Culturais-PNAB
+
+3390.48.00 Outros Aux. Financeiros a Pessoa Física
+
+95.100.1058 Polític.Nacional Aldir Blanc Lei14399/22........ R$ 425.000,00
+
+13.392.0307.2.266 Infraestrutura de Espaços Públicos-PNAB
+
+4490.52.00 Equipamentos e Material Permanente
+
+95.100.1058 Polític.Nacional Aldir Blanc Lei14399/22........ R$ 25.000,00 13.392.0307.2.267 Operacionalização Administrativa-PNAB
+
+```text
+3390.36.00        Outros Serv. Terc. Pessoa Física
+95.100.1058       Polític.Nacional Aldir Blanc Lei14399/22........ R$                         3.000,00
+3390.39.00        Outros Serv. Terc. Pessoa Juridica
+95.100.1058       Polític.Nacional Aldir Blanc Lei14399/22........ R$                         3.950,00
+```
+
+13.392.0307.2.268 PNCV-Pontos de Cultura Premiações-PNAB
+
+3350.43.00 Subvenções Sociais
+
+95.100.1058 Polític.Nacional Aldir Blanc Lei14399/22........ R$ 30.000,00 3390.31.00 Prem.Culturais, Artíst. Científicas, Desportivas e Outras
+
+95.100.1058 Polític.Nacional Aldir Blanc Lei14399/22........ R$ 120.000,00 Subtotal. ............................................................ R$ 806.950,00
+
+TOTAL GERAL. ............................................. R$ 806.950,00
+
+**Art. 2º** O crédito autorizado no art. 1º, será coberto com o recurso proveniente do superávit financeiro apurado no balanço patrimonial do exercício de 2024, com fundamento no art. 43, § 1°, inciso I, da Lei Federal n° 4.320, de 17 de março de 1964 e no art. 4º, §1º, IV, da Lei n° 6.686, de 18 de dezembro de 2024.
+
+**Art. 3º** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, 20 de fevereiro de 2025, 129° do Distrito de Paz, 70° do Município e 20° da Comarca.
+
+FRANKLIN DUARTE DE LIMA
+
+Prefeito Municipal
+
+THIAGO EDUARDO GALVÃO CAPELLATO
+
+Secretário de Assuntos Jurídicos
+
+REBECA LEARDINE QUIJADA
+
+Secretária da Fazenda em exercício
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o Memorando nº 2.333/25 – DPF/SF e o Processo Administrativo nº
+
+16.444/24 – PMV.
+
+Evandro Régis Zani
+
+Diretor do Departamento de Gestão em Legística

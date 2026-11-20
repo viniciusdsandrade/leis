@@ -1,0 +1,1207 @@
+---
+titulo: "Lei nº 5.738, de 25 de outubro de 2018"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5738"
+data: "2018-10-25"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Dispõe sobre autorização para abertura de crédito adicional suplementar até o valor de R$ 21.412.500,00."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 1707, de 26/10/2018, p. 1"
+data_publicacao: "2018-10-26"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/469"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/3c51224383637b6ba99c1634e14ed764.pdf"
+sha256_fonte: "d9214687a2f95352a30c8b0796596ee7a08ad44f42d30e4d7045df07c36ce45e"
+sha256_texto: "0fce6c8bb8be6bc9fdcf5e59591df6c6288464cfadab0943c7f732831652d39d"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 5.738, de 25 de outubro de 2018
+
+LEI N° 5.738, DE 25 DE OUTUBRO DE 2018
+
+Dispõe sobre autorização para abertura de crédito adicional suplementar até o valor de R$ 21.412.500,00.
+
+ORESTES PREVITALE JÚNIOR, Prefeito do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo artigo 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+**Art. 1º.** É autorizada a abertura de crédito adicional suplementar até o valor de R$ 21.412.500,00 (vinte e um milhões, quatrocentos e doze mil e quinhentos reais), a fim de suplementar as seguintes dotações do orçamento vigente:
+
+02.01.00 GABINETE DO PREFEITO
+
+02.01.01 Gestão Administrativa – Gabinete do Gabinete
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 12.000,00
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 1.255.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 55.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 20.000,00
+
+04.122.0200.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Geral........................ R$ 20.000,00
+
+Subtotal....................R$ 1.362.000,00
+
+02.05.00 SECRETARIA DE ASSUNTOS JURÍDICOS E INSTITUCIONAIS
+
+02.05.01 Gestão Admin. – Assuntos Jurídicos e Institucionais
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 495.000,00
+
+Subtotal....................R$ 495.000,00
+
+02.06.00 SECRETARIA DE ESPORTES E LAZER
+
+02.06.01 Gestão Administrativa – Esporte e Lazer
+
+27.812.0201.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 145.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+27.812.0201.2.201 Manutenção da Unidade
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.110.0000 Geral........................ R$ 35.000,00
+
+02.06.03 Ações de Esportes e Lazer
+
+27.812.0201.2.201 Manutenção da Unidade
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.110.0000 Geral........................ R$ 25.000,00
+
+Subtotal....................R$ 225.000,00
+
+02.07.00 SECRETARIA DE PLANEJAMENTO E
+
+MEIO AMBIENTE
+
+02.07.01 Gestão Admin. – Assuntos Jurídicos e Institucionais
+
+04.122.0205.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 220.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 14.000,00
+
+Subtotal....................R$ 234.000,00
+
+02.08.00 SECRETARIA DA FAZENDA
+
+02.08.01 Gestão Administrativa – Fazenda
+
+04.123.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 115.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+Subtotal....................R$ 125.000,00
+
+02.10.00 SECRETARIA DA SAÚDE
+
+02.10.02 Fundo Municipal de Saúde
+
+10.302.0201.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 7.980.000,00
+
+10.302.0201.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 1.300.000,00
+
+10.302.0201.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 210.000,00
+
+Subtotal....................R$ 9.490.000,00
+
+02.13.00 SECRETARIA DA EDUCAÇÃO
+
+02.13.01 Gestão Administração - Educação
+
+12.361.0204.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 40.000,00
+
+3.3.90.49.00 Auxílio Transporte
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 71.000,00
+
+02.13.05 Educação Básica
+
+12.361.0204.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 1.020.000,00
+
+Subtotal....................R$ 1.131.000,00
+
+02.18.00 SECRETARIA DE DESENVOLVIMENTO
+
+ECONÔMICO
+
+02.18.01 Gestão Administrativa–Desenvolvimento
+
+Econômico
+
+04.122.0205.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 340.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 70.000,00
+
+04.122.0205.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+Subtotal....................R$ 420.000,00
+
+02.19.00 SECRETARIA DE ASSUNTOS INTERNOS
+
+02.19.01 Gestão Administrativa–Assuntos Internos
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 20.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 200.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 5.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 35.000,00
+
+02.19.02 Custeio Geral
+
+04.122.0200.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 255.000,00
+
+09.273.0200.0.002 Aposentadorias e Reformas
+
+3.1.90.01.00 Aposentadorias e Reformas
+
+Vínculo 01.110.0000 Geral........................ R$ 3.600.000,00
+
+Subtotal....................R$ 4.115.000,00
+
+02.21.00 SECRETARIA DE OBRAS E SERVIÇOS
+
+PÚBLICOS
+
+02.21.01 Gestão Administrativa–Obras e Serviços
+
+Públicos
+
+04.122.0203.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 5.000,00
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 1.195.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 70.000,00
+
+04.122.0203.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+Subtotal....................R$ 1.280.000,00
+
+02.22.00 SECRETARIA DE SEGURANÇA PÚBLICA E CIDADANIA
+
+02.22.01 Gestão Administrativa–Segurança Públ e
+
+Cidadania
+
+06.181.0203.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 1.080.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 30.000,00
+
+Subtotal....................R$ 1.110.000,00
+
+02.23.00 SECRETARIA DE ASSISTÊNCIA SOCIAL
+
+02.23.01 Gestão Administrativa–Assistência Social
+
+08.242.0202.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 40.000,00
+
+Subtotal....................R$ 40.000,00
+
+02.24.00 SECRETARIA DE MOBILIDADE URBANA
+
+02.24.01 Gestão Administrativa–Mobilidade Urbana
+
+26.782.0205.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 5.000,00
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 560.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 25.000,00
+
+Subtotal....................R$ 590.000,00
+
+02.26.00 SECRETARIA DE LICITAÇÕES
+
+02.26.01 Gestão Administrativa–Licitações
+
+04.122.0200.2.206 Publicidade Oficial
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 125.500,00
+
+Subtotal....................R$ 125.500,00
+
+02.27.00 SECRETARIA DE ADMINISTRAÇÃO
+
+02.27.01 Gestão Administrativa - Administração
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 670.000,00
+
+Subtotal....................R$ 670.000,00
+
+TOTAL GERAL. ...R$ 21.412.500,00
+
+**Art. 2º.** O crédito autorizado no art. 1° será coberto através dos recursos provenientes da anulação parcial das dotações abaixo especificadas, com fundamento no disposto no artigo 43, § 1º, inciso
+
+III, da Lei Federal nº. 4.320, de 17 de março de 1964, na seguinte conformidade.
+
+02.05.00 SECRETARIA DE ASSUNTOS JURÍDICOS E INSTITUCIONAIS
+
+02.05.01 Gestão Admin. – Assuntos Jurídicos e Institucionais
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 GeralR$. .................. 50.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 40.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra-Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 40.000,00
+
+04.122.0200.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 20.000,00
+
+Subtotal....................R$ 160.000,00
+
+02.06.00 SECRETARIA DE ESPORTES E LAZER
+
+02.06.01 Gestão Administrativa – Esporte e Lazer
+
+27.812.0201.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 110.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra-Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 50.000,00
+
+27.812.0201.2.201 Manutenção da Unidade
+
+3.3.90.31.00 Premiações Cut,Art,Cient,Desp.Out
+
+Vínculo 01.110.0000 Geral........................ R$ 30.000,00
+
+4.4.90.51.00 Obras e Instalações
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+27.812.0201.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 20.000,00
+
+27.812.0201.2.208 Adiantamento a Servidores
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.110.0000 Geral........................ R$ 28.000,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 7.000,00
+
+02.06.03 Ações de Esportes e Lazer
+
+27.812.0201.2.205 Manutenção de Federações e Arbitragens
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 35.000,00
+
+Subtotal....................R$ 300.000,00
+
+02.07.00 SECRETARIA DE PLANEJAMENTO E
+
+MEIO AMBIENTE
+
+02.07.01 Gestão Admin. – Assuntos Jurídicos e Institucionais
+
+04.122.0205.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra-Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 150.000,00
+
+04.122.0205.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 50.000,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.110.0000 Geral........................ R$ 5.000,00
+
+04.122.0205.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+17.512.0205.2.201 Manutenção da Unidade
+
+3.3.70.41.00 Contribuições
+
+Vínculo 01.110.0000 Geral........................ R$ 5.000,00
+
+Subtotal....................R$ 230.000,00
+
+02.08.00 SECRETARIA DA FAZENDA
+
+02.08.01 Gestão Administrativa – Fazenda
+
+04.123.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 5.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 90.000,00
+
+04.123.0200.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 15.000,00
+
+Subtotal....................R$ 110.000,00
+
+02.10.00 SECRETARIA DA SAÚDE
+
+02.10.01 Gestão Administrativa - Saúde
+
+10.122.0201.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 10.000,00
+
+10.122.0201.2.201 Manutenção da Unidade
+
+3.3.90.36.00 Outros Serviços de Terceiros – Pessoa Física
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 50.000,00
+
+3.3.90.92.00 Despesas de Exercícios Anteriores
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 5.000,00
+
+3.3.90.93.00 Indenizações e Restituições
+
+Vínculo 01.310.0000 Saúde - Geral........................ R$ 5.000,00
+
+4.4.90.92.00 Despesas de Exercícios Anteriores
+
+Vínculo 01.310.0000 Saúde - Geral........................ R$ 5.000,00
+
+10.122.0201.2.209 Despesas de Viagem e Gastos c/Representação
+
+3.3.90.33.00 Passagens e Despesas c/ Locomoção
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 100.000,00
+
+10.122.0201.2.226 Locação de Imóveis
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 10.000,00
+
+10.301.0201.1.103 Construção, Reforma e Ampliação de Eq.
+
+Públicos
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 10.000,00
+
+10.302.0201.1.103 Construção, Reforma e Ampliação de Eq.
+
+Públicos
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 10.000,00
+
+4.4.90.51.00 Obras e Instalações
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 200.000,00
+
+02.10.02 Fundo Municipal de Saúde
+
+10.302.0201.1.103 Construção, Reforma e Ampliação de Eq.
+
+Públicos
+
+4.4.90.51.00 Obras e Instalações
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 10.000,00
+
+10.301.0201.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 50.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 690.000,00
+
+10.302.0201.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 80.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 690.000,00
+
+10.304.0201.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 200.000,00
+
+10.305.0201.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 100.000,00
+
+10.302.0201.2.202 Apoio ao Servidor
+
+3.3.90.46.00 Auxílio Alimentação
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 340.000,00
+
+10.302.0201.2.217 Gestão dos Serviços de Saúde
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.300.0033 MAC/Teto Municipal
+
+Limite UPA-PO. ......R$ 80.000,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 50.000,00
+
+10.303.0201.2.217 Gestão dos Serviços de Saúde
+
+3.3.90.32.00 Material de Distribuição Gratuita
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 1.200.000,00
+
+10.304.0201.2.217 Gestão dos Serviços de Saúde
+
+4.4.90.51.00 Obras e Instalações
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 10.000,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.320.0000 Rec. PróprioTaxas e
+
+Multas...................... R$ 250.000,00
+
+10.305.0201.2.217 Gestão dos Serviços de Saúde
+
+4.4.90.51.00 Obras e Instalações
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 10.000,00
+
+10.306.0201.2.217 Gestão dos Serviços de Saúde
+
+3.3.90.32.00 Material de Distribuição Gratuita
+
+Vínculo 01.310.0000 Saúde - Geral........... R$ 20.000,00
+
+Subtotal....................R$ 4.185.000,00
+
+02.13.00 SECRETARIA DA EDUCAÇÃO
+
+02.13.01 Gestão Administração - Educação
+
+12.122.0204.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.100.2001 Educação não Enquadrados em MDE. ................. R$ 35.500,00
+
+12.122.0204.2.209 Despesas de Viagem e gastos com Representação
+
+3.3.90.33.00 Passagens e Despesas c/ Locomoção
+
+Vínculo 01.100.2001 Educação não Enquadrados em MDE. ................. R$ 20.000,00
+
+12.361.0204.2.201 Manutenção da Unidade
+
+3.3.90.92.00 Despesas de Exercícios Anteriores
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 10.000,00
+
+3.3.90.93.00 Indenizações e Restituições
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 10.000,00
+
+4.4.90.92.00 Despesas de Exercícios Anteriores
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 10.000,00
+
+12.361.0204.2.202 Apoio ao Servidor
+
+3.3.90.46.00 Auxílio Alimentação
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 150.000,00
+
+12.361.0204.2.209 Despesas de Viagem e gastos com Representação
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 11.000,00
+
+12.361.0204.2.226 Locação de Imóveis
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 10.000,00
+
+12.365.0204.1.103 Construção, Reforma e Ampliação de Eqpt
+
+Públicos
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 10.000,00
+
+12.365.0204.2.202 Apoio ao Servidor.
+
+3.3.90.46.00 Auxílio Alimentação
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 150.000,00
+
+02.13.05 Educação Básica
+
+12.361.0204.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 190.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 1.000.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.200.0200 Educação – Gastos
+
+MDE (Rec. Própr). ..R$ 300.000,00
+
+12.365.0204.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.212.0000 Educação Infantil –
+
+Creche...................... R$ 100.000,00
+
+Vínculo 01.213.0000 Educação Infantil –
+
+Pré-Escola................ R$ 100.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.213.0000 Educação Infantil –
+
+Pré-Escola................ R$ 180.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra-Orçamentário
+
+Vínculo 01.212.0000 Educação Infantil –
+
+Creche...................... R$ 150.000,00
+
+Subtotal....................R$ 2.436.500,00
+
+02.18.00 SECRETARIA DE DESENVOLVIMENTO
+
+ECONÔMICO
+
+02.18.01 Gestão Administrativa–Desenvolvimento
+
+Econômico
+
+04.122.0205.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 5.000,00
+
+Subtotal....................R$ 5.000,00
+
+02.19.00 SECRETARIA DE ASSUNTOS INTERNOS
+
+02.19.02 Custeio Geral
+
+04.122.0200.2.202 Apoio ao Servidor
+
+3.3.90.46.00 Auxílio Alimentação
+
+Vínculo 01.110.0000 Geral........................ R$ 170.000,00
+
+Subtotal....................R$ 170.000,00
+
+02.21.00 SECRETARIA DE OBRAS E SERVIÇOS
+
+PÚBLICOS
+
+02.21.01 Gestão Administrativa–Obras e Serviços
+
+Públicos
+
+04.122.0203.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+02.21.02 Ações de Serviços Públicos
+
+15.451.0203.1.103 Construção, Reforma e Ampliação de Eqpt Públicos
+
+4.4.90.51.00 Obras e Instalações
+
+Vínculo 01.110.0000 Geral........................ R$ 26.000,00
+
+15.451.0203.2.212 Serviços de Ilumin.Pública
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.100.0001 Rec.Próprio.............. R$ 500.000,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.100.0001 Rec.Próprio.............. R$ 9.100.000,00
+
+4.4.90.51.00 Obras e Instalações
+
+Vínculo 01.100.0001 Rec.Próprio.............. R$ 180.000,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.100.0001 Rec.Próprio.............. R$ 1.700.000,00
+
+15.452.0203.2.214 Obras de Infraestrutura Urbana
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 22.500,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+18.542.0203.2.211 Manutenção da Limpeza Pública
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+Subtotal....................R$ 11.578.500,00
+
+02.22.00 SECRETARIA DE SEGURANÇA PÚBLICA E CIDADANIA
+
+02.22.01 Gestão Administrativa–Segurança Públ e
+
+Cidadania
+
+06.181.0203.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.100.1008 Rec.Próprio.............. R$ 100.000,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.100.1008 Rec.Próprio.............. R$ 10.000,00
+
+Vínculo 01.110.0000 Geral........................ R$ 50.000,00
+
+06.181.0203.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 100.000,00
+
+Subtotal....................R$ 260.000,00
+
+02.23.00 SECRETARIA DE ASSISTÊNCIA SOCIAL
+
+02.23.01 Gestão Administrativa–Assistência Social
+
+08.244.0202.1.103 Construção, Reforma e Ampliação de Eqpt
+
+Públicos
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 10.000,00
+
+08.244.0202.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 10.000,00
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 20.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 70.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra-Orçamentário
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 90.000,00
+
+08.241.0202.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 40.000,00
+
+08.244.0202.2.201 Manutenção da Unidade
+
+3.3.90.32.00 Material de Distribuição Gratuita
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 200.000,00
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 5.000,00
+
+4.4.90.52.00 Equipamentos e Material Permanente
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 10.000,00
+
+08.244.0202.2.225 Combate ao Trabalho Infantil/Profissional
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 40.000,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 30.000,00
+
+02.23.02 Fundo Municipal de Assistência Social
+
+08.244.0202.2.218 Proteção Básica
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 150.000,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 50.000,00
+
+08.244.0202.2.219 Proteção Social Especial – Média Complexidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 50.000,00
+
+08.244.0202.2.220 Proteção Social Especial – Alta Complexidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 50.000,00
+
+08.244.0202.2.221 IGDSUAS - Organização e Gestão do SUAS
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 1.000,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 1.000,00
+
+08.244.0202.2.223 IGD PBF – Programa Bolsa Família
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 1.000,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.510.0000 Assistência Social –
+
+Geral........................ R$ 1.000,00
+
+Subtotal....................R$ 829.000,00
+
+02.24.00 SECRETARIA DE MOBILIDADE URBANA
+
+02.24.01 Gestão Administrativa–Mobilidade Urbana
+
+26.782.0205.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+Subtotal....................R$ 10.000,00
+
+02.25.00 SECRETARIA DA CULTURA
+
+02.25.01 Gestão Administrativa–Cultura
+
+13.392.0204.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 260.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 110.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 120.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra-Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 50.000,00
+
+13.392.0204.2.201 Manutenção da Unidade
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 170.000,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 170.000,00
+
+13.392.0204.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 15.000,00
+
+Subtotal....................R$ 905.000,00
+
+02.26.00 SECRETARIA DE LICITAÇÕES
+
+02.26.01 Gestão Administrativa – Licitações
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.05.00 Outros Benefícios Previdenciários
+
+Vínculo 01.110.0000 Geral........................ R$ 5.000,00
+
+3.1.90.11.00 Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 25.000,00
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 35.000,00
+
+3.1.90.16.00 Outras Despesas Variáveis – Pessoal Civil
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+3.1.91.13.00 Obrigações Patronais – Intra-Orçamentário
+
+Vínculo 01.110.0000 Geral........................ R$ 40.000,00
+
+04.122.0200.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 26.000,00
+
+04.122.0200.2.202 Apoio ao Servidor
+
+3.3.90.48.00 Outros Auxílios Financeiros – Pessoa Física
+
+Vínculo 01.110.0000 Geral........................ R$ 10.000,00
+
+04.122.0200.2.208 Adiantamento a Servidores
+
+3.3.90.30.00 Material de Consumo
+
+Vínculo 01.110.0000 Geral........................ R$ 5.600,00
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Vínculo 01.110.0000 Geral........................ R$ 6.600,00
+
+Subtotal....................R$ 163.200,00
+
+02.27.00 SECRETARIA DE ADMINISTRAÇÃO
+
+02.27.01 Gestão Administrativa - Administração
+
+04.122.0200.2.200 Manutenção de Pessoal e Encargos
+
+3.1.90.13.00 Obrigações Patronais
+
+Vínculo 01.110.0000 Geral........................ R$ 50.000,00
+
+04.122.0200.2.201 Manutenção da Unidade
+
+3.3.90.39.00 Outros Serviços de Terceiros – Pessoa Jurídica
+
+Geral........................ R$ 20.000,00
+
+Subtotal....................R$ 70.000,00
+
+TOTAL GERAL. ...R$ 21.412.500,00
+
+**Art. 3º.** Esta Lei entra em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos,aos 25 de outubro de 2018, 122° do Distrito de Paz, 63° do Município e 13° da Comarca.
+
+ORESTES PREVITALE JÚNIOR
+
+Prefeito Municipal
+
+JOSÉ LUIZ GARAVELLO JUNIOR
+
+Secretário de Assuntos Jurídicos e Institucionais
+
+MARIA LUISA DENADAI
+
+Secretária da Fazenda
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o expediente administrativo nº 9.538/17.
+
+Vanderley Berteli Mario
+
+Diretor do Departamento Técnico-Legislativo

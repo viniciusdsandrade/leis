@@ -1,0 +1,139 @@
+---
+titulo: "Decreto nº 76, de 23 de fevereiro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "76"
+data: "2022-02-23"
+municipio: "Vinhedo"
+uf: "SP"
+codigo_ibge: "3556701"
+ementa: "Dispõe sobre a designação do Conselho Municipal de Assistência Social – CMAS como Instância de Controle Social do Programa Bolsa Família – PBF e dá outras providências."
+versao_texto: "texto original (não consolidado); recortado da edição do Boletim Municipal, o Diário Oficial do Município (PDF do portal da Prefeitura de Vinhedo); não substitui a publicação oficial"
+publicacao: "Boletim Municipal do Município de Vinhedo, edição nº 766, de 07/03/2022, p. 11"
+data_publicacao: "2022-03-07"
+fonte: "https://www.vinhedo.sp.gov.br/portal/diario-oficial/ver/806"
+fonte_texto: "https://www.vinhedo.sp.gov.br/uploads/diario_202221041657925a93448498b734833f0cf52463b326.pdf"
+sha256_fonte: "8416d9fe134f37cd5a1caa41ecd66fc8882f84810e294280fd6022b9aee8498d"
+sha256_texto: "cfe3bf3b08d4e342802f651a0f5750ed22a99096ac511000ccedd4645128194a"
+baixado_em: "2026-11-19"
+---
+
+# Decreto nº 76, de 23 de fevereiro de 2022
+
+DECRETO Nº 76, DE 23 DE FEVEREIRO DE 2022.
+
+Dispõe sobre a designação do Conselho Municipal de Assistência Social – CMAS como Instância de Controle Social do Programa Bolsa Família – PBF e dá outras providências.
+
+DARIO PACHECO DE MORAIS, Prefeito Municipal de Vinhedo, Estado de São Paulo, usando de suas atribuições legais, e,
+
+Considerando a Lei Federal nº 10.836, de 09 de janeiro de 2004, que “Cria o Programa Bolsa Família e dá outras providências”;
+
+Considerando o Decreto Federal nº 5.209, de 17 de setembro de 2004 que “Regulamenta a Lei nº 10.836, de 09 de janeiro de 2004, que cria o Programa Bolsa Família e dá outras providências”;
+
+Considerando a Instrução Normativa nº 01, de 20 de maio de 2005, do Ministério do Desenvolvimento Social e combate à Fome;
+
+Considerando a Lei Municipal nº 2.365, de 11 de novembro de 1998, que “Cria o Conselho Municipal de Assistência Social, o Fundo Municipal de Assistência Social e dá outras providências”;
+
+Considerando o Decreto Municipal nº 27, de 22 de fevereiro de 1999 que “Aprova o Regimento Interno do Conselho Municipal de Assistência Social”;
+
+Considerando, ainda, o Decreto Municipal nº 212, de 22 de agosto de 2019 que “Dispõe sobre a Composição do Conselho Municipal de Assistência Social”;
+
+Considerando, ao final, a necessidade da promoção da inclusão e emancipação social de famílias em situação de vulnerabilidade social no Município;
+
+D E C R E T A:
+
+**Art. 1º** Fica designado o Conselho Municipal da Assistência Social - CMAS, através de seus Representantes Titulares e respectivos Suplentes, abaixo relacionados, para funcionar como Instância de Controle Social do Programa Bolsa Família – PBF e Cadastro Único, objetivando o acompanhamento e o cumprimento das condicionalidades das famílias beneficiadas, segundo as normas e instrumentos disponibilizados pelo Governo Federal.
+
+I - 07 (sete) Representantes do Poder Público, assim distribuídos:
+
+a) da Secretaria Municipal de Assistência Social e Cidadania:
+
+Titular: Rosa Maria de Arruda
+
+Suplente: Elaine do Santos Camargo
+
+b) da Secretaria Municipal de Justiça:
+
+Titular: Carolina Nader
+
+Suplente: Samuel Guimarães
+
+Decreto nº 76/2022 – folha 2.
+
+c) da Secretaria Municipal de Educação:
+
+Titular: Gisela Maria Caum dos Santos
+
+Suplente: José Flávio Von Zuben Filho
+
+d) da Secretaria Municipal de Saúde:
+
+Titular: Maria Regina Guedes Mendonça
+
+Suplente: Regina Salete Porcena
+
+e) da Secretaria Municipal de Esporte e Lazer:
+
+Titular: Felipe Vitor
+
+Suplente: Márcio Rangel Patrocínio de Oliveira
+
+f) da Secretaria Municipal de Cultura e Turismo:
+
+Titular: Jéssica Aparecida Ribeiro Barros Suplente: Rebeca Carrari
+
+g) da Secretaria Municipal de Finanças e Economia:
+
+Titular: Fernando Aguinaldo Peres
+
+Suplente: Guilherme de Oliveira Manoel
+
+II - 07 (sete) Representantes da Sociedade Civil, sendo:
+
+a) Segmento das Entidades e Organizações de Assistência Social e Trabalhadores da área de Assistência Social no âmbito municipal
+
+Titular: LAR CAB – Lar Augusto Braga
+
+Representante: Aline Cristina da Silva Godoy Marques Suplente: Daniela D. Amaral Benatti – Trabalhadora da Assistência Social
+
+Titular: AFETO – Associação Esperança para Todos Representante: Mary Hellen Holanda Silva Suplente: VAGO
+
+Titular: ARCA – Associação de Responsabilidade Cristã e Assistencial Representante: Tanny Luísa Janini Frigo
+
+Suplente: VAGO
+
+Titular: CEIVI – Centro de Especialidades Integradas de Vinhedo Representante: Verian dos Santos Bassan
+
+Suplente: VAGO
+
+Titular: LAR DA CARIDADE DE VINHEDO
+
+Representante: Tatiane de Fátima Peretto Souza Suplente: (VAGO)
+
+Titular: ACOVEC
+
+Representante: Ana Lúcia Falsarella Testolini Suplente: (VAGO)
+
+Decreto nº 76/2022 – folha 3.
+
+b) Segmento dos usuários ou de organização de usuários da Assistência Social Titular: Juliana Bezerra de Andrade
+
+Suplente: Maria da Glória Martins de Oliveira
+
+**Art. 2º** Os atos efetivados na vigência do Decreto Municipal nº 328/2021 ficam convalidados até a entrada em vigor do presente Decreto.
+
+**Art. 3º** Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 4º** Revogam-se as disposições em contrário, especialmente o Decreto nº 328/2021.
+
+Prefeitura Municipal de Vinhedo, aos vinte e três dias do mês de fevereiro de dois mil e vinte e dois.
+
+DARIO PACHECO DE MORAIS
+
+Prefeito Municipal
+
+Publicado e Registrado neste Departamento de Expediente na data supra.
+
+RODOLFO GONÇALVES PIERI
+
+Diretor do Departamento de Expediente

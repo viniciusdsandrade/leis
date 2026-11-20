@@ -1,0 +1,67 @@
+---
+titulo: "Lei nº 5.972, de 12 de março de 2020"
+tipo: "Lei Ordinária"
+tipo_na_fonte: "Lei"
+numero: "5972"
+data: "2020-03-12"
+municipio: "Valinhos"
+uf: "SP"
+codigo_ibge: "3556206"
+ementa: "Dispõe sobre autorização para a abertura de crédito adicional suplementar, até valor de R$ 2.782.711,63."
+versao_texto: "texto original (não consolidado); recortado da edição dos Atos Oficiais, o Diário Oficial do Município (PDF do portal da Prefeitura de Valinhos), lida coluna a coluna; não substitui a publicação oficial"
+publicacao: "Atos Oficiais do Município de Valinhos, edição nº 1932, de 13/03/2020, p. 2"
+data_publicacao: "2020-03-13"
+fonte: "https://www.valinhos.sp.gov.br/portal/diario-oficial/ver/225"
+fonte_texto: "https://www.valinhos.sp.gov.br/uploads/ae44f84df4f54451aa4d14643b27ff72.pdf"
+sha256_fonte: "4fb0e898cc6321dc4dcc06e2bf088ad240ed120cac3d5e43082fe18a7a1df283"
+sha256_texto: "f8cfd49cfd80bd8bd32827b748877317e9ab5510414479ea4b8d0c116c61f24a"
+baixado_em: "2026-11-19"
+---
+
+# Lei nº 5.972, de 12 de março de 2020
+
+LEI Nº 5.972, DE 12 DE MARÇO DE 2020
+
+Dispõe sobre autorização para a abertura de crédito adicional suplementar, até valor de R$ 2.782.711,63.
+
+ORESTES PREVITALE JÚNIOR, Prefeito do Município de Valinhos, no uso das atribuições que lhe são conferidas pelo artigo 80, inciso III, da Lei Orgânica do Município,
+
+FAZ SABER que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+**Art. 1º.** É o Poder Executivo Municipal autorizado a abrir um crédito adicional suplementar, até o valor de R$ 2.782.711,63 (dois milhões, setecentos e oitenta e dois mil, setecentos e onze reais e sessenta e três centavos), na seguinte conformidade:
+
+02.21.00 SECRETARIA DE OBRAS E SERVIÇOS URBANOS
+
+02.21.02 Ações de Serviços Públicos
+
+15.452.0203.2.213 Manutenção de Vias Públicas
+
+4490.51.00 Obras e Instalações
+
+95.100.0138 Conv. Recapeamento Diversas Ruas. .........R$ 1.566.721,76 95.100.0139 Convênio Recapeamento............................R$ 915.578,02 95.100.0153 Convênio Recap. Div. Ruas 825315...........R$ 300.411,85 Subtotal.......................................................R$ 2.782.711,63
+
+TOTAL GERAL........................................R$ 2.782.711,63
+
+**Art. 2º.** O crédito aberto no artigo anterior, será coberto com os recursos provenientes do excesso de arrecadação a verificar-se no corrente exercício, com fundamento no inciso II, do § 1º e § 3º do artigo 43, da Lei Federal n° 4.320, de 17 de março de 1964.
+
+**Art. 3º.** Esta Lei entrará em vigor na data de sua publicação.
+
+Prefeitura do Município de Valinhos, aos 12 de março de 2020, 124° do Distrito de Paz, 65° do Município e 15° da Comarca.
+
+ORESTES PREVITALE JÚNIOR
+
+Prefeito Municipal
+
+JOSÉ LUIZ GARAVELLO JUNIOR
+
+Secretário de Assuntos Jurídicos e Institucionais
+
+MARIA LUISA DENADAI
+
+Secretária da Fazenda
+
+Conferida, numerada e datada neste Departamento, na forma regulamentar, em conformidade com o expediente administrativo no. 11.061/19-PMV.
+
+Vanderley Berteli Mario
+
+Diretor do Departamento Técnico-Legislativo
