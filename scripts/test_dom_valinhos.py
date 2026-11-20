@@ -120,6 +120,23 @@ class Recorte(unittest.TestCase):
         for trecho in ("1º Secretário", "2º Secretário", "Publicado no local de costume", "Diretor Legislativo"):
             self.assertIn(trecho, recorte)
 
+    def test_conferencia_assinada_por_agente_com_o_departamento_em_outra_linha(self):
+        texto = LEI.replace("Evandro Régis Zani\nSubchefe do Gabinete da Prefeita\nRespondendo pelo Depto. Técnico-Legislativo/SAJI",
+                            "Alexssandra Rosa\nAgente Administrativo II\nDepartamento de Gestão em Legística", 1)
+        (ato, recorte, motivo), _ = atos(texto)
+        self.assertIsNone(motivo)
+        self.assertTrue(recorte.rstrip().endswith("Departamento de Gestão em Legística"))
+        self.assertFalse(v.PERFIL.cargo.fullmatch("DEPARTAMENTO DE COMPRAS"))  # título de outra publicação
+
+    def test_epigrafe_partida_em_duas_linhas(self):
+        partida = LEI.replace("LEI Nº 7.015, DE 18 DE NOVEMBRO DE 2026", "LEI Nº 7.015,\nDE 18 DE NOVEMBRO DE 2026", 1)
+        junta = v.junta_epigrafe_partida(partida)
+        self.assertIn("LEI Nº 7.015, DE 18 DE NOVEMBRO DE 2026\n", junta)
+        self.assertEqual(atos(junta)[0][0]["numero"], "7015")
+        # a citação em caixa mista e a data longe da epígrafe não se juntam
+        texto = "Lei nº 6.964,\nde 26 de agosto de 2026.\nDECRETO Nº 1,\n\nDE 2 DE MAIO DE 2026"
+        self.assertEqual(v.junta_epigrafe_partida(texto), texto)
+
     def test_fecho_com_outra_data_retem(self):
         texto = LEI.replace("Prefeitura do Município de Valinhos,\n18 de novembro de 2026", "Prefeitura do Município de Valinhos,\n17 de novembro de 2026", 1)
         self.assertIn("data do fecho (2026-11-17)", atos(texto)[0][2])
@@ -153,7 +170,8 @@ class Leitura(unittest.TestCase):
         sem_dia = pagina((109.0, "Terça, 1 de junho de 2021 Prefeitura Municipal de Valinhos"), (110.0, "Nº 2.120 - Ano XXXII"))
         self.assertEqual(v.edicao_impressa({1: sem_dia}), ("2120", "2021-06-01"))
         self.assertEqual(v.edicao_impressa({1: pagina((300.0, "Nº 3071 - Ano XXXVII"))}), (None, None))  # fora do título
-        for titulo in ("Nº 2961 Cadeno Dois - Ano XXXVII", "Nº 3004 caderno dois - Ano XXXVII"):  # o caderno dois
+        for titulo in ("Nº 2961 Cadeno Dois - Ano XXXVII", "Nº 3004 caderno dois - Ano XXXVII", "Nº 1827 - Caderno 2 - Ano XXX",
+                       "Nº 1731 - EXTRA - Ano XXX", "Nº 1677 EXTRA - Ano XXIX", "Nº 1709 - EXTRA- Ano XXIX", "Nº 2018 Ano XXXI"):
             capa = pagina((109.0, titulo + " Prefeitura Municipal de Valinhos"), (110.0, "terça-feira, 26 de maio de 2026"))
             self.assertEqual(v.edicao_impressa({1: capa})[0], titulo.split()[1])
 

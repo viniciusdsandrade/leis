@@ -71,6 +71,8 @@ class Leitura(unittest.TestCase):
         sem_extra = {1: pagina((80.0, "Quinta-feira, 01 de Junho de 2023 | ANO 11 Edição 1190 | Distribuição gratuita"),
                                largura=595.3, altura=841.9)}
         self.assertEqual(vi.edicao_impressa(sem_extra), ("1190", "2023-06-01"))
+        extra_sem_hifen = {1: pagina((109.0, "Sexta-feira, 11 de Outubro de 2024 | ANO 11 Edição 1709 Extra | Distribuição gratuita"))}
+        self.assertEqual(vi.edicao_impressa(extra_sem_hifen), ("1709", "2024-10-11"))
         self.assertEqual(vi.edicao_impressa({}), (None, None))
 
     def test_mancha_entre_o_cabecalho_e_o_rodape(self):

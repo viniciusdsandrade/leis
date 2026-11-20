@@ -110,5 +110,17 @@ class Download(unittest.TestCase):
             portal.baixar_pdf(rede, self.BASE, Path(tmp), {"id": "1", "token": "x"})
 
 
+
+class Indice(unittest.TestCase):
+    def test_gravar_indice_soma_ao_que_o_outro_processo_gravou(self):
+        from unittest import mock
+        with tempfile.TemporaryDirectory() as tmp, mock.patch.object(portal, "RAIZ", Path(tmp)):
+            municipio = portal.MUNICIPIOS["valinhos"]
+            portal.gravar_indice(municipio, {"1": {"edicao": "10", "data": "2026-01-02", "pdf": "u1"}})  # o download
+            portal.gravar_indice(municipio, {"2": {"edicao": "11", "data": "2026-01-03", "pdf": "u2"}})  # a leitura
+            portal.gravar_indice(municipio, {})
+            self.assertEqual(sorted(portal.ler_indice(municipio)), ["1", "2"])
+            self.assertEqual(list(Path(tmp).rglob("*.tmp")), [])
+
 if __name__ == "__main__":
     unittest.main()

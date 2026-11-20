@@ -58,7 +58,7 @@ TEXTO_DE_PAGINA_EM_IMAGEM = 300  # caracteres: menos que isto, além do cabeçal
 _MES = base._MES
 _DIA = r"(?:segunda|terça|terca|quarta|quinta|sexta)(?:-feira)?|s[áa]bado|domingo"
 CABECALHO_DA_EDICAO = re.compile(rf"(?:{_DIA}),\s*(\d{{1,2}})\s+de\s+({_MES})\s+de\s+(\d{{4}})\s*\|\s*ANO\s+\d+\s+"
-                                 rf"Edi[çc][ãa]o\s+(\d[\d.]*)(?:\s*-\s*Extra)?\s*\|", re.I)
+                                 rf"Edi[çc][ãa]o\s+(\d[\d.]*)(?:\s*-?\s*Extra)?\s*\|", re.I)  # "Edição 2679 - Extra" ou "Edição 1709 Extra"
 RODAPE_DA_EDICAO = re.compile(r"Boletim Municipal do Munic[íi]pio de Vinhedo|www\.vinhedo\.sp\.gov\.br/diario-oficial/\d+", re.I)
 # a marca de continuação do documento original ("Decreto nº 460/2026 – folha 3"), com o travessão às vezes em outra linha
 FOLHA = re.compile(r"^\s*[–-]?\s*(?:Decreto|Lei(?:\s+Complementar)?|Portaria|Resolu[çc][ãa]o|Edital|Emenda)\s+n[º°o.'’]*\s*"

@@ -19,6 +19,7 @@ Este módulo só lista e guarda as edições: o PDF em `municipais/_fonte/dom-<m
 import argparse
 import html
 import json
+import os
 import re
 import sys
 from dataclasses import dataclass
@@ -212,10 +213,16 @@ def ler_indice(municipio):
     return json.loads(arquivo.read_text(encoding="utf-8")) if arquivo.exists() else {}
 
 
-def gravar_indice(municipio, indice):
+def gravar_indice(municipio, novos):
+    """Acrescenta ao índice em disco as edições `novos` ({id: {edicao, data, pdf}}). Relê o arquivo antes de gravar: o
+    download e a leitura do mesmo município podem rodar juntos, e gravar o índice inteiro de memória apagaria o que o
+    outro processo acrescentou nesse meio-tempo."""
+    if not novos:
+        return
     municipio.cache.mkdir(parents=True, exist_ok=True)
     arquivo = municipio.cache / "edicoes.json"
-    tmp = arquivo.with_suffix(".tmp")
+    indice = {**ler_indice(municipio), **novos}
+    tmp = arquivo.with_suffix(f".{os.getpid()}.tmp")
     tmp.write_text(json.dumps(indice, ensure_ascii=False, indent=1), encoding="utf-8")
     tmp.replace(arquivo)
 
@@ -256,11 +263,9 @@ def baixar_edicoes(chave, de, ate, apesar_do_robots=False, rps=0.5, listar=False
             continue
         contagem["em_cache" if ja else "baixadas"] += 1
         if not ja:
-            indice[edicao["id"]] = {"edicao": edicao["edicao"], "data": edicao["data"], "pdf": edicao["pdf"]}
-            gravar_indice(municipio, indice)
+            gravar_indice(municipio, {edicao["id"]: {"edicao": edicao["edicao"], "data": edicao["data"], "pdf": edicao["pdf"]}})
         if n % 50 == 0:
             print(f"  ... {n}/{len(edicoes)}, edição {edicao['edicao']} ({edicao['data']}): {contagem}", flush=True)
-    gravar_indice(municipio, indice)
     print(json.dumps(contagem, ensure_ascii=False), flush=True)
     return contagem
 
