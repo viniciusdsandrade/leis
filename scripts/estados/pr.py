@@ -210,6 +210,42 @@ def ano_da_epigrafe(epigrafe):
     return m.group(1) if m else None
 
 
+# Epígrafe com o ano de três dígitos, só tentada quando a de quatro não casa ("Decreto 7381 - 19 de Abril de 201")
+EPIGRAFE_ANO_TRUNCADO = re.compile(r"(\d{1,2})[º°]? de (\w+) (?:de )?(\d{3})\b")
+NUMERO_EPIGRAFE = re.compile(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})")
+NUMERO_EPIGRAFE_ANO_TRUNCADO = re.compile(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? de (\w+) (?:de )?(\d{3})\b")
+
+
+def _sem_um_digito(completo, truncado):
+    """O ano truncado é o completo sem um dos dígitos ("2021" -> "201")."""
+    return any(completo[:i] + completo[i + 1:] == truncado for i in range(len(completo)))
+
+
+def data_da_epigrafe(titulo, trecho=""):
+    """Data ISO da epígrafe do ato, ou "" quando não dá para afirmá-la.
+
+    A fonte às vezes perde um dígito do ano no título da página ("Decreto 7381 - 19 de Abril de 201", publicado no
+    Diário Oficial de 19 de abril de 2021). Nesse caso o ano vem da linha "Publicado no Diário Oficial nº. ... de 19 de
+    Abril de 2021" do próprio ato, só quando o dia e o mês da publicação são os da epígrafe e o ano truncado é o da
+    publicação sem um dígito. Fora disso a data fica em branco, como antes, e a auditoria avisa.
+    """
+    m = re.search(r"(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})", titulo) or EPIGRAFE_ANO_TRUNCADO.search(titulo)
+    if not m or sem_acento(m.group(2).lower()) not in MESES:
+        return ""
+    dia, mes, ano = int(m.group(1)), MESES[sem_acento(m.group(2).lower())], m.group(3)
+    if len(ano) == 3:
+        p = re.search(r"Publicado no Di[áa]rio Oficial\b.{0,40}? de (\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})\b", limpar(trecho))
+        if not p or int(p.group(1)) != dia or MESES.get(sem_acento(p.group(2).lower())) != mes \
+                or not _sem_um_digito(p.group(3), ano):
+            return ""
+        ano = p.group(3)
+    try:
+        data = dt.date(int(ano), mes, dia)
+    except ValueError:
+        return ""
+    return "" if data > dt.date.today() else data.isoformat()
+
+
 _LISTADOS = {}  # (codTipoAto, ano) -> codAto que a listagem daquele ano traz
 _LISTADOS_TRAVA = threading.Lock()
 
@@ -318,9 +354,10 @@ def processar(it):
     pasta, nome, prefixo = TIPOS[it["tipo"]]
     url = f"{B}/exibirAto.do?action=iniciarProcesso&codAto={it['codAto']}"  # o mesmo endereço pedido em pagina_do_ato
     epi = it.get("epigrafe") or ""
-    # dia 1º vem com ordinal; às vezes falta o "de" antes do ano ("Decreto 7092 - 16 de agosto 2024")
-    num = re.search(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})", epi)
-    ano = it.get("ano") or (num.group(4) if num else "sem-ano")
+    # dia 1º vem com ordinal; às vezes falta o "de" antes do ano ("Decreto 7092 - 16 de agosto 2024"); o número vale
+    # mesmo quando a fonte perdeu um dígito do ano ("Decreto 7381 - 19 de Abril de 201"), mas esse ano não nomeia pasta
+    num = NUMERO_EPIGRAFE.search(epi) or NUMERO_EPIGRAFE_ANO_TRUNCADO.search(epi)
+    ano = it.get("ano") or (num.group(4) if num and len(num.group(4)) == 4 else "sem-ano")
     numero = num.group(1).replace(".", "") if num else "sn"
     slug = f"{prefixo}-{numero}-{ano}-id{it['codAto']}"
     md, fonte = caminhos(UF, pasta, ano, slug)
@@ -353,17 +390,7 @@ def processar(it):
     corpo = html_para_md(trecho)
     if len(re.sub(r"\W", "", corpo)) < 40:
         return "sem_texto", {"codAto": it["codAto"], "motivo": "texto vazio"}
-    data = ""
-    m = re.search(r"(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})", titulo)
-    mes = sem_acento(m.group(2).lower()) if m else ""
-    if m and mes in MESES:
-        data = f"{m.group(3)}-{MESES[mes]:02d}-{int(m.group(1)):02d}"
-    if data:
-        try:
-            if dt.date.fromisoformat(data) > dt.date.today():
-                data = ""
-        except ValueError:
-            data = ""
+    data = data_da_epigrafe(titulo, trecho)
     meta = [
         ("titulo", titulo),
         ("uf", UF),

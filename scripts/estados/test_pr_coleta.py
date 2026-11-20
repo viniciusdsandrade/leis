@@ -138,6 +138,54 @@ class Recusa(unittest.TestCase):
         self.assertIn("data: 2026-09-01", texto)
         self.assertIn('numero: "23.440"', texto)
 
+    def test_ano_truncado_no_titulo_vem_da_linha_de_publicacao(self):
+        # Recorte do codAto 246891 (20/11/2026): a fonte imprime "201" no título de um decreto de 2021.
+        pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
+        os.makedirs(pasta)
+        html = ("<html><body><h3>Decreto 7381 - 19 de Abril de 201</h3><p>Publicado no Diário Oficial nº. 10917 de 19 de "
+                "Abril de 2021</p><p>DECRETA:</p><p>Art. 1º Fica exonerada, a pedido, a partir de 25 de fevereiro de 2021, a "
+                "servidora.</p></form></body></html>")
+        with open(os.path.join(pasta, "246891.html.gz"), "wb") as f:
+            f.write(gzip.compress(html.encode("utf-8")))
+        it = {"codAto": "246891", "tipo": "11", "ano": "2021", "epigrafe": "Decreto 7381 - 19 de Abril de 201", "ementa": "x"}
+        with patch.object(pr.rede, "get", side_effect=AssertionError("não deveria ir à rede")):
+            self.assertEqual(pr.processar(it), ("ok", None))
+        gravado = os.path.join(self.tmp.name, "PR", "decretos", "2021", "dec-7381-2021-id246891.md")
+        self.assertTrue(os.path.exists(gravado), os.listdir(os.path.join(self.tmp.name, "PR", "decretos", "2021")))
+        with open(gravado, encoding="utf-8") as f:
+            texto = f.read()
+        self.assertIn("data: 2021-04-19", texto)
+        self.assertIn('numero: "7381"', texto)
+        self.assertIn('titulo: "Decreto 7381 - 19 de Abril de 201"', texto)  # o título fica como a fonte o imprime
+
+    def test_ano_truncado_sem_publicacao_coerente_fica_sem_data(self):
+        titulo = "Decreto 7381 - 19 de Abril de 201"
+        self.assertEqual(pr.data_da_epigrafe(titulo, "<p>Publicado no Diário Oficial nº. 10917 de 19 de Abril de 2021</p>"),
+                         "2021-04-19")
+        self.assertEqual(pr.data_da_epigrafe("Decreto 6270 - 25 de Novembro de 200",
+                                             "<p>Publicado no Diário Oficial nº. 10818 de 25 de Novembro de 2020</p>"),
+                         "2020-11-25")
+        self.assertEqual(pr.data_da_epigrafe("Decreto 10655 - 1 de Abril de 202",
+                                             "<p>Publicado no Diário Oficial nº. 11149 de 1 de Abril de 2022</p>"),
+                         "2022-04-01")
+        sem_data = {
+            "sem linha de publicação": "<p>Art. 1º Fica exonerada a partir de 19 de abril de 2021.</p>",
+            "dia diferente": "<p>Publicado no Diário Oficial nº. 10917 de 20 de Abril de 2021</p>",
+            "mês diferente": "<p>Publicado no Diário Oficial nº. 10917 de 19 de Maio de 2021</p>",
+            "ano que não é o truncado": "<p>Publicado no Diário Oficial nº. 10917 de 19 de Abril de 2023</p>",
+            "data longe da linha": "<p>Publicado no Diário Oficial nº. 10917.</p><p>" + "x " * 40 + "de 19 de Abril de 2021</p>",
+        }
+        for caso, trecho in sem_data.items():
+            with self.subTest(caso):
+                self.assertEqual(pr.data_da_epigrafe(titulo, trecho), "")
+
+    def test_epigrafe_de_quatro_digitos_nao_depende_da_publicacao(self):
+        self.assertEqual(pr.data_da_epigrafe("Lei 4057 - 28 de Agôsto de 1959"), "1959-08-28")
+        self.assertEqual(pr.data_da_epigrafe("Decreto 12323 - 18 de Dezembro de 2025 - REPUBLICADO",
+                                             "<p>Publicado no Diário Oficial nº. 1 de 2 de Janeiro de 2026</p>"), "2025-12-18")
+        self.assertEqual(pr.data_da_epigrafe("Decreto 1 - 31 de Fevereiro de 2021"), "")
+        self.assertEqual(pr.data_da_epigrafe("Decreto 1 - 1 de Janeiro de 2999"), "")
+
     def test_lei_com_anexos_em_pdf_fica_fora_com_motivo(self):
         pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
         os.makedirs(pasta)
