@@ -253,4 +253,44 @@ class ObjetoAtualBibliografico(unittest.TestCase):
   for expr in ['Fica aprovada a relação que a este acompanha.', 'Ficam aprovadas as tabelas que a êste acompanham.']:
    self.check_current(expr)
 
+# Decretos do Império e da Primeira República (normas.leg.br, 20/11/2026), recortados.
+IMPERIO=('**DECRETO N. 10.199 - DE 9 DE MARÇO DE 1889**\n\n***Manda executar a Tarifa especial, integral, das Alfandegas da Provincia de S. Pedro do Rio Grande do Sul.***\n\n'
+ 'Usando da autorisação, concedida no art. 2º, n. 12, da Lei n. 3396 de 24 de Novembro de 1888, Hei por bem Decretar:\n\n'
+ '**Art. 1º** As mercadorias mencionadas na Tarifa que acompanha este Decreto, e que forem despachadas, para consumo, nas Alfandegas do Rio Grande, Porto Alegre e Uruguayana, pagarão os direitos estabelecidos na mesma Tarifa.\n\n'
+ '**Art. 2º** Continuam em vigor nas referidas Alfandegas as demais disposições dos Regulamentos Fiscaes.\n\n'
+ 'João Alfredo Corrêa de Oliveira, Conselheiro de Estado, Presidente do Conselho de Ministros, assim o tenha entendido e faça executar. Palacio do Rio de Janeiro aos 9 de Março de 1889, 68º da Independencia e do Imperio.\n\n'
+ 'Com a rubrica de Sua Magestade o Imperador.\n\nJoão Alfredo Corrêa de Oliveira.')
+class FechoHistorico(unittest.TestCase):
+ def test_fecho_imperial_no_bloco_do_ministro_retem_tarifa_ausente(self):
+  r=gate(IMPERIO,P)
+  self.assertIsNotNone(r)
+  self.assertEqual(r['estado'],'ausencia_na_transcricao')
+ def test_fecho_imperial_com_a_tarifa_reproduzida_nao_retem(self):
+  self.assertIsNone(gate(IMPERIO+'\n\nTarifa especial das Alfandegas da Provincia de S. Pedro do Rio Grande do Sul\n\nAlgodão em rama, kilogramma, 0$080',P))
+ def test_data_sem_marca_da_era_nao_e_fecho(self):
+  self.assertIsNone(gate(IMPERIO.replace(', 68º da Independencia e do Imperio',''),P))
+ def test_clausulas_que_a_este_acompanham_reproduzidas_nao_retem(self):
+  text=('DECRETO N. 12.155 – DE 2 DE AGOSTO DE 1916\n\nConcede autorização a The Oversea Company of Brazil, Limited, para funccionar na Republica\n\n'
+   'O Presidente da Republica dos Estados Unidos do Brazil, attendendo ao que requereu a sociedade anonyma,\n\ndecreta:\n\n'
+   '**Artigo unico.** E’ concedida autorização a The Oversea Company of Brazil Limited, para funccionar na Republica mediante as clausulas que a este acompanham.\n\n'
+   'Rio de Janeiro 2 de agosto de 1916, 95º da Independencia a 28º da Republica.\n\nWenceslau Braz P. Gomes.\n\nJosé Rufino Beserra Cavalcanti.\n\n'
+   'Clausulas que acompanham o decreto n. 12.155, desta data\n\nI\n\nThe Oversea Company of Brazil, Limited, é obrigada a ter um representante geral no Brazil com plenos e illimitados poderes.')
+  self.assertIsNone(gate(text,P))
+ def test_annexo_de_outro_ato_nao_retem(self):
+  text=('DECRETO N. 2303 – DE 2 DE JULHO DE 1896\n\nAbre ao Ministerio da Fazenda o credito supplementar de 600:000$.\n\n'
+   'O Presidente da Republica, de accordo com o art. 35 do regulamento annexo ao decreto n. 1166 de 17 de dezembro de 1892,\n\ndecreta:\n\n'
+   '**Art. 1º** Fica aberto o credito supplementar de seiscentos contos de réis, de accordo com a tabella annexa ao referido orçamento.\n\n'
+   '**Art. 2º** Ficam revogadas as disposições em contrario.\n\nCapital Federal, 2 de julho de 1896, 8º da Republica.\n\nPrudente J. DE Moraes Barros.\n\nFrancisco de Paula Rodrigues Alves.')
+  self.assertIsNone(gate(text,P))
+ def test_grafia_antiga_approvado_regulamento_que_acompanha_retem(self):
+  text=('DECRETO N. 1.363 – DE 13 DE JANEIRO DE 1937\n\nExtende á Caixa de Pensões dos Empregados da Casa da Moeda o regimen do decreto n. 20.465 e approva o respectivo regulamento\n\n'
+   'O Presidente da Republica resolve:\n\n**Art. 1º** E’ extensivo á Caixa de Pensões o regimen do decreto n. 20.465, de 1 de outubro de 1931, e approvado o regulamento que ao presente decreto acompanha.\n\n'
+   '**Art. 2º** Ficam revogadas as disposições em contrario.\n\nRio de Janeiro, 13 de janeiro de 1937, 116º da Independencia e 49º da Republica.\n\nGetulio Vargas.\n\nAgamemnon Magalhães.')
+  self.assertIsNotNone(gate(text,P))
+ def test_grafia_antiga_quadro_annexo_ao_presente_decreto_retem(self):
+  text=('DECRETO N. 18.093 – DE 9 DE FEVEREIRO DE 1928\n\nO Presidente da Republica decreta:\n\n'
+   '**Art. 1º** Os serviços serão distribuidos conforme o quadro annexo ao presente decreto.\n\n**Art. 2º** Revogam-se as disposições em contrario.\n\n'
+   'Rio de Janeiro, 9 de fevereiro de 1928, 107º da Independencia e 40º da Republica.\n\nWASHINGTON LUIS P. DE SOUSA.\n\nArnaldo Siqueira Pinto da Luz.')
+  self.assertIsNotNone(gate(text,P))
+
 if __name__=='__main__':unittest.main()

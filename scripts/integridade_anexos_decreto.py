@@ -14,6 +14,15 @@ def normal(text):
                    if not unicodedata.combining(c))
 
 
+# Fecho dos decretos do Império e da Primeira República, que nem sempre abre o bloco: vem depois da ordem de execução,
+# no bloco do ministro ("... assim o tenha entendido e faça executar. Palacio do Rio de Janeiro aos 9 de Março de 1889,
+# 68º da Independencia e do Imperio."). Só vale com a marca da era logo depois da data, que a data citada no corpo não tem.
+FECHO_HISTORICO = re.compile(
+    r'(?:^|[.;:]\s+)(?:palacio do rio de janeiro|palacio do governo provisorio|sala das sessoes do governo provisorio'
+    r'|palacio de petropolis|petropolis|capital federal|rio de janeiro)[,.;\s]+(?:em\s+|aos?\s+)?'
+    r'\d{1,2}[º°o]?\s+de\s+[a-z]+\s+de\s+\d{4}[,.;\s]+\d+\s*[º°o]?\s+da\s+(?:independencia|republica)\b')
+
+
 def _limpar(corpo):
     text = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', corpo)
     text = re.sub(r'<a\b[^>]*>(.*?)</a>', r'\1', text, flags=re.I | re.S)
@@ -172,6 +181,10 @@ def _anexo_proprio_ausente_guard56(corpo, parsed):
                         'estado': 'ausencia_na_transcricao'}
     fechamento = next((i for i, b in enumerate(blocks)
                         if re.match(r'^(?:brasilia|rio de janeiro|capital federal)(?:[-,\s]+d\.?f\.?)?[,.;\s]+(?:em\s*)?\d', b)), None)
+    corte = None  # fecho histórico no meio do bloco: o que vem antes dele ainda é corpo do decreto
+    if fechamento is None:
+        fechamento, corte = next(((i, m.start()) for i, b in enumerate(blocks)
+                                  for m in [FECHO_HISTORICO.search(b)] if m), (None, None))
     if fechamento is None:
         # A terminal literal placeholder with a bibliographic pointer is not the
         # promised own annex, even when the source omits the presidential date.
@@ -185,22 +198,23 @@ def _anexo_proprio_ausente_guard56(corpo, parsed):
                             'remissao': article, 'lacuna': placeholder[0], 'fecho': None,
                             'estado': 'ausencia_na_transcricao'}
         return None
-    principal = '\n'.join(blocks[:fechamento])
-    explicit = re.search(r'que com est[ea] baixa[m]?|que a est[ea] acompanha|acompanha (?:este|o presente) decreto|anex[oa]s? a este decreto|anex[oa]s? ao presente decreto|anex[oa]s?(?:\s+[ivxlcdm\d]+(?:\s+e\s+[ivxlcdm\d]+)?)?\s+deste decreto', principal)
+    principal = '\n'.join(blocks[:fechamento] + ([blocks[fechamento][:corte]] if corte else []))
+    # "ann?ex" e "ap?provad": a grafia anterior a 1943 ("annexo", "approvado") também designa o objeto próprio.
+    explicit = re.search(r'que com est[ea] baixa[m]?|que a est[ea] acompanha|acompanha (?:este|o presente) decreto|ann?ex[oa]s? a este decreto|ann?ex[oa]s? ao presente decreto|ann?ex[oa]s?(?:\s+[ivxlcdm\d]+(?:\s+e\s+[ivxlcdm\d]+)?)?\s+deste decreto', principal)
     artigos = [(i, b) for i, b in enumerate(blocks[:fechamento])
                if re.match(r'^art(?:igo)?\.?\s*(?:\d|unico)', b)]
     approvals = [(i, b, m) for i, b in artigos
-                     for m in [re.search(r'\b(?:fica[m]?|sao|e)\s+aprovad[oa]s?\b', b)]
+                     for m in [re.search(r'\b(?:fica[m]?|sao|e)\s+ap?provad[oa]s?\b', b)]
                      if m and not re.search(r'\b(?:sera|serao|devera|deverao|ate que|depois|apos|uma vez|quando|elaborado e aprovado|posteriormente)\b', b[:m.end()])]
-    approval = next((a for a in approvals if re.search(r'\banex[oa]s?\b|acompanha|com est[ea] baixa', a[1])), approvals[0] if approvals else None)
+    approval = next((a for a in approvals if re.search(r'\bann?ex[oa]s?\b|acompanha|com est[ea] baixa', a[1])), approvals[0] if approvals else None)
     remissao = explicit
     document_only = False
     if approval:
         bi, artigo, match = approval
-        own_annex = re.search(r'\banex[oa]s?\b|que com est[ea] baixa[m]?|acompanha', artigo)
+        own_annex = re.search(r'\bann?ex[oa]s?\b|que com est[ea] baixa[m]?|acompanha', artigo)
         # Approval in the own article establishes the referent of 'na forma dos
         # anexos'. An annex explicitly belonging to another numbered act does not.
-        if own_annex and not re.search(r'anex[oa]s? ao decreto\s+n', artigo):
+        if own_annex and not re.search(r'ann?ex[oa]s? ao decreto\s+n', artigo):
             remissao = own_annex
         promised = re.search(r'a seguir mencionad[oa]s?|a saber', artigo)
         if promised:
