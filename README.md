@@ -18,7 +18,7 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 19/11/2026 eram **1.414.367 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 19/11/2026 eram **1.414.368 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
@@ -26,8 +26,8 @@ são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do 
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 510.442 | 87,7% |
 | 2 | Infralegal e jurisprudência | 780.170 | 76,9% |
-| 3 | Direito municipal | 123.755 | 1,1% |
-| | **Total** | **1.414.367** | |
+| 3 | Direito municipal | 123.756 | 1,1% |
+| | **Total** | **1.414.368** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -221,6 +221,7 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | Paulínia (SP) | Diário Oficial do Município (portal da Prefeitura, PDF nascido digital): leis, decretos e decretos legislativos recortados das edições |
 | Valinhos (SP) | Atos Oficiais, o Diário Oficial do Município (portal da Prefeitura, PDF nascido digital): leis, decretos e decretos legislativos recortados das edições |
 | Vinhedo (SP) | Boletim Municipal, o Diário Oficial do Município (portal da Prefeitura, PDF gerado pelo sistema): leis, decretos e decretos legislativos publicados em texto; os reproduzidos como imagem do documento assinado ficam fora |
+| Jarinu (SP) | SAPL da Câmara Municipal (API REST): só as normas com PDF nascido digital, sem imagem embutida e com o texto integral conferido no fechamento do SAPL |
 | Municípios com SAPL | SAPL das câmaras, para leis orgânicas e emendas |
 | Salvador (BA) | Diário Oficial do Município e Diário Oficial do Legislativo (Dioly) |
 | Rio de Janeiro (RJ) | Câmara Municipal do Rio de Janeiro |
@@ -260,6 +261,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | **Paulínia**: 702 atos de 2012 a 2026 no recorte do Diário Oficial (Semanário Oficial até agosto de 2020) | retidos por integridade em [`municipais/SP/paulinia/_falhas.jsonl`](municipais/SP/paulinia/_falhas.jsonl) (anexo depois das assinaturas, quadro lido como prosa ou fora de ordem, falta de assinatura, data do fecho diferente da epígrafe), mais 33 republicações a conferir; 11 edições ficam fora porque o número impresso no PDF não é o da listagem do portal (nº 968, 1029, 1052, 1184, 1272, 1988, 2086, 2262, 2353, 2657 e 2755). Nas nº 937 a 945, de janeiro e fevereiro de 2012, o número e a data só estão na capa, em imagem: a identidade dessas edições foi conferida por OCR da capa, com número e data iguais aos da listagem |
 | **Valinhos**: 51 atos de 2026 no recorte dos Atos Oficiais | retidos por integridade em [`municipais/SP/valinhos/_falhas.jsonl`](municipais/SP/valinhos/_falhas.jsonl) (republicação ou citação de ato antigo, quadro lido como prosa, anexo depois das assinaturas, epígrafe repetida, fórmula de promulgação ausente), mais 2 republicações a conferir; 3 edições ficam fora porque o número impresso no PDF não é o da listagem (nº 2972, 2975 e o caderno dois da 3027), e a nº 3072, postada em 19/11/2026, ainda não foi baixada. Por enquanto, só 2026: as edições de 2017 a 2025, no mesmo leiaute, estão sendo baixadas, e as de 2006 a 2016, jornal com notícias e atos, ficam fora do leiaute lido |
 | **Vinhedo**: 262 atos de 2026 no recorte do Boletim Municipal | retidos em [`municipais/SP/vinhedo/_falhas.jsonl`](municipais/SP/vinhedo/_falhas.jsonl): 33 porque a página reproduz o documento escaneado, cujo texto é OCR da origem, e os demais por integridade (falta de assinatura ou de artigo, texto depois das assinaturas, numeração fora de sequência), em boa parte também documentos escaneados; 158 edições têm páginas em imagem sem texto, cujos atos não são lidos. Por enquanto, só 2026: as edições anteriores do Boletim gerado pelo sistema estão sendo baixadas, e as do jornal composto no InDesign ficam fora do leiaute lido |
+| **Jarinu**: 420 das 421 normas coletadas do SAPL da Câmara | retidas no fechamento do SAPL (`auditar_integralidade_pdf_sapl.py` e `auditar_imagens_pdf_sapl.py`): as de 1995 a 2020 são PDFs escaneados com o OCR da origem embutido e não entram como nascidas digitais (200 com imagem de página inteira, 106 com texto que diverge do PDF); as de 2021 a 2026, nascidas digitais, não passam no confronto integral porque o coletor descarta o timbre e o carimbo 1Doc da margem, que o confronto não desconta (110), e 4 têm imagem a revisar. Entra só a Resolução nº 2/2019 |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
 ### Pendências das fontes estaduais
