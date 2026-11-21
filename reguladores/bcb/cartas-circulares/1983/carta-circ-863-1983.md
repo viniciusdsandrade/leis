@@ -1,0 +1,147 @@
+---
+titulo: "Carta Circular nº 863, de 25 de março de 1983"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "863"
+data: 1983-03-25
+ementa: "ALTERA NORMAS SOBRE O ENCAMINHAMENTO, PELOS BANCOS DE INVESTIMENTO, AO BCB, DE MAPA CONTENDO A PROGRAMACAO DO CRESCIMENTO DE SUAS OPERACOES."
+situacao: "revogado"
+revogada: true
+versao_texto: "original: PDF da versão original (v1) no portal de normativos do Banco Central do Brasil, sem as alterações posteriores; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=863"
+fonte_texto: "https://www.bcb.gov.br/pre/normativos/c_circ/1983/pdf/c_circ_0863_v1_o.pdf"
+sha256_fonte: "c114ed7e6298ad1a18268d0c69df96dd825db113537a005a1e64d32b4b8454c0"
+baixado_em: 2026-11-21
+---
+# Carta Circular nº 863, de 25 de março de 1983
+
+CARTA-CIRCULAR Nº 863 Aos Bancos de Investimento Comunicamos que, de acordo com o disposto no item 2 da Circular nº 768, de 24.03.83, deverá ser encaminhado ao Banco Central/Departamento de Fiscalização do Mercado de Capitais, até o dia 30.03.83, o anexo mapa, contendo a programação do crescimento das operações para o segundo trimestre de 1983. 2. Aludido documento poderá ser entregue diretamente aos Departamentos Regionais onde se situar a sede da instituição informante. 3. O acompanhamento das operações de que se trata será efetuado, concomitantemente, pelo saldo apurado nos balancetes mensais e em cada sexta-feira, mediante informação prestada, até a terça-feira seguinte, em documento subscrito pelo diretor responsável, observada a forma de calculo prevista no mapa apenso. 4. Fica revogada a Carta-Circular nº 845, de 27.01.83. Brasília (DF), 25 de março de 1983. DEPARTAMENTO DE FISCALIZAÇÃO DO MERCADO DE CAPITAIS Deli Borges CHEFE Este texto não substitui o publicado no DOU e no Sisbacen.
+
+Carta-Circular nº 863 de 25 de março de 1983
+
+TÍTULO: DISPOSIÇÕES TRANSITÓRIAS – 29
+
+CAPÍTULO: Cartas-Circulares Não Codificadas – 3
+
+SEÇÃO:
+
+ANEXO I BANCOS DE INVESTIMENTO – APLICAÇÕES RES. 805/CIRC. CADOC 1570
+
+INSTITUIÇÃO DATA
+
+Cr$ Milhões RUBRICAS Nº PROGRAMAÇÃO
+
+DEZ/82 ABR/83 MAIO/83 JUN/83
+
+1.1.10.03.00-6 FINANCIAMENTOS PARA CAPITAL 01 FIXO
+
+1.1.10.06.00-3 FINANCIAMENTOS PARA CAPITAL DE 02 MOVIMENTO
+
+1.1.10.18.00-8 FINANCIAMENTOS RURAIS 03
+
+1.1.10.21.00-2 FINANCIAMENTOS DE 04 EMPREENDIMENTOS IMOBILIÁRIOS
+
+1.1.10.24.00-9 FINANCIAMENTOS HIPOTECÁRIOS 05
+
+1.1.10.27.00-6 FINANCIAMENTOS A PROFISSIONAIS 06 AUTÔNOMOS
+
+1.1.10.30.00-7 FINANCIAMENTOS POR 08 ANTECIPAÇÃO DE RECEITAS ORÇAMENTÁRIAS
+
+1.1.10.98.00-4 OUTROS FINANCIAMENTOS 09
+
+1.1.20.15.00-0 REPASSES DE RECURSOS DE 10 OPERAÇÕES DETERMINADAS
+
+1.1.25.03.00-0 ARRENDAMENTOS A RECEBER – 11 RECURSOS INTERNOS
+
+1.1.40.03.06-5 BANCO CENTRAL-CONTA DE 12 DEPÓSITOS DE RECOLHIMENTOS AO FUNAGRI
+
+1.1.50.21.00-8 DIREITOS POR CESSÃO DE CRÉDITOS 13
+
+TÍTULOS E VALORES MOBILIÁRIOS 14 – (ITEM 3 DA CIRCULAR)
+
+IOF DE 1983 (SALDO DA CONTA 15 ( ) ( ) ( ) ( ) ACUMULADO, MÊS A MÊS)
+
+SALDO DAS OPERAÇÕES 16 ( ) ( ) ( ) ( )
+
+AUTORIZADAS EXTRALIMITE (VALOR BRUTO)
+
+SALDO DAS OPERAÇÕES C/PEQUENAS 17 ( ( ( ( ) E MÉDIAS EMPRESAS (RESOLUÇÃO ) ) ) 803)
+
+TOTAL DAS APLICAÇÕES EM CRUZEIROS (\*) 18
+
+CRESCIMENTO PERCENTUAL DO TOTAL DO MÊS 19 SOBRE O TOTAL DE DEZ/82
+
+(\*) Os valores de Dez/82 deverão ser a soma do limite teórico com o IOF acumulado de 1981/82
+
+ASSINATURA TELEFONE
+
+NOME CARGO
+
+ANEXO II BANCOS DE INVESTIMENTO — APLICAÇÕES RES. 805 /CIRC. Informação Semanal CADOC 1570
+
+INSTITUIÇÃO DATA-BASE
+
+RUBRICAS Nº Cr$ Milhões
+
+1.1.10.03.00-6 FINANCIAMENTOS PARA CAPITAL FIXO 01
+
+1.1.10.06.00-3 FINANCIAMENTOS PARA CAPITAL DE 02 MOVIMENTO
+
+1.1.10.18.00-8 FINANCIAMENTOS RURAIS 03
+
+1.1.10.21.00-2 FINANCIAMENTOS DE 04 EMPREENDIMENTOS IMOBILIÁRIOS
+
+1.1.10.24.00-9 FINANCIAMENTOS HIPOTECÁRIOS 05
+
+1.1.10.27.00-6 FINANCIAMENTOS A PROFISSIONAIS 06 AUTÔNOMOS
+
+1.1.10.30.00-0 FINANCIAMENTOS AO SETOR PÚBLICO 07
+
+1.1.10.33.00-7 FINANCIAMENTOS POR ANTECIPAÇÃO 08 DE RECEITAS ORÇAMENTÁRIAS
+
+1.1.10.98.00-4 OUTROS FINANCIAMENTOS 09
+
+1.1.20.15.00-0 REPASSES DE RECURSOS DE OPERAÇÕES 10 DETERMINADAS
+
+1.1.25.03.00-0 ARRENDAMENTOS A RECEBER – 11 RECURSOS INTERNOS
+
+1.1.40.03.06-5 BANCO CENTRAL – CONTA DE 12 DEPÓSITOS – DE RECOLHIMENTOS AO FUNAGRI
+
+1.1.50.21.00-8 DIREITOS POR CESSÃO DE CRÉDITOS 13
+
+TÍTULOS E VALORES MOBILIÁRIOS (ITEM 14 3 DA CIRCULAR)
+
+IOF DE 1983 (SALDO DA CONTA 15 ( ) ACUMULADO, MÊS A MÊS, ATÉ A DATA- BASE)
+
+SALDO DAS OPERAÇÕES AUTORIZADAS 16 ( ) EXTRALIMITE (VALOR BRUTO – DISCRIMINAÇÃO NO VERSO)
+
+SALDO DAS OPERAÇÕES C/ PEQUENAS E 17 ( ) MÉDIAS EMPRESAS (RESOLUÇÃO 803)
+
+TOTAL SOB LIMITE (01 + ... + 14) – (15 + 16 + 17) 18
+
+VALOR-BASE (DEZEMBRO/82) 19
+
+CRESCIMENTO PERCENTUAL {(18/19) - 1} x 100 20
+
+APLICAÇÕES EM DEBÊNTURES (RESOLUÇÃO 756) 21
+
+DEBÊNTURES CONVERSÍVEIS ADQUIRIDAS NA FORMA 22 DO § 1º DO ART. 57 DA LEI 6.404/76
+
+TOTAL SOB LIMITE (21-22) 23
+
+LIMITE PARA APLICAÇÕES EM DEBÊNTURES (15% 24 SOBRE ITEM 18)
+
+MARGEM (EXCESSO) (24-23) 25
+
+ASSINATURA TELEFONE
+
+NOME CARGO
+
+OPERAÇÕES EXTRALIMITE (VALORES EM Cr$ MILHÕES)
+
+AUTORIZAÇÕES OPERAÇÕES CONTRATADAS
+
+VALOR PRINCIPAL ENCARGOS VALOR VENCIMENTO EXPEDIENTE BC (A) (B) BRUTO MUTUÁRIO (A + B)
+
+NÚMERO DATA

@@ -1,0 +1,391 @@
+---
+titulo: "Carta Circular nº 715, de 25 de janeiro de 1982"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "715"
+data: 1982-01-25
+ementa: "Altera o MCR."
+situacao: "revogado"
+revogada: true
+versao_texto: "original: PDF da versão original (v1) no portal de normativos do Banco Central do Brasil, sem as alterações posteriores; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=715"
+fonte_texto: "https://www.bcb.gov.br/pre/normativos/c_circ/1982/pdf/c_circ_0715_v1_o.pdf"
+sha256_fonte: "8f0ee78dfa15be110c89ecf428479c0a7a3adbf4fce835d73134cc65e02cbbf4"
+baixado_em: 2026-11-21
+---
+# Carta Circular nº 715, de 25 de janeiro de 1982
+
+CARTA-CIRCULAR Nº 715 Às Instituições Financeiras do Sistema Nacional de Crédito Rural MCR 9 e 11 - CRÉDITOS DE CUSTEIO E COMERCIALIZAÇÃO - De conformida de com decisão do Conselho Monetário Nacional, comunicamos que foram aprovados:
+
+a) valores básicos de custeio (VBC) para alho nobre, alho precoce, amendoim, batata-semente, feijão, feijão irrigado, girassol, se mente híbrida de sorgo, sorgo e trigo de sequeiro;
+
+b) preços mínimos para semente de cebola, semente de feijão e uva destinada a fins industriais. 2. Em conseqüência, anexamos as folhas necessárias à atualização do MCR. Brasília (DF), 25 de janeiro de 1982. DEPARTAMENTO DO CRÉDITO RURAL Geraldo Martins Teixeira CHEFE Este texto não substitui o publicado no DOU e no Sisbacen.
+
+VALOR BÁSICO DE CUSTEIO — VBC
+
+FAIXAS DE PRODUTIVIDADE — Kg/ha
+
+REGIÕES NORTE, CENTRO-OESTE, SUL E SUDESTE
+
+e os ESTADOS DO MARANHÃO. PIAUÍ E BAHIA — SAFRA 1981/82 FAIXAS DE PRODUTIVIDADE
+
+PRODUTO 1 2 3 4 5 6 7 8
+
+ALGODÃO HERBÁCEO DE - 1.001 1.201 1.401 1.601 Acima de
+
+ATÉ 1.000 1.200 1.400 1.600 1.800 1.800
+
+ALHO NOBRE (1) DE - 3.501 4.501 5.501 Acima de
+
+ATÉ 3.500 4.500 5.500 6.500 6.500
+
+ALHO PRECOCE (1) DE - 2.501 3.501 3.501 Acima de
+
+ATÉ 2.500 3.500 4.500 4.500 5.500
+
+AMENDOIM DE - 1.401 Acima de
+
+ATÉ 1.400 2.300 2.300
+
+ARROZ IRRIGADO DE - 2.801 3.401 Acima de
+
+ATÉ 2.800 3.400 4.000 4.000
+
+ARROZ SEQUEIRO DE - 1.001 1.301 Acima de
+
+ATÉ 1.000 1.300 1.600 1.600
+
+AVEIA DE - 1.001 1.401 Acima de
+
+ATÉ 1000 1.400 1.800 1.800
+
+BATATA SEMENTE (1) DE - 12.001 15.001 Acima de
+
+ATÉ 12.000 15.000 18.000 18.000
+
+CASTANHA DO BRASIL DE ÚNICA
+
+ATÉ
+
+CASTANHA DE CAJU (1) DE - Acima de
+
+ATÉ 800 800
+
+CASULO VERDE DE única
+
+ATÉ
+
+CENTEIO DE - 1.201 Acima de
+
+ATÉ 1.200 1.600 1.600
+
+CEVADA DE - 1.201 1.601 Acima de
+
+ATÉ 1.200 1.600 2.000 2.000
+
+CERA DE CARNAÚBA (1) DE ÚNICA
+
+ATÉ
+
+FEIJÃO DA SECA DE - 401 601 Acima de
+
+ATÉ 400 600 800 1.000
+
+FEIJÃO IRRIGADO DE - 1.801 Acuna de
+
+ATÉ 1.8000 2.200 2.200
+
+GIRASSOL DE -
+
+ATÉ 1.800
+
+GUARANÁ DE - Acuna de
+
+ATÉ 200 200
+
+JUTA/MALVA DE - 1.001 Acima de
+
+ATÉ 1,000 1.300 1.300
+
+MAMONA (1º ano) DE - 901 1.401 Acima de
+
+ATÉ 900 1.400 1.900 1.900
+
+MAMONA (2º ano) DE - 901 Acima de
+
+ATÉ 900 1.400 1.400
+
+Mandioca DE - 10.001 15.001 20.001 Acima de
+
+ATÉ 10.000 15.000 20.000 25.000 25.000
+
+Menta DE - Acima de
+
+ATÉ 80 80
+
+VALOR BÁSICO DE CUSTEIO — VBC FAIXAS DE PRODUTIVIDADE — Kg/ha REGIÕES NORTE, CENTRO-OESTE, SUL E SUDESTE E OS ESTADOS DO MARANHÃO, PIAUÍ E BAHIA — SAFRA 1981/82
+
+FAIXAS DE PRODUTIVIDADE PRODUTOS 1 2 3 4 5 6 7 8 9 MILHO DE - 901 1.301 1.701 2.101 2.501 3.001 3.501 Acima de ATÉ 900 1.300 1.700 2.100 2.500 3.000 3.500 4.000 4.000 RAMI DE - 2.001 Acima de ATÉ 2.000 3.000 3.000 SEMENTE HÍBRIDA DE - Acima de DE SORGO ATÉ 2.000 2.000 SISAL (1) DE - Acima de ATÉ 660 660 SOJA DE - 1.251 1.501 1.751 Acima de ATÉ 1.250 1.500 1.750 2.000 2.000 SORGO DE - 2.001 Acima de ATÉ 2000 3.000 3.000 TRIGO MOURISCO DE ÚNIC OU SARRACENO ATÉ A TRIGO SEQUEIRO (2) DE - 1.201 1501 Acima de ATÉ 12000 1.500 1.800 1.800
+
+(1) VÁLIDO PARA TODO O TERRITÓRIO NACIONAL
+
+(2) VÁLIDO PARA OS ESTADOS DE MG, GO, DF,MT,MS e BA
+
+VALOR BÁSICO DE CUSTEIO — VBC PROJEÇÃO DE DESEMBOLSOS — Cr$/ha REGIÕES NORTE, CENTRO-OESTE, SUL e SUDESTE E os ESTADOS DO MARANHÃO, PIAUÍ E BAHIA — SAFRA 1981/82 FAIXAS DE PRODUTIVIDADE
+
+PRODUTOS 1 2 3 4 5 6 7 8 9
+
+ALGODÃO HERBÁCEO 38.100,00 43.800,00 54.300,00 60.900,00 69.900,00 76.200,00
+
+ALHO NOBRE (1) 268.900,00 327.200,00 381.700,00 449.900,00 474.700,00
+
+ALHO PRECOCE 145.800,00 189.400,00 230.800,00 257.400,00 305.300,00
+
+AMENDOIM 24.600,00 47.900,00 51.600,00
+
+ARROZ IRRIGADO
+
+- em irrigação mecânica 40.100,00 47.300.00 56.400,00 64.100,00
+
+- em irrigação natural 33.400,00 38.200,00 45.200,00 50.100,00
+
+-ARROZ SEQUEIRO
+
+- ― em toco‖ 9.500,00 12.600,00 14.200,00 15.100,00
+
+- Região SUDAM 12.800,00 17.600,00 22.700,00 28.700,00
+
+- DEMAIS REGIÕES 12.700,00 16.000,00 20.600,00 26.100,00
+
+AVEIA 8.300,00 11.300,00 14.900,00 17.500,00
+
+BATATA SEMENTE (1) (6) 483.800,00 567.800,00 641.900,00 653.000,00
+
+CASTANHA DO BRASIL (2) 900,00
+
+CASTANHA DE CAJU (1) 14.100,00 16.200,00
+
+CASULO VERDE 77.600,00
+
+CENTEIO 10.200,00 12.800,00 14.900,00
+
+CERA DE CARNAÚBA (1)(3) 1.900,00
+
+CEVADA 11.800,00 15.100,00 19.700,00 22.100,00
+
+FEIJÃO 10.400,00 22.700,00 25.800,00 34.100,00 40.300,00
+
+FEIJÃO IRRIGADO (6) 48.600,00 58.600,00 65.200,00
+
+GIRASSOL 25.200,00 31.600,00
+
+GUARANÁ 22.000,00 46.400,00
+
+JUTA/MALVA 49.400,00 54.400,00 56.100,00
+
+MAMONA (1º ano) 15.900,00 20.000,00 24.400,00 33.700,00
+
+MAMONA (2ºano) 12.900,00 15.500,00 16.600,00
+
+MANDIOCA 17.800,00 20.500,00 27.900,00 30.800,00 33.800,00
+
+MENTA 21.800,00 44.300,00
+
+MILHO 7.700,00 11.700,00 13.400,00 16.200,00 18.900,00 21.800,00 24.700,00 28.400,00 32.800,00
+
+RAMI 55.700,00 64.500,00 71.800,00
+
+SEMENTE HÍBRICA DE SORGE
+
+(8) 27.800,00 32.800,00
+
+SISAL (1) 13.400,00 16.300,00
+
+SOJA 17.000,00 20.200,00 22.000,00 25.200,00 27.000,00
+
+SORGO (6) 14.300,00 26.600,00 29.700,00
+
+TRIGO MOURISCO OU 15.200,00 SARRACENO
+
+TRIGO SEQUEIRO (5) (7) 27.400,00 33.500,00 38.000,00 43.500,00
+
+UVA COMUM 132.200,00
+
+UVAS VINÍFERAS 154.700,00
+
+(1) — Válido para todo o território nacional (2) — Valor por hectolitro (3) — Valor por 15 kg (4) — Os créditos só podem ser concedidos aos beneficiários que mantiverem o produto plantado no ano anterior. (5) — Válido somente para os Estados de MG, GO, DF, MT, MS e BA (6) — 2ª Safra (secas) — 1981/1982 (7) — Safra 1982 (8) — Válido para as regiões Centro-Oeste, Sul e Sudeste. NOTA — Os valores constantes deste quadro não incluem as despesas de transporte externo, secagem, classificação e beneficiamento do produto, para as quais as normas admitem a concessão de oportuno crédito de pré-comercialização. VALOR BÁSICO DE CUSTEIO — VBC FAIXAS DE PRODUTIVIDADE — Kg/ha REGIÃO NORDESTE E TERRITÓRIOS FEDERAL DE RORAIMA — SAFRA 1982
+
+FAIXAS DE PRODUTIVIDADE
+
+PRODUTO 1 2 3 4 5 6 7 8
+
+ALGODÃO DE — 151 201 2510 301 401 601 801
+
+ATÉ 150 200 250 300 600 800 800 1.100
+
+AMENDOIM DE — 901 1.401 Acima de
+
+ATÉ 900 1.400 2.300 2.300
+
+ARROZ DE — 2.001 3.001 Acima de IRRIGADO ATÉ 2.000 3.000 4.000 4.000
+
+ARROZ DE — 601 1.001 1.301 Acima de SEQUEIRO ATÉ 600 1.000 1.300 1.600 1.600
+
+FEIJÃO DE — 201 301 401 501 701 Acima de ATÉ 200 300 400 500 700 900
+
+FEIJÃO DE — 1.201 Acima de IRRIGADO ATÉ 1.200 1.500 1.500
+
+MAMONA DE — 901 Acima de (1ºano) ATÉ 900 1.400 1.400
+
+MAMONA DE — 901 Acima de (2ºano) ATÉ 9000 1.400 1.400,00
+
+MANDIOCA DE — 2.501 5.001 7.501 10.001 12.501 15.001 20.001
+
+ATÉ 2.500 5.000 7.500 10.000 12.500 15.000 20.000 25.000
+
+MILHO DE — 301 501 701 901 1.201 1..501 Acima de
+
+ATÉ 300 500 700 900 1.200 1.500 1.900 1.900
+
+MILHO DE — 2.501 3.001 Acima de IRRIGADO ATÉ 2.500 3.000 3.500 3.500
+
+SORGO DE — 1.501 2.001 Acima de
+
+ATÉ 1.500 2.000 2.500 2.500
+
+PRODUTOS FAIXAS DE PRODUTIVIDADE
+
+1 2 3 4 5 6 7 8
+
+ALGODÃO DE 1.101 1.401 Acima de
+
+ATÉ 1.400 1.800 1.800
+
+AMENDOIM DE
+
+ATÉ
+
+ARROZ DE IRRIGADO ATÉ
+
+ARROZ DE SEQUEIRO ATÉ
+
+FEIJÃO DE
+
+ATÉ
+
+FEIJÃO DE IRRIGADO ATÉ
+
+MAMONA (1ºano) DE
+
+ATÉ
+
+MAMONA (2º ano) DE
+
+ATÉ
+
+MANDIOCA DE Acima de
+
+ATÉ 25.000
+
+MILHO DE
+
+ATÉ
+
+MILHO DE IRRIGADO ATÉ
+
+SORGO DE
+
+ATÉ
+
+MCR 11 DOCUMENTO Nº. 1
+
+MCR 11-3- COMERCIALIZAÇÃO AGRÍCOLA – PREÇOS MÍNIMOS BÁSICOS – Em Cr$
+
+UNIDADE DE NORTE/NORDESTE SUDESTE/SUL/CENTRO-OESTE
+
+PRODUTOS MEDIDAS SAFRAS PREÇO MÍNIMO UNIDADES DA FEDERAÇÃO SAFRAS PREÇO UNIDADES DA BÁSÍCO MÍNIMO FEDERAÇÃO BÁSICO
+
+ALHO 1 KG 1981/82 118,30 AC,AL,AM,AP,BA,CE,MA,PA,, 1981/82 118,30 DF,ES,GO,MG,MS, CURADO........ PB,PE,PI,RN,RO,RR,,SE MT,PR,RJ,RS,SC,SP
+
+AC,AL,AM,AP,BA,CE,MA, ALHO SECO 1 kg 1981/82 77,60 PA,PB,,PE,PI,RN,RO,RR,SE 1981/82 77,60 DF,,ES,GO,MG,MS, (ALHO MEIA MT,PR,RJ,RS,SC,SP CURA….………….
+
+AVEIA………….. 40kg — — — 1981/72 842,40 DF,,ES,GO,MG,MS, MT,PR,RJ,RS,SC,SP
+
+CENTEIO………… 60 kg — — — 1981/82 1.263,60 DF,,ES,GO,MG,MS, MT,PR,RJ,RS,SC,SP
+
+CERA DE 15 kg 1981/82 1.651,80 AL,BA,CE,MA,PB,PE,PI,RN,SE — — — CARNAÚBA- ago/out/81………..
+
+CEVADA 60 kg — — — 1981/82 1.710,00 DF,,ES,GO,MG,MS, CERVEJEIRA........ MT,PR,RJ,RS,SC,SP
+
+SEMENTE DE ALGODÃO……….
+
+AC,AL,AM,AP,BA,CE,MA, — arbório 1 kg 1981 30,00 — — — fiscalizada………… PA,PB,,PE,PI,RN,RO,RR,SE
+
+AC,AL,AM,AP,BA,CE,MA, — arbóreo 1 kg 1981 32,00 — — — certificada e básica PA,PB,,PE,PI,RN,RO,RR,SE
+
+AC,AL,AM,AP,BA,CE,MA, — herbáceo 1 kg 1981 27,50 — — — fiscalizada PA,PB,,PE,PI,RN,RO,RR,SE
+
+AC,AL,AM,AP,BA,CE,MA, — herbáceo 1 kg 1981 29,50 — — — certtificada e básica PA,PB,,PE,PI,RN,RO,RR,SE
+
+SENEBTE DE 1 kg 1980/81 21,50 BA,RO 1980/81 21,50 DF,,ES,GO,MG,MS, ARRIZ MT,PR,RJ,RS,SC,SP
+
+SEMENTE DE ARROZ…………..
+
+AC,AL,AM,AP,BA,CE,MA, — fiscalizada 1 kg 1981 22,50 — — — PA,PB,,PE,PI,RN,RO,RR,SE
+
+AC,AL,AM,AP,BA,CE,MA, — certificada e 1 kg 1981 25,50 — — — básica PA,PB,,PE,PI,RN,RO,RR,SE
+
+SEMENTE DE CEBOLA................
+
+— certificado…… 1 kg — — — 1981/82 2,500,00 ES,GO,MG,MS,MT, PR,RJ,RS,,SC,SP
+
+— fiscalização…. 1 kg — — — 1981/82 2.260,00 ES,GO,MG,MS,MT, PR,RJ,RS,,SC,SP
+
+SEMENTE DE 1 kg — — — 1981/82 33,51 PR,RS,SC CEVADA CERVEJEIRA
+
+SEMENTE DE FEIJÃO MACAÇAR
+
+AC,AL,AM,AP,BA,CE,MA, —fiscalizada……… 1 kg 1981 67,00 PA,PB,,PE,PI,RN,RO,RR,SE
+
+MCR 11 DOCUMENTO Nº. 1
+
+AC,AL,AM,AP,BA,CE,MA, —certificada……… 1 kg 1981 73,00 — — — PA,PB,,PE,PI,RN,RO,RR,SE
+
+SENEBTE DE FEIJÃO DE CORES BRANCO E PRETO
+
+— fiscalizada…….. 1kg — — — 1981/82 120,00 DF,,ES,GO,MG,MS, MT,PR,RJ,RS,SC,SP
+
+— certificada e 1 kg — — — 1981/82 140,00 DF,,ES,GO,MG,MS, básica…………… MT,PR,RJ,RS,SC,SP
+
+SEMENTE DE 1 kg 1980/81 20,30 BA,PA,RO 1980/81 20,30 ES,GO,MG,MS,MT, MILHO HÍBRIDO PR,RJ,RS,,SC,SP
+
+SEMENTE DE 1kg 1980/81 15,20 BA,PA,RO 1980/81 15,20 ES,GO,MG,MS,MT, MILHO PR,RJ,RS,,SC,SP VARIEDADE…..
+
+SEMENTE DE MILHO
+
+AC,AL,AM,AP,BA,CE,MA, — híbrido 1kg 1981 22,00 — — — fiscalizada…….. PA,PB,,PE,PI,RN,RO,RR,SE
+
+AC,AL,AM,AP,BA,CE,MA, — híbrido 1kg 1981 26,00 — — — certificada e básica PA,PB,,PE,PI,RN,RO,RR,SE
+
+AC,AL,AM,AP,BA,CE,MA, — variedade 1 kg 1981 20,00 — — — fiscalizada……. PA,PB,,PE,PI,RN,RO,RR,SE
+
+AC,AL,AM,AP,BA,CE,MA, — variedade 1kg 1981 23,00 — — — certificada e básica PA,PB,,PE,PI,RN,RO,RR,SE
+
+SEMENTE DE SORGO
+
+AC,AL,AM,AP,BA,CE,MA, — fiscalizada……. 1kg 1981 20,00 — — — PA,PB,,PE,PI,RN,RO,RR,SE
+
+AC,AL,AM,AP,BA,CE,MA, — certificada e 1kg 1981 26,00 — — — básica…………….. PA,PB,,PE,PI,RN,RO,RR,SE
+
+SISAL
+
+— mai/jun/jul-81…. 1kg 1981/82 30,00 AL,BA,CE,PB,PE,RN,SE — — —
+
+— ago/set/out-81…. 1kg 1981/82 33,00 AL,BA,CE,PB,PE,RN,SE — — —
+
+—nov/dez-82-jan-82 1kg 1981/82 37,00 AL,BA,CE,PB,PE,RN,SE — — —
+
+— fev/mar/abr-82… 1kg 1981/82 42,00 AL,BA,CE,PB,PE,RN,SE — — —
+
+UVA......................... 1kg — — — 1982 17,00 MG,PR,RS,SC,SP
