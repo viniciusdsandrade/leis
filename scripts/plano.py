@@ -152,8 +152,11 @@ PLANO = [
          "reguladores/pesca", 600, 2, "Diário Oficial da União (in.gov.br)"),
 
     # ---------------------------------------------------------------------------- Financeiro
-    Item("Infralegal — financeiro", "Banco Central e CMN: resoluções e circulares",
-         "reguladores/bcb", 10200, 2, "Diário Oficial da União (in.gov.br)"),
+    # Meta pelo índice do portal de normativos do BC (20/11/2026, baixar_bcb.py): 4.838 Resoluções (CMN, até 2020), 510
+    # Resoluções CMN, 607 Resoluções BCB, 21 Resoluções Conjuntas, 4.038 Circulares, 4.076 Cartas Circulares e 788
+    # Instruções Normativas BCB, cada número uma vez por tipo. Os Comunicados (44.003) ficam fora.
+    Item("Infralegal — financeiro", "Banco Central e CMN: resoluções, circulares, cartas circulares e instruções normativas",
+         "reguladores/bcb", 14878, 2, "Portal de normativos do Banco Central (API) e Diário Oficial da União"),
     Item("Infralegal — financeiro", "CVM: instruções e resoluções",
          "reguladores/cvm", 500, 2, "Diário Oficial da União (in.gov.br)"),
     Item("Infralegal — financeiro", "SUSEP e CNSP: circulares e resoluções",
