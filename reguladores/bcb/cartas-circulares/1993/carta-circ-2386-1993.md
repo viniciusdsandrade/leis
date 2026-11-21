@@ -1,0 +1,35 @@
+---
+titulo: "Carta Circular nº 2.386, de 29 de julho de 1993"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2386"
+data: 1993-07-29
+ementa: "DIVULGA OS ENCARGOS FINANCEIROS APLICAVEIS AOS FINANCIAMENTOS DO PRONAGRI NO PERIODO DE 01.07.93 A 31.12.93."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2386"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2386"
+sha256_fonte: "0c76b34f0b83b60f82d717040baaa0d8260cd15bef948f409022124058f44101"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.386, de 29 de julho de 1993
+
+CARTA-CIRCULAR N. 002386
+
+DIVULGA OS ENCARGOS FINANCEIROS APLICA- VEIS AOS FINANCIAMENTOS DO PRONAGRI NO PERIODO DE 01.07.93 A 31.12.93.
+
+ART. 1.. COMUNICAMOS QUE AS OPERACOES CONTRATA- DAS A PARTIR DE 01.09.87, COM RECURSOS DO PROGRAMA NACIONAL DE ASSIS- TENCIA A AGROINDUSTRIA - PRONAGRI, FICAM SUJEITAS, NO PERIODO DE 01.07.93 A 31.12.93, A:
+
+I - JUROS DE 7,40% ( SETE INTEIROS E QUARENTA CENTESIMOS POR CENTO) AO ANO;
+
+II - ATUALIZACAO COM BASE NA TAXA REFERENCIAL (TR), OBSERVADA A REGULAMENTACAO APLICAVEL AS OPERACOES ATIVAS E PAS- SIVAS PRATICADAS NO AMBITO DO MERCADO FINANCEIRO BAIXADA PELO BANCO CENTRAL DO BRASIL.
+
+ART. 2.. A REMUNERACAO DA INSTITUICAO FINANCEIRA DEVE SER AGREGADA A TAXA DE JUROS MENCIONADA, OBSERVADOS OS CRITERIOS INDICADOS NO ITEM 3 DO DOCUMENTO N. 14 DO MCA 16.
+
+BRASILIA (DF), 29 DE JULHO DE 1993
+
+DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+SERGIO DARCY DA SILVA ALVES CHEFE

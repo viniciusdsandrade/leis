@@ -1,0 +1,33 @@
+---
+titulo: "Carta Circular nº 2.196, de 9 de agosto de 1991"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2196"
+data: 1991-08-09
+ementa: "ESCLARECE SOBRE A UTILIZACAO DE RECURSOS EM CRUZADOS NOVOS NO PAGAMENTO TOTAL OU PARCIAL DE EMPRESTIMOS PARA CONSTRUCAO DE UNIDADES RESIDENCIAIS."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2196"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2196"
+sha256_fonte: "5a7c9d83efb99881a71cf4bb2e3251a9fcfdfb1e2a4289d91fb9544629bd1cd3"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.196, de 9 de agosto de 1991
+
+CARTA-CIRCULAR N. 002196
+
+AS INSTITUICOES DO SISTEMA FINANCEIRO NACIONAL
+
+ESCLARECE SOBRE A UTILIZACAO DE RECUR- SOS EM CRUZADOS NOVOS NO PAGAMENTO TO- TAL OU PARCIAL DE EMPRESTIMOS PARA CONSTRUCAO DE UNIDADES RESIDENCIAIS.
+
+ART. 1.. ESCLARECEMOS QUE PODERAO SER UTILIZADOS RECURSOS EM CRUZADOS NOVOS NO PAGAMENTO TOTAL OU PARCIAL DE SALDOS DEVEDORES, INCLUSIVE ENCARGOS ACESSORIOS, DE EMPRESTIMOS CONTRAIDOS ATE 29.06.91, JUNTO AOS AGENTES FINANCEIROS DO SISTEMA FINANCEIRO DA HABITACAO, POR EMPRESARIOS DA CONSTRUCAO CIVIL, PARA PRODUCAO DE UNI- DADES RESIDENCIAIS, CONFORME FACULTADO PELO ITEM III DO ART. 9. DA MEDIDA PROVISORIA N. 298, DE 29.07.91.
+
+ART. 2.. ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+BRASILIA (DF), 09 DE AGOSTO DE 1991
+
+DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+SERGIO DARCY DA SILVA ALVES CHEFE

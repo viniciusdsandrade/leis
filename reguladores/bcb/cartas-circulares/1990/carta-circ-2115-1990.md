@@ -1,0 +1,49 @@
+---
+titulo: "Carta Circular nº 2.115, de 5 de outubro de 1990"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2115"
+data: 1990-10-05
+ementa: "Altera constituição do Grupo Consultivo para Assuntos de Compensação."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2115"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2115"
+sha256_fonte: "a3071ef7ecc2daffe57cb85c41106af720eadf9f332376755878fa533cbf8992"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.115, de 5 de outubro de 1990
+
+CARTA-CIRCULAR N. 002115
+
+AS INSTITUICOES FINANCEIRAS PARTICIPANTES DO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS.
+
+ALTERA CONSTITUICAO DO GRUPO CONSULTIVO PARA ASSUNTOS DE COMPENSACAO
+
+COMUNICAMOS QUE O GRUPO CONSULTIVO PARA ASSUNTOS DE COMPENSACAO, COORDENADO PELO EXECUTANTE DO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS, PASSA A SER CONSTITUIDO DA SEGUINTE FOR- MA:
+
+A) REPRESENTANTES INDICADOS PELA FEDERACAO NACIONAL DE BANCOS E FEDE- RACAO BRASILEIRA DAS ASSOCIACOES DE BANCOS - FENABAN/FEBRABAN:
+
+I - UM REPRESENTANTE DA FENABAN/FEBRABAN;
+
+II - DOIS REPRESENTANTES DE BANCOS DE GRANDE PORTE;
+
+III - TRES REPRESENTANTES DE BANCOS DE MEDIO PORTE;
+
+IV - UM REPRESENTANTE DE BANCOS DE PEQUENO PORTE;
+
+B) UM REPRESENTANTE DA ASSOCIACAO BRASILEIRA DE BANCOS COMERCIAIS ES- TADUAIS - ASBACE;
+
+C) UM REPRESENTANTE DA ASSOCIACAO BRASILEIRA DE BANCOS COMERCIAIS E MULTIPLOS - ABBC; E
+
+D) UM REPRESENTANTE DA ASSOCIACAO BRASILEIRA DE BANCOS INTERNACIONAIS - ABBI.
+
+2. FICA REVOGADA A CARTA-CIRCULAR N. 1.226, DE 12.06.85.
+
+BRASILIA (DF), 05 DE OUTUBRO DE 1990.
+
+DEPARTAMENTO DE OPERACOES BANCARIAS
+
+NILTON JUNQUEIRA CHEFE

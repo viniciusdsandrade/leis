@@ -1,0 +1,39 @@
+---
+titulo: "Carta Circular nº 2.302, de 7 de agosto de 1992"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2302"
+data: 1992-08-07
+ementa: "ALTERA O TETO DE FINANCIAMENTO NO SEGMENTO RURAL DO PRODECER II."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2302"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2302"
+sha256_fonte: "b52f98066a7d32c3c24a70880b7057c42e3d52fa88892d9a8a4b7699b5854981"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.302, de 7 de agosto de 1992
+
+CARTA-CIRCULAR N. 002302
+
+ALTERA O TETO DE FINANCIAMENTO NO SEG- MENTO RURAL DO PRODECER II.
+
+ART. 1.. COMUNICAMOS QUE FICA ELEVADO PARA CR! 2.756.000.000,00 (DOIS BILHOES, SETECENTOS E CINQUENTA E SEIS MILHOES DE CRUZEIROS), POR TOMADOR, O TETO DE FINANCIAMENTO AO AMPARO DO SEGMENTO RURAL DO PROGRAMA DE COOPERACAO NIPO-BRASILEIRA PARA O DE- SENVOLVIMENTO DOS CERRADOS (PRODECER II).
+
+ART. 2.. ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA PUBLICACAO, ENCONTRANDO-SE ANEXA A FOLHA NECESSARIA A ATUALIZACAO DO MANUAL DE CREDITO RURAL (MCR).
+
+BRASILIA (DF), 07 DE AGOSTO DE 1992
+
+DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+SERGIO DARCY DA SILVA ALVES CHEFE
+
+ANEXO (SOMENTE ITEM ALTERADO)
+
+TITULO : CREDITO RURAL CAPITULO: PROGRAMAS ESPECIAIS - 8
+
+SECAO : PROGRAMA DE COOPERACAO NIPO-BRASILEIRA PARA O DESENVOLVI- MENTO DOS CERRADOS-SEGUNDA FASE (PRODECER II)-3
+
+........... 11 - OBSERVADO O DISPOSTO NO ITEM SEGUINTE, O TETO DE FINANCIA- MENTO POR CLIENTE E DE CR! 2.756.000.000,00 (DOIS BILHOES, SE- TECENTOS E CINQUENTA E SEIS MILHOES DE CRUZEIROS), NAO SE APLI- CANDO A COOPERATIVAS. ............
