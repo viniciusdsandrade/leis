@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 21/11/2026 01:59:21 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 21/11/2026 02:59:33 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.458.251 documentos · 1.319.089 / ~11.773.477 nas séries com meta (11.2%) · 29.040 sem meta**
+**1.458.386 documentos · 1.319.224 / ~11.773.477 nas séries com meta (11.2%) · 29.040 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-801.299 documentos · 681.458 / ~865.998 nas séries com meta (78.7%) · 16.059 sem meta
+801.434 documentos · 681.593 / ~865.998 nas séries com meta (78.7%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
@@ -146,11 +146,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — meio ambiente
 
-15.370 documentos · 5.414 / ~10.720 nas séries com meta (50.5%) · 0 sem meta
+15.505 documentos · 5.549 / ~10.720 nas séries com meta (51.8%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | CONAMA: resoluções | 134 | 520 | `reguladores/conama` | Diário Oficial da União (in.gov.br) |
+| 🟦 | CONAMA: resoluções | 269 | 520 | `reguladores/conama` | Diário Oficial da União (in.gov.br) |
 | 🟦 | IBAMA: instruções normativas e portarias | 375 | 1.500 | `reguladores/ibama` | Diário Oficial da União (in.gov.br) |
 | ✅ | ICMBio: instruções normativas | 706 | 400 | `reguladores/icmbio` | Diário Oficial da União (in.gov.br) |
 | 🟦 | ANA e CNRH: resoluções | 264 | 3.000 | `reguladores/ana` | Diário Oficial da União (in.gov.br) |
