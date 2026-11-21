@@ -229,16 +229,25 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | Porto Alegre (RS) | SAPL da Procuradoria-Geral do Município e da Câmara |
 | Nova Prata (RS) | Portal Legislativo da Câmara |
 | Uberlândia (MG) | Diário Oficial do Município |
+| Banco Central do Brasil e CMN | Portal de normativos do Banco Central (API): resoluções do CMN e do BC, circulares, cartas circulares e instruções normativas, no texto que o BC mantém, com as alterações incorporadas |
+| CONAMA | Diário Oficial da União a partir de 2017; de 1984 a 2016, o portal do CONAMA (`conama.mma.gov.br`), com a exceção ao `robots.txt` descrita abaixo |
 | CONTRAN e demais reguladores | Diário Oficial da União, Seção 1 |
 
 Cada coletor documenta no cabeçalho a API ou o caminho que usa. Todos limitam a taxa a 1 a 4
 requisições por segundo, são retomáveis (pulam o que já existe) e guardam o original em
-`_fonte/`. **Bloqueios de acesso automatizado não são contornados.** A única exceção registrada são os PDFs do
-Diário Oficial no portal das Prefeituras de Paulínia, Valinhos e Vinhedo, que o `robots.txt` desses portais, conferido
-em novembro de 2026, veda. O mantenedor do acervo autorizou expressamente baixá-los, a uma requisição a cada cinco
-segundos: em Paulínia, as edições de 2012 (17/11/2026); em Valinhos e Vinhedo, todas as edições (18/11/2026,
-confirmada em 19/11/2026). As autorizações ficam em [`scripts/portal_diario_oficial.py`](scripts/portal_diario_oficial.py),
-que recusa a opção `--apesar-do-robots` em qualquer outro município ou ano.
+`_fonte/`. **Bloqueios de acesso automatizado não são contornados.** As exceções registradas são duas, ambas
+autorizadas expressamente pelo mantenedor do acervo, a uma requisição a cada cinco segundos:
+
+- os PDFs do Diário Oficial no portal das Prefeituras de Paulínia, Valinhos e Vinhedo, que o `robots.txt` desses
+  portais, conferido em novembro de 2026, veda: em Paulínia, as edições de 2012 (17/11/2026); em Valinhos e Vinhedo,
+  todas as edições (18/11/2026, confirmada em 19/11/2026). As autorizações ficam em
+  [`scripts/portal_diario_oficial.py`](scripts/portal_diario_oficial.py), que recusa a opção `--apesar-do-robots` em
+  qualquer outro município ou ano;
+- as resoluções do CONAMA de 1984 a 2016 no portal `conama.mma.gov.br`, cujo `robots.txt` traz `Disallow: /`
+  (20/11/2026). Nenhuma fonte oficial sem bloqueio traz o texto delas: o Diário Oficial da União em texto começa em
+  2/1/2017 (antes, só a imagem das páginas), e o acervo do IBAMA veda robôs no `robots.txt` e responde com desafio
+  anti-bot. A autorização fica em [`scripts/baixar_conama.py`](scripts/baixar_conama.py), que exige
+  `--apesar-do-robots` e recusa os anos de 2017 em diante, cobertos pelo DOU.
 
 ---
 
