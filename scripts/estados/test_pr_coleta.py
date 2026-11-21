@@ -194,6 +194,65 @@ class Recusa(unittest.TestCase):
         self.assertEqual(pr.data_da_epigrafe("Decreto 1 - 31 de Fevereiro de 2021"), "")
         self.assertEqual(pr.data_da_epigrafe("Decreto 1 - 1 de Janeiro de 2999"), "")
 
+    def test_epigrafe_sem_hifen_grava_numero_e_data(self):
+        # Recorte do codAto 218355 (21/11/2026): "de" no lugar do hífen entre o número e a data
+        pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
+        os.makedirs(pasta)
+        html = ("<html><body><h3>Decreto 972 de 02 de abril de 2019</h3><p>Publicado no Diário Oficial nº. 10407 de 2 de "
+                "Abril de 2019</p><p>Art. 1º Fica nomeado o servidor para o cargo em comissão.</p></form></body></html>")
+        with open(os.path.join(pasta, "218355.html.gz"), "wb") as f:
+            f.write(gzip.compress(html.encode("utf-8")))
+        it = {"codAto": "218355", "tipo": "11", "ano": "2019", "epigrafe": "Decreto 972 de 02 de abril de 2019", "ementa": "x"}
+        with patch.object(pr.rede, "get", side_effect=AssertionError("não deveria ir à rede")):
+            self.assertEqual(pr.processar(it), ("ok", None))
+        gravado = os.path.join(self.tmp.name, "PR", "decretos", "2019", "dec-972-2019-id218355.md")
+        self.assertTrue(os.path.exists(gravado), os.listdir(os.path.join(self.tmp.name, "PR", "decretos", "2019")))
+        with open(gravado, encoding="utf-8") as f:
+            texto = f.read()
+        self.assertIn('numero: "972"', texto)
+        self.assertIn("data: 2019-04-02", texto)
+
+    def test_numero_de_epigrafe_fora_do_padrao(self):
+        # Formas reais da Casa Civil (21/11/2026), lidas só quando "Número - dia de mês de ano" não casa
+        casos = {
+            "Decreto 972 de 02 de abril de 2019": "972",
+            "Portaria 22 - CCG - 09 de Julho de 2019": "22",
+            "Resolução Conjunta 01 CC/CM - 21 de Fevereiro de 2020": "01",
+            "Resolução CC 1235 - REPUBLICADA - 06 de Junho de 2025": "1235",
+            "Resolução Conjunta 05/2025 CC/PGE/SEFA/SEPL/SEIA - 21 de Maio de 2025": "5",
+            "RESOLUÇÃO CONUNTA CC/SGI Nº 02": "2",
+            "Resolução Conjunta CC / DETRAN N.º 01/2023": "1",
+            "Resolução Conjunta nº 09/2013 - PGE/PARANAPREVIDENCIA - 18 de Fevereiro de 2013": "9",
+            "Resolução Conjunta 001/2018 SEMA/IAP/SEAB/ADAPAR/CC - 12 de Dezembro de 2018": "1",
+            "Resolução Conjunta SOT/SEAB/SEDEST/SETI/SEIC/IDR/IAT/ADAPAR - 001 16/07/2025": "1",
+            "Constituição do Estado do Paraná": "",
+        }
+        for epigrafe, numero in casos.items():
+            with self.subTest(epigrafe):
+                self.assertIsNone(pr.NUMERO_EPIGRAFE.search(epigrafe))
+                self.assertEqual(pr.numero_de_reserva(epigrafe), numero)
+
+    def test_mes_com_codificacao_perdida(self):
+        # codAto 233268: o "ç" de março chega como "ï¿½"
+        self.assertEqual(pr.data_da_epigrafe("Portaria 38 - 26 de Marï¿½o de 2020"), "2020-03-26")
+        self.assertEqual(pr.NUMERO_EPIGRAFE.search(pr.consertar_mes("Portaria 38 - 26 de Marï¿½o de 2020")).group(1), "38")
+
+    def test_data_numerica_ou_do_fecho_quando_a_epigrafe_nao_traz_por_extenso(self):
+        self.assertEqual(pr.data_da_epigrafe("Resolução Conjunta SOT/SEAB/ADAPAR - 001 16/07/2025"), "2025-07-16")
+        publicado = "<p>Publicado no Diário Oficial nº. 11081 de 20 de Dezembro de 2021</p>"
+        # codAto 257959: o fecho tachado também dá a data do ato
+        fecho = "<p><strike>Curitiba, 20 de dezembro de 2021.</strike></p>"
+        self.assertEqual(pr.data_da_epigrafe("RESOLUÇÃO CONUNTA CC/SGI Nº 02", publicado + fecho), "2021-12-20")
+        sem_data = {
+            "sem fecho": publicado,
+            "sem linha de publicação": fecho,
+            "publicação mais de 60 dias depois": publicado + "<p>Curitiba, 1 de setembro de 2021.</p>",
+            "publicação antes do fecho": publicado + "<p>Curitiba, 21 de dezembro de 2021.</p>",
+        }
+        for caso, trecho in sem_data.items():
+            with self.subTest(caso):
+                self.assertEqual(pr.data_da_epigrafe("RESOLUÇÃO CONUNTA CC/SGI Nº 02", trecho), "")
+
     def test_lei_com_anexos_em_pdf_fica_fora_com_motivo(self):
         pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
         os.makedirs(pasta)
