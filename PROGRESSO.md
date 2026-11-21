@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 20/11/2026 21:53:22 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 20/11/2026 22:06:20 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.430.789 documentos · 1.293.493 / ~11.773.477 nas séries com meta (11.0%) · 29.040 sem meta**
+**1.431.932 documentos · 1.294.636 / ~11.773.477 nas séries com meta (11.0%) · 29.040 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -14,7 +14,7 @@ Há 7.639 pendências de integralidade registradas em [registro auditável](scri
 
 Planalto, Senado, Câmara e assembleias.
 
-510.442 documentos · 504.102 / ~574.766 nas séries com meta (87.7%) · 0 sem meta
+511.585 documentos · 505.245 / ~574.766 nas séries com meta (87.9%) · 0 sem meta
 
 ### Constituição Federal
 
@@ -53,11 +53,11 @@ Planalto, Senado, Câmara e assembleias.
 
 ### Decretos do Executivo federal
 
-117.949 / ~153.657 documentos (76.8%)
+119.092 / ~153.657 documentos (77.5%)
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Decretos numerados (1889–hoje, as duas séries) | 103.419 | 139.127 | `federal/decretos` | normas.leg.br + Planalto |
+| 🟦 | Decretos numerados (1889–hoje, as duas séries) | 104.562 | 139.127 | `federal/decretos` | normas.leg.br + Planalto |
 | ✅ | Decretos não numerados | 14.510 | 14.510 | `federal/decretos-nao-numerados` | Planalto |
 | ✅ | Regulamentos consolidados (RIR, RIPI, Aduaneiro, RPS, PAF) | 20 | 20 | `federal/regulamentos` | Planalto |
 
