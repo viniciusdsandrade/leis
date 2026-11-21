@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 20/11/2026 21:12:29 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 20/11/2026 21:53:22 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.426.394 documentos · 1.289.098 / ~11.768.799 nas séries com meta (11.0%) · 29.040 sem meta**
+**1.430.789 documentos · 1.293.493 / ~11.773.477 nas séries com meta (11.0%) · 29.040 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-787.179 documentos · 669.204 / ~861.320 nas séries com meta (77.7%) · 16.059 sem meta
+791.574 documentos · 673.599 / ~865.998 nas séries com meta (77.8%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
@@ -161,11 +161,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — financeiro
 
-9.024 documentos · 7.289 / ~19.550 nas séries com meta (37.3%) · 351 sem meta
+13.419 documentos · 11.684 / ~24.228 nas séries com meta (48.2%) · 351 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Banco Central e CMN: resoluções e circulares | 1.838 | 10.200 | `reguladores/bcb` | Diário Oficial da União (in.gov.br) |
+| 🟦 | Banco Central e CMN: resoluções, circulares, cartas circulares e instruções normativas | 6.233 | 14.878 | `reguladores/bcb` | Portal de normativos do Banco Central (API) e Diário Oficial da União |
 | 🟦 | CVM: instruções e resoluções | 393 | 500 | `reguladores/cvm` | Diário Oficial da União (in.gov.br) |
 | ✅ | SUSEP e CNSP: circulares e resoluções | 2.336 | 1.200 | `reguladores/susep` | Diário Oficial da União (in.gov.br) |
 | 🟦 | CADE: resoluções | 102 | 300 | `reguladores/cade` | Diário Oficial da União (in.gov.br) |
