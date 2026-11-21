@@ -16,3 +16,11 @@
 {"aid": null, "ano": 1992, "motivo": "a listagem não traz arquivo para a resolução", "numero": 1}
 {"aid": null, "ano": 1992, "motivo": "a listagem não traz arquivo para a resolução", "numero": 2}
 {"aid": 809, "ano": 1986, "motivo": "número repetido na listagem do portal: o arquivo deste número já é de outro registro", "numero": 11}
+{"aid": 808, "ano": 1993, "motivo": "número repetido na listagem do portal: o arquivo deste número já é de outro registro", "numero": 11}
+{"aid": 806, "ano": 1993, "motivo": "epígrafe com o número e o ano da listagem não encontrada no PDF", "numero": 21}
+{"aid": 207, "ano": 1996, "motivo": "epígrafe com o número e o ano da listagem não encontrada no PDF", "numero": 8}
+{"aid": 234, "ano": 1997, "motivo": "epígrafe com o número e o ano da listagem não encontrada no PDF", "numero": 234}
+{"aid": 768, "ano": 1997, "motivo": "PDF escaneado, sem camada de texto: exige OCR", "numero": 235}
+{"aid": 239, "ano": 1998, "motivo": "epígrafe com o número e o ano da listagem não encontrada no PDF", "numero": 239}
+{"aid": null, "ano": 1999, "motivo": "a listagem não traz arquivo para a resolução", "numero": 259}
+{"aid": null, "ano": 1999, "motivo": "a listagem não traz arquivo para a resolução", "numero": 262}
