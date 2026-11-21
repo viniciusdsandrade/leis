@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 21/11/2026 eram **1.461.485 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 21/11/2026 eram **1.461.215 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
-| 1 | Legislação federal e leis estaduais | 528.179 | 90,8% |
+| 1 | Legislação federal e leis estaduais | 527.909 | 90,7% |
 | 2 | Infralegal e jurisprudência | 804.533 | 78,7% |
 | 3 | Direito municipal | 128.773 | 1,1% |
-| | **Total** | **1.461.485** | |
+| | **Total** | **1.461.215** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -264,6 +264,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 
 | O quê | Situação |
 | --- | --- |
+| **Decretos federais**: 272 já publicados que remetem a suplemento próprio ausente da transcrição, 218 tratados "apensos por cópia" e 54 anexos de 1900 a 1943 | registrados em [`scripts/dados/pendencias-integralidade-publicadas.json`](scripts/dados/pendencias-integralidade-publicadas.json), com o trecho de cada um em [`federal/_auditoria_trava_anexo_20261121.json`](federal/_auditoria_trava_anexo_20261121.json); não contam no progresso até o suplemento vir de outra fonte (DOU, Coleção das Leis) |
 | **Campinas**: cerca de 900 atos do SAPL | retidos por integridade (OCR ilegível, vários atos na mesma página, texto de outro ato), cada um com o motivo registrado |
 | **Campinas**: 53 atos até 1948 | o bibjuri só tem a ementa ou não tem a norma |
 | **Campinas**: 84 decretos no recorte do DOM | retidos por integridade em [`municipais/_indice/dom-campinas/retidos.json`](municipais/_indice/dom-campinas/retidos.json) (epígrafe ausente no jornal, falta de assinatura ou anexo posterior) |
