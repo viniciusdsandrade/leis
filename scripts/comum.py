@@ -150,6 +150,7 @@ CANONICO = {
     "portaria": ("portarias", "Portaria"),
     "instrucao normativa": ("instrucoes-normativas", "Instrução Normativa"),
     "circular": ("circulares", "Circular"),
+    "carta circular": ("cartas-circulares", "Carta Circular"),
     "parecer normativo": ("pareceres-normativos", "Parecer Normativo"),
     "provimento": ("provimentos", "Provimento"),
     "norma regulamentadora": ("normas-regulamentadoras", "Norma Regulamentadora"),

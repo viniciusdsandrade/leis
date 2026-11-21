@@ -9,6 +9,7 @@ test_auditar_cache_dou.py
 test_auditar_cache_rfb.py
 test_auditar_lotes_sapl.py
 test_auditar_municipal_hashes.py
+test_baixar_bcb.py
 test_baixar_capitais_documentos.py
 test_baixar_cittatec.py
 test_baixar_dioly.py
