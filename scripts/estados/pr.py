@@ -221,6 +221,69 @@ def _sem_um_digito(completo, truncado):
     return any(completo[:i] + completo[i + 1:] == truncado for i in range(len(completo)))
 
 
+def consertar_mes(s):
+    """Mês com o "ç" ou o "ô" perdido na codificação da fonte ("Portaria 38 - 26 de Marï¿½o de 2020")."""
+    s = re.sub(r"(?i)\bmar(?:ï¿½|�)o\b", "Março", s)
+    return re.sub(r"(?i)\bag(?:ï¿½|�)sto\b", "Agosto", s)
+
+
+# Número de epígrafe fora do padrão "Número - dia de mês de ano", tentado só quando ele não casa, na ordem:
+NUMERO_DE_RESERVA = (
+    re.compile(r"^\D*?\b([\d.]+)\s+de\s+\d{1,2}[º°]? de \w+ (?:de )?\d{4}"),  # "Decreto 972 de 02 de abril de 2019"
+    # "Portaria 22 - CCG - 09 de Julho de 2019", "Resolução Conjunta 01 CC/CM - 21 de Fevereiro de 2020"
+    re.compile(r"(?<![/\d.])\b([\d.]+)\s*(?:-\s*)?[A-Z][A-Z/]*\s*-\s*\d{1,2}[º°]? de \w+ (?:de )?\d{4}"),
+    re.compile(r"(?i)\bn\s*\.?\s*[º°]\s*\.?\s*0*(\d+)"),  # "RESOLUÇÃO CONUNTA CC/SGI Nº 02", "N.º 01/2023", "nº 09/2013"
+    re.compile(r"^\D*?\b0*(\d+)/\d{4}\b"),  # "Resolução Conjunta 001/2018 SEMA/IAP/SEAB/ADAPAR/CC - 12 de Dezembro"
+    re.compile(r"-\s*0*(\d+)\s+\d{1,2}/\d{1,2}/\d{4}\b"),  # "Resolução Conjunta SOT/SEAB/.../ADAPAR - 001 16/07/2025"
+)
+
+
+def numero_de_reserva(epigrafe):
+    """Número da epígrafe fora do padrão (ver NUMERO_DE_RESERVA), ou "" quando nenhuma forma casa."""
+    for rx in NUMERO_DE_RESERVA:
+        m = rx.search(epigrafe)
+        if m:
+            return m.group(1)
+    return ""
+
+
+def data_da_publicacao(trecho):
+    """Data da linha "Publicado no Diário Oficial nº. ... de 11 de Outubro de 2018" do ato, ou None."""
+    p = re.search(r"Publicado no Di[áa]rio Oficial\b.{0,40}? de (\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})\b", limpar(trecho))
+    mes = MESES.get(sem_acento(p.group(2).lower())) if p else None
+    if not mes:
+        return None
+    try:
+        return dt.date(int(p.group(3)), mes, int(p.group(1)))
+    except ValueError:
+        return None
+
+
+FECHO_CURITIBA = re.compile(r"Curitiba,?\s+(?:em\s+)?(\d{1,2})[º°]?\s+de\s+(\w+)\s+(?:de\s+)?(\d{4})\b")
+
+
+def data_sem_extenso(titulo, trecho):
+    """Data do ato cuja epígrafe não a traz por extenso: a data numérica do título ("ADAPAR - 001 16/07/2025") ou,
+    sem ela, a do fecho ("Curitiba, 20 de dezembro de 2021"), esta só quando a publicação vem de 0 a 60 dias depois."""
+    m = re.search(r"\b(\d{1,2})/(\d{1,2})/(\d{4})\b", titulo)
+    if m:
+        try:
+            data = dt.date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+        except ValueError:
+            return ""
+        return "" if data > dt.date.today() else data.isoformat()
+    fechos = FECHO_CURITIBA.findall(limpar(trecho))
+    publicado = data_da_publicacao(trecho)
+    mes = MESES.get(sem_acento(fechos[-1][1].lower())) if fechos else None
+    if not mes or not publicado:
+        return ""
+    try:
+        data = dt.date(int(fechos[-1][2]), mes, int(fechos[-1][0]))
+    except ValueError:
+        return ""
+    return data.isoformat() if 0 <= (publicado - data).days <= 60 else ""
+
+
 def data_da_epigrafe(titulo, trecho=""):
     """Data ISO da epígrafe do ato, ou "" quando não dá para afirmá-la.
 
@@ -231,18 +294,14 @@ def data_da_epigrafe(titulo, trecho=""):
     ano truncado seja esse ano sem um dígito e a publicação venha de 0 a 60 dias depois do ato. Fora disso a data fica em
     branco, como antes, e a auditoria avisa.
     """
+    titulo = consertar_mes(titulo)
     m = re.search(r"(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})", titulo) or EPIGRAFE_ANO_TRUNCADO.search(titulo)
     if not m or sem_acento(m.group(2).lower()) not in MESES:
-        return ""
+        return data_sem_extenso(titulo, trecho)
     dia, mes, ano = int(m.group(1)), MESES[sem_acento(m.group(2).lower())], m.group(3)
     if len(ano) == 3:
-        p = re.search(r"Publicado no Di[áa]rio Oficial\b.{0,40}? de (\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})\b", limpar(trecho))
-        mes_pub = MESES.get(sem_acento(p.group(2).lower())) if p else None
-        if not p or not mes_pub:
-            return ""
-        try:
-            publicado = dt.date(int(p.group(3)), mes_pub, int(p.group(1)))
-        except ValueError:
+        publicado = data_da_publicacao(trecho)
+        if not publicado:
             return ""
         for candidato in (publicado.year, publicado.year - 1):
             if not _sem_um_digito(str(candidato), ano):
@@ -371,9 +430,11 @@ def processar(it):
     epi = it.get("epigrafe") or ""
     # dia 1º vem com ordinal; às vezes falta o "de" antes do ano ("Decreto 7092 - 16 de agosto 2024"); o número vale
     # mesmo quando a fonte perdeu um dígito do ano ("Decreto 7381 - 19 de Abril de 201"), mas esse ano não nomeia pasta
+    epi = consertar_mes(epi)
     num = NUMERO_EPIGRAFE.search(epi) or NUMERO_EPIGRAFE_ANO_TRUNCADO.search(epi)
     ano = it.get("ano") or (num.group(4) if num and len(num.group(4)) == 4 else "sem-ano")
-    numero = num.group(1).replace(".", "") if num else "sn"
+    numero_impresso = num.group(1) if num else numero_de_reserva(epi)  # fora do padrão: ver NUMERO_DE_RESERVA
+    numero = numero_impresso.replace(".", "") or "sn"
     slug = f"{prefixo}-{numero}-{ano}-id{it['codAto']}"
     md, fonte = caminhos(UF, pasta, ano, slug)
     if os.path.exists(md):
@@ -410,7 +471,7 @@ def processar(it):
         ("titulo", titulo),
         ("uf", UF),
         ("tipo", nome),
-        ("numero", num.group(1) if num else ""),
+        ("numero", numero_impresso),
         ("data", data),
         ("ementa", it.get("ementa") or ""),
         ("versao_texto", "compilada (Casa Civil do Paraná)"),
