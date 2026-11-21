@@ -1,0 +1,39 @@
+---
+titulo: "Carta Circular nº 2.130, de 18 de dezembro de 1990"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2130"
+data: 1990-12-18
+ementa: "Esclarece sobre a cobrança de tarifas bancárias pela devolução de cheques."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2130"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2130"
+sha256_fonte: "3b640dc3a69130d64fe1dfaaf8fb20e110303910eaaa4fed722470f30ccb638f"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.130, de 18 de dezembro de 1990
+
+CARTA-CIRCULAR N. 002130
+
+AS INSTITUICOES FINANCEIRAS PARTICIPANTES DO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS
+
+ESCLARECE SOBRE A COBRANCA DE TARIFAS BANCARIAS PELA DEVOLUCAO DE CHEQUES
+
+TENDO EM VISTA AS DISPOSICOES CONTIDAS NOS ARTI- GOS 14 E 20 DO REGULAMENTO ANEXO A RESOLUCAO N. 1.682, DE 31.01.90, ESCLARECEMOS O SEGUINTE:
+
+ART. 1.. NA DEVOLUCAO DE CHEQUES POR QUALQUER MOTIVO SO PODEM SER COBRADOS, A TITULO DE TAXA DE SERVICO, OS VALORES ESTABELECIDOS NOS ARTIGOS 14 E 20 DO REGULAMENTO ANEXO A RESOLUCAO N. 1.682, DE 31.01.90.
+
+ART. 2.. A TAXA DE SERVICO, PREVISTA NO ARTIGO 14 DO REGULAMENTO ACIMA CITADO, SO PODE SER COBRADA NA HIPOTESE DE O CHEQUE TRANSITAR PELO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PA- PEIS.
+
+ART. 3.. E FACULTADA A COBRANCA, A TITULO DE TA- RIFA BANCARIA, PELO EXAME E DEMAIS PROVIDENCIAS PERTINENTES A PEDIDOS DE EXCLUSAO DO CADASTRO DE EMITENTES DE CHEQUES SEM FUNDOS, DEVENDO OBRIGATORIAMENTE CONSTAR DO QUADRO DEMONSTRATIVO DE QUE TRATA A CIR- CULAR N. 1.734, DE 23.05.90, O VALOR DESTE SERVICO.
+
+ART. 4.. ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+BRASILIA (DF), 18 DE DEZEMBRO DE 1990
+
+DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+ANTONIO CAETANO FILHO CHEFE

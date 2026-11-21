@@ -1,0 +1,51 @@
+---
+titulo: "Carta Circular nº 2.155, de 12 de março de 1991"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2155"
+data: 1991-03-12
+ementa: "Altera titulo contábil do Cosif em função do disposto na Resolução n. 1.801, de 28.02.91."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicada no DOU de 14/3/1991, p. 4630."
+data_publicacao: "1991-03-14"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2155"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2155"
+sha256_fonte: "a51efd03532f1d63f6068975f50f7ece82406cf2ed6e178df55db28cccecdea3"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.155, de 12 de março de 1991
+
+CARTA-CIRCULAR N. 002155
+
+AS INSTITUICOES DO SISTEMA FINANCEIRO NACIONAL
+
+ALTERA TITULO CONTABIL DO COSIF EM FUNCAO DO DISPOSTO NA RESOLUCAO N. 1.801, DE 28.02.91.
+
+EM DECORRENCIA DO DISPOSTO NO ARTIGO 8. DA RESOLUCAO N. 1.801, DE 28.02.91, E COM FUNDAMENTO NO ITEM 4 DA CIRCU- LAR N. 1.540, DE 06.10.89, COMUNICAMOS QUE:
+
+ART. 1.. FICA ALTERADO, NO PLANO CONTABIL DAS INSTITUICOES DO SISTEMA FINANCEIRO NACIONAL - COSIF, O TITULO CONTABIL 4.6.1.80.00-1 OBRIGACOES POR AQUISICAO DE TITULOS FEDERAIS - RESOLUCAO N. 1.694/90, CUJA NOMENCLATURA, FUNCAO E OBSERVACOES PASSAM A TER A SEGUINTE REDACAO:
+
+TITULO:
+
+OBRIGACOES POR AQUISICAO DE TITULOS FEDERAIS
+
+FUNCAO:
+
+REGISTRAR AS OBRIGACOES POR AQUISICAO DE TITULOS PUBLICOS FEDE- RAIS, NOS TERMOS DA LEGISLACAO E REGULAMENTACAO EM VIGOR.
+
+OBSERVACOES:
+
+1. AS ATUALIZACOES MONETARIAS E OS JUROS REGISTRAM-SE EM CONTRA- PARTIDA A 8.1.2.30.00-2 DESPESAS DE EMPRESTIMOS NO PAIS - OU- TRAS INSTITUICOES.
+
+2. A INSTITUICAO E OBRIGADA A CONTROLAR EM SUBTITULOS DE USO IN- TERNO OS VALORES RELATIVOS A CADA MODALIDADE OU INSTRUMENTO OPERACIONAL BAIXADO PELAS AUTORIDADES GOVERNAMENTAIS.
+
+ART. 2.. ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+BRASILIA (DF),12 DE MARCO DE 1991
+
+DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+ANTONIO CAETANO FILHO CHEFE

@@ -1,0 +1,37 @@
+---
+titulo: "Carta Circular nº 2.346, de 27 de janeiro de 1993"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2346"
+data: 1993-01-27
+ementa: "DIVULGA NOVOS PROCEDIMENTOS SOBRE A ADMISSAO DE AGENCIA BANCARIA NO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2346"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2346"
+sha256_fonte: "43c4bf7adeec72f98220c77dd68b2a1326632381220072b5748d39c66375759e"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.346, de 27 de janeiro de 1993
+
+CARTA-CIRCULAR N. 002346
+
+AS INSTITUICOES FINANCEIRAS PARTICIPANTES DO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS.
+
+DIVULGA NOVOS PROCEDIMENTOS SOBRE A AD- MISSAO DE AGENCIA BANCARIA NO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PA- PEIS.
+
+TENDO EM CONTA O DISPOSTO NA CIRCULAR N. 772, DE 08.04.83, E NO MNI 6-2-1-30, COMUNICAMOS QUE:
+
+ART. 1.. A PARTICIPACAO DE AGENCIA BANCARIA NO SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS DEPENDE DE PREVIA AUTORIZACAO DO DEPARTAMENTO DE OPERACOES BANCARIAS.
+
+PARAGRAFO UNICO. AS AUTORIZACOES SERAO COMUNICA- DAS DIRETAMENTE AO EXECUTANTE, QUE FICARA INCUMBIDO DE DIVULGA-LAS AOS PARTICIPANTES DO SERVICO.
+
+ART. 2.. ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+BRASILIA(DF), 27 DE JANEIRO DE 1993.
+
+DEPARTAMENTO DE OPERACOES BANCARIAS
+
+JOSE ANTONIO MARCIANO CHEFE, EM EXERCICIO

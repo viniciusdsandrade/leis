@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 20/11/2026 22:06:20 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 20/11/2026 23:34:51 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.431.932 documentos · 1.294.636 / ~11.773.477 nas séries com meta (11.0%) · 29.040 sem meta**
+**1.438.118 documentos · 1.300.822 / ~11.773.477 nas séries com meta (11.0%) · 29.040 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-791.574 documentos · 673.599 / ~865.998 nas séries com meta (77.8%) · 16.059 sem meta
+797.760 documentos · 679.785 / ~865.998 nas séries com meta (78.5%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
@@ -161,11 +161,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal — financeiro
 
-13.419 documentos · 11.684 / ~24.228 nas séries com meta (48.2%) · 351 sem meta
+19.605 documentos · 17.870 / ~24.228 nas séries com meta (73.8%) · 351 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Banco Central e CMN: resoluções, circulares, cartas circulares e instruções normativas | 6.233 | 14.878 | `reguladores/bcb` | Portal de normativos do Banco Central (API) e Diário Oficial da União |
+| 🟦 | Banco Central e CMN: resoluções, circulares, cartas circulares e instruções normativas | 12.419 | 14.878 | `reguladores/bcb` | Portal de normativos do Banco Central (API) e Diário Oficial da União |
 | 🟦 | CVM: instruções e resoluções | 393 | 500 | `reguladores/cvm` | Diário Oficial da União (in.gov.br) |
 | ✅ | SUSEP e CNSP: circulares e resoluções | 2.336 | 1.200 | `reguladores/susep` | Diário Oficial da União (in.gov.br) |
 | 🟦 | CADE: resoluções | 102 | 300 | `reguladores/cade` | Diário Oficial da União (in.gov.br) |

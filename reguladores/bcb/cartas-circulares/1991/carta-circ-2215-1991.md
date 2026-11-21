@@ -1,0 +1,41 @@
+---
+titulo: "Carta Circular nº 2.215, de 3 de setembro de 1991"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2215"
+data: 1991-09-03
+ementa: "Cria títulos e subtítulos no COSIF."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicada no DOU de 5/9/1991, p. 18641."
+data_publicacao: "1991-09-05"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2215"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2215"
+sha256_fonte: "8903a5a21adff017318d08d03e26eab50cf8ccead4df3cb28853c02e3b08abe8"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.215, de 3 de setembro de 1991
+
+CARTA-CIRCULAR N. 002215
+
+AS INSTITUICOES DO SISTEMA FINANCEIRO NACIONAL
+
+CRIA TITULOS E SUBTITULOS NO COSIF.
+
+TENDO EM VISTA O DISPOSTO NAS RESOLUCOES N.S 1.855 E 1.856, AMBAS DE 14.08.91, E COM FUNDAMENTO NO ITEM 4 DA CIR- CULAR N. 1.540, DE 06.10.89, COMUNICAMOS QUE:
+
+ART. 1.. FICAM CRIADOS, NO PLANO CONTABIL DAS INSTITUICOES DO SISTEMA FINANCEIRO NACIONAL - COSIF, OS SEGUINTES TI- TULOS E SUBTITULOS:
+
+4.9.1.25.00-1 RECURSOS DO PROAGRO 4.9.1.25.10-4 ADICIONAL 4.9.1.25.20-7 MULTAS FUNCAO : REGISTRAR OS RECURSOS ARRECADADOS PROVENIENTES DO ADI- CIONAL, MULTAS E OUTROS ENCARGOS A SEREM RECOLHIDOS AO BANCO CENTRAL, RELATIVOS AOS CONTRATOS ASSINADOS DE ACORDO COM O NOVO REGULAMENTO DO PROGRAMA DE GARANTIA DA ATIVIDADE AGROPECUARIA (PROAGRO), INSTITUIDO PELA RESOLUCAO N. 1.855 (ATRIBUTOS UBDIFERLMN, ESTBAN 487 E PUBLICACAO 491).
+
+8.1.9.65.00-9 DESPESAS DE RECURSOS DO PROAGRO FUNCAO : REGISTRAR AS DESPESAS DECORRENTES DE RECURSOS DO PROA- GRO DE RESPONSABILIDADE DA INSTITUICAO (ATRIBUTOS UB DIFERLMN, ESTBAN 712 E PUBLICACAO 822).
+
+ART. 2.. ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+BRASILIA (DF), 03 DE SETEMBRO DE 1991
+
+DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+SERGIO DARCY DA SILVA ALVES CHEFE

@@ -1,0 +1,37 @@
+---
+titulo: "Carta Circular nº 2.202, de 22 de agosto de 1991"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2202"
+data: 1991-08-22
+ementa: "ESCLARECE A RESPEITO DO CONTIDO NA CIRCULAR 2018, DE 15/08/91."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2202"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2202"
+sha256_fonte: "9a8b803440e87c97ec74c8c01f0cced17a057ff8940175c27f1f8e0ce9e6c224"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.202, de 22 de agosto de 1991
+
+CARTA-CIRCULAR N. 002202
+
+AS INSTITUICOES DO SISTEMA FINANCEIRO NACIONAL
+
+ESCLARECE A RESPEITO DO CONTIDO NA CIR- CULAR N. 2.018, DE 15.08.91.
+
+COM FUNDAMENTO NO ITEM 4 DA CIRCULAR N. 1.540, DE 06.10.89, E TENDO EM VISTA O CONTIDO NA CIRCULAR N. 2.018, DE 15.08.91, ESCLARECEMOS QUE:
+
+ART. 1.. TENDO EM VISTA A DIVULGACAO, PELA FUN- DACAO INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATISTICA - IBGE, DO IN- DICE NACIONAL DE PRECOS AO CONSUMIDOR - INPC RELATIVO AO MES DE JUNHO DE 1991, FICAM AS INSTITUICOES QUE AINDA NAO ELABORARAM AS DEMONSTRA- COES FINANCEIRAS RELATIVAS A DATA-BASE DE 30.06.91 OBRIGADAS A FAZE- LO COM UTILIZACAO DO INDICE DIVULGADO POR AQUELE INSTITUTO.
+
+ART. 2.. PARA EFEITO DE PUBLICACAO DAS DEMONS- TRACOES FINANCEIRAS RELATIVAS AS DATAS-BASE DE 30.06.91 E 31.07.91, DEVERAO SER OBSERVADOS OS PRAZOS PREVISTOS NO ART. 5. DA CITADA CIR- CULAR N. 2.018.
+
+ART. 3.. ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+BRASILIA (DF), 22 DE AGOSTO DE 1991
+
+DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+SERGIO DARCY DA SILVA ALVES CHEFE

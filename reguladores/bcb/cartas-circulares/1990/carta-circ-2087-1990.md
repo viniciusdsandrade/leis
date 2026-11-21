@@ -1,0 +1,37 @@
+---
+titulo: "Carta Circular nº 2.087, de 15 de maio de 1990"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2087"
+data: 1990-05-15
+ementa: "Comunica alterações efetuadas no Catálogo de Documentos - CADOC, instituído pela Circular n° 1.481, de 11.05.89."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2087"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2087"
+sha256_fonte: "fae3dff600902de5885d96cc6f4016f3b94119d456189e69d1e26d91b4cd2eba"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.087, de 15 de maio de 1990
+
+CARTA-CIRCULAR N. 002087
+
+AS INSTITUICOES FINANCEIRAS E DEMAIS ENTIDADES AUTORIZADAS A FUNCIONAR PELO BANCO CENTRAL DO BRASIL
+
+COMUNICA ALTERACOES EFETUADAS NO CATA- LOGO DE DOCUMENTOS - CADOC, INSTITUIDO PELA CIRCULAR N. 1.481, DE 11.05.89
+
+COMUNICAMOS QUE, EM DECORRENCIA DA DIVULGACAO DAS RESOLUCOES N.S 1632, DE 24.08.89, 1649, DE 25.10.89, 1656, DE 26.10.89, 1664, DE 29.11.89, 1669, DE 30.11.89, DAS CIRCULARES N.S 1525, DE 14.08.89, 1534, DE 15.09.89, 1536, DE 03.10.89, 1539, DE 06.10.89, 1545, DE 10.11.89, 1553, DE 11.12.89, 1566, DE 22.01.90, 1567, DE 25.01.90, 1574, DE 06.02.90, 1582, DE 15.02.90, 1594, DE 09.03.90, 1596 E 1597, DE 14.03.90, 1601, DE 19.03.90, 1616, DE 22.03.90, 1639, DE 29.03.90, 1677, DE 18.04.90, 1684, DE 23.04.90 E DAS CARTAS-CIRCULARES N.S 1993, DE 04.09.89, 1998, DE 18.09.89, 2008, DE 18.10.89, 2017, DE 31.10.89, 2023, DE 01.11.89, 2048, DE 28.12.89, 2051, DE 12.02.90, 2056, DE 18.03.90 E 2057, DE 21.03.90, FORAM EFE- TUADAS ALTERACOES NO CATALOGO DE DOCUMENTOS - CADOC, INSTITUIDO PELA CIRCULAR N. 1.481, DE 11.05.89.
+
+ART. 1.. EM CONSEQUENCIA, ENCONTRAM-SE ANEXAS AS FOLHAS NECESSARIAS A ATUALIZACAO DO REFERIDO CATALOGO.
+
+ART. 2.. ESTA CARTA-CIRCULAR ENTRARA EM VIGOR NA DATA DE SUA PUBLICACAO.
+
+BRASILIA (DF), 15 DE MAIO DE 1990.
+
+DEPARTAMENTO DE CADASTRO E INFORMACOES
+
+PEDRO LUIZ VAREJAO DE CASTRO CHEFE, EM EXERCICIO
+
+NOTA: AS FOLHAS DE ATUALIZACAO A QUE SE REFERE ESTA CARTA-CIRCULAR SERAO DISTRIBUIDAS AOS ASSINANTES DO CADOC.

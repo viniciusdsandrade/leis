@@ -1,0 +1,35 @@
+---
+titulo: "Carta Circular nº 2.320, de 29 de setembro de 1992"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "2320"
+data: 1992-09-29
+ementa: "DISPOE SOBRE MODIFICACOES EM DOCUMENTOS DO MANUAL DE CREDITO RURAL (MCR)."
+situacao: "revogado"
+revogada: true
+versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2320"
+fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Carta%20Circular&p2=2320"
+sha256_fonte: "7e1a44abbf8b26f098695cbf2b40acc033c9aa6b0d444353a15b0bfb98243ee1"
+baixado_em: 2026-11-20
+---
+# Carta Circular nº 2.320, de 29 de setembro de 1992
+
+CARTA-CIRCULAR N. 002320
+
+DISPOE SOBRE MODIFICACOES EM DOCUMENTOS DO MANUAL DE CREDITO RURAL (MCR).
+
+ART. 1.. COMUNICAMOS QUE FORAM INTRODUZIDAS MO- DIFICACOES NOS DOCUMENTOS N. 5 E 7 DO MANUAL DE CREDITO RURAL (MCR), DE FORMA A PERMITIR A INCLUSAO NO REGISTRO COMUM DE OPERACOES RURAIS (RECOR) DE OPERACAO DE CUSTEIO AGRICOLA ENQUADRADA NO PROGRAMA DE GA- RANTIA DA ATIVIDADE AGROPECUARIA (PROAGRO), SOB A MODALIDADE DE ATI- VIDADE NAO FINANCIADA (MCR 7-8).
+
+ART. 2.. EM CONSEQUENCIA, ENCONTRAM-SE ANEXAS AS FOLHAS NECESSARIAS A SUA ATUALIZACAO.
+
+ART. 3.. ESTA CARTA-CIRCULAR ENTRA EM VIGOR NA DATA DE SUA PUBLICACAO, PRODUZINDO EFEITOS A PARTIR DE 09.10.91, RE- LATIVAMENTE AS OPERACOES PREVISTAS NO MCR 7-8.
+
+BRASILIA (DF), 29 DE SETEMBRO DE 1992.
+
+DEPARTAMENTO DE NORMAS DO SISTEMA FINANCEIRO
+
+SERGIO DARCY DA SILVA ALVES CHEFE
+
+OBS.: OS ANEXOS DE QUE TRATA ESTA CARTA-CIRCULAR SERAO DIVULGADOS NO DIARIO OFICIAL DA UNIAO E ESTARAO DISPONIVEIS NAS DELEGACIAS REGIONAIS DESTE BANCO.
