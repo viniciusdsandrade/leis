@@ -150,16 +150,44 @@ def titulo(numero, data):
     return f"Resolução CONAMA nº {numero}, de {'1º' if dia == 1 else dia} de {nome_mes} de {ano}"
 
 
+def ementa_e_publicacao(descricao):
+    """A descrição da listagem traz a ementa e, depois, "- Data da legislação: 18/06/1986 - Publicação DOU, de
+    30/07/1986, págs. 11356-11361". Devolve (ementa, publicação, data ISO da publicação)."""
+    partes = re.split(r"\s*[-–]\s*Data da legisla[çc][ãa]o\s*:", descricao, maxsplit=1)
+    ementa = partes[0].strip(" .\"“”")
+    m = re.search(r"Publica[çc][ãa]o\s+(DOU\b.*?)\s*,?\s*de\s+(\d{1,2})/(\d{1,2})/(\d{4})(.*)$", partes[1] if len(partes) > 1 else "")
+    if not m:
+        return ementa, "", ""
+    try:
+        data = dt.date(int(m.group(4)), int(m.group(3)), int(m.group(2))).isoformat()
+    except ValueError:
+        data = ""
+    publicado = re.sub(r"\s+,", ",", f"Publicada no {m.group(1).strip()}, de {m.group(2)}/{m.group(3)}/{m.group(4)}"
+                       f"{m.group(5).rstrip(' .')}")
+    return ementa, publicado, data
+
+
 def processar(rede, item):
     slug = f"res-conama-{item['numero']}-{item['ano']}"
     md = PASTA / str(item["ano"]) / f"{slug}.md"
-    if md.exists():
-        return "pulado", None
     falha = {"numero": item["numero"], "ano": item["ano"], "aid": item["aid"]}
+    if md.exists():
+        # a listagem repete números (a Resolução 1-A/1986 vem como 11): o arquivo de outro registro não é este
+        if f"&id={item['aid']}\"" in md.read_text(encoding="utf-8").split("\n---\n", 1)[0]:
+            return "pulado", None
+        return "retido", {**falha, "motivo": "número repetido na listagem do portal: o arquivo deste número já é de "
+                                              "outro registro"}
     if not item["aid"]:
         return "retido", {**falha, "motivo": "a listagem não traz arquivo para a resolução"}
     url = ARQUIVO.format(aid=item["aid"])
     bruto, _ = obter(rede, url)
+    return gravar_resolucao(item, bruto, url)
+
+
+def gravar_resolucao(item, bruto, url):
+    """Confere o PDF baixado e grava o Markdown; também refaz o arquivo a partir do PDF em cache."""
+    slug = f"res-conama-{item['numero']}-{item['ano']}"
+    falha = {"numero": item["numero"], "ano": item["ano"], "aid": item["aid"]}
     if bruto[:4] != b"%PDF":
         return "retido", {**falha, "motivo": "o arquivo servido não é PDF", "inicio": bruto[:40].decode("latin-1")}
     _, texto = extrair_texto(bruto, url)
@@ -170,19 +198,24 @@ def processar(rede, item):
     if not data:
         return "retido", {**falha, "motivo": "epígrafe com o número e o ano da listagem não encontrada no PDF"}
     corpo = texto_pdf_para_md(texto)
+    ementa, pub_lista, data_pub_lista = ementa_e_publicacao(item["ementa"])
     pub, data_pub = publicacao(texto)
+    if not pub:
+        pub, data_pub = pub_lista, data_pub_lista
     nome = titulo(item["numero"], data)
     meta = [("titulo", nome), ("orgao", "Conselho Nacional do Meio Ambiente"), ("tipo", "Resolução"),
-            ("numero", str(item["numero"])), ("data", data), ("ementa", item["ementa"])]
+            ("numero", str(item["numero"])), ("data", data), ("ementa", ementa)]
     if item["situacao"]:
         meta.append(("situacao", item["situacao"]))
-    meta += [("revogada", bool(re.match(r"(?i)revogad", item["situacao"]))), ("versao_texto", VERSAO)]
+    # "Revogada pela Resolução nº 357, de 2005" em qualquer ponto da situação; "revogados os arts." é parcial
+    meta += [("revogada", bool(re.search(r"(?i)\brevogada\b", item["situacao"]))), ("versao_texto", VERSAO)]
     if pub:
         meta.append(("publicacao", pub))
         if data_pub:
             meta.append(("data_publicacao", data_pub))
     meta += [("fonte", url), ("sha256_fonte", hashlib.sha256(bruto).hexdigest())]
-    gravar(str(md), str(FONTE / str(item["ano"]) / f"{slug}.pdf.gz"), bruto, meta, f"# {nome}\n\n{corpo}")
+    gravar(str(PASTA / str(item["ano"]) / f"{slug}.md"), str(FONTE / str(item["ano"]) / f"{slug}.pdf.gz"), bruto, meta,
+           f"# {nome}\n\n{corpo}")
     return "ok", None
 
 

@@ -18,7 +18,7 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 20/11/2026 eram **1.444.238 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 21/11/2026 eram **1.444.238 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
