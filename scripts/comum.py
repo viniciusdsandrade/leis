@@ -315,8 +315,12 @@ EPIGRAFE_LINHA = re.compile(
 )
 
 
-def texto_pdf_para_md(texto, topo=8, pe=5):
-    """Reconstrói parágrafos de texto extraído de PDF e marca artigos/títulos."""
+def texto_pdf_para_md(texto, topo=8, pe=5, manter_primeira=None):
+    """Reconstrói parágrafos de texto extraído de PDF e marca artigos/títulos.
+
+    Linha de borda que se repete em mais da metade das páginas é cabeçalho ou rodapé e sai. A epígrafe e as linhas que
+    casam com `manter_primeira` (regex; os cabeçalhos "TÍTULO:", "CAPÍTULO:" e "SEÇÃO:" das folhas de manual do Banco
+    Central, por exemplo) ficam na primeira vez em que aparecem."""
     # cabeçalhos/rodapés: linhas nas bordas que se repetem em mais da metade das páginas
     paginas = [p.split("\n") for p in texto.split("\f")]
     cheias = [p for p in paginas if any(x.strip() for x in p)]
@@ -337,7 +341,7 @@ def texto_pdf_para_md(texto, topo=8, pe=5):
             ln = re.sub(r"_{5,}|[-–—=]{8,}", " ", ln).strip()
             n = re.sub(r"\s+", " ", ln)
             if i in b and n in repetidas:
-                if EPIGRAFE_LINHA.match(n) and n not in vistas:
+                if (EPIGRAFE_LINHA.match(n) or (manter_primeira and manter_primeira.match(n))) and n not in vistas:
                     vistas.add(n)
                 else:
                     ln = ""

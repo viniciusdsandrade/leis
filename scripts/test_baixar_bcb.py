@@ -227,6 +227,23 @@ class AnexoProprio(Base):
             "anexo de outro ato, com designador (2.674/1999)": "**Art. 1º** Os limites do Regulamento Anexo II à "
                 "Resolução nº 2.099, de 17 de agosto de 1994." + self.FIM,
             "anexo de outra circular": "**Art. 1º** Nos termos do Anexo III da Circular nº 3.100." + self.FIM,
+            # Circular 2.389/1993, Resolução 2.772/2000, Circular 283/1975, Resolução 1.819/1991 e Circular 3.258/2004
+            "designadores em lista": "**Art. 1º** Recursos ingressados nos termos dos Regulamentos Anexos I, II, III e IV "
+                "à Resolução nº 1.289." + self.FIM,
+            "designadores ligados por e": "**Art. 1º** Previstos nos Regulamentos Anexos II e IV à Resolução 2.099."
+                + self.FIM,
+            "espécie no plural": "**Art. 1º** Normas definidas nos Regulamentos anexos às Circulares nºs 251 e 252."
+                + self.FIM,
+            "espécie partida na linha": "ALTERA OS REGULAMENTOS ANEXOS À RESOLU- ÇÃO Nº 1.289." + self.FIM,
+            "respectivos anexos de ato citado": "**Art. 1º** Pela Carta-Circular 2.795 e seus respectivos Regulamentos "
+                "anexos." + self.FIM,
+            "em anexo a outra coisa": "**Art. 1º** O envio, em anexo à documentação encaminhada." + self.FIM,
+            # Circulares 2.782/1997, 2.954/1999 e 218/1973
+            "ato referido": "**Art. 5º** Fica incluído no mapa anexo à referida Circular o subtítulo." + self.FIM,
+            "carta-circular partida na linha": "**Art. 4º** Ficam excluídos dos documentos Anexos I e II à Car- "
+                "ta-Circular nº 2.776." + self.FIM,
+            "comunicado": "mediante o preenchimento dos formulários anexos aos Comunicados FIRCE nºs 10 e 11."
+                + self.FIM,
         }
         numeros = {"regulamento depois do fecho (2.675/1999)": 2675}
         for caso, corpo in casos.items():
@@ -235,9 +252,193 @@ class AnexoProprio(Base):
 
     def test_formas_de_anexo_proprio_ausente(self):
         for trecho in ["Fica aprovado o Regulamento Anexo.", "conforme o modelo anexo.", "constantes do Anexo I desta Resolução.",
-                       "nos termos do Regulamento anexo à Resolução nº 2.675."]:
+                       "nos termos do Regulamento anexo à Resolução nº 2.675.",
+                       # Circular 821/1983 e Carta-Circular 1.339/1986: o manual que a carta atualiza vem em folhas anexas
+                       "Comunicamos as alterações do MCR, conforme folhas anexas, destinadas à atualização do Manual.",
+                       "encontra-se na folha anexa a alteração necessária.", "nos leiautes das instruções anexas.",
+                       "Em anexo, encontram-se as folhas.", "conforme tabelas anexas.", "anexa a esta Carta–Circular."]:
             with self.subTest(trecho):
                 self.assertIsNotNone(b.anexo_proprio_ausente("**Art. 1º** " + trecho + self.FIM, 2675))
+
+    def test_nota_do_portal_de_anexo_a_disposicao_na_sede(self):
+        # Circular 1.307/1988: o texto termina na nota de que o anexo não está no portal
+        corpo = ("Comunicamos as alterações no Manual de Crédito Rural.\n\nBrasília-DF, 30 de março de 1988\n\n"
+                 "Hélio Ribeiro de Oliveira Diretor\n\nObs: o anexo deste normativo encontra-se à disposição dos "
+                 "interessados na Sede do Banco Central do Brasil.")
+        self.assertEqual(b.anexo_proprio_ausente(corpo, 1307), "anexo deste normativo")
+
+    def test_folhas_do_manual_no_texto_do_portal(self):
+        # Resolução 4.364/2014: as folhas do MCR vêm no próprio texto, com os cabeçalhos do manual
+        corpo = ("**Art. 3º** Ficam aprovadas as disposições constantes das folhas anexas.\n\nBrasília, 28 de agosto de "
+                 "2014.\n\nAlexandre Antonio Tombini Presidente\n\nTÍTULO : CRÉDITO RURAL\n\nCAPÍTULO: Programa "
+                 "Nacional de Fortalecimento da Agricultura Familiar (Pronaf) - 10\n\nSEÇÃO : Créditos - 17")
+        self.assertIsNone(b.anexo_proprio_ausente(corpo, 4364))
+        self.assertIsNotNone(b.anexo_proprio_ausente(corpo.split("TÍTULO")[0], 4364))
+
+    def test_anexo_depois_do_fecho_com_df(self):
+        # Resolução 514/1979: as folhas do MNI vêm depois da assinatura, e o fecho é "Brasília-DF,"
+        corpo = ("II - O MNI passa a vigorar com nova redação, constante das folhas anexas.\n\nBrasília-DF, 8 de fevereiro "
+                 "de 1979\n\nPaulo H. Pereira Lira Presidente\n\n" + "1 - As operações ficam sujeitas às normas. " * 8)
+        self.assertIsNone(b.anexo_proprio_ausente(corpo, 514))
+        self.assertIsNone(b.anexo_proprio_ausente(corpo.replace("Brasília-DF,", "Brasília (DF),"), 514))
+        self.assertIsNotNone(b.anexo_proprio_ausente(corpo.split("Paulo")[0] + "Paulo H. Pereira Lira Presidente", 514))
+
+
+# Recortes do PDF da versão original da Carta-Circular 2.989/2001 (pdftotext -layout, 21/11/2026).
+CARTA_2989 = dict(Titulo="Carta Circular Nº 2.989", Tipo="Carta Circular", Numero=2989.0, DataTexto="12/12/2001 00:00",
+                  Assunto="Divulga os novos padrões de cores a serem utilizados na confecção de etiquetas.",
+                  Documentos="C_Circ_2989_v1_O.pdf;16#;C_Circ_2989_v2_L.pdf;18#;", Texto="<div>​</div>")
+PDF_2989 = ("                                        CARTA-CIRCULAR Nº 2989\n\n"
+            "                                                    Divulga os novos padrões de cores a serem\n"
+            "                                                    utilizados na confecção de etiquetas.\n\n"
+            "                Tendo em vista a introdução de novas denominações no meio circulante nacional,\n"
+            "informamos os novos padrões de cores a serem utilizados na confecção das etiquetas.\n\n"
+            "                                        Brasília, 12 de dezembro de 2001.\n")
+URL_2989 = "https://www.bcb.gov.br/pre/normativos/c_circ/2001/pdf/c_circ_2989_v1_o.pdf"
+
+
+class PdfOriginal(Base):
+    ITEM = {"id": "46990", "tipo": "Carta Circular", "numero": 2989, "data": "2001-12-12"}
+
+    def rede(self, pdf=(200, b"%PDF-1.4 recorte", "application/pdf"), **campos):
+        return RedeFalsa({"exibenormativo": detalhe(**{**CARTA_2989, **campos}), "c_circ_2989_v1_o.pdf": pdf})
+
+    def processar(self, rede, texto=PDF_2989, imagens=()):
+        with patch.object(b, "ler_pdf", return_value=(texto, list(imagens))):
+            return b.processar(rede, dict(self.ITEM), set(), pdf=True)
+
+    def test_arquivo_e_endereco_da_versao_original(self):
+        self.assertEqual(b.arquivo_original(CARTA_2989["Documentos"]), "C_Circ_2989_v1_O.pdf")
+        self.assertIsNone(b.arquivo_original("C_Circ_2989_v2_L.pdf;18#;"))
+        self.assertIsNone(b.arquivo_original(None))
+        self.assertEqual(b.url_do_original("C_Circ_2989_v1_O.pdf", "2001"), URL_2989)
+        self.assertEqual(b.url_do_original("Res_0580_v1_O.pdf", "1979"),
+                         "https://www.bcb.gov.br/pre/normativos/res/1979/pdf/res_0580_v1_o.pdf")
+        self.assertEqual(b.url_do_original("Circ_3340_v1_O.pdf", "2007"),
+                         "https://www.bcb.gov.br/pre/normativos/circ/2007/pdf/circ_3340_v1_o.pdf")
+
+    def test_especie_e_numero_no_alto_do_pdf(self):
+        for texto, tipo, numero in ((PDF_2989, "Carta Circular", 2989),
+                                    ("        CARTA–CIRCULAR Nº. 1339\nÀs Instituições", "Carta Circular", 1339),
+                                    ("CARTA-CIRCULAR-N° 1177\nEm decorrência", "Carta Circular", 1177),
+                                    ("CARTA-CIRCULAR Nº 1.237\nEm decorrência", "Carta Circular", 1237),
+                                    ("1\nRESOLUÇÃO Nº 580\nO BANCO CENTRAL DO BRASIL", "Resolução", 580),
+                                    ("CIRCULAR Nº 3.340\nAltera", "Circular", 3340),
+                                    ("CIRCULAR 3.377\nDispõe sobre a remessa de informações", "Circular", 3377)):
+            with self.subTest(texto[:40]):
+                self.assertTrue(b.numero_no_pdf(texto, tipo, numero))
+        for texto, tipo, numero in (("CARTA-CIRCULAR Nº 1.238", "Carta Circular", 1237),
+                                    ("CARTA-CIRCULAR Nº 2989", "Circular", 2989),  # carta-circular não é circular
+                                    ("CARTA–CIRCULAR Nº 2989", "Circular", 2989),
+                                    ("CIRCULAR Nº 2989", "Carta Circular", 2989),
+                                    ("x" * 700 + " CIRCULAR Nº 2989", "Circular", 2989)):  # só vale no alto
+            with self.subTest(texto[-30:]):
+                self.assertFalse(b.numero_no_pdf(texto, tipo, numero))
+
+    def test_data_junto_do_numero(self):
+        rodape = "CARTA-CIRCULAR Nº 701\n\nTexto.\n\nCarta-Circular nº 701, de 29 de dezembro de 1981\n\f"
+        self.assertEqual(b.data_no_pdf(rodape * 2, "Carta Circular", 701), {"1981-12-29"})
+        self.assertEqual(b.data_no_pdf("Resolução nº 580, de 1º de novembro de 1979", "Resolução", 580), {"1979-11-01"})
+        self.assertEqual(b.data_no_pdf(PDF_2989, "Carta Circular", 2989), set())  # o fecho não traz o número
+        self.assertEqual(b.data_no_pdf("Circular nº 3.341, de 18 de janeiro de 2007", "Circular", 3340), set())
+
+    def test_paginas_em_imagem(self):
+        cabecalho = ("page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n"
+                     "--------------------------------------------------------------------------------------------\n")
+        info = "Page    1 size: 595.32 x 841.92 pts (A4)\nPage    2 size: 595.32 x 841.92 pts (A4)\n"
+        logo = "   1     0 image     576    91  rgb     3   8  jpeg   no        10  0   102   102 10.2K 6.6%\n"
+        scan = "   2     1 image     618   861  gray    1   8  jpeg   no        15  0    96    96 50.1K 9.6%\n"
+        mascara = "   2     2 smask     618   861  gray    1   8  image  no        16  0    96    96 1.0K 1.0%\n"
+        self.assertEqual(b.paginas_em_imagem(cabecalho, info), [])
+        self.assertEqual(b.paginas_em_imagem(cabecalho + logo, info), [])  # logotipo de 5% da página
+        self.assertEqual(b.paginas_em_imagem(cabecalho + logo + scan + mascara, info), [2])
+        with self.assertRaises(RuntimeError):
+            b.paginas_em_imagem("", info)
+
+    def test_grava_o_texto_do_pdf_original_e_refaz_do_cache(self):
+        rede = self.rede()
+        self.assertEqual(self.processar(rede), ("ok", None))
+        self.assertEqual(rede.pedidos[1], URL_2989)
+        md = self.ler("cartas-circulares/2001/carta-circ-2989-2001.md")
+        for trecho in ['titulo: "Carta Circular nº 2.989, de 12 de dezembro de 2001"', "data: 2001-12-12",
+                       'versao_texto: "original: PDF da versão original (v1)', f'fonte_texto: "{URL_2989}"',
+                       "informamos os novos padrões de cores"]:
+            self.assertIn(trecho, md)
+        for cache in ("carta-circ-2989-2001.pdf.gz", "carta-circ-2989-2001.json.gz"):
+            self.assertTrue((b.FONTE / "cartas-circulares/2001" / cache).exists())
+        (b.PASTA / "cartas-circulares/2001/carta-circ-2989-2001.md").unlink()
+        self.assertEqual(self.processar(RedeFalsa({})), ("ok", None))  # do cache, sem rede
+
+    def test_sem_o_pdf_original_retem(self):
+        # de 2016 em diante o PDF não está em /pre/normativos/ (Carta-Circular 3.756/2016, 21/11/2026)
+        estado, falha = self.processar(self.rede(pdf=(404, b"", "")))
+        self.assertEqual(estado, "retido")
+        self.assertIn("não está em /pre/normativos/", falha["motivo"])
+        self.assertEqual(falha["pdf"], URL_2989)
+
+    def test_numero_nao_utilizado_retem_com_motivo_proprio(self):
+        # Carta-Circular 3.717/2015 e outras: o PDF do portal só diz isso
+        estado, falha = self.processar(self.rede(), "Número não utilizado.\n")
+        self.assertEqual(estado, "retido")
+        self.assertIn("número não utilizado", falha["motivo"])
+
+    def test_data_do_proprio_ato_quando_o_portal_traz_a_da_publicacao(self):
+        # Circular 3.467/2009: "de 14 de setembro de 2009" no PDF; o portal, 15/9, a da publicação
+        self.assertEqual(b.data_do_ato({"2009-09-14"}, "2009-09-15"), "2009-09-14")
+        self.assertIsNone(b.data_do_ato({"2011-04-15", "2011-04-25"}, "2011-04-25"))  # Circular 3.532: duas datas
+        self.assertIsNone(b.data_do_ato({"2001-12-13"}, "2001-12-12"))  # o PDF depois do portal
+        self.assertIsNone(b.data_do_ato({"2001-10-01"}, "2001-12-12"))  # mais de 30 dias
+        self.assertIsNone(b.data_do_ato({"inválida"}, "2001-12-12"))
+        texto = PDF_2989 + "\nCarta-Circular nº 2.989, de 11 de dezembro de 2001\n"
+        self.assertEqual(self.processar(self.rede(), texto), ("ok", None))
+        md = self.ler("cartas-circulares/2001/carta-circ-2989-2001.md")
+        self.assertIn('titulo: "Carta Circular nº 2.989, de 11 de dezembro de 2001"', md)
+        self.assertIn("data: 2001-12-11", md)
+
+    def test_portal_sem_a_versao_original_retem(self):
+        estado, falha = self.processar(self.rede(Documentos="C_Circ_2989_v2_L.pdf;18#;"))
+        self.assertIn("não lista o da versão original", falha["motivo"])
+
+    def test_retencoes_do_texto_do_pdf(self):
+        rede = self.rede()
+        casos = (((PDF_2989, [2, 3]), "página em imagem"),
+                 ((PDF_2989.replace("Nº 2989", "Nº 2988"), []), "difere do índice"),
+                 ((PDF_2989 + "\nCarta-Circular nº 2.989, de 13 de dezembro de 2001\n", []), "data no PDF difere"),
+                 ((PDF_2989.replace("etiquetas.\n\n", "etiquetas, conforme folhas anexas.\n\n", 1), []), "anexo próprio"))
+        for (texto, imagens), motivo in casos:
+            with self.subTest(motivo):
+                estado, falha = self.processar(rede, texto, imagens)
+                self.assertEqual(estado, "retido")
+                self.assertIn(motivo, falha["motivo"])
+        self.assertFalse(list(b.PASTA.glob("*/*/*.md")))
+
+    def test_folhas_do_manual_no_proprio_pdf_contam_como_anexo(self):
+        # Carta-Circular 999/1984: a carta remete às folhas do MNI, que vêm nas 16 páginas seguintes do mesmo PDF
+        carta = PDF_2989.replace("etiquetas.\n\n", "etiquetas, nas folhas anexas.\n\n", 1)
+        folhas = ("\fTÍTULO: CAIXAS ECONÔMICAS – 11\nCAPÍTULO: Operações Ativas e Passivas – 9\n"
+                  "SEÇÃO: Depósito à Vista – 12\n1 – As caixas econômicas estaduais não podem manter contas.\n"
+                  "Carta-Circular nº 999, de 23.02.84 – At. MNI nº 728\n")
+        self.assertEqual(self.processar(self.rede(), carta + folhas), ("ok", None))
+        self.assertIn("As caixas econômicas estaduais", self.ler("cartas-circulares/2001/carta-circ-2989-2001.md"))
+        (b.PASTA / "cartas-circulares/2001/carta-circ-2989-2001.md").unlink()
+        estado, falha = self.processar(self.rede(), carta + "\fTÍTULO: CAIXAS ECONÔMICAS – 11\n")  # uma marca só
+        self.assertEqual(estado, "retido")
+        self.assertIn("ausente do PDF da versão original", falha["motivo"])
+
+    def test_modo_pdf_troca_so_a_retencao_antiga_do_pdf(self):
+        b.INDICE.mkdir(parents=True)
+        outro = {"id": "1", "tipo": "Carta Circular", "numero": 1, "data": "1965-01-01"}
+        (b.INDICE / "carta-circular.json").write_text(json.dumps([self.ITEM, outro]), encoding="utf-8")
+        b.FALHAS.write_text(json.dumps({"tipo": "Carta Circular", "numero": 2989, "id": "46990", "motivo": b.SO_PDF})
+                            + "\n" + json.dumps({"tipo": "Carta Circular", "numero": 1, "id": "1",
+                                                 "motivo": "imagem no texto: o conteúdo visual não entra no Markdown"})
+                            + "\n", encoding="utf-8")
+        rede = self.rede()
+        with patch.object(b, "Rede", lambda rps: rede), patch.object(b, "ler_pdf", return_value=(PDF_2989, [])):
+            self.assertEqual(b.main(["--tipos", "Carta Circular", "--pdf"]), 0)
+        self.assertEqual([json.loads(l)["numero"] for l in b.FALHAS.read_text(encoding="utf-8").splitlines()], [1])
+        self.assertEqual(len(rede.pedidos), 2)  # a 1 não é refeita: não está retida por texto só nos PDFs
+        self.assertTrue((b.PASTA / "cartas-circulares/2001/carta-circ-2989-2001.md").exists())
 
 
 class Recusa(unittest.TestCase):

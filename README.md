@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 21/11/2026 eram **1.463.293 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 21/11/2026 eram **1.464.758 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 527.909 | 90,7% |
-| 2 | Infralegal e jurisprudência | 806.611 | 78,7% |
+| 2 | Infralegal e jurisprudência | 808.076 | 78,9% |
 | 3 | Direito municipal | 128.773 | 1,1% |
-| | **Total** | **1.463.293** | |
+| | **Total** | **1.464.758** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -229,7 +229,7 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | Porto Alegre (RS) | SAPL da Procuradoria-Geral do Município e da Câmara |
 | Nova Prata (RS) | Portal Legislativo da Câmara |
 | Uberlândia (MG) | Diário Oficial do Município |
-| Banco Central do Brasil e CMN | Portal de normativos do Banco Central (API): resoluções do CMN e do BC, circulares, cartas circulares e instruções normativas, no texto que o BC mantém, com as alterações incorporadas |
+| Banco Central do Brasil e CMN | Portal de normativos do Banco Central (API): resoluções do CMN e do BC, circulares, cartas circulares e instruções normativas, no texto que o BC mantém, com as alterações incorporadas; quando o portal só tem o texto em PDF, o PDF da versão original (`/pre/normativos/`), sem as alterações posteriores |
 | CONAMA | Diário Oficial da União a partir de 2017; de 1984 a 2016, o portal do CONAMA (`conama.mma.gov.br`), com a exceção ao `robots.txt` descrita abaixo |
 | CONTRAN e demais reguladores | Diário Oficial da União, Seção 1 |
 
@@ -272,7 +272,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | **Valinhos**: 576 atos de 2017 a 2026 no recorte dos Atos Oficiais | retidos por integridade em [`municipais/SP/valinhos/_falhas.jsonl`](municipais/SP/valinhos/_falhas.jsonl) (republicação ou citação de ato antigo, anexo depois das assinaturas, quadro lido como prosa, epígrafe repetida, edição com a data de outra no título), mais 42 republicações a conferir; 48 edições ficam fora porque o número impresso no PDF falta ou não é o da listagem. Os Atos Oficiais começam em 2017: as edições anteriores, jornal com notícias e atos (2006 a 2016 e 71 de 2017), estão em cache, fora do leiaute lido |
 | **Vinhedo**: 1.180 atos de 2021 a 2026 no recorte do Boletim Municipal | retidos em [`municipais/SP/vinhedo/_falhas.jsonl`](municipais/SP/vinhedo/_falhas.jsonl): 88 porque a página reproduz o documento escaneado, cujo texto é OCR da origem, e os demais por integridade (falta de artigo ou de assinatura, texto depois das assinaturas, quadro lido como prosa), em boa parte também documentos escaneados; 526 edições têm páginas em imagem sem texto, cujos atos não são lidos, e 4 ficam fora sem número no cabeçalho. O Boletim gerado pelo sistema começa em agosto de 2021: as edições anteriores, jornal composto no InDesign (2010 a julho de 2021), estão em cache, fora do leiaute lido |
 | **Jarinu**: 420 das 421 normas coletadas do SAPL da Câmara | retidas no fechamento do SAPL (`auditar_integralidade_pdf_sapl.py` e `auditar_imagens_pdf_sapl.py`): as de 1995 a 2020 são PDFs escaneados com o OCR da origem embutido e não entram como nascidas digitais (200 com imagem de página inteira, 106 com texto que diverge do PDF); as de 2021 a 2026, nascidas digitais, não passam no confronto integral porque o coletor descarta o timbre e o carimbo 1Doc da margem, que o confronto não desconta (110), e 4 têm imagem a revisar. Entra só a Resolução nº 2/2019 |
-| **Banco Central**: 2.620 dos 14.878 normativos do portal | retidos em [`reguladores/bcb/_falhas.jsonl`](reguladores/bcb/_falhas.jsonl): 2.230 com o texto só nos PDFs das versões (sobretudo de 1964 a 1999, pede extração do PDF ou OCR), 332 com anexo próprio referido e ausente do texto (parte pode estar íntegra, com o anexo sem título), 57 com imagem no texto e 1 vazio; os 44.003 Comunicados ficam fora |
+| **Banco Central**: 942 dos 14.878 normativos do portal | retidos em [`reguladores/bcb/_falhas.jsonl`](reguladores/bcb/_falhas.jsonl): 526 com página em imagem no PDF (anexo, tabela ou formulário escaneado), 285 com anexo próprio referido e ausente do texto (214 no texto do portal, 71 no PDF), 57 com imagem no texto, 26 números não utilizados, 25 de 2016 em diante cujo PDF só está em `/Lists/` (proibido pelo `robots.txt`), 12 com a data do PDF diferente da do portal, 9 com erro de digitação no número do PDF, 1 vazio e 1 sem a versão original listada; outros 213, já publicados, citam anexo que não está no texto e estão no registro de pendências de integralidade; os 44.003 Comunicados ficam fora |
 | **CONAMA**: 13 dos 484 registros de 1984 a 2016 na listagem do portal | retidos em [`reguladores/conama/_falhas.jsonl`](reguladores/conama/_falhas.jsonl): 6 sem arquivo, 2 registros com número repetido na listagem, 2 com a epígrafe que não confere com a listagem (a 21/1993 traz "N.º 2A"), 2 arquivos que não são PDF (página de erro e arquivo vazio) e 1 PDF escaneado, que pede OCR |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 

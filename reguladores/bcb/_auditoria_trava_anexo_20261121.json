@@ -1,0 +1,1312 @@
+{
+  "data": "2026-11-21",
+  "criterio": "Normativos do Banco Central já publicados que a trava de anexo próprio atual retém e a anterior (0fd242cfffc) deixava passar: o texto remete a anexo do próprio ato (folhas do manual que ele atualiza, modelos, instruções, tabelas) que não está no texto do portal; em 86, o próprio portal avisa que o anexo está à disposição na Sede do Banco Central.",
+  "regra": "scripts/baixar_bcb.py: anexo_proprio_ausente (folhas, modelos, instruções e tabelas anexas; nota de anexo à disposição na Sede)",
+  "itens": [
+    {
+      "path": "reguladores/bcb/cartas-circulares/1990/carta-circ-2050-1990.md",
+      "sha256_md": "9c760891c018ce04bb010aa77665b811fa77fbb5b9616ec4c50599ecce920ae3",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2050",
+      "remissao": "folha anexa"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1990/carta-circ-2077-1990.md",
+      "sha256_md": "0dd0cd9b638ae0bf9ea6337f8d017f49ed21a89f5939a5170694c65db85f0178",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2077",
+      "remissao": "constante do anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1990/carta-circ-2085-1990.md",
+      "sha256_md": "7c634c1046b7a27cf2ba09f5ac4ea2c71e8de6d7ce907520585fc512eb647393",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2085",
+      "remissao": "modelo anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1990/carta-circ-2117-1990.md",
+      "sha256_md": "99b9f28c2ebef47b99474c7e69557247e168b226da91fe1f5f89442413da9fca",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2117",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1991/carta-circ-2221-1991.md",
+      "sha256_md": "6c0a7c36c6b66ed1fd806f8579d1f7b117303c261948fb4af7d9f067a26162bc",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2221",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1992/carta-circ-2292-1992.md",
+      "sha256_md": "e6e20eed6d0384c591bffb836d4bf275b2cca418fe4f6f608dd77be514f2d08b",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2292",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1992/carta-circ-2309-1992.md",
+      "sha256_md": "df85861aee83df5c05093c7c48f8c5717d79f27a4b283ce1f5c07175b32e4f85",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2309",
+      "remissao": "demonstrativo anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1993/carta-circ-2402-1993.md",
+      "sha256_md": "4973de8994e94edc2a8665c747096ce25f9b0873542c478396eaa23b5cf05a98",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2402",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1993/carta-circ-2410-1993.md",
+      "sha256_md": "9617582ad363b4d1ec32d8991f5a3ecd934f8531df1af5ac521f31739bca540d",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2410",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1994/carta-circ-2523-1994.md",
+      "sha256_md": "072fd6c392854e5a5cb3a0f6d74101a848b605bfd59e9aa504a1374d1204bdce",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2523",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1995/carta-circ-2582-1995.md",
+      "sha256_md": "b2454fdc066311d72293782c945ca1ac0457d5a3813c3c4507120ec62a2e5c4e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2582",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1996/carta-circ-2685-1996.md",
+      "sha256_md": "4d2c52eca9860699542f181745503d4348ebfb4e567f0c731b1e2846a8f44b62",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2685",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1997/carta-circ-2750-1997.md",
+      "sha256_md": "ad3adcd27177d04ac33acfb5ab0ab8f36b21cce2265b8e035478947ec4a1682d",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2750",
+      "remissao": "relacoes anexas"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1998/carta-circ-2782-1998.md",
+      "sha256_md": "ddbf8bea57ba41c0c5659b934f6b27007e7f2334fbbb7ee18900a4a723cfe2b3",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2782",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1998/carta-circ-2807-1998.md",
+      "sha256_md": "92e78b127541a69e744e8b912a334b4ae99e3b3be4ea86cbbed51c2c51f4f248",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2807",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1999/carta-circ-2850-1999.md",
+      "sha256_md": "e2e628e3bff28b5af663a9e9be72cd48fdba5fc06a6e576273a545eb4447e606",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2850",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/1999/carta-circ-2871-1999.md",
+      "sha256_md": "36bee4adce3e1951e3d13a06c910695f45121240e0d385e49116ca0e5c531ea6",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2871",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2000/carta-circ-2896-2000.md",
+      "sha256_md": "b74dc34f37042fc5e54ec759aba962b26a0068f84b32051fd89be38d37206cd2",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2896",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2001/carta-circ-2952-2001.md",
+      "sha256_md": "457459eb19bc11211a86f8cef67ef98dc8e36df18830efffbcccb57b9356abdd",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2952",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2001/carta-circ-2968-2001.md",
+      "sha256_md": "eec3cf7ae1388917a5f0002f1283a8c3d89b5f09b14d631067cc87a6ef401b55",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=2968",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2002/carta-circ-3000-2002.md",
+      "sha256_md": "aac1ce4b1df10039633bedeb5dcb3dc1cf4d0eb40eb57d93660d85e2a7ed81c6",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=3000",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2003/carta-circ-3081-2003.md",
+      "sha256_md": "d1edabd341059270ef4b1b9f7af869bcbde88b4c6cef99abefe4cc07da0278cf",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=3081",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2004/carta-circ-3142-2004.md",
+      "sha256_md": "927ab52396f1d32d6f5045a61aabdc3c36ee1e143b485721f4db7d362d022e47",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=3142",
+      "remissao": "demonstrativos anexos"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2006/carta-circ-3249-2006.md",
+      "sha256_md": "c41293814ee1c46de2fe49959693e7edd70322ab8b227e21863d282f5000ef2f",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=3249",
+      "remissao": "instrucoes anexas"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2008/carta-circ-3330-2008.md",
+      "sha256_md": "86b06a75701201d22431663732fcceaade355afba9b044429fd44fbbe0da9155",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=3330",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1965/circ-19-1965.md",
+      "sha256_md": "c5834d6bc3a9122eb596cf137217fb9bc96bea54640c940f2a939b6cd7696c3c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=19",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1966/circ-63-1966.md",
+      "sha256_md": "1d5696d39b3bca700e3fa4935ae05b765534872b598c18e3d3cd35bd80783730",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=63",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1966/circ-67-1966.md",
+      "sha256_md": "8ab623982290f6bc97b0b52f01c6f02cb432cafaf656d1097cb027af74c1604c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=67",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1967/circ-102-1967.md",
+      "sha256_md": "025b46bb96d2536b261a36b5362e39a39a4d88526162dc85afca6df0909b124d",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=102",
+      "remissao": "documentos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1967/circ-104-1967.md",
+      "sha256_md": "aa63e7987d30f1788f8c6ef66b419afd45aa3576d79dfc3ef684de4d26a5c7ec",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=104",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1967/circ-106-1967.md",
+      "sha256_md": "d820a5415db185d021097811247f76323b5b1175fd5a3703a6b78a301c6b22aa",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=106",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1967/circ-70-1967.md",
+      "sha256_md": "d3830c0ed553bb4096ff2844a61e1d0bdd6fce1cb97d03c9684e49f1263ebfe8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=70",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1967/circ-84-1967.md",
+      "sha256_md": "27c309c2838fe9b748686980fdd5aca2124f394f3a5055f40b3902b2e8b1da5c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=84",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1967/circ-89-1967.md",
+      "sha256_md": "b6656fdfc11c4e3aaffe7952a7c2582d65b48da4f1fb6cc8253ac868de790611",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=89",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1967/circ-96-1967.md",
+      "sha256_md": "0fff7cd995545a37130ef7933ee7e8657d1ec2759952b3c8abcd2b1d01d9f5ec",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=96",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1968/circ-114-1968.md",
+      "sha256_md": "457e896394e57c6ec82489e24469d6045fe6f71d10c5166597701bc672399701",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=114",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1969/circ-132-1969.md",
+      "sha256_md": "e97edc1dd7b2751b6b405c4b8fc706da98481a8252bd2a474ce37fab2cc6c205",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=132",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1971/circ-153-1971.md",
+      "sha256_md": "27273ddee4557e554923d6d367f7e9ee3deec1e9bf5f21b13bbc564eb3d71cdc",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=153",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1971/circ-163-1971.md",
+      "sha256_md": "28367d71fd89b5fa48195b2ecc127ef4f26c52dc820291a14c39eda124ce3e6e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=163",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1972/circ-185-1972.md",
+      "sha256_md": "f7846d6575072fe1e13fa17996346e389e7c7514017b26e6c78a6114d8d548f5",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=185",
+      "remissao": "mapa anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1973/circ-199-1973.md",
+      "sha256_md": "08300efaede55886c8f2b08e4dbdd941b1e0189b5e2b67bb84773fbcc3c9323f",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=199",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1975/circ-249-1975.md",
+      "sha256_md": "e1a603e6106dd4d00eb0d8a3f0324fcd3f4b20d88855523bf485653302e9bafa",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=249",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1975/circ-253-1975.md",
+      "sha256_md": "25422e57264d04577130069b331441469739b9bc1e8b8c611ec33db6c9aca90f",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=253",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1977/circ-334-1977.md",
+      "sha256_md": "c23678283dde8830650383179819d1715aece949b54c8802bb78da00caebac94",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=334",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1977/circ-337-1977.md",
+      "sha256_md": "727301827409efddcf44227d45bbdc924cdaaae0f04e235f646a2e7ba65bc3c5",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=337",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1977/circ-354-1977.md",
+      "sha256_md": "a1138a821ce31b0e58fc29b54039b6a7dcf2aa09aae6a6280648766eed68d299",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=354",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1977/circ-355-1977.md",
+      "sha256_md": "21a425b8110727c93bf9e796a7f0c212239e036f4ed405cd59fa7e5facecb350",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=355",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1978/circ-361-1978.md",
+      "sha256_md": "3195980c5f6a7089f157342d1d72947f6b0909aab9099245f204594534d0dfc4",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=361",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1978/circ-374-1978.md",
+      "sha256_md": "aa74c627efc2201cb83287d4ec4695bdaf747dd130f4f7748af08c5bcee1d268",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=374",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1978/circ-387-1978.md",
+      "sha256_md": "63ea92850428ccf3032a06c3fb80f6fc38111b715728779552c8061c8ace1a65",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=387",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1978/circ-393-1978.md",
+      "sha256_md": "d1f21c4f3ae3483f5c59b08c26095eb62175b142247f22628b9df04a01573a70",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=393",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1978/circ-396-1978.md",
+      "sha256_md": "0faf611643b8378e329e5b559a3d44a52316af4db94cf2baecd812e61f024614",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=396",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1978/circ-406-1978.md",
+      "sha256_md": "3eab24745c8c4a55f4f6351ac83e36a1f3b897f8b011ba3b5290899bf1df78fe",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=406",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1979/circ-429-1979.md",
+      "sha256_md": "46325a7eba2ad418efe42bc0ca9fc741e446fad8412925a150ac8579c5c1ac1e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=429",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1979/circ-434-1979.md",
+      "sha256_md": "047225100e0484d6c6bb681a542df465e31e5557229ed65655eaf6411bfa8662",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=434",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1979/circ-436-1979.md",
+      "sha256_md": "985b05bfede632f5899c63519fb0e40ca2bb64ac4c8ab1d456240326692e880c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=436",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1979/circ-448-1979.md",
+      "sha256_md": "5d373fd06b43793703fcda2d58370d36017f0086cfb43b1628e3a965ab9135eb",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=448",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1979/circ-451-1979.md",
+      "sha256_md": "3ddc073e5bd2f2a817f40f19143b71bc3272b61fb84f613e7a92e3a7ef4496bb",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=451",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1979/circ-466-1979.md",
+      "sha256_md": "e6a8b02dbcb5a9bf787af8432a47d759fee3a98469f878f4375f33156bdfa39f",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=466",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-494-1980.md",
+      "sha256_md": "980e53b5852505e3fa1c8e6f63389cfb7a26dc4e6889ff77be17da4ccd697e35",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=494",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-501-1980.md",
+      "sha256_md": "8c3bdef4b3d5409d92453183087c02efe4ada66ab5b6f479de845ba68fa3371d",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=501",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-518-1980.md",
+      "sha256_md": "78da5ab09aa43d6f19fd8e41dfaf19720229b727f7ed6e1a8bd8c08b3a6598a9",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=518",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-521-1980.md",
+      "sha256_md": "7e4fba91904e99ad3037eca3244557cd47d3a59779bf5d876b4baa000dd17906",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=521",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-529-1980.md",
+      "sha256_md": "a85da6c76d70d8b9c31b214b70a0a0e8d34ee6596d2cdbe3234701d8d723ddbc",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=529",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-531-1980.md",
+      "sha256_md": "8bf1261cb01bf4bebae6f21707eac57115503e13a9064a1f7fbbb958f5afa7df",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=531",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-550-1980.md",
+      "sha256_md": "7a4f35ada0a535e7b12fbfeb4c7fb546d4c23370b148083296ef626d0febb1da",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=550",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-552-1980.md",
+      "sha256_md": "1bb78392f824406d757f5724de1972ffce15305b16bfea776b0421b8eb9aaadb",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=552",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-553-1980.md",
+      "sha256_md": "57dc09fa736db45371396c5b4847a4c6a727ac0d78d5e3ff935e8e190e09c307",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=553",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-556-1980.md",
+      "sha256_md": "6c87164046a3c96be45c7363d05e213036f5296e1cbc5ef3eff537639545bb73",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=556",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-562-1980.md",
+      "sha256_md": "d5c74564bbaa74f1ab3695cb26dd0300c4a3fc8c73da79b64093959dc8be33fe",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=562",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-570-1980.md",
+      "sha256_md": "4de7bc56ad3b9aba62090e306a881b5480b92d1dae898f5676819582ec688853",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=570",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-583-1980.md",
+      "sha256_md": "59cc43d5ae27950a34536b4ef6fa4551925d06397315c7bd003d494251fd7a07",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=583",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-594-1980.md",
+      "sha256_md": "3932555596a772165baed07caefeccf3bc3fea974eeb033ca51628eacf0717d0",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=594",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1980/circ-598-1980.md",
+      "sha256_md": "c557890de245a1a0c23093e606efff60ff75d54a7ddc6c42e788fd13ce00e13c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=598",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1981/circ-603-1981.md",
+      "sha256_md": "44a96d55aa90b66a156afd94597cc459ebbf45b4ad7c7316e7352ce9ae1c3ad5",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=603",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1981/circ-626-1981.md",
+      "sha256_md": "5321a18c18c9537032f00789583a786348db4a441533a84517113a5983614c59",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=626",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1981/circ-645-1981.md",
+      "sha256_md": "156d52833e6576f16158c1496f8ac6e32803078b0700f2815b513a52f8d77c4e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=645",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1981/circ-647-1981.md",
+      "sha256_md": "b449ad3adbd3230a3480d8bc3e488924bc06cb570479741925092cd5d3dcb2c3",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=647",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1981/circ-655-1981.md",
+      "sha256_md": "78695c594f422b48eb021c6d6f029eb58ebbe9d43671b77d759917cdc2af68fb",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=655",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1981/circ-664-1981.md",
+      "sha256_md": "a6b54ef1fc45725d1678fdfaf66597225cd327fffbe5f87b399ac510bc04499b",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=664",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-673-1982.md",
+      "sha256_md": "27187d6ff27aec63d6f281d249d6293b2871901058159ec70396bafa33e3a586",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=673",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-675-1982.md",
+      "sha256_md": "d4a9dac396dd145bfd406b032c2de134acb75ec5a797f9e572dc010f29d0b031",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=675",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-681-1982.md",
+      "sha256_md": "c6c2fd7ae0dcfe5fb17b369c1976347d5bcb984dcf87799ee0b65d08fb9d9424",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=681",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-689-1982.md",
+      "sha256_md": "1f6ee8db945cd9de970a677e218cb05a7fcd46275dd3861dc6e71d5e812aaf0b",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=689",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-714-1982.md",
+      "sha256_md": "f8147eb554c0ab5ad87c8615629900fe920fc48fdbb98ddc9a53dda808db5a0f",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=714",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-716-1982.md",
+      "sha256_md": "c34f9c288596c607e6818c087be85ecfc6d32eea571f207f2c131dbe1d6cce04",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=716",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-734-1982.md",
+      "sha256_md": "2f9d4f55caf48094fc42b69d9b60456505d655cacbe147dfbb21ea40252ea112",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=734",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-735-1982.md",
+      "sha256_md": "e78fda4bb5c33db5c9cdb8ea167e8ef49016cae64b9f53d4bacc09aca3d07648",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=735",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-739-1982.md",
+      "sha256_md": "e993c0d62d3a1503aebdd07f47715a2f998880d8366381216963cc4e870f649c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=739",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-740-1982.md",
+      "sha256_md": "d854b2ca63d0ea1b7eaa2d12db21fdf36770897ac428584c6f31c9e76deb3bff",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=740",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-742-1982.md",
+      "sha256_md": "8b7c643faba29348f9497fc866c8d0dca41b84f55920b63daee73b887fbdf560",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=742",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1982/circ-747-1982.md",
+      "sha256_md": "0a4cda5738c4f0185d9c9cded3ba29b638e958a7531139ce364ff5ec13b01a22",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=747",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-762-1983.md",
+      "sha256_md": "ac5f1f03525338186504ee57b2e166b60c84418a944164455a726295d738136a",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=762",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-772-1983.md",
+      "sha256_md": "3d5796e64f386a8566a2183567fcc22421ab36928338ea965a224fcb86b2f3dd",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=772",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-775-1983.md",
+      "sha256_md": "1413b9986514f4bfebd86d7a96b95ec08192f5a181bc1ef3bef7d2a370f14af5",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=775",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-791-1983.md",
+      "sha256_md": "550566c97e7811df6e7fe44288e466b85bfe62837e960466ff0387ce9e2917bc",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=791",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-792-1983.md",
+      "sha256_md": "faa8a2e356ae1d621a2a7824fae718b87df13d0fbe7e5255da26dc35377f5f49",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=792",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-795-1983.md",
+      "sha256_md": "32e3bc0ce9b38087bee908477457cf9f4935ec41ff819f08984c7274f34041f8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=795",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-800-1983.md",
+      "sha256_md": "8b30562210351e183ea9fb1a4305e0a93ecfc4ad450b883a2c7ea0eace04cf67",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=800",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-812-1983.md",
+      "sha256_md": "967dd5cbb7e8663e029841d162d6addf56442b84d15ef5f357229d791233340c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=812",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-813-1983.md",
+      "sha256_md": "21072caf7bfa5c4b883b32780342ced07905e2cd62f74f4e524f33777f186bca",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=813",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-814-1983.md",
+      "sha256_md": "332d44e5421e7e82ca35824b63fcde292988298cb9e437a8d0345dfa0a819dee",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=814",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-819-1983.md",
+      "sha256_md": "640504cfe6bd119127322b2b847b4654b0f4cc5dcdba64c3272d3b25180a2788",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=819",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-821-1983.md",
+      "sha256_md": "d98ab8b6c8c4053afc5c848c6815e3f573fcea613d29543da84dce98cabb799a",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=821",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-824-1983.md",
+      "sha256_md": "111e9710e419b5e34a8dfc55221a32f491ec537bb2aa99fc5c1f91de0fe224f7",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=824",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-826-1983.md",
+      "sha256_md": "5c5d33e1009f3adc77fbc60c5f86a73139bba199d607c4d3383e9df84974ce50",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=826",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1983/circ-837-1983.md",
+      "sha256_md": "6c9440c30228a8bd48305de23662ec9159e2e75e190637d30dc556d4d452af74",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=837",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1984/circ-866-1984.md",
+      "sha256_md": "c7589b2ff10142d21a6fdf20c6b43cd4c87f21c9de6330aaa88de010425c4ed8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=866",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1984/circ-876-1984.md",
+      "sha256_md": "57b1ecb6b1d2752af841e3ff7b8ac21f33f3f901deb5a98ad6d386ec7d14c47c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=876",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1984/circ-882-1984.md",
+      "sha256_md": "7dbe8ad9508d45ec66f45035f68136748a5560085147acdea14955fecbcf0ee9",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=882",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1984/circ-905-1984.md",
+      "sha256_md": "13b8c8dd47102d4d8e7b04bfb097b02b9c89c05ae69856fdd1cfda965c278531",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=905",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1985/circ-910-1985.md",
+      "sha256_md": "9450856e7fefd317e3153502351c8705525a76dcda8465c760ce904b563c3947",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=910",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1985/circ-919-1985.md",
+      "sha256_md": "0719a8a34a136a41a6bba88c1695dfa6311228bdfa20a71f983390219a8d03fd",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=919",
+      "remissao": "folha anexa"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1985/circ-920-1985.md",
+      "sha256_md": "711905994cdb3f06e93a41369a8f2da781b7426076f44f242314829a558cbce8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=920",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1985/circ-926-1985.md",
+      "sha256_md": "977fc5710bea765305806ed1b76568d5adae68723307b0fea8e9e543ca80e099",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=926",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1985/circ-956-1985.md",
+      "sha256_md": "ca4a5de90b20815fe6d76daf5e53ba4791efcf7d21626d265acd97f3d88dbb74",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=956",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1985/circ-974-1985.md",
+      "sha256_md": "d38250e993488c53603058321964fc63a5f1eccfe70094383cf33902ff6d706e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=974",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1985/circ-981-1985.md",
+      "sha256_md": "259327d1da4a8f9cfcd4b3468f7e376904e02b1a41ee44a4827843ef71f7bf3b",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=981",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1986/circ-1010-1986.md",
+      "sha256_md": "f660b94680b14edea2a554e1c4e1b225c75b3a44211b92147c5e2c5768dc9fa7",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1010",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1986/circ-1039-1986.md",
+      "sha256_md": "9f21fb54dd8f014d8c2c2cd3ed9b82325e4b1d83489453145ab02923d896b6cb",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1039",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1986/circ-1058-1986.md",
+      "sha256_md": "8df2b908f119855af2ecc7bac0ee38b1f74d59f207d933ab951d90bf9e517f9c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1058",
+      "remissao": "demonstrativo anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1986/circ-1075-1986.md",
+      "sha256_md": "91823301cb7898f41d6f3d5f81687ac760a79589178170fe90017143747d3452",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1075",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1986/circ-1087-1986.md",
+      "sha256_md": "3fc5a7e20516e75f7f4ea48e88274f6941bc0f4760f2a6610c8e723feded236a",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1087",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1986/circ-1096-1986.md",
+      "sha256_md": "5d4520d5f535dc5b1130156344cdca1e97addbd834267fb565fc739a7c525450",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1096",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1986/circ-992-1986.md",
+      "sha256_md": "c53f559c5f276e77a59d7b37578788fd2e879679f31b875b8933da9d763aee7c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=992",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1987/circ-1115-1987.md",
+      "sha256_md": "bc6e588e1a0d166a902fbfb5c1966979b22a9b75b71c4789a34c720bc2f6615b",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1115",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1987/circ-1117-1987.md",
+      "sha256_md": "eac4e81687fde4a8bbc7e358f49a1ab427abe26f47cbae9a487104a374a53158",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1117",
+      "remissao": "demonstrativo anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1987/circ-1171-1987.md",
+      "sha256_md": "69d710b4cbc5e1eb4de26dc72915c88a0914ddecc306d7eca54905351f909d0e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1171",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1987/circ-1198-1987.md",
+      "sha256_md": "eb3ab69e4c151ba33efa536a361a36349179ad95bcf0c2ad4fc2e77746366fca",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1198",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1987/circ-1211-1987.md",
+      "sha256_md": "b9d8c41c2dbd2b9d30851400323fd06b306e35a6d0af721ded1a753818efd886",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1211",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1987/circ-1229-1987.md",
+      "sha256_md": "932cedddc06b3a933df0c740819158b3f210f48c33fa74c758a8f402245980eb",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1229",
+      "remissao": "demonstrativos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1987/circ-1272-1987.md",
+      "sha256_md": "9f062b7dff749e6e00882d71de956b552d90abde51bc6ab94cf241b2c10f4c51",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1272",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1987/circ-1273-1987.md",
+      "sha256_md": "8bb7ca030e0b719aa32d2732d79f8451591d7738301ea35f3d10936adb32697f",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1273",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1988/circ-1290-1988.md",
+      "sha256_md": "f02de0ca4d4efaa5f92e60673e63b55e55c26127eb340bf4e52c644e7fdd533e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1290",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1988/circ-1304-1988.md",
+      "sha256_md": "144b43f44e5b6ee33f8fc59c565868efa19bdeb3f71b7e659843e60dace2bef2",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1304",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1988/circ-1307-1988.md",
+      "sha256_md": "ebd029ea4bfa274ddcf5fcc9b29fa49ad60004dd542c62ee96954ce73ad251a4",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1307",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1988/circ-1383-1988.md",
+      "sha256_md": "0f07d19e6165d01f4cde72eb03bdb6c8c0ea15f394863c72d9855b4c569c1645",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1383",
+      "remissao": "tabelas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1988/circ-1391-1988.md",
+      "sha256_md": "39d7948a3c7f7df7f41c307fe694159ca0d8cd779f5dfd65217d46ea00862c68",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1391",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1431-1989.md",
+      "sha256_md": "1c651e5191318e9a25b5bd06cf4d9feaa9681bfcae0aeff068df14d77cb3cb6e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1431",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1439-1989.md",
+      "sha256_md": "e6d8a737d091c4c8af03b5a3f876795e2f1e7d756d36bc454069172ecddb1211",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1439",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1481-1989.md",
+      "sha256_md": "13ab0e11d7b3249c93e66b4b208901737904ee0cbb50b82c8972f8c882bde83c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1481",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1488-1989.md",
+      "sha256_md": "78df5d39434ed2c578fb49281f2daad39da7ada4422b4047ebe7694bb6c7f68f",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1488",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1500-1989.md",
+      "sha256_md": "cf37f31fce2c316e544747a8206c914ae99db2d18be895ba0985bcf9d02b40b6",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1500",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1501-1989.md",
+      "sha256_md": "5d4f721325086ee3225f1e3c1280f6e87c88b76cf528c7281fd5cc97cce9ef29",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1501",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1509-1989.md",
+      "sha256_md": "978092b32cdc7a0639d2643b34efb4f50a83dda217a20f1c2a784d27832c553d",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1509",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1513-1989.md",
+      "sha256_md": "e87dbed040dcf0824bd6f3b2ba4ab9905e5e80baa43ddf6252d65db89dfc0c02",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1513",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1515-1989.md",
+      "sha256_md": "cff2dc0c852816ab5b3bbd1482443156319663fb8eefd7dd3ea019c3bb3e4597",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1515",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1533-1989.md",
+      "sha256_md": "dcec7ee410cf63424da1a478136a942282300a5ca2ae77787f7c6bca1ac715e1",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1533",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1535-1989.md",
+      "sha256_md": "5ee36f18799312debca109ca7e4292827f4b64e804866eb172569ff5b2a2d492",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1535",
+      "remissao": "folha anexa"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1536-1989.md",
+      "sha256_md": "ab119eeab0bfec8db0014e160589cfc219b8a37d315191f2e6e857dd602f01c8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1536",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1540-1989.md",
+      "sha256_md": "d19cac0f8cb8d4d2f8fa56fd9affef905a245e33e531094ed498b11b944780a8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1540",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1545-1989.md",
+      "sha256_md": "c094daa0c352ae838f4b7b5745b172fea0962d2b60b6b971c36757f583639bb7",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1545",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1553-1989.md",
+      "sha256_md": "8393bd5765a3c85c9fb194f3f956572fec85f3529a2c1a08fdde0ca5dc3ce36e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1553",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1989/circ-1555-1989.md",
+      "sha256_md": "3cad24dd29cc2a8923592781577470ee437b8fee79e0f1d643cb0f61a64a94b5",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1555",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1990/circ-1578-1990.md",
+      "sha256_md": "29d891197cc44a2f5a6d9b5fb1fba22ece5bb0c7a7b31edf31086ed4787622fa",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1578",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1990/circ-1580-1990.md",
+      "sha256_md": "bdf832c5b9a8d1f9c62d891aa0115ae177332c1e974ce63fca8719eff9694640",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1580",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1990/circ-1582-1990.md",
+      "sha256_md": "13be23ea425a3286a0916a9f5743bdb82e60fa980175214ff1cd57f9adc9bfa0",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1582",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1990/circ-1616-1990.md",
+      "sha256_md": "724bba6f6df7084a9cb76e6470e8d0852f9a8f13e3c6341c355328d2d271a7f8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1616",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1990/circ-1788-1990.md",
+      "sha256_md": "76100afae54bbc9593722c2621e11ecc35faba590a1e8b1eec8b5d6b2c27b4e7",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1788",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1990/circ-1853-1990.md",
+      "sha256_md": "e43a9b1ec9ef1709468cfc0ae19cba1fdbdd172731bab098b2959bc2cbdea73c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=1853",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1992/circ-2166-1992.md",
+      "sha256_md": "17f1b2a0d00c5be04c9db9ce2d6b43856691e5bf9a8f9218260f3f4e3b3f1bfb",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2166",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1995/circ-2595-1995.md",
+      "sha256_md": "2724fa0c9c6737b8d82715aef88b7b5a0c14332b40ae7078a79c7273066cc94e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Circular&numero=2595",
+      "remissao": "regulamento anexo"
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/in-bcb-426-2023.md",
+      "sha256_md": "a33c927be39f16e70a2e8b4b1ad11a9560a0390e6b88f19062bca015c0ae282c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=426",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/in-bcb-428-2023.md",
+      "sha256_md": "c99cd8fd11ec9404682f1545417330905956341675ae216a3f45371cafbbb9af",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=428",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/in-bcb-429-2023.md",
+      "sha256_md": "7c602b8823f53d866735f3602418e6fd12466452357592a05bcd2bd6f7f7a549",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Instru%C3%A7%C3%A3o%20Normativa%20BCB&numero=429",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1966/res-cmn-21-1966.md",
+      "sha256_md": "c53f44270bd2100590953665e708ee8026c8891721b598dfc289c390cea2e7fe",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=21",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1966/res-cmn-22-1966.md",
+      "sha256_md": "74be70b06232caa82c444ed69df9e4dfa0679bb0c3b416694b3649e639e76986",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=22",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1970/res-cmn-150-1970.md",
+      "sha256_md": "366e0395f8f655e913ffb149b3d05f9684e9cb89e5144c80776c27f83147a919",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=150",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1972/res-cmn-214-1972.md",
+      "sha256_md": "0263654912165e50c367ef249ca7e7b9b482350eb1e7988eb544e0a48dcb0134",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=214",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1978/res-cmn-488-1978.md",
+      "sha256_md": "888d9472bc07baba537f8942b56049099c916c4ab106bf3c6b0b004f13d4fd13",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=488",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1979/res-cmn-531-1979.md",
+      "sha256_md": "d987dbae918fe64c6d902fdcbf1f3a0c8aea25000abb487e57fc077cd1db76ca",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=531",
+      "remissao": "modelos anexos"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1979/res-cmn-532-1979.md",
+      "sha256_md": "aecd3180eed66fc286565a4719f918fa593dcbdd3239c4c9006dd7179c74d40a",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=532",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1979/res-cmn-550-1979.md",
+      "sha256_md": "b3ab39b77e23657fd185d24a1db3d9becb6abfc45ccc2f7ad11828c61a9fee58",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=550",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1981/res-cmn-720-1981.md",
+      "sha256_md": "78d5b70857258fb3143125f7469bf9f23d8451d5c02797499a688c5ad838f3d3",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=720",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1982/res-cmn-783-1982.md",
+      "sha256_md": "42acf44d61e161a979d5c0d13f1e25dc2bc99ed9cf237a65c5c3743e64c634ee",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=783",
+      "remissao": "tabelas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1983/res-cmn-816-1983.md",
+      "sha256_md": "094cb13f72a3136373d78f5b706cdcfeefda661978691f78201f258de666d878",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=816",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1983/res-cmn-852-1983.md",
+      "sha256_md": "3add37ed8bbf4f37d1cc45382b7b165ad55597c0965d239cb17078dac6df8309",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=852",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1986/res-cmn-1131-1986.md",
+      "sha256_md": "22db5de17f1f1795cbd1d83adad54662cfa9a5615fdd63dea57169ac021ea466",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1131",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1986/res-cmn-1136-1986.md",
+      "sha256_md": "10949854e0f2156a7f824e430d84b0054aaca09a021a14d0f0a0312af79c23ec",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1136",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1252-1987.md",
+      "sha256_md": "93a6d179aadced719adefb44c9a0c0c7098755d8ba69a40a66201c82269c3c08",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1252",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1264-1987.md",
+      "sha256_md": "e84d89b3aa7d7ea1c461b72f62b0324611bcdabd64b4c125990d448bb5a1ad69",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1264",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1271-1987.md",
+      "sha256_md": "dcc37bc99ee77ba4dd4c7781930da55945800c3cac87a6de1eff773bbd4cbb7f",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1271",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1272-1987.md",
+      "sha256_md": "c24997d0883990a8ff92054304976902ef57095594c633b45bb55fab28fc7a64",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1272",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1300-1987.md",
+      "sha256_md": "60a7de7419b273a348ff7eedfbb6c6bd1602096a008b7dcfd11f0e5b11911e31",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1300",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1301-1987.md",
+      "sha256_md": "82c97cb30ea79cccac91e02f6d6284f83ea52b0a9dd919848e1213eca1b89b4e",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1301",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1313-1987.md",
+      "sha256_md": "d8dcbccd1ba8e552aa4c368940c08aee34c427041d0ef23815b4e1c6f9d75fa6",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1313",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1320-1987.md",
+      "sha256_md": "ce90b4dccd9f4b6eb106d48973d91286517d9519ae7ad85f4943e1d3ff149724",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1320",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1987/res-cmn-1321-1987.md",
+      "sha256_md": "f3ec316dcd693fa10e29d22e4bb8293bd5131924f4a08c3d4bc255026b7534d5",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1321",
+      "remissao": "documento anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1988/res-cmn-1489-1988.md",
+      "sha256_md": "dddd0db00db8fa4c997f332a6bdf241f339bd2046a4cb784e4678004e8a73536",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1489",
+      "remissao": "anexo deste normativo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1988/res-cmn-1541-1988.md",
+      "sha256_md": "f4dba649f6c85b3a2bfbb789156a29b1e126fac4a90d862fd41b029dcedace28",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1541",
+      "remissao": "em anexo"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1989/res-cmn-1587-1989.md",
+      "sha256_md": "540de39422ba93b1dc6a87e05dbe5157ca14b587513bff6741eaa06b62d70a4d",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1587",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1989/res-cmn-1603-1989.md",
+      "sha256_md": "69cce3d46ed1c125f22757e3c1ad44fba38c0897dae2fbfa7f00d0940b6be494",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1603",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1989/res-cmn-1609-1989.md",
+      "sha256_md": "b8575c5749dd58db64a52b7cca37f0dc7130f3a3bc8d45f5b0ca3482dc0db0fb",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1609",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1989/res-cmn-1613-1989.md",
+      "sha256_md": "d3bad6e5b9571dad9df595673bc12a0a8122df978827d9fd10c27493a34f8ce5",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1613",
+      "remissao": "folha anexa"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1989/res-cmn-1617-1989.md",
+      "sha256_md": "c6484c5c8b292ad24f13fead7fee6a63267673cec8f54ac5d94b421700b20f92",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1617",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1989/res-cmn-1628-1989.md",
+      "sha256_md": "77587f962ba5da1193f9c1a1c6b3fcfeea8f767d71eecda53e0d730659373b97",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1628",
+      "remissao": "folha anexa"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1989/res-cmn-1636-1989.md",
+      "sha256_md": "f527b3ebd170242761fc06fc1719c29bbb37d0f1133db6c8911762f3d1dd3d01",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1636",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1989/res-cmn-1637-1989.md",
+      "sha256_md": "4d50772ae7b7e27c4f80c556dbbc306910e33e25c7b7b673852afc4dbbdaffe6",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1637",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1990/res-cmn-1678-1990.md",
+      "sha256_md": "1a14c915517abf5eaf5915e8b7ae5873d0c0295134839adc4644808122fc2c12",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1678",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1990/res-cmn-1684-1990.md",
+      "sha256_md": "f50b5a72d7b61bc0f955ea8777575404a480df024088e4b2a901aa80252ba7d8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1684",
+      "remissao": "folha anexa"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1990/res-cmn-1699-1990.md",
+      "sha256_md": "f8f0a7c4a32e6eb3d18bbb0878d314f9b2b2c30bdf6e110bc9d09e70ccf55222",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1699",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1990/res-cmn-1705-1990.md",
+      "sha256_md": "c28f56785c62d658d4a3c7becaaec185b776c5cfd667086a50bb496fd85d539c",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1705",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1990/res-cmn-1739-1990.md",
+      "sha256_md": "7ffceb69545a601981d007ee283c5ffac05869aad7f7c8c72e5dcc987c0237ac",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1739",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1990/res-cmn-1767-1990.md",
+      "sha256_md": "6990514cb76e002cf8bb9d7ab16881e4e5305bb14c7fab2d50f7a6066a9bf7d7",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1767",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1991/res-cmn-1790-1991.md",
+      "sha256_md": "060eabd2d8df719a633e3addeeb31e0838fecab6b49cc33eddfaba75388e7b18",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1790",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1991/res-cmn-1843-1991.md",
+      "sha256_md": "bd94cb7f5303b0e258700871509c1037f4b401b2aa81f1161377bc3261648582",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1843",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1991/res-cmn-1866-1991.md",
+      "sha256_md": "3c047d617b1915c7b417300e487c7ac3afff202224c81fa647c025e98d16c7ef",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1866",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1992/res-cmn-1897-1992.md",
+      "sha256_md": "bc00da331035711f36c6524690a36d535b618e220b22d463885b01204d5f5d8a",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1897",
+      "remissao": "folha anexa"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1992/res-cmn-1906-1992.md",
+      "sha256_md": "57a1247f067f74e0f6236560d8bb34b8e345c376ffa78c06cf9b5aa39c0402a6",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1906",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1992/res-cmn-1911-1992.md",
+      "sha256_md": "3b44a638e2454758f516526e6803ef522ba4f3f2038a77ee3bd04749c7be4874",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1911",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1993/res-cmn-1976-1993.md",
+      "sha256_md": "bf15b0757ba3cb786cdc5b1e92cd6fcb8a20c5c74b53a929bde8b8f4179470d8",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=1976",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1993/res-cmn-2032-1993.md",
+      "sha256_md": "e07cdccd3016af6cbf2066d53002797ceb0cd5c19b2c63eeb4fc5e7930311513",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2032",
+      "remissao": "folhas anexas"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/1994/res-cmn-2100-1994.md",
+      "sha256_md": "a5e1fe5f972993c4fe82c60b2275c6465d24d82adbd73e95630694cf9b272243",
+      "fonte": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o&numero=2100",
+      "remissao": "folhas anexas"
+    }
+  ],
+  "conferidos_e_excluidos": [
+    {
+      "path": "reguladores/bcb/cartas-circulares/1991/carta-circ-2229-1991.md",
+      "remissao": "mapa anexo",
+      "conferido": "o mapa anexo é o da Circular 2.071 (\"do seu mapa anexo\")"
+    },
+    {
+      "path": "reguladores/bcb/cartas-circulares/2001/carta-circ-2981-2001.md",
+      "remissao": "em anexo",
+      "conferido": "\"em anexo\" está dentro do modelo de declaração citado entre aspas"
+    },
+    {
+      "path": "reguladores/bcb/circulares/1967/circ-90-1967.md",
+      "remissao": "folha anexa",
+      "conferido": "\"em folha anexa\" é a folha juntada ao contrato, não anexo da circular"
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2022/in-bcb-238-2022.md",
+      "remissao": "em anexo",
+      "conferido": "\"informação em anexo já existente\" é o anexo da norma alterada"
+    },
+    {
+      "path": "reguladores/bcb/instrucoes-normativas/2023/in-bcb-390-2023.md",
+      "remissao": "em anexo",
+      "conferido": "\"a instrução normativa em anexo\" é a própria IN, na nota técnica que a acompanha"
+    }
+  ]
+}
