@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 21/11/2026 00:01:20 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 21/11/2026 01:09:28 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.444.346 documentos · 1.307.050 / ~11.773.477 nas séries com meta (11.1%) · 29.040 sem meta**
+**1.447.777 documentos · 1.308.615 / ~11.773.477 nas séries com meta (11.1%) · 29.040 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,7 +91,7 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-797.868 documentos · 679.893 / ~865.998 nas séries com meta (78.5%) · 16.059 sem meta
+801.299 documentos · 681.458 / ~865.998 nas séries com meta (78.7%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
@@ -278,11 +278,11 @@ Diários oficiais e portais de órgãos e tribunais.
 
 ### Infralegal estadual
 
-501.699 documentos · 483.632 / ~577.054 nas séries com meta (83.8%) · 0 sem meta
+505.130 documentos · 485.197 / ~577.054 nas séries com meta (84.1%) · 0 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
-| 🟦 | Decretos dos governadores (27 UF) | 398.435 | 400.000 | `estaduais/*/decretos`, `estaduais/*/decretos-nao-numerados` | Casas Civis e diários oficiais estaduais |
+| ✅ | Decretos dos governadores (27 UF) | 401.866 | 400.000 | `estaduais/*/decretos`, `estaduais/*/decretos-nao-numerados` | Casas Civis e diários oficiais estaduais |
 | ⬜️ | Regulamentos do ICMS (RICMS das 27 UF) | 0 | 27 | `estaduais/*/regulamentos` | Secretarias de Fazenda |
 | 🟦 | Instruções normativas e portarias das SEFAZ | 1.433 | 50.000 | `estaduais/*/instrucoes-normativas` | Secretarias de Fazenda |
 | ⬜️ | Resoluções e decisões normativas dos TCE | 0 | 10.000 | `estaduais/*/resolucoes-tce` | Tribunais de Contas estaduais |
