@@ -63,7 +63,7 @@ class Base(unittest.TestCase):
             self.addCleanup(p.stop)
 
 
-class Salvaguardas(unittest.TestCase):
+class Salvaguardas(Base):  # Base: as pastas do coletor apontam para um diretório temporário, nunca para o acervo
     def test_sem_a_flag_nao_roda(self):
         with patch.object(c, "Rede", side_effect=AssertionError("não deveria ir à rede")):
             with self.assertRaises(SystemExit):
@@ -83,6 +83,7 @@ class Salvaguardas(unittest.TestCase):
                 {"atosnormativos.getList": (200, json.dumps({"data": {"total": 0, "rows": []}}).encode(), "")})):
             self.assertEqual(c.main(["--apesar-do-robots", "--de", "1984", "--ate", "1984"]), 0)
         self.assertEqual(criadas, [0.2])
+        self.assertTrue(str(c.INDICE).startswith(self.tmp.name))  # o índice vazio do teste não toca o do acervo
 
 
 class Listagem(Base):
@@ -134,8 +135,48 @@ class Conversao(Base):
             c.processar(rede, linha)
         self.assertIn("revogada: true", (c.PASTA / "1986" / "res-conama-1-1986.md").read_text(encoding="utf-8"))
 
+    def test_revogada_no_meio_da_situacao_e_revogacao_parcial(self):
+        # Resolução 20/1986 na listagem: alterada e depois revogada
+        casos = {"Alterada pela Resolução nº 274, de 2000. Revogada pela Resolução nº 357, de 2005.": "revogada: true",
+                 "Alterada pela Resolução nº 237/97 (revogados os art. 3º e 7º)": "revogada: false"}
+        for situacao, esperado in casos.items():
+            with self.subTest(situacao):
+                for md in c.PASTA.glob("*/*.md"):
+                    md.unlink()
+                with patch.object(c, "extrair_texto", return_value=(None, TEXTO_1986)):
+                    c.processar(RedeFalsa({"arquivo.download": (200, PDF, "application/pdf")}), {**LINHA_1986, "situacao": situacao})
+                self.assertIn(esperado, (c.PASTA / "1986" / "res-conama-1-1986.md").read_text(encoding="utf-8"))
+
+    def test_ementa_sem_metadados_e_publicacao_da_listagem(self):
+        descricao = ("Dispõe sobre a classificação das águas doces, salobras e salinas do Território Nacional . - Data da "
+                     "legislação: 18/06/1986 - Publicação DOU , de 30/07/1986, págs. 11356-11361")
+        self.assertEqual(c.ementa_e_publicacao(descricao), (
+            "Dispõe sobre a classificação das águas doces, salobras e salinas do Território Nacional",
+            "Publicada no DOU, de 30/07/1986, págs. 11356-11361", "1986-07-30"))
+        self.assertEqual(c.ementa_e_publicacao('"Dispõe sobre transporte de produtos perigosos" - Data da legislação: '
+                                               '23/01/1986 - Publicação DOU nº 043, de 05/03/1993, págs. 2653')[1:],
+                         ("Publicada no DOU nº 043, de 05/03/1993, págs. 2653", "1993-03-05"))
+        sem_pub = TEXTO_1986.replace("Publicada no DOU, de 17 de fevereiro de 1986, Seção 1, páginas 2548-2549", "")
+        with patch.object(c, "extrair_texto", return_value=(None, sem_pub)):
+            c.processar(RedeFalsa({"arquivo.download": (200, PDF, "application/pdf")}), {**LINHA_1986, "ementa": descricao})
+        texto = (c.PASTA / "1986" / "res-conama-1-1986.md").read_text(encoding="utf-8")
+        self.assertIn('ementa: "Dispõe sobre a classificação das águas doces, salobras e salinas do Território Nacional"', texto)
+        self.assertIn('publicacao: "Publicada no DOU, de 30/07/1986, págs. 11356-11361"', texto)
+        self.assertIn('data_publicacao: "1986-07-30"', texto)
+
 
 class Retencoes(Base):
+    def test_numero_repetido_na_listagem_de_outro_registro_fica_retido(self):
+        rede = RedeFalsa({"arquivo.download": (200, PDF, "application/pdf")})
+        with patch.object(c, "extrair_texto", return_value=(None, TEXTO_1986)):
+            self.assertEqual(c.processar(rede, LINHA_1986), ("ok", None))
+            self.assertEqual(c.processar(rede, LINHA_1986), ("pulado", None))  # o mesmo registro: já gravado
+            estado, falha = c.processar(rede, {**LINHA_1986, "aid": "809", "arquivo": "CONAMA_RES_CONS_1986_01A.pdf"})
+        self.assertEqual(estado, "retido")
+        self.assertIn("número repetido", falha["motivo"])
+        self.assertEqual(len(rede.pedidos), 1)
+
+
     def reter(self, motivo, linha=LINHA_1986, bruto=PDF, texto=TEXTO_1986):
         rede = RedeFalsa({"arquivo.download": (200, bruto, "application/pdf")})
         with patch.object(c, "extrair_texto", return_value=(None, texto)):
