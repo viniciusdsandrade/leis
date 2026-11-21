@@ -168,10 +168,18 @@ class Recusa(unittest.TestCase):
         self.assertEqual(pr.data_da_epigrafe("Decreto 10655 - 1 de Abril de 202",
                                              "<p>Publicado no Diário Oficial nº. 11149 de 1 de Abril de 2022</p>"),
                          "2022-04-01")
+        # codAto 208602 (21/11/2026): o ato é de um dia, a publicação, do seguinte
+        self.assertEqual(pr.data_da_epigrafe("Decreto 11318 - 10 de Outubro de 208",
+                                             "<p>Publicado no Diário Oficial nº. 10293 de 11 de Outubro de 2018</p>"),
+                         "2018-10-10")
+        # ato de dezembro publicado em janeiro: o ano truncado é o do ano anterior à publicação
+        self.assertEqual(pr.data_da_epigrafe("Decreto 1 - 30 de Dezembro de 201",
+                                             "<p>Publicado no Diário Oficial nº. 1 de 4 de Janeiro de 2020</p>"),
+                         "2019-12-30")
         sem_data = {
             "sem linha de publicação": "<p>Art. 1º Fica exonerada a partir de 19 de abril de 2021.</p>",
-            "dia diferente": "<p>Publicado no Diário Oficial nº. 10917 de 20 de Abril de 2021</p>",
-            "mês diferente": "<p>Publicado no Diário Oficial nº. 10917 de 19 de Maio de 2021</p>",
+            "publicação antes do ato": "<p>Publicado no Diário Oficial nº. 10917 de 18 de Abril de 2021</p>",
+            "publicação mais de 60 dias depois": "<p>Publicado no Diário Oficial nº. 10917 de 19 de Julho de 2021</p>",
             "ano que não é o truncado": "<p>Publicado no Diário Oficial nº. 10917 de 19 de Abril de 2023</p>",
             "data longe da linha": "<p>Publicado no Diário Oficial nº. 10917.</p><p>" + "x " * 40 + "de 19 de Abril de 2021</p>",
         }

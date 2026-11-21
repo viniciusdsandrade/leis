@@ -225,9 +225,11 @@ def data_da_epigrafe(titulo, trecho=""):
     """Data ISO da epígrafe do ato, ou "" quando não dá para afirmá-la.
 
     A fonte às vezes perde um dígito do ano no título da página ("Decreto 7381 - 19 de Abril de 201", publicado no
-    Diário Oficial de 19 de abril de 2021). Nesse caso o ano vem da linha "Publicado no Diário Oficial nº. ... de 19 de
-    Abril de 2021" do próprio ato, só quando o dia e o mês da publicação são os da epígrafe e o ano truncado é o da
-    publicação sem um dígito. Fora disso a data fica em branco, como antes, e a auditoria avisa.
+    Diário Oficial de 19 de abril de 2021; "Decreto 11318 - 10 de Outubro de 208", publicado em 11 de outubro de 2018).
+    Nesse caso o dia e o mês são os da epígrafe e o ano sai da linha "Publicado no Diário Oficial nº. ... de 11 de
+    Outubro de 2018" do próprio ato: o da publicação, ou o anterior (ato de dezembro publicado em janeiro), desde que o
+    ano truncado seja esse ano sem um dígito e a publicação venha de 0 a 60 dias depois do ato. Fora disso a data fica em
+    branco, como antes, e a auditoria avisa.
     """
     m = re.search(r"(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})", titulo) or EPIGRAFE_ANO_TRUNCADO.search(titulo)
     if not m or sem_acento(m.group(2).lower()) not in MESES:
@@ -235,10 +237,23 @@ def data_da_epigrafe(titulo, trecho=""):
     dia, mes, ano = int(m.group(1)), MESES[sem_acento(m.group(2).lower())], m.group(3)
     if len(ano) == 3:
         p = re.search(r"Publicado no Di[áa]rio Oficial\b.{0,40}? de (\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})\b", limpar(trecho))
-        if not p or int(p.group(1)) != dia or MESES.get(sem_acento(p.group(2).lower())) != mes \
-                or not _sem_um_digito(p.group(3), ano):
+        mes_pub = MESES.get(sem_acento(p.group(2).lower())) if p else None
+        if not p or not mes_pub:
             return ""
-        ano = p.group(3)
+        try:
+            publicado = dt.date(int(p.group(3)), mes_pub, int(p.group(1)))
+        except ValueError:
+            return ""
+        for candidato in (publicado.year, publicado.year - 1):
+            if not _sem_um_digito(str(candidato), ano):
+                continue
+            try:
+                data = dt.date(candidato, mes, dia)
+            except ValueError:
+                continue
+            if 0 <= (publicado - data).days <= 60:
+                return "" if data > dt.date.today() else data.isoformat()
+        return ""
     try:
         data = dt.date(int(ano), mes, dia)
     except ValueError:
