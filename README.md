@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 21/11/2026 eram **1.461.424 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 21/11/2026 eram **1.461.485 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 528.179 | 90,8% |
-| 2 | Infralegal e jurisprudência | 804.472 | 78,7% |
+| 2 | Infralegal e jurisprudência | 804.533 | 78,7% |
 | 3 | Direito municipal | 128.773 | 1,1% |
-| | **Total** | **1.461.424** | |
+| | **Total** | **1.461.485** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -272,7 +272,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | **Vinhedo**: 1.180 atos de 2021 a 2026 no recorte do Boletim Municipal | retidos em [`municipais/SP/vinhedo/_falhas.jsonl`](municipais/SP/vinhedo/_falhas.jsonl): 88 porque a página reproduz o documento escaneado, cujo texto é OCR da origem, e os demais por integridade (falta de artigo ou de assinatura, texto depois das assinaturas, quadro lido como prosa), em boa parte também documentos escaneados; 526 edições têm páginas em imagem sem texto, cujos atos não são lidos, e 4 ficam fora sem número no cabeçalho. O Boletim gerado pelo sistema começa em agosto de 2021: as edições anteriores, jornal composto no InDesign (2010 a julho de 2021), estão em cache, fora do leiaute lido |
 | **Jarinu**: 420 das 421 normas coletadas do SAPL da Câmara | retidas no fechamento do SAPL (`auditar_integralidade_pdf_sapl.py` e `auditar_imagens_pdf_sapl.py`): as de 1995 a 2020 são PDFs escaneados com o OCR da origem embutido e não entram como nascidas digitais (200 com imagem de página inteira, 106 com texto que diverge do PDF); as de 2021 a 2026, nascidas digitais, não passam no confronto integral porque o coletor descarta o timbre e o carimbo 1Doc da margem, que o confronto não desconta (110), e 4 têm imagem a revisar. Entra só a Resolução nº 2/2019 |
 | **Banco Central**: 2.620 dos 14.878 normativos do portal | retidos em [`reguladores/bcb/_falhas.jsonl`](reguladores/bcb/_falhas.jsonl): 2.230 com o texto só nos PDFs das versões (sobretudo de 1964 a 1999, pede extração do PDF ou OCR), 332 com anexo próprio referido e ausente do texto (parte pode estar íntegra, com o anexo sem título), 57 com imagem no texto e 1 vazio; os 44.003 Comunicados ficam fora |
-| **CONAMA**: 74 dos 484 registros de 1984 a 2016 na listagem do portal | retidos em [`reguladores/conama/_falhas.jsonl`](reguladores/conama/_falhas.jsonl): 63 com a epígrafe do número e do ano da listagem não achada no PDF (a conferir: pode ser formato de epígrafe que o leitor não reconhece), 6 sem arquivo, 2 registros com número repetido na listagem, 2 arquivos que não são PDF e 1 PDF escaneado |
+| **CONAMA**: 13 dos 484 registros de 1984 a 2016 na listagem do portal | retidos em [`reguladores/conama/_falhas.jsonl`](reguladores/conama/_falhas.jsonl): 6 sem arquivo, 2 registros com número repetido na listagem, 2 com a epígrafe que não confere com a listagem (a 21/1993 traz "N.º 2A"), 2 arquivos que não são PDF (página de erro e arquivo vazio) e 1 PDF escaneado, que pede OCR |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
 ### Pendências das fontes estaduais
