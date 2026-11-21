@@ -253,6 +253,21 @@ class Recusa(unittest.TestCase):
             with self.subTest(caso):
                 self.assertEqual(pr.data_da_epigrafe("RESOLUÇÃO CONUNTA CC/SGI Nº 02", trecho), "")
 
+    def test_ano_impossivel_na_epigrafe_vem_do_fecho(self):
+        # codAto 177146 (21/11/2026): "5017" no título de um decreto de 2017
+        titulo = "Decreto 7400 - 18 de Julho de 5017"
+        publicado = "<p>Publicado no Diário Oficial nº. 9989 de 19 de Julho de 2017</p>"
+        fecho = "<p>Curitiba, em 18 de julho de 2017, 196º da Independência e 129º da República.</p>"
+        self.assertEqual(pr.data_da_epigrafe(titulo, publicado + fecho), "2017-07-18")
+        sem_data = {
+            "sem fecho": publicado,
+            "fecho de outro dia": publicado + fecho.replace("18 de julho", "17 de julho"),
+            "publicação mais de 60 dias depois": publicado.replace("Julho", "Outubro") + fecho,
+        }
+        for caso, trecho in sem_data.items():
+            with self.subTest(caso):
+                self.assertEqual(pr.data_da_epigrafe(titulo, trecho), "")
+
     def test_lei_com_anexos_em_pdf_fica_fora_com_motivo(self):
         pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
         os.makedirs(pasta)

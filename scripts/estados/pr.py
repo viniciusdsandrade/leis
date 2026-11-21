@@ -262,6 +262,20 @@ def data_da_publicacao(trecho):
 FECHO_CURITIBA = re.compile(r"Curitiba,?\s+(?:em\s+)?(\d{1,2})[º°]?\s+de\s+(\w+)\s+(?:de\s+)?(\d{4})\b")
 
 
+def data_do_fecho(trecho):
+    """Data do fecho ("Curitiba, em 18 de julho de 2017"), só quando a publicação vem de 0 a 60 dias depois; ou None."""
+    fechos = FECHO_CURITIBA.findall(limpar(trecho))
+    publicado = data_da_publicacao(trecho)
+    mes = MESES.get(sem_acento(fechos[-1][1].lower())) if fechos else None
+    if not mes or not publicado:
+        return None
+    try:
+        data = dt.date(int(fechos[-1][2]), mes, int(fechos[-1][0]))
+    except ValueError:
+        return None
+    return data if 0 <= (publicado - data).days <= 60 else None
+
+
 def data_sem_extenso(titulo, trecho):
     """Data do ato cuja epígrafe não a traz por extenso: a data numérica do título ("ADAPAR - 001 16/07/2025") ou,
     sem ela, a do fecho ("Curitiba, 20 de dezembro de 2021"), esta só quando a publicação vem de 0 a 60 dias depois."""
@@ -272,16 +286,8 @@ def data_sem_extenso(titulo, trecho):
         except ValueError:
             return ""
         return "" if data > dt.date.today() else data.isoformat()
-    fechos = FECHO_CURITIBA.findall(limpar(trecho))
-    publicado = data_da_publicacao(trecho)
-    mes = MESES.get(sem_acento(fechos[-1][1].lower())) if fechos else None
-    if not mes or not publicado:
-        return ""
-    try:
-        data = dt.date(int(fechos[-1][2]), mes, int(fechos[-1][0]))
-    except ValueError:
-        return ""
-    return data.isoformat() if 0 <= (publicado - data).days <= 60 else ""
+    data = data_do_fecho(trecho)
+    return data.isoformat() if data else ""
 
 
 def data_da_epigrafe(titulo, trecho=""):
@@ -317,7 +323,12 @@ def data_da_epigrafe(titulo, trecho=""):
         data = dt.date(int(ano), mes, dia)
     except ValueError:
         return ""
-    return "" if data > dt.date.today() else data.isoformat()
+    if data <= dt.date.today():
+        return data.isoformat()
+    # Ano impossível na epígrafe ("Decreto 7400 - 18 de Julho de 5017", codAto 177146): vale o fecho do próprio ato
+    # ("Curitiba, em 18 de julho de 2017"), se tiver o dia e o mês da epígrafe e a publicação vier até 60 dias depois.
+    fecho = data_do_fecho(trecho)
+    return fecho.isoformat() if fecho and (fecho.month, fecho.day) == (mes, dia) else ""
 
 
 _LISTADOS = {}  # (codTipoAto, ano) -> codAto que a listagem daquele ano traz
