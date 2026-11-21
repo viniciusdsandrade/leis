@@ -113,14 +113,35 @@ def limpar_livro(texto):
                      for l in texto.split("\n"))
 
 
+# Epígrafe do próprio ato, nas formas que os PDFs do portal trazem: "RESOLUÇÃO CONAMA nº 1, de 23 de janeiro de 1986",
+# "RESOLUÇÃO/CONAMA/N.º 010 de 03 de dezembro de 1987", "RESOLUÇÃO N.º 09 de I5 de junho de 1989" (o I no lugar do 1
+# é erro de digitação da fonte, que só se aceita no dia: número e ano têm de ser algarismos e conferir com a listagem),
+# "RESOLUÇÃO N.º 234, DE 17 DE DEZEMBRO 1997" e "RESOLUÇÃO Nº 468, DE 27 JULHO DE 2015" (sem um dos "de").
+EPIGRAFE = re.compile(r"resolucao(?:[\s/]+conama)?[\s/]+n[º°o.]*\s*0*(\d+)\s*(?:/\s*\d{2,4}\s*)?,?\s*de\s+([\dil]{1,2})[º°o]?"
+                      r"\s+(?:de\s+)?(" + MESES_RE + r")\s+(?:de\s+)?(\d{4})")
+
+
 def epigrafe(texto, numero, ano):
-    """Data ISO da epígrafe "RESOLUÇÃO CONAMA nº 1, de 23 de janeiro de 1986" do próprio ato, ou ""."""
+    """Data ISO da epígrafe do próprio ato, com o número e o ano da listagem, ou "".
+
+    O ano da listagem é o da publicação: o ato de 30 de dezembro de 2011 publicado em janeiro vem como de 2012, e o ano
+    da epígrafe pode ser o anterior. O livro gruda a nota de rodapé no número ("nº 375130" é a 375 com a nota 130): vale
+    o número seguido de até três algarismos, porque o ano e a data também têm de conferir.
+    """
     plano = re.sub(r"\s+", " ", sem_acento(texto).lower())
-    for m in re.finditer(r"resolucao(?: conama)?\s+n[º°o.]*\s*0*(\d+)\s*,?\s*de\s+(\d{1,2})[º°o]?\s+de\s+(" + MESES_RE
-                         + r")\s+de\s+(\d{4})", plano):
-        if int(m.group(1)) == numero and int(m.group(4)) == ano:
+    for m in EPIGRAFE.finditer(plano):
+        lido = m.group(1)
+        # a nota grudada só na epígrafe, no alto do texto: no corpo, "nº 37" pode ser a citação de outro ato
+        numero_confere = int(lido) == numero or (m.start() < 300 and lido.startswith(str(numero))
+                                                 and 1 <= len(lido) - len(str(numero)) <= 3)
+        mes = MESES.index(m.group(3)) + 1
+        # o ano anterior só para o ato do fim do ano publicado em janeiro: a listagem que apontasse para o PDF de outro
+        # ano (a 1/1986 no lugar da 1/1987) não passa
+        ano_confere = int(m.group(4)) == ano or (int(m.group(4)) == ano - 1 and mes >= 11)
+        if numero_confere and ano_confere:
             try:
-                return dt.date(ano, MESES.index(m.group(3)) + 1, int(m.group(2))).isoformat()
+                return dt.date(int(m.group(4)), MESES.index(m.group(3)) + 1,
+                               int(m.group(2).replace("i", "1").replace("l", "1"))).isoformat()
             except ValueError:
                 return ""
     return ""
