@@ -165,6 +165,33 @@ class Conversao(Base):
         self.assertIn('data_publicacao: "1986-07-30"', texto)
 
 
+class Epigrafe(unittest.TestCase):
+    def test_formas_de_epigrafe_dos_pdfs_do_portal(self):
+        # recortes dos PDFs retidos por epígrafe na primeira coleta (21/11/2026)
+        casos = [("RESOLUÇÃO/CONAMA/N.º 010 de 03 de dezembro de 1987 Publicada", 10, 1987, "1987-12-03"),
+                 ("RESOLUÇÃO/conama/Nº 002 de I5 de junho de 1989", 2, 1989, "1989-06-15"),
+                 ("RESOLUÇÃO N.º 09 de I5 de junho de 1989 Dispõe sobre", 9, 1989, "1989-06-15"),
+                 ("RESOLUÇÃO CONAMA nº 1, de 23 de janeiro de 1986", 1, 1986, "1986-01-23"),
+                 ("RESOLUÇÃO CONAMA Nº 276/2001, DE 25 DE ABRIL DE 2001", 276, 2001, "2001-04-25"),
+                 ("RESOLUÇÃO N.º 234, DE 17 DE DEZEMBRO 1997 Altera a redação", 234, 1997, "1997-12-17"),
+                 ("RESOLUÇÃO Nº 468, DE 27 JULHO DE 2015", 468, 2015, "2015-07-27"),
+                 ("RESOLUÇÃO CONAMA no 375130 , de 29 de agosto de 2006 Publicada", 375, 2006, "2006-08-29"),
+                 ("RESOLUÇÃO No 437, DE 30 DE DEZEMBRO DE 2011 Publicada no DOU Nº 2", 437, 2012, "2011-12-30")]
+        for texto, numero, ano, data in casos:
+            with self.subTest(texto):
+                self.assertEqual(c.epigrafe(texto, numero, ano), data)
+
+    def test_numero_ou_ano_da_listagem_diferente_nao_confere(self):
+        self.assertEqual(c.epigrafe("RESOLUÇÃO/CONAMA/N.º 010 de 03 de dezembro de 1987", 11, 1987), "")
+        self.assertEqual(c.epigrafe("RESOLUÇÃO N.º 09 de I5 de junho de 1989", 9, 1990), "")
+        self.assertEqual(c.epigrafe("RESOLUÇÃO Nº I0 de 15 de junho de 1989", 10, 1989), "")  # número só com algarismos
+        self.assertEqual(c.epigrafe("RESOLUÇÃO N.º 2A, DE 15 DE JUNHO DE 1993", 21, 1993), "")
+        self.assertEqual(c.epigrafe("RESOLUÇÃO No 437, DE 30 DE DEZEMBRO DE 2010", 437, 2012), "")  # dois anos antes
+        # a nota grudada só vale no alto do texto: no corpo, "nº 37" é a citação de outro ato, não a 3
+        corpo = "x " * 200 + "conforme a Resolução CONAMA nº 37, de 30 de dezembro de 1990"
+        self.assertEqual(c.epigrafe(corpo, 3, 1990), "")
+
+
 class Retencoes(Base):
     def test_numero_repetido_na_listagem_de_outro_registro_fica_retido(self):
         rede = RedeFalsa({"arquivo.download": (200, PDF, "application/pdf")})
