@@ -18,6 +18,7 @@ import sys
 import threading
 import tempfile
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -28,7 +29,7 @@ from comum import AVISO_OCR, AVISO_SEM_TEXTO, extrair_texto, ocr_pdf, texto_pdf_
 from html2md import convert  # noqa: E402
 from integridade_html_federal import Visivel
 from integridade_anexos_decreto import anexo_proprio_ausente
-from identidade_decreto import divergencia_epigrafe_decreto, extrair_epigrafe_decreto  # noqa: E402
+from identidade_decreto import MESES, divergencia_epigrafe_decreto, extrair_epigrafe_decreto, numero_normalizado  # noqa: E402
 
 RAIZ = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "federal")
 RAIZ = os.path.abspath(RAIZ)
@@ -245,7 +246,59 @@ def escolher_texto(meta):
     return sorted(encs, key=lambda e: e.get("datePublished") or "")[-1]
 
 
-def motivo_texto_parcial_decreto(tipo, corpo):
+_MESES_FECHO = "|".join(MESES)
+# Fecho datado do próprio decreto, com a marca da era logo depois da data ("Rio de Janeiro, 23 de dezembro de 1925,
+# 104º da Independencia e 37º da Republica"; "Palacio do Rio de Janeiro aos 9 de Março de 1889, 68º da Independencia
+# e do Imperio"; "Palacio do Governo Provisorio, 17 de janeiro de 1891, 3º da Republica"). A data citada no corpo não
+# traz a marca da era.
+FECHO_DATADO = re.compile(
+    r"\b(?:RIO DE JANEIRO|BRASILIA|CAPITAL FEDERAL|PETROPOLIS|PALACIO DO GOVERNO PROVISORIO"
+    r"|SALA DAS SESSOES DO GOVERNO PROVISORIO)[,.;\s]*(?:EM\s+|AOS?\s+)?(?:DE\s*)?"
+    r"(?P<dia>\d{1,2})[º°O]?\s*(?:DE\s*)?(?P<mes>" + _MESES_FECHO + r")\s*[,;]?\s*(?:DE\s*)?"
+    r"(?P<ano>[12]\.?\d{3})(?!\d)[,.;\s]+(?:\d+\s*[º°O]?\s*(?:ANNO\s+)?DA\s+(?:INDEPENDENCIA|REPUBLICA))")
+# Fórmula de quem decreta: a imperial ("Hei por bem Decretar", "Hei por bem approvar") ou a republicana, com o
+# Presidente (ou o Governo Provisório, a Junta, o Conselho de Ministros) e o verbo dispositivo.
+FORMULA_IMPERIAL = re.compile(r"\bHEI POR BEM\b")
+AUTORIDADE = re.compile(r"\b(?:(?:VICE-)?PRESIDENTE DA REPUBLICA|CHEFE DO GOVERNO PROVISORIO|GOVERNO PROVISORIO"
+                        r"|JUNTA GOVERNATIVA|CONSELHO DE MINISTROS)\b")
+VERBO_DISPOSITIVO = re.compile(r"\b(?:RESOLVE|RESOLVEM|DECRETA|DECRETAM|DETERMINA)\b")
+
+
+def _maiusculas_sem_acento(texto):
+    texto = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", texto)
+    texto = re.sub(r"[*_`\\#>|]", " ", texto)
+    return re.sub(r"\s+", " ", "".join(c for c in unicodedata.normalize("NFD", texto.upper())
+                                       if not unicodedata.combining(c))).strip()
+
+
+def dispositivo_unico_integro(corpo, numero, data):
+    """Decreto sem artigo cujo texto se mostra inteiro: o do Império e muitos da República têm dispositivo único
+    ("Hei por bem derogar...", "resolve abrir o credito...").
+
+    Exige, todos juntos: epígrafe própria com o número e a data do índice; a fórmula de quem decreta antes do fecho
+    (imperial, ou a autoridade republicana com o verbo dispositivo); e o fecho datado com a data do índice e a marca
+    da era. A trava de anexo próprio (`anexo_proprio_ausente`) roda antes e continua valendo.
+    """
+    epigrafe = extrair_epigrafe_decreto(corpo)
+    if not epigrafe or epigrafe["numero"] != numero_normalizado(numero) or epigrafe["data"] != data:
+        return False
+    texto = _maiusculas_sem_acento(corpo)
+    fechos = []
+    for m in FECHO_DATADO.finditer(texto):
+        try:
+            if dt.date(int(m["ano"].replace(".", "")), MESES[m["mes"]], int(m["dia"])).isoformat() == data:
+                fechos.append(m.start())
+        except ValueError:
+            continue
+    if not fechos:
+        return False
+    antes = texto[:fechos[0]]
+    return bool(FORMULA_IMPERIAL.search(antes) or (AUTORIDADE.search(antes) and VERBO_DISPOSITIVO.search(antes)))
+
+
+def motivo_texto_parcial_decreto(tipo, corpo, numero=None, data=None):
+    """Motivo para reter o texto como parcial, ou None. Sem `numero` e `data` do índice, o decreto sem artigo fica em
+    revisão, como antes; com eles, entra o de dispositivo único que `dispositivo_unico_integro` comprova."""
     if tipo != "DEC-n":
         return None
     limpo = re.sub(r"[*_`\\]", "", corpo)
@@ -256,6 +309,8 @@ def motivo_texto_parcial_decreto(tipo, corpo):
     if errata and (not artigo or errata.start() < artigo.start()):
         return "Documento de retificação avulsa; buscar a versão integral da norma"
     if not artigo:
+        if numero and data and dispositivo_unico_integro(corpo, numero, data):
+            return None
         return "Sem artigo normativo próprio; íntegra/comando decisório exige revisão específica"
     return None
 
@@ -327,7 +382,7 @@ def processar(d, *, revisao_identidade=False, refazer_republicacao=False):
     if not corpo.strip() or "\x00" in corpo:
         return "sem_texto", info["slug"], {"id": d["id"], "norma": d["norma"], "urn": urn,
                                            "url": url, "motivo": "corpo vazio ou contém NUL; fonte preservada"}
-    parcial = motivo_texto_parcial_decreto(d["tipo"], corpo)
+    parcial = motivo_texto_parcial_decreto(d["tipo"], corpo, numero_oficial(d), info["data"])
     if parcial:
         return "sem_texto", info["slug"], {"id": d["id"], "norma": d["norma"], "urn": urn,
                                            "url": url, "motivo": parcial}

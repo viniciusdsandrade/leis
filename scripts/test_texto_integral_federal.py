@@ -107,5 +107,58 @@ class TextoIntegral(unittest.TestCase):
         self.assertIsNotNone(f.motivo_texto_parcial_decreto('DEC-n', 'O PRESIDENTE faz públicos os depósitos.\n\nRio de Janeiro.'))
 
 
+# Decretos de dispositivo único reais (normas.leg.br, 20/11/2026), recortados.
+REPUBLICA = ('DECRETO N. 17.168 – DE 23 DE DEZEMBRO DE 1925\n\nAbre ao Ministerio da Fazenda o credito especial de réis 58:374$918, '
+             'para pagamento a Alberto Chagas, em virtude de sentença judiciaria\n\nO Presidente da Republica dos Estados Unidos do '
+             'Brasil, usando da autorização contida no decreto legislativo n. 4.968, de 20 de outubro ultimo, resolve abrir, ao '
+             'Ministerio da Fazenda, o credito especial de 58:374$918, para pagamento a Alberto Chagas.\n\nRio de Janeiro, 23 de '
+             'dezembro de 1925, 104º da Independencia e 37º da Republica.\n\nARTHUR DA SILVA BERNARDES.\n\nAnnibal Freire da Fonseca.')
+IMPERIO = ('**DECRETO N. 10.339 - DE 6 DE SETEMBRO DE 1889**\n\n***Deroga o Decreto n. 10.083 de 24 de Novembro de 1888 na parte '
+           'referente á comarca da Constituição, na Provincia de S. Paulo.***\n\nHei por bem Derogar o Decreto n. 10.083 de 24 de '
+           'Novembro do anno findo, na parte em que declarou especial a comarca da Constituição.\n\nCandido Luiz Maria de Oliveira, '
+           'Ministro e Secretario de Estado dos Negocios da Justiça, assim o tenha entendido e faça executar. Palacio do Rio de '
+           'Janeiro em 6 de Setembro de 1889, 68º da Independencia e do Imperio.\n\nCom a rubrica de Sua Magestade o Imperador.\n\n'
+           'Candido Luiz Maria de Oliveira.')
+PROVISORIO = ('**DECRETO N. 1309 - DE 17 DE JANEIRO DE 1891**\n\n***Concede permissão a Manoel Augusto Pereira de Amorim para '
+              'estabelecer centros telephonicos.***\n\nO Chefe do Governo Provisorio da Republica dos Estados Unidos do Brazil, '
+              'considerando que a concessão é de incontestavel vantagem:\n\nResolve fazer-lhe a referida concessão, mediante as '
+              'seguintes clausulas:\n\nI\n\nO prazo da concessão é de 15 annos.\n\nO Ministro e Secretario de Estado dos Negocios '
+              'da Instrucção Publica assim o faça executar.\n\nPalacio do Governo Provisorio, 17 de janeiro de 1891, 3º da '
+              'Republica.\n\n**MANOEL DEODORO DA FONSECA.**\n\nBenjamin Constant Botelho de Magalhães.')
+
+
+class DispositivoUnico(unittest.TestCase):
+    def test_decretos_de_dispositivo_unico_com_identidade_e_fecho_proprios_entram(self):
+        for corpo, numero, data in [(REPUBLICA, '17168', '1925-12-23'), (IMPERIO, '10339', '1889-09-06'),
+                                    (PROVISORIO, '1309', '1891-01-17')]:
+            with self.subTest(numero):
+                self.assertIsNone(f.motivo_texto_parcial_decreto('DEC-n', corpo, numero, data))
+
+    def test_sem_numero_e_data_do_indice_continua_em_revisao(self):
+        self.assertIn('Sem artigo', f.motivo_texto_parcial_decreto('DEC-n', REPUBLICA))
+
+    def test_fecho_proprio_com_outro_trecho_depois_continua_valendo(self):
+        corpo = REPUBLICA + '\n\nClausulas a que se refere o decreto n. 17.168\n\nI\n\nO pagamento será feito.\n\nRio de Janeiro, 23 de dezembro de 1925. – Annibal Freire.'
+        self.assertIsNone(f.motivo_texto_parcial_decreto('DEC-n', corpo, '17168', '1925-12-23'))
+
+    def test_cada_condicao_faltando_mantem_a_retencao(self):
+        casos = {
+            'data do fecho diferente da do índice': (REPUBLICA, '17168', '1925-12-22'),
+            'número da epígrafe diferente do índice': (REPUBLICA, '17169', '1925-12-23'),
+            'fecho sem a marca da era': (REPUBLICA.replace(', 104º da Independencia e 37º da Republica', ''), '17168', '1925-12-23'),
+            'sem fórmula dispositiva': (REPUBLICA.replace('resolve abrir', 'faz publico ter aberto'), '17168', '1925-12-23'),
+            'sem autoridade que decreta': (REPUBLICA.replace('O Presidente da Republica dos Estados Unidos do Brasil', 'O Ministro'), '17168', '1925-12-23'),
+            'sem epígrafe': (REPUBLICA.split('\n\n', 1)[1], '17168', '1925-12-23'),
+            'fórmula só depois do fecho': (IMPERIO.replace('Hei por bem Derogar', 'Fica derogado') + '\n\nHei por bem.', '10339', '1889-09-06'),
+        }
+        for caso, (corpo, numero, data) in casos.items():
+            with self.subTest(caso):
+                self.assertIn('Sem artigo', f.motivo_texto_parcial_decreto('DEC-n', corpo, numero, data))
+
+    def test_errata_continua_retida(self):
+        corpo = 'DECRETO N. 17.168 – DE 23 DE DEZEMBRO DE 1925\n\nRETIFICAÇÃO\n\nOnde se lê 58:374$918, leia-se 58:374$919.'
+        self.assertIn('retificação', f.motivo_texto_parcial_decreto('DEC-n', corpo, '17168', '1925-12-23'))
+
+
 if __name__ == '__main__':
     unittest.main()
