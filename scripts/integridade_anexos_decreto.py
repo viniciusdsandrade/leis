@@ -200,7 +200,8 @@ def _anexo_proprio_ausente_guard56(corpo, parsed):
         return None
     principal = '\n'.join(blocks[:fechamento] + ([blocks[fechamento][:corte]] if corte else []))
     # "ann?ex" e "ap?provad": a grafia anterior a 1943 ("annexo", "approvado") também designa o objeto próprio.
-    explicit = re.search(r'que com est[ea] baixa[m]?|que a est[ea] acompanha|acompanha (?:este|o presente) decreto|ann?ex[oa]s? a este decreto|ann?ex[oa]s? ao presente decreto|ann?ex[oa]s?(?:\s+[ivxlcdm\d]+(?:\s+e\s+[ivxlcdm\d]+)?)?\s+deste decreto', principal)
+    # "apenso por cópia ao presente decreto": o tratado que o decreto de promulgação manda executar é suplemento próprio.
+    explicit = re.search(r'que com est[ea] baixa[m]?|que a est[ea] acompanha|acompanha (?:este|o presente) decreto|ann?ex[oa]s? a este decreto|ann?ex[oa]s? ao presente decreto|ann?ex[oa]s?(?:\s+[ivxlcdm\d]+(?:\s+e\s+[ivxlcdm\d]+)?)?\s+deste decreto|apens[oa]s?\s+(?:por\s+copia\s+)?(?:a|ao)\s+(?:este|presente)\s+decreto', principal)
     artigos = [(i, b) for i, b in enumerate(blocks[:fechamento])
                if re.match(r'^art(?:igo)?\.?\s*(?:\d|unico)', b)]
     approvals = [(i, b, m) for i, b in artigos

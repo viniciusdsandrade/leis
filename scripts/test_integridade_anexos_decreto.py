@@ -293,4 +293,19 @@ class FechoHistorico(unittest.TestCase):
    'Rio de Janeiro, 9 de fevereiro de 1928, 107º da Independencia e 40º da Republica.\n\nWASHINGTON LUIS P. DE SOUSA.\n\nArnaldo Siqueira Pinto da Luz.')
   self.assertIsNotNone(gate(text,P))
 
+# Decretos de promulgação (normas.leg.br, 20/11/2026), recortados: o tratado "apenso por cópia" é suplemento próprio.
+PROMULGA=('DECRETO 60.696, DE 8 DE MAIO DE 1967\n\nPromulga a convenção Internacional para a salvaguarda da Vida Humana no Mar (1960).\n\n'
+ '**O Presidente da República,**\n\nHavendo o Congresso Nacional aprovado pelo decreto legislativo número 64, de 1966, a convenção;\n\ndecreta:\n\n'
+ 'Que a Convenção internacional para a salvaguarda da vida humana no mar, apensa por cópia ao presente decreto, seja executada e cumprida tão inteiramente como nela se contém.\n\n'
+ 'Brasília, 8 de maio de 1967; 146º da Independência e 79º da República.\n\nA. Costa e Silva\n\n*José de Magalhães Pinto*')
+class Promulgacao(unittest.TestCase):
+ def test_tratado_apenso_ausente_retem(self):
+  self.assertIsNotNone(gate(PROMULGA,P))
+  self.assertIsNotNone(gate(PROMULGA.replace('apensa por cópia','apensa'),P))
+ def test_tratado_apenso_reproduzido_nao_retem(self):
+  texto=(PROMULGA+'\n\n**“acordo de cooperação cultural entre o governo da república federativa do brasil e o conselho executivo nacional”**\n\n'
+   'O Governo da República Federativa do Brasil e o Conselho Executivo Nacional, desejosos de desenvolver as relações culturais, acordam o seguinte:\n\n'
+   'Artigo I As Partes Contratantes promoverão o intercâmbio de professores, estudantes e técnicos, nos termos do presente Acordo, feito em Brasília, a 28 de fevereiro de 1973.')
+  self.assertIsNone(gate(texto,P))
+
 if __name__=='__main__':unittest.main()
