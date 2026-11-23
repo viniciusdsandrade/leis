@@ -4,6 +4,7 @@ import sys
 import unittest
 import tempfile
 import gzip
+import hashlib
 import json
 from unittest.mock import patch, Mock
 from urllib.error import HTTPError
@@ -93,6 +94,47 @@ class TextoIntegral(unittest.TestCase):
                 self.assertFalse(Path(info['md']).exists())
                 self.assertEqual(gzip.decompress(Path(info['fonte']).read_bytes()), raw)
                 self.assertTrue(detail['elementos_visuais'] or detail['evidencia_anexo'])
+
+    def test_imagem_na_pagina_como_pendencia_de_integralidade(self):
+        d = {'tipo': 'DEC-n', 'numero': '1', 'dataassinatura': '01/01/2000',
+             'normaNome': 'Decreto nº 1 de 01/01/2000', 'norma': 'DEC-1-2000-01-01', 'id': 'fixture'}
+        texto = ('<p>DECRETO Nº 1, DE 1 DE JANEIRO DE 2000.</p><p>Art. 1º Fica aprovada a tabela de preços.</p>'
+                 '<table><tr><td>Arroz</td><td><img src="data:image/png;base64,AAAAAAAA" width="13" height="61"></td><td>5.250,00</td></tr></table>'
+                 '<p>Brasília, 1 de janeiro de 2000.</p><p>PRESIDENTE</p>')
+        casos = {'imagem na tabela': (texto, 'ok'),
+                 # sem a imagem não sobra nada do regimento: a trava de anexo próprio continua retendo
+                 'regimento que com este baixa, só em imagem': (
+                     '<p>DECRETO Nº 1, DE 1 DE JANEIRO DE 2000.</p><p>Art. 1º Fica aprovado o Regimento que com este baixa.</p>'
+                     '<p>Brasília, 1 de janeiro de 2000.</p><p>PRESIDENTE</p><p><img src="data:image/png;base64,AAAA"></p>', 'sem_texto'),
+                 'outro elemento visual': (texto + '<svg><path d="M0 0"/></svg>', 'sem_texto')}
+        for caso, (html, esperado) in casos.items():
+            with self.subTest(caso), tempfile.TemporaryDirectory() as tmp, patch.object(f, 'RAIZ', str(Path(tmp) / 'federal')):
+                info = f.montar(d)
+                meta = type('Metadados', (dict,), {})({'encoding': {'contentUrl': 'https://example.invalid/texto', 'version': 'Original'}})
+                meta.captura = {'path': str(Path(tmp) / 'meta.gz'), 'sha256': hashlib.sha256(b'{}').hexdigest()}
+                with gzip.open(meta.captura['path'], 'wb') as g:
+                    g.write(b'{}')
+                with patch.object(f, 'obter_metadados', return_value=(info['urn'], meta)), patch.object(f, 'http_get', return_value=(200, html.encode())):
+                    if '<td><img' in html:  # sem o modo, a imagem na tabela continua parando a conversão
+                        with self.assertRaisesRegex(ValueError, 'elemento visual não extraído na tabela: img'):
+                            f.processar(d)
+                    else:
+                        self.assertEqual(f.processar(d)[0], 'sem_texto')
+                    self.assertFalse(Path(info['md']).exists())
+                    status, _, _ = f.processar(d, visual_pendente=True)
+                self.assertEqual(status, esperado)
+                registro = Path(tmp) / 'federal' / f.VISUAL_PENDENTE
+                self.assertEqual(Path(info['md']).exists(), esperado == 'ok')
+                self.assertEqual(registro.exists(), esperado == 'ok')
+                if esperado == 'ok':
+                    md = Path(info['md']).read_text(encoding='utf-8')
+                    self.assertIn('imagens_nao_transcritas: "1 imagem na página da fonte', md)
+                    self.assertIn('5.250,00', md)
+                    self.assertNotIn('base64', md)
+                    linha = json.loads(registro.read_text(encoding='utf-8'))
+                    self.assertEqual((linha['path'], linha['norma'], linha['imagens'], linha['maior_imagem_bytes']),
+                                     ('federal/decretos/2000/dec-1-2000-01-01.md', 'DEC-1-2000-01-01', 1, 6))
+                    self.assertEqual(gzip.decompress(Path(info['fonte']).read_bytes()), html.encode())  # a fonte fica inteira
 
     def test_visual_fora_tabela_e_em_comentario_condicional(self):
         from preparar_lote_decretos_cache import Visivel
