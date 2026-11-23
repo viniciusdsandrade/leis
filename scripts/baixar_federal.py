@@ -262,6 +262,16 @@ FORMULA_IMPERIAL = re.compile(r"\bHEI POR BEM\b")
 AUTORIDADE = re.compile(r"\b(?:(?:VICE-)?PRESIDENTE DA REPUBLICA|CHEFE DO GOVERNO PROVISORIO|GOVERNO PROVISORIO"
                         r"|JUNTA GOVERNATIVA|CONSELHO DE MINISTROS)\b")
 VERBO_DISPOSITIVO = re.compile(r"\b(?:RESOLVE|RESOLVEM|DECRETA|DECRETAM|DETERMINA)\b")
+# Decreto de publicação: a autoridade não decreta nem resolve, "faz público" (ou "torna público", "faz saber") o
+# depósito de uma ratificação, a adesão de um país a uma convenção, a denúncia de um tratado. A fórmula tem de vir
+# depois da autoridade: a da ementa ("Faz público o depósito...") não conta.
+FORMULA_PUBLICACAO = re.compile(r"\b(?:FAZ|TORNA)\s+PUBLIC(?:[OA]S?|AR)\b|\bFAZ\s+SABER\b")
+# Esses decretos costumam trazer a nota diplomática depois das assinaturas ("cuja tradução oficial acompanha o
+# presente decreto", "apensa, por cópia, ao presente decreto"). Quando o texto diz que ela o acompanha, ela tem de
+# estar lá: nos 1.080 medidos em 23/11/2026 a cauda depois do fecho tem menos de 150 caracteres (só as assinaturas) ou
+# mais de 450 (a nota); nada no intervalo. A cauda conta do fim da marca da era em diante.
+ACOMPANHAMENTO = re.compile(r"\b(?:ACOMPANHAM?|APP?ENS[OA]S?|ANN?EX[OA]S?|POR\s+COPIA|TRADUC\w+)\b")
+CAUDA_COM_ACOMPANHAMENTO = 300
 
 
 def _maiusculas_sem_acento(texto):
@@ -278,6 +288,10 @@ def dispositivo_unico_integro(corpo, numero, data):
     Exige, todos juntos: epígrafe própria com o número e a data do índice; a fórmula de quem decreta antes do fecho
     (imperial, ou a autoridade republicana com o verbo dispositivo); e o fecho datado com a data do índice e a marca
     da era. A trava de anexo próprio (`anexo_proprio_ausente`) roda antes e continua valendo.
+
+    O decreto de publicação ("O Presidente da República faz público o depósito...") entra pelas mesmas exigências, com
+    a fórmula de publicação depois da autoridade no lugar do verbo dispositivo, e mais uma: se o texto diz que uma nota,
+    cópia ou tradução o acompanha, ela tem de vir depois do fecho.
     """
     epigrafe = extrair_epigrafe_decreto(corpo)
     if not epigrafe or epigrafe["numero"] != numero_normalizado(numero) or epigrafe["data"] != data:
@@ -287,13 +301,18 @@ def dispositivo_unico_integro(corpo, numero, data):
     for m in FECHO_DATADO.finditer(texto):
         try:
             if dt.date(int(m["ano"].replace(".", "")), MESES[m["mes"]], int(m["dia"])).isoformat() == data:
-                fechos.append(m.start())
+                fechos.append(m)
         except ValueError:
             continue
     if not fechos:
         return False
-    antes = texto[:fechos[0]]
-    return bool(FORMULA_IMPERIAL.search(antes) or (AUTORIDADE.search(antes) and VERBO_DISPOSITIVO.search(antes)))
+    antes, depois = texto[:fechos[0].start()], texto[fechos[0].end():]
+    autoridade = AUTORIDADE.search(antes)
+    if FORMULA_IMPERIAL.search(antes) or (autoridade and VERBO_DISPOSITIVO.search(antes)):
+        return True
+    if not autoridade or not FORMULA_PUBLICACAO.search(antes, autoridade.end()):
+        return False
+    return not ACOMPANHAMENTO.search(antes) or len(depois) >= CAUDA_COM_ACOMPANHAMENTO
 
 
 def motivo_texto_parcial_decreto(tipo, corpo, numero=None, data=None):

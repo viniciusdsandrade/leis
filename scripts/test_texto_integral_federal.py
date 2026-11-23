@@ -126,6 +126,80 @@ PROVISORIO = ('**DECRETO N. 1309 - DE 17 DE JANEIRO DE 1891**\n\n***Concede perm
               'da Instrucção Publica assim o faça executar.\n\nPalacio do Governo Provisorio, 17 de janeiro de 1891, 3º da '
               'Republica.\n\n**MANOEL DEODORO DA FONSECA.**\n\nBenjamin Constant Botelho de Magalhães.')
 
+# Decretos de publicação, como estão na fonte. O de 1921 traz a nota depois das assinaturas; o de 1931 não cita nota;
+# o de 1955 e o de 1898 dizem que ela os acompanha e a transcrição não a traz.
+PUBLICA_COM_NOTA = (
+    'DECRETO N. 15.161 – DE 7 DE DEZEMBRO DE 1921\n\nPublica a denuncia, pelos Estados Unidos da America, da Convenção '
+    'Sanitaria de Paris, de 1903\n\nO Presidente da Republica dos Estados Unidos do Brasil, faz publica a denuncia, feita '
+    'pelo Governo dos Estados Unidos da America, da Convenção Sanitaria Internacional, assignada em Paris a 3 de dezembro '
+    'de 1903, conforme communicou ao Ministerio das Relações Exteriores a Embaixada Franceza nesta Capital, por Nota de 29 '
+    'de Novembro ultimo, cuja traducção official acompanha o presente decreto.\n\nRio de Janeiro, 7 de Dezembro de 1921, '
+    '100º da Independencia e 33º da Republica.\n\nEpitacio pessôa.\n\nAzevedo Marques.\n\nTRADUCÇÃO\n\nEmbaixada da '
+    'Republica Franceza no Brasil – Rio de Janeiro, 29 de Novembro de 1921.\n\nSenhor Ministro:\n\nA Embaixada dos Estados '
+    'Unidos acaba de participar ao meu Governo que o Governo dos Estados Unidos decidiu denunciar a Convenção Sanitaria '
+    'assignada em Paris a 3 de Dezembro de 1903. Aquelle Governo entende que essa Convenção contém muitas lacunas e que não '
+    'corresponde mais aos progressos que têm sido feitos, durante os ultimos annos, no dominio da Hygiene publica.\n\n'
+    'Essa denuncia produzirá effeito a partir de 22 de Abril de 1922.\n\nQueira acceitar, Senhor Ministro, a segurança da '
+    'minha alta consideração.\n\nA. R. Conty.')
+PUBLICA_SEM_NOTA = (
+    'DECRETO N. 20.287 – DE 11 DE AGOSTO dE 1931\n\nFaz pública a adesão de diversas Colônias, Protetorados e Territórios '
+    'sob mandato da Grã-Bretanha, à Convenção Internacional sobre circulação de automoveis, assinada em París a 24 de abril '
+    'de 1926\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil faz pública a adesão das Colônias, '
+    'Protetorados e Territórios sob o mandato da Grã-Bretanha, abaixo mencionados, à Convenção Internacional relativa à '
+    'circulação de automoveis, assinada em París a 24 de abril de 1926, segundo comunicação feita pelo Governo Francês à '
+    'Embaixada do Brasil naquela capital; Colônia e Protetorado de Kenya, Protetorado de Uganda, Chipre, Hong-Kong.\n\n'
+    'Rio de Janeiro. 11 de agosto de 1931, 110º da Independência e 43º da República.\n\nGetulio Vargas.\n\n'
+    'A. de Mello Franco.')
+TORNA_PUBLICO_NOTA_AUSENTE = (
+    'Decreto nº 37.774, de 18 de agôsto de 1955.\n\nTorna público o depósito dos instrumentos de aceitação, por parte dos '
+    'Govêrnos do Paraguai e da Etiópia da Constituição da Organização das Nações Unidas para a Educação, Ciência e Cultura, '
+    'concluída em Londres a 16 de novembro de 1945.\n\n**O PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL**, torna '
+    'público que os Govêrnos do Paraguai e da Etiópia depositaram nos arquivos do Govêrno do Reino Unido da Grã-Bretanha e '
+    'Irlanda do Norte, a 20 de junho e a 1º de julho de 1955, respectivamente, os Instrumentos de aceitação da Constituição '
+    'da Organização das Nações Unidas para a Educação, Ciência e Cultura, assinada em Londres, a 16 de novembro de 1945, nos '
+    'têrmos da comunicação feita pela Embaixada da Grã-Bretanha ao Govêrno brasileiro, a 9 de agôsto de 1955, apensa por '
+    'cópia ao presente Decreto.\n\nRio de Janeiro, 18 de agôsto de 1955; 134º da Independência e 67º da República.\n\n'
+    'João Café Filho\n\nRaul Fernandes')
+FAZ_PUBLICA_NOTA_AUSENTE = (
+    'DECRETO N. 2909 – DE 13 DE JUNHO DE 1898\n\nPublica a adhesão do Estado Livre de Orange á Convenção Postal Universal de '
+    'Washington de 15 de junho de 1897.\n\nO Presidente da Republica dos Estados Unidos do Brazil faz publica a adhesão do '
+    'Estado Livre de Orange á Convenção Postal Universal assignada em Washington em 15 de junho de 1897, segundo a '
+    'communicação da Legação dos Estados Unidos da America de 8 do corrente ao Ministerio das Relações Exteriores, cuja '
+    'traducção official este acompanha.\n\nCapital Federal, 13 de junho de 1898, 10º da Republica.\n\n'
+    'PRUDENTE J. DE MORAES BARROS.\n\nDionisio E. de Castro Cerqueira.')
+
+
+class DecretoDePublicacao(unittest.TestCase):
+    def test_entra_com_a_nota_depois_do_fecho_ou_sem_citar_nota(self):
+        for corpo, numero, data in [(PUBLICA_COM_NOTA, '15161', '1921-12-07'), (PUBLICA_SEM_NOTA, '20287', '1931-08-11')]:
+            with self.subTest(numero):
+                self.assertIsNone(f.motivo_texto_parcial_decreto('DEC-n', corpo, numero, data))
+
+    def test_nota_que_acompanha_o_decreto_e_falta_na_transcricao_mantem_a_retencao(self):
+        casos = {
+            'apensa por cópia ao presente decreto': (TORNA_PUBLICO_NOTA_AUSENTE, '37774', '1955-08-18'),
+            'cuja tradução oficial este acompanha': (FAZ_PUBLICA_NOTA_AUSENTE, '2909', '1898-06-13'),
+            'nota cortada antes da tradução': (PUBLICA_COM_NOTA.split('\n\nTRADUCÇÃO')[0], '15161', '1921-12-07'),
+            'só o rótulo da tradução': (PUBLICA_COM_NOTA.split('\n\nEmbaixada da Republica')[0], '15161', '1921-12-07'),
+        }
+        for caso, (corpo, numero, data) in casos.items():
+            with self.subTest(caso):
+                self.assertIn('Sem artigo', f.motivo_texto_parcial_decreto('DEC-n', corpo, numero, data))
+
+    def test_as_demais_exigencias_do_dispositivo_unico_continuam(self):
+        casos = {
+            'fórmula só na ementa': (PUBLICA_SEM_NOTA.replace('do Brasil faz pública a adesão', 'do Brasil publica a adesão'), '20287', '1931-08-11'),
+            'faço saber, da sanção de lei': (PUBLICA_SEM_NOTA.replace('do Brasil faz pública a adesão', 'do Brasil: Faço saber a adesão'), '20287', '1931-08-11'),
+            'sem autoridade': (PUBLICA_SEM_NOTA.replace('O Chefe do Governo Provisório da República', 'O Ministro das Relações Exteriores'), '20287', '1931-08-11'),
+            'data do fecho diferente da do índice': (PUBLICA_SEM_NOTA, '20287', '1931-08-12'),
+            'número da epígrafe diferente do índice': (PUBLICA_SEM_NOTA, '20288', '1931-08-11'),
+            'fecho sem a marca da era': (PUBLICA_SEM_NOTA.replace(', 110º da Independência e 43º da República', ''), '20287', '1931-08-11'),
+            'sem número e data do índice': (PUBLICA_SEM_NOTA, None, None),
+        }
+        for caso, (corpo, numero, data) in casos.items():
+            with self.subTest(caso):
+                self.assertIn('Sem artigo', f.motivo_texto_parcial_decreto('DEC-n', corpo, numero, data))
+
 
 class DispositivoUnico(unittest.TestCase):
     def test_decretos_de_dispositivo_unico_com_identidade_e_fecho_proprios_entram(self):
@@ -146,7 +220,7 @@ class DispositivoUnico(unittest.TestCase):
             'data do fecho diferente da do índice': (REPUBLICA, '17168', '1925-12-22'),
             'número da epígrafe diferente do índice': (REPUBLICA, '17169', '1925-12-23'),
             'fecho sem a marca da era': (REPUBLICA.replace(', 104º da Independencia e 37º da Republica', ''), '17168', '1925-12-23'),
-            'sem fórmula dispositiva': (REPUBLICA.replace('resolve abrir', 'faz publico ter aberto'), '17168', '1925-12-23'),
+            'sem fórmula dispositiva': (REPUBLICA.replace('resolve abrir', 'abre'), '17168', '1925-12-23'),
             'sem autoridade que decreta': (REPUBLICA.replace('O Presidente da Republica dos Estados Unidos do Brasil', 'O Ministro'), '17168', '1925-12-23'),
             'sem epígrafe': (REPUBLICA.split('\n\n', 1)[1], '17168', '1925-12-23'),
             'fórmula só depois do fecho': (IMPERIO.replace('Hei por bem Derogar', 'Fica derogado') + '\n\nHei por bem.', '10339', '1889-09-06'),
