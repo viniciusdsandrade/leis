@@ -1,0 +1,32 @@
+---
+titulo: "Ajuste SINIEF nº 10, de 16 de dezembro de 2005"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "10"
+data: 2005-12-16
+ementa: "Prorroga o início de vigência das disposições previstas no Ajuste SINIEF 04/05, que altera o Ajuste SINIEF 19/89, que dispõe sobre a concessão de regime especial nas prestações de serviço de transporte ferroviário interestadual e intermunicipal de carga."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 21.12.05."
+data_publicacao: "2005-12-21"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2005/AJ010_05"
+sha256_html_fonte: "945faa53a83e1cf63801d7470f57b01809dac4fe04fdd1a447f230954507b03d"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 10, de 16 de dezembro de 2005
+
+AJUSTE SINIEF 10/05
+
+Publicado no DOU de 21.12.05.
+
+Prorroga o início de vigência das disposições previstas no Ajuste SINIEF 04/05, que altera o Ajuste SINIEF 19/89, que dispõe sobre a concessão de regime especial nas prestações de serviço de transporte ferroviário interestadual e intermunicipal de carga.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 120ª reunião ordinária, realizada em Mata de São João, BA, no dia 16 de dezembro de 2005, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 26 de outubro de 1966), resolve celebrar o seguinte
+
+A J U S T E
+
+**Cláusula primeira** Fica prorrogada para 1º de julho de 2006 a vigência das disposições previstas no Ajuste SINIEF 04/05, de 30 de setembro de 2005.
+
+**Cláusula segunda** Este ajuste entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Mata de São João, BA, 16 de dezembro de 2005.

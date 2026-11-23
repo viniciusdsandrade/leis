@@ -1,0 +1,52 @@
+---
+titulo: "Ajuste SINIEF nº 5, de 3 de julho de 2009"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "5"
+data: 2009-07-03
+ementa: "Altera o Convênio s/n°, que instituiu o Sistema Nacional Integrado de Informações Econômico - Fiscais - SINIEF, relativamente ao Código Fiscal de Operações e Prestações - CFOP."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.07.09, pelo Despacho 171/09."
+data_publicacao: "2009-07-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2009/AJ_005_09"
+sha256_html_fonte: "3b715110d125548542ad062fcd3ef22cfd006d4f96d635bd9998d9bcc118dc9f"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 5, de 3 de julho de 2009
+
+AJUSTE SINIEF 5, DE 3 DE JULHO DE 2009
+
+Publicado no DOU de 09.07.09, pelo Despacho 171/09.
+
+Retificação no DOU de 11.01.10.
+
+Altera o Convênio s/n°, que instituiu o Sistema Nacional Integrado de Informações Econômico - Fiscais - SINIEF, relativamente ao Código Fiscal de Operações e Prestações - CFOP.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 134ª reunião ordinária, realizada em Manaus, AM, no dia 3 de julho de 2009, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+A J U S T E
+
+**Cláusula primeira** Ficam acrescidos ao Anexo do Convênio s/nº, de 15 de dezembro de 1970, que instituiu o Sistema Integrado de Informações Econômico -Fiscais - SINIEF, que trata do Código Fiscal de Operações e Prestações, os seguintes códigos com as respectivas Notas Explicativas:
+
+5.667 - Venda de combustível ou lubrificante a consumidor ou usuário final estabelecido em outra unidade da Federação
+
+Classificam-se neste código as vendas de combustíveis ou lubrificantes a consumidor ou a usuário final estabelecido em outra unidade da Federação, cujo abastecimento tenha sido efetuado na unidade da Federação do remetente.”;
+
+“6.667 - Venda de combustível ou lubrificante a consumidor ou usuário final estabelecido em outra unidade da Federação diferente da que ocorrer o consumo
+
+Classificam-se neste código as vendas de combustíveis ou lubrificantes a consumidor ou a usuário final, cujo abastecimento tenha sido efetuado em unidade da Federação diferente do remetente e do destinatário.”;
+
+“7.667 - Venda de combustível ou lubrificante a consumidor ou usuário final.
+
+Classificam-se neste código as vendas de combustíveis ou lubrificantes a consumidor ou a usuário final, cuja operação tenha sido equiparada a uma exportação.”.
+
+**Cláusula segunda** Este ajuste entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de julho de 2009.
+
+RETIFICAÇÃO
+
+Publicada no DOU de 11.01.10.
+
+No Ajuste SINIEF 05/09, de 03 de julho de 2009, publicado no DOU de 09 de julho de 2009, Seção 1, página 14, no preâmbulo, **onde se lê:** “.... Lei nº 5.172, de 26 de outubro de 1966, ...”, **leia-se:** “... Lei nº 5.172, de 25 de outubro de 1966, ...”.
+
+MANUEL DOS ANJOS MARQUES TEIXEIRA

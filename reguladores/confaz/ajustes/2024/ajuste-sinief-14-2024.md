@@ -1,0 +1,102 @@
+---
+titulo: "Ajuste SINIEF nº 14, de 5 de julho de 2024"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "14"
+data: 2024-07-05
+ementa: "Dispõe sobre o procedimento de devolução simbólica decorrente da não entrega ao destinatário originário e operação posterior a destinatário diverso."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.07.24, pelo Despacho 31/24."
+data_publicacao: "2024-07-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2024/AJ014_24"
+sha256_html_fonte: "b15861a6c2032eabd1439bb5e1b7f5b1efe65e1973140b157e344e74fcb5e1fd"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 14, de 5 de julho de 2024
+
+AJUSTE SINIEF Nº 14, DE 5 DE JULHO DE 2024
+
+Publicado no DOU de 09.07.24, pelo Despacho 31/24.
+
+Alterado pelo Ajuste SINIFE 47/25.
+
+Nova redação dada à ementa pelo Ajuste SINIEF 47/25, efeitos a partir de 04.05.26.
+
+Dispõe sobre o procedimento de retorno simbólico por recusa total na entrega ou por não localização do destinatário e operação posterior a destinatário diverso.
+
+Redação original, efeitos até 03.05.26
+
+Dispõe sobre o procedimento de devolução simbólica decorrente da não entrega ao destinatário originário e operação posterior a destinatário diverso.
+
+**O Conselho Nacional de Política Fazendária – CONFAZ** e a Secretaria Especial da Receita Federal do Brasil, na sua 193ª Reunião Ordinária do Conselho, realizada em São Luís, MA, no dia 5 de julho de 2024, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+AJUSTE
+
+Nova redação dada ao caput da cláusula primeira pelo Ajuste SINIEF 47/25, efeitos a partir de 04.05.26.
+
+**Cláusula primeira** Na hipótese de não entrega ou recusa total e operação posterior a destinatário diverso do previsto na NF-e de saída original o remetente poderá uma única vez efetuar os procedimentos previstos neste ajuste.
+
+Redação original, efeitos até 03.05.26.
+
+**Cláusula primeira** Na hipótese de não entrega ou recusa e operação posterior a destinatário diverso da operação original, o remetente poderá uma única vez efetuar os procedimentos previstos neste ajuste.
+
+**§ 1º** Para fins do disposto neste ajuste, o prazo para efetuar os procedimentos é de até 72 (setenta e duas) horas do ato da não entrega ou recusa e antes da circulação da nova operação.
+
+**§ 2º** O disposto neste ajuste não se aplica às operações de comércio exterior.
+
+Nova redação dada ao caput da cláusula segunda pelo Ajuste SINIEF 47/25, efeitos a partir de 04.05.26.
+
+**Cláusula segunda** Para fins de anulação da operação de saída original, o remetente da NF-e de saída original deve emitir NF-e de entrada para anulação total da operação de saída original, contendo, além dos demais requisitos exigidos:
+
+I - no campo “finNFe - Finalidade de emissão da NF-e”, o código “5=Nota de crédito”;
+
+II - no campo “tpNFCredito - Tipo de Nota de Crédito”, o código “03=Retorno por Recusa na Entrega ou Por Não Localização do Destinatário na Tentativa de Entrega”;
+
+III - no grupo “prod - Detalhamento de Produtos e Serviços”, as mesmas informações da NF-e de saída original;
+
+IV - no campo “natOp - Descrição da Natureza da Operação”, o texto “Retorno por Recusa ou não localização - Ajuste SINIEF 14/24”;
+
+V - no campo “infAdFisco - Informações Adicionais de Interesse do Fisco”, o texto “Procedimento autorizado pelo Ajuste SINIEF 14/24”;
+
+VI - no campo “refNFe - Chave de acesso da NF-e referenciada”, a chave de acesso da NF-e de saída original.
+
+Redação original, efeitos até 03.05.26.
+
+**Cláusula segunda** Para fins de anulação da operação de saída original, o remetente deve emitir Nota Fiscal Eletrônica - NF-e - de entrada simbólica.
+
+Revogado o § 1º da cláusula segunda pelo Ajuste SINIEF 47/25, efeitos a partir de 04.05.26.
+
+**§ 1º** REVOGADO
+
+Redação original, efeitos até 03.05.26.
+
+**§ 1º** Além dos demais requisitos exigidos, a NF-e de entrada simbólica deverá conter:
+
+I - no grupo “prod - Detalhamento de Produtos e Serviços”, as mesmas informações da NF-e original de saída;
+
+II - no campo “natOp - Natureza da Operação”, o texto “Entrada simbólica - Ajuste SINIEF 14/24”;
+
+III - no campo “infAdFisco - Informações Adicionais de Interesse do Fisco”, o texto “Procedimento autorizado pelo Ajuste SINIEF 14/24”;
+
+IV - no campo “refNFe - Chave de acesso da NF-e referenciada”, a chave de acesso da NF-e de saída original.
+
+Nova redação dada ao § 2º da cláusula segunda pelo Ajuste SINIEF 47/25, efeitos a partir de 04.05.26.
+
+**§ 2º** O destinatário da NF-e de saída original deverá realizar o registro de evento “Operação não Realizada” ou “Desconhecimento da Operação”, dos incisos VI e VII do § 1º da cláusula décima quinta-A do Ajuste SINIEF nº 7, de 30 de setembro de 2005, conforme o caso.
+
+Redação original, efeitos até 03.05.26.
+
+**§ 2º** No caso de recusa, o destinatário deverá realizar o registro de evento “Operação não Realizada” ou “Desconhecimento da Operação”, dos incisos VI e VII do § 1º da cláusula décima quinta-A do Ajuste SINIEF nº 7, de 30 de setembro de 2005, conforme o caso.
+
+**§ 3º** No caso de não entrega ou recusa, o responsável pelo transporte deverá realizar o registo de evento “Insucesso na Entrega da NF-e” do inciso XXIV do § 1º da cláusula décima quinta-A do Ajuste SINIEF nº 7/05 ou “Insucesso na Entrega do CT-e” do inciso XXIII do § 1º da cláusula décima oitava-A do Ajuste SINIEF nº 9, de 25 de outubro de 2007, conforme o caso.
+
+**Cláusula terceira** Para a operação posterior à não entrega ou recusa de que trata a cláusula primeira, além dos demais requisitos exigidos, a NF-e de saída deve ser emitida antes da circulação da nova operação, e conter:
+
+I - no campo “infAdFisco - Informações Adicionais de Interesse do Fisco”, o texto “Procedimento autorizado pelo Ajuste SINIEF 14/24”;
+
+II - no grupo “Local da Retirada", a identificação do endereço do destino declarado na NF-e de saída original;
+
+III - no campo “refNFe - Chave de acesso da NF-e referenciada”, as chaves de acesso da NF-e de saída original e da que trata a cláusula segunda.
+
+**Cláusula quarta** Este ajuste entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.

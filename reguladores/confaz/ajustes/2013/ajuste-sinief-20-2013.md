@@ -1,0 +1,32 @@
+---
+titulo: "Ajuste SINIEF nº 20, de 11 de outubro de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "20"
+data: 2013-10-11
+ementa: "Altera o Ajuste SINIEF 07/05, que institui a Nota Fiscal Eletrônica e o Documento Auxiliar da Nota Fiscal Eletrônica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18.10.13, pelo Despacho 213/13 ."
+data_publicacao: "2013-10-18"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_020_13"
+sha256_html_fonte: "f81f48ee08798cb54324ceb9f508ece4d58463d256b924b5abf263fb4221aa4d"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 20, de 11 de outubro de 2013
+
+AJUSTE SINIEF 20, DE 11 DE OUTUBRO DE 2013
+
+· Publicado no DOU de 18.10.13, pelo Despacho 213/13 .
+
+Altera o Ajuste SINIEF 07/05, que institui a Nota Fiscal Eletrônica e o Documento Auxiliar da Nota Fiscal Eletrônica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 151ª reunião ordinária, realizada em Fortaleza, CE no dia 11 de outubro de 2013, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+A J U S T E
+
+**Cláusula primeira** O § 13 da cláusula décima primeira do Ajuste SINIEF 07/2005 , de 30 de setembro de 2005, passa a vigorar com a seguinte redação:
+
+“§ 13. Para os Estados do Acre, Amazonas, Mato Grosso, Rio Grande do Sul, Rondônia e Roraima, na hipótese do § 5º-A da cláusula nona, havendo problemas técnicos de que trata o *caput* , o contribuinte poderá emitir, em no mínimo duas vias, o DANFE Simplificado em contingência, com a expressão “DANFE Simplificado em Contingência”, dispensada a utilização de formulário de segurança, devendo ser observadas as destinações de cada via conforme o disposto nos incisos I e II do § 5º.”.
+
+**Cláusula segunda** Este ajuste entra em vigor na data da sua publicação no Diário Oficial da União.

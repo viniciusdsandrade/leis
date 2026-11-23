@@ -1,0 +1,34 @@
+---
+titulo: "Ajuste SINIEF nº 34, de 6 de dezembro de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "34"
+data: 2013-12-06
+ementa: "Dispensa a emissão de nota fiscal eletrônica relativa à remessa interestadual de mercadoria para exposição e venda na IX Feira Nacional da Agricultura Familiar e Reforma Agrária - FENAFRA - e autoriza a dispensa de nota fiscal na sua venda."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.12.13, pelo Despacho 253/13 ."
+data_publicacao: "2013-12-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2013/AJ_034_13"
+sha256_html_fonte: "a30f1f717ab45783ea42c3e430b5d723ffd57d29bd1291c173e124c8e794cf49"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 34, de 6 de dezembro de 2013
+
+AJUSTE SINIEF 34, DE 6 DE DEZEMBRO DE 2013
+
+· Publicado no DOU de 12.12.13, pelo Despacho 253/13 .
+
+Dispensa a emissão de nota fiscal eletrônica relativa à remessa interestadual de mercadoria para exposição e venda na IX Feira Nacional da Agricultura Familiar e Reforma Agrária - FENAFRA - e autoriza a dispensa de nota fiscal na sua venda.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 152ª reunião ordinária, realizada em Vitória, ES, no dia 6 de dezembro de 2013, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte:
+
+AJUSTE
+
+**Cláusula primeira** Acordam os Estados e o Distrito Federal em dispensar a emissão de nota fiscal eletrônica - NFe - para documentar as operações interestaduais com mercadoria para serem expostas e comercializadas na IX Feira Nacional da Agricultura Familiar e Reforma Agrária - FENAFRA, a ser realizada no Distrito Federal, nos dias 19 de março a 23 de março de 2014.
+
+**Parágrafo único.** As operações indicadas no *caput* serão documentadas pela Nota Fiscal Modelo 1 ou 1-A, Nota Fiscal de Venda a Consumidor - modelo 2, Nota Fiscal de Produtor Rural - modelo 4, ou nota fiscal avulsa emitida pela respectiva secretaria de fazenda.
+
+**Cláusula segunda** Fica o Distrito Federal autorizado a dispensar a emissão de notas fiscais para documentar as operações internas de venda de mercadorias isentas do ICMS pelos participantes da IX Feira Nacional da Agricultura Familiar e Reforma Agrária - FENAFRA, a ser realizada nos dias 19 de março a 23 de março de 2014, nos termos da legislação distrital, que poderá estabelecer limites e condições.
+
+**Cláusula terceira** Este ajuste entra em vigor na data de sua publicação no Diário Oficial da União.
