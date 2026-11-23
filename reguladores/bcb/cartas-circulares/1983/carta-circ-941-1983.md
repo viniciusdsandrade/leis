@@ -1,0 +1,1456 @@
+---
+titulo: "Carta Circular nº 941, de 28 de setembro de 1983"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "941"
+data: 1983-09-28
+ementa: "DIVULGA RELACAO DE PESSOAS FISICAS E JURIDICAS INCLUIDAS NA RELACAO DE QUE TRATA O DOCUMENTO 7 DO MCR 2."
+situacao: "revogado"
+revogada: true
+versao_texto: "original: PDF da versão original (v1) no portal de normativos do Banco Central do Brasil, sem as alterações posteriores; não substitui a publicação no Diário Oficial da União"
+paginas_em_imagem: "32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156 de 156: anexo, tabela ou formulário escaneado no PDF, sem transcrição neste arquivo"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=941"
+fonte_texto: "https://www.bcb.gov.br/pre/normativos/c_circ/1983/pdf/c_circ_0941_v1_o.pdf"
+sha256_fonte: "5e9c648190681ca87d4d503c6484241975058f29b234b6d8eb3d8fa06ae965dd"
+baixado_em: 2026-11-23
+---
+# Carta Circular nº 941, de 28 de setembro de 1983
+
+CARTA-CIRCULAR Nº 941
+
+Às Instituições Financeiras do Sistema Nacional de Crédito Rural
+
+Comunicamos a inclusão das seguintes pessoas físicas e jurídicas na relação de que trata o documento nº 7 do MCR 2:
+
+- ADELINO LEANDRO DE OLIVEIRA
+
+CPF 238.447.606-87
+
+Campestre (MG)
+
+- ADEMAR AKIO KIDA
+
+CPF 039.307.692-07
+
+Abaetetuba (PA)
+
+- ADEMAR PEREIRA BRASILEIRO
+
+CPF 024.402.454-53
+
+Itaporanga (PB) e Floresta (PE)
+
+- ADEMAR PEREIRA DA SILVA
+
+CPF 002.712.411-87
+
+Goiânia (GO)
+
+- ADERBAL OLIVEIRA NASSAU
+
+CPF 033.937.476-49
+
+Montes Claros (MG)
+
+- AGRO PECUÁRIA VALE DO APUCARANINHA LTDA.
+
+CGC 77.558.880/0001-40
+
+Londrina (PR)
+
+- AIRTON ALVIM DE ARAÚJO
+
+CPF 124.345.316-87
+
+Belo Horizonte (MG)
+
+- ALAIR FERREIRA DA SILVA
+
+CPF 148.665.957-91
+
+Inhumas (GO)
+
+- ALBERTO FUZINATTO
+
+CPF 024.014.360-49
+
+- ALCEU MENDES DE ANDRADE
+
+CPF 345.384.379-72
+
+Dionísio Cerqueira (SC)
+
+- ALCÍBIO FERREIRA
+
+CPF 223.132.309-53
+
+Londrina (PR)
+
+- ALCIDES MANOEL DE SOUZA
+
+CPF 198.836.646-04
+
+Poço Fundo (MG)
+
+- ALEXANDRE VERUS
+
+CPF 182.142.900-15
+
+Gaurama (RS)
+
+- ALFREDO PEREIRA DOS SANTOS
+
+CPF 120.559.056-00
+
+- AMADOR PEREIRA GOMES
+
+CPF 036.738.046-34
+
+- ANDERSON DE SOUZA COSTA
+
+CPF 040.398.401-78
+
+- ANÍSIO RODRIGUES DA COSTA
+
+CPF 051.903.041-91
+
+Padre Bernado (GO)
+
+- ANTONINO AIRES DE ARAÚJO
+
+CPF 015.223.701-10
+
+Catalão (GO)
+
+- ANTÔNIO CARLOS ZANETTI
+
+CPF 027.558.559-72
+
+São Paulo (SP)
+
+- ANTÔNIO CEZAR RODRIGUES DE PAULA
+
+CPF 357.716.748-34
+
+Franca (SP)
+
+- ANTÔNIO ESMÉRIO
+
+CPF 005.371.948-43
+
+Cunha (SP)
+
+- ANTÔNIO JOAQUIM DA SILVA
+
+CPF 094.035.741-00
+
+Goiânia (GO)
+
+- ANTÔNIO JORGE TANNURI
+
+CPF 073.961.128-34
+
+- ANTÔNIO MARQUES DA COSTA
+
+CPF 226.662.748-53
+
+Surubim (PE)
+
+- ANTÔNIO MÁXIMO DE OLIVEIRA
+
+CPF 003.018.411-87
+
+Caiapônia (GO)
+
+- ANTÔNIO DE PÁDUA CONRADO JACINTO
+
+CPF 039.545.368-20
+
+Diamantina (MG)
+
+- ANTÔNIO DE PÁDUA TEODORO DE ALMEIDA
+
+CPF 060.814.018-04
+
+Uberaba (MG)
+
+- ANTÔNIO PAULO MASSINI
+
+CPF 719.566.548-87
+
+São Sebastião da Grama (SP)
+
+- ANTÔNIO SARAIVA DE MEDEIROS
+
+CPF 083.899.694-91
+
+Surubim (PE)
+
+- ANTÔNIO VITORIANO DE LIMA
+
+CPF 159.149.688-87
+
+Mirante do Paranapanema (SP)
+
+- APARECIDA DO CARMO MOACYR
+
+CPF
+
+Ibiropã (PR)
+
+- ARARÉ D’AGOSTINHO PINTO
+
+CPF 160.505.688-04
+
+Severínia (SP)
+
+- ARIE CZERTOK
+
+CPF 119.458.185-49
+
+São Paulo (SP)
+
+- ARMANDO RESENDE
+
+CPF 008.299.350-53
+
+Passo Fundo (RS)
+
+- ATTÍLIO TABASCO FILHO
+
+CPF 133.543.538-72
+
+Santa Cruz das Palmeiras (SP)
+
+- AVÍCOLA CAETANO LTDA
+
+CGC 75.029.090/0001-42
+
+Curitiba (PR)
+
+- BELMIRO HERNANDES
+
+CPF 215.863.578-91
+
+Guararapes (SP)
+
+- BENEDITO ALVES
+
+CPF 052.162.655-20
+
+Cristianópolis (SE)
+
+- BERNARDINO GONÇALVES TRINDADE
+
+CPF 151.985.378-53
+
+Santa Cruz do Rio Prado (SP)
+
+- BOANÉSIO MUNARIM
+
+CPF 074.337.949-72
+
+- CAIO LÚCIO FONTOURA
+
+CPF 036.308.976-49
+
+Uberaba (MG)
+
+- CAMILO TAROMARU
+
+CPF 211.126.308-72
+
+Mogi das Cruzes (SP)
+
+- CÉLIO TABITH
+
+CPF 012.005.188-53
+
+Jataí (GO)
+
+- CELSO CAMPOS
+
+CPF 482.030.418-68
+
+Assis (SP)
+
+- CELSO PROENÇA
+
+CPF 081.631.380-68
+
+Passo Fundo (RS)
+
+- CÍCERO DE BARROS PRIMO
+
+CPF 015.164.694-53
+
+Floresta (PE)
+
+- CLAUDINO KOPP
+
+CPF 234.648.200-78
+
+Sobradinho (RS)
+
+- CLEMENTE DURAN FONTES
+
+CPF 069.013.878-49
+
+Fernandópolis (SP)
+
+- COSME VIANA BARROS
+
+CPF 193.142.721-68
+
+Torixoréu (MT)
+
+- DANILO PEDRO STREIT
+
+CPF 039.175.502-10
+
+Ariquemes (RO)
+
+- DARCY FAUTH DA SILVA
+
+CPF 130.711.970-04
+
+Passo Fundo (RS)
+
+- DEOCLÉCIO DA SILVA AMORIM
+
+CPF 177.572.900-15
+
+São Borja (RS)
+
+- DERLY MARTINS DO LAGO
+
+CPF 012.443.888-15
+
+Andradina (SP)
+
+- DOMINGOS GULLO
+
+CPF 168.612.488-00
+
+Santa Fé do Sul (SP)
+
+- DURVAL RAMOS BASTOS
+
+CPF 046.513.677-04
+
+Rio de Janeiro (RJ)
+
+- EDIMO LUIZ TONIAL
+
+CPF 053.933.880-04
+
+Maximiliano de Almeida (RS)
+
+- EDUARDO LUIZ BAUDUINO CHAVES
+
+CPF 101.167.961-20
+
+Formosa (GO)
+
+- EISUKE YOKOYAMA
+
+CPF 089.652.502-34
+
+Acará (PA)
+
+- ELIZABETE ANÍBAL DA SILVA
+
+CPF 219.425.013-15
+
+Morada Nova (CE)
+
+- ELOY DIAS ALVES
+
+CPF 008.583.405-00
+
+Vitória da Conquista (BA)
+
+- EPHRAIM DE FARIA FRANCO
+
+CPF 026.890.656-49
+
+Rio Verde (GO)
+
+- EREMITA TEIXEIRA MANZANO
+
+CPF 003.538.259-72
+
+Londrina (PR)
+
+- ERNESTO FERNANDES
+
+CPF 139.621.249-34
+
+Mundo Novo (MS)
+
+- ERNESTO FRANCISCO SAVARIS
+
+CPF 185.891.239-68
+
+Palma Sola (SC)
+
+- ESAÚ VILELA DE CARVALHO
+
+CPF 026.247.101-91
+
+Goiânia (GO)
+
+- ESTEVAM JOÃO DOS SANTOS
+
+CPF 189.920.484-91
+
+Itacuruba (PE)
+
+- EUCLIDES CORREIA DE PAIVA
+
+CPF 044.916.962-68
+
+Cruzeiro do Sul (AC)
+
+- EUCLIDES FERREIRA DA COSTA
+
+CPF 024.973.876-72
+
+Camanducaia (MG)
+
+- EUNI CORREIA ALVES
+
+CPF 088.583.405-00
+
+Vitória da Conquista (BA)
+
+- EURÍPEDES SILVEIRA
+
+CPF 008.662.616-72
+
+Goiânia (GO)
+
+- EXPEDITO BEZERRA DE QUEIROZ
+
+CPF 040.913.101-68
+
+Fátima do Sul (MS)
+
+- FÁBIO JUAREZ MARQUES
+
+CPF 154.986.971-04
+
+Goiânia (GO)
+
+- FELÍCIO TEIXEIRA DE SOUZA
+
+CPF 466.037.436-04
+
+Francisco Badaró (MG)
+
+- FLAVIANO KOICHI AOKI
+
+CPF 059.778.602-00
+
+Abaetetuba (PA)
+
+- FLÁVIO DE FARIAS GUERRA
+
+CPF 089.929.754-49
+
+Surubim (PE)
+
+- FRANCISCO CASSIMIRO DOS REIS
+
+CPF 139.590.348-49
+
+Iacri (SP)
+
+- FRANCISCO DAS CHAGAS SILVA
+
+CPF 139.770.083-15
+
+Santana do Cariri (CE)
+
+- FRANCISCO EISENHOWER VASCONCELOS
+
+CPF 020.514.604-00
+
+Fortaleza (CE)
+
+- FRANCISCO FERNANDES
+
+CPF 003.565.225-04
+
+Vitória da Conquista (BA)
+
+- FRANCISCO RODRIGUES NETO
+
+CPF 021.140.895-68
+
+Feira de Santana (BA)
+
+- GERALDO JOSÉ DE ARAÚJO ROCHA
+
+CPF 055.768.906-63
+
+Belo Horizonte (MG)
+
+- GERALDO RODRIGUES DA TRINDADE
+
+CPF 123.147.576-53
+
+Araxá (MG)
+
+- GUARACY BEVILAQUA
+
+CPF 036.443.836-34
+
+Uberaba (MG)
+
+- HEISABURO NISHIMURA
+
+CPF 003.373.662-68
+
+Abaetuba (PA)
+
+- HÉLCIO ULHÔA SARAIVA
+
+CPF 023.208.511-00
+
+Brasília (DF)
+
+- HÉLIO RUBENS NAVES CANÇADO
+
+CPF 198.619.231-87
+
+Goiânia (GO)
+
+- HERMINDO GONÇALVES CARDOSO
+
+CPF 112.638.817-09
+
+Goiânia (GO)
+
+- HERMÍNIO GAROTTI NETTO
+
+CPF 095.054.748-49
+
+Campanha (MG)
+
+- HUGO HÉLIO NAVES CANÇADO
+
+CPF 031.146.001-15
+
+Goiânia (GO)
+
+- ILDO VALÉRIO
+
+CPF 148.923.168-49
+
+Ibaté (SP)
+
+- ILZO IZOLDINO DA SILVA BORGES
+
+CPF 124.859.186-00
+
+Belo Horizonte (MG)
+
+- IRINEU ARRUDA
+
+CPF 015.059.714-00
+
+Surubim (PE)
+
+- ISMAR SILVA FERREIRA
+
+CPF 615.706.308-44
+
+São Joaquim da Barra (SP)
+
+- IVO CITOLIN
+
+CPF 086.612.600-78
+
+Sarandí (RS)
+
+- JAIME FERREIRA CARVALHO
+
+CPF 047.341.576-34
+
+Ituiutaba (MG)
+
+- JAMAL RASSI
+
+CPF 002.774.601-15
+
+Goiânia (GO)
+
+- JARBAS RODRIGUES
+
+CPF 053.947.671-49
+
+Anápolis (GO)
+
+- JOÃO BARBOSA DA SILVA
+
+CPF 199.708.974-20
+
+Nova Cruz (RN)
+
+São José do Campestre (RN)
+
+- JOÃO BATISTA DO LAGO
+
+CPF 086.978.336-04
+
+Campestre (MG)
+
+- JOÃO BONIFÁCIO ANTUNES
+
+CPF 027.557.770-87
+
+Maximiliano de Almeida (RS)
+
+- JOÃO BUENO DO AMARAL
+
+CPF 465.942.649-15
+
+Ortigueira (PR)
+
+- JOÃO FERNANDES DO SANTOS
+
+CPF 150.297.435-53
+
+Poço Verde (SE)
+
+- JOÃO GOMES DE ANDRADE
+
+CPF 062.162.343-15
+
+Presidente Dutra (MA)
+
+- JOÃO GONÇALVES RIBEIRO
+
+CPF 044.427.684-04
+
+Souza (PB)
+
+- JOÃO JOAQUIM RIBEIRO
+
+CPF 018.430.101-78
+
+Jataí (GO)
+
+- JOÃO JOSÉ DE OLIVEIRA MILHOMEN
+
+CPF 228.357.091-34
+
+Nazaré (GO)
+
+- JOÃO RIBEIRO SOBRINHO
+
+CPF 257.250.505.-30
+
+Poço Verde (SE)
+
+- JOÃO DOS SANTOS TEODORO
+
+CPF 011.761.371-15
+
+Amorinópolis (GO)
+
+- JOÃO SILVINO DOS SANTOS
+
+CPF 395.304.856-20
+
+Ouro Fino (MG)
+
+- JOÃO DE SOUZA
+
+CPF 659.805.148-72
+
+Santa Cruz do Rio Prado (SP)
+
+- JOAQUIM DE BARROS PRIMO
+
+CPF 004.579.144-91
+
+Floresta (PE)
+
+- JOAQUIM GOMES AMADO
+
+CPF 268.465.788-00
+
+Tangará da Serra (MT)
+
+- JOAQUIM GONÇALVES FERREIRA
+
+CPF 062 059.336-91
+
+Coromandel (MG)
+
+- JORDÃO RODRIGUES DE AQUINO
+
+CPF 041.040.305-97
+
+Feira de Santana (BA)
+
+- JOSÉ ALVES MIGUELÃO
+
+CPF 172.071.188-72
+
+Populina (SP)
+
+- JOSÉ ALVES NOGUEIRA
+
+CPF 172.071.188-72
+
+Camanducaia (MG)
+
+- JOSÉ ANTÃO PEREIRA
+
+CPF 067.744.826-00
+
+Mesquita (MG)
+
+- JOSÉ ANTÔNIO ROSA
+
+CPF 908.407.808-00
+
+Paranapuã (SP)
+
+- JOSÉ ARANTES DE OLIVEIRA
+
+CPF 047.360.876-68
+
+Ituiutaba (MG)
+
+- JOSÉ AUGUSTO RAMOS
+
+CPF 144.304.289-72
+
+Londrina (PR)
+
+- JOSÉ CELES NOVAS
+
+CPF 120.043.836-15
+
+Carangola (MG)
+
+- JOSÉ DEMÉTRIO COSTA
+
+CPF 066.213.414-15
+
+Surubim (PE)
+
+- JOSÉ FARIA DE ALCÂNTARA
+
+CPF 121.096.226-87
+
+Guapé (MG)
+
+- JOSÉ FREGADOLLI
+
+CPF 324.928.718-00
+
+Rancharia (SP)
+
+- JOSÉ GONÇALVES JÚNIOR
+
+CPF 062.857.598-04
+
+São Paulo (SP)
+
+- JOSÉ MANOEL DOS SANTOS
+
+CPF 929.436.838-68
+
+Cunha (SP)
+
+- JOSÉ MAURO DE ALMEIDA
+
+CPF 245.468.806-00
+
+Bueno Brandão (MG)
+
+- JOSÉ MUNIZ DA SILVA
+
+CPF 151.140.406-00
+
+Montalvânia (MG)
+
+- JOSÉ NAILSON DOS SANTOS
+
+CPF 041.854.474-34
+
+União dos Palmares (AL)
+
+- JOSÉ PEREIRA BISPO
+
+CPF 012.188.165-20
+
+Pindobaçu
+
+- JOSÉ ROBERTO PRETTI CAETANO
+
+CPF 147.157.759-72
+
+Curitiba (PR)
+
+- JOSÉ SICAR VILELA
+
+CPF 043.915.946-68
+
+Boa Esperança (MG)
+
+- JOSÉ SOLANO RORIZ MEIRELES
+
+CPF 153.835.986-34
+
+Paracatu (MG)
+
+- JOSÉ XAVIER SILVA
+
+CPF 024.831.146-00
+
+Belo Horizonte (MG)
+
+- JOSÉ ZANETTI
+
+CPF 027.559.478-53
+
+Cordeirópolis (SP)
+
+- JOSEFA DE JESUS CARVALHO
+
+CPF 188.095.535-00
+
+Ribeira do Amparo (BA)
+
+- JUAREZ TÁVORA
+
+CPF 302.737.657-87
+
+Itabirinha de Mantena (MG)
+
+- JULIETA CAVALCANTE
+
+CPF 044.598.817-72
+
+Rio de Janeiro (RJ)
+
+- JÚLIO JOSÉ DE MELO FRANCO
+
+CPF 245.721.366-53
+
+Pará de Minas (MG)
+
+- JÚLIO PEDRO BORELLA
+
+CPF 009.950.100-72
+
+Passo Fundo (RS)
+
+- JÚLIO RENIER GASPAROTTO
+
+CPF 058.500.530-42
+
+Passo Fundo (RS)
+
+- JURACY FAUTH DA SILVA
+
+CPF 051.706.560-68
+
+Passo Fundo (RS)
+
+- JUSTINO FRANCISCO
+
+CPF 130.658.239-34
+
+Tangará da Serra (MT)
+
+- JUVENIL CORREA
+
+CPF 055.900.006-53
+
+Bambuí (MG)
+
+- KAZUO ISHIKAWA
+
+CPF 004.976.142-00
+
+Abaetetuba (PA)
+
+- LEONÍSIO ANGONESE
+
+CPF 004.437.780-00
+
+Passo Fundo (RS)
+
+- LINO ALBERANI
+
+CPF 112.666.946-68
+
+Belo Horizonte (MG)
+
+- LÍRIO SUSIN
+
+CPF 006.710.610-20
+
+Passo Fundo (RS)
+
+- LOTHAR NEUHAUS
+
+CPF 003.895.440-00
+
+Passo Fundo (RS)
+
+- LOURIVAL ALVES PRADO
+
+CPF 269.292.368-53
+
+Santos (SP)
+
+- LOURIVAL GONÇALVES DE MOURA
+
+CPF 085.775.791-15
+
+Torixoréu (MT)
+
+- LUIZ EDÍLSON ESTRELA
+
+CPF 185.932.834-20
+
+Antenor Navarro (PB)
+
+- LUIZ OCTÁVIO COSTA DE LA ROQUE
+
+CPF 189.073.777-15
+
+Barra do Piraí (RJ)
+
+- LUIZ RODRIGUES DE AQUINO
+
+CPF 041.040.565-53
+
+Feira de Santana (BA)
+
+- LUIZ SEBASTIÃO CAMATTI
+
+CPF 016.078.049-72
+
+Medianeira (PR)
+
+- LUPÉRCIO DE PAULA MONTEIRO
+
+CPF 286.895.008-63
+
+Tanabi (SP)
+
+- MALVINO ALVES FAHL
+
+CPF 455.692.238-00
+
+Itirapina (SP)
+
+- MANOEL EZEQUIEL CAMELO
+
+CPF 308.966.906-44
+
+Peçanha (MG)
+
+- MANOEL MOREIRA DO PRADO
+
+CPF 183.341.806-91
+
+Coromandel (MG)
+
+- MARCELINO MOREIRA DA SILVA
+
+CPF 438.882.816-72
+
+Campestre (MG)
+
+- - MARCOS DANILO PINTO DA ROCHA
+
+CPF 215.577.136-34
+
+Peçanha (MG)
+
+- MARCOS JOSÉ RIBEIRO DE ALMEIDA
+
+CPF 066.550.176-53
+
+Sete Lagoas (MG)
+
+- MARIA APARECIDA COSTA DE LA ROQUE
+
+CPF 254.201.947-91
+
+Barra do Piraí (RJ)
+
+- MARIA DE FÁTIMA SOBRAL CARVALHO – MERCADINHO SERTANEJO
+
+CGC 08.529.604/0001-31
+
+Natal (RN)
+
+- MARIA DE FÁTIMA SOBRAL CARVALHO
+
+CPF 316.657.464-49
+
+Natal (RN)
+
+- MARIA IVONE BETTIN ZANETTI
+
+CPF 027.558.559-72
+
+São Paulo (SP)
+
+- MÁRIO IDE
+
+CPF 745.472.328-49
+
+Ituverava (SP)
+
+- MÁRIO YOSHIHIRO TAROMARU
+
+CPF 210.458.528-72
+
+Mogi das Cruzes (SP)
+
+- MARTILES MACHADO DA SILVA
+
+CPF 551.650.368-04
+
+Itápolis (SP)
+
+- MAURÍLIO COELHO LINHARES
+
+CPF 056.389.506-30
+
+São João Evangelista (MG)
+
+- MILTON MOLENTO
+
+CPF 062.283.058-91
+
+São Paulo (SP)
+
+- MOACYR CRUZ
+
+CPF 243.717.856-20
+
+Santana do Manhuaçu (MG)
+
+- MOISÉS ZATITI
+
+CPF 125.699.338-72
+
+Barretos (SP)
+
+- MUTSUMI MORIYA
+
+CPF 125.439.508-34
+
+Ituverava (SP)
+
+- NEI AMILTON MENARIM
+
+CPF 126.912.409-91
+
+Castro (PR)
+
+- NEUDER MOTA
+
+CPF 075.207.41-87
+
+Goiânia (GO)
+
+- NEWTON DE OLIVEIRA CAETANO
+
+CPF 005.200.559-34
+
+Curitiba (PR)
+
+- NILO RODRIGUES PEIXOTO
+
+CPF 069.150.601-97
+
+Anápolis (GO)
+
+- NORMA CARVALHO DE SOUZA
+
+CPF 069.017.436-53
+
+Nanuque (MG)
+
+- NUTRIVALE COMÉRCIO DE PRODUTOS AGROPECUÁRIOS LTDA
+
+CGC 78.395.696/0001-90
+
+Londrina (PR)
+
+- ODAIR BIANCHI
+
+CPF 093.651.920-72
+
+Aratiba (RS)
+
+- ODILON GODINHO DE ABREU
+
+CPF 004.583.686-87
+
+Campos Altos (MG)
+
+- OG MARCELO
+
+CPF 064.326.226-72
+
+Patos de Minas (MG)
+
+- OLGA LAMARTINE LYRA
+
+CPF 042.796.624-87
+
+Natal (RN)
+
+- OLIVER SIMÕES DE OLIVEIRA
+
+CPF 127.510.658-72
+
+Muzambinho (MG)
+
+- OLMARY VEIGAS COSTA CAMPOS
+
+CPF 074.601.631-04
+
+Goiânia (GO)
+
+- OSCAR FREGADOLLI
+
+CPF 144.859.668-87
+
+Rancharia (SP)
+
+- ÓSEIAS DE GOUVEIA CARVALHO
+
+CPF 200.667.321-15
+
+Goiânia (GO)
+
+- OSÓRIO CÂNDIDO DE AGUIAR
+
+CPF 003.360.291-49
+
+Goiânia (GO)
+
+- OSVALDO MOREIRA
+
+CPF 039.481.966-72
+
+Goiânia (GO)
+
+- OSVALDO SCARIN
+
+CPF 163.541.338-91
+
+Fernandópolis (SP)
+
+- OTEMAPES-COMÉRCIO E INDÚSTRIA LTDA
+
+CGC 16.242.158/0001-08
+
+Feira de Santana (BA)
+
+PAULINO JOSÉ AGAZZI
+
+CPF 281.977.630-20
+
+Erechim (RS)
+
+- PAULO ROBERTO BERTOLIN
+
+CPF 144.832.200-63
+
+Passo Fundo (RS)
+
+- PAULO DE TARSO SILVA
+
+CPF 094.065.060-68
+
+Passo Fundo (RS)
+
+- PAULO VALERIANO DE MORAES
+
+CPF 092.564.076-04
+
+Campos Altos (MG)
+
+- PEDRO ANTÔNIO SANTANA
+
+CPF 070.228.404-15
+
+Estância (SE)
+
+- PEDRO AUGUSTO FERREIRA
+
+CPF 051.013.366-00
+
+Bambuí (MG)
+
+- PEDRO LUIZ TURIM
+
+CPF 176.632.709-59
+
+Guarapuava (PR)
+
+- RAIMUNDO DOS REIS LINHARES
+
+CPF 308.966.656-15
+
+Peçanha (MG)
+
+- RANDES CAVALCANTI MUNDIN
+
+CPF 122.107.811-91
+
+Torixoréu (MT)
+
+- RAUL REINALDO CARNEIRO
+
+CPF 002.707.681-49
+
+Goiânia (GO)
+
+- RAUL SOUZA CARMO
+
+CPF 031.303.390-00
+
+Passo Fundo (RS)
+
+- ROBERTO ALMEIDA COSTA
+
+CPF 272.931.226-91
+
+Uberaba (MG)
+
+- ROMEU MARQUETTI FILHO
+
+CPF 437.267.808-82
+
+Assis (SP)
+
+- ROQUE ROSSETTI
+
+CPF 030.647.198-15
+
+Goiânia (GO)
+
+- RUBENS DE ALMEIDA PUPO
+
+CPF 040.271.758-91
+
+Jarinú (SP)
+
+- RUDY SAMUEL ALOVISE MINGHELLI
+
+CPF 061.568.270-72
+
+Passo Fundo (RS)
+
+- SADANORI MATSUI
+
+CPF 023.949.608-68
+
+Bauru (SP)
+
+- SALVADOR JOSÉ DOS SANTOS
+
+CPF 045.307.649-15
+
+Ariquemes (RO)
+
+- SEBASTIÃO MARTINS
+
+CPF 178.280.076-04
+
+Janaúba (MG)
+
+- SEBASTIÃO OLEGÁRIO TOMAZINI
+
+CPF 487.575.608-97
+
+São Joaquim da Barra (SP)
+
+- SEBASTIÃO RODRIGUES DA SILVA FILHO
+
+CPF 097.371.116-72
+
+Abadia dos Dourados (MG)
+
+- SEBASTIÃO VICENTE CAIXETA
+
+CPF 014.611.921-53
+
+Anápolis (GO)
+
+- SÉRGIO ANTÕNIO POUEY FERRER
+
+CPF 251.287.529-68
+
+Chapecó (SC)
+
+- SÉRGIO PRETTI CAETANO
+
+CPF 161.109.869-68
+
+Curitiba (PR)
+
+- SÉRGIO ROBERTO DUARTE
+
+CPF 101.602.056-20
+
+Bueno Brandão (MG)
+
+- SEVERINO RODRIGUES
+
+CPF 041.040.645-72
+
+Feira de Santana (BA)
+
+- SHELL QUÍMICA S.A.
+
+CGC 33.526.856/0023-60
+
+Passo Fundo (RS)
+
+- SIDNEY FERREIRA
+
+CPF 281.606.579-00
+
+Londrina (PR)
+
+- SÍLVIO PEREZ VIDAL
+
+CPF 126.068.396-68
+
+Governador Valadares (MG)
+
+- SÍLVIO SALIM CHEDID
+
+CPF 086.915.331-53
+
+Goiatins (GO)
+
+- STELLA ALVES NOGUEIRA VANZELLA
+
+CPF 204.334.418-87
+
+Santa Rita do Passa Quatro (SP)
+
+- SURAYA MARIA TEREZINHA KEHDI VANMZELLA
+
+CPF 204.334.418-87
+
+Santa Rita do Passa Quatro (SP)
+
+- TANAS YOSSEF GEYTANI
+
+CPF 031.504.108-00
+
+Presidente Prudente (SP)
+
+- TURÍBIO CORRÊA
+
+CPF 051.013.876-49
+
+Bambuí (MG)
+
+- UNICAL – Universal de Calcários Ltda.
+
+CGC 88.325.592/0002-43
+
+Canoas (RS)
+
+- VALDEMAR ROGÉRIO FIORINI
+
+CPF 251.088.839-00
+
+Xanxaré (SC)
+
+- VALDOMIRO ALEXANDRINO DA SILVA
+
+CPF 161.590.986-91
+
+Unaí (MG)
+
+- VALDOMIRO ARMILIATO MARCON
+
+CPF 009.936.380-15
+
+Passo Fundo (RS)
+
+- VICTOR SPOLIDORO DOS SANTOS
+
+CPF 233.357.777-00
+
+Volta Redonda (RJ)
+
+- WALDEMAR JOSÉ FERNANDES
+
+CPF 002.655.941-20
+
+Goiânia (GO)
+
+- WALDERICK EURÍPEDES DE ARAÚJO
+
+CPF 003.859.564-87
+
+Surubim (PE)
+
+- WALDIR PEDRO HOFFMANN
+
+CPF 187.014.349-34
+
+Cascavel (PR)
+
+- WANDIR FERREIRA DE SOUZA
+
+CPF 004.786.876-72
+
+Uberaba (MG)
+
+- WELLINGTON MARTINS DINIZ
+
+CPF 010.109.486-87
+
+Poços de Caldas (MG)
+
+- WILLIAM SOARES
+
+CPF 103.635.726
+
+Betim (MG)
+
+- YEMI YAHISA
+
+CPF 006.304.892-20
+
+Belém (PA)
+
+- ZILZAN ANTÔNIO TUSSI
+
+CPF 023.489.770-87
+
+Passo Fundo (RS)
+
+2. Em conseqüência, anexamos às folhas necessárias á atualização do Manual de Crédito Rural (MCR).
+
+Brasília (DF), 28 de setembro de 1983.
+
+DEPARTAMENTO DO CRÉDITO RURAL Geraldo Martins Teixeira CHEFE
+
+Este texto não substitui o publicado no DOU e no Sisbacen.

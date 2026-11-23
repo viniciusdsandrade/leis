@@ -1,0 +1,926 @@
+---
+titulo: "Carta Circular nº 922, de 10 de agosto de 1983"
+orgao: "Banco Central do Brasil"
+tipo: "Carta Circular"
+tipo_na_fonte: "Carta Circular"
+numero: "922"
+data: 1983-08-10
+ementa: "DIVULGA RELACAO DE PESSOAS FISICAS E JURIDICAS INCLUIDA NO DOCUMENTO 7 DO MCR 2."
+situacao: "revogado"
+revogada: true
+versao_texto: "original: PDF da versão original (v1) no portal de normativos do Banco Central do Brasil, sem as alterações posteriores; não substitui a publicação no Diário Oficial da União"
+paginas_em_imagem: "21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132 de 132: anexo, tabela ou formulário escaneado no PDF, sem transcrição neste arquivo"
+fonte: "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Carta%20Circular&numero=922"
+fonte_texto: "https://www.bcb.gov.br/pre/normativos/c_circ/1983/pdf/c_circ_0922_v1_o.pdf"
+sha256_fonte: "3f3dfb0defe4ed8aa50f2abb0c3e475931a158558b2e4b8d402a07d3a7b61b4f"
+baixado_em: 2026-11-23
+---
+# Carta Circular nº 922, de 10 de agosto de 1983
+
+CARTA-CIRCULAR N° 922
+
+Ás Instituições Financeiras do Sistema Nacional de Crédito Rural
+
+Comunicamos a inclusão das seguintes pessoas físicas e jurídicas no documento n° 7 do MCR 2:
+
+- ADHERBAL MARTINS ISMÉRIO
+
+CPF 418.860.207-44
+
+Cantagalo (RJ)
+
+- AFONSO BORTONI
+
+CPF 149.597.637-87
+
+Rondonópolis (MT)
+
+- AGROPECUÁRIA FAZENDA PARANÁ S.A.
+
+CGC 10.246.999/0001-07
+
+Garanhuns (PE)
+
+- AKIO KISHI
+
+CPF 205.271.798-68
+
+Adamantina (SP)
+
+- ALBERTO PEREIRA MARTINS.
+
+CPF 030.922.406-34
+
+- Elói Mendes (MG)
+
+- ALBINO RODRIGUES
+
+CPF 134.510.492-87
+
+- ALCIDES PAULINO DA SILVA
+
+CPF 488.272.078-72
+
+Rancharia (SP)
+
+- ALEXANDRE SILVANO BENTES
+
+CPF 134.027.142-72
+
+BORBA (AM)
+
+- ALMERINDO MONTEIRO DE SOUZA
+
+CPF 114.840.712-04
+
+ÁLVARO RODRIGUES PINTO
+
+CPF 118. 908.942-49
+
+Borba (AM)
+
+- ALZERINO FORTUNATO
+
+CPF 444.941.498-53
+
+Mirante do Paranapanema (SP)
+
+- ALZIRO SARAIVA MACHADO
+
+CPF 012.208.452-72
+
+Borba (AM)
+
+- AMARO JOSÉ DA SILVA
+
+CPF 037.729.009-20
+
+Sengés (PR)
+
+- ANDRÉ ALVES FAHL
+
+CPF 137.703.818-00
+
+Itirapina (SP)
+
+-ANDRÉ LEITE
+
+CPF 133.978.932-91
+
+- ANOÉ ALVES DE MEDEIROS
+
+CPF 031.223.870-34
+
+Passo Fundo (RS)
+
+ANTÔNIO DE CAMPOS BASTOS
+
+CPF 044.804.301-72
+
+Anápolis (GO)
+
+- ANTÔNIO CARDOSO DE ASSIS
+
+CPF 316.799.008-20
+
+Santo Anastácio (SP)
+
+- ANTÔNIO CARLOS DAETWYLER JUNQUEIRA
+
+CPF 595.256.498-49
+
+Franca (SP)
+
+- ANTÔNIO DELMIRO DA SILVA
+
+CPF 780.922.998-20
+
+Santo Anastácio (SP)
+
+- ANTÔNIO JUNQUEIRA REIS
+
+CPF 015.364.438-91
+
+Ribeirão Preto (SP)
+
+- ANTÔNIO RAMOS DE ARAÚJO
+
+CPF 114.841.362-63
+
+- ARA-RÁPIDO-SERVIÇOS AGRÍCOLAS LTDA.
+
+CCC 01.508.993/0001
+
+Anápolis (GO)
+
+- ARY DA FONSECA PINHEIRO
+
+CPF 049.999.162-15
+
+- AZIZ JORGE CECÍLIO
+
+CPF 045.703.249-91
+
+Campo Mourão (PR)
+
+- BERNARDO LOPES DE ARAÚJO
+
+CPF 073.974.613-57
+
+Tauá (CE)
+
+- BRAZ ANTÔNIO DE BARROS
+
+CPF 057.511.106-25
+
+Porto Firme (MG)
+
+- CACIANO CORRÊA DA SILVA
+
+CPF 134.026.842--68
+
+Borba (AM)
+
+- CÂNDIDO HELIODORO LOPES DOURADO
+
+CPF 054.696.431-15
+
+Formosa (GO)
+
+- CARLOS MACHADO DA SILVEIRA
+
+CPF. 068.820.211-04
+
+Verde (GO)
+
+CECÍLIO LEITE BAGUNDES
+
+CPF 114.582.322-04
+
+- CÉSAR RAMON DE RESENDE
+
+CPF 030.834.976-87
+
+Varginha (MG)
+
+- CONAGRO - CONSULTORIA AGRONÔMICA LTDA.
+
+CGC. 88.488.903/0001-04
+
+São Borja (RS)
+
+- DALTRO TEODORO MARTINS PEREIRA
+
+CPF 027.407.371-49
+
+Elói Mendes (MG)
+
+- DANIEL BARBOSA DOS SANTOS
+
+CPF 315.555.868-72
+
+Estrela do Norte (SP)
+
+- DANIEL MACHADO NETO
+
+CPF 134.029.942-91
+
+Borba (AM)
+
+- DANIEL DA SILVA
+
+CPF 459.748.8~9-87
+
+Campo Mourão (PR)
+
+- DEMETIRO AKUTSU
+
+CPF 368.473.057-20
+
+Magé (RJ)
+
+- DIONÉIA FONSECA RIBEIRO
+
+CPF 115.363.577-15
+
+Itaguaí (RI)
+
+- DORIVAL THOMÉ DE LEMOS
+
+CPF 143.357.002-53
+
+- EDIMAR ALVES CAJAZEIRO
+
+CPF 158.258.186-87
+
+Cordisburgo (MG)
+
+- EDINILSON LEMOS DE OLIVEIRA
+
+CPF 064.057.622-20
+
+Borba (AM)
+
+- EDINO PASCHOAL TOSETTO
+
+CPF 008.335.920-68
+
+Giruá (RS)
+
+- EDMILSON MENDES SOUZA
+
+CPF 375.707.308-87
+
+Anápolis (GO)
+
+- EDUARDO ALMEIDA SOUZA
+
+CPF 040.038.612-72
+
+Capitão Poço (PA)
+
+- EDUARDO GOMES FERREIRA
+
+CPF 017.570.163-68.
+
+- Presidente Dutra. (MA)
+
+- EDUARDO WANDERLEY COSTA
+
+CPF 076.675.404-97
+
+Recife (PE)
+
+- EMÍLIO MINORO NAKANO
+
+CPF 477.913.817-53
+
+Magé (RS)
+
+- EZEQUIEL FARIAS DIAS
+
+CPF 133.979.152-87
+
+- FRANCISCO ALVES DA SILVA
+
+CPF 023.787.608-68
+
+Recife (PE)
+
+- FRANCISCO DOMINGOS DE OLIVEIRA
+
+CPF 005.899.958-28
+
+Dolcinópolis (SP)
+
+- FRANCISCO FALÇÃO COSTA
+
+CPF 016.945.883-00
+
+Dom Pedro (MA)
+
+- FRANCISCO LIRA DA FONSECA
+
+CPF 099.563.442-49
+
+Borba (AM
+
+- FRANCISCO LOPES
+
+CPF 116.299.329-49
+
+Assai (PR)
+
+- FRANCISCO LÚCIO ALVES DE MEDEIROS
+
+CPF 172.113.520-00
+
+Passo Fundo (RS)
+
+- FRANCISCO MONTEIRO DE ALMEIDA FILHO
+
+CPF 000.321.401-00
+
+Brasília (DF)
+
+- FRANCISCO ROCHETTO
+
+CPF 723.759.578-49
+
+São João da Boa-Vista (SP)
+
+- FRANCISCO SANCHES FILHO
+
+CPF 510.850.468-34 -
+
+Sabino (SP)
+
+- FRANCISCO SOARES DA SILVA
+
+CPF 588.557.778-15
+
+Angatuba (SP)
+
+- GASPARINO ALVES
+
+CPF 022.932.269-72
+
+Ivaiporã (PR)
+
+- GERALDO FURLAN
+
+CPF 487.523.208-04
+
+Piquerobi (SP)
+
+- GERSON PROFETA GONÇALVES
+
+CPF 214.722.302-94
+
+Governador Valadares (MG)
+
+- GREGÓRIO JOSÉ DE BARROS
+
+CPF 073.278.542-15
+
+- HAROLDO JOSÉ DE FIGUEIREDO
+
+CPF 012.542.786-72
+
+Varginha (MG)
+
+- HENRIQUE JOSÉ DAETWYLER JUNQUEIRA
+
+CPF 244.563.498-91
+
+Franca (SP)
+
+- HOOVER PUGEDO
+
+CPF 264.904.126-91
+
+Caetanópolis (MC)
+
+- IBRAIM PACHEDO DOS SANTOS
+
+CPF 091.814.909-68
+
+Pitanga (PR)
+
+- IRINEU MIRANDA
+
+CPF 037.705.08-9-00
+
+Sengés (PR)
+
+- ISRAEL NOGUEIRA DE- FREITAS
+
+CPF 070.538.433-00
+
+Parambu (CE)
+
+- IVANIR AFONSO BERTÉ
+
+CPF 241.603.779-04
+
+Cascavel (PR)
+
+- JEAZY ALMEIDA VIANA
+
+CPF 012.915.996-49
+
+Nanuque (MG)
+
+- JESUS SEVERO FLORES
+
+CPF 093.499.280-00
+
+Bagé (RS)
+
+- JOÃO ALVES
+
+CPF 391.946.689-34
+
+Ivaiporã - (PR)
+
+- JOÃO BATISTA VALENTE NETO
+
+CPF 064.057.892-68
+
+Borba (AM)
+
+- JOÃO JORGE CECÍLIO
+
+CPF 424.315.659-04
+
+Campo Mourão (PR)
+
+- JOÃO MARIA-ALVES DE MEDEIROS
+
+CPF 031.230.730-68
+
+Passo Fundo (RS)
+
+- JOÃO RAIMUNDO DE SOUZA
+
+CPF 132.404.391-15
+
+Porto Franco (MA)
+
+- JOÃO REGINO DE BRITO
+
+CPF 016.817.881-87
+
+Viçosa do Ceará (CE)
+
+- JOÃO SARAIVA D’ANGELO
+
+CPF 007.391.382-00
+
+Manacapuru (AM)
+
+- JOAQUIM FRANCISCO SILVA
+
+CPF 038.772.306-44
+
+Varginha (MC)
+
+- JOAQUIM ROCHETTO
+
+CPF 173.255.528-15
+
+São João da Boa Vista (SP)
+
+- JORGE ELIAS ABRÃO
+
+CPF 007.508.246-20
+
+Teófilo Otoni (MG)
+
+- JORGE MOREIRA
+
+CPF 133.979.232-04
+
+Borba (AM)
+
+- JORGE RODRIGUES
+
+CPF 740.870.968-15
+
+Cunha (SP)
+
+- JOSÉ BARRETO DA SILVA
+
+CPF 727.027.968-34
+
+Piquerobi (SP)
+
+- JOSÉ CIRÍACO DOS SANTOS
+
+CPF 133.978.772-53
+
+- JOSÉ CORRÊA NETO
+
+CPF 151.053.186-68
+
+Montes Claros (MG)
+
+- JOSÉ FERREIRA DO PRADO
+
+CPF 004.305.369-04
+
+Arapongas (PR)
+
+- JOSÉ FLÁVIO GARCIA CARNEIRO
+
+- CPF 012.456.782-72
+
+Goiânia (GO)
+
+- JOSÉ GONÇALVES BATALHA
+
+CPF 444.889.717-68
+
+Magé (RJ)
+
+- JOSÉ MOREIRA DE SIQUEIRA
+
+CPF 027.019.361-00
+
+Anápolis (GO)
+
+- JOSÉ OLIMPIO FRANCO NETO
+
+CPF 084.806.300-78
+
+Botelhos (MG)
+
+- JOSÉ PEREIRA DA SILVA
+
+CPF 078.339.622-87
+
+Borba (AM)
+
+- JOSÉ RODRIGUES
+
+CPF 119.647.662-49
+
+- JOSÉ UBALDINO ALVES PINTO
+
+CPF 032.852.866-87
+
+Nanuque -(MG)
+
+- JÚLIO GONÇALVES DE LEMOS
+
+CPF 137.946.202-91
+
+- LAURA BENTES GOMES DA SILVA
+
+CPF 137.946.982-15
+
+- LAURO BARBOSA DA SILVA MOREIRA
+
+CPF 075.062.954-15
+
+Goiânia (GO)
+
+- LUCAS JORGE SIQUEIRA FRANCO
+
+CPF 016.813.608-29
+
+Mogi Mirim (SP)
+
+-LUIZ CARLOS HEINZE
+
+CPF 142.729.540-91
+
+São Borja (RS)
+
+- LUIZ EVANGELISTA DOS ANJOS
+
+CPF 207.865.146-04
+
+Teófilo Otoni (MC)
+
+MAIARD DE ANDRADE
+
+CPF 045.065.533-49
+
+Tabuleiro do Norte (CE)
+
+- MANOEL BATISTA VALENTE
+
+CPF 011.210.191-51
+
+Borba (MA)
+
+- MANOEL FONSECA
+
+CPF 133.979.662-72
+
+- MANOEL FRANÇA
+
+CPF 137.946.632-68
+
+Borba (MA)
+
+- MANOEL MOREIRA DA CRUZ
+
+CPF 064.057.112-34
+
+Borba (MA)
+
+- MANOEL RODRIGUES DA SILVA
+
+CPF 007.387.942-
+
+Manacapuru (MA)
+
+- MARCELINO VIEIRA DO NASCIMENTO
+
+CPF 064.057.2-02-25
+
+Borba (MA)
+
+- MÁRCIO MANSUR
+
+CPF 216.013.726-04
+
+Governador Valadares (MG)
+
+- MARIA MIRANDA CARNEIRO
+
+CPF 073.276.412-20
+
+Borba (MA)
+
+- MARIELZA VIRGOLINO CARLOS
+
+CPF 042.830.153-52
+
+Borba (MA)
+
+- MARIVALDO FERREIRA SALGADO
+
+CPF 157.830.656-68
+
+Capelinha (MG)
+
+- MARON ALEXANDRE MATTAR
+
+CPF 069.384.186-00
+
+Teófilo Otoni (MG)
+
+- MAURO TEODORO MARTINS PEREIRA
+
+CPF 030.875.306-20
+
+Elói Mendes (MG)
+
+- MIKIO SUGUIYAMA
+
+CPF 303.372.917-72
+
+Magé (RJ)
+
+- NELATON DE CARVALHO
+
+CPF 039.009.326-20
+
+Nanuque (MG)
+
+- NELSO ROSSATO
+
+CPF 311.938.970-68
+
+Bento Gonçalves (RS)
+
+- NERVAL DE CARVALHO
+
+CPF 093.596.487-87
+
+Nanuque (MG)
+
+- NILO JOSE RIBEIRO
+
+CPF 115.363.577-15
+
+Itaguaí (RS)
+
+- NINA ROSA BEZERRA MARROQUIM
+
+CPF 000.701.144-04
+
+Recife (PE)
+
+- ODILARDO RUAS PINTO
+
+CPF 039.007.976-68
+
+Nanuque (MC)
+
+- OSCAR DA TRINDADE
+
+CPF
+
+Cachoeira do Sul (RS)
+
+- OSMAN MARQUES NATIVIDADE
+
+CPF 027.589.762-68
+
+Borba (MA)
+
+- OSVALDO MARTINS PELEGRINI
+
+CPF 150.311.878-91
+
+Paraguaçu Paulista (SP)
+
+- OTONIEL MACHADO DE OLIVEIRA
+
+CPF 254.370.540-68
+
+São Borja (RS)
+
+- OZIAS MOREIRA BARBOSA
+
+CPF 076.778.552-53
+
+- PAULO DAETWYLER JUNQUEIRA
+
+CPF 595.256.578-68
+
+Franca (SP)
+
+- PÉRICLES KNUPP
+
+CPF 117.500.739-00
+
+São Jerônimo da Serra (PR)
+
+- RAIMUNDO OSÉAS MARTINS
+
+CPF 134.028.032-91
+
+Borba (MA)
+
+- RENATO PEIXOTO
+
+CPF 131.963.598-91
+
+São João da Boa Vista (SP)
+
+- RONILDO BONONI
+
+CPF 106.578.789-87
+
+Arapongas (PR)
+
+- RUY JOSÉ DA SILVA
+
+CPF 097.953.831-91
+
+Wagner (BA)
+
+- SABINO DO COUTO RAMOS
+
+CPF 011.990.726-72
+
+Varginha (MG)
+
+- SALVADOR FERREIRA DE MELLO
+
+CPF 160.147.079-72
+
+São Jerônimo da Serra (PR)
+
+- SANEYOSHI BABAZONO
+
+CPF 141.886.438-20
+
+Ibiúna (SP)
+
+- SHOTARO KISHI
+
+CPF 172.244.468-15
+
+Adamantina (SP)
+
+- TÚLIO DE CARVALHO MARROQUIM
+
+CPF 000.70l.144-04
+
+Recife (PE)
+
+- VADERLEN TAZINAFO
+
+CPF 173.47-2.038-72
+
+Ipuã (SP)
+
+- VALDECI ANTÔNIO DA SILVA
+
+CPF 779.414.388-87
+
+Tarabay (SP)
+
+- VÁLTER ANTÔNIO PAJANOTI
+
+CPF 058.337.799-87
+
+Maringá (PR)
+
+- VICENTE ALVES DE OLIVEIRA
+
+CPF 012.211.599-68
+
+Ivaiporã (PR)
+
+- VICENTE LOPES GUIMARÃES
+
+CPF 977.118.378-87
+
+Cunha (SP)
+
+- WALDEMAR PARANHOS DE OLIVEIRA
+
+CPF 189.837.239-04
+
+Cascavel (PR)
+
+- WILSON GOMES PEREIRA
+
+CPF 046.039.580-72
+
+Cachoeiro do Sul (RS)
+
+- ZEQUIAS SOARES BASÍLIO
+
+CPF 088.247.204-63.
+
+- Delmiro Gouveia (AL).
+
+2. Ficam desimpedidas as seguintes pessoas físicas e jurídicas:
+
+- BENJAMIN MOREIRA DE SOUZA
+
+CPF 002.130.553-68
+
+Fortaleza (CE)
+
+- JOÃO MARIA ANTUNES DE MELLO
+
+CPF 080.869.230-53
+
+Ciriaco (RS)
+
+- JOSÉ GOMES DE SANTANA
+
+CPF 013.596.734-15
+
+Bom Conselho (PE)
+
+- LUIZ CARLOS DA SILVA
+
+CPF 016.493.373-53
+
+Fortaleza (CE)
+
+- OTACÍLIO BORGES DE ARAUJO &CIA LTDA
+
+(CASA DO AGRICULTOR)
+
+CGC 75.547.216/0001-70
+
+São Miguel do Iguaçu (PR)
+
+- RENATO VIOTT
+
+CPF 145.205.169-00
+
+Amambaí (RS)
+
+- SEVERINO ORTOLAN
+
+CPF 031.107.540-20
+
+Ciríaco (RS)
+
+- VENÂNCIANO JOSÉ CARDOSO
+
+CPF 042.491.191-49
+
+Belém (PA)
+
+3. Em conseqüência, anexamos as folhas necessárias atualização do Manual de Crédito Rural (MCR).
+
+Brasília (DF), 10 de agosto de 1983.
+
+DEPARTAMENTO DO CRÉDITO RURAL
+
+Geraldo Martins Teixeira CHEFE
+
+Este texto não substitui o publicado no DOU e no Sisbacen.
