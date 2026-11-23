@@ -133,6 +133,37 @@ class Conversao(Base):
         self.assertIn("\n\nI - nível AA;\n\nII - nível A;\n\n", texto)
         self.assertIn("Dispõe sobre critérios de classi- ficação", texto)  # as palavras ficam como na fonte
 
+    def test_fecho_do_texto_da_a_data_quando_o_portal_traz_a_da_publicacao(self):
+        fecho = "<p>Brasília, 22 de janeiro de 2020.</p><p>Otávio"
+        texto = CIRCULAR_3978["Texto"].replace("<p>Otávio", fecho)
+        self.assertEqual(b.processar(RedeFalsa({"exibenormativo": detalhe(**{**CIRCULAR_3978, "Texto": texto})}),
+                                     {"id": "1", "tipo": "Circular", "numero": 3978}, set()), ("ok", None))
+        md = self.ler("circulares/2020/circ-3978-2020.md")
+        for trecho in ['titulo: "Circular nº 3.978, de 22 de janeiro de 2020"', "data: 2020-01-22", 'data_no_portal: "2020-01-23"',
+                       "# Circular nº 3.978, de 22 de janeiro de 2020"]:
+            self.assertIn(trecho, md)
+
+    def test_fecho_que_nao_resolve_deixa_a_data_do_portal(self):
+        casos = {"dois fechos com datas diferentes": "<p>Brasília, 22 de janeiro de 2020.</p><p>Brasília (DF), 20 de janeiro de 2020.</p>",
+                 "fecho depois da data do portal": "<p>Brasília, 24 de janeiro de 2020.</p>",
+                 "fecho mais de 30 dias antes": "<p>Brasília, 20 de dezembro de 2019.</p>",
+                 "fecho na data do portal": "<p>BRASÍLIA (DF), 23 DE JANEIRO DE 2020</p>",
+                 "data que não existe": "<p>Brasília, 31 de fevereiro de 2020.</p>"}
+        for caso, fecho in casos.items():
+            with self.subTest(caso):
+                texto = CIRCULAR_3978["Texto"].replace("<p>Otávio", fecho + "<p>Otávio")
+                b.processar(RedeFalsa({"exibenormativo": detalhe(**{**CIRCULAR_3978, "Texto": texto})}),
+                            {"id": "1", "tipo": "Circular", "numero": 3978}, set())
+                md = self.ler("circulares/2020/circ-3978-2020.md")
+                self.assertIn("data: 2020-01-23", md)
+                self.assertNotIn("data_no_portal", md)
+                (b.PASTA / "circulares/2020/circ-3978-2020.md").unlink()
+
+    def test_datas_do_fecho(self):
+        self.assertEqual(b.datas_do_fecho("**BRASÍLIA (DF), 27 DE FEVEREIRO DE 1991**\n\nBrasília, 1º de março de 1991.\n\nBrasília-DF, em 2 de março de 1991"),
+                         {"1991-02-27", "1991-03-01", "1991-03-02"})
+        self.assertEqual(b.datas_do_fecho("em sessão realizada em Brasília no dia 22 de janeiro de 2020"), set())
+
     def test_dia_primeiro_no_titulo(self):
         self.assertEqual(b.titulo_do_normativo("Resolução", 1, "1965-06-01"), "Resolução nº 1, de 1º de junho de 1965")
 

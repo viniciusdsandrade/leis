@@ -26,6 +26,9 @@ data, quando o PDF a traz junto do número, têm de conferir com o índice e com
 robots.txt de www.bcb.gov.br (conferido em 21/11/2026): permite /api/ e /pre/normativos/; proíbe /*/Lists/. Para na
 recusa (HTTP 401, 403 ou 429).
 
+Data: a do portal (DataTexto), salvo quando o próprio texto traz um fecho só ("Brasília, 4 de maio de 1995") de 1 a
+30 dias antes: aí a do portal é a da publicação, a do ato é a do fecho, e a do portal fica em `data_no_portal`.
+
 Página em imagem (`--pagina-em-imagem`): refaz os retidos por esse motivo quando o normativo se lê sem ela, isto é, a
 primeira página é texto e a página em imagem (o anexo, a tabela ou o formulário escaneado) não tem camada de texto.
 Grava o texto das outras páginas, diz no front matter quais páginas ficaram de fora (`paginas_em_imagem`) e anota o
@@ -429,6 +432,21 @@ def data_do_ato(datas_no_pdf, data_no_portal):
     return no_pdf if 0 < (dt.date.fromisoformat(data_no_portal) - dt.date.fromisoformat(no_pdf)).days <= 30 else None
 
 
+FECHO_DO_ATO = re.compile(r"\bbrasilia(?:\s*[-/(,]?\s*\(?df\)?)?\s*[,.]?\s*(?:em\s+)?(\d{1,2})[º°o]?\s+de\s+("
+                          + "|".join(sem_acento(m) for m in MESES) + r")\s+de\s+(\d{4})")
+
+
+def datas_do_fecho(corpo):
+    """Datas dos fechos do texto ("Brasília, 4 de maio de 1995", "BRASÍLIA (DF), 27 DE FEVEREIRO DE 1991"), em ISO."""
+    datas = set()
+    for dia, mes, ano in FECHO_DO_ATO.findall(sem_acento(re.sub(r"[*_`\\]", "", corpo)).lower()):
+        try:
+            datas.add(dt.date(int(ano), [sem_acento(x) for x in MESES].index(mes) + 1, int(dia)).isoformat())
+        except ValueError:
+            datas.add("inválida")
+    return datas
+
+
 def texto_sem_paginas_em_imagem(texto, imagens):
     """O texto do PDF sem as páginas em imagem, ou None quando o normativo não se lê sem elas: a primeira página é
     imagem, ou a página em imagem tem camada de texto (OCR da origem, ou página que mistura texto e imagem: tirar o
@@ -532,6 +550,9 @@ def processar(rede, item, existentes, pdf=False, imagem_pendente=False):
         corpo = converter(texto_html)
     if len(re.sub(r"\W", "", corpo)) < 40:
         return "retido", {**falha, "motivo": "texto vazio depois da conversão"}
+    # O DataTexto do portal é, em muitas circulares dos anos 1990 e 2000, a data da publicação. Quando o texto traz
+    # um fecho só e ele é de 1 a 30 dias antes, a data do ato é a do fecho (a mesma regra de `data_do_ato` para o PDF).
+    data_no_portal, data = data, data_do_ato(datas_do_fecho(corpo), data) or data
     remissao = None if versao == VERSAO_PDF else anexo_proprio_ausente(corpo, item["numero"])  # o PDF já passou
     if remissao:
         return "retido", {**falha, "motivo": "anexo próprio referido e ausente do texto (pode estar só no PDF da versão)",
@@ -544,6 +565,8 @@ def processar(rede, item, existentes, pdf=False, imagem_pendente=False):
     meta = [("titulo", titulo), ("orgao", orgao), ("tipo", tipo_canonico), ("tipo_na_fonte", item["tipo"]),
             ("numero", str(item["numero"])), ("data", data),
             ("ementa", " ".join((x.get("Assunto") or item.get("ementa") or "").split()))]
+    if data != data_no_portal:
+        meta.append(("data_no_portal", data_no_portal))
     if revogado or cancelado:
         meta.append(("situacao", "revogado" if revogado else "cancelado"))
     meta += [("revogada", revogado or cancelado), ("versao_texto", versao)]
