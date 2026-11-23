@@ -1,6 +1,6 @@
 # Progresso
 
-Gerado em 23/11/2026 16:41:43 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 23/11/2026 16:45:40 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 

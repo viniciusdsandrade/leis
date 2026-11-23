@@ -345,7 +345,26 @@ def _e_so_republicacao(md):
     return 'versao_texto: "republicação/retificação"' in cab
 
 
-def processar(d, *, revisao_identidade=False, refazer_republicacao=False):
+IMAGEM = re.compile(r"<img\b[^>]*>", re.I)
+VISUAL_PENDENTE = "_conteudo_visual_pendente.jsonl"
+_trava_visual = threading.Lock()
+
+
+def anotar_visual_pendente(registro):
+    """Anota em federal/_conteudo_visual_pendente.jsonl o decreto gravado sem as imagens da página (uma linha por
+    arquivo), de onde ele vai para o registro de pendências de integralidade."""
+    arquivo = os.path.join(RAIZ, VISUAL_PENDENTE)
+    with _trava_visual:
+        linhas = []
+        if os.path.exists(arquivo):
+            with open(arquivo, encoding="utf-8") as f:
+                linhas = [l for l in f.read().splitlines() if l.strip() and json.loads(l)["path"] != registro["path"]]
+        linhas.append(json.dumps(registro, ensure_ascii=False, sort_keys=True))
+        with open(arquivo, "w", encoding="utf-8") as f:
+            f.write("".join(l + "\n" for l in sorted(linhas)))
+
+
+def processar(d, *, revisao_identidade=False, refazer_republicacao=False, visual_pendente=False):
     """Exige epígrafe própria; modo de revisão só prepara material privado.
 
     O modo explícito não invalida datas/números completos divergentes e marca
@@ -374,6 +393,7 @@ def processar(d, *, revisao_identidade=False, refazer_republicacao=False):
     with gzip.open(info["fonte"], "wb") as f:
         f.write(html)
 
+    imagens = []
     # Algumas publicações vêm em PDF apesar do encoding anunciado como HTML pela API.
     if html.startswith(b"%PDF"):
         _, texto = extrair_texto(html, url)
@@ -389,6 +409,12 @@ def processar(d, *, revisao_identidade=False, refazer_republicacao=False):
             corpo = texto_pdf_para_md(texto)
     else:
         html_texto = html.decode("utf-8")
+        # Com `visual_pendente`, o decreto com imagem na página (quase sempre traço ou chave de tabela, às vezes uma
+        # figura ou um quadro escaneado) entra sem ela, como pendência de integralidade. Todas as outras travas
+        # continuam valendo, inclusive a de anexo próprio e a dos outros elementos visuais (svg, vml, fórmula).
+        imagens = IMAGEM.findall(html_texto) if visual_pendente and d["tipo"] == "DEC-n" else []
+        if imagens:
+            html_texto = IMAGEM.sub("", html_texto)
         corpo = convert(html_texto)
         if d["tipo"] == "DEC-n":
             parsed = Visivel()
@@ -440,6 +466,11 @@ def processar(d, *, revisao_identidade=False, refazer_republicacao=False):
     ]
     if epigrafe_pendente:
         cab.insert(-2, 'identidade_pendente_revisao: true')
+    if imagens:
+        n = len(imagens)
+        cab.insert(-2, "imagens_nao_transcritas: " + yaml_str(
+            f"{n} {'imagem' if n == 1 else 'imagens'} na página da fonte (traço ou chave de tabela, figura ou quadro "
+            "escaneado), sem transcrição neste arquivo"))
     os.makedirs(os.path.dirname(info["md"]), exist_ok=True)
     tmp = info["md"] + ".tmp"
     # o corpo começa pelo título em H1, como nos arquivos estaduais
@@ -449,6 +480,11 @@ def processar(d, *, revisao_identidade=False, refazer_republicacao=False):
     with open(tmp, "w", encoding="utf-8") as f:
         f.write("\n".join(cab) + f"# {titulo}\n\n" + aviso + corpo)
     os.replace(tmp, info["md"])
+    if imagens:
+        tamanhos = [len(m.group(1)) * 3 // 4 for i in imagens for m in [re.search(r"base64,([^\"']*)", i)] if m]
+        anotar_visual_pendente({"path": os.path.relpath(info["md"], os.path.dirname(RAIZ)).replace(os.sep, "/"),
+                                "norma": d["norma"], "urn": urn, "url": url, "sha256_html": hashlib.sha256(html).hexdigest(),
+                                "imagens": len(imagens), "maior_imagem_bytes": max(tamanhos, default=None)})
     return "ok", info["slug"], None
 
 
@@ -514,6 +550,8 @@ def main():
     ap.add_argument("--refazer-republicacao", action="store_true",
                     help="regrava arquivos com versao_texto republicação/retificação usando Original/Current")
     ap.add_argument("--amostra", default="", help="lista de normas do Senado (ex.: LEI-10406-2002-01-10,...)")
+    ap.add_argument("--visual-pendente", action="store_true",
+                    help="grava o decreto com imagem na página sem ela e o anota em federal/" + VISUAL_PENDENTE)
     a = ap.parse_args()
     if not 0 < a.rps <= 4 or a.workers <= 0:
         ap.error("rps deve estar entre0 e4; workers deve ser positivo")
@@ -542,7 +580,8 @@ def main():
     cont = {"ok": 0, "pulado": 0, "sem_texto": 0, "erro": 0}
     inicio = time.time()
     with ThreadPoolExecutor(a.workers) as ex, open(falhas_path, "a", encoding="utf-8") as falhas:
-        futs = {ex.submit(processar, d, refazer_republicacao=a.refazer_republicacao): d for d in itens}
+        futs = {ex.submit(processar, d, refazer_republicacao=a.refazer_republicacao,
+                          visual_pendente=a.visual_pendente): d for d in itens}
         for n, fut in enumerate(as_completed(futs), 1):
             d = futs[fut]
             try:
