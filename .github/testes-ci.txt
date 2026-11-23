@@ -12,6 +12,7 @@ test_auditar_municipal_hashes.py
 test_baixar_bcb.py
 test_baixar_capitais_documentos.py
 test_baixar_conama.py
+test_baixar_confaz.py
 test_baixar_cittatec.py
 test_baixar_dioly.py
 test_baixar_uberlandia.py
