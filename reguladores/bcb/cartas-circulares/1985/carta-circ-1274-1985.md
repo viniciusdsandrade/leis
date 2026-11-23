@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 1.274, de 5 de outubro de 1985"
+titulo: "Carta Circular nº 1.274, de 5 de setembro de 1985"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "1274"
-data: 1985-10-05
+data: 1985-09-05
 ementa: "ALTERA O MNI."
+data_no_portal: "1985-10-05"
 situacao: "revogado"
 revogada: true
 versao_texto: "original: PDF da versão original (v1) no portal de normativos do Banco Central do Brasil, sem as alterações posteriores; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/pre/normativos/c_circ/1985/pdf/c_circ_1274_
 sha256_fonte: "7b1b682ef88d0beae02ff250a5e70f4dc541796f80fcf9d406b975d7330fc95d"
 baixado_em: 2026-11-21
 ---
-# Carta Circular nº 1.274, de 5 de outubro de 1985
+# Carta Circular nº 1.274, de 5 de setembro de 1985
 
 CARTA-CIRCULAR N° 1274
 

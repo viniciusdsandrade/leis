@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 2.243, de 9 de janeiro de 1992"
+titulo: "Carta Circular nº 2.243, de 8 de janeiro de 1992"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "2243"
-data: 1992-01-09
+data: 1992-01-08
 ementa: "ALTERA E DIVULGA O DEMONSTRATIVO DE CONTROLE DO CUMPRIMENTO DA EXIGIBILIDADE DE APLICACOES EM CREDITO RURAL."
+data_no_portal: "1992-01-09"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "1d1b5a94c32e02d452d7c53276b8816bb138e95bbbc9cd798153dd6c84f51af2"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 2.243, de 9 de janeiro de 1992
+# Carta Circular nº 2.243, de 8 de janeiro de 1992
 
 CARTA-CIRCULAR N. 002243
 

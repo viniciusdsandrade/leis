@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 2.093, de 7 de julho de 1990"
+titulo: "Carta Circular nº 2.093, de 7 de junho de 1990"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "2093"
-data: 1990-07-07
+data: 1990-06-07
 ementa: "Esclarece procedimentos ligados à conversão de cruzados novos para cruzeiros de recursos oriundos dos fundos PIS/PASEP."
+data_no_portal: "1990-07-07"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "64ccff9371e753e56c5f7bc883f2af1ecb1e6e5ba5247e7c5dbbffdace7f6421"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 2.093, de 7 de julho de 1990
+# Carta Circular nº 2.093, de 7 de junho de 1990
 
 CARTA-CIRCULAR N. 002093
 

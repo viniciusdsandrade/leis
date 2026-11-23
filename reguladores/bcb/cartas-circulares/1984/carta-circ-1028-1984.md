@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 1.028, de 29 de maio de 1984"
+titulo: "Carta Circular nº 1.028, de 23 de maio de 1984"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "1028"
-data: 1984-05-29
+data: 1984-05-23
 ementa: "Atualiza o MNI."
+data_no_portal: "1984-05-29"
 situacao: "revogado"
 revogada: true
 versao_texto: "original: PDF da versão original (v1) no portal de normativos do Banco Central do Brasil, sem as alterações posteriores; não substitui a publicação no Diário Oficial da União"
@@ -16,7 +17,7 @@ fonte_texto: "https://www.bcb.gov.br/pre/normativos/c_circ/1984/pdf/c_circ_1028_
 sha256_fonte: "3605ba5861204c1dd49fdcb56368a201103ae3babf4d4a7057c3c317fc846642"
 baixado_em: 2026-11-21
 ---
-# Carta Circular nº 1.028, de 29 de maio de 1984
+# Carta Circular nº 1.028, de 23 de maio de 1984
 
 CARTA-CIRCULAR Nº 1028 Em decorrência do disposto na Resolução nº 921 de 14.05.84, e na Circular nº 859, de 15.05.84, as seções 4-8-6,18-7-1,18-9-4, 19-7-1, 21-5-1, 26-1-5 e 26-1-10 do Manual de Normas e Instruções (MNI) passam a vigorar com a redação indicada nas folhas anexas. Brasília (DF), 23 de maio de 1984. DEPARTAMENTO DO MERCADO DE CAPITAIS Iran Siqueira Lima CHEFE Este texto não substitui o publicado no DOU e no Sisbacen.
 

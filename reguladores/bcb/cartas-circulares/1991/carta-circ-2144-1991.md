@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 2.144, de 20 de fevereiro de 1991"
+titulo: "Carta Circular nº 2.144, de 8 de fevereiro de 1991"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "2144"
-data: 1991-02-20
+data: 1991-02-08
 ementa: "REGULAMENTA O ABATIMENTO DE PREJUIZOS ACUMULADOS POR EMPRESAS COM PARTICIPACAO DE CAPITAL ESTRANGEIRO."
+data_no_portal: "1991-02-20"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "e80353f66649200a408d93268ccc84031ef11baccb0e6c9db4319d2b9fd35c96"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 2.144, de 20 de fevereiro de 1991
+# Carta Circular nº 2.144, de 8 de fevereiro de 1991
 
 CARTA-CIRCULAR N. 002144
 
