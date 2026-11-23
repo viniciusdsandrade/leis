@@ -136,6 +136,40 @@ class TextoIntegral(unittest.TestCase):
                                      ('federal/decretos/2000/dec-1-2000-01-01.md', 'DEC-1-2000-01-01', 1, 6))
                     self.assertEqual(gzip.decompress(Path(info['fonte']).read_bytes()), html.encode())  # a fonte fica inteira
 
+    def test_data_errada_so_na_epigrafe_com_fecho_que_confirma_o_indice(self):
+        d = {'tipo': 'DEC-n', 'numero': '30301', 'dataassinatura': '20/12/1951',
+             'normaNome': 'Decreto nº 30.301 de 20/12/1951', 'norma': 'DEC-30301-1951-12-20', 'id': 'fixture'}
+        texto = ('<p>DECRETO Nº 30.301, DE 20 DE SETEMBRO DE 1951.</p><p>Abre crédito especial.</p>'
+                 '<p>O Presidente da República decreta:</p><p>Art. 1º Fica aberto o crédito especial de Cr$ 100.000,00.</p>'
+                 '<p>Rio de Janeiro, 20 de dezembro de 1951; 130º da Independência e 63º da República.</p><p>GETÚLIO VARGAS</p>')
+        casos = {
+            'só a data da epígrafe diverge': (texto, 'ok'),
+            'o número também diverge': (texto.replace('30.301', '30.302'), 'sem_texto'),
+            'o fecho traz a data da epígrafe': (texto.replace('20 de dezembro de 1951;', '20 de setembro de 1951;'), 'sem_texto'),
+            'fecho sem a marca da era': (texto.replace('; 130º da Independência e 63º da República', ''), 'sem_texto'),
+            'o primeiro fecho é de outra data': (texto.replace('<p>GETÚLIO', '<p>Rio de Janeiro, 20 de dezembro de 1951; 130º da Independência.</p><p>GETÚLIO')
+                                                 .replace('20 de dezembro de 1951; 130º da Independência e', '19 de dezembro de 1951; 130º da Independência e'), 'sem_texto'),
+            'outro fecho repete a data da epígrafe': (texto + '<p>Rio de Janeiro, 20 de setembro de 1951; 130º da Independência.</p>', 'sem_texto'),
+        }
+        for caso, (html, esperado) in casos.items():
+            with self.subTest(caso), tempfile.TemporaryDirectory() as tmp, patch.object(f, 'RAIZ', str(Path(tmp) / 'federal')):
+                info = f.montar(d)
+                meta = type('Metadados', (dict,), {})({'encoding': {'contentUrl': 'https://example.invalid/texto', 'version': 'Original'}})
+                meta.captura = {'path': str(Path(tmp) / 'meta.gz'), 'sha256': hashlib.sha256(b'{}').hexdigest()}
+                with gzip.open(meta.captura['path'], 'wb') as g:
+                    g.write(b'{}')
+                with patch.object(f, 'obter_metadados', return_value=(info['urn'], meta)), patch.object(f, 'http_get', return_value=(200, html.encode())):
+                    status, _, detalhe = f.processar(d)
+                self.assertEqual(status, esperado)
+                if esperado == 'ok':
+                    md = Path(info['md']).read_text(encoding='utf-8')
+                    self.assertIn('data: 1951-12-20', md)
+                    self.assertIn('data_na_epigrafe_da_fonte: "1951-09-20"', md)
+                    self.assertIn('DECRETO Nº 30.301, DE 20 DE SETEMBRO DE 1951.', md)  # a redação da fonte fica
+                else:
+                    self.assertIn('diverge', detalhe['motivo'])
+                    self.assertFalse(Path(info['md']).exists())
+
     def test_visual_fora_tabela_e_em_comentario_condicional(self):
         from preparar_lote_decretos_cache import Visivel
         for html in ['<p>Anexo</p><img src="anexo.png">',

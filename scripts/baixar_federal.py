@@ -315,6 +315,27 @@ def dispositivo_unico_integro(corpo, numero, data):
     return not ACOMPANHAMENTO.search(antes) or len(depois) >= CAUDA_COM_ACOMPANHAMENTO
 
 
+def data_da_epigrafe_desmentida_pelo_fecho(divergencia, corpo, data):
+    """A data que a epígrafe traz, quando o erro é só dela; None quando a divergência se mantém.
+
+    A transcrição do Senado às vezes erra a data na epígrafe ("DECRETO Nº 30.301, DE 20 DE SETEMBRO DE 1951" no
+    decreto de 20 de dezembro, que fecha em "Rio de Janeiro, 20 de dezembro de 1951; 130º da Independência e 63º da
+    República"). O decreto entra quando, todos juntos: o número da epígrafe é o do índice; o primeiro fecho datado
+    com a marca da era (o do próprio decreto, antes de qualquer anexo) traz a data do índice; e nenhum fecho traz a
+    data da epígrafe. Número diferente, fecho ausente ou fecho com a data da epígrafe continuam retendo.
+    """
+    esperada, encontrada = divergencia["identidade_esperada"], divergencia["epigrafe_encontrada"]
+    if encontrada["numero"] != esperada["numero"] or encontrada["data"] == data:
+        return None
+    fechos = []
+    for m in FECHO_DATADO.finditer(_maiusculas_sem_acento(corpo)):
+        try:
+            fechos.append(dt.date(int(m["ano"].replace(".", "")), MESES[m["mes"]], int(m["dia"])).isoformat())
+        except ValueError:
+            fechos.append("")
+    return encontrada["data"] if fechos and fechos[0] == data and encontrada["data"] not in fechos else None
+
+
 def motivo_texto_parcial_decreto(tipo, corpo, numero=None, data=None):
     """Motivo para reter o texto como parcial, ou None. Sem `numero` e `data` do índice, o decreto sem artigo fica em
     revisão, como antes; com eles, entra o de dispositivo único que `dispositivo_unico_integro` comprova."""
@@ -436,7 +457,8 @@ def processar(d, *, revisao_identidade=False, refazer_republicacao=False, visual
         return "sem_texto", info["slug"], {"id": d["id"], "norma": d["norma"], "urn": urn,
             "url": url, "motivo": "Epígrafe própria inconclusiva; identidade exige revisão documental explícita"}
     divergencia = divergencia_epigrafe_decreto(d["tipo"], numero_oficial(d), info["data"], corpo)
-    if divergencia:
+    data_na_epigrafe = divergencia and data_da_epigrafe_desmentida_pelo_fecho(divergencia, corpo, info["data"])
+    if divergencia and not data_na_epigrafe:
         return "sem_texto", info["slug"], {"id": d["id"], "norma": d["norma"], "urn": urn,
                                            "url": url, **divergencia}
     versao = {"Current": "compilada (texto vigente)", "Original": "original", "Intermediate": "republicação/retificação"}
@@ -466,6 +488,8 @@ def processar(d, *, revisao_identidade=False, refazer_republicacao=False, visual
     ]
     if epigrafe_pendente:
         cab.insert(-2, 'identidade_pendente_revisao: true')
+    if data_na_epigrafe:  # a redação da fonte fica no corpo; o cabeçalho diz qual data ela traz
+        cab.insert(-2, f"data_na_epigrafe_da_fonte: {yaml_str(data_na_epigrafe)}")
     if imagens:
         n = len(imagens)
         cab.insert(-2, "imagens_nao_transcritas: " + yaml_str(
