@@ -1,0 +1,56 @@
+---
+titulo: "Ajuste SINIEF nº 11, de 6 de setembro de 2017"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "11"
+data: 2017-09-06
+ementa: "Altera o Ajuste SINIEF 19/16, que institui a Nota Fiscal de Consumidor Eletrônica e o Documento Auxiliar da Nota Fiscal de Consumidor Eletrônica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 11.09.17, pelo Despacho 129/17."
+data_publicacao: "2017-09-11"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2017/AJ_011_17"
+sha256_html_fonte: "6b14894e5e41e96b5d437fff1200716a3904df26479da7ffcc1302542237d75d"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 11, de 6 de setembro de 2017
+
+AJUSTE SINIEF 11, DE 6 DE SETEMBRO DE 2017
+
+Publicado no DOU de 11.09.17, pelo Despacho 129/17.
+
+Altera o Ajuste SINIEF 19/16, que institui a Nota Fiscal de Consumidor Eletrônica e o Documento Auxiliar da Nota Fiscal de Consumidor Eletrônica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ e o Secretário da Receita Federal do Brasil,** na 289ª Reunião Extraordinária do Conselho Nacional de Política Fazendária - CONFAZ, realizada em Brasília, DF, no dia 6 de setembro de 2017, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+A J U S T E
+
+**Cláusula primeira** A cláusula décima oitava-A do Ajuste SINIEF 19/16, de 9 de dezembro de 2016, passa a vigorar com a seguinte redação:
+
+“Cláusula décima oitava-A As validações de que trata o § 3º da cláusula sétima devem ter início para:
+
+I - grupo CNAE 324, a partir de 1º de janeiro de 2018;
+
+II - grupo CNAE 121 a 122, a partir de 1º de fevereiro de 2018;
+
+III - grupo CNAE 211 e 212, a partir de 1º de março de 2018;
+
+IV - grupo CNAE 261 a 323, a partir de 1º de abril de 2018;
+
+V - grupo CNAE 103 a 112, a partir de 1º de maio de 2018;
+
+VI - grupo CNAE 011 a 102, a partir de 1º de junho de 2018;
+
+VII - grupo CNAE 131 a 142, a partir de 1º de julho de 2018;
+
+VIII - grupo CNAE 151 a 209, a partir de 1º de agosto de 2018;
+
+IX - grupo CNAE 221 a 259, a partir de 1º de setembro de 2018;
+
+X - grupo CNAE 491 a 662, a partir de 1º de outubro de 2018;
+
+XI - grupo CNAE 663 a 872, a partir de 1º de novembro de 2018;
+
+XII - demais grupos de CNAEs, a partir de 1º de dezembro de 2018.”.
+
+**Cláusula segunda** Este ajuste entra em vigor na data de sua publicação no Diário Oficial da União.

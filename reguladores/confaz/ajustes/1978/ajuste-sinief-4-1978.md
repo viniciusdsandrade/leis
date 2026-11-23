@@ -1,0 +1,54 @@
+---
+titulo: "Ajuste SINIEF nº 4, de 6 de dezembro de 1978"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "4"
+data: 1978-12-06
+ementa: "Altera procedimento de depósito fechado quanto à emissão de Nota Fiscal, extingue o Demonstrativo de Crédito de Equipamentos Industriais e suspende a obrigatoriedade da apresentação das relações de Entradas e Saídas de Mercadorias."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.12.78."
+data_publicacao: "1978-12-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/1978/AJ_004_78"
+sha256_html_fonte: "5e5bb31dc10475e4783441e894dd8a48ce944859db466c59f8bcd5773b5bb8b6"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 4, de 6 de dezembro de 1978
+
+AJUSTE SINIEF 04/78
+
+Publicado no DOU de 12.12.78.
+
+Ver AJ 01/81.
+
+Altera procedimento de depósito fechado quanto à emissão de Nota Fiscal, extingue o Demonstrativo de Crédito de Equipamentos Industriais e suspende a obrigatoriedade da apresentação das relações de Entradas e Saídas de Mercadorias.
+
+**O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal**, na 14ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 06 de dezembro de 1978, resolvem celebrar o seguinte:
+
+AJUSTE
+
+**Cláusula primeira** Fica acrescentado parágrafo quinto ao artigo 24 do SINIEF, com a seguinte redação:
+
+“§ 5º Na hipótese do § 1º poderá ser emitida Nota Fiscal de retorno simbólico, contendo resumo diário das saídas mencionadas neste artigo, à vista da via adicional de cada Nota Fiscal emitida pelo estabelecimento depositante, que permanecerá arquivada no Depósito Fechado, dispensada a obrigação prevista no item 4 do parágrafo mencionado.”
+
+**Cláusula segunda** O artigo 6º do SINIEF passa a vigorar com a seguinte redação:
+
+“Art. 6º Os contribuintes do Imposto sobre Produtos Industrializados e/ou Imposto sobre Circulação de Mercadorias emitirão, conforme as operações que realizarem, os seguintes documentos fiscais:
+
+I - Nota Fiscal, modelo 1;
+
+II - Nota Fiscal de Venda a Consumidor, modelo 2;
+
+III - Nota Fiscal de Entrada, modelo 3;
+
+IV - Nota Fiscal de Produtor, modelo 4;
+
+V - Demonstrativo de Crédito de Exportação, modelo 5.”
+
+**Cláusula terceira** Fica revogado o artigo 62 do SINIEF.
+
+**Cláusula quarta** Ficam dispensadas a elaboração e a apresentação das Relações de Saídas e Entrada de Mercadorias, modelos 1 a 6, previstos no SINIEF, relativamente às operações realizadas até 31 de dezembro de 1980.
+
+**Cláusula quinta** Este Ajuste entrará em vigor na data da sua celebração.
+
+Brasília, DF, 06 de dezembro de 1978.

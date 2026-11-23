@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 23/11/2026 eram **1.473.761 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 23/11/2026 eram **1.474.596 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 530.053 | 91,1% |
-| 2 | Infralegal e jurisprudência | 814.935 | 78,9% |
+| 2 | Infralegal e jurisprudência | 815.770 | 79,0% |
 | 3 | Direito municipal | 128.773 | 1,1% |
-| | **Total** | **1.473.761** | |
+| | **Total** | **1.474.596** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -231,6 +231,7 @@ tachadas; os demais documentos mantêm as versões históricas e os tachados.
 | Uberlândia (MG) | Diário Oficial do Município |
 | Banco Central do Brasil e CMN | Portal de normativos do Banco Central (API): resoluções do CMN e do BC, circulares, cartas circulares e instruções normativas, no texto que o BC mantém, com as alterações incorporadas; quando o portal só tem o texto em PDF, o PDF da versão original (`/pre/normativos/`), sem as alterações posteriores |
 | CONAMA | Diário Oficial da União a partir de 2017; de 1984 a 2016, o portal do CONAMA (`conama.mma.gov.br`), com a exceção ao `robots.txt` descrita abaixo |
+| CONFAZ | Portal do CONFAZ (`www.confaz.fazenda.gov.br/legislacao`, pelo mapa do site): convênios ICM/ICMS, protocolos e ajustes SINIEF, no texto que o portal mantém, com as notas de alteração, prorrogação e revogação; atos COTEPE e os demais atos, pelo Diário Oficial da União |
 | CONTRAN e demais reguladores | Diário Oficial da União, Seção 1 |
 
 Cada coletor documenta no cabeçalho a API ou o caminho que usa. Todos limitam a taxa a 1 a 4
@@ -274,6 +275,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | **Jarinu**: 420 das 421 normas coletadas do SAPL da Câmara | retidas no fechamento do SAPL (`auditar_integralidade_pdf_sapl.py` e `auditar_imagens_pdf_sapl.py`): as de 1995 a 2020 são PDFs escaneados com o OCR da origem embutido e não entram como nascidas digitais (200 com imagem de página inteira, 106 com texto que diverge do PDF); as de 2021 a 2026, nascidas digitais, não passam no confronto integral porque o coletor descarta o timbre e o carimbo 1Doc da margem, que o confronto não desconta (110), e 4 têm imagem a revisar. Entra só a Resolução nº 2/2019 |
 | **Banco Central**: 942 dos 14.878 normativos do portal | retidos em [`reguladores/bcb/_falhas.jsonl`](reguladores/bcb/_falhas.jsonl): 526 com página em imagem no PDF (anexo, tabela ou formulário escaneado), 285 com anexo próprio referido e ausente do texto (214 no texto do portal, 71 no PDF), 57 com imagem no texto, 26 números não utilizados, 25 de 2016 em diante cujo PDF só está em `/Lists/` (proibido pelo `robots.txt`), 12 com a data do PDF diferente da do portal, 9 com erro de digitação no número do PDF, 1 vazio e 1 sem a versão original listada; outros 213, já publicados, citam anexo que não está no texto e estão no registro de pendências de integralidade; os 44.003 Comunicados ficam fora |
 | **CONAMA**: 13 dos 484 registros de 1984 a 2016 na listagem do portal | retidos em [`reguladores/conama/_falhas.jsonl`](reguladores/conama/_falhas.jsonl): 6 sem arquivo, 2 registros com número repetido na listagem, 2 com a epígrafe que não confere com a listagem (a 21/1993 traz "N.º 2A"), 2 arquivos que não são PDF (página de erro e arquivo vazio) e 1 PDF escaneado, que pede OCR |
+| **CONFAZ**: 5 dos 840 ajustes SINIEF do portal | retidos em [`reguladores/confaz/_falhas.jsonl`](reguladores/confaz/_falhas.jsonl): 4 em que as datas do próprio texto não concordam (epígrafe ou fecho diferente do preâmbulo) e 1 com imagem no corpo. Convênios e protocolos do portal ainda não foram coletados |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
 ### Pendências das fontes estaduais

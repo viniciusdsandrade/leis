@@ -1,0 +1,40 @@
+---
+titulo: "Ajuste SINIEF nº 15, de 31 de outubro de 2018"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "15"
+data: 2018-10-31
+ementa: "Altera o Ajuste SINIEF 19/16, que institui a Nota Fiscal de Consumidor Eletrônica, modelo 65, e o Documento Auxiliar da Nota Fiscal de Consumidor Eletrônica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 01.11.18, pelo Despacho 133/18."
+data_publicacao: "2018-11-01"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2018/AJ0015_18"
+sha256_html_fonte: "667aa799e417a658d70b494becfa7e83b5244659969c050cdc2054e59e57661c"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 15, de 31 de outubro de 2018
+
+AJUSTE SINIEF 15/18, DE 31 DE OUTUBRO DE 2018
+
+Publicado no DOU de 01.11.18, pelo Despacho 133/18.
+
+Altera o Ajuste SINIEF 19/16, que institui a Nota Fiscal de Consumidor Eletrônica, modelo 65, e o Documento Auxiliar da Nota Fiscal de Consumidor Eletrônica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** e a Secretaria da Receita Federal do Brasil, na 308ª Reunião Extraordinária do CONFAZ, realizada em Brasília, DF, no dia 31 de outubro de 2018, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+A J U S T E
+
+**Cláusula primeira** Ficam acrescidos os dispositivos a seguir indicados ao Ajuste SINIEF 19/16, de 09 de dezembro de 2016, com as seguintes redações:
+
+I - § 7º à cláusula quarta:
+
+"§ 7º O Estado de Santa Catarina poderá exigir que a emissão e a autorização da NFC-e, modelo 65, seja realizada por meio de equipamento desenvolvido e autorizado para uso fiscal, comandado por meio de programa aplicativo desenvolvido por empresa credenciada pela respectiva Administração Tributária.";
+
+II - §§ 3º e 4º à cláusula décima sétima:
+
+"§ 3º A disponibilização completa dos campos exibidos na consulta de que trata o caput desta cláusula será por meio de acesso restrito e vinculada à relação do consulente com a operação descrita na NFC-e consultada, nos termos do MOC.
+
+**§ 4º** A relação do consulente com a operação descrita na NFC-e consultada a que se refere o § 3º desta cláusula deve ser identificada por meio de certificado digital ou de acesso identificado do consulente ao portal da administração tributária da unidade federada correspondente ou ao ambiente nacional disponibilizado pela RFB.".
+
+**Cláusula segunda** Este ajuste entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao de sua publicação.

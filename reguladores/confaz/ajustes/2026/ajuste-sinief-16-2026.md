@@ -1,0 +1,38 @@
+---
+titulo: "Ajuste SINIEF nº 16, de 8 de maio de 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Ajuste SINIEF"
+numero: "16"
+data: 2026-05-08
+ementa: "Altera o Ajuste SINIEF nº 38, de 5 de dezembro de 2025, que institui a Nota Fiscal eletrônica do Gás, modelo 76, e o Documento Auxiliar da Nota Fiscal eletrônica do Gás."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 13.05.26, pelo Despacho 23/26."
+data_publicacao: "2026-05-13"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2026/AJ016_26"
+sha256_html_fonte: "293a624b6c8c3f53b9ab37aa710c671882e3abb04299852c99155840cbfeaa25"
+baixado_em: 2026-11-23
+---
+# Ajuste SINIEF nº 16, de 8 de maio de 2026
+
+AJUSTE SINIEF Nº 16, DE 8 DE MAIO DE 2026
+
+Publicado no DOU de 13.05.26, pelo Despacho 23/26.
+
+Altera o Ajuste SINIEF nº 38, de 5 de dezembro de 2025, que institui a Nota Fiscal eletrônica do Gás, modelo 76, e o Documento Auxiliar da Nota Fiscal eletrônica do Gás.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ e a Secretaria Especial da Receita Federal do Brasil**, na 424ª Reunião Extraordinária do Conselho, realizada em Brasília, DF, no dia 8 de maio de 2026, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+AJUSTE
+
+**Cláusula primeira** Os dispositivos a seguir indicados da cláusula primeira do Ajuste SINIEF nº 38, de 5 de dezembro de 2025, publicado no Diário Oficial da União de 9 de dezembro de 2025, passam a vigorar com as seguintes redações:
+
+I - o § 1º:
+
+"§ 1º A critério da unidade federada que já permite o uso da Nota Fiscal Eletrônica - NF-e, modelo 55, de que trata o Ajuste SINIEF nº 7, de 30 de setembro de 2005, esse modelo de documento fiscal eletrônico pode ser utilizado em substituição à NFGas, modelo 76, prevista neste ajuste, até o dia 4 de julho de 2027.";
+
+II - o § 4º:
+
+"§ 4º Os contribuintes do ICMS ficam obrigados ao uso da NFGas a que se refere este ajuste a partir de 3 de novembro de 2026, observado o disposto no § 1º.".
+
+**Cláusula segunda** Este ajuste entra em vigor na data da sua publicação no Diário Oficial da União.
