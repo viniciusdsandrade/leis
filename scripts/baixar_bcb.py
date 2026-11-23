@@ -26,10 +26,17 @@ data, quando o PDF a traz junto do número, têm de conferir com o índice e com
 robots.txt de www.bcb.gov.br (conferido em 21/11/2026): permite /api/ e /pre/normativos/; proíbe /*/Lists/. Para na
 recusa (HTTP 401, 403 ou 429).
 
+Página em imagem (`--pagina-em-imagem`): refaz os retidos por esse motivo quando o normativo se lê sem ela, isto é, a
+primeira página é texto e a página em imagem (o anexo, a tabela ou o formulário escaneado) não tem camada de texto.
+Grava o texto das outras páginas, diz no front matter quais páginas ficaram de fora (`paginas_em_imagem`) e anota o
+arquivo em reguladores/bcb/_paginas_em_imagem.jsonl, de onde ele vai para o registro de pendências de integralidade:
+o texto fica no acervo e não conta no progresso até o conteúdo da imagem vir de outra fonte ou de OCR revisado.
+
     python3 -I scripts/baixar_bcb.py --so-indice                       # monta o índice dos tipos
     python3 -I scripts/baixar_bcb.py --tipos Resolução --de 1990 --ate 1999
     python3 -I scripts/baixar_bcb.py --tipos "Resolução CMN,Resolução BCB" --rps 1
     python3 -I scripts/baixar_bcb.py --pdf                             # retidos por texto só nos PDFs
+    python3 -I scripts/baixar_bcb.py --pagina-em-imagem                # retidos por página em imagem no PDF
 """
 import argparse
 import collections
@@ -68,6 +75,7 @@ PDF_ORIGINAL = BASE + "/pre/normativos/{serie}/{ano}/pdf/{arquivo}"
 VERSAO_PDF = ("original: PDF da versão original (v1) no portal de normativos do Banco Central do Brasil, sem as "
               "alterações posteriores; não substitui a publicação no Diário Oficial da União")
 SO_PDF = "texto só nos PDFs das versões: o campo de texto da API está vazio"
+IMAGEM_NO_PDF = "página em imagem no PDF (anexo, tabela ou formulário escaneado): o conteúdo visual não entra no Markdown"
 
 # tipo na fonte -> (pasta, tipo canônico, órgão, prefixo do arquivo). Até 2020 o BC publicava as resoluções do CMN
 # como "Resolução"; desde então são "Resolução CMN", na mesma numeração, e o BC tem as suas, "Resolução BCB".
@@ -421,9 +429,22 @@ def data_do_ato(datas_no_pdf, data_no_portal):
     return no_pdf if 0 < (dt.date.fromisoformat(data_no_portal) - dt.date.fromisoformat(no_pdf)).days <= 30 else None
 
 
-def texto_do_original(rede, item, x, data, cache):
+def texto_sem_paginas_em_imagem(texto, imagens):
+    """O texto do PDF sem as páginas em imagem, ou None quando o normativo não se lê sem elas: a primeira página é
+    imagem, ou a página em imagem tem camada de texto (OCR da origem, ou página que mistura texto e imagem: tirar o
+    texto dela cortaria o normativo), ou o que sobra é curto demais."""
+    paginas = texto.split("\f")
+    if 1 in imagens or any(len(re.sub(r"\W", "", paginas[n - 1])) >= 200 for n in imagens if n <= len(paginas)):
+        return None
+    resto = ["" if n in imagens else p for n, p in enumerate(paginas, 1)]
+    return "\f".join(resto) if len(re.sub(r"\W", "", "".join(resto))) >= 300 else None
+
+
+def texto_do_original(rede, item, x, data, cache, pendencia=None):
     """(corpo, url, pdf, None, data do ato) a partir do PDF da versão original, ou (None, url, pdf, retenção, None)
-    quando ele não serve. `cache` guarda o PDF baixado, para refazer sem rede."""
+    quando ele não serve. `cache` guarda o PDF baixado, para refazer sem rede. Com `pendencia` (um dicionário), o PDF
+    com página em imagem entra sem ela quando `texto_sem_paginas_em_imagem` deixa, e as páginas vão para
+    `pendencia["paginas_em_imagem"]`."""
     arquivo = arquivo_original(x.get("Documentos"))
     if not arquivo:
         return None, None, None, {"motivo": "texto só nos PDFs, e o portal não lista o da versão original",
@@ -440,8 +461,12 @@ def texto_do_original(rede, item, x, data, cache):
         cache.write_bytes(gzip.compress(pdf))
     texto, imagens = ler_pdf(pdf)
     if imagens:
-        return None, url, pdf, {"motivo": "página em imagem no PDF (anexo, tabela ou formulário escaneado): o conteúdo "
-                                          "visual não entra no Markdown", "paginas_em_imagem": imagens, "pdf": url}, None
+        sem_imagem = texto_sem_paginas_em_imagem(texto, imagens) if pendencia is not None else None
+        if sem_imagem is None:
+            return None, url, pdf, {"motivo": IMAGEM_NO_PDF, "paginas_em_imagem": imagens, "pdf": url}, None
+        # o pdftotext fecha cada página com \f, inclusive a última
+        pendencia.update(paginas_em_imagem=imagens, paginas=texto.count("\f") + (0 if texto.endswith("\f") else 1))
+        texto = sem_imagem
     if re.fullmatch(r"\W*n[úu]mero n[ãa]o utilizado\W*", " ".join(texto.split()), re.I):
         return None, url, pdf, {"motivo": "número não utilizado: o PDF do portal só diz isso", "pdf": url}, None
     if not numero_no_pdf(texto, item["tipo"], item["numero"]):
@@ -455,14 +480,15 @@ def texto_do_original(rede, item, x, data, cache):
                                     "datas_no_pdf": sorted(datas), "data_no_portal": data}, None
         data = ato
     corpo = texto_pdf_para_md(texto, manter_primeira=CABECALHO_DE_MANUAL)
-    remissao = anexo_proprio_ausente(corpo, item["numero"], bruto=texto)  # com o texto do PDF: ver FOLHAS_DE_MANUAL
+    # com o texto do PDF: ver FOLHAS_DE_MANUAL. Com página em imagem de fora, o anexo é a própria pendência.
+    remissao = None if imagens else anexo_proprio_ausente(corpo, item["numero"], bruto=texto)
     if remissao:
         return None, url, pdf, {"motivo": "anexo próprio referido e ausente do PDF da versão original", "pdf": url,
                                 "remissao": remissao}, None
     return corpo, url, pdf, None, data
 
 
-def processar(rede, item, existentes, pdf=False):
+def processar(rede, item, existentes, pdf=False, imagem_pendente=False):
     pasta, tipo_canonico, orgao, prefixo = TIPOS[item["tipo"]]
     if (prefixo, item["numero"]) in existentes:
         return "no_acervo", None
@@ -488,6 +514,7 @@ def processar(rede, item, existentes, pdf=False):
         return "retido", {**falha, "motivo": f"data ausente ou futura na fonte: {x.get('DataTexto')!r}"}
     texto_html = x.get("Texto") or ""
     fonte_texto, bruto_fonte, versao, extensao = url_api, bruto, VERSAO, ".json.gz"
+    pendencia = {} if imagem_pendente else None
     if len(visivel(texto_html)) < 40:
         if not pdf:
             return "retido", {**falha, "motivo": SO_PDF, "documentos": x.get("Documentos")}
@@ -495,7 +522,7 @@ def processar(rede, item, existentes, pdf=False):
             cache_json.parent.mkdir(parents=True, exist_ok=True)
             cache_json.write_bytes(gzip.compress(bruto))
         corpo, url_pdf, bytes_pdf, retencao, data = texto_do_original(rede, item, x, data,
-                                                                      cache.with_name(cache.name + ".pdf.gz"))
+                                                                      cache.with_name(cache.name + ".pdf.gz"), pendencia)
         if retencao:
             return "retido", {**falha, **retencao}
         fonte_texto, bruto_fonte, versao, extensao = url_pdf, bytes_pdf, VERSAO_PDF, ".pdf.gz"
@@ -520,6 +547,9 @@ def processar(rede, item, existentes, pdf=False):
     if revogado or cancelado:
         meta.append(("situacao", "revogado" if revogado else "cancelado"))
     meta += [("revogada", revogado or cancelado), ("versao_texto", versao)]
+    if pendencia:
+        meta.append(("paginas_em_imagem", f"{', '.join(map(str, pendencia['paginas_em_imagem']))} de {pendencia['paginas']}: "
+                                          "anexo, tabela ou formulário escaneado no PDF, sem transcrição neste arquivo"))
     if publicacao:
         meta.append(("publicacao", publicacao))
         if data_da_publicacao(publicacao):
@@ -529,6 +559,9 @@ def processar(rede, item, existentes, pdf=False):
     gravar(str(PASTA / pasta / ano / f"{slug}.md"), str(FONTE / pasta / ano / f"{slug}{extensao}"), bruto_fonte, meta,
            f"# {titulo}\n\n{corpo}")
     existentes.add((prefixo, item["numero"]))
+    if pendencia:
+        return "pendente", {"path": f"reguladores/bcb/{pasta}/{ano}/{slug}.md", "tipo": item["tipo"], "numero": item["numero"],
+                            "pdf": fonte_texto, "sha256_pdf": hashlib.sha256(bruto_fonte).hexdigest(), **pendencia}
     return "ok", None
 
 
@@ -553,14 +586,24 @@ def falhas_registradas():
     return {(d["tipo"], d["numero"], d["motivo"]) for d in ler_falhas()}
 
 
-def tirar_retencoes_resolvidas(resolvidos):
-    """Tira do _falhas.jsonl a linha "texto só nos PDFs" dos normativos que o modo --pdf gravou ou reteve por outro
-    motivo (a retenção nova já foi registrada). A de quem deu erro de rede fica."""
+def registrar_pendencia(info):
+    """Anota em _paginas_em_imagem.jsonl o arquivo gravado sem as páginas em imagem (uma linha por arquivo)."""
+    arquivo = PASTA / "_paginas_em_imagem.jsonl"
+    linhas = [l for l in arquivo.read_text(encoding="utf-8").splitlines() if l.strip()] if arquivo.exists() else []
+    linhas = [l for l in linhas if json.loads(l)["path"] != info["path"]] + [json.dumps(info, ensure_ascii=False, sort_keys=True)]
+    arquivo.parent.mkdir(parents=True, exist_ok=True)
+    arquivo.write_text("".join(l + "\n" for l in sorted(linhas)), encoding="utf-8")
+
+
+def tirar_retencoes_resolvidas(resolvidos, motivo=SO_PDF):
+    """Tira do _falhas.jsonl a linha do motivo refeito ("texto só nos PDFs", ou a página em imagem) dos normativos que
+    o modo de refazer gravou ou reteve por outro motivo (a retenção nova já foi registrada). A de quem deu erro de rede
+    fica."""
     if not resolvidos or not FALHAS.exists():
         return
     linhas = [l for l in FALHAS.read_text(encoding="utf-8").splitlines() if l.strip()]
     ficam = [l for l in linhas
-             if not ((d := json.loads(l))["motivo"] == SO_PDF and (d["tipo"], d["numero"]) in resolvidos)]
+             if not ((d := json.loads(l))["motivo"] == motivo and (d["tipo"], d["numero"]) in resolvidos)]
     FALHAS.write_text("".join(l + "\n" for l in ficam), encoding="utf-8")
 
 
@@ -575,6 +618,8 @@ def main(argv=None):
     ap.add_argument("--refazer-indice", action="store_true")
     ap.add_argument("--pdf", action="store_true",
                     help="refaz só os retidos por texto só nos PDFs, a partir do PDF da versão original")
+    ap.add_argument("--pagina-em-imagem", action="store_true",
+                    help="refaz só os retidos por página em imagem no PDF, sem ela, como pendência de integralidade")
     a = ap.parse_args(argv)
     tipos = [t.strip() for t in a.tipos.split(",") if t.strip()]
     desconhecidos = [t for t in tipos if t not in TIPOS]
@@ -592,9 +637,10 @@ def main(argv=None):
             itens += [i for i in lista if a.de <= int(i["data"][:4] or 0) <= a.ate]
         if a.so_indice:
             return 0
-        if a.pdf:
-            so_pdf = {(d["tipo"], d["numero"]) for d in ler_falhas() if d["motivo"] == SO_PDF}
-            itens = [i for i in itens if (i["tipo"], i["numero"]) in so_pdf]
+        refazer = IMAGEM_NO_PDF if a.pagina_em_imagem else SO_PDF if a.pdf else None
+        if refazer:
+            alvo = {(d["tipo"], d["numero"]) for d in ler_falhas() if d["motivo"] == refazer}
+            itens = [i for i in itens if (i["tipo"], i["numero"]) in alvo]
         itens.sort(key=lambda i: i["data"], reverse=True)  # os mais recentes primeiro: são os mais consultados
         if a.limite:
             itens = itens[: a.limite]
@@ -602,21 +648,25 @@ def main(argv=None):
         try:
             for n, item in enumerate(itens, 1):
                 try:
-                    estado, falha = processar(rede, item, existentes, pdf=a.pdf)
+                    estado, falha = processar(rede, item, existentes, pdf=bool(refazer),
+                                              imagem_pendente=a.pagina_em_imagem)
                 except Recusa:
                     raise
                 except Exception as e:  # rede ou resposta malformada: registra e segue
                     estado, falha = "erro", {"tipo": item["tipo"], "numero": item["numero"], "id": item["id"],
                                              "motivo": f"erro: {str(e)[:200]}"}
                 cont[estado] += 1
-                if falha and estado != "erro":
+                if estado == "pendente":
+                    registrar_pendencia(falha)
+                elif falha and estado != "erro":
                     registrar_falha(falha, ja)
-                if a.pdf and estado != "erro":
+                # quem continua retido pelo mesmo motivo (a página em imagem que não dá para tirar) fica como está
+                if refazer and estado != "erro" and not (estado == "retido" and falha["motivo"] == refazer):
                     resolvidos.add((item["tipo"], item["numero"]))
                 if n % 100 == 0 or n == len(itens):
                     print(f"[BCB] {n}/{len(itens)} {dict(cont)}", flush=True)
         finally:
-            tirar_retencoes_resolvidas(resolvidos)
+            tirar_retencoes_resolvidas(resolvidos, refazer or SO_PDF)
     except Recusa as e:
         print(f"[BCB] {e}. Coleta interrompida; rode de novo mais tarde, com --rps menor.", flush=True)
         return 2
