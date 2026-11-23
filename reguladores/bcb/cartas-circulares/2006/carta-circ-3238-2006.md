@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 3.238, de 30 de julho de 2006"
+titulo: "Carta Circular nº 3.238, de 30 de junho de 2006"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "3238"
-data: 2006-07-30
+data: 2006-06-30
 ementa: "Divulga instruções para o registro de contratações de operações no Sistema de Registro de Operações de Crédito com o Setor Público (Cadip)."
+data_no_portal: "2006-07-30"
 situacao: "revogado"
 revogada: true
 versao_texto: "original: PDF da versão original (v1) no portal de normativos do Banco Central do Brasil, sem as alterações posteriores; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/pre/normativos/c_circ/2006/pdf/c_circ_3238_
 sha256_fonte: "6c11ad063c0e2bb8c39309911c9a300df56e2831d6a5b7d9e1a73b4adc3b09aa"
 baixado_em: 2026-11-21
 ---
-# Carta Circular nº 3.238, de 30 de julho de 2006
+# Carta Circular nº 3.238, de 30 de junho de 2006
 
 CARTA-CIRCULAR N° 3238
 

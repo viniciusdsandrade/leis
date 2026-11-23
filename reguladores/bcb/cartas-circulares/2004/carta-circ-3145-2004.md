@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 3.145, de 24 de setembro de 2004"
+titulo: "Carta Circular nº 3.145, de 23 de setembro de 2004"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "3145"
-data: 2004-09-24
+data: 2004-09-23
 ementa: "Divulga procedimentos quanto à prestação de informações e ao cálculo da exigibilidade de recolhimento compulsório e encaixe obrigatório sobre recursos à vista, de que trata a Circular 3.169, de 19 de dezembro de 2002, com as alterações introduzidas pelas Circulares 3.224 e 3.257, de 12 de fevereiro e de 8 de setembro de 2004, respectivamente."
+data_no_portal: "2004-09-24"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "4387f1bc5487e5c863c15d621bee008eb6e071e8e039e43163ed7dd94a30babe"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 3.145, de 24 de setembro de 2004
+# Carta Circular nº 3.145, de 23 de setembro de 2004
 
 CARTA-CIRCULAR N. 003145
 

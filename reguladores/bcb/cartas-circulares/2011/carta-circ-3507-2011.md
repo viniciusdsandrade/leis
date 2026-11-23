@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 3.507, de 26 de maio de 2011"
+titulo: "Carta Circular nº 3.507, de 24 de maio de 2011"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "3507"
-data: 2011-05-26
+data: 2011-05-24
 ementa: "Divulga instruções para o registro de operações de crédito contratadas ao amparo do art. 9º-W da Resolução nº 2.827, de 30 de março de 2001, no Sistema de Registro de Operações de Crédito com o Setor Público (Cadip)."
+data_no_portal: "2011-05-26"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "b7567fc943f35c6c5d0024e2df41990f88caadc4e1e5ab1ca6f4889484818119"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 3.507, de 26 de maio de 2011
+# Carta Circular nº 3.507, de 24 de maio de 2011
 
 CARTA-CIRCULAR N. 003507
 

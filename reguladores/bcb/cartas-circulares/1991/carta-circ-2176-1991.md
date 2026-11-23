@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 2.176, de 6 de julho de 1991"
+titulo: "Carta Circular nº 2.176, de 6 de junho de 1991"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "2176"
-data: 1991-07-06
+data: 1991-06-06
 ementa: "ESTABELECE NOVOS PROCEDIMENTOS PARA O SERVICO DE COMPENSACAO DE CHEQUES E OUTROS PAPEIS."
+data_no_portal: "1991-07-06"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "2e255d57757a78d3e04b700a689fe8b7421d8327698cc8987d92810c11591952"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 2.176, de 6 de julho de 1991
+# Carta Circular nº 2.176, de 6 de junho de 1991
 
 CARTA-CIRCULAR N. 002176
 

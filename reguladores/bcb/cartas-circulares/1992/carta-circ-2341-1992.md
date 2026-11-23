@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 2.341, de 22 de dezembro de 1992"
+titulo: "Carta Circular nº 2.341, de 21 de dezembro de 1992"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "2341"
-data: 1992-12-22
+data: 1992-12-21
 ementa: "ALTERA O DEMONSTRATIVO DO EXIGIVEL - ENCAIXE OBRIGATORIO - POUPANCA RURAL, INSTITUIDO PELA CARTA/CIRCULAR 1850, DE 09/11/88."
+data_no_portal: "1992-12-22"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "ef563a4f8eab770ce31217a0800c753227b9927eacee57a1fbf21b58f7eed850"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 2.341, de 22 de dezembro de 1992
+# Carta Circular nº 2.341, de 21 de dezembro de 1992
 
 CARTA-CIRCULAR N. 002341
 

@@ -1,0 +1,1428 @@
+{
+ "regra": "scripts/baixar_bcb.py: data_do_ato(datas_do_fecho(corpo), data): um fecho só no texto, de 1 a 30 dias antes da data do portal",
+ "data": "2026-11-23",
+ "arquivos": [
+  {
+   "path": "reguladores/bcb/cartas-circulares/1982/carta-circ-769-1982.md",
+   "data_no_portal": "1982-07-17",
+   "data": "1982-06-17",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1982/carta-circ-770-1982.md",
+   "data_no_portal": "1982-07-21",
+   "data": "1982-06-21",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1984/carta-circ-1028-1984.md",
+   "data_no_portal": "1984-05-29",
+   "data": "1984-05-23",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1985/carta-circ-1274-1985.md",
+   "data_no_portal": "1985-10-05",
+   "data": "1985-09-05",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1990/carta-circ-2093-1990.md",
+   "data_no_portal": "1990-07-07",
+   "data": "1990-06-07",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1991/carta-circ-2144-1991.md",
+   "data_no_portal": "1991-02-20",
+   "data": "1991-02-08",
+   "dias": 12
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1991/carta-circ-2176-1991.md",
+   "data_no_portal": "1991-07-06",
+   "data": "1991-06-06",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1992/carta-circ-2243-1992.md",
+   "data_no_portal": "1992-01-09",
+   "data": "1992-01-08",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1992/carta-circ-2298-1992.md",
+   "data_no_portal": "1992-07-15",
+   "data": "1992-07-10",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1992/carta-circ-2341-1992.md",
+   "data_no_portal": "1992-12-22",
+   "data": "1992-12-21",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1994/carta-circ-2510-1994.md",
+   "data_no_portal": "1994-11-17",
+   "data": "1994-11-16",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/1999/carta-circ-2856-1999.md",
+   "data_no_portal": "1999-07-04",
+   "data": "1999-06-04",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/2002/carta-circ-3067-2002.md",
+   "data_no_portal": "2002-12-30",
+   "data": "2002-12-17",
+   "dias": 13
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/2004/carta-circ-3145-2004.md",
+   "data_no_portal": "2004-09-24",
+   "data": "2004-09-23",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/2006/carta-circ-3238-2006.md",
+   "data_no_portal": "2006-07-30",
+   "data": "2006-06-30",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/2010/carta-circ-3473-2010.md",
+   "data_no_portal": "2010-12-13",
+   "data": "2010-11-25",
+   "dias": 18
+  },
+  {
+   "path": "reguladores/bcb/cartas-circulares/2011/carta-circ-3507-2011.md",
+   "data_no_portal": "2011-05-26",
+   "data": "2011-05-24",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1967/circ-73-1967.md",
+   "data_no_portal": "1967-02-09",
+   "data": "1967-02-08",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1568-1990.md",
+   "data_no_portal": "1990-01-26",
+   "data": "1990-01-25",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1599-1990.md",
+   "data_no_portal": "1990-03-19",
+   "data": "1990-03-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1601-1990.md",
+   "data_no_portal": "1990-03-20",
+   "data": "1990-03-18",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1604-1990.md",
+   "data_no_portal": "1990-03-19",
+   "data": "1990-03-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1605-1990.md",
+   "data_no_portal": "1990-03-19",
+   "data": "1990-03-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1610-1990.md",
+   "data_no_portal": "1990-03-21",
+   "data": "1990-03-20",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1611-1990.md",
+   "data_no_portal": "1990-03-22",
+   "data": "1990-03-20",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1613-1990.md",
+   "data_no_portal": "1990-03-22",
+   "data": "1990-03-21",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1615-1990.md",
+   "data_no_portal": "1990-03-23",
+   "data": "1990-03-22",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1632-1990.md",
+   "data_no_portal": "1990-03-29",
+   "data": "1990-03-28",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1635-1990.md",
+   "data_no_portal": "1990-03-30",
+   "data": "1990-03-29",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1639-1990.md",
+   "data_no_portal": "1990-03-30",
+   "data": "1990-03-29",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1649-1990.md",
+   "data_no_portal": "1990-04-04",
+   "data": "1990-04-03",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1655-1990.md",
+   "data_no_portal": "1990-04-09",
+   "data": "1990-04-06",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1660-1990.md",
+   "data_no_portal": "1990-04-10",
+   "data": "1990-04-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1661-1990.md",
+   "data_no_portal": "1990-04-10",
+   "data": "1990-04-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1665-1990.md",
+   "data_no_portal": "1990-04-12",
+   "data": "1990-04-11",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1666-1990.md",
+   "data_no_portal": "1990-04-12",
+   "data": "1990-04-11",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1667-1990.md",
+   "data_no_portal": "1990-04-16",
+   "data": "1990-04-11",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1668-1990.md",
+   "data_no_portal": "1990-04-16",
+   "data": "1990-04-11",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1669-1990.md",
+   "data_no_portal": "1990-04-16",
+   "data": "1990-04-11",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1686-1990.md",
+   "data_no_portal": "1990-04-20",
+   "data": "1990-04-19",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1687-1990.md",
+   "data_no_portal": "1990-04-26",
+   "data": "1990-04-20",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1702-1990.md",
+   "data_no_portal": "1990-05-02",
+   "data": "1990-04-30",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1703-1990.md",
+   "data_no_portal": "1990-05-02",
+   "data": "1990-04-02",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1708-1990.md",
+   "data_no_portal": "1990-05-03",
+   "data": "1990-05-02",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1716-1990.md",
+   "data_no_portal": "1990-05-05",
+   "data": "1990-05-04",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1718-1990.md",
+   "data_no_portal": "1990-05-08",
+   "data": "1990-05-07",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1755-1990.md",
+   "data_no_portal": "1990-06-08",
+   "data": "1990-06-07",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1773-1990.md",
+   "data_no_portal": "1990-07-16",
+   "data": "1990-07-10",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1782-1990.md",
+   "data_no_portal": "1990-07-20",
+   "data": "1990-07-19",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1787-1990.md",
+   "data_no_portal": "1990-07-30",
+   "data": "1990-07-27",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1788-1990.md",
+   "data_no_portal": "1990-08-01",
+   "data": "1990-07-31",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1812-1990.md",
+   "data_no_portal": "1990-09-18",
+   "data": "1990-09-10",
+   "dias": 8
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1826-1990.md",
+   "data_no_portal": "1990-10-19",
+   "data": "1990-10-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1836-1990.md",
+   "data_no_portal": "1990-11-09",
+   "data": "1990-11-01",
+   "dias": 8
+  },
+  {
+   "path": "reguladores/bcb/circulares/1990/circ-1860-1990.md",
+   "data_no_portal": "1990-12-17",
+   "data": "1990-12-14",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1887-1991.md",
+   "data_no_portal": "1991-02-02",
+   "data": "1991-02-01",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1889-1991.md",
+   "data_no_portal": "1991-02-02",
+   "data": "1991-02-01",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1890-1991.md",
+   "data_no_portal": "1991-02-02",
+   "data": "1991-02-01",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1891-1991.md",
+   "data_no_portal": "1991-02-02",
+   "data": "1991-02-01",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1899-1991.md",
+   "data_no_portal": "1991-02-19",
+   "data": "1991-02-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1906-1991.md",
+   "data_no_portal": "1991-02-28",
+   "data": "1991-02-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1908-1991.md",
+   "data_no_portal": "1991-02-28",
+   "data": "1991-02-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1910-1991.md",
+   "data_no_portal": "1991-03-14",
+   "data": "1991-02-28",
+   "dias": 14
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1934-1991.md",
+   "data_no_portal": "1991-04-11",
+   "data": "1991-04-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1952-1991.md",
+   "data_no_portal": "1991-05-13",
+   "data": "1991-05-10",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1957-1991.md",
+   "data_no_portal": "1991-05-13",
+   "data": "1991-05-10",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1969-1991.md",
+   "data_no_portal": "1991-06-07",
+   "data": "1991-06-06",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-1993-1991.md",
+   "data_no_portal": "1991-07-22",
+   "data": "1991-07-19",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-2047-1991.md",
+   "data_no_portal": "1991-10-03",
+   "data": "1991-10-02",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-2048-1991.md",
+   "data_no_portal": "1991-10-03",
+   "data": "1991-10-02",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-2061-1991.md",
+   "data_no_portal": "1991-10-11",
+   "data": "1991-10-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-2069-1991.md",
+   "data_no_portal": "1991-11-01",
+   "data": "1991-10-30",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-2075-1991.md",
+   "data_no_portal": "1991-11-07",
+   "data": "1991-11-06",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1991/circ-2084-1991.md",
+   "data_no_portal": "1991-11-11",
+   "data": "1991-11-08",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2129-1992.md",
+   "data_no_portal": "1992-01-30",
+   "data": "1992-01-29",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2141-1992.md",
+   "data_no_portal": "1992-03-12",
+   "data": "1992-03-11",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2142-1992.md",
+   "data_no_portal": "1992-03-12",
+   "data": "1992-03-11",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2143-1992.md",
+   "data_no_portal": "1992-03-12",
+   "data": "1992-03-11",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2144-1992.md",
+   "data_no_portal": "1992-03-12",
+   "data": "1992-03-11",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2152-1992.md",
+   "data_no_portal": "1992-04-06",
+   "data": "1992-04-02",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2153-1992.md",
+   "data_no_portal": "1992-04-06",
+   "data": "1992-04-02",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2159-1992.md",
+   "data_no_portal": "1992-04-23",
+   "data": "1992-04-15",
+   "dias": 8
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2164-1992.md",
+   "data_no_portal": "1992-04-23",
+   "data": "1992-04-22",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2165-1992.md",
+   "data_no_portal": "1992-04-23",
+   "data": "1992-04-22",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2172-1992.md",
+   "data_no_portal": "1992-05-07",
+   "data": "1992-05-06",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2176-1992.md",
+   "data_no_portal": "1992-05-25",
+   "data": "1992-05-20",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2180-1992.md",
+   "data_no_portal": "1992-05-29",
+   "data": "1992-05-27",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2201-1992.md",
+   "data_no_portal": "1992-07-22",
+   "data": "1992-07-21",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2202-1992.md",
+   "data_no_portal": "1992-07-23",
+   "data": "1992-07-22",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2217-1992.md",
+   "data_no_portal": "1992-08-25",
+   "data": "1992-08-24",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1992/circ-2221-1992.md",
+   "data_no_portal": "1992-09-03",
+   "data": "1992-09-02",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2274-1993.md",
+   "data_no_portal": "1993-02-10",
+   "data": "1993-02-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2281-1993.md",
+   "data_no_portal": "1993-03-01",
+   "data": "1993-02-26",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2282-1993.md",
+   "data_no_portal": "1993-03-01",
+   "data": "1993-02-26",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2283-1993.md",
+   "data_no_portal": "1993-03-01",
+   "data": "1993-02-26",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2284-1993.md",
+   "data_no_portal": "1993-03-01",
+   "data": "1993-02-26",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2288-1993.md",
+   "data_no_portal": "1993-03-11",
+   "data": "1993-03-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2291-1993.md",
+   "data_no_portal": "1993-03-19",
+   "data": "1993-03-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2292-1993.md",
+   "data_no_portal": "1993-03-26",
+   "data": "1993-03-24",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2293-1993.md",
+   "data_no_portal": "1993-04-14",
+   "data": "1993-03-24",
+   "dias": 21
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2294-1993.md",
+   "data_no_portal": "1993-03-25",
+   "data": "1993-03-24",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2297-1993.md",
+   "data_no_portal": "1993-04-12",
+   "data": "1993-04-07",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2302-1993.md",
+   "data_no_portal": "1993-05-05",
+   "data": "1993-05-04",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1993/circ-2310-1993.md",
+   "data_no_portal": "1993-05-21",
+   "data": "1993-05-19",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2401-1994.md",
+   "data_no_portal": "1994-01-13",
+   "data": "1994-01-12",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2404-1994.md",
+   "data_no_portal": "1994-02-04",
+   "data": "1994-02-02",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2409-1994.md",
+   "data_no_portal": "1994-03-03",
+   "data": "1994-03-02",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2415-1994.md",
+   "data_no_portal": "1994-03-23",
+   "data": "1994-03-22",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2418-1994.md",
+   "data_no_portal": "1994-04-13",
+   "data": "1994-04-06",
+   "dias": 7
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2434-1994.md",
+   "data_no_portal": "1994-07-01",
+   "data": "1994-06-30",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2435-1994.md",
+   "data_no_portal": "1994-07-01",
+   "data": "1994-06-30",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2436-1994.md",
+   "data_no_portal": "1994-07-01",
+   "data": "1994-06-30",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2438-1994.md",
+   "data_no_portal": "1994-07-01",
+   "data": "1994-06-30",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2439-1994.md",
+   "data_no_portal": "1994-07-01",
+   "data": "1994-06-30",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2440-1994.md",
+   "data_no_portal": "1994-07-01",
+   "data": "1994-06-30",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2441-1994.md",
+   "data_no_portal": "1994-07-01",
+   "data": "1994-06-30",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2469-1994.md",
+   "data_no_portal": "1994-08-25",
+   "data": "1994-08-24",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2474-1994.md",
+   "data_no_portal": "1994-09-01",
+   "data": "1994-08-31",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2475-1994.md",
+   "data_no_portal": "1994-09-01",
+   "data": "1994-08-31",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2477-1994.md",
+   "data_no_portal": "1994-09-12",
+   "data": "1994-09-09",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2478-1994.md",
+   "data_no_portal": "1994-09-14",
+   "data": "1994-09-12",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2479-1994.md",
+   "data_no_portal": "1994-09-14",
+   "data": "1994-09-12",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2493-1994.md",
+   "data_no_portal": "1994-10-21",
+   "data": "1994-10-19",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2499-1994.md",
+   "data_no_portal": "1994-10-21",
+   "data": "1994-10-20",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2505-1994.md",
+   "data_no_portal": "1994-11-03",
+   "data": "1994-11-01",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2507-1994.md",
+   "data_no_portal": "1994-11-17",
+   "data": "1994-11-11",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/1994/circ-2521-1994.md",
+   "data_no_portal": "1994-12-20",
+   "data": "1994-12-19",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2534-1995.md",
+   "data_no_portal": "1995-01-12",
+   "data": "1995-01-11",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2537-1995.md",
+   "data_no_portal": "1995-01-24",
+   "data": "1995-01-19",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2545-1995.md",
+   "data_no_portal": "1995-03-10",
+   "data": "1995-03-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2546-1995.md",
+   "data_no_portal": "1995-03-10",
+   "data": "1995-03-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2547-1995.md",
+   "data_no_portal": "1995-03-10",
+   "data": "1995-03-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2548-1995.md",
+   "data_no_portal": "1995-03-10",
+   "data": "1995-03-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2549-1995.md",
+   "data_no_portal": "1995-03-10",
+   "data": "1995-03-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2562-1995.md",
+   "data_no_portal": "1995-04-24",
+   "data": "1995-04-20",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2564-1995.md",
+   "data_no_portal": "1995-04-28",
+   "data": "1995-04-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2565-1995.md",
+   "data_no_portal": "1995-04-28",
+   "data": "1995-04-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2566-1995.md",
+   "data_no_portal": "1995-04-28",
+   "data": "1995-04-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2567-1995.md",
+   "data_no_portal": "1995-04-28",
+   "data": "1995-04-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2569-1995.md",
+   "data_no_portal": "1995-05-05",
+   "data": "1995-05-04",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2576-1995.md",
+   "data_no_portal": "1995-06-01",
+   "data": "1995-05-31",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2577-1995.md",
+   "data_no_portal": "1995-06-01",
+   "data": "1995-05-31",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2578-1995.md",
+   "data_no_portal": "1995-06-01",
+   "data": "1995-05-31",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2594-1995.md",
+   "data_no_portal": "1995-07-27",
+   "data": "1995-07-21",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2595-1995.md",
+   "data_no_portal": "1995-07-27",
+   "data": "1995-07-21",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2596-1995.md",
+   "data_no_portal": "1995-07-27",
+   "data": "1995-07-21",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2598-1995.md",
+   "data_no_portal": "1995-08-07",
+   "data": "1995-08-03",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2603-1995.md",
+   "data_no_portal": "1995-08-18",
+   "data": "1995-08-17",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2613-1995.md",
+   "data_no_portal": "1995-09-06",
+   "data": "1995-09-05",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2615-1995.md",
+   "data_no_portal": "1995-10-10",
+   "data": "1995-09-14",
+   "dias": 26
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2619-1995.md",
+   "data_no_portal": "1995-09-28",
+   "data": "1995-09-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1995/circ-2650-1995.md",
+   "data_no_portal": "1995-12-28",
+   "data": "1995-12-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1996/circ-2696-1996.md",
+   "data_no_portal": "1996-06-21",
+   "data": "1996-06-20",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1996/circ-2703-1996.md",
+   "data_no_portal": "1996-07-04",
+   "data": "1996-07-03",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1996/circ-2710-1996.md",
+   "data_no_portal": "1996-08-16",
+   "data": "1996-08-15",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1996/circ-2725-1996.md",
+   "data_no_portal": "1996-11-01",
+   "data": "1996-10-30",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1996/circ-2726-1996.md",
+   "data_no_portal": "1996-11-06",
+   "data": "1996-10-31",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/1997/circ-2733-1997.md",
+   "data_no_portal": "1997-01-15",
+   "data": "1997-01-02",
+   "dias": 13
+  },
+  {
+   "path": "reguladores/bcb/circulares/1997/circ-2734-1997.md",
+   "data_no_portal": "1997-01-15",
+   "data": "1997-01-02",
+   "dias": 13
+  },
+  {
+   "path": "reguladores/bcb/circulares/1997/circ-2740-1997.md",
+   "data_no_portal": "1997-02-26",
+   "data": "1997-02-19",
+   "dias": 7
+  },
+  {
+   "path": "reguladores/bcb/circulares/1997/circ-2753-1997.md",
+   "data_no_portal": "1997-05-07",
+   "data": "1997-04-30",
+   "dias": 7
+  },
+  {
+   "path": "reguladores/bcb/circulares/1997/circ-2760-1997.md",
+   "data_no_portal": "1997-06-16",
+   "data": "1997-06-11",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/circulares/1997/circ-2785-1997.md",
+   "data_no_portal": "1997-11-28",
+   "data": "1997-11-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1998/circ-2812-1998.md",
+   "data_no_portal": "1998-03-19",
+   "data": "1998-03-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1998/circ-2822-1998.md",
+   "data_no_portal": "1998-06-08",
+   "data": "1998-06-03",
+   "dias": 5
+  },
+  {
+   "path": "reguladores/bcb/circulares/1998/circ-2839-1998.md",
+   "data_no_portal": "1998-09-17",
+   "data": "1998-09-16",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1998/circ-2846-1998.md",
+   "data_no_portal": "1998-11-03",
+   "data": "1998-10-30",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2856-1999.md",
+   "data_no_portal": "1999-01-20",
+   "data": "1999-01-18",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2859-1999.md",
+   "data_no_portal": "1999-01-28",
+   "data": "1999-01-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2864-1999.md",
+   "data_no_portal": "1999-02-25",
+   "data": "1999-02-24",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2883-1999.md",
+   "data_no_portal": "1999-04-30",
+   "data": "1999-04-29",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2887-1999.md",
+   "data_no_portal": "1999-05-13",
+   "data": "1999-05-12",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2891-1999.md",
+   "data_no_portal": "1999-05-27",
+   "data": "1999-05-26",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2892-1999.md",
+   "data_no_portal": "1999-05-27",
+   "data": "1999-05-26",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2906-1999.md",
+   "data_no_portal": "1999-07-07",
+   "data": "1999-06-30",
+   "dias": 7
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2907-1999.md",
+   "data_no_portal": "1999-07-01",
+   "data": "1999-06-30",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2916-1999.md",
+   "data_no_portal": "1999-08-19",
+   "data": "1999-08-06",
+   "dias": 13
+  },
+  {
+   "path": "reguladores/bcb/circulares/1999/circ-2954-1999.md",
+   "data_no_portal": "1999-12-03",
+   "data": "1999-12-02",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2000/circ-2958-2000.md",
+   "data_no_portal": "2000-01-07",
+   "data": "2000-01-06",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2000/circ-2969-2000.md",
+   "data_no_portal": "2000-03-29",
+   "data": "2000-03-14",
+   "dias": 15
+  },
+  {
+   "path": "reguladores/bcb/circulares/2000/circ-2973-2000.md",
+   "data_no_portal": "2000-03-29",
+   "data": "2000-03-23",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/2000/circ-2988-2000.md",
+   "data_no_portal": "2000-06-29",
+   "data": "2000-06-28",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2000/circ-2990-2000.md",
+   "data_no_portal": "2000-06-29",
+   "data": "2000-06-28",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2000/circ-2992-2000.md",
+   "data_no_portal": "2000-07-14",
+   "data": "2000-07-13",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2000/circ-2996-2000.md",
+   "data_no_portal": "2000-08-10",
+   "data": "2000-08-09",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2000/circ-3011-2000.md",
+   "data_no_portal": "2000-11-03",
+   "data": "2000-11-01",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/2001/circ-3031-2001.md",
+   "data_no_portal": "2001-05-11",
+   "data": "2001-05-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2001/circ-3032-2001.md",
+   "data_no_portal": "2001-05-11",
+   "data": "2001-05-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2001/circ-3033-2001.md",
+   "data_no_portal": "2001-05-11",
+   "data": "2001-05-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2001/circ-3034-2001.md",
+   "data_no_portal": "2001-05-11",
+   "data": "2001-05-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2001/circ-3038-2001.md",
+   "data_no_portal": "2001-06-07",
+   "data": "2001-06-06",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3074-2002.md",
+   "data_no_portal": "2002-01-07",
+   "data": "2002-01-04",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3075-2002.md",
+   "data_no_portal": "2002-01-07",
+   "data": "2002-01-04",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3085-2002.md",
+   "data_no_portal": "2002-02-15",
+   "data": "2002-02-07",
+   "dias": 8
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3087-2002.md",
+   "data_no_portal": "2002-03-05",
+   "data": "2002-03-01",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3094-2002.md",
+   "data_no_portal": "2002-03-04",
+   "data": "2002-03-01",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3097-2002.md",
+   "data_no_portal": "2002-03-07",
+   "data": "2002-03-06",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3101-2002.md",
+   "data_no_portal": "2002-04-01",
+   "data": "2002-03-28",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3107-2002.md",
+   "data_no_portal": "2002-04-11",
+   "data": "2002-04-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3108-2002.md",
+   "data_no_portal": "2002-04-11",
+   "data": "2002-04-10",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3114-2002.md",
+   "data_no_portal": "2002-04-18",
+   "data": "2002-04-17",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3137-2002.md",
+   "data_no_portal": "2002-07-12",
+   "data": "2002-07-11",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3138-2002.md",
+   "data_no_portal": "2002-07-26",
+   "data": "2002-07-25",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3140-2002.md",
+   "data_no_portal": "2002-08-01",
+   "data": "2002-07-31",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3145-2002.md",
+   "data_no_portal": "2002-08-23",
+   "data": "2002-08-21",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3147-2002.md",
+   "data_no_portal": "2002-09-05",
+   "data": "2002-09-04",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3158-2002.md",
+   "data_no_portal": "2002-10-25",
+   "data": "2002-10-23",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/2002/circ-3167-2002.md",
+   "data_no_portal": "2002-12-05",
+   "data": "2002-12-04",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2003/circ-3202-2003.md",
+   "data_no_portal": "2003-08-29",
+   "data": "2003-08-28",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2004/circ-3227-2004.md",
+   "data_no_portal": "2004-02-19",
+   "data": "2004-02-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2004/circ-3229-2004.md",
+   "data_no_portal": "2004-03-26",
+   "data": "2004-03-25",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2004/circ-3251-2004.md",
+   "data_no_portal": "2004-08-09",
+   "data": "2004-08-03",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/2004/circ-3263-2004.md",
+   "data_no_portal": "2004-11-24",
+   "data": "2004-11-23",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2005/circ-3296-2005.md",
+   "data_no_portal": "2005-10-20",
+   "data": "2005-10-19",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2006/circ-3328-2006.md",
+   "data_no_portal": "2006-10-10",
+   "data": "2006-10-04",
+   "dias": 6
+  },
+  {
+   "path": "reguladores/bcb/circulares/2007/circ-3351-2007.md",
+   "data_no_portal": "2007-06-25",
+   "data": "2007-06-08",
+   "dias": 17
+  },
+  {
+   "path": "reguladores/bcb/circulares/2007/circ-3365-2007.md",
+   "data_no_portal": "2007-09-14",
+   "data": "2007-09-12",
+   "dias": 2
+  },
+  {
+   "path": "reguladores/bcb/circulares/2007/circ-3373-2007.md",
+   "data_no_portal": "2007-12-21",
+   "data": "2007-12-20",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2009/circ-3472-2009.md",
+   "data_no_portal": "2009-10-27",
+   "data": "2009-10-23",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/circulares/2010/circ-3482-2010.md",
+   "data_no_portal": "2010-01-21",
+   "data": "2010-01-20",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/circulares/2010/circ-3485-2010.md",
+   "data_no_portal": "2010-02-25",
+   "data": "2010-02-24",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/1974/res-cmn-285-1974.md",
+   "data_no_portal": "1974-05-03",
+   "data": "1974-04-19",
+   "dias": 14
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/1986/res-cmn-1157-1986.md",
+   "data_no_portal": "1986-07-27",
+   "data": "1986-07-24",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/1991/res-cmn-1787-1991.md",
+   "data_no_portal": "1991-02-02",
+   "data": "1991-02-01",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/1991/res-cmn-1789-1991.md",
+   "data_no_portal": "1991-02-19",
+   "data": "1991-02-18",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/1992/res-cmn-1933-1992.md",
+   "data_no_portal": "1992-07-30",
+   "data": "1992-06-30",
+   "dias": 30
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/1993/res-cmn-1976-1993.md",
+   "data_no_portal": "1993-03-09",
+   "data": "1993-03-05",
+   "dias": 4
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/1994/res-cmn-2101-1994.md",
+   "data_no_portal": "1994-08-25",
+   "data": "1994-08-24",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/1998/res-cmn-2581-1998.md",
+   "data_no_portal": "1998-12-24",
+   "data": "1998-12-23",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/2003/res-cmn-3126-2003.md",
+   "data_no_portal": "2003-09-26",
+   "data": "2003-09-25",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/2004/res-cmn-3237-2004.md",
+   "data_no_portal": "2004-09-30",
+   "data": "2004-09-29",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/2004/res-cmn-3238-2004.md",
+   "data_no_portal": "2004-09-30",
+   "data": "2004-09-29",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/2006/res-cmn-3388-2006.md",
+   "data_no_portal": "2006-07-28",
+   "data": "2006-07-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/2006/res-cmn-3389-2006.md",
+   "data_no_portal": "2006-08-07",
+   "data": "2006-08-04",
+   "dias": 3
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/2006/res-cmn-3409-2006.md",
+   "data_no_portal": "2006-09-28",
+   "data": "2006-09-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/2006/res-cmn-3411-2006.md",
+   "data_no_portal": "2006-09-28",
+   "data": "2006-09-27",
+   "dias": 1
+  },
+  {
+   "path": "reguladores/bcb/resolucoes/2006/res-cmn-3428-2006.md",
+   "data_no_portal": "2006-12-22",
+   "data": "2006-12-21",
+   "dias": 1
+  }
+ ]
+}

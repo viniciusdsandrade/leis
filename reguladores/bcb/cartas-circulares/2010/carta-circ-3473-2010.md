@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 3.473, de 13 de dezembro de 2010"
+titulo: "Carta Circular nº 3.473, de 25 de novembro de 2010"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "3473"
-data: 2010-12-13
+data: 2010-11-25
 ementa: "Divulga instruções para o registro de operações de crédito contratadas ao amparo do art. 9º-U da Resolução nº 2.827, de 30 de março de 2001, incluído pela Resolução nº 3.907, de 30 de setembro de 2010, no Sistema de Registro de Operações de Crédito com o Setor Público (Cadip)."
+data_no_portal: "2010-12-13"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "3272949fa28c6ff2a15da5c13c62992471504d5e06f01a3281cb1dfb6ef3a802"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 3.473, de 13 de dezembro de 2010
+# Carta Circular nº 3.473, de 25 de novembro de 2010
 
 CARTA-CIRCULAR N. 003473
 

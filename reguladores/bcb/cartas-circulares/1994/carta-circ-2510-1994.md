@@ -1,11 +1,12 @@
 ---
-titulo: "Carta Circular nº 2.510, de 17 de novembro de 1994"
+titulo: "Carta Circular nº 2.510, de 16 de novembro de 1994"
 orgao: "Banco Central do Brasil"
 tipo: "Carta Circular"
 tipo_na_fonte: "Carta Circular"
 numero: "2510"
-data: 1994-11-17
+data: 1994-11-16
 ementa: "Divulga novo Demonstrativo do Saldo Exigivel - Recursos de Depositos e de Garantias Realizadas de que tratam as Circulares n.s 2.476, 2.498 e 2.507, de 08.09.94, 20.10.94 e 11.11.94, respectivamente, e presta outros esclarecimentos."
+data_no_portal: "1994-11-17"
 situacao: "revogado"
 revogada: true
 versao_texto: "texto mantido pelo Banco Central do Brasil no portal de normativos, com as alterações incorporadas e a redação revogada tachada quando houve alteração; não substitui a publicação no Diário Oficial da União"
@@ -14,7 +15,7 @@ fonte_texto: "https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?
 sha256_fonte: "93bde064fe364219c5182168f834f3b286964580888fd30251feb62a1f351578"
 baixado_em: 2026-11-20
 ---
-# Carta Circular nº 2.510, de 17 de novembro de 1994
+# Carta Circular nº 2.510, de 16 de novembro de 1994
 
 CARTA-CIRCULAR N. 002510
 
