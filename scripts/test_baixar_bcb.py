@@ -295,6 +295,10 @@ PDF_2989 = ("                                        CARTA-CIRCULAR Nº 2989\n\n
             "informamos os novos padrões de cores a serem utilizados na confecção das etiquetas.\n\n"
             "                                        Brasília, 12 de dezembro de 2001.\n")
 URL_2989 = "https://www.bcb.gov.br/pre/normativos/c_circ/2001/pdf/c_circ_2989_v1_o.pdf"
+# a carta com mais um parágrafo: o modo da página em imagem exige que o texto restante não seja só a epígrafe
+PDF_2989_LONGO = PDF_2989.replace("etiquetas.\n\n", "etiquetas.\n\n                As etiquetas confeccionadas nos padrões "
+                                  "anteriores poderão ser utilizadas até o esgotamento dos estoques existentes nas "
+                                  "instituições, observadas as demais condições da regulamentação em vigor.\n\n", 1)
 
 
 class PdfOriginal(Base):
@@ -303,9 +307,9 @@ class PdfOriginal(Base):
     def rede(self, pdf=(200, b"%PDF-1.4 recorte", "application/pdf"), **campos):
         return RedeFalsa({"exibenormativo": detalhe(**{**CARTA_2989, **campos}), "c_circ_2989_v1_o.pdf": pdf})
 
-    def processar(self, rede, texto=PDF_2989, imagens=()):
+    def processar(self, rede, texto=PDF_2989, imagens=(), imagem_pendente=False):
         with patch.object(b, "ler_pdf", return_value=(texto, list(imagens))):
-            return b.processar(rede, dict(self.ITEM), set(), pdf=True)
+            return b.processar(rede, dict(self.ITEM), set(), pdf=True, imagem_pendente=imagem_pendente)
 
     def test_arquivo_e_endereco_da_versao_original(self):
         self.assertEqual(b.arquivo_original(CARTA_2989["Documentos"]), "C_Circ_2989_v1_O.pdf")
@@ -424,6 +428,60 @@ class PdfOriginal(Base):
         estado, falha = self.processar(self.rede(), carta + "\fTÍTULO: CAIXAS ECONÔMICAS – 11\n")  # uma marca só
         self.assertEqual(estado, "retido")
         self.assertIn("ausente do PDF da versão original", falha["motivo"])
+
+    def test_texto_sem_paginas_em_imagem(self):
+        carta, anexo = "Comunicamos " * 30, "\f\f"
+        self.assertEqual(b.texto_sem_paginas_em_imagem(carta + anexo, [2, 3]), carta + anexo)
+        # a linha de cabeçalho que a página em imagem traz na camada de texto sai com ela
+        self.assertEqual(b.texto_sem_paginas_em_imagem(carta + "\fCarta-Circular nº 2.989 - fl. 2\f", [2]), carta + "\f\f")
+        self.assertIsNone(b.texto_sem_paginas_em_imagem(carta + anexo, [1, 2]))  # a primeira página é imagem
+        self.assertIsNone(b.texto_sem_paginas_em_imagem(carta + "\f" + "texto do OCR da origem " * 20, [2]))
+        self.assertIsNone(b.texto_sem_paginas_em_imagem("Comunicamos.\f", [2]))  # sobra curta demais
+
+    def test_pagina_em_imagem_como_pendencia(self):
+        carta = PDF_2989_LONGO.replace("etiquetas.\n\n", "etiquetas, conforme modelos anexos.\n\n", 1)
+        estado, info = self.processar(self.rede(), carta + "\f\f\f", [2, 3], imagem_pendente=True)
+        self.assertEqual(estado, "pendente")
+        self.assertEqual({k: info[k] for k in ("path", "tipo", "numero", "paginas_em_imagem", "paginas", "pdf")},
+                         {"path": "reguladores/bcb/cartas-circulares/2001/carta-circ-2989-2001.md", "tipo": "Carta Circular",
+                          "numero": 2989, "paginas_em_imagem": [2, 3], "paginas": 3, "pdf": URL_2989})
+        md = self.ler("cartas-circulares/2001/carta-circ-2989-2001.md")
+        self.assertIn('paginas_em_imagem: "2, 3 de 3: anexo, tabela ou formulário escaneado no PDF, sem transcrição', md)
+        self.assertIn("conforme modelos anexos", md)  # a remissão ao anexo não retém: o anexo é a pendência
+
+    def test_pagina_em_imagem_que_nao_da_para_tirar_continua_retida(self):
+        for caso, (texto, imagens) in {"primeira página": (PDF_2989_LONGO + "\f", [1]),
+                                       "camada de texto na imagem": (PDF_2989_LONGO + "\f" + "texto do OCR da origem " * 20, [2]),
+                                       "sobra curta": (PDF_2989 + "\f", [2])}.items():
+            with self.subTest(caso):
+                estado, falha = self.processar(self.rede(), texto, imagens, imagem_pendente=True)
+                self.assertEqual((estado, falha["motivo"]), ("retido", b.IMAGEM_NO_PDF))
+        # as outras conferências do PDF continuam valendo
+        estado, falha = self.processar(self.rede(), PDF_2989_LONGO.replace("Nº 2989", "Nº 2988") + "\f", [2], imagem_pendente=True)
+        self.assertIn("difere do índice", falha["motivo"])
+        self.assertFalse(list(b.PASTA.glob("*/*/*.md")))
+
+    def test_modo_pagina_em_imagem_troca_a_retencao_e_anota_a_pendencia(self):
+        b.INDICE.mkdir(parents=True)
+        outro = {"id": "1", "tipo": "Carta Circular", "numero": 2990, "data": "2001-12-13"}
+        (b.INDICE / "carta-circular.json").write_text(json.dumps([self.ITEM, outro]), encoding="utf-8")
+        linhas = [{"tipo": "Carta Circular", "numero": 2989, "id": "46990", "motivo": b.IMAGEM_NO_PDF},
+                  {"tipo": "Carta Circular", "numero": 2990, "id": "1", "motivo": b.IMAGEM_NO_PDF},
+                  {"tipo": "Carta Circular", "numero": 7, "id": "7", "motivo": b.SO_PDF}]
+        b.FALHAS.write_text("".join(json.dumps(l) + "\n" for l in linhas), encoding="utf-8")
+        rede = RedeFalsa({"p2=2989": detalhe(**CARTA_2989), "c_circ_2989_v1_o.pdf": (200, b"%PDF-1.4 a", "application/pdf"),
+                          "p2=2990": detalhe(**{**CARTA_2989, "Numero": 2990.0, "DataTexto": "13/12/2001 00:00",
+                                                 "Documentos": "C_Circ_2990_v1_O.pdf;16#;"}),
+                          "c_circ_2990_v1_o.pdf": (200, b"%PDF-1.4 b", "application/pdf")})
+        lidos = iter([(PDF_2989_LONGO.replace("2989", "2990") + "\f", [1]), (PDF_2989_LONGO + "\f", [2])])
+        with patch.object(b, "Rede", lambda rps: rede), patch.object(b, "ler_pdf", lambda pdf: next(lidos)):
+            self.assertEqual(b.main(["--tipos", "Carta Circular", "--pagina-em-imagem"]), 0)
+        # a 2990 (mais recente, processada antes) tem a primeira página em imagem e continua retida; a 7 não é deste modo
+        self.assertEqual(sorted((json.loads(l)["numero"], json.loads(l)["motivo"]) for l in b.FALHAS.read_text(encoding="utf-8").splitlines()),
+                         [(7, b.SO_PDF), (2990, b.IMAGEM_NO_PDF)])
+        pendencias = [json.loads(l) for l in (b.PASTA / "_paginas_em_imagem.jsonl").read_text(encoding="utf-8").splitlines()]
+        self.assertEqual([(p["numero"], p["paginas_em_imagem"]) for p in pendencias], [(2989, [2])])
+        self.assertTrue((b.PASTA / "cartas-circulares/2001/carta-circ-2989-2001.md").exists())
 
     def test_modo_pdf_troca_so_a_retencao_antiga_do_pdf(self):
         b.INDICE.mkdir(parents=True)
