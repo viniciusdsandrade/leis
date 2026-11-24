@@ -18,16 +18,16 @@ Mantido por **[Vinícius Andrade](https://github.com/viniciusdsandrade)** · [de
 
 ## O acervo
 
-Em 24/11/2026 eram **1.495.083 documentos**. As contagens por série, com meta, fonte e pasta,
+Em 24/11/2026 eram **1.495.094 documentos**. As contagens por série, com meta, fonte e pasta,
 são regeneradas a cada commit em **[PROGRESSO.md](PROGRESSO.md)**, a partir do escopo definido em
 [`scripts/plano.py`](scripts/plano.py).
 
 | Fase | Escopo | Documentos | Cobertura da meta |
 | --- | --- | ---: | ---: |
 | 1 | Legislação federal e leis estaduais | 530.505 | 91,2% |
-| 2 | Infralegal e jurisprudência | 835.805 | 80,1% |
+| 2 | Infralegal e jurisprudência | 835.816 | 80,1% |
 | 3 | Direito municipal | 128.773 | 1,1% |
-| | **Total** | **1.495.083** | |
+| | **Total** | **1.495.094** | |
 
 [COBERTURA.md](COBERTURA.md) traz os números por esfera e tipo, com as lacunas.
 [estatisticas.html](estatisticas.html) reúne gráficos sobre o acervo num arquivo único, que abre
@@ -276,7 +276,7 @@ obtido; cada caso tem uma linha, com o motivo, no `_falhas.jsonl` da pasta.
 | **Jarinu**: 420 das 421 normas coletadas do SAPL da Câmara | retidas no fechamento do SAPL (`auditar_integralidade_pdf_sapl.py` e `auditar_imagens_pdf_sapl.py`): as de 1995 a 2020 são PDFs escaneados com o OCR da origem embutido e não entram como nascidas digitais (200 com imagem de página inteira, 106 com texto que diverge do PDF); as de 2021 a 2026, nascidas digitais, não passam no confronto integral porque o coletor descarta o timbre e o carimbo 1Doc da margem, que o confronto não desconta (110), e 4 têm imagem a revisar. Entra só a Resolução nº 2/2019 |
 | **Banco Central**: 457 dos 14.878 normativos do portal | retidos em [`reguladores/bcb/_falhas.jsonl`](reguladores/bcb/_falhas.jsonl): 285 com anexo próprio referido e ausente do texto (214 no texto do portal, 71 no PDF), 57 com imagem no texto, 36 com página em imagem no PDF que não dá para separar do texto (a primeira página é imagem, ou a página em imagem traz o OCR da origem), 26 números não utilizados, 25 de 2016 em diante cujo PDF só está em `/Lists/` (proibido pelo `robots.txt`), 15 com a data do PDF diferente da do portal, 11 com erro de digitação no número do PDF, 1 vazio e 1 sem a versão original listada. Estão publicados e no registro de pendências de integralidade, sem contar no progresso: 485 de 1974 a 1989 em que o PDF traz o anexo, a tabela ou o formulário em imagem (o arquivo tem só o texto das outras páginas e o campo `paginas_em_imagem` diz quais ficaram de fora; lista em [`reguladores/bcb/_paginas_em_imagem.jsonl`](reguladores/bcb/_paginas_em_imagem.jsonl)) e 213 que citam anexo que não está no texto; os 44.003 Comunicados ficam fora |
 | **CONAMA**: 13 dos 484 registros de 1984 a 2016 na listagem do portal | retidos em [`reguladores/conama/_falhas.jsonl`](reguladores/conama/_falhas.jsonl): 6 sem arquivo, 2 registros com número repetido na listagem, 2 com a epígrafe que não confere com a listagem (a 21/1993 traz "N.º 2A"), 2 arquivos que não são PDF (página de erro e arquivo vazio) e 1 PDF escaneado, que pede OCR |
-| **CONFAZ**: 78 dos 6.812 convênios, 120 dos 3.239 protocolos e 4 dos 840 ajustes SINIEF do portal | retidos em [`reguladores/confaz/_falhas.jsonl`](reguladores/confaz/_falhas.jsonl): 99 em que as datas do próprio texto não concordam (epígrafe ou fecho diferente do preâmbulo), 56 sem data no texto (entre eles a série de protocolos de 1976 que só traz a data da publicação), 23 com a publicação no DOU anterior à data do ato, 12 com a epígrafe sem leitura (mês ou ano truncado, espécie ausente), 9 com a epígrafe de outro número ou de outra espécie que não a do endereço, 2 com tabela que o conversor recusa e 1 sem cláusula nem artigo |
+| **CONFAZ**: 67 dos 6.812 convênios, 120 dos 3.239 protocolos e 4 dos 840 ajustes SINIEF do portal | retidos em [`reguladores/confaz/_falhas.jsonl`](reguladores/confaz/_falhas.jsonl): 88 em que as datas do próprio texto não concordam (epígrafe ou fecho diferente do preâmbulo, sem um fecho que desempate), 56 sem data no texto (entre eles a série de protocolos de 1976 que só traz a data da publicação), 23 com a publicação no DOU anterior à data do ato, 12 com a epígrafe sem leitura (mês ou ano truncado, espécie ausente), 9 com a epígrafe de outro número ou de outra espécie que não a do endereço, 2 com tabela que o conversor recusa e 1 sem cláusula nem artigo |
 | **CONFAZ**: 36 atos do portal publicados sem as imagens do corpo (30 protocolos, 5 convênios e 1 ajuste SINIEF) | registrados em [`scripts/dados/pendencias-integralidade-publicadas.json`](scripts/dados/pendencias-integralidade-publicadas.json) e listados em [`reguladores/confaz/_imagens_pendentes.jsonl`](reguladores/confaz/_imagens_pendentes.jsonl): a imagem é o modelo de documento, o mapa ou a tabela escaneada que o ato anexa; o campo `imagens_nao_transcritas` do arquivo diz quantas ficaram de fora, e eles não contam no progresso |
 | **CONTRAN**: resoluções 1.020 a 1.031 | não aparecem no DOU sob a hierarquia do CONTRAN |
 
