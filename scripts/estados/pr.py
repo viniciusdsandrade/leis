@@ -211,9 +211,9 @@ def ano_da_epigrafe(epigrafe):
 
 
 # Epígrafe com o ano de três dígitos, só tentada quando a de quatro não casa ("Decreto 7381 - 19 de Abril de 201")
-EPIGRAFE_ANO_TRUNCADO = re.compile(r"(\d{1,2})[º°]? de (\w+) (?:de )?(\d{3})\b")
-NUMERO_EPIGRAFE = re.compile(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})")
-NUMERO_EPIGRAFE_ANO_TRUNCADO = re.compile(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? de (\w+) (?:de )?(\d{3})\b")
+EPIGRAFE_ANO_TRUNCADO = re.compile(r"(\d{1,2})[º°]? ?de (\w+) (?:de )?(\d{3})\b")
+NUMERO_EPIGRAFE = re.compile(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? ?de (\w+) (?:de )?(\d{4})")
+NUMERO_EPIGRAFE_ANO_TRUNCADO = re.compile(r"([\d.]+)\s*-\s*(\d{1,2})[º°]? ?de (\w+) (?:de )?(\d{3})\b")
 
 
 def _sem_um_digito(completo, truncado):
@@ -301,7 +301,7 @@ def data_da_epigrafe(titulo, trecho=""):
     branco, como antes, e a auditoria avisa.
     """
     titulo = consertar_mes(titulo)
-    m = re.search(r"(\d{1,2})[º°]? de (\w+) (?:de )?(\d{4})", titulo) or EPIGRAFE_ANO_TRUNCADO.search(titulo)
+    m = re.search(r"(\d{1,2})[º°]? ?de (\w+) (?:de )?(\d{4})", titulo) or EPIGRAFE_ANO_TRUNCADO.search(titulo)
     if not m or sem_acento(m.group(2).lower()) not in MESES:
         return data_sem_extenso(titulo, trecho)
     dia, mes, ano = int(m.group(1)), MESES[sem_acento(m.group(2).lower())], m.group(3)
@@ -439,8 +439,9 @@ def processar(it):
     pasta, nome, prefixo = TIPOS[it["tipo"]]
     url = f"{B}/exibirAto.do?action=iniciarProcesso&codAto={it['codAto']}"  # o mesmo endereço pedido em pagina_do_ato
     epi = it.get("epigrafe") or ""
-    # dia 1º vem com ordinal; às vezes falta o "de" antes do ano ("Decreto 7092 - 16 de agosto 2024"); o número vale
-    # mesmo quando a fonte perdeu um dígito do ano ("Decreto 7381 - 19 de Abril de 201"), mas esse ano não nomeia pasta
+    # dia 1º vem com ordinal; às vezes falta o "de" antes do ano ("Decreto 7092 - 16 de agosto 2024") ou o espaço depois
+    # do dia ("Decreto 8884 - 29de Novembro de 2010"); o número vale mesmo quando a fonte perdeu um dígito do ano
+    # ("Decreto 7381 - 19 de Abril de 201"), mas esse ano não nomeia pasta
     epi = consertar_mes(epi)
     num = NUMERO_EPIGRAFE.search(epi) or NUMERO_EPIGRAFE_ANO_TRUNCADO.search(epi)
     ano = it.get("ano") or (num.group(4) if num and len(num.group(4)) == 4 else "sem-ano")
