@@ -274,6 +274,34 @@ class Montagem(unittest.TestCase):
             finally:
                 c.RAIZ, c.PASTA, c.FONTE, c.IMAGENS_PENDENTES = antes
 
+    def test_fecho_desempata_a_epigrafe_e_o_preambulo_de_datas_diferentes(self):
+        it = item("ajustes", 2025, 11, "AJ011_25")
+        fecho = lambda html, *datas: html.replace("</div><div>rodapé", "".join(f"<p>Brasília, DF, {d}.</p>" for d in datas) + "</div><div>rodapé")
+        # a epígrafe traz outra data (no portal, quase sempre a da publicação); o preâmbulo e o fecho, a do ato
+        na_epigrafe = AJ_2025.replace("DE 29 DE ABRIL DE 2025", "DE 30 DE ABRIL DE 2025")
+        meta, r = self.meta(it, fecho(na_epigrafe, "29 de abril de 2025"))
+        self.assertEqual((meta["data"], meta["data_na_epigrafe_da_fonte"]), ("2025-04-29", "2025-04-30"))
+        self.assertEqual(meta["titulo"], "Ajuste SINIEF nº 11, de 29 de abril de 2025")
+        self.assertIn("AJUSTE SINIEF Nº 11, DE 30 DE ABRIL DE 2025", r["corpo"])  # a redação da fonte fica no corpo
+        self.assertNotIn("data_no_preambulo_da_fonte", meta)
+        # o erro é do preâmbulo: a epígrafe e o fecho concordam
+        no_preambulo = AJ_2025.replace("no dia 29 de abril de 2025", "no dia 29 de março de 2025")
+        meta = self.meta(it, fecho(no_preambulo, "29 de abril de 2025"))[0]
+        self.assertEqual((meta["data"], meta["data_no_preambulo_da_fonte"]), ("2025-04-29", "2025-03-29"))
+        self.assertNotIn("data_na_epigrafe_da_fonte", meta)
+        # sem fecho, com um fecho para cada data ou com o fecho numa terceira data, continua retido
+        for caso in (na_epigrafe, fecho(na_epigrafe, "29 de abril de 2025", "30 de abril de 2025"),
+                     fecho(na_epigrafe, "30 de abril de 2025", "29 de abril de 2025"), fecho(na_epigrafe, "28 de abril de 2025"),
+                     no_preambulo, fecho(no_preambulo, "29 de março de 2025", "29 de abril de 2025")):
+            estado, r = c.montar(it, caso)
+            self.assertEqual((estado, r.get("motivo")), ("retido", "epígrafe e preâmbulo com datas diferentes"), caso[-200:])
+        # a data que o fecho confirma ainda tem de passar pelas outras condições: publicação anterior ao ato retém
+        publicado_antes = fecho(na_epigrafe, "29 de abril de 2025").replace("30.04.25", "28.04.25")
+        self.assertEqual(c.montar(it, publicado_antes)[1]["motivo"], "publicação no DOU anterior à data do ato")
+        # quando as datas concordam o cabeçalho não ganha campo
+        igual = self.meta(it, fecho(AJ_2025, "29 de abril de 2025"))[0]
+        self.assertFalse({"data_na_epigrafe_da_fonte", "data_no_preambulo_da_fonte"} & set(igual))
+
     def test_data_de_outro_ano_no_fecho_de_um_anexo_nao_e_a_do_ato(self):
         html = CV_1976.replace("</div><div>rodapé", "<p>Rio de Janeiro, 8 de abril de 1974.</p></div><div>rodapé")
         self.assertEqual(self.meta(item("convenios", 1976, 16, "CV016_76"), html)[0]["data"], "1976-06-15")

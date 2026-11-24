@@ -21,7 +21,9 @@ O texto é o que o portal publica: o ato com as notas de alteração, prorrogaç
   146, DE 28 DE SETEMBRO DE 2012");
 - a data do ato sai da epígrafe ou, nos antigos, do fecho ("Aracaju, SE, 24 de setembro de 2004.") ou do preâmbulo
   ("realizada em Brasília, DF, no dia 15 de julho de 1975"), no ano do endereço; a data do preâmbulo, quando existe,
-  tem de ser a mesma, e a da publicação no DOU não pode ser anterior;
+  tem de ser a mesma, e a da publicação no DOU não pode ser anterior; quando a epígrafe e o preâmbulo discordam, o
+  fecho desempata e a data desmentida vai para o cabeçalho (`data_na_epigrafe_da_fonte` ou
+  `data_no_preambulo_da_fonte`);
 - o corpo tem cláusula ou artigo (ou, no ato antigo de dispositivo único, o verbo de quem celebra e o fecho com a
   data do ato) e não traz imagem (a tabela ou o modelo em imagem não vira texto).
 
@@ -335,8 +337,18 @@ def montar(item, html, imagem_pendente=False):
     data = epigrafe["data"]
     # o portal erra a data na epígrafe ou no fecho ("DE 1º DE JULHO DE 2022" num ajuste da reunião de 13 de junho,
     # publicado em 14 de junho): as datas que o texto traz têm de concordar
+    desmentida = None
     if data and preambulos and data != preambulos[0]:
-        return "retido", {"motivo": "epígrafe e preâmbulo com datas diferentes", "epigrafe": data, "preambulo": preambulos[0]}
+        # O fecho do próprio texto desempata. "CONVÊNIO ICMS 121, DE 29 DE SETEMBRO DE 1992" traz na epígrafe a data da
+        # publicação; a reunião foi "no dia 25 de setembro de 1992" e o ato fecha em "Cuiabá, MT, 25 de setembro de
+        # 1992.": a data é a do fecho e a da epígrafe vai para o cabeçalho. O inverso também ("no dia 5 de novembro"
+        # num convênio de 5 de dezembro, que fecha em 5 de dezembro). Sem fecho, ou com um fecho para cada data, retém.
+        if fechos and fechos[0] == preambulos[0] and data not in fechos:
+            desmentida, data = ("data_na_epigrafe_da_fonte", data), preambulos[0]
+        elif fechos and fechos[0] == data and preambulos[0] not in fechos:
+            desmentida = ("data_no_preambulo_da_fonte", preambulos[0])
+        else:
+            return "retido", {"motivo": "epígrafe e preâmbulo com datas diferentes", "epigrafe": data, "preambulo": preambulos[0]}
     if not data:
         if fechos and preambulos and fechos[0] != preambulos[0]:
             return "retido", {"motivo": "fecho e preâmbulo com datas diferentes", "fecho": fechos[0],
@@ -365,6 +377,8 @@ def montar(item, html, imagem_pendente=False):
     revogada = True if marca or any(re.match(r"(?i)^revogad[oa](?:[\s,.]|$)(?! *(?:a|o|as|os) (?!partir\b))", s)
                                     for s in situacao) else None
     meta = [("titulo", titulo), ("orgao", ORGAO), ("tipo", tipo), ("numero", str(item["numero"])), ("data", data)]
+    if desmentida:  # a redação da fonte fica no corpo; o cabeçalho diz qual data ela traz e o fecho desmente
+        meta.append(desmentida)
     if ementa:
         meta.append(("ementa", ementa))
     meta.append(("revogada", revogada))
