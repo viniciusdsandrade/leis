@@ -291,6 +291,25 @@ def data_do_fecho(trecho):
     return data if 0 <= (publicado - data).days <= 60 else None
 
 
+EPIGRAFE_DESMENTIDA = "epígrafe com data posterior à publicação e de ano diferente do fecho"
+
+
+def epigrafe_desmentida(titulo, trecho):
+    """Retenção do ato cuja epígrafe é desmentida pela publicação e pelo fecho da própria página, ou None.
+
+    "Decreto 10935 - 14 de Agosto de 2026" (codAto 384836) saiu no Diário Oficial de 9 de fevereiro de 2026 e fecha com
+    "Curitiba, 14 de Agosto de 2025": o ano do título é erro da fonte. Com duas testemunhas contra a epígrafe o
+    coletor não afirma nem o ano dela nem o do fecho (no codAto 384864 o fecho também troca o mês). Só a publicação
+    anterior não basta: na maior parte desses casos o erro está na linha da publicação, e o fecho repete a epígrafe.
+    """
+    data, publicado = data_da_epigrafe(titulo, trecho), data_da_publicacao(trecho)
+    fechos = FECHO_CURITIBA.findall(limpar(trecho))
+    if not (data and publicado and fechos) or publicado.isoformat() >= data or fechos[-1][2] == data[:4]:
+        return None
+    return {"motivo": EPIGRAFE_DESMENTIDA, "epigrafe": data, "publicacao": publicado.isoformat(),
+            "fecho": " de ".join(fechos[-1])}
+
+
 def data_sem_extenso(titulo, trecho):
     """Data do ato cuja epígrafe não a traz por extenso: a data numérica do título ("ADAPAR - 001 16/07/2025") ou,
     sem ela, a do fecho ("Curitiba, 20 de dezembro de 2021"), esta só quando a publicação vem de 0 a 60 dias depois."""
@@ -556,6 +575,9 @@ def processar(it):
             return "pulado", None
         if glob.glob(os.path.join(os.path.dirname(os.path.dirname(md)), "*", f"*-id{it['codAto']}.md")):
             return "pulado", None
+    desmentida = epigrafe_desmentida(titulo, trecho)
+    if desmentida:
+        return "sem_texto", {"codAto": it["codAto"], **desmentida}
     secoes, anexos_transcritos = [], ""
     if "exibirAnexo(" in trecho:  # a lei remete a anexos em PDF (tabelas, mapas), que não estão no HTML do ato
         if not COM_ANEXOS:

@@ -278,6 +278,40 @@ class Recusa(unittest.TestCase):
             with self.subTest(caso):
                 self.assertEqual(pr.data_da_epigrafe(titulo, trecho), "")
 
+    def test_epigrafe_desmentida_pela_publicacao_e_pelo_fecho_fica_retida(self):
+        # codAto 384836 (24/11/2026): decreto de 2025 que a fonte intitula com 2026 e lista nos dois anos
+        titulo = "Decreto 10935 - 14 de Agosto de 2026"
+        publicado = "<p>Publicado no Diário Oficial nº. 12083 de 9 de Fevereiro de 2026</p>"
+        fecho = "<p>Curitiba, 14 de Agosto de 2025, 204º da Independência e 137º da República.</p>"
+        self.assertEqual(
+            pr.epigrafe_desmentida(titulo, publicado + fecho),
+            {"motivo": pr.EPIGRAFE_DESMENTIDA, "epigrafe": "2026-08-14", "publicacao": "2026-02-09",
+             "fecho": "14 de Agosto de 2025"})
+        segue = {
+            "fecho no ano da epígrafe (o erro é da linha da publicação)": publicado + fecho.replace("2025", "2026"),
+            "sem fecho": publicado,
+            "publicação depois da epígrafe": publicado.replace("Fevereiro", "Setembro") + fecho,
+            "publicação no dia da epígrafe": publicado.replace("9 de Fevereiro", "14 de Agosto") + fecho,
+        }
+        for caso, trecho in segue.items():
+            with self.subTest(caso):
+                self.assertIsNone(pr.epigrafe_desmentida(titulo, trecho))
+
+        pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
+        os.makedirs(pasta, exist_ok=True)
+        html = (f"<html><body><h3>{titulo}</h3>{publicado}<p>DECRETA:</p><p>Art. 1º Fica aberto um crédito suplementar "
+                f"ao Orçamento Geral do Estado.</p>{fecho}</form></body></html>")
+        with open(os.path.join(pasta, "384836.html.gz"), "wb") as f:
+            f.write(gzip.compress(html.encode("utf-8")))
+        it = {"codAto": "384836", "tipo": "11", "ano": "2026", "epigrafe": titulo, "ementa": "x"}
+        with patch.object(pr.rede, "get", side_effect=AssertionError("não deveria ir à rede")), \
+                patch.object(pr, "listado_em", return_value=False):
+            status, extra = pr.processar(it)
+        self.assertEqual(status, "sem_texto")
+        self.assertEqual(extra["codAto"], "384836")
+        self.assertEqual(extra["motivo"], pr.EPIGRAFE_DESMENTIDA)
+        self.assertFalse(os.path.exists(os.path.join(self.tmp.name, "PR", "decretos", "2026")))
+
     def test_lei_com_anexos_em_pdf_fica_fora_com_motivo(self):
         pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
         os.makedirs(pasta)
