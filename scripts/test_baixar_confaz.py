@@ -90,6 +90,31 @@ class Montagem(unittest.TestCase):
         self.assertTrue(r["corpo"].startswith("# Convênio ICMS nº 106, de 24 de setembro de 2004\n\n**CONVÊNIO ICMS 106/04**"))
         self.assertNotIn("rodapé", r["corpo"])
 
+    def test_convenio_sem_o_imposto_na_epigrafe_e_icms_de_1990_em_diante(self):
+        html = CV_2004.replace("CONVÊNIO ICMS 106/04", "CONVÊNIO Nº 106, DE 24 DE SETEMBRO DE 2004")
+        meta, r = self.meta(item("convenios", 2004, 106, "CV106_04"), html)
+        self.assertEqual((meta["tipo"], r["slug"]), ("Convênio ICMS", "convenio-icms-106-2004"))
+        self.assertIn("CONVÊNIO Nº 106, DE 24 DE SETEMBRO DE 2004", r["corpo"])
+        # antes de 1990 a série tem ICM e AE: sem o imposto na epígrafe, o tipo fica como a fonte o traz
+        antigo = html.replace("DE 2004", "DE 1984").replace("de 2004", "de 1984")
+        meta, r = self.meta(item("convenios", 1984, 106, "CV106_84"), antigo)
+        self.assertEqual((meta["tipo"], r["slug"]), ("Convênio", "convenio-106-1984"))
+
+    def test_ato_que_ja_esta_no_acervo_pelo_diario_oficial_nao_ganha_segundo_arquivo(self):
+        import tempfile
+        with tempfile.TemporaryDirectory() as tmp:
+            pasta, c.PASTA = c.PASTA, Path(tmp)
+            try:
+                it = item("convenios", 2021, 84, "CV084_21")
+                self.assertFalse(c.ja_no_acervo_pelo_diario(it))
+                (Path(tmp) / "convenios" / "2021").mkdir(parents=True)
+                (Path(tmp) / "convenios" / "2021" / "convenio-icms-n-84-de-31-de-maio-de-2021-323170484.md").write_text("x")
+                self.assertTrue(c.ja_no_acervo_pelo_diario(it))
+                self.assertEqual(c.processar(None, it), ("pulado", None))
+                self.assertFalse(c.ja_no_acervo_pelo_diario(item("convenios", 2021, 8, "CV008_21")))
+            finally:
+                c.PASTA = pasta
+
     def test_protocolo_com_a_data_na_epigrafe(self):
         meta, r = self.meta(item("protocolos", 2012, 146, "pt146_12"), PT_2012)
         self.assertEqual((meta["titulo"], meta["data"], meta["data_publicacao"]),

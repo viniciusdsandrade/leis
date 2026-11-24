@@ -275,6 +275,10 @@ def nome_do_tipo(epigrafe, item):
     if epigrafe["especie"] == "ajuste sinief":
         return "Ajuste SINIEF"
     imposto = epigrafe["imposto"].upper()
+    # "CONVÊNIO Nº 59, DE 8 DE MAIO DE 2026", sem o imposto na epígrafe, é o Convênio ICMS 59/26: o endereço é o da
+    # série (CV059_26) e, de 1990 em diante, ela só tem convênios ICMS. O corpo guarda a epígrafe como a fonte a traz.
+    if not imposto and item["secao"] == "convenios" and item["ano"] >= 1990:
+        imposto = "ICMS"
     return (epigrafe["especie"].replace("convenio", "Convênio").replace("protocolo", "Protocolo")
             + (" " + imposto if imposto else ""))
 
@@ -359,6 +363,12 @@ def slugs_possiveis(item):
     return [f"{b}-{item['numero']}-{item['ano']}" for b in base]
 
 
+def ja_no_acervo_pelo_diario(item):
+    """O ato já está no acervo pela publicação original no Diário Oficial, no arquivo com o nome que o DOU lhe dá
+    ("convenio-icms-n-84-de-31-de-maio-de-2021-323170484.md"): o texto do portal não entra como um segundo arquivo."""
+    return any((PASTA / item["secao"] / str(item["ano"])).glob(f"*-n-{item['numero']}-de-*.md"))
+
+
 def obter(rede, url):
     status, dados, _ = rede.get(url, accept="text/html")
     if status in (401, 403, 429):
@@ -376,6 +386,8 @@ def processar(rede, item):
             cabecalho = md.read_text(encoding="utf-8").split("\n---\n", 1)[0].lower()
             if item["url"].lower().rstrip("/") in cabecalho or item["secao"] != "convenios" or item["ano"] != 1989:
                 return "pulado", None
+    if ja_no_acervo_pelo_diario(item):
+        return "pulado", None
     cache = FONTE / item["secao"] / str(item["ano"]) / (item["url"].rsplit("/", 1)[1].lower() + ".html.gz")
     if cache.exists():
         html = gzip.open(cache).read().decode("utf-8", "replace")
