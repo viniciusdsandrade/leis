@@ -27,9 +27,15 @@ O texto é o que o portal publica: o ato com as notas de alteração, prorrogaç
 
 O que não passa fica em reguladores/confaz/_falhas.jsonl, com o motivo.
 
+Com `--imagem-pendente`, o ato retido só pela imagem no corpo (o modelo de documento, o mapa ou a tabela escaneada)
+entra sem ela: todas as outras condições continuam valendo, o front matter diz quantas imagens ficaram de fora
+(`imagens_nao_transcritas`) e o arquivo é anotado em reguladores/confaz/_imagens_pendentes.jsonl, de onde vai para o
+registro de pendências de integralidade (scripts/dados/pendencias-integralidade-publicadas.json).
+
     python3 -I scripts/baixar_confaz.py --indice
     python3 -I scripts/baixar_confaz.py --secoes convenios --de 1975 --ate 1975 --despejar
     python3 -I scripts/baixar_confaz.py --de 1966 --ate 2026
+    python3 -I scripts/baixar_confaz.py --imagem-pendente
 """
 import argparse
 import collections
@@ -51,6 +57,9 @@ PASTA = RAIZ / "reguladores" / "confaz"
 FONTE = RAIZ / "reguladores" / "_fonte" / "confaz"
 INDICE = PASTA / "_indice"
 FALHAS = PASTA / "_falhas.jsonl"
+IMAGENS_PENDENTES = PASTA / "_imagens_pendentes.jsonl"
+IMAGEM_NO_CORPO = "imagem no corpo do ato: tabela ou modelo que não vira texto"
+IMAGEM = re.compile(r"<img\b[^>]*>", re.I)
 BASE = "https://www.confaz.fazenda.gov.br/"
 SITEMAP = BASE + "sitemap.xml.gz"
 RPS = 0.5
@@ -296,13 +305,19 @@ def nome_do_tipo(epigrafe, item):
             + (" " + imposto if imposto else ""))
 
 
-def montar(item, html):
-    """("ok", dados do arquivo) ou ("retido", motivo e detalhe), a partir do HTML da página."""
+def montar(item, html, imagem_pendente=False):
+    """("ok", dados do arquivo) ou ("retido", motivo e detalhe), a partir do HTML da página.
+
+    Com `imagem_pendente`, o ato com imagem no corpo é montado sem ela e os dados trazem "imagens" (quantas e o tamanho
+    da maior): todas as outras condições continuam valendo."""
     corpo_html = corpo_da_pagina(html)
     if not corpo_html:
         return "retido", {"motivo": "página sem o bloco de texto do ato"}
-    if re.search(r"<img\b", corpo_html, re.I):
-        return "retido", {"motivo": "imagem no corpo do ato: tabela ou modelo que não vira texto"}
+    imagens = IMAGEM.findall(corpo_html)
+    if imagens and not imagem_pendente:
+        return "retido", {"motivo": IMAGEM_NO_CORPO}
+    if imagens:
+        corpo_html = IMAGEM.sub("", corpo_html)
     try:
         corpo = convert(corpo_html).strip()
     except ValueError as e:
@@ -356,13 +371,21 @@ def montar(item, html):
     if situacao:
         meta.append(("situacao_fonte", " ".join(situacao)))
     meta.append(("versao_texto", VERSAO))
+    if imagens:
+        n = len(imagens)
+        meta.append(("imagens_nao_transcritas", f"{n} {'imagem' if n == 1 else 'imagens'} no corpo do ato na página da "
+                     "fonte (modelo de documento, mapa ou tabela escaneada), sem transcrição neste arquivo"))
     if publicacao:
         meta.append(("publicacao", publicacao))
         if data_publicacao:
             meta.append(("data_publicacao", data_publicacao))
     meta += [("fonte", item["url"]), ("sha256_html_fonte", hashlib.sha256(html.encode("utf-8")).hexdigest())]
     slug = f"{sem_acento(tipo).lower().replace(' ', '-')}-{item['numero']}-{ano}"
-    return "ok", {"slug": slug, "meta": meta, "corpo": f"# {titulo}\n\n{corpo}\n"}
+    dados = {"slug": slug, "meta": meta, "corpo": f"# {titulo}\n\n{corpo}\n"}
+    if imagens:
+        tamanhos = [len(m.group(1)) * 3 // 4 for i in imagens for m in [re.search(r"base64,([^\"']*)", i)] if m]
+        dados["imagens"] = {"imagens": len(imagens), "maior_imagem_bytes": max(tamanhos, default=None)}
+    return "ok", dados
 
 
 def caminho_md(item, slug):
@@ -389,7 +412,18 @@ def obter(rede, url):
     return status, dados
 
 
-def processar(rede, item):
+def anotar_imagem_pendente(registro):
+    """Anota em _imagens_pendentes.jsonl o ato gravado sem as imagens do corpo (uma linha por arquivo)."""
+    linhas = []
+    if IMAGENS_PENDENTES.exists():
+        linhas = [l for l in IMAGENS_PENDENTES.read_text(encoding="utf-8").splitlines()
+                  if l.strip() and json.loads(l)["path"] != registro["path"]]
+    linhas.append(json.dumps(registro, ensure_ascii=False, sort_keys=True))
+    IMAGENS_PENDENTES.write_text("".join(l + "\n" for l in sorted(linhas, key=lambda l: json.loads(l)["path"])),
+                                 encoding="utf-8")
+
+
+def processar(rede, item, imagem_pendente=False):
     falha = {"secao": item["secao"], "ano": item["ano"], "numero": item["numero"], "url": item["url"]}
     # a numeração do ICM e a do ICMS correram juntas em 1989: o arquivo que já existe só dispensa a rede quando é
     # deste endereço
@@ -409,7 +443,7 @@ def processar(rede, item):
         if status != 200:
             return "retido", {**falha, "motivo": f"a página respondeu HTTP {status}"}
         html = dados.decode("utf-8", "replace")
-    estado, r = montar(item, html)
+    estado, r = montar(item, html, imagem_pendente)
     if estado != "ok":
         cache.parent.mkdir(parents=True, exist_ok=True)
         with gzip.open(cache, "wb") as f:
@@ -419,6 +453,9 @@ def processar(rede, item):
     if md.exists():
         return "retido", {**falha, "motivo": "outro endereço do portal já deu origem ao arquivo deste número"}
     gravar(str(md), str(cache), html.encode("utf-8"), r["meta"], r["corpo"])
+    if r.get("imagens"):
+        anotar_imagem_pendente({"path": md.relative_to(RAIZ).as_posix(), "url": item["url"],
+                                "sha256_html": hashlib.sha256(html.encode("utf-8")).hexdigest(), **r["imagens"]})
     return "ok", None
 
 
@@ -454,6 +491,8 @@ def main(argv=None):
     ap.add_argument("--ate", type=int, default=dt.date.today().year)
     ap.add_argument("--despejar", action="store_true", help="mostra o que sairia de cada página, sem gravar o acervo")
     ap.add_argument("--limite", type=int, default=0)
+    ap.add_argument("--imagem-pendente", action="store_true",
+                    help="refaz só os retidos por imagem no corpo, sem ela, como pendência de integralidade")
     a = ap.parse_args(argv)
     secoes = [s for s in a.secoes.split(",") if s]
     if any(s not in SECOES for s in secoes):
@@ -465,10 +504,12 @@ def main(argv=None):
         print(f"[CONFAZ] mapa do site: {dict(por_secao)}; fora do recorte: { {k: len(v) for k, v in fora.items()} }", flush=True)
         if a.indice:
             return 0
-        alvo = [i for i in itens if i["secao"] in secoes and a.de <= i["ano"] <= a.ate][: a.limite or None]
         cont, ja = collections.Counter(), set()
         if FALHAS.exists():
             ja = {(d.get("url"), d.get("motivo")) for d in map(json.loads, FALHAS.read_text(encoding="utf-8").splitlines())}
+        com_imagem = {url for url, motivo in ja if motivo == IMAGEM_NO_CORPO}
+        alvo = [i for i in itens if i["secao"] in secoes and a.de <= i["ano"] <= a.ate
+                and (not a.imagem_pendente or i["url"] in com_imagem)][: a.limite or None]
         for n, item in enumerate(alvo, 1):
             try:
                 if a.despejar:
@@ -478,7 +519,7 @@ def main(argv=None):
                           + (json.dumps(dict(r["meta"]), ensure_ascii=False)[:420] if estado == "ok" else json.dumps(r, ensure_ascii=False)), flush=True)
                     cont[estado] += 1
                     continue
-                estado, falha = processar(rede, item)
+                estado, falha = processar(rede, item, a.imagem_pendente)
             except Recusa:
                 raise
             except Exception as e:  # rede ou página malformada: conta e segue

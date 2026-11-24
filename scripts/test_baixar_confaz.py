@@ -223,6 +223,57 @@ class Montagem(unittest.TestCase):
                 self.assertEqual(estado, "retido")
                 self.assertIn(motivo, r["motivo"])
 
+    def test_imagem_pendente_monta_o_ato_sem_a_imagem_e_diz_quantas_ficaram_de_fora(self):
+        it = item("convenios", 2004, 106, "CV106_04")
+        com_imagem = CV_2004.replace("<p>Aracaju, SE", '<p>ANEXO</p><p><img alt="" src="data:image/png;base64,AAAABBBB" />'
+                                     '</p><p><IMG src="https://exemplo/modelo.gif"></p><p>Aracaju, SE')
+        self.assertEqual(c.montar(it, com_imagem)[1]["motivo"], c.IMAGEM_NO_CORPO)
+        estado, r = c.montar(it, com_imagem, imagem_pendente=True)
+        self.assertEqual(estado, "ok", r)
+        meta = dict(r["meta"])
+        self.assertTrue(meta["imagens_nao_transcritas"].startswith("2 imagens no corpo do ato"))
+        self.assertEqual(r["imagens"], {"imagens": 2, "maior_imagem_bytes": 6})
+        self.assertNotIn("base64", r["corpo"])
+        self.assertNotIn("modelo.gif", r["corpo"])
+        self.assertIn("ANEXO", r["corpo"])
+        # o ato sem imagem sai igual com ou sem a opção, e sem o campo
+        sem = c.montar(it, CV_2004, imagem_pendente=True)[1]
+        self.assertEqual(sem, c.montar(it, CV_2004)[1])
+        self.assertNotIn("imagens", sem)
+        self.assertNotIn("imagens_nao_transcritas", dict(sem["meta"]))
+        # as outras condições continuam valendo
+        outra_data = com_imagem.replace("Aracaju, SE, 24 de setembro", "Aracaju, SE, 25 de setembro")
+        self.assertEqual(c.montar(it, outra_data, imagem_pendente=True)[1]["motivo"], "fecho e preâmbulo com datas diferentes")
+
+    def test_imagem_pendente_grava_o_arquivo_e_anota_a_pendencia(self):
+        import gzip
+        import hashlib
+        import json
+        import tempfile
+        html = CV_2004.replace("<p>Aracaju, SE", '<p><img src="data:image/png;base64,AAAA"></p><p>Aracaju, SE')
+        it = item("convenios", 2004, 106, "CV106_04")
+        with tempfile.TemporaryDirectory() as tmp:
+            antes = c.RAIZ, c.PASTA, c.FONTE, c.IMAGENS_PENDENTES
+            c.RAIZ = Path(tmp)
+            c.PASTA, c.FONTE = c.RAIZ / "reguladores" / "confaz", c.RAIZ / "reguladores" / "_fonte" / "confaz"
+            c.IMAGENS_PENDENTES = c.PASTA / "_imagens_pendentes.jsonl"
+            try:
+                cache = c.FONTE / "convenios" / "2004" / "cv106_04.html.gz"
+                cache.parent.mkdir(parents=True)
+                with gzip.open(cache, "wb") as f:
+                    f.write(html.encode("utf-8"))
+                estado, falha = c.processar(None, it)  # sem a opção, continua retido
+                self.assertEqual((estado, falha["motivo"]), ("retido", c.IMAGEM_NO_CORPO))
+                self.assertFalse(c.IMAGENS_PENDENTES.exists())
+                self.assertEqual(c.processar(None, it, imagem_pendente=True), ("ok", None))
+                md = c.PASTA / "convenios" / "2004" / "convenio-icms-106-2004.md"
+                self.assertIn('imagens_nao_transcritas: "1 imagem no corpo do ato', md.read_text(encoding="utf-8"))
+                self.assertEqual([json.loads(l) for l in c.IMAGENS_PENDENTES.read_text(encoding="utf-8").splitlines()], [{
+                    "path": "reguladores/confaz/convenios/2004/convenio-icms-106-2004.md", "url": it["url"],
+                    "sha256_html": hashlib.sha256(html.encode("utf-8")).hexdigest(), "imagens": 1, "maior_imagem_bytes": 3}])
+            finally:
+                c.RAIZ, c.PASTA, c.FONTE, c.IMAGENS_PENDENTES = antes
+
     def test_data_de_outro_ano_no_fecho_de_um_anexo_nao_e_a_do_ato(self):
         html = CV_1976.replace("</div><div>rodapé", "<p>Rio de Janeiro, 8 de abril de 1974.</p></div><div>rodapé")
         self.assertEqual(self.meta(item("convenios", 1976, 16, "CV016_76"), html)[0]["data"], "1976-06-15")
