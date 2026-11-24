@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 79, de 15 de agosto de 2014"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "79"
+data: 2014-08-15
+ementa: "Altera o Convênio ICMS 21/03, que autoriza o Estado de São Paulo a conceder isenção na importação e na saída por doação de medicamento destinado a paciente com doença grave."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 19.08.14, pelo Despacho 148/14 ."
+data_publicacao: "2014-08-19"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV079_14"
+sha256_html_fonte: "7eb911923fb81259b75475addd2b119257d2cc53d480d1e3dbee0d345bb29aa8"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 79, de 15 de agosto de 2014
+
+CONVÊNIO ICMS 79, DE 15 DE AGOSTO DE 2014
+
+Publicado no DOU de 19.08.14, pelo Despacho 148/14 .
+
+Ratificação Nacional no DOU de 05.09.14, pelo Ato Declaratório 11/14 .
+
+Altera o Convênio ICMS 21/03, que autoriza o Estado de São Paulo a conceder isenção na importação e na saída por doação de medicamento destinado a paciente com doença grave.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 154ª reunião ordinária, realizada em Brasília, DF, no dia 15 de agosto de 2014, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam alterados os seguintes dispositivos da cláusula primeira do Convênio ICMS 21/03 , de 4 de abril de 2003, que passam a vigorar com a seguinte redação:
+
+I - o inciso I do *caput* :
+
+“I - no desembaraço aduaneiro de produtos importados do exterior por empresa patrocinadora do Programa Governamental denominado “Programa de Acesso Expandido” de que trata a Resolução RDC nº 38/13, de 12 de agosto de 2013, para doação a hospitais, clínicas e centro de pesquisa com a finalidade específica de serem empregados no tratamento de portadores de doenças graves e que ameaçam a vida dos integrantes do Programa, na ausência de droga específica disponível no mercado nacional;”;
+
+II – o inciso II do § 1º:
+
+“II - o importador satisfaça a todas as condições prescritas na Resolução RDC nº 38/13 e tenha obtido a aprovação da Agência Nacional de Vigilância Sanitária - ANVISA/MS como patrocinadora do Programa;”.
+
+**Cláusula segunda** Fica acrescido o inciso V ao § 1º da cláusula primeira do Convênio ICMS 21/03 , com a seguinte redação:
+
+“V – os produtos sejam desonerados das contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público (PIS/PASEP) e da Contribuição para o Financiamento da Seguridade Social (COFINS)”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da ratificação.

@@ -1,0 +1,48 @@
+---
+titulo: "Convênio ICMS nº 17, de 20 de março de 1998"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "17"
+data: 1998-03-20
+ementa: "Introduz alterações no Convênio ICMS 105/92, de 25.9.92, que institui o regime de substituição tributária para as operações com combustíveis e lubrificantes."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 26.03.98."
+data_publicacao: "1998-03-26"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv017_98"
+sha256_html_fonte: "94cbdf6dbe6c2dc52acdfd6a67034c9ffdbca42e16576217a6c7e02f117aa45d"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 17, de 20 de março de 1998
+
+**CONVÊNIO ICMS 17/98**
+
+**Publicado no DOU de 26.03.98.**
+
+**Introduz alterações no Convênio ICMS 105/92, de 25.9.92, que institui o regime de substituição tributária para as operações com combustíveis e lubrificantes.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 89ª reunião ordinária do Conselho Nacional de Política Fazendária, realizada em Recife, PE, no dia 20 de março de 1998, tendo em vista o disposto nos artigos 102 e 199 do Código Tributário Nacional (Lei 5.172, de 25 de outubro de 1966) e os artigos 6º ao 10 da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Os seguintes dispositivos do Convênio ICMS 105/92 , de 25 de setembro de 1992, passam a vigorar com as seguintes redações:
+
+I - o caput do inciso II do § 2º da **cláusula segunda** :
+
+"II - não serão aplicados os percentuais constantes da Tabela III aos Estados de Goiás, do Paraná e do Rio Grande do Sul, devendo ser observado o que segue:";
+
+II - o § 2º da **cláusula décima quarta** :
+
+"§ 2º O disposto nesta cláusula não se aplica aos Estados de Goiás e do Paraná, tanto para as operações iniciadas nesses Estados, quanto nas operações a eles destinadas.".
+
+**Cláusula segunda**
+
+Fica revogado o item 2 da alínea "a" do inciso II do § 2º da cláusula segunda do Convênio ICMS 105/92 , de 25 de setembro de 1992.
+
+Cláusula terceira
+
+Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de abril de 1998.
+
+Recife, 20 de março de 1998.

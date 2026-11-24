@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 37, de 7 de abril de 2022"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "37"
+data: 2022-04-07
+ementa: "Altera o Convênio ICMS nº 95/18, que autoriza os Estados do Amazonas e do Paraná a conceder isenção do ICMS incidente no fornecimento de energia elétrica para pessoas físicas enquadradas em programa social."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 11.04.22, pelo despacho 17/22."
+data_publicacao: "2022-04-11"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV037_22"
+sha256_html_fonte: "4f2d7d27858e160355abfb749fa5d3a70534430c6dcd4af115c2eebe830e4c15"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 37, de 7 de abril de 2022
+
+CONVÊNIO ICMS Nº 37, DE 7 DE ABRIL DE 2022
+
+Publicado no DOU de 11.04.22, pelo despacho 17/22.
+
+Ratificação Nacional no DOU de 27.04.22, pelo Ato Declaratório 12/22.
+
+Altera o Convênio ICMS nº 95/18, que autoriza os Estados do Amazonas e do Paraná a conceder isenção do ICMS incidente no fornecimento de energia elétrica para pessoas físicas enquadradas em programa social.
+
+**O Conselho Nacional de Política Fazendária – CONFAZ,** na sua 184ª Reunião Ordinária, realizada em Belém, PA, e em Brasília, DF, nos dias 31 de março e 7 de abril de 2022, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** O inciso III da cláusula segunda do Convênio ICMS nº 95, de 28 de setembro de 2018, passa a vigorar com a seguinte redação:
+
+“III - cujo consumo de energia elétrica do ciclo de faturamento mensal seja igual ou inferior a 150 (cento e cinquenta) kWh (quilowatt-hora), observada a periodicidade de leitura prevista pelo órgão regulador.”.
+
+**Cláusula segunda** Os dispositivos a seguir indicados ficam acrescidos ao Convênio ICMS nº 95/18 com as seguintes redações:
+
+I - o § 2º à cláusula segunda, renumerando-se o parágrafo único para § 1º:
+
+“§ 2º Alternativamente ao disposto nas alíneas “b” e “c” do inciso II desta cláusula, a pessoa física deverá receber o Benefício de Prestação Continuada.”;
+
+II - o § 2º à cláusula terceira, renumerando-se o parágrafo único para § 1º:
+
+“§ 2º Poderá ser aplicada a isenção de que trata este convênio à unidade consumidora cujo consumo mensal for superior ao valor de que trata o “caput” desta cláusula, desde que atendidas as demais condições nela previstas, limitada à parcela do consumo mensal igual a 400 (quatrocentos) kWh (quilowatt-hora).”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

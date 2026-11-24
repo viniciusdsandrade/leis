@@ -1,0 +1,39 @@
+---
+titulo: "Convênio ICMS nº 105, de 13 de dezembro de 1996"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "105"
+data: 1996-12-13
+ementa: "Autoriza o Estado do Rio Grande do Sul a não exigir os créditos tributários que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18 e 20.12.96."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV105_96"
+sha256_html_fonte: "6c8167594d514b4e2e08a38443550f99b766bb045112833e5770c4d49ea97910"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 105, de 13 de dezembro de 1996
+
+**CONVÊNIO ICMS 105/96**
+
+**Publicado no DOU de 18 e 20.12.96.**
+
+**Ratificação Nacional DOU de 08.01.97 pelo Ato COTEPE-ICMS**
+
+**01/97** .
+
+**Autoriza o Estado do Rio Grande do Sul a não exigir os créditos tributários que especifica.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 84ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Belém, PA, no dia 13 de dezembro de 1996, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado do Rio Grande do Sul autorizado a não exigir do Grupo Editorial Sinos S.A. os créditos tributários correspondentes ao Auto de Lançamento nº 8869400296, de 25 de novembro de 1994, referente ao ICMS devido pelo contribuinte, em razão da importação de equipamento destinado à impressão de jornais, periódicos e livros.
+
+Cláusula segunda
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Belém, PA, 13 de dezembro de 1996.

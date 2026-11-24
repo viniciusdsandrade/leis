@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 66, de 5 de julho de 2019"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "66"
+data: 2019-07-05
+ementa: "Concede isenção do ICMS às operações com aceleradores lineares, destinados à prestação de serviços de saúde."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.07.19, pelo Despacho 45/19."
+data_publicacao: "2019-07-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV066_19"
+sha256_html_fonte: "e272b8915e77e34afcd83a8d4469bb80e184c13d2f5dcfb28b74026896733e1f"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 66, de 5 de julho de 2019
+
+CONVÊNIO ICMS 66/19, DE 5 DE JULHO DE 2019
+
+Publicado no DOU de 09.07.19, pelo Despacho 45/19.
+
+Ratificação Nacional no DOU de 25.07.19, pelo Ato Declaratório 6/19.
+
+Alterado pelo Conv. ICMS 51/21.
+
+Concede isenção do ICMS às operações com aceleradores lineares, destinados à prestação de serviços de saúde.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 173ª Reunião Ordinária, realizada em Brasília, DF, no dia 5 de julho de 2019, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Nova redação dada ao caput da cláusula primeira pelo Conv. ICMS 51/21, efeitos a partir de 01.06.21.
+
+**Cláusula primeira** Ficam isentas do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - as seguintes operações com aceleradores lineares, classificados nos códigos 9022.14.90 e 9022.21.90 da Nomenclatura Comum do Mercosul baseada no Sistema Harmonizado - NCM/SH:
+
+Redação original, efeitos até 31.05..21.
+
+Cláusula primeira Ficam isentas do ICMS as seguintes operações com aceleradores lineares, classificados no código 9022.21.90 da Nomenclatura Comum do Mercosul – NCM:
+
+I - realizadas no âmbito do Programa Nacional de Oncologia do Ministério da Saúde;
+
+II - com destino a entidades filantrópicas, desde que classificadas como entidade beneficente de assistência social, nos termos da Lei Federal n° 12.101, de 27 de novembro de 2009.
+
+**§ 1º** Ficam os Estados e o Distrito Federal autorizados a não exigir o estorno do crédito fiscal, nos termos do art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, nas operações de que trata este convênio.
+
+**§ 2º** Fica o Estado do Rio Grande do Sul e o Distrito Federal autorizados a não aplicar o disposto no § 1º desta cláusula.
+
+**§ 3º** O disposto no inciso II desta cláusula também se aplica às operações de importações com peças e partes, sem similar nacional, utilizados na produção de aceleradores lineares pelo próprio importador, desde que a saída posterior seja destinada a entidades filantrópicas a que se refere o caput desta cláusula.
+
+**§ 4º** A inexistência de produto similar produzido no país será atestada por entidade representativa do setor produtivo de máquinas, aparelhos e equipamentos com abrangência em todo território nacional ou por órgão federal competente.
+
+Acrescida a cláusula primeira-A pelo Conv. ICMS 51/21, efeitos a partir de 01.06.21
+
+**Cláusula primeira-A** Os benefícios previstos na cláusula primeira deste convênio relativos às operações com aceleradores lineares classificados no código 9022.14.90 da NCM/SH não se aplicam nas operações originadas no Estado de Goiás.
+
+**Cláusula segunda** Fica revogada a cláusula terceira do Convênio ICMS 140/13, de 18 de outubro de 2013.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da ratificação.

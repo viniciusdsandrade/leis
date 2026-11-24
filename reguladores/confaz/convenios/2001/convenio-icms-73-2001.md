@@ -1,0 +1,60 @@
+---
+titulo: "Convênio ICMS nº 73, de 6 de julho de 2001"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "73"
+data: 2001-07-06
+ementa: "Autoriza os Estados do Pará, Ceará, Maranhão e Piauí a conceder isenção do ICMS em operações de importação de grupos geradores."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 12.07.01."
+data_publicacao: "2001-07-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV073_01"
+sha256_html_fonte: "2cbe1adbd20cffbb2151323772163fe50b89ca4433c2074ce06559028929f403"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 73, de 6 de julho de 2001
+
+**CONVÊNIO ICMS 73/01**
+
+**Publicação DOU de 12.07.01.**
+
+**Ratificação Nacional DOU de 09.08.01, pelo Ato Declaratório**
+
+**07/01** .
+
+**Efeitos até 31.12.01.**
+
+**Prorrogado, até 31.12.02, pelo Conv. ICMS**
+
+**127/01** .
+
+**Adesão do RN e SE pelo Conv. ICMS**
+
+**127/01 , efeitos a partir de 01.01.02.**
+
+**Autoriza os Estados do Pará, Ceará, Maranhão e Piauí a conceder isenção do ICMS em operações de importação de grupos geradores.**
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 102ª reunião ordinária, realizada em Goiânia, GO, no dia 6 de julho de 2001, tendo em vista o disposto na Lei Complementar nº 24 , de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam os Estados do Pará, Ceará, Maranhão e Piauí autorizados a conceder isenção do ICMS nas operações de importação de grupos geradores classificados na Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH no código 8502, sem similar produzido no país, por estabelecimentos industriais e comerciais para integrar o ativo imobilizado.
+
+**Parágrafo único** A comprovação da ausência de similaridade deverá ser feita por laudo emitido por entidade representativa do setor produtivo de máquinas, aparelhos e equipamentos com abrangência nacional ou por órgão federal especializado.
+
+Cláusula segunda
+
+Ficam os Estados acima mencionados autorizados a isentar do ICMS devido relativamente ao diferencial de alíquotas nas aquisições interestaduais de grupos geradores classificados na Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH no código 8502, destinado ao ativo fixo, quando adquiridos por estabelecimentos comerciais.
+
+Cláusula terceira
+
+Os benefícios previstos neste convênio serão concedidos individualmente, mediante despacho da Secretaria de Fazenda, Finanças ou Tributação dos Estados mencionados na cláusula primeira.
+
+Cláusula quarta
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2001.
+
+Goiânia, GO, 6 de julho de 2001.

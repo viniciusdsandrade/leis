@@ -1,0 +1,32 @@
+---
+titulo: "Convênio ICMS nº 48, de 29 de maio de 2018"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "48"
+data: 2018-05-29
+ementa: "Autoriza o Estado do Amapá a conceder redução da base de cálculo do ICMS nas operações com óleo diesel e lubrificantes."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.05.18, pelo Despacho 72/18."
+data_publicacao: "2018-05-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV048_18"
+sha256_html_fonte: "c058144e2553c75ef08134c112f07302372760b40227f32764a792b26e26f29a"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 48, de 29 de maio de 2018
+
+CONVÊNIO ICMS 48/18, DE 29 DE MAIO DE 2018
+
+Publicado no DOU de 30.05.18, pelo Despacho 72/18.
+
+Ratificação Nacional no DOU de 15.06.18, pelo Ato Declaratório 15/18.
+
+Autoriza o Estado do Amapá a conceder redução da base de cálculo do ICMS nas operações com óleo diesel e lubrificantes.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 304ª Reunião Extraordinária, realizada em Brasília, DF, no dia 29 de maio de 2018, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Fica o Estado do Amapá autorizado a reduzir a base de cálculo do ICMS nas operações internas com óleo diesel e lubrificantes, de forma que sua aplicação resulte numa carga tributária de 17% (dezessete por cento).
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

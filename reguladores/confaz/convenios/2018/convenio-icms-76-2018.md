@@ -1,0 +1,42 @@
+---
+titulo: "Convênio ICMS nº 76, de 5 de julho de 2018"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "76"
+data: 2018-07-05
+ementa: "Autoriza o Estado do Piauí a conceder remissão e anistia de créditos tributários de contribuintes que utilizaram Equipamento Emissor de Cupom Fiscal – ECF com versão de software básico desatualizado."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 10.07.18, pelo Despacho 92/18."
+data_publicacao: "2018-07-10"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV076_18"
+sha256_html_fonte: "9f4779a6f97cb3432a5cbefe040ffa48397353f61474f616c9acf1c12a21982f"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 76, de 5 de julho de 2018
+
+CONVÊNIO ICMS 76/18, DE 05 DE JULHO DE 2018
+
+Publicado no DOU de 10.07.18, pelo Despacho 92/18.
+
+Ratificação Nacional no DOU de 26.07.18, pelo Ato Declaratório 17/18.
+
+Autoriza o Estado do Piauí a conceder remissão e anistia de créditos tributários de contribuintes que utilizaram Equipamento Emissor de Cupom Fiscal – ECF com versão de software básico desatualizado.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** na sua 169ª Reunião Ordinária, realizada em Brasília, DF, no dia 05 de julho de 2018, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Fica o Estado do Piauí autorizado a conceder remissão e anistia dos créditos tributários, constituídos ou não, do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, inscritos ou não em dívida ativa, inclusive ajuizados, de contribuintes que utilizaram Equipamento Emissor de Cupom Fiscal – ECF com versão de software básico desatualizado, referentes a fatos geradores ocorridos até 31 de maio de 2018, nos limites e condições estabelecidos na cláusula segunda.
+
+**Cláusula segunda** A remissão e anistia de que trata a cláusula primeira:
+
+I - é limitada ao montante correspondente às obrigações acessórias prevista na alínea “g”, do inciso VII do art. 79 da Lei nº 4.257, de 06 de janeiro de 1989, que deixaram de ser cumpridas por contribuintes;
+
+II - é condicionada à desistência de qualquer processo administrativo ou judicial.
+
+**Cláusula terceira** A remissão e a anistia de que trata este convênio deve ser efetivada conforme dispuser a legislação tributária do Estado do Piauí.
+
+**Cláusula quarta** O disposto neste convênio não autoriza a restituição ou compensação de importâncias já pagas.
+
+**Cláusula quinta** Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional.

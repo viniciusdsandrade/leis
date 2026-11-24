@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 76, de 26 de outubro de 1995"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "76"
+data: 1995-10-26
+ementa: "Acrescenta dispositivo ao Convênio ICMS 03/90, de 30.05.90, que isenta do ICMS as saídas de óleo lubrificante usado ou contaminado."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.10.95."
+data_publicacao: "1995-10-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV076_95"
+sha256_html_fonte: "d50917faf24e81ddad1e070c8863a9da7dd062518aa3a06d91e2efbb6264ba5b"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 76, de 26 de outubro de 1995
+
+**CONVÊNIO ICMS 76/95**
+
+**Publicado no DOU de 30.10.95.**
+
+**Ratificação Nacional DOU de 21.11.95 pelo Ato COTEPE-ICMS**
+
+**07/95** .
+
+**Acrescenta dispositivo ao Convênio ICMS 03/90, de 30.05.90, que isenta do ICMS as saídas de óleo lubrificante usado ou contaminado.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 79ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 26 de outubro de 1995, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1995, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica acrescentado o parágrafo único à cláusula primeira do Convênio ICMS 03/90 , de 30 de maio de 1990, com a seguinte redação:
+
+"Parágrafo único. O trânsito das mercadorias previstas nesta cláusula até o estabelecimento re-refinador ou coletor revendedor autorizado pelo Departamento Nacional de Combustíveis - DNC deverá ser acompanhado por Nota Fiscal, modelo 1 ou 1-A, emitida pelo destinatário, como operação de entrada, dispensando o estabelecimento remetente da emissão de documento fiscal."
+
+**Cláusula segunda**
+
+Para cumprimento do disposto no parágrafo único da cláusula primeira do Convênio ICMS 03/90 , de 30 de maio de 1990, acrescentado por este Convênio, até 31 de dezembro de 1995, poderão ser utilizados os impressos de Nota Fiscal de Entrada em substituição à Nota Fiscal, modelos 1 ou 1-A, de acordo com a autorização constante do inciso II da cláusula sétima do Ajuste SINIEF 03/94 , de 29 de setembro de 1994.
+
+Cláusula terceira
+
+Este Convênio entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Brasília, DF, 26 de outubro de 1995.

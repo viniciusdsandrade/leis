@@ -1,0 +1,74 @@
+---
+titulo: "Convênio ICMS nº 137, de 29 de setembro de 2017"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "137"
+data: 2017-09-29
+ementa: "Autoriza o Estado de Pernambuco a reduzir juros e multas previstos na legislação tributária, bem como a conceder parcelamento de débito fiscal, relacionados com o ICMS."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 05.10.17, pelo Despacho 139/17."
+data_publicacao: "2017-10-05"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV137_17"
+sha256_html_fonte: "f7e2b917f12f1bb0bdc4759ffb0ff6f9d4c15f785677cbcce81521350bc5c4a0"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 137, de 29 de setembro de 2017
+
+CONVÊNIO ICMS 137, DE 29 DE SETEMBRO DE 2017
+
+Publicado no DOU de 05.10.17, pelo Despacho 139/17.
+
+Não ratificação, no DOU de 26.10.17, pelo Ato Declaratório 22/17.
+
+Autoriza o Estado de Pernambuco a reduzir juros e multas previstos na legislação tributária, bem como a conceder parcelamento de débito fiscal, relacionados com o ICMS.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 166ª Reunião Ordinária, realizada em Brasília, DF, no dia 29 de setembro de 2017, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** O Estado de Pernambuco fica autorizado a reduzir juros e multas relacionados com o ICM e o ICMS, relativos a créditos tributários, cujos fatos geradores tenham ocorrido até 30 de abril de 2017, inclusive os ajuizados, bem como conceder parcelamento para o respectivo pagamento, observado o disposto neste convênio e as demais normas previstas na legislação tributária estadual.
+
+**Cláusula segunda** As reduções de que trata a cláusula primeira correspondem aos seguintes percentuais:
+
+I - na hipótese de pagamento à vista:
+
+a) 85% (oitenta e cinco por cento) da multa e 90% (noventa por cento) dos juros, na hipótese de o pagamento ocorrer no mês de agosto de 2017;
+
+b) 80% (oitenta por cento) da multa e 85% (oitenta e cinco por cento) dos juros, na hipótese de o pagamento ocorrer no mês de setembro de 2017;
+
+c) 75% (setenta e cinco por cento) da multa e 80% (oitenta por cento) dos juros, na hipótese de o pagamento ocorrer no mês de outubro de 2017; e
+
+d) 70% (setenta por cento) da multa e 75% (setenta e cinco por cento) dos juros, na hipótese de o pagamento ocorrer no mês de novembro de 2017; e
+
+II - na hipótese de pagamento parcelado, em até 36 (trinta e seis) parcelas mensais e sucessivas:
+
+a) 60% (sessenta por cento) da multa e 70% (setenta por cento) dos juros, na hipótese de o pagamento da primeira parcela ocorrer no mês de agosto de 2017;
+
+b) 55% (cinquenta e cinco por cento) da multa e 65% (sessenta e cinco por cento) dos juros, na hipótese de o pagamento da primeira parcela ocorrer no mês de setembro de 2017;
+
+c) 50% (cinquenta por cento) da multa e 60% (sessenta por cento) dos juros, na hipótese de o pagamento da primeira parcela ocorrer no mês de outubro de 2017; e
+
+d) 45% (quarenta e cinco por cento) da multa e 55% (cinquenta e cinco por cento) dos juros, na hipótese de o pagamento da primeira parcela ocorrer no mês de novembro de 2017.
+
+**Cláusula terceira** As reduções previstas neste convênio somente se aplicam aos créditos tributários, inclusive inscritos em dívida ativa ou em fase de cobrança judicial, constituídos:
+
+I - até 31 de outubro de 2017, quando decorrentes de Auto de Infração, Auto de Apreensão, Auto de Lançamento sem Penalidade, Notificação de Débito ou Notificação de Débito sem Penalidade, cujo fato gerador tenha ocorrido até o período fiscal de abril de 2017; ou
+
+II - até 30 de novembro de 2017, quando decorrentes de Regularização de Débito cujo fato gerador tenha ocorrido até o período fiscal de abril de 2017.
+
+**Cláusula quarta** A inobservância de qualquer das exigências estabelecidas neste convênio e em lei complementar estadual implica revogação dos benefícios de redução parcial da multa e juros previstos na cláusula segunda, com recomposição do valor total anterior ao pagamento ou parcelamento e exigibilidade imediata da totalidade do crédito remanescente não pago.
+
+**Cláusula quinta** Ocorre a perda do parcelamento, com a recomposição do débito e incidência integral da multa e juros, abatendo-se os valores pagos, nas seguintes hipóteses:
+
+I - não pagamento de 3 (três) parcelas, consecutivas ou não;
+
+II - não pagamento do saldo devedor remanescente, após decorridos 30 (trinta) dias do termo final do prazo para pagamento da última parcela, independentemente do quantitativo de parcelas não pagas; ou
+
+III - não pagamento do valor relativo a encargos e honorários advocatícios previsto em lei estadual.
+
+**Cláusula sexta** O Estado de Pernambuco poderá estabelecer outras condições e exigências para a fruição dos benefícios de que trata este convênio.
+
+**Cláusula sétima** Fica vedada a concessão de um novo programa de recuperação de créditos tributários ou fiscais, durante num período de 10 (dez) anos.
+
+**Cláusula oitava** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

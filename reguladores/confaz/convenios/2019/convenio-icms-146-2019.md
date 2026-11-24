@@ -1,0 +1,106 @@
+---
+titulo: "Convênio ICMS nº 146, de 10 de outubro de 2019"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "146"
+data: 2019-10-10
+ementa: "Autoriza as unidades federadas que menciona a conceder crédito presumido de ICMS nas operações realizadas pelos estabelecimentos que exerçam atividades econômicas de extração de petróleo e gás natural e processamento de gás natural, bem como a redução de juros e multas e a remissão parcial do imposto, na forma que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 10.10.19, pelo Despacho 76/19."
+data_publicacao: "2019-10-10"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV146_19"
+sha256_html_fonte: "06b260ce51089b3c3b13fdb5ec04e5ee9a9ce9742ec00f562ef8d4de90a10ec3"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 146, de 10 de outubro de 2019
+
+CONVÊNIO ICMS 146/19, DE 10 DE OUTUBRO DE 2019
+
+Publicado no DOU de 10.10.19, pelo Despacho 76/19.
+
+Ratificação Nacional no DOU de 29.10.19, pelo Ato Declaratório 15/19.
+
+Alterado pelos Convs. ICMS 230/19, 49/20, 128/23, 128/24, 27/25.
+
+Convalidado os atos praticados neste convênio no período de 29.10.19 até 01.01.20, pelo Conv ICMS 230/19.
+
+Prorrogado, até 31.12.28, pelo Conv. ICMS 128/24.
+
+Autoriza as unidades federadas que menciona a conceder crédito presumido de ICMS nas operações realizadas pelos estabelecimentos que exerçam atividades econômicas de extração de petróleo e gás natural e processamento de gás natural, bem como a redução de juros e multas e a remissão parcial do imposto, na forma que especifica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 318ª Reunião Extraordinária, realizada em Brasília, DF, no dia 10 de outubro de 2019, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam os Estados de Alagoas, Amazonas, Bahia, Espírito Santo, Rio Grande do Norte e Sergipe autorizados a conceder crédito presumido de Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS em substituição ao sistema normal de apuração para os estabelecimentos que exerçam as atividades econômicas de extração de petróleo e gás natural e processamento de gás natural, classificadas nos códigos 0600-0/01 e 3520-4/01 da Classificação Nacional de Atividades Econômicas - CNAE.
+
+**§1º** O crédito presumido será equivalente ao percentual a ser definido em legislação estadual, observados os limites máximos estabelecidos no Anexo Único deste convênio, aplicado sobre o valor consignado nas notas fiscais de saídas, emitidas pelos estabelecimentos que exerçam as atividades econômicas de extração de petróleo e gás natural e processamento de gás natural, classificadas nos códigos 0600-0/01 e 3520-4/01 da CNAE, vedado o aproveitamento de quaisquer outros créditos.
+
+**§2º** O contribuinte deverá efetivar sua opção pelo crédito presumido ou retorno ao regime normal de apuração, mediante comunicado via ofício encaminhado à repartição fiscal competente de sua unidade federada.
+
+**§3º** Exercida a opção pelo crédito presumido, o contribuinte será mantido no sistema adotado pelo prazo mínimo de 12 (doze) meses, vedada a alteração antes do término do exercício financeiro.
+
+**§4º** Ficam as unidades federadas mencionadas no caput desta cláusula autorizadas a conceder o crédito presumido de que trata este convênio, ainda que o contribuinte possua crédito tributário inscrito em dívida ativa.
+
+**§ 5º** O benefício fiscal previsto neste convênio não se aplica aos Terminais de Regaseificação de Gás Natural – TGNL.
+
+Acrescido § 6º à cláusula primeira pelo Conv. ICMS 49/20, efeitos a partir de 17.08.20.
+
+**§ 6º** Fica autorizado ao Estado do Espírito Santo a adotar crédito presumido equivalente ao percentual a ser definido em legislação estadual, observado o limite máximo estabelecidos no Anexo Único deste convênio, aplicado sobre o valor consignado nas notas fiscais de saídas tributadas emitidas pelo estabelecimento Vitória/UO-ES, vedado o aproveitamento de quaisquer outros créditos.
+
+**Cláusula segunda** Para que novos estabelecimentos que venham exercer as atividades econômicas de extração de petróleo e gás natural e processamento de gás natural, classificadas nos códigos 1921-7/00, 0600-0/01 e 3520-4/01 da CNAE, possam optar pelo crédito presumido previsto neste convênio, deverão aguardar o início do terceiro ano de produção.
+
+**Parágrafo único** O prazo previsto no caput desta cláusula não se aplica aos estabelecimentos:
+
+I - resultantes de sucessão, descentralização ou desmembramento dos estabelecimentos elencados no Anexo Único deste convênio, observados os limites máximos respectivos;
+
+II - que venham a ser inseridos no Anexo Único deste convênio, desde que tenham, comprovadamente, exercido as atividades previstas no caput há mais de 3 (três) anos, observadas as disposições constantes da cláusula terceira deste convênio.
+
+**Cláusula terceira** O percentual de crédito presumido poderá ser revisto a cada exercício, iniciando sua vigência a partir do primeiro dia do exercício seguinte à publicação.
+
+**§1º** O período base para fins de revisão do percentual do crédito presumido será de 1° de julho do exercício anterior a 30 de junho do exercício vigente.
+
+**§2º** As unidades federadas publicarão, até o dia 31 de outubro do exercício corrente, o percentual previsto no caput desta cláusula.
+
+**Cláusula quarta** Ficam as unidades federadas mencionadas no caput da cláusula primeira deste convênio autorizadas a reduzir em até 90% (noventa por cento) os juros e em até 90% (noventa por cento) as multas, relativos a créditos tributários decorrentes de lançamentos ou glosas de créditos fiscais dos contribuintes que desempenham as atividades econômicas de extração de petróleo e gás natural e processamento de gás natural, classificadas nos códigos 0600-0/01 e 3520-4/01 da CNAE, constituídos ou não, inscritos ou não em dívida ativa, inclusive os ajuizados, em relação aos fatos geradores ocorridos até 30 de setembro de 2018, observado o disposto neste convênio e na legislação tributária estadual.
+
+**Cláusula quinta** Ficam as unidades federadas mencionadas no caput da cláusula primeira deste convênio autorizadas a conceder remissão parcial de até 50% (cinquenta por cento) de créditos tributários do ICMS em relação aos lançamentos ou glosas de créditos fiscais dos contribuintes que desempenham as atividades econômicas de extração de petróleo e gás natural e processamento de gás natural, classificadas nos códigos 0600-0/01 e 3520-4/01 da CNAE, constituídos ou não, inscritos ou não em dívida ativa, inclusive os espontaneamente denunciados pelo contribuinte, ainda que ajuizados, em relação aos fatos geradores ocorridos até 30 de setembro de 2018.
+
+Acrescida à cláusula quinta-A pelo Conv. ICMS 230/19, efeitos a partir de 02.01.20.
+
+**Cláusula quinta-A** Os créditos tributários previstos nas cláusulas quarta e quinta deste convênio serão consolidados nos termos da legislação estadual.
+
+Acrescida à cláusula quinta-B pelo Conv. ICMS 49/20, efeitos a partir de 17.08.20.
+
+**Cláusula quinta-B** As disposições previstas nas cláusulas quarta e quinta deste convênio aplicam-se aos Estados de Alagoas, Amazonas, Bahia e Sergipe, relativamente a fatos geradores que tenham ocorrido até 31 de dezembro de 2019.
+
+Acrescida à cláusula quinta-C pelo Conv. ICMS 128/23, efeitos a partir de 18.09.23.
+
+**Cláusula quinta-C** As disposições previstas nas cláusulas quarta e quinta aplicam-se aos Estados de Alagoas e Rio Grande do Norte relativamente a fatos geradores que tenham ocorrido até 30 de junho de 2023.
+
+Acrescida à cláusula quinta-D pelo Conv. ICMS 128/24, efeitos a partir de 13.12.24.
+
+**Cláusula quinta-D** As disposições previstas nas cláusulas quarta e quinta aplicam-se ao Estado de Alagoas relativamente a fatos geradores que tenham ocorrido até 31 de dezembro de 2023.
+
+**Parágrafo único.** Legislação estadual fixará o prazo máximo de opção do contribuinte, que não poderá exceder a 30 de junho de 2025.
+
+Acrescida à cláusula quinta-E pelo Conv. ICMS 27/25, efeitos a partir de 22.04.25.
+
+**Cláusula quinta-E** As disposições previstas nas cláusulas quarta e quinta aplicam-se aos Estados de Alagoas, Bahia e Sergipe relativamente a fatos geradores que tenham ocorrido até 31 de dezembro de 2024.
+
+**Parágrafo único.** Legislação estadual fixará o prazo máximo de opção do contribuinte, que não poderá exceder a 31 de dezembro de 2025.
+
+Nova redação dada ao caput da cláusula sexta pelo Conv. ICMS 128/24, efeitos a partir de 13.12.24.
+
+**Cláusula sexta** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2028.
+
+Redação original, efeitos até 12.12.24.
+
+Cláusula sexta Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2024.
+
+ANEXO ÚNICO
+
+Extração de Petróleo e Gás Natural (E&P) e Processamento de Gás Natural (UPGN)
+
+<table><tbody><tr><td colspan="4"> <p><strong>TABELA - LIMITES MÁXIMOS DE CRÉDITO PRESUMIDO</strong></p> </td> </tr><tr><td rowspan="2"> <p><strong>UF</strong></p> </td> <td rowspan="2"> <p><strong>Município</strong></p> </td> <td rowspan="2"> <p><strong>Unidade</strong></p> </td> <td> <p> </p> </td> </tr><tr><td> <p><strong>% Limite (Vlr da Operação)</strong></p> </td> </tr><tr><td> <p>AL</p> </td> <td> <p>Marechal Deodoro</p> </td> <td> <p>E&amp;P</p> </td> <td> <p>7,26%</p> </td> </tr><tr><td> <p>AL</p> </td> <td> <p>Pilar</p> </td> <td> <p>E&amp;P</p> </td> <td> <p>1,79%</p> </td> </tr><tr><td> <p>AM</p> </td> <td> <p>Coari (Urucu)</p> </td> <td> <p>UO-AM</p> </td> <td> <p>0,20%</p> </td> </tr><tr><td> <p>BA</p> </td> <td> <p>Catu</p> </td> <td> <p>UO-BA</p> </td> <td> <p>6,44%</p> </td> </tr><tr><td colspan="4"> <p>Nova redação dada a linha ES pelo Conv. ICMS 49/20, efeitos a partir de 17.08.20.</p> </td> </tr><tr><td> <p>ES</p> </td> <td> <p>Vitória</p> </td> <td> <p>UO-ES</p> </td> <td> <p>2,00%</p> </td> </tr><tr><td colspan="4"> <p>Redação original, efeitos até 16.08.20</p> </td> </tr><tr><td> <p>ES</p> </td> <td> <p>Vitória</p> </td> <td> <p>UO-ES</p> </td> <td> <p>0,95%</p> </td> </tr><tr><td> <p>ES</p> </td> <td> <p>Linhares</p> </td> <td> <p>UTG-C</p> </td> <td> <p>3,91%</p> </td> </tr><tr><td> <p>ES</p> </td> <td> <p>Anchieta</p> </td> <td> <p>UTG-S</p> </td> <td> <p>2,73%</p> </td> </tr><tr><td> <p>RN</p> </td> <td> <p>Natal</p> </td> <td> <p>UO-RN</p> </td> <td> <p>1,17%</p> </td> </tr><tr><td> <p>SE</p> </td> <td> <p>Aracajú</p> </td> <td> <p>UO-SE</p> </td> <td> <p>1,44%</p> </td> </tr></tbody></table>

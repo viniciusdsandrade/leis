@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 90, de 1º de julho de 2022"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "90"
+data: 2022-07-01
+ementa: "Autoriza as unidades federadas que menciona a conceder crédito outorgado do ICMS correspondente ao valor do ICMS destinado pelos seus respectivos contribuintes a projetos no âmbito do turismo criativo credenciados pela Secretaria de Turismo."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 05.07.22, pelo despacho 38/22."
+data_publicacao: "2022-07-05"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV090_22"
+sha256_html_fonte: "ccfc9d557d84ea6d0cbb0e7ed0a2fbc0339671db4930fa668335dd1c12cc9145"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 90, de 1º de julho de 2022
+
+CONVÊNIO ICMS Nº 90, DE 1º DE JULHO DE 2022
+
+Publicado no DOU de 05.07.22, pelo despacho 38/22.
+
+Ratificação Nacional no DOU de 21.07.22, pelo Ato Declaratório 25/22.
+
+Adesão do AL, BA, CE, PA, PI, RJ e SE a partir de 25.08.23, pelo Conv. ICMS 91/23.
+
+Autoriza as unidades federadas que menciona a conceder crédito outorgado do ICMS correspondente ao valor do ICMS destinado pelos seus respectivos contribuintes a projetos no âmbito do turismo criativo credenciados pela Secretaria de Turismo.
+
+**O Conselho Nacional de Política Fazendária – CONFAZ,** na sua 185ª Reunião Ordinária, realizada em Vitória, ES, no dia 1º de julho 2022, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Nova redação dada ao *caput* da cláusula primeira pelo Conv. ICMS 91/23, efeitos a partir de 25.08.23.
+
+**Cláusula primeira** Os Estados de Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Maranhão, Pará, Paraíba, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul e Sergipe e o Distrito Federal ficam autorizados a conceder crédito outorgado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - correspondente ao valor do ICMS destinado pelos seus respectivos contribuintes a projetos no âmbito do turismo criativo credenciados pela Secretaria de Turismo, na forma a ser regulamentada na legislação estadual ou distrital.
+
+Redação original, efeitos até 24.08.23
+
+Cláusula primeira Os Estados do Amapá, Amazonas, Espírito Santo, Maranhão, Paraíba, Rio Grande do Norte, Rio Grande do Sul e o Distrito Federal ficam autorizados a conceder crédito outorgado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - correspondente ao valor do ICMS destinado pelos seus respectivos contribuintes a projetos no âmbito do turismo criativo credenciados pela Secretaria de Turismo, na forma a ser regulamentada na legislação estadual ou distrital.
+
+**§ 1º** O incentivo fiscal de que trata este convênio fica limitado a 0,5% (cinco décimos por cento) da parte estadual ou distrital da arrecadação anual do ICMS relativa ao exercício imediatamente anterior, relativamente ao montante máximo de recursos disponíveis, a ser fixado em cada exercício pelas correspondentes Secretarias de Fazenda ou Economia para captação aos projetos credenciados pela Secretaria de Turismo em cada exercício.
+
+**§ 2º** Para fins de apuração da parte do valor do ICMS a recolher que poderá ser destinada aos projetos turísticos de que trata o “caput”, serão fixados os percentuais aplicáveis ao valor do saldo devedor do ICMS apurado pelo contribuinte, devendo esses percentuais variar de 0,01% (um centésimo por cento) a 3,0% (três por cento), de acordo com escalonamento por faixas de saldo devedor anual.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos de 1º de janeiro de 2023 a 31 de dezembro de 2027.

@@ -1,0 +1,40 @@
+---
+titulo: "Convênio ICMS nº 60, de 14 de abril de 2023"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "60"
+data: 2023-04-14
+ementa: "Dispõe sobre a adesão dos Estados de Alagoas, Pernambuco, Rio Grande do Norte e Sergipe e altera o Convênio ICMS nº 58/13, que autoriza as unidades federadas que menciona a conceder crédito outorgado do ICMS às empresas que utilizem mão-de-obra carcerária e de egressos do sistema prisional."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18.04.23, pelo Despacho 19/23."
+data_publicacao: "2023-04-18"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV060_23"
+sha256_html_fonte: "a5569466a2cb54df219a3580a21f784c0cb78cdc9b364d18992433f7e4b3268b"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 60, de 14 de abril de 2023
+
+CONVÊNIO ICMS Nº 60, DE 14 DE ABRIL DE 2023
+
+Publicado no DOU de 18.04.23, pelo Despacho 19/23.
+
+Ratificação Nacional no DOU de 05.05.23, pelo Ato Declaratório 16/23.
+
+Dispõe sobre a adesão dos Estados de Alagoas, Pernambuco, Rio Grande do Norte e Sergipe e altera o Convênio ICMS nº 58/13, que autoriza as unidades federadas que menciona a conceder crédito outorgado do ICMS às empresas que utilizem mão-de-obra carcerária e de egressos do sistema prisional.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 188ª Reunião Ordinária, realizada em Brasília, DF, nos dias 31 de março, 12, 13 e 14 de abril de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Os Estados de Alagoas, Pernambuco, Rio Grande do Norte e Sergipe ficam incluídos no Convênio ICMS nº 58, de 26 de julho de 2013.
+
+**Cláusula segunda** A cláusula primeira do Convênio ICMS nº 58/13 passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Os Estados do Acre, Alagoas, Bahia, Ceará, Maranhão, Mato Grosso, Pará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Rondônia e Sergipe ficam autorizados a conceder crédito outorgado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - às empresas que utilizem mão-de-obra carcerária e de egressos do sistema prisional, não podendo exceder, em cada ano, a 5% (cinco por cento) da parte estadual da arrecadação anual do ICMS relativa ao exercício imediatamente anterior.”.
+
+**Cláusula terceira** O parágrafo único fica acrescido à clausula primeira do Convênio ICMS nº 58/13, com a seguinte redação:
+
+“Parágrafo único. Os Estados de Alagoas, Bahia, Maranhão, Mato Grosso, Pará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Rondônia e Sergipe ficam autorizados a estender o benefício previsto no “caput” às empresas que utilizem mão de obra, na condição de aprendiz, de adolescentes envolvidos na prática de ato infracional, assim reconhecido pela Justiça.”.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

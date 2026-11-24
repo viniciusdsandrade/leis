@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 18, de 28 de março de 1989"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "18"
+data: 1989-03-28
+ementa: "Exclui das disposições do Convênio ICM 33/77, de 30.06.77, as embarcações que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 30.03.89."
+data_publicacao: "1989-03-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1989/CV018_89"
+sha256_html_fonte: "047da304d460ec1d6f2ff114489b67539cea9be949a395766012b9113bc00f5d"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 18, de 28 de março de 1989
+
+**CONVÊNIO ICMS 18/89**
+
+**Publicação DOU de 30.03.89.**
+
+**Ratificação Nacional DOU de 19.04.89, pelo Ato COTEPE/ICMS**
+
+**05/89** .
+
+**Prorrogado, até 31.12.92, pelo Conv. ICMS**
+
+**80/91** .
+
+**Exclui das disposições do Convênio ICM 33/77, de 30.06.77, as embarcações que especifica.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 54ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 28 de março de 1989, tendo em vista o disposto na Lei Complementar n° 24, de 07 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam excluídas das disposições do Convênio ICM 33/77 as embarcações classificadas sob a posição 8905.10.0000 da NBM-Nomenclatura Brasileira de Mercadorias.
+
+Cláusula segunda
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 28 de março de 1989.

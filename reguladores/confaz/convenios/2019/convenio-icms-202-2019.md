@@ -1,0 +1,66 @@
+---
+titulo: "Convênio ICMS nº 202, de 13 de dezembro de 2019"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "202"
+data: 2019-12-13
+ementa: "Autoriza as unidades federadas que menciona a conceder isenção do ICMS relativo ao diferencial de alíquotas e a reduzir a base de cálculo na construção e ampliação de Terminais Portuários marítimos no Estado."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 17.12.19, pelo Despacho 93/19."
+data_publicacao: "2019-12-17"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV202_19"
+sha256_html_fonte: "bc97d2a1ceb4b4e3146d030f29b2fdb078c9865434539fc7f26539f0012eeb89"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 202, de 13 de dezembro de 2019
+
+CONVÊNIO ICMS 202/19, DE 13 DE DEZEMBRO DE 2019
+
+Publicado no DOU de 17.12.19, pelo Despacho 93/19.
+
+Ratificação Nacional no DOU de 02.01.20, pelo Ato Declaratório 23/19.
+
+Adesão de PE e do PI pelo Conv. ICMS 123/25.
+
+Alterado pelo Conv. ICMS 123/25, 135/25.
+
+Adesão do ES, a partir de 13.10.25, pelo Conv. ICMS 135/25.
+
+Autoriza as unidades federadas que menciona a conceder isenção do ICMS relativo ao diferencial de alíquotas e a reduzir a base de cálculo na construção e ampliação de Terminais Portuários marítimos no Estado.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** na sua 175ª Reunião Ordinária, realizada em Curitiba, PR, no dia 13 de dezembro de 2019, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Nova redação dada a cláusula primeira pelo CV ICMS 135/25, efeitos a partir de 13.10.25.
+
+**Cláusula primeira** Os Estados do Amapá, Bahia, Ceará, Espírito Santo, Maranhão, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Santa Catarina, São Paulo e Sergipe ficam autorizados a:
+
+Redação anterior dada a cláusula primeira pelo CV ICMS 123/25, sem efeitos.
+
+Cláusula primeira Os Estados do Amapá, Bahia, Ceará, Maranhão, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Santa Catarina, São Paulo e Sergipe ficam autorizados a:
+
+Redação original, efeitos até 12.10.25
+
+Cláusula primeira Ficam os Estados do Amapá, Bahia, Ceará, Maranhão, Pará, Paraíba, Paraná, Rio de Janeiro, Rio Grande do Norte e Rio Grande do Sul, Santa Catarina, São Paulo e Sergipe autorizados a:
+
+I - conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - devido relativamente à aplicação do diferencial de alíquotas nas aquisições interestaduais de máquinas, aparelhos, equipamentos, suas partes e peças, quando adquiridos para construção ou ampliação dos Terminais Portuários marítimos localizados nos Estados relacionados no caput da cláusula primeira deste convênio.
+
+II – reduzir a base de cálculo do ICMS nas operações internas com os produtos indicados no inciso anterior, desde que destinados a contribuintes envolvidos na construção ou ampliação dos referidos Terminais, de forma que resulte em carga tributária mínima de 12% (doze por cento).
+
+**§ 1º** A isenção de que trata esta cláusula aplica-se, também, à importação desses produtos, desde que sem similar produzido no país.
+
+**§ 2º** A inexistência de similar produzido no país será atestada por órgão federal competente ou por entidade representativa do setor produtivo de máquinas, aparelhos e equipamentos, com abrangência em todo território nacional.
+
+**§ 3º** A isenção prevista no inciso I do caput desta cláusula fica limitada à parcela do imposto devido que exceder a aplicação do percentual de 12% (doze por cento) sobre a respectiva base de cálculo de entrada da mercadoria
+
+**Cláusula segunda** A fruição do benefício de que trata este convênio fica condicionado à comprovação do efetivo emprego das mercadorias e bens nas obras a que se refere à cláusula primeira deste convênio e a outros controles estabelecidos na legislação estadual.
+
+Nova redação dada a cláusula terceira pelo CV ICMS 135/25, efeitos a partir de 13.10.25.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2028.
+
+Redação original, efeitos até 12.10.25
+
+Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2025.

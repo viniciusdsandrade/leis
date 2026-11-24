@@ -1,0 +1,62 @@
+---
+titulo: "Convênio ICMS nº 113, de 12 de dezembro de 1997"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "113"
+data: 1997-12-12
+ementa: "Autoriza os Estados do Rio Grande do Sul, do Ceará, de Goiás e do Rio Grande do Norte a conceder crédito presumido do ICMS nas prestações de serviço de radiochamada, nas condições que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18/12/97."
+data_publicacao: "1997-12-18"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV113_97"
+sha256_html_fonte: "1ae56862aac604c6da8e5c2e4d2b431bf257bc89dffedc608eff5cb2b12cca51"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 113, de 12 de dezembro de 1997
+
+**CONVÊNIO ICMS 113/97**
+
+**Publicado no DOU de 18/12/97.**
+
+**Retificação no DOU de 24.12.97.**
+
+**Ratificação Nacional DOU de 02.01.98, pelo ATO-COTEPE**
+
+**01/98** .
+
+**Efeitos de 01.01.98 a 30.06.98**
+
+**Prorrogado, até 30.04.99, pelo Conv. ICMS**
+
+**23/98** .
+
+**Prorrogado, até 30.04.01, pelo Conv. ICMS**
+
+**05/99 .**
+
+**Prorrogado, até 30.04.02, pelo Conv. ICMS**
+
+**10/01** .
+
+**Conv. ICMS**
+
+**10/01 , com efeito a partir de 03.05.01, exclui o Estado do RS.**
+
+**Autoriza os Estados do Rio Grande do Sul, do Ceará, de Goiás e do Rio Grande do Norte a conceder crédito presumido do ICMS nas prestações de serviço de radiochamada, nas condições que especifica.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 88ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada no Rio de Janeiro, RJ, no dia 12 de dezembro de 1997, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam os Estados do Rio Grande do Sul, do Ceará, de Goiás e do Rio Grande do Norte autorizados a conceder aos estabelecimentos prestadores de serviço de radiochamada um crédito presumido, que será adotado opcionalmente, pelo contribuinte, em substituição ao sistema de tributação previsto na legislação estadual, de forma que o imposto devido fique equivalente a, no mínimo, dezessete por cento do valor das prestações de serviço correspondentes.
+
+**Parágrafo único.** Os Estados signatários poderão condicionar a concessão do benefício à não-utilização de outros créditos fiscais.
+
+Cláusula segunda
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos de 1º de janeiro de 1998 a 30 de junho de 1998.
+
+Rio de Janeiro, RJ, 12 de dezembro de 1997.

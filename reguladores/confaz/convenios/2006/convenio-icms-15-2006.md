@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 15, de 24 de março de 2006"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "15"
+data: 2006-03-24
+ementa: "Altera o Convênio ICMS 115/03, que dispõe sobre a uniformização e disciplina a emissão, escrituração, manutenção e prestação das informações dos documentos fiscais emitidos em via única por sistema eletrônico de processamento de dados para contribuintes prestadores de serviços de comunicação e fornecedores de energia elétrica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 29.03.06."
+data_publicacao: "2006-03-29"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV015_06"
+sha256_html_fonte: "43a03d1827d72d3f52a16de2c971cf0883cb2cfde6a1dd3c322f7f46d0e5adc7"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 15, de 24 de março de 2006
+
+**CONVÊNIO ICMS 15/06**
+
+**Publicado no DOU de 29.03.06.**
+
+**Retificação no DOU de 30.06.06.**
+
+**Altera o Convênio ICMS 115/03, que dispõe sobre a uniformização e disciplina a emissão, escrituração, manutenção e prestação das informações dos documentos fiscais emitidos em via única por sistema eletrônico de processamento de dados para contribuintes prestadores de serviços de comunicação e fornecedores de energia elétrica.**
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**
+
+, na sua 121ª reunião ordinária, realizada em Ipojuca, PE, no dia 24 de março de 2006, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira
+
+Passam a vigorar com a seguinte redação os dispositivos a seguir indicados do Convênio ICMS 115/03 , de 12 de dezembro de 2003:
+
+I - o inciso III do "caput" da cláusula segunda:
+
+"III - os documentos fiscais deverão ser numerados em ordem crescente e consecutiva, de 1 a 999.999.999, devendo ser reiniciada a numeração a cada período de apuração.";
+
+II - o inciso I do "caput" da cláusula sexta:
+
+"I - até o último dia do mês subseqüente ao período de apuração quando a exigência for mensal ou no prazo de 5 (cinco dias) contado do recebimento de notificação específica para entrega dos arquivos, sem prejuízo do acesso imediato às instalações, equipamentos e demais informações mantidas em qualquer meio; ";
+
+III - do Manual de Orientação constante do Anexo Único do Convênio ICMS 115/03:
+
+item 2.1.2:
+
+"2.1.2 Numerar os documentos fiscais em ordem crescente e consecutiva de 000.000.001 a 999.999.999, devendo ser contínua, sem intervalo ou quebra de seqüência de numeração, devendo ser reiniciada a numeração a cada período de apuração.";
+
+item 3.1.:
+
+"3.1. O contribuinte fornecerá ao Fisco os arquivos de que trata este Manual, até o último dia do mês subseqüente ao período de apuração quando esta exigência for mensal ou no prazo de 5 (cinco) dias contado do recebimento de notificação específica para entrega dos arquivos, sem prejuízo do acesso imediato às instalações, equipamentos e demais informações mantidas em qualquer meio.".
+
+Cláusula segunda
+
+Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de maio de 2006.
+
+Ipojuca, PE, 24 de março de 2006.

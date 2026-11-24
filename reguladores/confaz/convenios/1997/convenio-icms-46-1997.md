@@ -1,0 +1,50 @@
+---
+titulo: "Convênio ICMS nº 46, de 23 de maio de 1997"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "46"
+data: 1997-05-23
+ementa: "Autoriza os Estados do Ceará e de Goiás a conceder redução da base de cálculo do ICMS nas prestações de serviços de transporte."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.05.97."
+data_publicacao: "1997-05-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV046_97"
+sha256_html_fonte: "e6c956a0df0d7cfde11da716f4cab0fe43e776326adc89975798f2822c46a687"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 46, de 23 de maio de 1997
+
+**CONVÊNIO ICMS 46/97**
+
+**Publicado no DOU de 30.05.97.**
+
+**Ratificação Nacional DOU de 16.06.97 pelo Ato COTEPE-ICMS**
+
+**07/97** .
+
+**Autoriza os Estados do Ceará e de Goiás a conceder redução da base de cálculo do ICMS nas prestações de serviços de transporte.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 86ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Palmas, TO, no dia 23 de maio de 1997, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam os Estados do Ceará e de Goiás autorizados a conceder redução da base de cálculo do ICMS nas prestações internas de serviços de transporte, de forma que a carga tributária seja equivalente ao percentual de 12% (doze por cento).
+
+Cláusula segunda
+
+A redução poderá ser aplicada, opcionalmente, pelo contribuinte, em substituição ao sistema de tributação previsto na legislação estadual.
+
+**Parágrafo único.** O contribuinte que optar pelo benefício previsto na cláusula anterior não poderá utilizar quaisquer outros créditos ou benefício fiscal.
+
+Cláusula terceira
+
+O benefício estabelecido neste convênio não se aplica às prestações de serviço de transporte aéreo, disciplinadas no convênio, cujos benefícios encontram-se previstos no Convênio ICMS 120/96 , de 13 de dezembro de 1996.
+
+Cláusula quarta
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Palmas, TO, 23 de maio de 1997.

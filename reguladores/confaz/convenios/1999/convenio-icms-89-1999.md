@@ -1,0 +1,38 @@
+---
+titulo: "Convênio ICMS nº 89, de 10 de dezembro de 1999"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "89"
+data: 1999-12-10
+ementa: "Altera o Convênio ICM 15/88, de 12.07.88, que dispõe sobre a obrigatoriedade de recolhimento do ICM por guia em separado nas operações interestaduais com couro, sebo e outros produtos que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.99."
+data_publicacao: "1999-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV089_99"
+sha256_html_fonte: "b16ac56aaebc3673628e55c4f60b4e36e84bc6d4f5d0b31fd2eb50244ab76b00"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 89, de 10 de dezembro de 1999
+
+**CONVÊNIO ICMS 89/99**
+
+**Publicado no DOU de 20.12.99.**
+
+**Altera o Convênio ICM 15/88, de 12.07.88, que dispõe sobre a obrigatoriedade de recolhimento do ICM por guia em separado nas operações interestaduais com couro, sebo e outros produtos que especifica.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação e o Gerente de Receita dos Estados e do Distrito Federal, na 96ª reunião ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 10 de dezembro de 1999, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+O "caput" da cláusula primeira do Convênio ICM 15/88 , de 12 de julho de 1988, passa a vigorar com a seguinte redação:
+
+"Cláusula primeira O Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação incidente nas saídas com destino a outra unidade da Federação de couro e pele em estado fresco, salmourado ou salgado, de produto gorduroso não comestível de origem animal, inclusive o sebo, osso, chifre e casco será recolhido por guia em separado, antes de iniciada a remessa."
+
+**Cláusula segunda**
+
+Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2000.
+
+Brasília, DF, 10 de dezembro de 1999.

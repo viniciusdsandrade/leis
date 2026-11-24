@@ -1,0 +1,34 @@
+---
+titulo: "Convênio ICMS nº 90, de 25 de agosto de 2017"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "90"
+data: 2017-08-25
+ementa: "Altera o Convênio ICMS 124/13 que autoriza o Estado de Minas Gerais a remitir o crédito tributário, inclusive multas e juros incidentes, relativo às operações alcançadas pelo ICMS promovidas por contribuinte que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 29.08.17, pelo Despacho 123/17."
+data_publicacao: "2017-08-29"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV090_17"
+sha256_html_fonte: "942c6c0e4cb94b008b9e7e6a61e90bccdb9e262ddbab39eab47ce9013e78381f"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 90, de 25 de agosto de 2017
+
+CONVÊNIO ICMS 90, DE 25 DE AGOSTO DE 2017
+
+Publicado no DOU de 29.08.17, pelo Despacho 123/17.
+
+Ratificação Nacional no DOU de 18.09.17, pelo Ato Declaratório 19/17.
+
+Altera o Convênio ICMS 124/13 que autoriza o Estado de Minas Gerais a remitir o crédito tributário, inclusive multas e juros incidentes, relativo às operações alcançadas pelo ICMS promovidas por contribuinte que especifica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 288ª Reunião Extraordinária, realizada em Brasília, DF, no dia 25 de agosto de 2017, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** A cláusula primeira do Convênio ICMS 124/13, de 11 de outubro de 2013, passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Fica o Estado de Minas Gerais autorizado a conceder remissão do crédito tributário, das multas punitivas e moratórias e dos juros de mora incidentes, relativo às operações alcançadas pelo Imposto Sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, promovidas por Reciclo ASMARE Cultural Ltda. - ME, CNPJ 04.323.414/0001-02 e CNPJ 04.323.414/0002-93 vencido até 31 de agosto de 2013, constituído ou não, inclusive o espontaneamente denunciado pelo sujeito passivo, inscrito ou não em dívida ativa, inclusive ajuizado.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação da sua ratificação nacional no Diário Oficial da União.

@@ -1,0 +1,66 @@
+---
+titulo: "Convênio ICMS nº 57, de 30 de junho de 2015"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "57"
+data: 2015-06-30
+ementa: "Autoriza a concessão de crédito presumido de ICMS para a execução de programa social."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 02.07.15, pelo Despacho 125/15."
+data_publicacao: "2015-07-02"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV057_15"
+sha256_html_fonte: "f65d7fb46be5a325200cf310e9766adc8174f26627e769f632fc7e72555f9e68"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 57, de 30 de junho de 2015
+
+CONVÊNIO ICMS 57, DE 30 DE JUNHO DE 2015
+
+Publicado no DOU de 02.07.15, pelo Despacho 125/15.
+
+Ratificação Nacional no DOU de 21.07.15, pelo Ato Declaratório 14/15.
+
+Alterada pelo Conv. ICMS 12/17, 175/23.
+
+Prorrogado, até 30.04.19, pelo Conv. ICMS 207/17.
+
+Prorrogado, até 30.04.20 pelo Conv. ICMS 28/19.
+
+Prorrogado, até 31.12.20 pelo Conv. ICMS 22/20.
+
+Prorrogado, até 31.03.21, pelo Conv. ICMS 133/20.
+
+Prorrogado, até 31.03.22, pelo Conv. ICMS 28/21.
+
+Prorrogado, até 30.04.24, pelo Conv. ICMS 178/21.
+
+Adesão de SC, a partir de 05.12.23, pelo Conv. ICMS 175/23.
+
+Prorrogado, até 30.04.26, pelo Conv. ICMS 226/23.
+
+Prorrogado, até 31.12.26, pelo Conv. ICMS 21/26.
+
+Autoriza a concessão de crédito presumido de ICMS para a execução de programa social.
+
+O **Conselho Nacional de Política Fazendária - CONFAZ**, na sua 242ª reunião extraordinária, realizada em Brasília, DF, no dia 30 de junho de 2015, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte:
+
+C O N V Ê N I O
+
+Nova redação dada à cláusula primeira pelo Conv. ICMS 175/23, efeitos a partir de 05.12.23
+
+**Cláusula primeira** Os Estados do Paraná e Santa Catarina ficam autorizados a conceder crédito presumido do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS - às empresas fornecedoras de energia elétrica, a ser apropriado mensalmente, não podendo exceder, em cada ano, a 5% (cinco por cento) do imposto a recolher do mesmo período.
+
+Redação original, efeitos até 04.12.23
+
+Cláusula primeira Fica o Estado do Paraná autorizado a conceder crédito presumido do ICMS às empresas fornecedoras de energia elétrica, a ser apropriado mensalmente, não podendo exceder, em cada ano, a 5% (cinco por cento) do imposto a recolher do mesmo período.
+
+**Parágrafo único** O valor resultante do benefício de que trata o *caput* deve ser aplicado na execução de programa estadual destinado subsidiar o consumo de energia elétrica de famílias de baixa renda, beneficiárias do Programa Tarifa Social de Energia Elétrica do Governo Federal.
+
+**Cláusula segunda** A fruição do benefício previsto neste convênio fica condicionada ao cumprimento dos demais requisitos estabelecidos na legislação estadual, que poderá, inclusive, estabelecer limite ao valor a ser apropriado em cada ano.
+
+Acrescida a cláusula segunda-A pelo Conv. ICMS 12/17, efeitos a partir de 02.03.17.
+
+**Cláusula segunda-A** Não se aplica o limite percentual de que trata o *caput* da cláusula primeira, na hipótese de pendência de valores decorrentes do consumo de energia elétrica no âmbito de programa de que trata o seu parágrafo único, relativos a períodos anteriores à publicação deste convênio, observado a data de início de vigência do respectivo programa social.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 30 de abril de 2018.

@@ -1,0 +1,40 @@
+---
+titulo: "Convênio ICMS nº 46, de 25 de junho de 1992"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "46"
+data: 1992-06-25
+ementa: "Altera o percentual de redução da base de cálculo do ICMS na exportação de seda cardada e penteada."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU 29.06.92."
+data_publicacao: "1992-06-29"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV046_92"
+sha256_html_fonte: "af1358ecf8d063767744b87376d7adaa5014546d5bbd8f17251f480bac8d8f2c"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 46, de 25 de junho de 1992
+
+**CONVÊNIO ICMS 46/92**
+
+**Publicado no DOU 29.06.92.**
+
+**Ratificação Nacional DOU de 16.07.92 pelo Ato COTEPE-ICMS**
+
+**02/92** .
+
+**Altera o percentual de redução da base de cálculo do ICMS na exportação de seda cardada e penteada.**
+
+O Ministro da Economia, Fazenda e Planejamento e os Secretários de Fazenda, Economia ou Finanças dos Estados e do Distrito Federal, na 67ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 25 de junho de 1992, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+O percentual de redução da base de cálculo do ICMS do produto classificado na posição e sub-posição 5003.90.0000 da NBM/SH (seda cardada e penteada) constante da Lista que trata o Convênio ICMS 15/91 , de 25 de abril de 1991, passa a ser de 50% (cinqüenta por cento).
+
+Cláusula segunda
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 25 de junho de 1992.

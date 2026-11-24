@@ -1,0 +1,36 @@
+---
+titulo: "Convênio ICMS nº 159, de 9 de dezembro de 2020"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "159"
+data: 2020-12-09
+ementa: "Dispõe sobre a adesão do Estado de Alagoas e altera o Convênio ICMS 50/19, que dispõe sobre a substituição tributária nas operações com energia elétrica (Anexo VIII) nos termos do Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação – ICMS - com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 11.12.20. pelo Despacho 96/20."
+data_publicacao: "2020-12-11"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV159_20"
+sha256_html_fonte: "e49be936a30d780a7f4e5bc9818d74041480e931175eecd5a4b35ea9263720a1"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 159, de 9 de dezembro de 2020
+
+**CONVÊNIO ICMS 159/20, DE 9 DE DEZEMBRO DE 2020**
+
+Publicado no DOU de 11.12.20. pelo Despacho 96/20.
+
+Dispõe sobre a adesão do Estado de Alagoas e altera o Convênio ICMS 50/19, que dispõe sobre a substituição tributária nas operações com energia elétrica (Anexo VIII) nos termos do Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação – ICMS - com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 179ª Reunião Ordinária, realizada em Brasília, DF, no dia 9 de dezembro de 2020, considerando o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º, nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006 e no Convênio ICMS 142/18, de 14 de dezembro de 2018, resolve celebrar o seguinte
+
+**CONVÊNIO**
+
+**Cláusula primeira** Fica o Estado de Alagoas incluído nas disposições do Convênio ICMS 50/19, de 5 de abril de 2019.
+
+**Cláusula segunda** Fica alterada a cláusula primeira do Convênio ICMS 50/19, que passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Os Estados de Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Maranhão, Mato Grosso do Sul, Minas Gerais, Pará, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Santa Catarina e Sergipe nos termos deste convênio e do Convênio ICMS 142/18, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com a mercadoria relacionada no Anexo VIII do referido convênio.
+
+**Parágrafo único.** O disposto no *caput* desta cláusula somente se aplica às operações iniciadas nos estados signatários com destino à distribuidora localizada nos Estados de Alagoas e Amazonas.”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do dia 1º de janeiro de 2021.

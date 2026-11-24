@@ -1,0 +1,36 @@
+---
+titulo: "Convênio ICMS nº 90, de 30 de setembro de 2011"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "90"
+data: 2011-09-30
+ementa: "Altera o Convênio ICMS 133/08, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas operações com produtos nacionais e estrangeiros destinados aos Jogos Olímpicos e Paraolímpicos de 2016."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 05.10.11, pelo Despacho 179/11 ."
+data_publicacao: "2011-10-05"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV090_11"
+sha256_html_fonte: "05a5378ccf77d3be3a7257178a9e961c83a68d6f23830251fb58071728568594"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 90, de 30 de setembro de 2011
+
+CONVÊNIO ICMS 90, DE 30 DE SETEMBRO DE 2011
+
+Publicado no DOU de 05.10.11, pelo Despacho 179/11 .
+
+Ratificação Nacional no DOU de 21.10.11, pelo Ato Declaratório 15/11 .
+
+Altera o Convênio ICMS 133/08, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas operações com produtos nacionais e estrangeiros destinados aos Jogos Olímpicos e Paraolímpicos de 2016.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** , na sua 143ª reunião ordinária, realizada em Manaus, AM, no dia 30 de setembro de 2011, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam acrescentados os §§ 6º e 7º à cláusula primeira do Convênio ICMS 133/08 , de 5 de dezembro de 2008, com a seguinte redação:
+
+“§ 6º Fica o Estado do Rio de Janeiro autorizado a conceder a isenção prevista no *caput* desta cláusula à aquisição de energia elétrica e à utilização dos serviços de transporte intermunicipal e interestadual e de comunicação pelo Comitê Organizador dos Jogos Olímpicos e Paraolímpicos de 2016, desde que destinados à realização dos referidos jogos, observado o disposto no § 3º desta cláusula e na cláusula quarta deste convênio.
+
+**§ 7º** O disposto no § 6º desta cláusula fica condicionado à redução do valor do imposto dispensado no preço do produto ou serviço .”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

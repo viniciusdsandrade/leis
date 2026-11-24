@@ -1,0 +1,62 @@
+---
+titulo: "Convênio ICMS nº 95, de 23 de setembro de 2016"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "95"
+data: 2016-09-23
+ementa: "Autoriza a concessão de anistia de multas e juros relativos ao ICMS incidente sobre prestações de serviços de telecomunicações, exceto os de televisão por assinatura via satélite, na forma que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 28.09.16, pelo Despacho 168/16."
+data_publicacao: "2016-09-28"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV095_16"
+sha256_html_fonte: "00820eeb52cf98acf1dcede9cdc9d6165b97798e9896abd7025bcdc7346254fd"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 95, de 23 de setembro de 2016
+
+CONVÊNIO ICMS 95, DE 23 DE SETEMBRO DE 2016
+
+Publicado no DOU de 28.09.16, pelo Despacho 168/16.
+
+Ratificação nacional no DOU de 17.10.16, pelo Ato Declaratório 18/16.
+
+Alterado pelo Conv. ICMS 42/17.
+
+Nova redação dada à ementa pelo Conv. ICMS 42/17, efeitos a partir de 03.05.17.
+
+Autoriza a concessão de anistia de multas e juros relativos ao ICMS incidente sobre prestações de serviços de transportes rodoviários de cargas e de telecomunicações, exceto os de televisão por assinatura via satélite, na forma que especifica.
+
+Redação original, efeitos até 02.05.17.
+
+Autoriza a concessão de anistia de multas e juros relativos ao ICMS incidente sobre prestações de serviços de telecomunicações, exceto os de televisão por assinatura via satélite, na forma que especifica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 162ª Reunião Ordinária, realizada em Boa Vista, RR, no dia 23 de setembro de 2016, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Nova redação dada ao *caput* da cláusula primeira pelo Conv. ICMS 42/17, efeitos a partir de 03.05.17.
+
+**Cláusula primeira** Fica o Estado de Santa Catarina autorizado a não exigir multas e juros nos créditos tributários, constituídos ou não de ofício, inscritos ou não em dívida ativa, inclusive os já parcelados, relativos ao ICMS incidente sobre prestações de serviços de transportes rodoviários de cargas e de telecomunicações, exceto os de televisão por assinatura via satélite, cujos fatos geradores ocorreram até 30 de junho de 2016.
+
+Redação original, efeitos até 02.05.17.
+
+Cláusula primeira Fica o Estado de Santa Catarina autorizado a não exigir multas e juros nos créditos tributários, constituídos ou não de ofício, inscritos ou não em dívida ativa, inclusive os já parcelados, relativos ao ICMS incidente sobre prestações de serviços de telecomunicações, exceto os de televisão por assinatura via satélite, cujos fatos geradores ocorreram até 30 de junho de 2016.
+
+**§ 1º** O débito poderá ser parcelado em até 60 meses.
+
+**§ 2º** Sobre as parcelas vincendas, a partir da segunda, incidirão os juros previstos na legislação da unidade federada.
+
+**§ 3º** Os créditos tributários inscritos em dívida ativa poderão sofrer os acréscimos previstos na legislação da unidade federada, relativos à cobrança executada pela Procuradoria Geral da unidade federada.
+
+**§ 4º** O benefício somente será concedido ao contribuinte que comprove o pagamento ou o parcelamento de créditos tributários relativos a fatos geradores idênticos aos alcançados por este convênio, ocorridos a partir de 1º de julho de 2016.
+
+**Cláusula segunda** O crédito tributário será reconstituído, voltando ao valor original, sem prejuízo de apropriação das parcelas pagas, no caso do contribuinte beneficiado por este convênio sofrer autuação relativa a serviços de telecomunicações a partir da concessão do benefício.
+
+**Parágrafo único.** O parcelamento será cancelado, aplicando-se a penalidade prevista no *caput* desta cláusula, no caso de atraso no pagamento de até três parcelas.
+
+**Cláusula terceira** O prazo de adesão aos benefícios autorizados por este convênio será estabelecido na legislação da unidade federada.
+
+**Cláusula quarta** O disposto neste convênio não autoriza a restituição ou a compensação de importâncias já pagas.
+
+**Cláusula quinta** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

@@ -1,0 +1,40 @@
+---
+titulo: "Convênio ICMS nº 57, de 6 de julho de 2001"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "57"
+data: 2001-07-06
+ementa: "Revoga o Convênio ICMS 161/92, de 15.12.92, que autoriza o Estado do Rio Grande do Norte a conceder benefícios fiscais do ICMS, relacionados com a construção de CIACs."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 12.07.01."
+data_publicacao: "2001-07-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV057_01"
+sha256_html_fonte: "7d5d9cddb6cc89b51337f2509489cd7fafc84e764a08c35b0d7100cc21d6c0d4"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 57, de 6 de julho de 2001
+
+**CONVÊNIO ICMS 57/01**
+
+**Publicação DOU de 12.07.01.**
+
+**Ratificação Nacional DOU de 09.08.01, pelo Ato Declaratório**
+
+**07/01** .
+
+**Revoga o Convênio ICMS 161/92, de 15.12.92, que autoriza o Estado do Rio Grande do Norte a conceder benefícios fiscais do ICMS, relacionados com a construção de CIACs.**
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 102ª reunião ordinária, realizada em Goiânia, GO, no dia 6 de julho de 2001, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica revogado o Convênio ICMS 161/92 , de 15 de dezembro de 1992, que autoriza o Estado do Rio Grande do Norte a conceder benefícios fiscais do ICMS, relacionados com a construção de CIACs.
+
+Cláusula segunda
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Goiânia, GO, 6 de julho de 2001.

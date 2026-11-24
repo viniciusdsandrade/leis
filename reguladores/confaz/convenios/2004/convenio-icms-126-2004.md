@@ -1,0 +1,34 @@
+---
+titulo: "Convênio ICMS nº 126, de 10 de dezembro de 2004"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "126"
+data: 2004-12-10
+ementa: "Dispõe sobre a adesão do Estado de Sergipe às disposições do Convênio ICMS 04/04, que autoriza os Estados de Alagoas, Amazonas, Bahia, Goiás, Minas Gerais, Paraná, Pernambuco, Rio de Janeiro, Rio Grande do Sul, Rondônia, Santa Catarina e São Paulo a conceder isenção do ICMS à prestação de serviço de transporte intermunicipal de cargas."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 15.12.04."
+data_publicacao: "2004-12-15"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV126_04"
+sha256_html_fonte: "595af6ec728a499b87886c25c1b3b6b3f9962c70733c6d723964b6a83fe75aec"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 126, de 10 de dezembro de 2004
+
+CONVÊNIO ICMS 126/04
+
+· Publicado no DOU de 15.12.04.
+
+· Ratificação Nacional DOU de 04.01.05, pelo Ato Declaratório 08/04 .
+
+Dispõe sobre a adesão do Estado de Sergipe às disposições do Convênio ICMS 04/04, que autoriza os Estados de Alagoas, Amazonas, Bahia, Goiás, Minas Gerais, Paraná, Pernambuco, Rio de Janeiro, Rio Grande do Sul, Rondônia, Santa Catarina e São Paulo a conceder isenção do ICMS à prestação de serviço de transporte intermunicipal de cargas.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 116ª reunião ordinária, realizada em Foz do Iguaçu, PR, no dia 10 de dezembro de 2004, tendo em vista o disposto na Lei Complementar n.º 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Fica o Estado de Sergipe incluído nas disposições contidas no Convênio ICMS 04/04 , de 2 de abril de 2004.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo seus efeitos a partir de 1º de janeiro de 2005.
+
+Foz do Iguaçu, PR, 10 de dezembro de 2004.

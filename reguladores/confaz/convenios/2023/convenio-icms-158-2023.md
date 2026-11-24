@@ -1,0 +1,36 @@
+---
+titulo: "Convênio ICMS nº 158, de 29 de setembro de 2023"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "158"
+data: 2023-09-29
+ementa: "Dispõe sobre a adesão do Estado do Paraná e altera o Convênio ICMS nº 112/13, que autoriza a concessão de redução de base de cálculo do ICMS nas saídas internas de biogás e biometano."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 03.10.23., pelo despacho 54/23."
+data_publicacao: "2023-10-03"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV158_23"
+sha256_html_fonte: "f1cf78a654a7c68448bb12995333042a3381fe448d7f4e19ebd4203cf2ecf2d9"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 158, de 29 de setembro de 2023
+
+CONVÊNIO ICMS Nº 158, DE 29 DE SETEMBRO DE 2023
+
+Publicado no DOU de 03.10.23., pelo despacho 54/23.
+
+Ratificação Nacional no DOU de 20.10.23, pelo Ato Declaratório 40/23.
+
+Dispõe sobre a adesão do Estado do Paraná e altera o Convênio ICMS nº 112/13, que autoriza a concessão de redução de base de cálculo do ICMS nas saídas internas de biogás e biometano.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 190ª Reunião Ordinária, realizada no Rio de Janeiro, RJ, no dia 29 de setembro de 2023, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** O Estado do Paraná fica incluído nas disposições do Convênio ICMS nº 112, de 11 de outubro de 2013.
+
+**Cláusula segunda** O “caput” da cláusula primeira do Convênio ICMS nº 112/13 passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Os Estados da Bahia, Mato Grosso, Paraná, Rio de Janeiro e São Paulo ficam autorizados a conceder redução da base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - nas saídas internas com biogás e biometano, de tal forma que a carga tributária do imposto resulte na aplicação do percentual de 12% (doze por cento) sobre o valor da operação.”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

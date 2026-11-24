@@ -1,0 +1,34 @@
+---
+titulo: "Convênio ICMS nº 2, de 24 de janeiro de 2023"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "2"
+data: 2023-01-24
+ementa: "Altera o Convênio ICMS nº 178/22, que autoriza as unidades federadas que menciona a instituir o Programa de Recuperação de Créditos Fiscais - REFIS, com a finalidade de regularizar créditos, constituídos ou não, inscritos ou não na Dívida Ativa, ajuizados ou não, decorrentes de fatos geradores ocorridos até 31 de outubro de 2022, com redução de penalidades e acréscimos legais, na forma que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 25.01.23, pelo Despacho 02/23."
+data_publicacao: "2023-01-25"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV002_23"
+sha256_html_fonte: "8be45852ace616b1bb3063d898389769ea88b03ee611ce6c1229a7729bc02ac1"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 2, de 24 de janeiro de 2023
+
+CONVÊNIO/ICMS Nº 2, DE 24 DE JANEIRO DE 2023
+
+Publicado no DOU de 25.01.23, pelo Despacho 02/23.
+
+Ratificação Nacional no DOU de 13.02.23, pelo Ato Declaratório 03/23.
+
+Altera o Convênio ICMS nº 178/22, que autoriza as unidades federadas que menciona a instituir o Programa de Recuperação de Créditos Fiscais - REFIS, com a finalidade de regularizar créditos, constituídos ou não, inscritos ou não na Dívida Ativa, ajuizados ou não, decorrentes de fatos geradores ocorridos até 31 de outubro de 2022, com redução de penalidades e acréscimos legais, na forma que especifica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 365ª Reunião Extraordinária, realizada no dia 24 de janeiro de 2023, em Brasília, DF, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** O § 5º fica incluído na cláusula primeira do Convênio ICMS nº 178, de 9 de dezembro de 2022, com a seguinte redação:
+
+“§ 5º Em caráter excepcional, o Estado do Tocantins fica autorizado a aplicar o disposto neste convênio, também em relação aos fatos gerados ocorridos até 31 de outubro de 2022, desde que a adesão ocorra em até 60 (sessenta) dias contados da publicação, no Diário Oficial da União, da ratificação nacional do convênio que inclui o presente parágrafo.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União

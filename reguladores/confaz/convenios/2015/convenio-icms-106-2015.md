@@ -1,0 +1,32 @@
+---
+titulo: "Convênio ICMS nº 106, de 2 de outubro de 2015"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "106"
+data: 2015-10-02
+ementa: "Altera o Convênio ICMS 77/11, que dispõe sobre o regime de substituição tributária aplicável ao ICMS incidente sobre as sucessivas operações internas ou interestaduais relativas à circulação de energia elétrica, desde a produção ou importação até a última operação que a destine ao consumo de destinatário que a tenha adquirido em ambiente de contratação livre."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 08.10.15, pelo Despacho 193/15."
+data_publicacao: "2015-10-08"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV106_15"
+sha256_html_fonte: "d03fdcadb000daa5bbde1dd81e1262402bacef88b7f297d8389f382e4000230d"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 106, de 2 de outubro de 2015
+
+CONVÊNIO ICMS 106, DE 2 DE OUTUBRO DE 2015
+
+Publicado no DOU de 08.10.15, pelo Despacho 193/15.
+
+Altera o Convênio ICMS 77/11, que dispõe sobre o regime de substituição tributária aplicável ao ICMS incidente sobre as sucessivas operações internas ou interestaduais relativas à circulação de energia elétrica, desde a produção ou importação até a última operação que a destine ao consumo de destinatário que a tenha adquirido em ambiente de contratação livre.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 158ª reunião ordinária, realizada em Florianópolis, SC, no dia 2 de outubro de 2015, tendo em vista o disposto no art. 9º, § 1º, inciso II, e § 2º, da Lei Complementar nº 87, de 13 de setembro de 1996, e nos arts. 102, 128 e 199 do Código Tributário Nacional - CTN (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** O § 2º da cláusula primeira do Convênio ICMS 77/11, de 5 de agosto de 2015, passa a vigorar com a seguinte redação:
+
+“§ 2º Na hipótese do inciso I do *caput*, o destinatário da energia elétrica deverá, para fins da apuração da base de cálculo de que trata o § 1º, prestar, ao fisco da unidade federada à qual seja devido o imposto, até o dia 20 de cada mês, declaração do valor devido, cobrado ou pago pela energia elétrica por ele consumida no mês imediatamente anterior, para o conjunto de todos os seus domicílios ou estabelecimentos localizados na área de abrangência do respectivo submercado, conforme definido na Resolução 402, de 21 de setembro de 2001, da Agência Nacional de Energia Elétrica - ANEEL, ainda que essa área alcance, total ou parcialmente, o território de outras unidades federadas.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de novembro de 2015.

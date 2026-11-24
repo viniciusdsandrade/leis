@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 124, de 5 de dezembro de 2014"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "124"
+data: 2014-12-05
+ementa: "Autoriza o Distrito Federal a suspender a exigibilidade e a conceder remissão do ICMS relativo aos créditos tributários decorrentes do tratamento tributário concedido nos termos da Lei nº 3.152/2003, que instituiu o Programa de Estímulo à Implantação e ao Desenvolvimento do Setor Logístico do Distrito Federal - PRÓ - DF/Logístico e dá outras providências."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 10.12.14, pelo Despacho 222/14."
+data_publicacao: "2014-12-10"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV124_14"
+sha256_html_fonte: "d6bd52a0205be30fdf3b7d91f76526c7fff3f2e94072234ea4a5b213b6f7b7be"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 124, de 5 de dezembro de 2014
+
+CONVÊNIO ICMS 124, DE 5 DE DEZEMBRO DE 2014
+
+Publicado no DOU de 10.12.14, pelo Despacho 222/14.
+
+Ratificação Nacional no DOU de 30.12.14, pelo Ato Declaratório 19/14.
+
+Autoriza o Distrito Federal a suspender a exigibilidade e a conceder remissão do ICMS relativo aos créditos tributários decorrentes do tratamento tributário concedido nos termos da Lei nº 3.152/2003, que instituiu o Programa de Estímulo à Implantação e ao Desenvolvimento do Setor Logístico do Distrito Federal - PRÓ - DF/Logístico e dá outras providências.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 155ª reunião ordinária, realizada em São Paulo, SP, no dia 5 de dezembro de 2014, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Fica o Distrito Federal autorizado a suspender, até 31 de dezembro de 2015, a exigibilidade dos créditos tributários do ICMS provenientes da diferença entre os créditos apurados pelo regime normal de apuração e pelo tratamento tributário especial concedido em decorrência do art. 2º e seu § 2º, art. 3º, incisos I e II, e do art. 4º da Lei Distrital nº 3.152, de 6 de maio de 2003, que instituiu o Programa de Estímulo à Implantação e ao Desenvolvimento do Setor Logístico do Distrito Federal - PRÓ - DF/Logístico e dá outras providências, lançados ou não, inscritos ou não na dívida ativa, desconstituídos judicialmente por não atenderem o disposto nos artigos 19, *caput*, 126, incisos II e III, 129, *caput*, 131, inciso I, 134, inciso I e IV, e 135, inciso I, e § 5º, incisos I, III e VII, todos da Lei Orgânica do Distrito Federal, decorrentes de fatos geradores ocorridos até 30 de junho de 2010.
+
+**§ 1º** Fica concedida, desde que atendidos os requisitos da cláusula terceira deste convênio, remissão dos créditos tributários suspensos na forma do *caput*, no termo final de sua suspensão.
+
+**§ 2º** A suspensão e a remissão prevista nesta cláusula não alcançam os valores cobrados por meio de auto de infração lavrado contra contribuinte do Distrito Federal, que esteja relacionado ao descumprimento da Lei Distrital nº 3.152/2003 e as respectivas normas regulamentadoras.
+
+**Cláusula segunda** Fica suspensa a exigibilidade dos créditos tributários apropriados pelos contribuintes destinatários, localizados no Distrito Federal e nas demais unidades federadas, decorrentes de operações cuja exigibilidade dos créditos tributários dos remetentes esteja suspensa na forma da cláusula primeira.
+
+**§ 1º** Fica concedida remissão dos créditos tributários dos contribuintes destinatários na mesma data em que ocorrer a remissão prevista no *caput* da cláusula primeira.
+
+**§ 2º** Não se suspendem nem se remitem os valores cobrados por meio de autos de infração das administrações tributárias das unidades federadas, exceto a do Distrito Federal, contra seus respectivos contribuintes, relativos à apropriação de créditos indicados no *caput*.
+
+**Cláusula terceira** O Distrito Federal, nos termos deste convênio e a partir de sua celebração, acorda em não conceder ou prorrogar incentivos ou benefícios fiscais vinculados ao ICMS concedidos com base na norma referida na cláusula primeira, ressalvada a concessão ou prorrogação na forma prevista na Lei Complementar nº 24, de 7 de janeiro de 1975.
+
+**Cláusula quarta** A aprovação do disposto neste convênio não implica reconhecimento unânime do direito à glosa de créditos decorrente de benefícios fiscais concedidos por outras unidades da Federação.
+
+**Cláusula quinta** Este convênio entra em vigor na data da sua publicação, produzindo efeitos a partir da ratificação nacional.

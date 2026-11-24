@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 65, de 3 de julho de 2009"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "65"
+data: 2009-07-03
+ementa: "Altera o Convênio ICMS 11/09, que autoriza os Estados do Acre, Alagoas, Ceará, Espírito Santo, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Rio Grande do Norte, Rondônia, Roraima e Tocantins e o Distrito Federal a dispensar ou reduzir juros e multas mediante parcelamento de débitos fiscais relacionados com o ICM e o ICMS, na forma que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.07.09, pelo Despacho 171/09 ."
+data_publicacao: "2009-07-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2009/CV065_09"
+sha256_html_fonte: "91fcddf24f52ce684f6d12e91cd40f9aeabf6f95a4cb0be3bc11370d4008c260"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 65, de 3 de julho de 2009
+
+CONVÊNIO ICMS 65, DE 3 DE JULHO DE 2009
+
+Publicado no DOU de 09.07.09, pelo Despacho 171/09 .
+
+Ratificação Nacional DOU de 28.07.09, pelo Ato Declaratório 05/09 .
+
+Altera o Convênio ICMS 11/09, que autoriza os Estados do Acre, Alagoas, Ceará, Espírito Santo, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Rio Grande do Norte, Rondônia, Roraima e Tocantins e o Distrito Federal a dispensar ou reduzir juros e multas mediante parcelamento de débitos fiscais relacionados com o ICM e o ICMS, na forma que especifica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 134ª reunião ordinária, realizada em Manaus, AM, no dia 3 de julho de 2009, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** A cláusula segunda do Convênio ICMS 11/09 , de 3 de abril de 2009, fica acrescida dos §§ 4º a 6º, com a seguinte redação:
+
+“§ 4º A vedação de que trata a alínea a, do inciso IV, do § 1º desta cláusula não se aplica aos Estados do Acre, Alagoas, Ceará, Maranhão, Pará, Paraná, Rio Grande do Norte, Roraima e Tocantins em relação aos parcelamentos em curso que não tenham sido beneficiados anteriormente por dispensa ou redução de juros ou multas derivados da implementação de convênios anteriores que trataram desta mesma matéria.
+
+**§ 5º** Ficam os Estados do Acre, Alagoas, Ceará, Maranhão, Pará, Paraíba, Paraná, Roraima e Tocantins autorizados a prorrogar até 30 de setembro de 2009 o prazo previsto no caput desta cláusula.
+
+**§ 6º** Ficam os Estado de Acre, Alagoas e Tocantins autorizados a parcelar débito fiscal objeto de parcelamento anterior, cujo fato gerador tenha ocorrido até 30 de junho de 2008 e o contrato tenha sido rescindido até 31 de março de 2009 e a não aplicar o disposto na alínea “a” do inciso IV do § 1º desta cláusula, a contribuintes que se encontrem adimplentes com parcelamentos em curso.”.
+
+**Cláusula segunda** A cláusula sexta do Convênio ICMS 11/09 passa a vigorar com a seguinte redação:
+
+“Cláusula sexta As unidades federadas constantes na cláusula primeira poderão limitar a aplicação do benefício definido neste convênio, estabelecer outras condições de rescisão do contrato celebrado em decorrência do parcelamento e dispor sobre atualização monetária.
+
+**Parágrafo único.** Os Estados do Ceará, Maranhão e Rio Grande do Norte poderão fixar percentuais de redução de multas punitivas e moratórias e de juros de mora intermediários, diversos dos previstos nos incisos de I a III do caput da cláusula segunda deste convênio, respeitados os limites máximo e mínimo de redução de multas punitivas e moratórias e de juros de mora.”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

@@ -1,0 +1,50 @@
+---
+titulo: "Convênio ICM nº 30, de 15 de julho de 1986"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "30"
+data: 1986-07-15
+ementa: "Autoriza o Estado do Rio Grande do Sul a conceder dispensa de multas e acréscimos a empresas que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado DOU de 16.07.86."
+data_publicacao: "1986-07-16"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1986/CV030_86"
+sha256_html_fonte: "7cb308943989f168189ceac247d1b551f91dcab57854f587b3cf86ca1d501ccf"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 30, de 15 de julho de 1986
+
+**CONVÊNIO ICM 30/86**
+
+**Publicado DOU de 16.07.86.**
+
+**Ratificação Nacional DOU de 01.08.86 pelo Ato COTEPE-ICM**
+
+**06/86** .
+
+**Autoriza o Estado do Rio Grande do Sul a conceder dispensa de multas e acréscimos a empresas que especifica.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 13ª Reunião Extraordinária do Conselho de Política Fazendária, realizada no dia 15 de julho de 1986, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado do Rio Grande do Sul autorizado a conceder dispensa de multas e outros acréscimos correspondentes a débitos do Imposto sobre Operações Relativas à Circulação de Mercadorias, lançados ou não, às empresas Grêmio Foot Ball Porto Alegrense e INCOSIPLA - Industrial Couro Sintético e Plástico Ltda.
+
+**Parágrafo único** . O benefício somente será concedido se atendidas as seguintes condições:
+
+I - O imposto devido tenha vencido anteriormente a 28.02.86; e
+
+II - O pagamento, ou o seu início, do imposto devidamente corrigido, ocorra no prazo de até 60 (sessenta) dias da ratificação nacional deste Convênio.
+
+Cláusula segunda
+
+O disposto neste Convênio não implicará em restituição ou compensação de importância já pagas.
+
+Cláusula terceira
+
+Este Convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 15 de julho de 1986.

@@ -1,0 +1,208 @@
+---
+titulo: "Convênio ICMS nº 77, de 5 de agosto de 2011"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "77"
+data: 2011-08-05
+ementa: "Dispõe sobre o regime de substituição tributária aplicável ao ICMS incidente sobre as sucessivas operações internas ou interestaduais relativas à circulação de energia elétrica, desde a produção ou importação até a última operação que a destine ao consumo de destinatário que a tenha adquirido em ambiente de contratação livre."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 08.08.11, pelo Despacho 142/11."
+data_publicacao: "2011-08-08"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV077_11"
+sha256_html_fonte: "366e4143fce4afdd3bfc94abea2cfcb4fb88c4274c479303bf19993ffe07680f"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 77, de 5 de agosto de 2011
+
+CONVÊNIO ICMS 77, DE 5 DE AGOSTO DE 2011
+
+Publicado no DOU de 08.08.11, pelo Despacho 142/11.
+
+Alterado pelos Convs. ICMS 100/11, 144/11, 11/12, 37/12, 143/13, 185/13, 61/14, 40/15, 46/15, 104/15, 106/15, 148/15, 58/16, 79/17, 98/17, 153/17, 182/17, 185/17, 71/18, 139/26.
+
+Vide Convs. ICMS 144/11 e 37/12.
+
+Vide Convs. ICMS 105/14 e 34/15 quanto ao prazo previsto no Anexo Único para PE.
+
+Vide Conv. ICMS 98/15, em relação a PE.
+
+Exclusão de MG, a partir de 08.10.15, pelo Conv. ICMS 104/15.
+
+Exclusão de MA, a partir de 01.10.20, pelo Conv. ICMS 89/20 .
+
+Exclusão de SP, a partir de 01.01.22, pelo Conv. ICMS 225/21.
+
+Dispõe sobre o regime de substituição tributária aplicável ao ICMS incidente sobre as sucessivas operações internas ou interestaduais relativas à circulação de energia elétrica, desde a produção ou importação até a última operação que a destine ao consumo de destinatário que a tenha adquirido em ambiente de contratação livre.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 164ª reunião extraordinária, realizada em Brasília, DF, no dia 5 de agosto de 2011, tendo em vista o disposto no art. 9º, § 1º, inciso II, e § 2º, da Lei Complementar nº 87, de 13 de setembro de 1996, e nos arts. 102, 128 e 199 do Código Tributário Nacional - CTN (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Nova redação dada ao *caput* da cláusula primeira pelo Conv. ICMS 11/12, efeitos a partir de 01.06.12 e para BA e GO a partir de 01.09.12.
+
+**Cláusula primeira** Ficam os Estados e o Distrito Federal, quando destinatários, autorizados a atribuir a condição de sujeito passivo por substituição tributária, relativamente ao ICMS incidente sobre as sucessivas operações internas e interestaduais, correspondentes à circulação de energia elétrica, desde a sua importação ou produção até a última operação da qual decorra a sua saída com destino a estabelecimento ou domicílio onde deva ser consumida por destinatário que a tenha adquirido por meio de contrato de compra e venda firmado em ambiente de contratação livre, a:
+
+Redação anterior dada ao *caput* da cláusula primeira pelo Conv. ICMS 100/11, efeitos de 01.01.12 a 31.05.12 e para BA e GO não produziu efeitos.
+
+Cláusula primeira Ficam os Estados da Bahia, Goiás, Maranhão, Mato Grosso, Minas Gerais, Paraná, Santa Catarina, São Paulo e Sergipe, quando destinatários, autorizados a atribuir a condição de sujeito passivo por substituição tributária, relativamente ao ICMS sobre as sucessivas operações internas e interestaduais, correspondentes à circulação de energia elétrica, desde a sua importação ou produção até a última operação da qual decorra a sua saída com destino a estabelecimento ou domicílio onde deva ser consumida por destinatário que a tenha adquirido por meio de contrato de compra e venda firmado em ambiente de contratação livre, a:
+
+Redação original, sem efeitos (seriam a partir de 01.01.12 e para BA e GO 01.09.12 - vide cláusula quinta).
+
+Cláusula primeira Ficam os Estados da Bahia, Maranhão, Mato Grosso, Minas Gerais, Paraná, Santa Catarina, São Paulo e Sergipe, quando destinatários, autorizados a atribuir a condição de sujeito passivo por substituição tributária, relativamente ao ICMS sobre as sucessivas operações internas e interestaduais, correspondentes à circulação de energia elétrica, desde a sua importação ou produção até a última operação da qual decorra a sua saída com destino a estabelecimento ou domicílio onde deva ser consumida por destinatário que a tenha adquirido por meio de contrato de compra e venda firmado em ambiente de contratação livre, a:
+
+I - empresa distribuidora que praticar a última operação em referência por força da execução de contratos de conexão e de uso da rede de distribuição por ela operada, firmados com o respectivo destinatário que deva se conectar àquela rede para fins do recebimento, em condições de consumo, da energia elétrica por ele adquirida de terceiros;
+
+II - destinatário que, estando conectado diretamente à Rede Básica de transmissão, promover a entrada de energia elétrica no seu estabelecimento ou domicílio para fins do seu próprio consumo.
+
+**§ 1º** A base de cálculo do imposto será o valor da última operação, nele incluídos, o valor devido, cobrado ou pago pela energia elétrica, os valores e encargos cobrados pelas empresas responsáveis pela operação da rede ou da linha de distribuição ou de transmissão à qual estiver conectado o destinatário, e quaisquer outros valores e encargos inerentes ao consumo da energia elétrica, ainda que devidos a terceiros.
+
+Nova redação dada ao § 2º da cláusula primeira pelo Conv. ICMS 58/16, efeitos a partir de 15.07.16.
+
+**§ 2º** Na hipótese do inciso I do *caput*, o destinatário da energia elétrica deverá, para fins da apuração da base de cálculo de que trata o § 1º, prestar, ao fisco da unidade federada à qual seja devido o imposto, até o dia 14 de cada mês, declaração do valor devido, cobrado ou pago pela energia elétrica por ele consumida no mês imediatamente anterior, para o conjunto de todos os seus domicílios ou estabelecimentos localizados na área de abrangência do respectivo submercado, conforme definido na Resolução 402, de 21 de setembro de 2001, da Agência Nacional de Energia Elétrica - ANEEL, ainda que essa área alcance, total ou parcialmente, o território de outras unidades federadas.
+
+Redação anterior dada ao § 2º da cláusula primeira pelo Conv. ICMS 106/15, efeitos de 01.11.15 a 14.07.16.
+
+**§ 2º** Na hipótese do inciso I do *caput*, o destinatário da energia elétrica deverá, para fins da apuração da base de cálculo de que trata o § 1º, prestar, ao fisco da unidade federada à qual seja devido o imposto, até o dia 20 de cada mês, declaração do valor devido, cobrado ou pago pela energia elétrica por ele consumida no mês imediatamente anterior, para o conjunto de todos os seus domicílios ou estabelecimentos localizados na área de abrangência do respectivo submercado, conforme definido na Resolução 402, de 21 de setembro de 2001, da Agência Nacional de Energia Elétrica - ANEEL, ainda que essa área alcance, total ou parcialmente, o território de outras unidades federadas.
+
+Redação original, efeitos até 31.10.15.
+
+**§ 2º** Na hipótese do inciso I do *caput*, o destinatário da energia elétrica deverá, para fins da apuração da base de cálculo de que trata o § 1º, prestar, ao fisco da unidade federada à qual seja devido o imposto, até o dia 12 de cada mês, declaração do valor devido, cobrado ou pago pela energia elétrica por ele consumida no mês imediatamente anterior, para o conjunto de todos os seus domicílios ou estabelecimentos localizados na área de abrangência do respectivo submercado, conforme definido na Resolução 402, de 21 de setembro de 2001, da Agência Nacional de Energia Elétrica - ANEEL, ainda que essa área alcance, total ou parcialmente, o território de outras unidades federadas.
+
+**§ 3º** Na ausência da declaração de que trata o § 2º ou quando esta, a critério do fisco, não merecer fé, a base de cálculo do imposto, na hipótese do inciso I do *caput*, será o preço praticado pela empresa distribuidora em operação final, relativa à circulação de energia elétrica objeto de saída, por ela promovida, com destino a domicílio ou estabelecimento, localizado no território da mesma unidade federada, onde a energia elétrica deva, por força da execução de contrato de fornecimento firmado sob o regime da concessão ou permissão da qual ela for titular, ser consumida pelo destinatário em condições técnicas equivalentes de conexão e de uso do respectivo sistema de distribuição.
+
+Nova redação dada ao § 4º da cláusula primeira pelo Conv. ICMS 143/13, efeitos a partir de 01.12.13.
+
+**§ 4º** O destinatário da energia elétrica poderá, a critério de cada unidade federada, mediante requerimento dirigido à autoridade fiscal competente, ser dispensado da obrigação de prestar a declaração prevista no § 2º em relação aos fatos geradores ocorridos desde o dia 1º de janeiro até o dia 31 de dezembro de cada ano, sendo que a concessão da dispensa pelo fisco implicará a aplicação do disposto no § 3º para fins de determinação da base de cálculo do ICMS incidente sobre as operações correspondentes aos fatos geradores objeto do respectivo pedido.
+
+Redação original, efeitos até 30.11.13.
+
+**§ 4º** O destinatário da energia elétrica poderá, a critério de cada unidade federada, mediante requerimento dirigido à autoridade fiscal competente, ser dispensado da obrigação de prestar a declaração prevista no § 2º em relação aos fatos geradores ocorridos desde o dia 1º de janeiro até o dia 31 de dezembro de cada ano, sendo que a concessão da dispensa pelo fisco implicará a aplicação do disposto no § 3º para fins de arbitramento da base de cálculo do ICMS incidente sobre as operações correspondentes aos fatos geradores objeto do respectivo pedido.
+
+**§ 5º** A apuração e o pagamento do valor do ICMS devido pela empresa distribuidora, na hipótese do inciso I, poderá, a critério de cada unidade federada, ser diferido para o momento em que ocorrer a entrada da energia elétrica no estabelecimento, localizado no seu território, onde ela deva ser consumida pelo respectivo destinatário, hipótese em que este ficará responsável pelo apuração e pagamento do imposto devido nas operações antecedentes.
+
+Acrescido o § 6° à cláusula primeira pelo Convênio ICMS 139/26, efeitos a partir de 18.11.26.
+
+**§ 6°** Alternativamente ao procedimento previsto no § 2° desta cláusula, o Fisco da unidade federada poderá, na forma e condições estabelecidas na legislação estadual, disponibilizar à empresa distribuidora os dados relativos ao valor médio da energia elétrica, extraídos dos documentos fiscais eletrônicos constantes de sua base de dados, para fins de apuração da base de cálculo prevista no § 1° também desta cláusula, ficando a distribuidora:
+
+I - autorizada a utilizar as informações recebidas, exclusivamente, para o cumprimento da substituição tributária de que trata este convênio;
+
+II - sujeita às demais regras, procedimentos e controles estabelecidos pela legislação da respectiva unidade federada.
+
+**Cláusula segunda** Quando a última operação de que trata a cláusula primeira for praticada por empresa geradora ou distribuidora que destine a energia elétrica diretamente, por meio de linha de distribuição ou de transmissão por ela operada, não interligada ao Sistema Interligado Nacional - SIN, a domicílio ou a estabelecimento localizado em outra unidade federada onde não deva ser objeto de nova comercialização ou industrialização da qual resulte a sua saída subsequente, a responsabilidade pela apuração e pagamento do ICMS incidente sobre a entrada da energia elétrica no território da unidade federada de destino poderá ser por esta atribuída à empresa:
+
+I - distribuidora, localizada em outra unidade federada, que praticar a última operação em referência por força da execução de contratos de conexão e de uso da linha de distribuição ou de transmissão por ela operada, firmados com o respectivo destinatário que deva se conectar àquela linha para fins do recebimento, em condições de consumo, da energia elétrica por ele adquirida de terceiros, observado o disposto nos §§ 2º, 3º e 4º da cláusula primeira e na cláusula segunda;
+
+II - geradora, localizada em outra unidade federada, que praticar a última operação em referência por força da execução de contratos de compra e venda de energia elétrica, firmados com o respectivo destinatário em ambiente de contratação livre.
+
+**§ 1º** A empresa geradora ou distribuidora à qual for atribuída a responsabilidade pela apuração e pagamento do ICMS nos termos desta cláusula:
+
+I - deverá inscrever-se no Cadastro de Contribuintes da unidade federada de destino da energia elétrica, observado o disposto no Convênio ICMS 81/93, de 10 de setembro de 1993.
+
+II - ficará sujeita, no que couber, ao cumprimento das demais obrigações previstas no Convênio ICMS 81/93.
+
+**§ 2º** O valor do imposto a ser apurado e pago nos termos desta cláusula deverá:
+
+I - corresponder ao resultado da aplicação da alíquota interna, prevista na legislação da Unidade Federada de destino, sobre a base de cálculo definida no art. 13, VIII e § 1º, inciso I, da Lei Complementar nº 87, de 13 de setembro de 1996, observado o disposto no § 1º da cláusula primeira;
+
+II - para fins do disposto no § 2º do artigo 9º da Lei Complementar nº 87, de 13 de setembro de 1996, ser recolhido até o 9º (nono) dia subsequente ao término do período de apuração no qual tiver sido efetuado o respectiva retenção, em favor da unidade federada de destino da energia elétrica.
+
+Nova redação dada à cláusula terceira pelo Conv. ICMS 11/12, efeitos a partir de 01.06.12 e para BA e GO a partir de 01.09.12.
+
+**Cláusula terceira** O disposto neste convênio:
+
+I - também se aplica nas demais hipóteses em que a energia elétrica, objeto da última operação de que trata a cláusula primeira, não tenha sido adquirida pelo destinatário por meio de contrato de fornecimento firmado com empresa distribuidora sob o regime da concessão ou permissão da qual esta for titular;
+
+Revogado o inciso II da cláusula terceira pelo Conv. ICMS 143/13, efeitos a partir de 01.12.13.
+
+II - REVOGADO
+
+Redação anterior dada ao inciso II da cláusula terceira pelo Conv. ICMS 11/12, efeitos de 01.06.12 a 30.11.13 e para BA e GO de 01.09.12 a 30.11.13.
+
+II - não se aplica às operações interestaduais relativas à circulação de energia elétrica destinada a estabelecimentos ou domicílios localizados nas unidades federadas do Acre, Alagoas, Amapá, Amazonas, Ceará, Distrito Federal, Espírito Santo, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, e Tocantins, para neles ser consumida pelos respectivos destinatários que a tenham adquirido por meio de contratos de compra e venda firmados em ambiente de contratação livre.
+
+Redação original, efeitos até 31.05.12 e para BA e GO não produziu efeitos (seriam a partir de 01.09.12 - vide cláusula quinta).
+
+Cláusula terceira O disposto neste convênio também se aplica nas demais hipóteses em que a energia elétrica, objeto da última operação de que trata a cláusula primeira, não tenha sido adquirida pelo destinatário por meio de contrato de fornecimento firmado com empresa distribuidora sob o regime da concessão ou permissão da qual esta for titular.
+
+Nova redação dada à cláusula quarta pelo Conv. ICMS 11/12, efeitos a partir de 01.06.12 e para BA e GO a partir de 01.09.12.
+
+**Cláusula quarta** A administração tributária de cada unidade federada poderá, nos termos do disposto em Ato COTEPE ou, na ausência deste, da legislação estadual correspondente, exigir que:
+
+I - a Câmara de Comercialização de Energia Eletrica (CCEE) preste informações relativas à liquidação de contratos de compra e venda de energia elétrica firmados em ambiente de contratação livre;
+
+II - o Operador Nacional do Sistema (ONS) preste informações referentes aos encargos de uso da Rede Básica de transmissão, por ele apurados para fins de cobrança dos remetentes ou destinatários da energia elétrica objeto de operações relativas à sua circulação, praticadas pelas empresas de transmissão responsáveis pela operação dos subsistemas de transmissão integrantes daquela rede.
+
+Redação original, efeitos até 31.05.12 e para BA e GO não produziu efeitos (seriam a partir de 01.09.12 - vide cláusula quinta).
+
+Cláusula quarta A Câmara de Comercialização de Energia Eletrica (CCEE) e o Operador Nacional do Sistema (ONS) deverão prestar informações à administração tributária de cada unidade federada nos termos do disposto em Ato COTEPE ou, na ausência deste, da legislação estadual correspondente.
+
+Acrescida a cláusula quarta-A pelo Conv. ICMS 143/13, efeitos a partir de 01.12.13.
+
+**Cláusula quarta-A** O disposto neste convênio aplica-se às unidades federadas constantes do Anexo Único, a partir da data nele indicada, observado o seguinte:
+
+Nova redação dada ao inciso I da cláusula quarta-A pelo Conv. ICMS 225/21, efeitos a partir de 01.01.22.
+
+I - a exigência imposta ao agente da CCEE, nos termos do *caput* da cláusula primeira do Convênio ICMS nº 15, de 30 de março de 2007, não se aplica à comercialização de energia destinada às unidades federadas constantes no Anexo Único e ao Estado de São Paulo;
+
+Redação anterior acrescida pelo Conv. ICMS 143/13, efeitos de 01.12.13. a 31.12.21.
+
+I - a exigência imposta ao agente da CCEE, nos termos do *caput* da cláusula primeira do Convênio ICMS 15/07, de 30 de março de 2007, não se aplica à comercialização de energia destinada às unidades federadas constantes no Anexo Único;
+
+II - a responsabilidade atribuída ao consumidor de energia elétrica conectado à rede básica, prevista no *caput* da cláusula primeira do Convênio ICMS 117/04, de 10 de dezembro de 2004, não se aplica aos consumidores localizados nas unidades federadas constantes no Anexo Único;
+
+Nova redação dada ao inciso I da cláusula quarta-A pelo Conv. ICMS 225/21, efeitos a partir de 01.01.22.
+
+III - as disposições do Convênio ICMS nº 83, de 15 de dezembro de 2000, não se aplicam às operações interestaduais relativas à circulação de energia elétrica destinada a estabelecimentos ou domicílios localizados nas unidades federadas constantes do Anexo Único e no Estado de São Paulo.
+
+Redação anterior acrescida pelo Conv. ICMS 143/13, efeitos de 01.12.13. a 31.12.21.
+
+III - as disposições do Convênio ICMS 83/00, de 15 de dezembro de 2000, não se aplicam às operações interestaduais relativas à circulação de energia elétrica destinada a estabelecimentos ou domicílios localizados nas unidades federadas constantes do Anexo Único.
+
+Acrescidos os §§ 1º e 2º à cláusula quarta-A pelo Conv. ICMS 148/15, efeitos a partir de 15.12.15.
+
+**§ 1º** Fica o Estado de Goiás autorizado a exigir o cumprimento das obrigações principal e acessória impostas ao agente da CCEE, nos termos do Convênio ICMS 15/07, não se lhe aplicando o disposto no inciso I do *caput* desta cláusula.
+
+**§ 2º** O disposto no inciso III desta cláusula não se aplica ao estado de Mato Grosso.
+
+Nova redação dada à cláusula quinta pelo Conv. ICMS 144/11, efeitos a partir de 22.12.11.
+
+**Cláusula quinta** Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos:
+
+Nova redação dada ao inciso I da cláusula quinta pelo Conv. ICMS 37/12, efeitos a partir de 09.04.12.
+
+I - a partir de 1º de setembro de 2012, em relação aos Estados da Bahia e Goiás;
+
+Redação anterior dada ao inciso I da cláusula quinta pelo Conv. ICMS 144/11, efeitos de 22.12.11 a 08.04.12.
+
+I - a partir de 1º de maio de 2012, em relação aos Estados da Bahia e Goiás;
+
+II - a partir de 1º de janeiro de 2012, em relação às demais unidades federadas.
+
+Redação original, efeitos até 21.12.11.
+
+Cláusula quinta Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2012.
+
+Nova redação dada ao Anexo Único pelo Conv. ICMS 104/15, efeitos a partir de 08.10.15.
+
+<table><tbody><tr><td colspan="3"> <p>ANEXO ÚNICO</p> </td> </tr><tr><td> <p>ITEM</p> </td> <td> <p>UNIDADES FEDERADAS</p> </td> <td> <p>DATA</p> </td> </tr><tr><td> <p>1</p> </td> <td> <p>Mato Grosso</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>2</p> </td> <td> <p>Santa Catarina</p> </td> <td> <p>01/10/2013</p> </td> </tr><tr><td> <p>3</p> </td> <td> <p>Sergipe</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td colspan="3"> <p>Revogado o item 4 pelo Conv. ICMS 225/21, efeitos a partir de 01.01.22.</p> </td> </tr><tr><td colspan="3"><strong>Redação anterior dada ao item 4 pelo Conv. ICMS 104/15, efeitos de 08.10.15 a 31.12.21</strong></td> </tr><tr><td> <p>4</p> </td> <td> <p>São Paulo</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>5</p> </td> <td> <p>Bahia</p> </td> <td> <p>01/09/2012</p> </td> </tr><tr><td> <p>6</p> </td> <td> <p>Goiás</p> </td> <td> <p>01/09/2012</p> </td> </tr><tr><td colspan="3"> <p>Revogado o item 7 pelo Conv. ICMS 89/20, efeitos a partir de 01.10.20.</p> </td> </tr><tr><td colspan="3"> <p>Redação anterior dada ao item 7 pelo Conv. ICMS 104/15, efeitos de 08.10.15 a 30.09.20.</p> </td> </tr><tr><td> <p>7</p> </td> <td> <p>Maranhão</p> </td> <td> <p>01/01/2013</p> </td> </tr><tr><td colspan="3"> <p>Revogado o item 8 pelo Conv. ICMS 79/17, efeitos a partir de 20.07.17.</p> </td> </tr><tr><td colspan="3"> <p>Redação anterior dada ao item 8 pelo Conv. ICMS 104/15, efeitos de 08.10.15 a 19.07.17.</p> </td> </tr><tr><td> <p>8</p> </td> <td> <p>Rondônia</p> </td> <td> <p>01/03/2014</p> </td> </tr><tr><td colspan="3"> <p>Revogado o item 9 pelo Conv. ICMS 71/18, efeitos a partir de 01.11.18.</p> </td> </tr><tr><td colspan="3"> <p>Redação anterior dada ao item 9 pelo Conv. ICMS 104/15, efeitos de 08.10.15 a 31.10.18.</p> </td> </tr><tr><td> <p>9</p> </td> <td> <p>Pernambuco</p> </td> <td> <p>01/01/2016</p> </td> </tr><tr><td> <p>10</p> </td> <td> <p>Paraná</p> </td> <td> <p>01/08/2015</p> </td> </tr><tr><td colspan="3"> <p>Revogado o item 11 pelo Conv. ICMS 185/17, efeitos a partir de 28.11.17.</p> </td> </tr><tr><td colspan="3"> <p>Acrescido o item 11 pelo Conv. ICMS 79/17, efeitos de 01.08.17 a 27.11.17.</p> </td> </tr><tr><td> <p>11</p> </td> <td> <p>Amazonas</p> </td> <td> <p>01/08/2017</p> </td> </tr><tr><td colspan="3"> <p>Nova redação dada ao item 12 pelo Conv. ICMS 182/17, efeitos a partir de 28.11.17.</p> </td> </tr><tr><td> <p>12</p> </td> <td> <p>Rio de Janeiro</p> </td> <td> <p>01/01/2018</p> </td> </tr><tr><td colspan="3"> <p>Redação anterior dada ao item 12 pelo Conv. ICMS 153/17, efeitos de 26.10.17 a 27.11.17.</p> </td> </tr><tr><td> <p>12</p> </td> <td> <p>Rio de Janeiro</p> </td> <td> <p>01/12/2017</p> </td> </tr><tr><td colspan="3"> <p>Redação anterior dada ao item 12 pelo Conv. ICMS 98/17, efeitos de 11.09.17 a 25.10.17.</p> </td> </tr><tr><td> <p>12</p> </td> <td> <p>Rio de Janeiro</p> </td> <td> <p>01/11/2017</p> </td> </tr><tr><td colspan="3"> <p>Acrescido o item 12 pelo Conv. ICMS 79/17, efeitos de 01.10.17 a 10.09.17.</p> </td> </tr><tr><td> <p>12</p> </td> <td> <p>Rio de Janeiro</p> </td> <td> <p>01/10/2017</p> </td> </tr></tbody></table>
+
+Redação anterior dada ao Anexo Único pelo Conv. ICMS 46/15, efeitos de 05.06.15 a 07.10.15.
+
+<table><tbody><tr><td colspan="2"> <p>ANEXO ÚNICO</p> </td> </tr><tr><td> <p>UNIDADES FEDERADAS</p> </td> <td> <p>DATA</p> </td> </tr><tr><td> <p>Minas Gerais</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>Mato Grosso</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>Santa Catarina</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>Sergipe</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>São Paulo</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>Bahia</p> </td> <td> <p>01/09/2012</p> </td> </tr><tr><td> <p>Goiás</p> </td> <td> <p>01/09/2012</p> </td> </tr><tr><td> <p>Maranhão</p> </td> <td> <p>01/01/2013</p> </td> </tr><tr><td> <p>Rondônia</p> </td> <td> <p>01/03/2014</p> </td> </tr><tr><td> <p>Paraná</p> </td> <td> <p>01/08/2015</p> </td> </tr><tr><td> <p>Pernambuco</p> </td> <td> <p>01/01/2016</p> </td> </tr></tbody></table>
+
+Redação anterior dada ao Anexo Único pelo Conv. ICMS 40/15, efeitos de 22.05.15 a 04.06.15.
+
+<table><tbody><tr><td colspan="2"> <p>ANEXO ÚNICO</p> </td> </tr><tr><td> <p>UNIDADES FEDERADAS</p> </td> <td> <p>DATA</p> </td> </tr><tr><td> <p>Minas Gerais</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>Mato Grosso</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>Santa Catarina</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>Sergipe</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>São Paulo</p> </td> <td> <p>01/01/2012</p> </td> </tr><tr><td> <p>Bahia</p> </td> <td> <p>01/09/2012</p> </td> </tr><tr><td> <p>Goiás</p> </td> <td> <p>01/09/2012</p> </td> </tr><tr><td> <p>Maranhão</p> </td> <td> <p>01/01/2013</p> </td> </tr><tr><td> <p>Rondônia</p> </td> <td> <p>01/03/2014</p> </td> </tr><tr><td> <p>Pernambuco</p> </td> <td> <p>01/09/2014</p> </td> </tr><tr><td> <p>Paraná</p> </td> <td> <p>01/08/2015</p> </td> </tr></tbody></table>
+
+Redação anterior dada ao Anexo Único pelo Conv. ICMS 61/14, efeitos de 01.07.14 a 19.05.15.
+
+<table><tbody><tr><td colspan="2"> <p>ANEXO ÚNICO</p> </td> <td> <p> </p> </td> </tr><tr><td> <p>UNIDADES FEDERADAS</p> </td> <td colspan="2"> <p>DATA</p> </td> </tr><tr><td> <p>Minas Gerais</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Mato Grosso</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Santa Catarina</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Sergipe</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>São Paulo</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Bahia</p> </td> <td colspan="2"> <p>01/09/2012</p> </td> </tr><tr><td> <p>Goiás</p> </td> <td colspan="2"> <p>01/09/2012</p> </td> </tr><tr><td> <p>Maranhão</p> </td> <td colspan="2"> <p>01/01/2013</p> </td> </tr><tr><td> <p>Rondônia</p> </td> <td colspan="2"> <p>01/03/2014</p> </td> </tr><tr><td colspan="3"> <p>Alterado o prazo de PE para 01.01.16, pelo Conv. ICMS 34/15.</p> <p>Alterado o prazo de PE para 01.07.15, pelo Conv. ICMS 105/14.</p> </td> </tr><tr><td> <p>Pernambuco</p> </td> <td colspan="2"> <p>01/09/2014</p> </td> </tr><tr><td></td> <td></td> <td></td> </tr></tbody></table>
+
+Redação anterior dada ao Anexo Único pelo Conv. ICMS 185/13, efeitos de 12.12.13 até 30.06.14.
+
+<table><tbody><tr><td colspan="2"> <p>ANEXO ÚNICO</p> </td> <td> <p> </p> </td> </tr><tr><td> <p>UNIDADES FEDERADAS</p> </td> <td colspan="2"> <p>DATA</p> </td> </tr><tr><td> <p>Minas Gerais</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Mato Grosso</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Santa Catarina</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Sergipe</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>São Paulo</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Bahia</p> </td> <td colspan="2"> <p>01/09/2012</p> </td> </tr><tr><td> <p>Goiás</p> </td> <td colspan="2"> <p>01/09/2012</p> </td> </tr><tr><td> <p>Maranhão</p> </td> <td colspan="2"> <p>01/01/2013</p> </td> </tr><tr><td> <p>Rondônia</p> </td> <td colspan="2"> <p>01/03/2014</p> </td> </tr><tr><td> <p>Pernambuco</p> </td> <td colspan="2"> <p>01/07/2014</p> </td> </tr><tr><td></td> <td></td> <td></td> </tr></tbody></table>
+
+Acrescido o Anexo Único pelo Conv. ICMS 143/13, efeitos de 01.12.13 a 11.12.13.
+
+<table><tbody><tr><td colspan="2"> <p>ANEXO ÚNICO</p> </td> <td> <p> </p> </td> </tr><tr><td> <p>UNIDADES FEDERADAS</p> </td> <td colspan="2"> <p>DATA</p> </td> </tr><tr><td> <p>Minas Gerais</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Mato Grosso</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Santa Catarina</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Sergipe</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>São Paulo</p> </td> <td colspan="2"> <p>01/01/2012</p> </td> </tr><tr><td> <p>Bahia</p> </td> <td colspan="2"> <p>01/09/2012</p> </td> </tr><tr><td> <p>Goiás</p> </td> <td colspan="2"> <p>01/09/2012</p> </td> </tr><tr><td> <p>Maranhão</p> </td> <td colspan="2"> <p>01/01/2013</p> </td> </tr><tr><td> <p>Pernambuco</p> </td> <td colspan="2"> <p>01/01/2014</p> </td> </tr><tr><td></td> <td></td> <td></td> </tr></tbody></table>

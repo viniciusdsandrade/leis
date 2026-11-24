@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICM nº 34, de 27 de fevereiro de 1989"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "34"
+data: 1989-02-27
+ementa: "Dispõe sobre a incidência do ICMS nas operações de saída de mercadorias sujeitas à alíquota superior a 17%."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 28.02.89."
+data_publicacao: "1989-02-28"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1989/CVM034_89"
+sha256_html_fonte: "18ff0dfd9b3482b39a2254642fe88e417d5a484a1bebe60df55ca697622756ea"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 34, de 27 de fevereiro de 1989
+
+**CONVÊNIO ICM 34/89**
+
+**Publicação DOU de 28.02.89.**
+
+**Ratificação Nacional DOU de 17.03.89, pelo Ato COTEPE/ICM**
+
+**03/89** .
+
+**Prorrogado até 30.04.89 pelo Conv. ICMS**
+
+**25/89** .
+
+**Dispõe sobre a incidência do ICMS nas operações de saída de mercadorias sujeitas à alíquota superior a 17%.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 16ª Reunião Extraordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 27 de fevereiro de 1989, tendo em vista o disposto na Lei Complementar n° 24, de 07 de janeiro de 1975, resolvem celebrar o seguinte
+
+**CONVÊNIO**
+
+**Cláusula primeira**
+
+Acordam os Estados e o Distrito Federal em reduzir, até 31 de março de 1989, a base de cálculo do ICMS de tal forma que a incidência do imposto, nas operações internas, resulte no percentual de 17% (dezessete por cento), relativamente a mercadorias sujeitas a alíquotas superiores a esse nível nas respectivas legislações estaduais.
+
+**Parágrafo único.** O disposto nesta Cláusula não se aplica a operações com energia elétrica, petróleo, combustíveis e lubrificantes líquidos e gasosos dele derivados e álcool anidro e hidratado para fins carburantes.
+
+Cláusula segunda
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional, retroagindo seus efeitos a 1º de março de 1989.
+
+Brasília, DF, 27 de fevereiro de 1989.

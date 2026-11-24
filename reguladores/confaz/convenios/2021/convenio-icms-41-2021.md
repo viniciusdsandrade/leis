@@ -1,0 +1,54 @@
+---
+titulo: "Convênio ICMS nº 41, de 8 de abril de 2021"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "41"
+data: 2021-04-08
+ementa: "Autoriza as unidades federadas que menciona a conceder isenção do ICMS incidente nas operações internas e de importação do exterior, bem como as correspondentes prestações de serviço de transporte, realizadas com oxigênio medicinal e autoriza as unidades federadas a conceder isenção do ICMS incidente nas operações e prestações do serviço de transporte interestaduais com oxigênio medicinal destinadas às unidades federadas mencionadas."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.04.21, pelo despacho 22/21."
+data_publicacao: "2021-04-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV041_21"
+sha256_html_fonte: "a25a82abfc812ab198beb4dce9fba0144a34eea88933cdebf0331ac5f7a6d9ba"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 41, de 8 de abril de 2021
+
+CONVÊNIO ICMS 41/21, DE 08 DE ABRIL DE 2021
+
+Publicado no DOU de 12.04.21, pelo despacho 22/21.
+
+Ratificação Nacional no DOU de 22.04.21, pelo Ato Declaratório 10/21.
+
+Retificação publicada no DOU de 16.04.21
+
+Prorrogado, até 30.04.24, pelo Conv. ICMS 178/21.
+
+Autoriza as unidades federadas que menciona a conceder isenção do ICMS incidente nas operações internas e de importação do exterior, bem como as correspondentes prestações de serviço de transporte, realizadas com oxigênio medicinal e autoriza as unidades federadas a conceder isenção do ICMS incidente nas operações e prestações do serviço de transporte interestaduais com oxigênio medicinal destinadas às unidades federadas mencionadas.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** na sua 180ª Reunião Ordinária, realizada em Brasília, DF, no dia 08 de abril de 2021, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Autoriza o Estado do Amapá, Amazonas, Espírito Santo, Goiás, Maranhão,Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraná, Rio de Janeiro, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, e Tocantins e o Distrito Federal a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS – incidente nas operações internas e de importação do exterior, bem como nascorrespondentes prestações de serviço de transporte, realizadas no âmbito das medidas de prevenção e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2), em relação a mercadoriaa seguir descrita:
+
+<table><tbody><tr><td> <p>ITEM</p> </td> <td> <p>NCM/SH</p> </td> <td> <p>Descrição</p> </td> </tr><tr><td> <p>1</p> </td> <td> <p>2804.40.00</p> </td> <td> <p>Oxigênio Medicinal</p> </td> </tr></tbody></table>
+
+Parágrafo único.As unidades federadas ficam autorizadas a isentar as operações, e respectivas prestações de serviço de transporte, com a mercadoria descrita no *caput* com destino aos Estados doAmapá, Amazonas, Espírito Santo, Goiás, Maranhão,Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraná, Rio de Janeiro, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, e Tocantins e ao Distrito Federal.
+
+**Cláusula segunda** Ficam os Estadosdo Amapá, Amazonas, Espírito Santo, Goiás, Maranhão,Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraná, Rio de Janeiro, Roraima, Santa Catarina, e Tocantins e o Distrito Federalautorizados a não exigir o estorno do crédito de ICMS previsto nos incisos I e II do art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996.
+
+**Cláusula terceira** Legislação estadual poderá dispor sobre demais condições, prazos, e procedimentos para fruição do benefício de que trata este convênio.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2021.
+
+RETIFICAÇÃO
+
+Publicado no DOU de 16.04.2021
+
+Na ementa do Convênio ICMS 41/21, de 08 de abril de 2021, publicado no DOU de 12 de abril de 2021, Seção 1, página 47, onde se lê: “...com oxigênio medicinal destinadas ao Estado do Maranhão.”, leia-se: “... com oxigênio medicinal destinadas às unidades federadas mencionadas.”.
+
+CARLOS HENRIQUE DE AZEVEDO OLIVEIRA
+
+Diretor da Secretaria-Executiva do CONFAZ

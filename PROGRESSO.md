@@ -1,10 +1,10 @@
 # Progresso
 
-Gerado em 23/11/2026 21:49:10 (America/Recife). Escopo: `scripts/plano.py`.
+Gerado em 23/11/2026 21:49:34 (America/Recife). Escopo: `scripts/plano.py`.
 
 Percentuais usam somente documentos e metas das séries com universo estimado ou contado. Séries sem meta ficam fora do cálculo. Cada série contribui até sua própria meta. Volume não comprova integralidade das fontes ou qualidade das conversões.
 
-**1.480.025 documentos · 1.324.078 / ~11.773.477 nas séries com meta (11.2%) · 29.040 sem meta**
+**1.486.637 documentos · 1.330.690 / ~11.773.477 nas séries com meta (11.3%) · 29.040 sem meta**
 
 ![progresso](progresso.svg)
 
@@ -91,16 +91,16 @@ Planalto, Senado, Câmara e assembleias.
 
 Diários oficiais e portais de órgãos e tribunais.
 
-820.747 documentos · 684.121 / ~865.998 nas séries com meta (79.0%) · 16.059 sem meta
+827.359 documentos · 690.733 / ~865.998 nas séries com meta (79.8%) · 16.059 sem meta
 
 ### Infralegal — tributário
 
-85.842 documentos · 79.902 / ~134.038 nas séries com meta (59.6%) · 5.940 sem meta
+92.454 documentos · 86.514 / ~134.038 nas séries com meta (64.5%) · 5.940 sem meta
 
 | | Tipo de norma | Tem | Meta | Pasta | Fonte |
 | :-: | --- | ---: | ---: | --- | --- |
 | 🟦 | Receita Federal: instruções normativas, portarias, atos declaratórios, soluções de consulta e pareceres normativos | 75.842 | 115.238 | `reguladores/rfb` | RFB — Sijut (23 espécies normativas) e Diário Oficial da União |
-| 🟦 | CONFAZ: convênios, protocolos e ajustes SINIEF | 2.416 | 12.000 | `reguladores/confaz` | Diário Oficial da União (in.gov.br) e portal oficial CONFAZ |
+| 🟦 | CONFAZ: convênios, protocolos e ajustes SINIEF | 9.028 | 12.000 | `reguladores/confaz` | Diário Oficial da União (in.gov.br) e portal oficial CONFAZ |
 | 🟦 | Tesouro Nacional: portarias e instruções | 466 | 2.000 | `reguladores/stn` | Diário Oficial da União (in.gov.br) |
 | 🟦 | Procuradoria-Geral da Fazenda Nacional | 255 | 1.500 | `reguladores/pgfn` | Diário Oficial da União (in.gov.br) |
 | 🟦 | CARF: súmulas e resoluções | 76 | 300 | `reguladores/carf` | Diário Oficial da União (in.gov.br) |

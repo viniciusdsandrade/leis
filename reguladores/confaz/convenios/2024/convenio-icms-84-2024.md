@@ -1,0 +1,42 @@
+---
+titulo: "Convênio ICMS nº 84, de 5 de julho de 2024"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "84"
+data: 2024-07-05
+ementa: "Autoriza o Estado do Rio Grande do Sul a conceder crédito fiscal presumido do ICMS nas aquisições de máquinas, equipamentos ou aparelhos que venham a integrar o ativo permanente do estabelecimento adquirente, na forma que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.07.24, pelo despacho 30/24."
+data_publicacao: "2024-07-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV084_24"
+sha256_html_fonte: "27099114491b35914d358cc5cbc34ade0a9a61eb3864b0f4ba14871a140a8b68"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 84, de 5 de julho de 2024
+
+**CONVÊNIO ICMS Nº 84, DE 5 DE JULHO DE 2024**
+
+Publicado no DOU de 09.07.24, pelo despacho 30/24.
+
+Ratificação Nacional no DOU de 26.07.24, pelo Ato Declaratório 23/24.
+
+Autoriza o Estado do Rio Grande do Sul a conceder crédito fiscal presumido do ICMS nas aquisições de máquinas, equipamentos ou aparelhos que venham a integrar o ativo permanente do estabelecimento adquirente, na forma que especifica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 193ª Reunião Ordinária, realizada em São Luís, MA, no dia 5 de julho de 2024, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** O Estado do Rio Grande do Sul fica autorizado a conceder crédito fiscal presumido do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - aos estabelecimentos contribuintes que tenham tido máquinas, equipamentos ou aparelhos de seu ativo permanente extraviados, perdidos, furtados, roubados, deteriorados ou destruídos, em decorrência das chuvas intensas que atingiram o território do Estado entre abril e maio de 2024, em montante igual ao que resultar da aplicação do percentual de até 20% (vinte por cento) sobre o valor total das aquisições de máquinas, equipamentos ou aparelhos, no período de 1º de maio a 31 de dezembro de 2024.
+
+**§ 1º** O benefício previsto neste convênio é vinculado ao Decreto Legislativo Federal nº 36, de 7 de maio de 2024, e somente se aplica aos estabelecimentos localizados nos municípios declarados em estado de calamidade pública ou em situação de emergência pelo Decreto Estadual nº 57.600, de 4 de maio de 2024.
+
+**§ 2º** O benefício previsto neste convênio não se aplica a empresas fornecedoras de energia elétrica e de prestação de serviço.
+
+**Cláusula segunda** O valor das máquinas, equipamentos ou aparelhos a que se refere a cláusula primeira deve ser comprovado pelas notas fiscais relativas às aquisições.
+
+**Cláusula terceira** Na hipótese de venda ou transferência de máquinas, equipamentos ou aparelhos adquiridos com o benefício previsto neste convênio antes de 12 (doze) meses contados da data de aquisição, o crédito fiscal concedido deve ser estornado em valor proporcional ao que faltar para completar o prazo de 12 (doze) meses.
+
+**Cláusula quarta** Legislação da unidade federada poderá estabelecer limites, condições e exceções para aplicação do disposto neste convênio.
+
+**Cláusula quinta** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2024.

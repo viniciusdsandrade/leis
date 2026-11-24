@@ -1,0 +1,36 @@
+---
+titulo: "Convênio ICMS nº 37, de 1º de abril de 2011"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "37"
+data: 2011-04-01
+ementa: "Altera o Convênio ICMS 96/09, que dispõe sobre fabricação, distribuição e aquisição de papéis com dispositivos de segurança."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 05.04.11, pelo Despacho 49/11 ."
+data_publicacao: "2011-04-05"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV037_11"
+sha256_html_fonte: "07235c87faf12868ea50903cfe74568ab16ae05cebdf04ba98da7d7161b0d88f"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 37, de 1º de abril de 2011
+
+CONVÊNIO ICMS 37, DE 1º DE ABRIL DE 2011
+
+Publicado no DOU de 05.04.11, pelo Despacho 49/11 .
+
+Altera o Convênio ICMS 96/09, que dispõe sobre fabricação, distribuição e aquisição de papéis com dispositivos de segurança.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** , na sua 141ª reunião ordinária, realizada no Rio de Janeiro, RJ, no dia 1º de abril de 2011, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** O § 1º da cláusula décima segunda do Convênio ICMS 96/09 , de 11 de dezembro de 2009, passa a vigorar com a seguinte redação:
+
+“§ 1º Até 30 de junho de 2011, os fabricantes interessados em permanecer credenciados como fabricantes de Formulário de Segurança deverão apresentar requerimento nos termos da cláusula quinta."
+
+**Cláusula segunda** Fica acrescido o § 1º-A à cláusula décima segunda do Convênio ICMS 96/09 , de 11 de dezembro de 2009, com a seguinte redação:
+
+“§ 1º-A Os formulários de segurança, autorizados através do Pedido para Aquisição de Formulário de Segurança (PAFS), até a data prevista no parágrafo anterior, poderão ser utilizados até o final de seus estoques, desde que obedecidas as finalidades para as quais tiveram o seu fornecimento autorizado.”
+
+**Cláusula terceira** Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.

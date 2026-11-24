@@ -1,0 +1,36 @@
+---
+titulo: "Convênio ICMS nº 126, de 22 de outubro de 2008"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "126"
+data: 2008-10-22
+ementa: "Altera o Convênio ICMS 34/92, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas saídas de veículos."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 24.10.08, pelo Despacho 80/08 ."
+data_publicacao: "2008-10-24"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV126_08"
+sha256_html_fonte: "1dac146c887e2cf8e33bf96b5a7125cc88a964c4e48288b7d17ac41b815b3372"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 126, de 22 de outubro de 2008
+
+CONVÊNIO ICMS 126, DE 22 DE OUTUBRO DE 2008
+
+Publicado no DOU de 24.10.08, pelo Despacho 80/08 .
+
+Ratificação Nacional DOU de 12.11.08, pelo Ato Declaratório 14/08 .
+
+Altera o Convênio ICMS 34/92, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas saídas de veículos.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 129ª reunião extraordinária, realizada em Brasília, DF, no dia 22 de outubro de 2008, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte.
+
+C O N V Ê N I O
+
+**Cláusula primeira** O *caput* da cláusula primeira do Convênio ICMS 34/92 , de 3 de abril de 1992, passa a vigorar com seguinte redação:
+
+“Cláusula primeira Ficam os Estados e o Distrito Federal autorizados a conceder isenção do ICMS nas operações internas com veículos, bem como da parcela do imposto devida à unidade federada nas operações realizadas na forma prevista no Convênio ICMS 51/00, quando adquiridos pela Secretaria de Segurança Pública, vinculado ao "Programa de Reequipamento Policial" da Polícia Militar e pela Secretaria da Fazenda, Economia ou Finanças, para reequipamento da fiscalização estadual.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 22 de outubro de 2008.

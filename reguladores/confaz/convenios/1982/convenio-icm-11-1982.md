@@ -1,0 +1,56 @@
+---
+titulo: "Convênio ICM nº 11, de 17 de junho de 1982"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "11"
+data: 1982-06-17
+ementa: "Dispõe sobre a não exigência recolhimento do ICM nas operações de saída de impressos, promovidas por estabelecimentos gráficos."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 02.07.82."
+data_publicacao: "1982-07-02"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1982/CV011_82"
+sha256_html_fonte: "3fb8cebc7f18457ee67089c25d5438d35a86a1120f9e8e1601067c8eaa5a1007"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 11, de 17 de junho de 1982
+
+**CONVÊNIO ICM 11/82**
+
+**Publicado no DOU de 02.07.82.**
+
+**Ratificação Nacional DOU de 22.07.82 pelo Ato COTEPE-ICM**
+
+**05/82** .
+
+**Dispõe sobre a não exigência recolhimento do ICM nas operações de saída de impressos, promovidas por estabelecimentos gráficos.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 27ª. Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 17 de junho de 1982, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam os Estados e o Distrito Federal autorizados a não exigir o recolhimento do imposto sobre operações relativas à circulação de mercadorias - ICM, na saída de impressos personalizados, promovida por estabelecimento gráfico a usuário final.
+
+**Parágrafo único.** Para os fins desta cláusula, considera-se usuário final, a pessoa física ou jurídica que adquira o produto personalizado, sob encomenda, diretamente de estabelecimento gráfico, para seu uso exclusivo.
+
+Cláusula segunda
+
+A norma prevista na cláusula anterior não se aplica a saída de impressos destinados à comercialização, à industrialização ou a distribuição a título gratuito.
+
+Cláusula terceira
+
+O estabelecimento gráfico que promover a saída de impresso nos termos da **cláusula primeira** deverá proceder ao estorno do crédito fiscal relativo aos insumos neles utilizados.
+
+Cláusula quarta
+
+Ficam, ainda, os Estados e o Distrito Federal, autorizados a cancelar os créditos tributários, constituídos ou não, decorrentes das operações de saída mencionadas na **cláusula primeira** .
+
+**Parágrafo único.** O disposto nesta cláusula não implicará em restituição de importâncias já recolhidas.
+
+Cláusula quinta
+
+Este convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 17 de junho de 1982.

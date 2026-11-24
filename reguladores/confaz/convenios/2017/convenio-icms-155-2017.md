@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 155, de 19 de outubro de 2017"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "155"
+data: 2017-10-19
+ementa: "Autoriza o Estado do Rio Grande do Sul a conceder isenção do ICMS nas saídas internas de armas, coletes a prova de bala, equipamentos de proteção individual, munições, veículos automotores e equipamentos para emprego em sistemas de videomonitoramento, novos, a serem doados à Secretaria de Segurança Pública do Estado."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 26.10.17, pelo Despacho 147/17."
+data_publicacao: "2017-10-26"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV155_17"
+sha256_html_fonte: "4611b2e64f36dadba9290c1a6110f253dc1b7c964c0f3821e97b16f900a8c37c"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 155, de 19 de outubro de 2017
+
+CONVÊNIO ICMS 155, DE 19 DE OUTUBRO DE 2017
+
+Publicado no DOU de 26.10.17, pelo Despacho 147/17.
+
+Retificação no DOU de 07.11.17.
+
+Ratificação Nacional no DOU de 17.11.17, pelo Ato Declaratório 23/17.
+
+Autoriza o Estado do Rio Grande do Sul a conceder isenção do ICMS nas saídas internas de armas, coletes a prova de bala, equipamentos de proteção individual, munições, veículos automotores e equipamentos para emprego em sistemas de videomonitoramento, novos, a serem doados à Secretaria de Segurança Pública do Estado.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 290ª Reunião Extraordinária, realizada em Brasília, DF, no dia 19 de outubro de 2017, tendo em vista o disposto na Lei Complementar Federal nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Autoriza o Estado do Rio Grande do Sul a conceder isenção do ICMS nas saídas internas de armas, coletes a prova de bala, equipamentos de proteção individual, munições, veículos automotores e equipamentos para emprego em sistemas de videomonitoramento, novos, adquiridos por pessoas físicas ou jurídicas, cuja destinação seja a doação à Secretaria de Segurança Pública do Estado.
+
+**Cláusula segunda** A fruição do benefício de que trata este Convênio fica condicionada ao cumprimento das obrigações instituídas na legislação estadual.
+
+**Cláusula terceira** Fica o Estado do Rio Grande do Sul autorizado a não exigir o estorno do crédito fiscal nos termos do art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, nas operações de que trata a cláusula primeira.
+
+**Cláusula quarta** Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+RETIFICAÇÃO
+
+Publicada no DOU de 07.11.17.
+
+Na ementa do Convênio ICMS 155/17, de 19 de outubro de 2017, publicado no DOU de 26 de outubro de 2017, Seção 1, página 25, **onde se lê:** "... munições, sistemas de veículos automotores e videomonitoramento, ..."; **leia-se:** "...munições, veículos automotores e equipamentos para emprego em sistemas de videomonitoramento, ..."

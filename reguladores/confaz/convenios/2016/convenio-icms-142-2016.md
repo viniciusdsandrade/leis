@@ -1,0 +1,48 @@
+---
+titulo: "Convênio ICMS nº 142, de 9 de dezembro de 2016"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "142"
+data: 2016-12-09
+ementa: "Altera o Convênio ICMS 119/16, que autoriza o Estado da Bahia a dispensar ou reduzir multas, juros e demais acréscimos legais de créditos tributários ajuizados, relacionados com o ICM e o ICMS."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 15.12.16, pelo Despacho 214/16."
+data_publicacao: "2016-12-15"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV142_16"
+sha256_html_fonte: "8d4cfef853ad1d78a1ff839d89f7d51321773f9128d18dd3ff48d2b722afd478"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 142, de 9 de dezembro de 2016
+
+CONVÊNIO ICMS 142, DE 9 DE DEZEMBRO DE 2016
+
+Publicado no DOU de 15.12.16, pelo Despacho 214/16.
+
+Ratificação Nacional no DOU de 02.01.17, pelo Ato Declaratório 23/16.
+
+Altera o Convênio ICMS 119/16, que autoriza o Estado da Bahia a dispensar ou reduzir multas, juros e demais acréscimos legais de créditos tributários ajuizados, relacionados com o ICM e o ICMS.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 163ª Reunião Ordinária, realizada em Palmas, TO, no dia 09 de dezembro de 2016, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam alterados os dispositivos a seguir indicados do Convênio ICMS 119/16, de 21 de outubro de 2016, que passam a vigorar com a seguinte redação:
+
+I - os incisos I a III do *caput* da cláusula segunda:
+
+“I - 70% (setenta por cento), na hipótese de pagamento em parcela única até 28 de dezembro de 2016;
+
+II - 50% (cinquenta por cento), na hipótese de pagamento em até 12 (doze) parcelas mensais, iguais e consecutivas, com o pagamento da primeira parcela até 28 de dezembro de 2016 e as seguintes até o dia 20 (vinte) de cada mês subsequente ao do pagamento da parcela inicial;
+
+III - 40% (quarenta por cento), na hipótese de pagamento em até 24 (vinte e quatro) parcelas mensais, iguais e consecutivas, com o pagamento da parcela inicial até 28 de dezembro de 2016, e as seguintes até o dia 20 (vinte) de cada mês subsequente ao do pagamento da parcela inicial;”
+
+II - os incisos I a III do parágrafo único da cláusula segunda:
+
+“I - 50% (cinquenta por cento), na hipótese de pagamento em parcela única até 28 de dezembro de 2016;
+
+II - 30% (trinta por cento), na hipótese de pagamento em até 12 (doze) parcelas mensais, iguais e consecutivas, com o pagamento da primeira parcela até 28 de dezembro de 2016, e as seguintes até o dia 20 (vinte) de cada mês subsequente ao do pagamento da parcela inicial;
+
+III - 10% (dez por cento), na hipótese de pagamento em até 24 (vinte e quatro) parcelas mensais, iguais e consecutivas, com o pagamento da primeira parcela até 28 de dezembro de 2016, e as seguintes até o dia 20 (vinte) de cada mês subsequente ao do pagamento da parcela inicial.”
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

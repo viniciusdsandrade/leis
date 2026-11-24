@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 171, de 5 de dezembro de 2025"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "171"
+data: 2025-12-05
+ementa: "Autoriza a concessão de isenção do ICMS nas importações de trens destinados à implantação do Sistema de Trens Metropolitanos de Belo Horizonte (Metrô)."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.12.25, pelo despacho 43/25."
+data_publicacao: "2025-12-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV171_25"
+sha256_html_fonte: "3fd24bea4aa30e25f8882adb88562e80df195b61e518eba2f758cc3f046b6713"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 171, de 5 de dezembro de 2025
+
+CONVÊNIO ICMS Nº 171, DE 5 DE DEZEMBRO DE 2025
+
+Publicado no DOU de 09.12.25, pelo despacho 43/25.
+
+Republicado no DOU de 11.12.25.
+
+Ratificação Nacional no DOU de 12.12.25, pelo Ato Declaratório 29/25.
+
+Autoriza a concessão de isenção do ICMS nas importações de trens destinados à implantação do Sistema de Trens Metropolitanos de Belo Horizonte (Metrô).
+
+**O Conselho Nacional de Política Fazendária – CONFAZ,** na sua 199ª Reunião Ordinária, realizada em Vitória, ES, no dia 5 de dezembro de 2025, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve
+
+**Considerando** que a **METRÔ BH S.A.**, inscrita no CNPJ sob nº 46.574.475/0001-92, sediada na rua Januária, nº 181, em Belo Horizonte – MG, é a signatária do Contrato de Concessão Comum de Serviços Públicos nº 002/2023 firmado com o Governo do Estado de Minas Gerais, tendo sido a ela delegada a prestação do serviço público de transporte metroferroviário de passageiros na Região Metropolitana de Belo Horizonte, em 23/03/2023 (“Contrato de Concessão”);
+
+**CONSIDERANDO** que, por meio do referido Contrato de Concessão, a Concessionária obrigou-se a realizar determinados Investimentos Obrigatórios, entre os quais estão a aquisição de novos trens visando a implantação e operação das Linhas do Metrô de Belo Horizonte;
+
+**CONSIDERANDO** que a Concessionária, após uma criteriosa avaliação técnica, verificou ser de extrema necessidade a antecipação da aquisição dos 24 trens, uma vez que a frota existente se encontra em operação desde a década de 1980 e não teria condições de garantir os Índices de Desempenho contratados com o Governo do Estado de Minas Gerais;
+
+**CONSIDERANDO** que, nesse contexto, foram iniciadas as tentativas de contratação de fornecedores de material rodante, com o objetivo de aquisição de trens no mercado interno, tendo a Concessionária procedido de acordo com a seguinte cronologia:
+
+\- em 20/10/2023, a Concessionária enviou ao mercado solicitações de propostas de fornecimento dos trens, contendo Termo de Referência e Cronograma de Fornecimento com data para a apresentação das propostas até 20/12/2023;
+
+\- em 18/12/2023, atendendo a uma solicitação do mercado fornecedor, concedeu prazo adicional para a apresentação das propostas até 18/01/2024.
+
+**CONSIDERANDO** que, em relação às empresas nacionais, não houve apresentação, no referido prazo, das propostas de fornecimentos dos trens;
+
+**CONSIDERANDO** que a única alternativa disponível para a Concessionária foi fazer a avaliação das propostas recebidas, apresentadas por duas empresas internacionais, de forma que a importação se tornou inevitável, sendo a única solução viável e compatível com o investimento obrigatório;
+
+**CONSIDERANDO** que a Concessionária, como detentora da obrigação de adquirir trens novos, atendendo ao interesse público, inclusive, quanto a mobilidade urbana sustentável, se deparou com a indisponibilidade de propostas a partir de fornecedores no mercado nacional, não restou outro procedimento viável tecnicamente, senão a conclusão do processo de contratação, que para sua viabilização apresentamos o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** O Estado de Minas Gerais fica autorizado a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS - nas importações de trens realizadas pela concessionária METRÔ BH S.A., sociedade anônima, inscrita no CNPJ sob nº 46.574.475/0001-92, a serem utilizados na prestação de serviço público de transporte metroferroviário de passageiros na Região Metropolitana de Belo Horizonte – MG.
+
+**Parágrafo único.** Para efeitos do “caput”, serão importados 24 (vinte e quatro) trens (NCM: 8603.10.00), compostos por 4 (quatro) carros cada, sendo 3 (três) carros motores e 1 (um) carro reboque, totalizando 96 (noventa e seis) carros.
+
+**Cláusula segunda** Não será exigido o estorno do crédito fiscal de que trata o art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996.
+
+**Cláusula terceira** A legislação da unidade federada poderá estabelecer outras condições para a fruição do benefício previsto neste convênio.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2026.

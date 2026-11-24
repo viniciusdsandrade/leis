@@ -1,0 +1,36 @@
+---
+titulo: "Convênio ICMS nº 238, de 13 de dezembro de 2019"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "238"
+data: 2019-12-13
+ementa: "Altera o Convênio ICMS 165/19, que altera o Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18.12.19, pelo Despacho 96/19."
+data_publicacao: "2019-12-18"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV238_19"
+sha256_html_fonte: "343a4599eaaccad3c1e0aaafd436e10bee25e853b1c02a45ee6bf25e3c49a735"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 238, de 13 de dezembro de 2019
+
+CONVÊNIO ICMS 238/19, DE 13 DE DEZEMBRO DE 2019.
+
+Publicado no DOU de 18.12.19, pelo Despacho 96/19.
+
+Altera o Convênio ICMS 165/19, que altera o Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.
+
+**O Conselho Nacional de Política Fazendária – CONFAZ** na sua 175ª Reunião Ordinária, realizada em Curitiba, PR, no dia 13 de dezembro de 2019, tendo em vista o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º e nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Fica alterada a cláusula quarta do Convênio ICMS 165/19, de 10 de outubro de 2019, que passa a vigorar com a seguinte redação:
+
+“Cláusula quarta Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de:
+
+I - 1º de agosto de 2020, em relação ao disposto nos incisos I das cláusulas primeira e terceira;
+
+II - 1º de janeiro de 2020, em relação aos demais dispositivos.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.

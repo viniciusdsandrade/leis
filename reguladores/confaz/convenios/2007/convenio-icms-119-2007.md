@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 119, de 28 de setembro de 2007"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "119"
+data: 2007-09-28
+ementa: "Altera o Convênio ICMS 85/01, que estabelece requisitos de hardware, de software e gerais para desenvolvimento de equipamento Emissor de Cupom Fiscal (ECF), os procedimentos aplicáveis ao contribuinte usuário de ECF e às empresas credenciadas, e dá outras providências."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 03.10.07, pelo Despacho nº"
+data_publicacao: "2007-10-03"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV119_07"
+sha256_html_fonte: "5a488c04d4c55ebb148332606fb7c43894b7913338b6de54107d26398ab57ab3"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 119, de 28 de setembro de 2007
+
+**CONVÊNIO ICMS 119, DE 28 DE SETEMBRO DE 2007**
+
+**Publicado no DOU de 03.10.07, pelo Despacho nº**
+
+**82/07** .
+
+**Altera o Convênio ICMS 85/01, que estabelece requisitos de hardware, de software e gerais para desenvolvimento de equipamento Emissor de Cupom Fiscal (ECF), os procedimentos aplicáveis ao contribuinte usuário de ECF e às empresas credenciadas, e dá outras providências.**
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,**
+
+na sua 127ª reunião ordinária, realizada em Florianópolis, SC, no dia 28 de setembro de 2007, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira
+
+A cláusula sexagésima oitava do Convênio ICMS 85/01 , de 28 de setembro de 2001, passa vigorar com a seguinte redação:
+
+"Cláusula sexagésima oitava Além dos requisitos previstos neste Convênio, o ECF deverá atender às seguintes normas relativas a testes de qualidade, confiabilidade e de segurança em equipamentos eletrônicos e de informática, da IEC - International Electrotechinal Commission (Comissão Internacional de Eletrotécnica):
+
+I - Norma IEC 61.000-4-2, classe 3, relativa a teste de descarga eletrostática;
+
+II - Norma IEC 61.000-4-3, classe 2, relativa a teste de imunidade para rádio freqüência e compatibilidade eletromagnética (EMC);
+
+III - Norma IEC 61.000-4-4, classe 2, relativa a teste de transientes rápidos elétricos (EFT);
+
+IV - Norma IEC 61.000-4-5, classe 2, relativa a testes de surto e descarga atmosférica;
+
+V - Norma IEC 61.000-4-6, classe 2, relativa a teste de imunidade a perturbações eletromagnética conduzidas;
+
+VI - Norma IEC 61.000-4-11, classe 30% de queda durante 50 ciclos, relativa a teste de variação na rede elétrica;
+
+VII - Titulo IV do Anexo a Resolução 238, de 9 de novembro de 2000, da Agência Nacional de Telecomunicações (ANATEL), relativa a teste de proteção contra choque elétrico.
+
+**Parágrafo único.** Na aplicação dos testes a que se referem os incisos I a VI deve ocorrer funcionamento normal, sem perda de dados gravados na Memória Fiscal e na Memória de Fita Detalhe, antes e depois da aplicação da interferência eletromagnética.".
+
+Cláusula segunda
+
+Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de junho de 2008.
+
+Florianópolis, SC, 28 de setembro de 2007.

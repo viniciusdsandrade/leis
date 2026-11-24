@@ -1,0 +1,34 @@
+---
+titulo: "Convênio ICMS nº 148, de 14 de dezembro de 2018"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "148"
+data: 2018-12-14
+ementa: "Altera o Convênio ICMS 134/16, que dispõe sobre o fornecimento de informações prestadas por instituições financeiras e de pagamento, integrantes ou não do Sistema de Pagamentos Brasileiro – SPB, relativas às transações com cartões de débito, crédito, de loja (private label) e demais instrumentos de pagamento eletrônicos, realizadas por pessoas jurídicas inscritas no Cadastro Nacional de Pessoa Jurídica – CNPJ ou pessoas físicas inscritas no Cadastro de Pessoa Física – CPF, ainda que não inscritas no cadastro de contribuintes do ICMS, e revoga o Protocolo ECF 04/01."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 19.12.18, pelo Despacho 154/18."
+data_publicacao: "2018-12-19"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV148_18"
+sha256_html_fonte: "09494a6521a53a39bf2892ee762c39bbf6abfb369e2c84f0018b8e1832e2b359"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 148, de 14 de dezembro de 2018
+
+CONVÊNIO ICMS 148/18, DE 14 DE DEZEMBRO DE 2018
+
+Publicado no DOU de 19.12.18, pelo Despacho 154/18.
+
+Altera o Convênio ICMS 134/16, que dispõe sobre o fornecimento de informações prestadas por instituições financeiras e de pagamento, integrantes ou não do Sistema de Pagamentos Brasileiro – SPB, relativas às transações com cartões de débito, crédito, de loja (private label) e demais instrumentos de pagamento eletrônicos, realizadas por pessoas jurídicas inscritas no Cadastro Nacional de Pessoa Jurídica – CNPJ ou pessoas físicas inscritas no Cadastro de Pessoa Física – CPF, ainda que não inscritas no cadastro de contribuintes do ICMS, e revoga o Protocolo ECF 04/01.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** e a Secretaria da Receita Federal do Brasil, na 171ª Reunião Ordinária do Conselho Nacional de Política Fazendária - CONFAZ, realizada em Salvador, BA, no dia 14 de dezembro de 2018, tendo em vista o disposto na Lei Complementar nº 105, de 10 de janeiro de 2001, e no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966) resolvem celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Fica alterado o caput da cláusula terceira do Convênio ICMS 134/16, de 9 de dezembro de 2016, que passa a vigorar com a seguinte redação:
+
+“Cláusula terceira As instituições financeiras e de pagamento, integrantes ou não do Sistema de Pagamentos Brasileiro – SPB, fornecerão às unidades federadas alcançadas por este convênio, até o último dia do mês subsequente, todas as informações relativas às operações realizadas pelos beneficiários de pagamentos que utilizem os instrumentos de pagamento de que trata este convênio, conforme leiaute previsto em ato COTEPE/ICMS.”.
+
+**Cláusula segunda** Fica revogado o Protocolo ECF 04/01, de 24 de setembro de 2001.
+
+**Cláusula terceira** Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2020.

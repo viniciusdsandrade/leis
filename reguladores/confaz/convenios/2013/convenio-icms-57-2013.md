@@ -1,0 +1,52 @@
+---
+titulo: "Convênio ICMS nº 57, de 26 de julho de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "57"
+data: 2013-07-26
+ementa: "Autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações de importação de bens de capital e em relação ao diferencial de alíquotas."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.07.13, pelo Despacho 153/13 ."
+data_publicacao: "2013-07-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV057_13"
+sha256_html_fonte: "8c91766729aac495d554be5e23470356101ca1ffad14c654a197ee4d7df7ad26"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 57, de 26 de julho de 2013
+
+CONVÊNIO ICMS 57, DE 26 DE JULHO DE 2013
+
+Publicado no DOU de 30.07.13, pelo Despacho 153/13 .
+
+Republicado no DOU de 05.08.13.
+
+Rejeição, no DOU de 09.08.13, pelo Ato Declaratório 15/13 .
+
+Autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações de importação de bens de capital e em relação ao diferencial de alíquotas.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 150ª reunião ordinária, realizada em Natal, RN, no dia 26 de julho de 2013, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte:
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Goiás, Mato Grosso do Sul, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Sul, Santa Catarina, São Paulo, Sergipe e o Distrito Federal autorizados a isentar do ICMS na importação do exterior de bens de capital, sem similar produzido no país, relacionados nos Anexos I e II do Convênio ICMS 52, de 26 de setembro de 1991, vigentes na data do fato gerador, efetuada por contribuintes do ICMS, exceto as empresas do comércio varejista e atacadista, estabelecidas nas respectivas unidades federadas.
+
+**§ 1º** O benefício fiscal previsto nesta cláusula, aplica-se também a importação, sem similar produzido no país, das máquinas e equipamentos sobressalentes, as ferramentas e aparelhos e outras partes e peças destinadas a garantir a operacionalidade dos bens que trata o *caput.*
+
+**§ 2º** A inexistência de similaridade com bens produzidos no Brasil será atestada por órgão federal competente ou por entidade representativa do setor produtivo de máquinas e equipamentos, com abrangência em todo o território nacional.
+
+**Cláusula segunda** Ficam os Estados do Acre, Alagoas, Amapá, Bahia, Ceará, Goiás, Mato Grosso do Sul, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Sul, Santa Catarina, São Paulo, Sergipe e o Distrito Federal autorizados a conceder isenção do ICMS relativo ao diferencial de alíquotas dos bens de capital adquiridos por contribuintes do ICMS, relacionados nos Anexos I e II do Convênio ICMS 52, de 26 de setembro de 1991, vigentes na data do fato gerador, exceto as empresas do comércio varejista e atacadista, estabelecidas nas respectivas unidades federadas, bem como nas operações internas com esses bens.
+
+**§ 1º** A isenção do diferencial de alíquota fica condicionada, no caso de bem importado, a ausência de similar nacional.
+
+**§ 2º** A saída de que trata o § 1º será tributada normalmente utilizando a alíquota prevista na legislação, em especial a Resolução nº 13 do Senado Federal, na hipótese de mercadoria importada do exterior.
+
+**Cláusula terceira** Fica vedada a transferência dos bens adquiridos com a isenção de que trata esse convênio para estabelecimentos localizados em outra unidade federada, bem como a venda dos bens de capital, antes de completar 48 meses, contados da data do desembaraço aduaneiro.
+
+**§ 1º** O descumprimento do estabelecido no *caput* acarretará perda do benefício e a cobrança proporcional do ICMS ao tempo de permanência do bem nas respectivas unidades federadas, observado o limite temporal previsto na cláusula terceira, atualizado monetariamente e acrescido de multas e juros moratórios devidos.
+
+**§ 2º** Na hipótese de posterior saída do bem, o ICMS será devido na forma da Resolução nº 13 do Senado Federal, cujo valor deverá ser recolhido por GNRE no início da operação.
+
+**Cláusula quarta** Os benefícios previstos neste convênio ficam condicionados à implementação concomitante das cláusulas primeira e segunda.
+
+**Cláusula quinta** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos na data indicada em ato do Poder Executivo Estadual e Distrital.

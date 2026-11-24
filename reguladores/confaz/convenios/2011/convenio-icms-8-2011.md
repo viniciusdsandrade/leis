@@ -1,0 +1,48 @@
+---
+titulo: "Convênio ICMS nº 8, de 1º de abril de 2011"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "8"
+data: 2011-04-01
+ementa: "Autoriza as unidades federadas a conceder redução de base de cálculo do ICMS nas operações com os produtos destinados ao tratamento industrial de efluentes."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 05.04.11, pelo Despacho 49/11 ."
+data_publicacao: "2011-04-05"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV008_11"
+sha256_html_fonte: "4ac8b9b936f421f2d9f06a19d28a7693e4f30c49133ca8c47260f10ad78b8b4a"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 8, de 1º de abril de 2011
+
+CONVÊNIO ICMS 8, DE 1º DE ABRIL DE 2011
+
+Publicado no DOU de 05.04.11, pelo Despacho 49/11 .
+
+Ratificação Nacional no DOU de 26.04.11, pelo Ato Declaratório 6/11 .
+
+Autoriza as unidades federadas a conceder redução de base de cálculo do ICMS nas operações com os produtos destinados ao tratamento industrial de efluentes.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 141ª reunião ordinária, realizada no Rio de Janeiro, RJ, no dia 1º de abril de 2011, tendo em vista o disposto na Lei Complementar nº 24, de 7de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam as unidades federadas autorizadas a conceder redução de base de cálculo do ICMS às operações com os produtos listados no anexo único, destinados ao tratamento e controle de efluentes industriais e domésticos, mediante o emprego de tecnologia de aceleração da biodegradação, oriundos de empresas licenciadas pelos órgãos competentes estaduais.
+
+**§ 1º** A carga tributária poderá ser reduzida em:
+
+I - 60% (sessenta por cento), sem a manutenção dos créditos fiscais previstos na legislação estadual, ou
+
+II - 35% (trinta e cinco por cento), com a manutenção dos créditos fiscais previstos na legislação estadual.
+
+**§ 2º** O contribuinte deverá fazer a opção do benefício previsto no § 1º, uma vez por ano, até a data prevista na legislação estadual.
+
+**§ 3º** O disposto neste convênio aplica-se também aos produtos listados no anexo único destinados ao tratamento e controle de efluentes industriais, incluídas a desobstrução de tubulações industriais, a inibição de odores e o tratamento de águas de processos produtivos em geral, inclusive das indústrias de papel e de celulose.
+
+**Cláusula segunda** O disposto neste convênio não se aplica ao Distrito Federal.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da ratificação.
+
+ANEXO ÚNICO
+
+<table><tbody><tr><td> <p><strong> ITEM </strong></p><p></p>  </td> <td> <p><strong> NCM/SH </strong></p><p></p>  </td> <td> <p><strong> DESCRIÇÃO </strong></p><p></p>  </td> </tr><tr><td> <p>1</p> </td> <td> <p>2703.00.00</p> </td> <td> <p>TURFA (Absorvente Orgânico)</p> <p>Absorvente natural biodegradável (100% orgânico), bioremediador para emergências ambientais decorrentes de derrames e/ou vazamentos de óleos, solventes e demais derivados de hidrocarbonetos e de produtos químicos, em plantas industriais e demais processos e ocorrências em estradas, companhias elétricas, corpos d´água, etc.</p> </td> </tr><tr><td> <p>2</p> </td> <td> <p>2836.99.19</p> </td> <td> <p> Ativadores biológicos - macro e micro nutrientes para tratamento de efluentes domésticos e industriais, em caixas de gordura, fossas, sumidouros e estações de tratamento de efluentes biológicos (lagoas anaeróbicas e aeróbicas, lodos ativados, filtros biológicos, etc.). </p><p></p>  </td> </tr><tr><td> <p>3</p> </td> <td> <p>2836.99.19</p> </td> <td> <p> Composto de nutrientes balanceados para otimização de lodos e acelerador da decomposição biológica de tratamento de efluentes. Ativador biológico composto de macro e micro nutrientes para uso em sistemas de tratamento de efluentes. </p><p></p>  </td> </tr><tr><td> <p>4</p> </td> <td> <p>2836.99.19</p> </td> <td> <p>Composto de nutrientes para tratamento biológico de efluentes domésticos e industriais com problemas de odores e alta carga orgânica.  </p><p></p>  </td> </tr><tr><td> <p>5</p> </td> <td> <p>2836.99.19</p> </td> <td> <p>Composto de nutrientes especialmente formulados para tratamento biológico de efluentes oriundos do processamento de leite e seus derivados.  </p><p></p>  </td> </tr><tr><td> <p>6</p> </td> <td> <p>3507.90.19</p> </td> <td> <p>Ativadores biológicos - macro e micro nutrientes - para tratamento de efluentes industriais, estações de tratamento de efluentes biológicos (lagoas anaeróbicas e aeróbicas, lodos ativados, filtros biológicos, etc) e domésticos (caixas de gordura, fossas, filtros e sumidouros).  </p><p></p>  </td> </tr><tr><td> <p>7</p> </td> <td> <p>3507.90.19</p> </td> <td> <p>Ativador biológico natural para tratamento de efluentes domésticos e industriais em sistemas de caixa de gordura, fossa, sumidouro, filtros, lodo ativado, lagoa anaeróbica e outros processos biológicos.  </p><p></p>  </td> </tr><tr><td> <p>8</p> </td> <td> <p>3507.90.19</p> </td> <td> <p>Combinação de agentes biológicos existentes na natureza que metabolizam os componentes geradores de mau cheiro, transformando-as em produtos inertes.  </p><p></p>  </td> </tr><tr><td> <p>9</p> </td> <td> <p>3507.90.19</p> </td> <td> <p>Composto enzimático para desobstrução de tubulações e sistemas comatados por material orgânico (óleos, graxas, gorduras, proteína e carboidratos). Utilizado em caixas de gordura, pasteurizadores, tubulações e sistemas em geral.  </p><p></p>  </td> </tr><tr><td> <p>10</p> </td> <td> <p>3507.90.19</p> </td> <td> <p>Composto para sistemas com mau cheiro (cigarro, odores, fritura e material orgânico em decomposição). Usado em tubulações, caixa de gordura, banheiros, mictórios, interior de veículos, carpetes, cozinhas, sem biocidas etc.  </p><p></p>  </td> </tr><tr><td> <p>11</p> </td> <td> <p>3507.90.19</p> </td> <td> <p>Detergente enzimático utilizado na quebra de cadeia de gorduras, óleos, graxas, proteínas e carboidratos.  </p><p></p>  </td> </tr><tr><td> <p>12</p> </td> <td> <p>3507.90.19</p> </td> <td> <p>Detergente enzimático em gel para limpeza das mãos.  </p><p></p>  </td> </tr><tr><td> <p>13</p> </td> <td> <p>3507.90.19</p> </td> <td> <p>Detergente enzimático utilizado para limpeza pesada de hidrocarbonetos e seus derivados.</p> </td> </tr><tr><td> <p>14</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Produto usado na desagregação e refinação das fibras de papel reciclado e celulose. As enzimas auxiliam na limpeza mecânica, de feltros, telas formadoras, lonas de onduladeiras. Reduz e pitches e stiches.</p> </td> </tr><tr><td> <p>15</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Produto usado na desagregação e refinação das fibras de papel reciclado e celulose. As enzimas auxiliam na limpeza mecânica, de feltros, telas formadoras, lonas de onduladeiras. Reduz e pitches e stiches, com adição de dispersante.</p> </td> </tr><tr><td> <p>16</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Produto enzimático usado na limpeza de feltros, telas formadoras e lonas de onduladeiras. Produto com tenso ativo para limpeza de sistemas, usado em processos de dosagens contínuas, por meio de bicos. Usado também em boil out e limpezas de tanques, caixas, circuitos de aproximação, mesa plana e caixa de entrada. Reduz pitches e stiches.</p> </td> </tr><tr><td> <p>17</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Biocida para uso em águas de processo, impedindo o crescimento de algas, fungos, bactérias.</p> </td> </tr><tr><td> <p>18</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Composto enzimático usado na desobstrução de tubulações, sistemas e circuitos de amido. Limpeza em processos de fabricação de papel.</p> </td> </tr><tr><td> <p>19</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Produto enzimático utilizado na limpeza de sistemas com grande deposição de tintas e materiais orgânicos e inorgânicos. Limpeza de incrustações inorgânicas aderidas a incrustações orgânicas. Usado também como dispersante de tintas em aparas com alto teor de corantes.</p> </td> </tr><tr><td> <p>20</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Composto enzimático com dispersantes inorgânicos usado no processo de papel e celulose que contenham contaminações de tintas e resinas; para desincrustrações de matérias orgânicas e inorgânicas. Utilizado também nos processos de destintamento e alvejamento de aparas.</p> </td> </tr><tr><td> <p>21</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Auxiliar de refinação melhorando a drenagem na mesa plana, melhorando o refino e o consumo de energia na planta produtiva.</p> </td> </tr><tr><td> <p>22</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Auxiliar de branqueamento nos processos de polpação de celulose e fibras.</p> </td> </tr><tr><td> <p>23</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Auxiliar de desagregação para limpeza de Parafina, Hotmelt e PVA.</p> </td> </tr><tr><td> <p>24</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Composto Biológico e Enzimático, auxiliar de processos de separação de fibras.</p> </td> </tr><tr><td> <p>25</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Utilizado para auxiliar o pré-cozimento e cozimento de fibras.</p> </td> </tr><tr><td> <p>26</p> </td> <td> <p>3507.90.41</p> </td> <td> <p>Utilizado para auxiliar o refino, desagregação pesada e papel tissue.</p> </td> </tr></tbody></table>

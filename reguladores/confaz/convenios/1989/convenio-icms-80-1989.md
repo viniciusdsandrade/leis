@@ -1,0 +1,64 @@
+---
+titulo: "Convênio ICMS nº 80, de 22 de agosto de 1989"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "80"
+data: 1989-08-22
+ementa: "Prorroga disposições de Convênios que concedem benefícios fiscais."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 24.08.89."
+data_publicacao: "1989-08-24"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1989/CV080_89"
+sha256_html_fonte: "4c6908b5eb1f4be8f93f32285e6844acf21a492809e90f58ebb72a66b891b594"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 80, de 22 de agosto de 1989
+
+**CONVÊNIO ICMS 80/89**
+
+**Publicação DOU de 24.08.89.**
+
+**Retificação DOU de 30.08.89.**
+
+**Ratificação Nacional DOU de 12.09.89, pelo Ato COTEPE/ICMS**
+
+**10/89** .
+
+**Prorroga disposições de Convênios que concedem benefícios fiscais.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 57ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 22 de agosto de 1989, tendo em vista o disposto na Lei Complementar n° 24, de 07 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam prorrogadas, até 31.12.89, as disposições contidas nos Convênios a seguir enumerados:
+
+I - Convênio ICM 26/89 ;
+
+II - Convênio ICM 35/89 ;
+
+III - Convênio ICM 45/89 ;
+
+IV - Convênio ICM 54/89 ;
+
+V - Convênio ICMS 35/89 ;
+
+VI - Convênio ICMS 40/89 ;
+
+VII - Convênio ICMS 32/89 .
+
+Cláusula segunda
+
+Ficam alterados o prazo indicado na **Cláusula terceira** e a data prevista na **Cláusula quinta** do Convênio ICM 08/89 , de 27.02.89, respectivamente, para 31.12.89 e 01.01.90.
+
+Cláusula terceira
+
+Fica revogada a **cláusula quarta** do Convênio ICM 45/89 , de 27.02.89.
+
+Cláusula quarta
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional, retroagindo seus efeitos a 1º de julho de 1989, em relação à **Cláusula segunda** , no que se refere à **Cláusula quinta** do Convênio ICM 08/89 , de 27.02.89, e a 1º de setembro de 1989, relativamente às demais disposições.
+
+Brasília, DF, 22 de agosto de 1989.

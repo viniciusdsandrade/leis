@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 73, de 22 de junho de 2012"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "73"
+data: 2012-06-22
+ementa: "Restaura a redação original da cláusula primeira do Convênio ICMS 137/02, que dispõe sobre os procedimentos a serem adotados em relação a operação interestadual que destine mercadoria a empresa de construção civil, com exclusão do estado de Pernambuco."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 27.06.12 , pelo Despacho 109/12."
+data_publicacao: "2012-06-27"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV073_12"
+sha256_html_fonte: "18fd80e82749c8bc149fec69eb886b73885cd018824df09dd9b6c123c279875b"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 73, de 22 de junho de 2012
+
+CONVÊNIO ICMS 73, DE 22 DE JUNHO DE 2012
+
+Publicado no DOU de 27.06.12 , pelo Despacho 109/12.
+
+Ratificação Nacional no DOU de 16 .07.12 , pelo Ato Declaratório 11/12 .
+
+Restaura a redação original da cláusula primeira do Convênio ICMS 137/02, que dispõe sobre os procedimentos a serem adotados em relação a operação interestadual que destine mercadoria a empresa de construção civil, com exclusão do estado de Pernambuco.
+
+**O Conselho Nacional de Política Nacional - CONFAZ** , na sua 146ª reunião ordinária do CONFAZ, realizada em Maceió, AL, no dia 22 de junho de 2012, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** A cláusula primeira do Convênio ICMS 137/02 , de 13 de dezembro de 2002, passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Acordam os Estados de Alagoas, Amapá, Amazonas, Bahia, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Rio Grande do Norte, Rondônia, Sergipe e o Distrito Federal em estabelecer nas respectivas legislações em relação à operação que destine mercadorias a empresa de construção civil localizada em outra unidade da Federação, que o fornecedor deve adotar a alíquota interna da unidade federada de sua localização.
+
+**§ 1°** O disposto no caput não se aplica no caso em que a empresa destinatária forneça ao remetente cópia reprográfica devidamente autenticada de documento emitido pelo fisco, atestando sua condição de contribuinte do imposto, que terá validade de até 1 (um) ano.
+
+**§ 2°** O documento previsto no parágrafo anterior será emitido, conforme modelo anexo, no mínimo, em duas vias, que terão a seguinte destinação:
+
+I - a 1ª via será entregue ao contribuinte;
+
+II - a 2ª via será arquivada na repartição.” .
+
+**Cláusula segunda** Fica revogado o Convênio ICMS 44/12 , de 16 de abril de 2012.
+
+**Cláusula terceira** Este convênio entra em vigor na data de sua ratificação nacional, produzindo efeitos a partir de 1º de julho de 2012.

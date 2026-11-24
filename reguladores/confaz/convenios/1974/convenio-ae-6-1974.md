@@ -1,0 +1,59 @@
+---
+titulo: "Convênio AE nº 6, de 31 de outubro de 1974"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio AE"
+numero: "6"
+data: 1974-10-31
+ementa: "Altera redação da cláusula I do Convênio AE-1/70, que dispõe sobre a concessão de crédito de exportação."
+revogada: true
+situacao_fonte: "Revogado a partir de 22.01.79 pelo Conv. ICM 01/79."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 14.11.74."
+data_publicacao: "1974-11-14"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1974/CV006_74"
+sha256_html_fonte: "ba9ae8c41f3d2d903cae144389195b2c0750e515ff59f63edcfdb536497350a2"
+baixado_em: 2026-11-23
+---
+# Convênio AE nº 6, de 31 de outubro de 1974
+
+**CONVÊNIO AE-6/74**
+
+**Publicado no DOU de 14.11.74.**
+
+**Revogado a partir de 22.01.79 pelo Conv. ICM**
+
+**01/79** .
+
+**Altera redação da cláusula I do Convênio AE-1/70, que dispõe sobre a concessão de crédito de exportação.**
+
+Os Secretários de Fazenda e de Finanças dos Estados e do Distrito Federal, reunidos na cidade de Brasília, DF, no dia 31 de outubro de 1974, resolvem celebrar o seguinte
+
+**CONVÊNIO**
+
+**Cláusula primeira**
+
+O "caput" da cláusula I do Convênio AE-1/70 , celebrado em 15 de janeiro de 1970 na cidade do Rio de Janeiro, passa a vigorar com a seguinte redação:
+
+"Cláusula I Nas exportações, para o exterior, de produtos industrializados, os signatários concederão aos respectivos estabelecimentos fabricantes exportadores direito a crédito do Imposto sobre Circulação de Mercadorias, na forma prevista nas cláusulas seguintes."
+
+**Cláusula segunda**
+
+Só serão excluídos do estímulo fiscal previsto na cláusula I do Convênio AE-1/70 :
+
+a) os produtos industrializados constantes da relação da cláusula IV do
+
+Convênio AE-1/70 , mantidas as alterações introduzidas pelo Convênio AE-11/72 e pela **cláusula quarta** do Convênio AE-1/73 ;
+
+b) os produtos industrializados não beneficiados pelo incentivo do IPI previsto no Decreto federal nº 64.833, de 17-07-69, e legislação posterior.
+
+Cláusula terceira
+
+Fica acrescentada a alínea "k" na cláusula IV do Convênio AE-1/70 com a seguinte redação:
+
+"k) pirocloro e seus derivados.".
+
+**Parágrafo único.** Fica autorizado temporariamente o Estado de Minas Gerais a manter a exclusão prevista em sua legislação dos produtos compreendidos no Capítulo 71, posições 71.01 a 71.16, com as suas respectivas subposições e itens do Decreto federal nº 73.340 (RIPI).
+
+Brasília, DF, 31 de outubro de 1974.
+
+Signatários: AC, AL, AM, BA, CE, DF, ES, GB, GO, MA, MG, MT, PA, PB, PE, PI, PR, RJ, RN, RS, SC, SE e SP.

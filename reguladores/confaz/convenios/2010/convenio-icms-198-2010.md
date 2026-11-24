@@ -1,0 +1,50 @@
+---
+titulo: "Convênio ICMS nº 198, de 20 de dezembro de 2010"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "198"
+data: 2010-12-20
+ementa: "Altera o Convênio ICMS 154/10, que autoriza o Estado de Sergipe a conceder crédito fiscal presumido do ICMS na aquisição de equipamento Emissor de Cupom Fiscal (ECF)"
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 21.12.10, pelo Despacho 525/10 ."
+data_publicacao: "2010-12-21"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV198_10"
+sha256_html_fonte: "5eadc6b4a008d4072579c2abdf523598056a94a1e5df72c7bb800df07208ada3"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 198, de 20 de dezembro de 2010
+
+CONVÊNIO ICMS 198, DE 20 DE DEZEMBRO DE 2010
+
+Publicado no DOU de 21.12.10, pelo Despacho 525/10 .
+
+Ratificação Nacional no DOU de 07.01.11, pelo Ato Declaratório 2/11 .
+
+Retificação no DOU de 24.03.11.
+
+Altera o Convênio ICMS 154/10, que autoriza o Estado de Sergipe a conceder crédito fiscal presumido do ICMS na aquisição de equipamento Emissor de Cupom Fiscal (ECF)
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** , em sua 156ª reunião extraordinária, realizada em Brasília, DF, no dia 20 de dezembro de 2010, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Os dispositivos a seguir indicados do Convênio ICMS 154/10 , de 24 de setembro de 2010, passam a ter as seguintes redações:
+
+I - o *caput* da cláusula primeira:
+
+“Cláusula primeira Fica o Estado de Sergipe autorizado, nos termos e condições previstos em sua legislação, a conceder crédito fiscal presumido do ICMS relativamente à aquisição de equipamento Emissor de Cupom Fiscal (ECF), que atenda aos requisitos definidos no Convênio ICMS 85/01 , de 28 de setembro de 2001 e no Convênio ICMS 09/09 , de 3 de abril de 2009, de até 80% (oitenta por cento) do valor de aquisição do equipamento cuja efetiva utilização se inicie até 30 de junho de 2011.”;
+
+II - o *caput* da cláusula segunda:
+
+“Cláusula segunda O crédito fiscal presumido de que trata a cláusula primeira somente se aplica à aquisição de equipamentos novos, para primeira autorização de uso ou para substituição de equipamento ECF com a concomitante instalação do Programa Aplicativo Fiscal (PAF-ECF) e deverá ser apropriado a partir do período de apuração imediatamente posterior àquele em que houver ocorrido o início da efetiva utilização do equipamento, devendo ser feito até o mês de setembro de 2011.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+RETIFICAÇÃO
+
+· Publicado no DOU de 24.03.11.
+
+Na cláusula primeira do Convênio ICMS 198/10 , de 20 de dezembro de 2010, publicado no DOU de 21 de dezembro de 2010, Seção 1, página 49, **onde se lê** : “Fica o Estado de Sergipe autorizado...”, **leia-se:** “Cláusula primeira Fica o Estado de Sergipe autorizado...”.
+
+MANUEL DOS ANJOS MARQUES TEIXEIRA

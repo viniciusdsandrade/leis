@@ -1,0 +1,66 @@
+---
+titulo: "Convênio ICMS nº 154, de 16 de dezembro de 2005"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "154"
+data: 2005-12-16
+ementa: "Altera o Convênio ICMS 16/03, que dispõe sobre normas e procedimentos relativos ao registro de equipamento Emissor de Cupom Fiscal - ECF."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 21.12.05."
+data_publicacao: "2005-12-21"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV154_05"
+sha256_html_fonte: "cd26c98a59f8cab11cdd332f4ec98e4cb5e02d2d788b96c6a65d057c3e2a0531"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 154, de 16 de dezembro de 2005
+
+**CONVÊNIO ICMS 154/05**
+
+**Publicado no DOU de 21.12.05.**
+
+**Altera o Convênio ICMS 16/03, que dispõe sobre normas e procedimentos relativos ao registro de equipamento Emissor de Cupom Fiscal - ECF.**
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**
+
+, na sua 120ª reunião ordinária, realizada em Mata de São João, BA, no dia 16 de dezembro de 2005, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira**
+
+Passam a vigorar com a redação indicada os seguintes dispositivos do Convênio ICMS 16/03 , de 4 de abril de 2003:
+
+I - o inciso V e suas alíneas "a" e "g" da cláusula quinta:
+
+"V - 1 (um) conjunto original rubricado e datado pelo fabricante ou importador, ainda que por seu representante, para a Secretaria Executiva do CONFAZ, e uma cópia para cada Unidade, excetuadas as previstas na cláusula qüinquagésima terceira, e para a Secretaria da Receita Federal, contendo os seguintes elementos:
+
+"a) documentação relativa ao equipamento, em português, com informações gravadas em meio óptico não regravável, observado o disposto nos §§ 1º e 2º contendo:";
+
+"g) cópia de todos os documentos possíveis de serem emitidos pelo ECF, com registro de todas as operações passíveis de serem realizadas, em arquivo eletrônico no formato "pdf" e gravado em meio ótico não regravável;";
+
+II - a cláusula qüinquagésima terceira:
+
+"Cláusula qüinquagésima terceira O disposto neste convênio não se aplica aos Estados do Amazonas, Espírito Santo, Mato Grosso do Sul, Minas Gerais, Pernambuco, Rio Grande do Norte, Rio Grande do Sul, Santa Catarina e Sergipe.".
+
+Cláusula segunda
+
+Ficam acrescentados os seguintes dispositivos ao Convênio ICMS 16/03 :
+
+I - § 6º à cláusula sétima:
+
+"§ 6 o Em relação à substituição de circuito integrado indicado na alínea "c" do inciso II desta cláusula:
+
+I - admite-se a substituição do dispositivo de armazenamento do Software Básico por outro de mesmo tipo, desde que não afete os esquemas elétricos e leiaute de circuito impresso da Placa Controladora Fiscal e da Memória Fiscal;
+
+II - em relação ao disposto no inciso V e nas alíneas "b" e "h" do inciso XIII, do caput da cláusula quarta do Convênio ICMS 85/01, de 28 de setembro de 2001, o dispositivo de armazenamento de dados poderá variar em quantidade ou tipo, desde que seja mantido o esquema elétrico e leiaute de circuito impresso da placa onde esteja montado, sendo permitida a substituição, adição ou supressão de outro componente eletrônico que não seja circuito integrado.";
+
+II - § 7º à cláusula sétima:
+
+"§ 7º O fabricante do programa aplicativo de que trata o inciso V desta cláusula, deverá fornecer as DLL (Dynamic Language Library) que permitam cumprir instruções do programa aplicativo "eECF", desenvolvido pela Associação dos Fabricantes e Revendedores de Produtos para Automação Comercial.".
+
+Cláusula terceira
+
+Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Mata de São João, BA, 16 de dezembro de 2005.

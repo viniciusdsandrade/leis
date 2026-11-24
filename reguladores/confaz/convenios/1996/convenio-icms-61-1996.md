@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 61, de 13 de setembro de 1996"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "61"
+data: 1996-09-13
+ementa: "Dispõe sobre a concessão de autorização para a utilização de créditos fiscais acumulados, para abatimento do valor do imposto a ser recolhido por guia de recolhimentos especiais, nas operações interestaduais com ligas de alumínio."
+revogada: true
+situacao_fonte: "Revogado, a partir de 01.11.07, pelo Conv. ICMS 113/07."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20 e 23.09.96."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV061_96"
+sha256_html_fonte: "5554396e098cc233f484ac7ccd6baa5b85292a6e2e15ccbaad4f0c4b3863550c"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 61, de 13 de setembro de 1996
+
+**CONVÊNIO ICMS 61/96**
+
+**Publicado no DOU de 20 e 23.09.96.**
+
+**Revogado, a partir de 01.11.07, pelo Conv. ICMS**
+
+**113/07** .
+
+**Dispõe sobre a concessão de autorização para a utilização de créditos fiscais acumulados, para abatimento do valor do imposto a ser recolhido por guia de recolhimentos especiais, nas operações interestaduais com ligas de alumínio.**
+
+**O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal,**
+
+na 83ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Gramado, RS, no dia 13 de setembro de 1996, tendo em vista o disposto no artigo 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+CONVÊNIO
+
+Cláusula primeira
+
+Fica o Estado de São Paulo autorizado a permitir, nas operações interestaduais com ligas de alumínio em formas brutas da posição 7601 da Nomenclatura Brasileira de Mercadoria/Sistema Harmonizado - NBM/SH, fabricadas no formato de blocos, lingotes, tarugos, "billets", placas, barras para obtenção de fios ou outros formatos semelhantes, realizadas pelo respectivo estabelecimento fabricante e destinadas a estabelecimento industrial com finalidade exclusiva de industrialização para obtenção de artefatos, a utilização de créditos fiscais acumulados para abatimento de até 80% (oitenta por cento) do valor do imposto a ser recolhido por meio de guia de recolhimentos especiais antes de iniciada a remessa, nos termos dos Convênios ICM 09/76 , de 18 de março de 1976, 17/82 , de 21 de outubro de 1982.
+
+**§ 1º** A autorização prevista nesta cláusula aplica-se igualmente às operações com granalha de alumínio e outros produtos similares da mesma posição 7601 destinados a estabelecimentos siderúrgicos.
+
+**§ 2º** Somente poderão ser utilizados para o abatimento previsto no caput, os créditos apropriados até o mês anterior à remessa e acumulados conforme estabelecido pela legislação estadual.
+
+Cláusula segunda
+
+Na guia de recolhimento do imposto deverá ser indicada a expressão: "Crédito nos termos do Convênio ICMS......./96: R$......."
+
+Cláusula terceira
+
+O fisco da unidade federada de destino das mercadorias poderá solicitar ao fisco da unidade federada de origem a apuração da regularidade da apropriação, acumulação e transferência de créditos utilizados nos termos deste Convênio.
+
+Cláusula quarta
+
+É vedada a utilização da faculdade prevista neste Convênio ao contribuinte que, por qualquer estabelecimento, tiver débito do ICMS inscrito na Dívida Ativa.
+
+Cláusula quinta
+
+Este Convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de julho de 1996.
+
+Gramado, RS, 13 de setembro de 1996.

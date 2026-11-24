@@ -1,0 +1,56 @@
+---
+titulo: "Convênio ICMS nº 112, de 7 de dezembro de 1989"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "112"
+data: 1989-12-07
+ementa: "Concede redução de base de cálculo nas saídas internas dos derivados de petróleo que menciona."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 12.12.89."
+data_publicacao: "1989-12-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1989/CV112_89"
+sha256_html_fonte: "34c83ea55cc1912a74c848bd33f4fcbe1947d6ecf63c3e434e06f9293572cc10"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 112, de 7 de dezembro de 1989
+
+CONVÊNIO ICMS 112/89
+
+Publicação DOU de 12.12.89.
+
+Ratificação Nacional DOU de 29.12.89, pelo Ato COTEPE/ICMS 13/89.
+
+Prorrogado até 31.12.91 pelo Conv. ICMS 92/90.
+
+Prorrogado até 31.12.92 pelo Conv. ICMS 80/91.
+
+Prorrogado até 31.12.93 pelo Conv. ICMS 148/92.
+
+Prorrogado por prazo indeterminado pelo Conv. ICMS 124/93.
+
+O Conv. ICMS 94/95 autoriza MA a revogar o benefício.
+
+Adesão de AL e RO, a partir de 14.07.98, pelo Convênio ICMS 58/98.
+
+Adesão de AC, AM, CE, MS, MT, PA, PB, PE, PI, RN e TO pelo Conv. ICMS 115/97, efeitos de 02.01.98 a 30.06.98.
+
+Adesão do TO, a partir de 14.07.98, pelo Conv. ICMS 36/98.
+
+Excluído RR, a partir de 01.01.00, pelo Conv. ICMS 80/99.
+
+O Conv. ICMS 26/02 autoriza os estados do AM, ES e MG, a revogarem o benefício deste convênio.
+
+Exclusão do PR, a partir de 08.04.15, pelo Conv. ICMS 13/15.
+
+Concede redução de base de cálculo nas saídas internas dos derivados de petróleo que menciona.
+
+**O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal,** na 58ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 07 de dezembro de 1989, tendo em vista o disposto na Lei Complementar n° 24, de 07 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Acordam os Estados e o Distrito Federal em conceder, de 1º de janeiro a 31 de dezembro de 1990, redução da base de cálculo do ICMS nas saídas internas de gás liqüefeito de petróleo, de tal forma que a incidência do imposto resulte no percentual de 12% (doze por cento).
+
+**Cláusula segunda** Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 07 de dezembro de 1989.

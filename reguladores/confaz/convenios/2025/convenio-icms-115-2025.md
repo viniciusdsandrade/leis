@@ -1,0 +1,38 @@
+---
+titulo: "Convênio ICMS nº 115, de 5 de setembro de 2025"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "115"
+data: 2025-09-05
+ementa: "Altera o Convênio ICMS nº 81, de 5 de julho de 2024, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS nas operações com bens do ativo permanente destinados à fabricação de vacina autógena de uso veterinário, nos termos que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 08.09.25, pelo despacho 27/25."
+data_publicacao: "2025-09-08"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV115_25"
+sha256_html_fonte: "c3b14bd736a8e51198718fc068a1be5ea702634495704b416073b0344eb5dd0c"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 115, de 5 de setembro de 2025
+
+CONVÊNIO ICMS Nº 115, DE 5 DE SETEMBRO DE 2025
+
+Publicado no DOU de 08.09.25, pelo despacho 27/25.
+
+Ratificação Nacional no DOU de 25.09.25 pelo Ato Declaratório 23/25.
+
+Altera o Convênio ICMS nº 81, de 5 de julho de 2024, que autoriza o Estado de Minas Gerais a conceder isenção do ICMS nas operações com bens do ativo permanente destinados à fabricação de vacina autógena de uso veterinário, nos termos que especifica.
+
+**O Conselho Nacional de Política Fazendária – CONFAZ,** na sua 413ª Reunião Extraordinária, realizada em Brasília, DF, no dia 5 de setembro de 2025, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Os itens 4 a 6 ficam acrescidos ao anexo único do Convênio ICMS nº 81, de 5 de julho de 2024, publicado no Diário Oficial da União de 9 de julho de 2024, com as seguintes redações:
+
+“ANEXO ÚNICO
+
+<table><tbody><tr><td> <p><strong>Item</strong></p> </td> <td> <p><strong>NCM/SH</strong></p> </td> <td> <p><strong>DESCRIÇÃO NCM/SH</strong></p> </td> </tr><tr><td> <p>4</p> </td> <td> <p>9406.90.20</p> </td> <td> <p>Construções pré-fabricadas não modulares completas, com montagem e acabamento a serem realizados na própria planta ou local de instalação, possuindo essencialmente estrutura, quilhas, com painéis de dimensões variando de 100 até 9.000mm de comprimento x até 1.000mm de largura x até 55mm de espessura total, com placas de paredes fabricadas em chapas de aço e/ou de alumínio, com espessuras de 0,5 até 0,6mm e superfícies com ou sem revestimento de película/filme de PE (Polietileno) e/ou de PVC (policloreto de vinila) e/ou de PVDF (fluoreto de polivinilideno), com isolamento térmico e acústico interno básico composto de lã de rocha hidrofóbica com densidade de até 100kg/m3 e com redução sonora de até 30dB, resistência ao fogo por até 1 hora, utilizando adesivo estrutural, incluindo respectivos acessórios para montagem e acabamento, com clipes elásticos, portas, janelas e vidros, caixas de passagens de aço inox, e piso/chão de PVC de 200cm x 20cm x 2mm, para serem utilizadas como fechamento para salas limpas na produção industrial de vacinas autógenas de uso veterinário.</p> </td> </tr><tr><td> <p>5</p> </td> <td> <p>8415.81.90</p> </td> <td> <p>Equipamentos automáticos centrais de ar-condicionado tipo HVAC (“Heating, Ventilation, and Air Conditioning”), com função de tratamento, filtragem,  esfriamento, aquecimento, pressurização para contenção de ar, próprios para uso em sala limpa de alto nível de biossegurança em laboratórios de produção de vacina autógena, com taxa de vazamento de 0,029% sob uma vazão de ar de 5.000 a 50.000m3/h, material de superfícies expostas preparado contra corrosão por desinfetantes altamente corrosivos e estrutura de labirinto, conforme norma EN1886, e isolamento térmico de lã de vidro ultrafina conforme normas técnicas de biossegurança EU GMP de 22/08/2022, Volume 4, e exigência da ISO 14644, potências instaladas variando de 180 a 2500 KW (aproximadamente 154.700 a 2.150.000 frigorias/horas), incluindo essencialmente: Unidades de Tratamento de Ar; Unidade de filtro do ventilador; Unidade de entrada e saída de sacos; Exaustores; Unidades de Ventilação; Tubulação; Resfriadores; Bombas de água; Com ou sem Tanques; Unidades de tratamento de Água; Medidores de Vazão; Manômetros; Gabinetes com equipamento de gerenciamento informatizado (BMS) com Controladores Lógicos Programáveis (CLP) para automação, Telas Sensíveis ao Toque (“Touch screen”), e software validável; Transmissores de temperatura, vazão, pressão, umidade, e outras; Bandejas; Cabeamento elétrico.</p> </td> </tr><tr><td> <p>6</p> </td> <td> <p>8421.39.90</p> </td> <td> <p>Combinações de máquinas para purificação, produção e distribuição contínua e água purificada pelo método de destilação a seco, para uso em laboratórios de produção de vacina autógena, atendendo requisitos de índice relevantes da edição de 2015 / 2020 da Farmacopeia Chinesa, da Farmacopeia Europeia e da FDA dos EUA, composto por módulos compactos automáticos dispostos em “skid”, com capacidade de produção de água pura (PWG) de 2 m³/h e capacidade máxima de produção de água para injetáveis (WFI) de 20 m3/h; com tubulações e principais componentes fabricados em aço inoxidável 316L ou 304; filtros multimídias retrolavados automaticamente com 3 camadas, para pré-tratamento; amaciadores duplos por eletrodeionização contínua com capacidade de 3,5 m3 /h, sem uso de defletores ou desembaçadores, com controle de contaminação microbiana por cloro; destiladores de múltiplos efeitos, com separação por gravidade e centrifugação espiral para remoção contínua de pirogênios; unidades de osmose reversa dupla para remover até 97% de inorgânicos dissolvidos e mais de 99% do total de orgânicos dissolvidos, coloides e partículas; módulo de dessalinização elétrica contínua com  taxa de recuperação de água de aproximadamente 90%; unidades de ajuste de pH; vasos de pressão com classificação de pressão de 9,0 bar a 180 graus C; trocadores de calor; geradores de vapor puro com capacidade de 280 kg/h a 3 bar para pasteurização com água quente; evaporadores de filme descendente para produzir vapor puro; com isolamento em lã mineral; tanques de armazenamento de  água purificada e água para injetáveis com volumes de 3 m3 e 8 m3 respectivamente; bombas; detectores de condutividade; Controladores Lógicos Programáveis (CLP) e interfaces do operador.</p> </td> </tr></tbody></table>
+
+”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

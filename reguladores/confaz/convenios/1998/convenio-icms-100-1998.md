@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 100, de 18 de setembro de 1998"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "100"
+data: 1998-09-18
+ementa: "Autoriza o Estado de Minas Gerais a não exigir o crédito tributário na operação que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 25.09.98."
+data_publicacao: "1998-09-25"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv100_98"
+sha256_html_fonte: "4e1f6de56e33790291058abe45d493027dfd0b87cd91877a2d1d6c48b85a2d8c"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 100, de 18 de setembro de 1998
+
+**CONVÊNIO ICMS 100/98**
+
+**Publicado no DOU de 25.09.98.**
+
+**Ratificação Nacional DOU de 15.10.98, pelo Ato COTEPE-ICMS**
+
+**75/98** .
+
+**Autoriza o Estado de Minas Gerais a não exigir o crédito tributário na operação que especifica.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 91ª reunião ordinária do Conselho Nacional de Política Fazendária, realizada em Bonito, MS, no dia 18 de setembro de 1998, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado de Minas Gerais autorizado a não exigir o crédito tributário, constituído ou não, de responsabilidade da Cia. Mineradora de Minas Gerais - COMIG relativo ao pagamento do ICMS na saída interna, realizada no período de 1º de agosto de 1998 até a data da ratificação nacional deste Convênio, de 10 (dez) rolos compactadores autopropelidos, classificados na Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH sob o número 84.29.40.00, marca Tema modelo SPV68P, séries 804-BH, 805-BH, 806-BH, 807-BH, 808-BH, 809-BH, 810-BH, 811-BH, 812-BH e 813-BH, destinados a integrar o Patrimônio do Estado de Minas Gerais.
+
+Cláusula segunda
+
+Fica vedado ao contribuinte o aproveitamento do crédito do ICMS relativo à aquisição das referidas mercadorias.
+
+Cláusula terceira
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Bonito, MS, 18 de setembro de 1998.

@@ -1,0 +1,42 @@
+---
+titulo: "Convênio ICMS nº 117, de 11 de outubro de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "117"
+data: 2013-10-11
+ementa: "Dispõe sobre a exclusão do Estado de Roraima de disposições do Convênio ICMS 93/09, que altera o Convênio ICMS 135/06, que dispõe sobre substituição tributária nas operações com aparelhos celulares."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18.10.13, pelo Despacho 213/13 ."
+data_publicacao: "2013-10-18"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV117_13"
+sha256_html_fonte: "e11b2675ec7a7b55fac248b441e488e0d58b9dc2861803a7ea076db9177d8c74"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 117, de 11 de outubro de 2013
+
+CONVÊNIO ICMS 117, DE 11 DE OUTUBRO DE 2013
+
+Publicado no DOU de 18.10.13, pelo Despacho 213/13 .
+
+Retificação no DOU de 22.10.13.
+
+Dispõe sobre a exclusão do Estado de Roraima de disposições do Convênio ICMS 93/09, que altera o Convênio ICMS 135/06, que dispõe sobre substituição tributária nas operações com aparelhos celulares.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 151ª reunião ordinária, realizada em Fortaleza, CE, no dia 11 de outubro de 2013, tendo em vista o disposto nos arts. 6º ao 9º da Lei Complementar n° 87, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966) resolve celebrar o seguinte:
+
+CONVÊNIO
+
+**Cláusula primeira** A cláusula segunda do Convênio ICMS 93/09 , de 11 de dezembro de 2009, passa a vigorar com a seguinte redação:
+
+“Cláusula segunda As disposições deste convênio não se aplicam aos Estados do Acre, Ceará, Espírito Santo, Minas Gerais, Rondônia, Santa Catarina e ao Distrito Federal.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
+
+RETIFICAÇÃO
+
+· Publicada no DOU de 22.10.13.
+
+Na cláusula segunda do Convênio ICMS 117/13, de 11 de outubro de 2013, publicado no DOU de 18 de outubro de 2013, Seção 1, página 38, **onde se lê:** “...Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do segundo mês subsequente ao da publicação...’’, **leia-se:** “...Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.’’.
+
+MANUEL DOS ANJOS MARQUES TEIXEIRA

@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 42, de 7 de abril de 2022"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "42"
+data: 2022-04-07
+ementa: "Dispõe sobre as adesões dos Estados do Amapá, Espírito Santo, Pará e Paraná e altera o Convênio ICMS nº 71/21, que autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações de importação dos equipamentos especificados por empresas operadoras portuárias."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 11.04.22, pelo despacho 17/22."
+data_publicacao: "2022-04-11"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV042_22"
+sha256_html_fonte: "9c811a76b6d583c4ee6bd702ef58f95182becb0a42fe67f1f8badc3483ac0c39"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 42, de 7 de abril de 2022
+
+**CONVÊNIO ICMS Nº 42, DE 7 DE ABRIL DE 2022**
+
+Publicado no DOU de 11.04.22, pelo despacho 17/22.
+
+Ratificação Nacional no DOU de 27.04.22, pelo Ato Declaratório 12/22.
+
+Dispõe sobre as adesões dos Estados do Amapá, Espírito Santo, Pará e Paraná e altera o Convênio ICMS nº 71/21, que autoriza as unidades federadas que menciona a conceder isenção do ICMS nas operações de importação dos equipamentos especificados por empresas operadoras portuárias.
+
+**O Conselho Nacional de Política Fazendária – CONFAZ,** na sua 184ª Reunião Ordinária, realizada em Belém, PA, e em Brasília, DF, nos dias 31 de março e 7 de abril de 2022, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Os Estados do Amapá, Espírito Santo, Pará e Paraná ficam incluídos nas disposições do Convênio ICMS nº 71, de 8 de abril de 2021.
+
+**Cláusula segunda** Os dispositivos a seguir indicados da cláusula primeira do Convênio ICMS nº 71/21 passam a vigorar com as seguintes redações:
+
+I – o “caput”:
+
+“Cláusula primeira Os Estados do Amapá, Espírito Santo, Maranhão, Pará, Paraná e Rio Grande do Sul ficam autorizados a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS - nas operações de importação de um guindaste móvel portuário, diesel, hidráulico, sobre pneus, para movimentação de containers e granéis sólidos em grandes navios, marca LIEBHERR, modelo LHM 550 Litronic, classificado no código 8426.41.10 da Nomenclatura Brasileira de Mercadorias/Sistema Harmonizado – Nomenclatura Comum do Mercosul - NNBM/SH-NCM, sem similar produzido no país, por empresa portuária para aparelhamento do porto de Santana no Amapá, dos Terminais Marítimos do Espírito Santo, dos Terminais Marítimos da Ilha de São Luís – Maranhão, dos Portos dos Municípios de Belém e Barcarena, no Pará, dos portos de Paranaguá no Paraná e de Rio Grande no Rio Grande do Sul, nas condições previstas na legislação estadual.”;
+
+II – o § 1º:
+
+“§ 1º O benefício previsto neste convênio fica condicionado à integração do bem ao ativo imobilizado da empresa beneficiada e a seu efetivo uso, em portos localizados nas unidades federadas concedentes, na execução dos serviços referidos no “caput”, pelo prazo mínimo de 5 (cinco) anos.”.
+
+**Cláusula terceira** O § 3º fica acrescido à cláusula primeira do Convênio ICMS nº 71/21, com a seguinte redação:
+
+“§ 3º O benefício previsto no “caput” também se aplica nas operações de importação por empresa portuária de um guindaste móvel portuário, diesel, hidráulico, sobre pneus, para movimentação de containers e granéis sólidos em grandes navios, marca LIEBHERR, modelo LHM 420 Litronic, classificado no código 8426.41.10 da Nomenclatura Brasileira de Mercadorias/Sistema Harmonizado - Nomenclatura Comum do Mercosul - NNBM/SH-NCM, sem similar produzido no país, para aplicação em Terminal Portuário do Porto de Santana, no Estado do Amapá, em Terminal Marítimo da Ilha de São Luís, no Estado do Maranhão e nos Portos dos Municípios de Belém e Barcarena, no Estado do Pará.”.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

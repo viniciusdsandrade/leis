@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 84, de 10 de dezembro de 1999"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "84"
+data: 1999-12-10
+ementa: "Altera dispositivos do Convênio ICMS 03/99, de 16.04.99, que dispõe sobre o regime de substituição tributária nas operações com combustíveis e lubrificantes, derivados ou não de petróleo, e outros produtos."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.99."
+data_publicacao: "1999-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV084_99"
+sha256_html_fonte: "410e6afa06cf0175e39a67702317137cfbae2b9737c52e593478d8588b3d4851"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 84, de 10 de dezembro de 1999
+
+**CONVÊNIO ICMS 84/99**
+
+**Publicado no DOU de 20.12.99.**
+
+**Altera dispositivos do Convênio ICMS 03/99, de 16.04.99, que dispõe sobre o regime de substituição tributária nas operações com combustíveis e lubrificantes, derivados ou não de petróleo, e outros produtos.**
+
+O Ministro de Estado da Fazenda, os Secretários de Fazenda, Finanças ou Tributação e o Gerente de Receita dos Estados e do Distrito Federal, na 96ª reunião ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 10 de dezembro de 1999, tendo em vista o disposto no artigo 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, e nos artigos 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Passa a vigorar com a seguinte redação a cláusula vigésima primeira do Convênio ICMS 03/99 , de 16 de abril de 1999:
+
+"Cláusula vigésima primeira Para efeitos deste convênio considerar-se-ão distribuidora de combustíveis, Transportador Revendedor Retalhista - TRR - e Central de Matéria-Prima Petroquímica - CPQ - aqueles assim definidos e autorizados por órgão federal competente."
+
+**Cláusula segunda**
+
+Fica acrescentada ao Capítulo VI do Convênio ICMS 03/99 , de 16 de abril de 1999, a cláusula vigésima terceira, renumerando-se as cláusulas seguintes:
+
+"Cláusula vigésima terceira Aplicam-se, no que couber, às Centrais de Matéria-Prima Petroquímica - CPQ - as normas contidas neste convênio aplicáveis à Refinaria de Petróleo ou suas bases."
+
+**Cláusula terceira**
+
+Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1° de janeiro de 2000.
+
+Brasília, DF, 10 de dezembro de 1999.

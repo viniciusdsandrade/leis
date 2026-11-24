@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 141, de 17 de dezembro de 2012"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "141"
+data: 2012-12-17
+ementa: "Altera o Convênio ICMS 159/08, que autoriza a redução da base de cálculo do ICMS nas saídas interestaduais de Etilenoglicol (MEG) e prorroga as disposições do Convênio ICMS 118/10, que autoriza os Estados da Bahia, Mato Grosso, Pernambuco, Rio Grande do Sul e São Paulo a reduzir a base de cálculo do ICMS nas saídas interestaduais de Para-Xileno (PX) e Ácido Tereftálico Purificado (PTA)."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.12, pelo Despacho 276/12."
+data_publicacao: "2012-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV141_12"
+sha256_html_fonte: "5b5b69b96a372bf8c3dd93d445f912de4be604cc533ee70b022b9eb5c0a297de"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 141, de 17 de dezembro de 2012
+
+CONVÊNIO ICMS 141, DE 17 DE DEZEMBRO DE 2012
+
+Publicado no DOU de 20.12.12, pelo Despacho 276/12.
+
+Ratificação no DOU de 08.01.13, pelo Ato Declaratório 01/13.
+
+Altera o Convênio ICMS 159/08, que autoriza a redução da base de cálculo do ICMS nas saídas interestaduais de Etilenoglicol (MEG) e prorroga as disposições do Convênio ICMS 118/10, que autoriza os Estados da Bahia, Mato Grosso, Pernambuco, Rio Grande do Sul e São Paulo a reduzir a base de cálculo do ICMS nas saídas interestaduais de Para-Xileno (PX) e Ácido Tereftálico Purificado (PTA).
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 148ª reunião ordinária, realizada em São Luís, MA, no dia 17 de dezembro de 2012, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Ficam prorrogadas até 31 de dezembro de 2014 as disposições do Convênio ICMS 159/08, de 17 de dezembro de 2008, passando a vigorar com as seguintes redações os dispositivos a seguir do mesmo:
+
+I - a ementa:
+
+“Autoriza os Estados que menciona a reduzir a base de cálculo do ICMS nas saídas interestaduais de Etilenoglicol (MEG) e Polietileno Tereftalato (Resina PET)”;
+
+II - o*caput* da cláusula primeira:
+
+“Cláusula primeira Ficam os Estados da Bahia, Mato Grosso, Pernambuco, Rio Grande do Sul e São Paulo autorizados a conceder redução de base de cálculo do ICMS incidente sobre as operações de saídas interestaduais dos seguintes produtos Etilenoglicol (MEG) e Polietileno Tereftalato (Resina PET), classificados, respectivamente, nos códigos 2905.31.00 e 3907.60.00 da Nomenclatura Comum do Mercosul - NCM.”;
+
+III - o § 1º da cláusula primeira:
+
+“§ 1º A legislação estadual poderá definir o percentual de redução de base de cálculo de que trata essa cláusula, em função das quantidades dos produtos ou montantes das operações.”;
+
+IV - a cláusula segunda:
+
+“Cláusula segunda A fruição do benefício de que trata este convênio fica condicionada a que:
+
+I - os produtos tenham a seguinte destinação:
+
+a) o Etilenoglicol (MEG), a fabricação de resinas poliéster a serem utilizadas na produção de recipientes PET (polietileno tereftalato), filmes, fibras e filamentos;
+
+b) o Polietileno Tereftalato (Resina PET), a fabricação de recipientes PET em estado que tenha remetido o Etilenoglicol (MEG) com a aplicação do mesmo percentual de redução a que se refere o *caput* da cláusula primeira;
+
+II - ao adimplemento de outras condições ou controles previstos na legislação estadual.”
+
+**Cláusula segunda** Ficam prorrogadas até 31 de dezembro de 2014 as disposições do Convênio ICMS 118/10, que autoriza os Estados da Bahia, Mato Grosso, Pernambuco, Rio Grande do Sul e São Paulo a reduzir a base de cálculo do ICMS nas saídas interestaduais de Para-Xileno (PX) e Ácido Tereftálico Purificado (PTA).
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2014.

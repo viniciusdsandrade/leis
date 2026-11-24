@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICM nº 10, de 27 de fevereiro de 1989"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "10"
+data: 1989-02-27
+ementa: "Dá nova redação ao Art. 34 do Anexo Único do Convênio ICM 66/88."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 28.02.89."
+data_publicacao: "1989-02-28"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1989/CVM010_89"
+sha256_html_fonte: "29caa2b30ec8902d3a36c82dda9520548fcfbb67ffa7c51b0685ab0d5e75985b"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 10, de 27 de fevereiro de 1989
+
+**CONVÊNIO ICM 10/89**
+
+**Publicação DOU de 28.02.89.**
+
+**Retificação DOU de 08.03.89.**
+
+**Ratificação Nacional DOU de 17.03.89, pelo Ato COTEPE/ICM**
+
+**03/89** .
+
+**Dá nova redação ao Art. 34 do Anexo Único do Convênio ICM 66/88.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 16ª Reunião Extraordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 27 de fevereiro de 1989, tendo em vista o disposto no § 8º do art. 34 do Ato das Disposições Transitórias da Constituição Federal e na Lei Complementar n° 24, de 07 de janeiro de 1975, resolvem celebrar o seguinte
+
+**CONVÊNIO**
+
+**Cláusula primeira**
+
+Passa a vigorar com a seguinte redação o artigo 34 do Anexo Único do Convênio ICM 66/88 , de 14 de dezembro de 1988:
+
+"Art. 34. Não se exigirá a anulação do crédito por ocasião das saídas para o exterior dos produtos industrializados constantes de lista que será definida em convênio específico, na forma da
+
+Lei Complementar n° 24 , de 07 de janeiro de 1975, relativamente à entrada de mercadorias para utilização como matéria-prima ou material intermediário ou secundário na fabricação e embalagem dos produtos exportados".
+
+**Cláusula segunda**
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional, retroagindo seus efeitos a 1º de março de 1989.
+
+Brasília, DF, 27 de fevereiro de 1989.

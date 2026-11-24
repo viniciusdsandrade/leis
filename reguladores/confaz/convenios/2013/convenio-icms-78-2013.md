@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 78, de 26 de julho de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "78"
+data: 2013-07-26
+ementa: "Autoriza os Estados do Bahia, Mato Grosso, Paraná, Rio de Janeiro e São Paulo e o Distrito Federal a conceder isenção nas operações internas com bens e mercadorias destinados às sociedades de propósito específico que celebrem contrato de concessão de parceria público-privada."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.07.13, pelo Despacho 153/13 ."
+data_publicacao: "2013-07-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV078_13"
+sha256_html_fonte: "e219dd148c52c5eb1a24657670b0fe8b839b4348eae1402b6525e168e2b4578e"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 78, de 26 de julho de 2013
+
+CONVÊNIO ICMS 78, DE 26 DE JULHO DE 2013
+
+Publicado no DOU de 30.07.13, pelo Despacho 153/13 .
+
+Republicado no DOU de 31.07.13.
+
+Ratificação Nacional no DOU de 16.08.13, pelo Ato Declaratório 16/13 .
+
+Alterado pelo Conv ICMS 197/23.
+
+Adesão de SC, a partir de 29.12.23, pelo Conv. ICMS 197/23.
+
+Nova redação dada a ementa pelo Conv. ICMS 197/23, efeitos a partir de 29.12.23.
+
+Autoriza as unidades federadas que especifica a conceder isenção nas operações internas com bens e mercadorias destinados às sociedades de propósito específico que celebrem contrato de concessão de parceria público-privada.
+
+Redação original, efeitos até 28.12.23.
+
+Autoriza os Estados do Bahia, Mato Grosso, Paraná, Rio de Janeiro e São Paulo e o Distrito Federal a conceder isenção nas operações internas com bens e mercadorias destinados às sociedades de propósito específico que celebrem contrato de concessão de parceria público-privada.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 150ª reunião ordinária, realizada em Natal, RN, no dia 26 de julho de 2013, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte:
+
+CONVÊNIO
+
+Nova redação dada a à cláusula primeira pelo Conv. ICMS 197/23, efeitos a partir de 29.12.23.
+
+**Cláusula primeira** Os Estados da Bahia, Mato Grosso, Paraná, Rio de Janeiro, Santa Catarina e São Paulo e o Distrito Federal ficam autorizados a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – nas operações internas com bens e mercadorias destinados às sociedades de propósito específico que celebrem contrato de concessão de parceria público-privada, nos termos previstos na Lei nº 11.079, de 30 de dezembro de 2004, com os referidos Estados.
+
+Redação original, efeitos até 28.12.23.
+
+Cláusula primeira Ficam os Estados do Bahia, Mato Grosso, Paraná, Rio de Janeiro e São Paulo e o Distrito Federal autorizados a conceder isenção do ICMS nas operações internas com bens e mercadorias destinados às sociedades de propósito específico que celebrem contrato de concessão de parceria público-privada, nos termos previstos na Lei Federal nº 11.079, de 30 de dezembro de 2004, com os referidos Estados.
+
+**§ 1º** A isenção prevista no *caput* aplica-se somente para os contratos de parceria público-privada celebrados para a construção de hospitais e prestação de serviços de saúde.
+
+**§ 2º** Na hipótese de importação, a isenção somente será aplicada a produtos sem similar produzidos no País, cuja inexistência de similaridade seja atestada por órgão federal competente ou por entidade representativa do setor produtivo de máquinas e equipamentos, com abrangência em todo o território nacional.
+
+**Cláusula segunda** Fica autorizada a não exigência do estorno do crédito do ICMS de que trata o art. 21 da Lei Complementar 87/96 , de 13 de setembro de 1996, relativo às operações abrangidas pela isenção prevista neste convênio.
+
+**Cláusula terceira** A fruição do benefício de que trata este convênio fica condicionada à comprovação do efetivo emprego das mercadorias e bens na atividade para a qual a empresa foi constituída, na forma e nas condições estabelecidas pela legislação interna.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da ratificação.

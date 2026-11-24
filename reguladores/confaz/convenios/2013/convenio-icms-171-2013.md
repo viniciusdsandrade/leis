@@ -1,0 +1,54 @@
+---
+titulo: "Convênio ICMS nº 171, de 6 de dezembro de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "171"
+data: 2013-12-06
+ementa: "Altera o Convênio ICMS 127/13, de 11 de outubro de 2013, que autoriza o Estado do Pará a reduzir multas e juros de débitos fiscais relacionados com o ICM e o ICMS."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.12.13, pelo Despacho 253/13 ."
+data_publicacao: "2013-12-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV171_13"
+sha256_html_fonte: "c90503fea005f2dc4e2b4ce262f958b7fd67f0e367f8bfd856ac29ec8ae84543"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 171, de 6 de dezembro de 2013
+
+CONVÊNIO ICMS 171, DE 6 DE DEZEMBRO DE 2013
+
+Publicado no DOU de 12.12.13, pelo Despacho 253/13 .
+
+Ratificação Nacional no DOU de 30.12.13, pelo Ato Declaratório 25/13 .
+
+Altera o Convênio ICMS 127/13, de 11 de outubro de 2013, que autoriza o Estado do Pará a reduzir multas e juros de débitos fiscais relacionados com o ICM e o ICMS.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** , na sua 152ª reunião ordinária, realizada em Vitória, ES, no dia 6 de dezembro de 2013, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte:
+
+C O N V Ê N I O
+
+**Cláusula primeira** A cláusula segunda e o § 2º da cláusula quarta do Convênio ICMS 127/13 , de 11 de outubro de 2013, que autoriza o Estado do Pará a reduzir multas e juros de débitos fiscais relacionados com o ICM e o ICMS, passam a vigorar com as seguintes redações:
+
+I - cláusula segunda:
+
+“Cláusula segunda O débito consolidado poderá ser pago, nas seguintes condições:
+
+I - em parcela única, com redução de até 85% (oitenta e cinco por cento) das multas e juros, se recolhidos, em espécie, integralmente até 20 de dezembro de 2013;
+
+II - em até 2 (duas) parcelas mensais e sucessivas, com redução de até 75% (setenta e cinco por cento) das multas e juros, com a 1ª (primeira) parcela vencendo até 20 de dezembro de 2013 e a 2ª (segunda) no último dia útil do mês subsequente, nos termos da legislação estadual do ICMS;
+
+III - em até 3 (três) parcelas mensais e sucessivas, com redução de até 70% (setenta por cento) das multas e juros, com a 1ª (primeira) parcela vencendo até 20 de dezembro de 2013 e as demais parcelas no último dia útil de cada mês, nos termos da legislação estadual do ICMS;
+
+IV - em até 5 (cinco) parcelas mensais e sucessivas, com redução de até 65% (sessenta e cinco por cento) das multas e juros, com a 1ª (primeira) parcela vencendo até 20 de dezembro de 2013 e as demais parcelas no último dia útil de cada mês, nos termos da legislação estadual do ICMS;
+
+V - em até 7 (sete) parcelas mensais e sucessivas, com redução de até 60% (sessenta por cento) das multas e juros, com a 1ª (primeira) parcela vencendo até 20 de dezembro de 2013 e as demais parcelas no último dia útil de cada mês, nos termos da legislação estadual do ICMS;
+
+VI - em até 9 (nove) parcelas mensais e sucessivas, com redução de até 55% (cinquenta e cinco por cento) das multas e juros, com a 1ª (primeira) parcela vencendo até 20 de dezembro de 2013 e as demais parcelas no último dia útil de cada mês, nos termos da legislação estadual do ICMS;
+
+VII - em até 10 (dez) parcelas mensais e sucessivas, com redução de até 50% (cinquenta por cento) das multas e juros, com a 1ª (primeira) parcela vencendo até 20 de dezembro de 2013 e as demais parcelas no último dia útil de cada mês, nos termos da legislação estadual do ICMS.”
+
+II - o § 2º da cláusula quarta:
+
+“§ 2º A legislação estadual fixará o prazo máximo de opção do contribuinte pelo parcelamento, que não poderá exceder a 20 de dezembro de 2013.”
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.
