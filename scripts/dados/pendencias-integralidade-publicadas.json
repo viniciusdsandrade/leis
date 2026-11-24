@@ -193358,6 +193358,654 @@
           "maior_imagem_bytes": 96
         }
       }
+    },
+    {
+      "path": "reguladores/confaz/ajustes/2001/ajuste-sinief-3-2001.md",
+      "sha256_md": "a337afaf779b4faf7babc2a230f8f2f7a073bc688ae233351d9b45afa0231be8",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/ajustes/2001/AJ_003_01",
+        "sha256_fonte": "30028db2f9db090fa03530c22951e9efabcde25da8eae561a5425aeb328147c9",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 23794
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/convenios/1995/convenio-icms-115-1995.md",
+      "sha256_md": "7e305ec7cf4f028b16546ccf6bb9018060f98431a7bd71f781b350cc41690bf1",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV115_95",
+        "sha256_fonte": "e09fb99304b5a8f76ca44788fcc9ee74488c10308fbbaea8c711e274378906cf",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 4,
+          "maior_imagem_bytes": 84822
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/convenios/1995/convenio-icms-49-1995.md",
+      "sha256_md": "feb061bb23c694ffb4bee61ce8c2adc33a307407cbe19186bd3a8e27d88820a5",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV049_95",
+        "sha256_fonte": "2e210a1b8e850278449ea82e4b406e00d8ffae5f274b0f832e90f7b87bbc8346",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 683733
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/convenios/2000/convenio-icms-38-2000.md",
+      "sha256_md": "082d292a2c25a1a504009da1af45073144cb43eac90e9518a1f57fbe80bd1483",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV038_00",
+        "sha256_fonte": "9676f24f7fbdcb916eb8191a5983430fb0d0b0d71e40a3a4058a58fdaa9fc816",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 2,
+          "maior_imagem_bytes": 3033
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/convenios/2010/convenio-icms-17-2010.md",
+      "sha256_md": "c056e49bbdedec9683ea7897bd5802a4c46c91d62adc8016e45802978c0169dc",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV017_10",
+        "sha256_fonte": "9e3b1ce023df0b893a46a7bbee71c8250648bd595caafb2aa999d19f8445987c",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 79
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/convenios/2012/convenio-icms-128-2012.md",
+      "sha256_md": "ca6b4f70669188a63b7953784d0be8ebdc81e35706a3971dece244861a552682",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV128_12",
+        "sha256_fonte": "beff054c0b588e83819ab134952eb0e536392dc38cd3461d582f647a1aa704a2",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 105400
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1977/protocolo-icm-3-1977.md",
+      "sha256_md": "626279a123511b371ddcb6e478498848a2372f3995148cae611bf8c8f1da9b1e",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1977/pt003_77",
+        "sha256_fonte": "19dc7a5f587316cd20206149f8ff5f6b4f93dd093935c359308cfbb566f8ef23",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 45577
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1977/protocolo-icm-4-1977.md",
+      "sha256_md": "3b419f595cc30ac5b827b87e9636a4b7754e21790bb11fb3b8d4e874bf6d3350",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1977/pt004_77",
+        "sha256_fonte": "e23f754918513fedfeef175f25a1ac763dbe76bc3b3149f4ab9a93aa7c67e297",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 45577
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1977/protocolo-icm-5-1977.md",
+      "sha256_md": "101beb029c399c4fad94159d58e572bbee95e09350a7a34af7036d963445f6b2",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1977/pt005_77",
+        "sha256_fonte": "b5a75baefd23e6873a0d6143b2ed0377de6588cf274d053b93258981b4607818",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 45577
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1977/protocolo-icm-6-1977.md",
+      "sha256_md": "35d95c1d8ff3efe18a5bf6495c411cee981621190741ddb1981c9a5a1c522d6c",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1977/pt006_77",
+        "sha256_fonte": "0bea8d67bb1ab5c98299117312931c870ed84c7ca03f054dde19cf2bddc06e74",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 45577
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1979/protocolo-icm-1-1979.md",
+      "sha256_md": "687ce9c4184c1a23b41f3fb21562bba5423f3edee38e05d4fa06b462a2243a2c",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1979/pt001_79",
+        "sha256_fonte": "b8653bce543108349b4a18e6ae7c97b121bdcf1b7cf1d6aca74a5003ab0155c9",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 32246
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1980/protocolo-icm-6-1980.md",
+      "sha256_md": "58f0aa025fe0fe1b910369b4e5f84699c37c944bab58cd2f4bfc4ef73f92254b",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1980/pt006_80",
+        "sha256_fonte": "c2b1fcf3820ac90f6429896e427467d6da29d8d1d505e514859aad9badd6520d",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 2,
+          "maior_imagem_bytes": 50042
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1981/protocolo-icm-7-1981.md",
+      "sha256_md": "7dabe83f5580a38a4b8f21e9dc655ee1ded3fc5d5d53325dc805e87212599b9d",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1981/pt007_81",
+        "sha256_fonte": "984464179939deecf6d656cee00acac19126eb3921b0dac8fd885aff1645a9f8",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 50042
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1986/protocolo-icm-19-1986.md",
+      "sha256_md": "86ea71e52919f276cc9ce5c3ca95841d8d81d5094bc71fa9d53b701e60f5fc94",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1986/pt019_86",
+        "sha256_fonte": "5320772f84d1ccc9a67481110fd86786726fd94ffd305c9f5a876b2db436388d",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1986/protocolo-icm-20-1986.md",
+      "sha256_md": "4f6b9711432606ecac4bdacda7b4aced91e24a98317116de28e6a0181eb14801",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1986/pt020_86",
+        "sha256_fonte": "704bdef954ca6627170af72f70826094df094280336fd8a7a1b5335e1ea317f6",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1986/protocolo-icm-21-1986.md",
+      "sha256_md": "4420f56e2aa60923aa1fca4767f8b249b287a226572b3920191c5573837f03fa",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1986/pt021_86",
+        "sha256_fonte": "c1d357afb94d0527e5025999f0db45a2864025a51afad1d7097d321930c36d18",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1986/protocolo-icm-22-1986.md",
+      "sha256_md": "213525c10f00da6181ec0028d7aa10a1963b774c2f86f102dd400e2bb59386e4",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1986/pt022_86",
+        "sha256_fonte": "e5552b354d60b8037b7db3f90590f149e2f7f7137bc62e8ee9fe93bb98174771",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1987/protocolo-icm-13-1987.md",
+      "sha256_md": "d64a2abcc2028f7281efdeb83440f16101f4f3f52974e1bd8291e41acffc8839",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt013_87",
+        "sha256_fonte": "eca47d17242e43114cbc30026c1d77949c493f4a3e826a0765df56d83a905e76",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1987/protocolo-icm-3-1987.md",
+      "sha256_md": "a77dbd91115b503ebcc77133d2ad063d078bfa67af0b72e25c400ac15ee71518",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt003_87",
+        "sha256_fonte": "08e747ef1818de68635fa0b22f5158a6d26f3a828418e57fd7fc6c4feb261e9e",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1987/protocolo-icm-4-1987.md",
+      "sha256_md": "0029e3dc1e0aa7c54e34fb1c7414cab93f50460d0a13013f2cf27eaadb3e66c6",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1987/pt004_87",
+        "sha256_fonte": "87465dbe2dea8939aa29e98f96e648dfb7608d15a9fcfd78fd204449ad86c207",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1988/protocolo-icm-11-1988.md",
+      "sha256_md": "e6a893a55349abcedcb690736e4db550b42875e1b5c202b450c7618018cd5a60",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt011_88",
+        "sha256_fonte": "2a022874e4e06f529b9caa65d053a8ddcae0c9a8b1a17a3e8b78cb7adcfc2492",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1988/protocolo-icm-18-1988.md",
+      "sha256_md": "ee90092cdba9f9b22c81f7097a4ce02b7e54a4ce143b4e985d1299aea1742e08",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt018_88",
+        "sha256_fonte": "285f7aef7dd208b41880be00151f378a82d94c09a300fbb269054ef7e3a2cacb",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1988/protocolo-icm-19-1988.md",
+      "sha256_md": "eb2ffbb959c50c8824a34ddf4c71a4ee7290f5833ce818f01d16146c44881469",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt019_88",
+        "sha256_fonte": "e22b75a50947fcc257ed359c0d738a4285ad21672ac1e5ae74b800fc4ba89f12",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1988/protocolo-icm-20-1988.md",
+      "sha256_md": "f6c5186a38db118c172080784c2827e404bb7ebdf29b53591ca3773440bd5aa2",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt020_88",
+        "sha256_fonte": "58ebcedaf61b3ca12dfff0b40f0a78f007676df71e7beec2a2e424016b7ff402",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1988/protocolo-icm-22-1988.md",
+      "sha256_md": "16dbab4243b8d43b871d5154eb27333f4aeb74ac0b72dab4c16a960051c93e3b",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt022_88",
+        "sha256_fonte": "0964243546098186549c886dd3ce55ab84b2d9811fcb4b4529c52422ae743dfa",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 3,
+          "maior_imagem_bytes": 43166
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1988/protocolo-icm-5-1988.md",
+      "sha256_md": "273ab0db9dac4be4ace488ce877b419a17becd149236701e3d41c21c84c94253",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt005_88",
+        "sha256_fonte": "fdecc74597ccfc565ff788366b72a8858f824af4f7ed4be5aefc5eb0d88881b4",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1988/protocolo-icm-6-1988.md",
+      "sha256_md": "f5dbac41953ba9cd693cce5168cb9287e820b90e77b5193b2dd89a8eaa8bab59",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt006_88",
+        "sha256_fonte": "c98b49516a487b645858fa8380fabf22ed7203d2533b5a2bc304f90b5c625d8c",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/1988/protocolo-icm-7-1988.md",
+      "sha256_md": "1018728021bfee65b86a06ba9f879354b94671ca49269c6a20d2b416d17f4f40",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1988/pt007_88",
+        "sha256_fonte": "cd6205fbc65be1e679cf7bea70cad2bfdd6134445ed4b8dc32e32be919032855",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 107091
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/2003/protocolo-icms-33-2003.md",
+      "sha256_md": "a5385217612610b5fce5dd69bff292340b258fb9d68b1fbe80e9333ee4a91006",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2003/pt033_03",
+        "sha256_fonte": "6305b90d9537dc2dc06a8280a021dd25a75a9a271866f71deb86e6d69cca6e19",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 4,
+          "maior_imagem_bytes": 79
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/2005/protocolo-icms-35-2005.md",
+      "sha256_md": "5f6ca707ad2f78bf3b182a9a022d39b6b9c7939090100d830cb56ceb59a7d698",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt035_05",
+        "sha256_fonte": "1a660669a7b76dd0bd91140356dca45c0b646b1a15a4bb4fb85796a532a61ca9",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 3,
+          "maior_imagem_bytes": 201
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/2005/protocolo-icms-42-2005.md",
+      "sha256_md": "a7a7ffc65bedfc37babc2caa0df3f8a553bf0afd33d8c7756edd7e656ef51274",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt042_05",
+        "sha256_fonte": "e20cc033c05b947eaa343b531c10f7fb68947541feb7efe2fd193762843a21a5",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 32679
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/2009/protocolo-icms-18-2009.md",
+      "sha256_md": "3a33e2edc0bde7b4b6d841ba38d22fae4d6caaacf04311ec27d3c1f719418878",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt018_09",
+        "sha256_fonte": "54574b4e2b1b1f4e65d6a9ea89376898dc9dd85c222049c48359612631d65af8",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 123
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/2010/protocolo-icms-168-2010.md",
+      "sha256_md": "25ed2bec99e8f3069d0dc3575746e30e2bb96a527d90831533d9c1e4d3c38b91",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt168_10",
+        "sha256_fonte": "8c10d4716429cc1f6e5fdb41d61297077b4500b4b826957e8f25ce7f8a7c58e4",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 12593
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/2010/protocolo-icms-172-2010.md",
+      "sha256_md": "861586805f956c6ee7e01d03b5f8eb2e807b4de97e64b753ab516921c9d629b7",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt172_10",
+        "sha256_fonte": "e351a4ccf360e7f0812971b438303c00ea7fc0472f74faae6adf193f9d4012ef",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 40,
+          "maior_imagem_bytes": 26653
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/2010/protocolo-icms-90-2010.md",
+      "sha256_md": "760e87677e99706bd9ecf5e025fb431aab793d82d4ab200d746af6415fd09e28",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt090_10",
+        "sha256_fonte": "7cba3a6e9695b2fcab7ed8ddc511666dbbeb900a11e2de4099383ac52b201433",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": 13869
+        }
+      }
+    },
+    {
+      "path": "reguladores/confaz/protocolos/2021/protocolo-icms-64-2021.md",
+      "sha256_md": "2921dbc00229600fbfcb91552546aa4843790b924d79429189efcb11ec22bf06",
+      "estado": "conteudo_visual_sem_transcricao",
+      "motivo": "Página da fonte com imagem no corpo do ato (modelo de documento, mapa ou tabela escaneada): o arquivo traz o texto sem ela.",
+      "evidencia": {
+        "manifesto": "reguladores/confaz/_imagens_pendentes.jsonl",
+        "sha256_manifesto": "1e0c48871b6633be6f1ac52f45cd90e5b2f4518d5d174152e7c1be4dc4c0b80b",
+        "fonte": "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt064_21",
+        "sha256_fonte": "66cbe19a43515854a4c8f3da5318398c5806c4ce23f66505c6daacc7395347fa",
+        "regra": "scripts/baixar_confaz.py: --imagem-pendente (tira os <img> do corpo antes da conversão; as demais condições valem)",
+        "detectado_por": "coleta com --imagem-pendente dos retidos por imagem no corpo, a partir da página em cache, 2026-11-24",
+        "trecho": {
+          "imagens": 1,
+          "maior_imagem_bytes": null
+        }
+      }
     }
   ]
 }
