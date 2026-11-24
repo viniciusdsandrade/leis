@@ -291,9 +291,105 @@ class Recusa(unittest.TestCase):
         self.assertEqual(status, "sem_texto")
         self.assertIn("anexos em PDF", extra["motivo"])
         self.assertFalse(os.path.exists(os.path.join(self.tmp.name, "PR", "leis-ordinarias", "2026", "lei-23390-2026-id99.md")))
+        with patch.object(pr, "COM_ANEXOS", True):  # a tabela do teste não é a da fonte: o ato não entra pela metade
+            self.assertEqual(pr.processar(it)[1]["motivo"], "tabela de anexos da página não reconhecida")
+
+    # Tabela "ANEXOS:" como a fonte a serve (codAto 333138, 24/11/2026), aqui com dois arquivos
+    PAGINA_COM_ANEXOS = (
+        "<html><body><h3>Decreto 6823 - 24 de Julho de 2024</h3><p>Publicado no Diário Oficial nº. 11708 de 24 de Julho de "
+        "2024</p><p><b>Art. 1º</b> Fica efetuado um Remanejamento no Orçamento Fiscal do Estado, na forma dos Anexos I e II."
+        "</p><hr/><p>Este texto não substitui o publicado no Diário Oficial do Estado</p>\n ANEXOS:\n <table id=\"list_tabela\" "
+        "cellspacing=\"0\" width=\"100%\"class=\"list_tabela\" ><tr><th>Exibir</th><th>Label do Arquivo</th><th>Observa&ccedil;"
+        "&otilde;es</th><th>Nome do Arquivo</th></tr>"
+        "<tr><td><a href=\"javascript:exibirAnexo(72083);\"><img border=\"0\" src=\"/legislacao/images/icon_exibir.png\" /> </a>"
+        "</td><td><div id=\"72083_labelArquivoAnexadoHtml\"><a id='72083'>Anexo I e II.</a></div></td><td ><div id=\"72083_"
+        "observacao\">&nbsp;</div></td><td><div id=\"72083_nomeArquivoAnexado\">anexo333138_72083.pdf</div></td></tr>"
+        "<tr><td><a href=\"javascript:exibirAnexo(72084);\"><img border=\"0\" src=\"/legislacao/images/icon_exibir.png\" /> </a>"
+        "</td><td><div id=\"72084_labelArquivoAnexadoHtml\"><a id='72084'>anexo333138_72084.pdf</a></div></td><td ><div id=\""
+        "72084_observacao\">Quadro de metas</div></td><td><div id=\"72084_nomeArquivoAnexado\">anexo333138_72084.pdf</div></td>"
+        "</tr></table></form><script>function exibirAnexo(codAnexo) { form.submit(); }</script></body></html>")
+    ATO_COM_ANEXOS = {"codAto": "333138", "tipo": "11", "ano": "2024", "epigrafe": "Decreto 6823 - 24 de Julho de 2024", "ementa": "x"}
+
+    def pagina_com_anexos(self, anexos=()):
+        pasta = os.path.join(self.tmp.name, "PR", "_indice", "documentos")
+        os.makedirs(pasta)
+        with open(os.path.join(pasta, "333138.html.gz"), "wb") as f:
+            f.write(gzip.compress(self.PAGINA_COM_ANEXOS.encode("utf-8")))
+        os.makedirs(os.path.join(self.tmp.name, "PR", "_indice", "anexos"))
+        for cod, bruto in anexos:
+            with open(os.path.join(self.tmp.name, "PR", "_indice", "anexos", cod + ".gz"), "wb") as f:
+                f.write(gzip.compress(bruto))
+        p = patch.object(pr, "COM_ANEXOS", True)
+        p.start()
+        self.addCleanup(p.stop)
+        return os.path.join(self.tmp.name, "PR", "decretos", "2024", "dec-6823-2024-id333138.md")
+
+    def test_com_anexos_o_pdf_entra_pela_camada_textual(self):
+        import hashlib
+        gravado = self.pagina_com_anexos([("72083", b"%PDF-1.4 um"), ("72084", b"%PDF-1.4 dois")])
+        transcricao = lambda bruto: ("> Transcrição da camada textual.\n\n```text\nANEXO " + bruto.decode().split()[-1] + "\n```\n", "")
+        with patch.object(pr.rede, "get", side_effect=AssertionError("não deveria ir à rede")), \
+                patch.object(pr, "conferir_visuais_pdf", return_value="") as visuais, \
+                patch.object(pr, "extrair_camada_textual", side_effect=transcricao):
+            self.assertEqual(pr.processar(self.ATO_COM_ANEXOS), ("ok", None))
+        self.assertEqual(visuais.call_count, 2)
+        with open(gravado, encoding="utf-8") as f:
+            texto = f.read()
+        sha = [hashlib.sha256(b).hexdigest() for b in (b"%PDF-1.4 um", b"%PDF-1.4 dois")]
+        self.assertIn(f'anexos_transcritos: "2 arquivos em PDF, pela camada textual: anexo333138_72083.pdf (sha256 {sha[0]}); '
+                      f'anexo333138_72084.pdf (sha256 {sha[1]})"', texto)
+        self.assertIn(f"## Anexo da fonte: Anexo I e II.\n\nArquivo `anexo333138_72083.pdf` do sistema da Casa Civil "
+                      f"(codArquivoAnexado 72083, SHA-256 `{sha[0]}`).\n\n> Transcrição da camada textual.\n\n```text\nANEXO um\n```\n\n"
+                      "## Anexo da fonte: arquivo anexo\n\nQuadro de metas\n\nArquivo `anexo333138_72084.pdf`", texto)
+        self.assertTrue(texto.endswith("```text\nANEXO dois\n```\n"))
+        # (o rótulo que só repete o nome do arquivo não vira título; a observação da fonte fica)
+        self.assertLess(texto.index("Este texto não substitui"), texto.index("## Anexo da fonte"))
+        for da_interface in ("ANEXOS:", "Label do Arquivo", "Exibir", "icon_exibir"):
+            self.assertNotIn(da_interface, texto)
+
+    def test_anexo_sem_transcricao_fiel_mantem_o_ato_retido_com_o_motivo(self):
+        gravado = self.pagina_com_anexos([("72083", b"%PDF-1.4 um"), ("72084", b"%PDF-1.4 dois")])
+        casos = {
+            "imagem": (ValueError("PDF contém imagem que exige conferência visual: 1 0 image"), None),
+            "camada textual insuficiente": (None, ValueError("camada textual insuficiente; exige avaliação visual/OCR")),
+            "fonte não é PDF": (None, ValueError("fonte não é PDF")),
+        }
+        for caso, (visual, textual) in casos.items():
+            with self.subTest(caso), patch.object(pr.rede, "get", side_effect=AssertionError("não deveria ir à rede")), \
+                    patch.object(pr, "conferir_visuais_pdf", side_effect=visual, return_value=""), \
+                    patch.object(pr, "extrair_camada_textual", side_effect=textual, return_value=("```text\nx\n```\n", "")):
+                status, extra = pr.processar(self.ATO_COM_ANEXOS)
+                self.assertEqual((status, extra["codAto"], extra["codArquivoAnexado"]), ("sem_texto", "333138", "72083"))
+                self.assertTrue(extra["motivo"].startswith("anexo em PDF sem transcrição fiel: "), extra)
+                self.assertIn(caso, extra["motivo"])
+                self.assertFalse(os.path.exists(gravado))
+
+    def test_anexo_vem_da_fonte_uma_vez_e_a_recusa_interrompe_sem_gravar(self):
+        gravado = self.pagina_com_anexos([("72083", b"%PDF-1.4 um")])
+        pedidos = []
+
+        def get(url, **kw):
+            pedidos.append(url)
+            return 200, b"%PDF-1.4 dois", "application/octet-stream; charset=UTF-8"
+        with patch.object(pr, "conferir_visuais_pdf", return_value=""), \
+                patch.object(pr, "extrair_camada_textual", return_value=("```text\nx\n```\n", "")):
+            with patch.object(pr.rede, "get", return_value=(403, b"", "text/html")):
+                self.assertEqual(pr.processar(self.ATO_COM_ANEXOS), ("bloqueado", None))
+            self.assertTrue(pr.RECUSADO.is_set())
+            self.assertFalse(os.path.exists(gravado))
+            pr.RECUSADO.clear()
+            with patch.object(pr.rede, "get", return_value=(404, b"", "text/html")):
+                status, extra = pr.processar(self.ATO_COM_ANEXOS)
+            self.assertEqual((status, extra["motivo"], extra["codArquivoAnexado"], extra["http"]),
+                             ("sem_texto", "anexo em PDF não entregue pela fonte", "72084", 404))
+            with patch.object(pr.rede, "get", side_effect=get):
+                self.assertEqual(pr.processar(self.ATO_COM_ANEXOS), ("ok", None))
+        self.assertEqual(pedidos, [pr.B + "/exibirAto.do?action=abrirAnexo&codArquivoAnexado=72084"])
+        with open(os.path.join(self.tmp.name, "PR", "_indice", "anexos", "72084.gz"), "rb") as f:
+            self.assertEqual(gzip.decompress(f.read()), b"%PDF-1.4 dois")
 
 
-ANOS_HTML = "<a href=\"javascript:listarAtos('1955', '1955')\">1955</a><a href=\"javascript:listarAtos('1955', '1954')\">1954</a>"
+ANOS_HTML ="<a href=\"javascript:listarAtos('1955', '1955')\">1955</a><a href=\"javascript:listarAtos('1955', '1954')\">1954</a>"
 # Recortes das respostas reais da fonte (13/11/2026). A página de erro também diz "Nenhum registro encontrado";
 # o que a separa do mês sem atos é a mensagem atribuída a globalAjaxMsgError.
 ERRO_HTML = """<script type="text/javascript">

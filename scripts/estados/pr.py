@@ -13,15 +13,23 @@ mês a mês; o mês que também falhar é avisado e a execução termina com err
 acessíveis pelo codAto: --atos os pede um a um e tira a epígrafe, o ano e a súmula da página de cada ato.
 O servidor recusa (HTTP 403) quem pede demais: a primeira recusa interrompe a coleta inteira, sem registrar
 falha para os itens restantes, e a coleta deve recomeçar mais tarde em ritmo menor.
+
+Anexos: o ato que traz a tabela "ANEXOS:" remete a arquivos em PDF (quadros de crédito orçamentário, tabelas, mapas)
+que não estão no HTML. Sem `--anexos` ele fica retido. Com `--anexos`, cada arquivo é pedido à fonte
+(exibirAto.do?action=abrirAnexo&codArquivoAnexado=N, guardado em _indice/anexos) e entra no fim do texto pela camada
+textual do PDF, página por página, com a disposição das linhas preservada (pdf_texto_fiel). O ato continua retido,
+com o motivo, quando um dos arquivos não é PDF, traz imagem ou não tem camada textual.
 """
 import datetime as dt
 import glob
 import gzip
+import hashlib
 import html as htmllib
 import http.cookiejar
 import json
 import os
 import re
+import subprocess
 import sys
 import threading
 import time
@@ -32,6 +40,7 @@ import urllib.error
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 from comum import RAIZ_ESTADUAIS, UA, Limitador, Rede, caminhos, decodificar, executar, gravar, html_para_md  # noqa: E402
+from pdf_texto_fiel import conferir_visuais_pdf, extrair_camada_textual  # noqa: E402
 
 UF = "PR"
 B = "https://www.legislacao.pr.gov.br/legislacao"
@@ -49,6 +58,12 @@ TIPOS = {
 rede = Rede(rps=1)  # o WAF já devolveu 403 a partir da segunda requisição; mantém-se devagar
 RECUSA_HTTP = (401, 403, 429)
 RECUSADO = threading.Event()  # ligado na primeira recusa da fonte; os demais itens não vão à rede
+COM_ANEXOS = False  # ligado por --anexos: pede os arquivos anexos e transcreve a camada textual dos PDF
+ANEXOS_NAO_COLETADOS = "anexos em PDF não coletados: o texto do ato ficaria incompleto"
+TABELA_DE_ANEXOS = re.compile(r'ANEXOS:\s*<table id="list_tabela"')
+LINHA_DE_ANEXO = re.compile(
+    r"javascript:exibirAnexo\((\d+)\);.*?_labelArquivoAnexadoHtml\">(.*?)</div>.*?_observacao\">(.*?)</div>"
+    r".*?_nomeArquivoAnexado\">(.*?)</div>", re.S)
 SEM_INDICE = []  # (codTipoAto, ano, mês) cuja listagem a fonte não entregou; ficam fora do recorte e do cache
 # O mês sem atos e a página de erro trazem ambos "Nenhum registro encontrado"; só o erro preenche a mensagem AJAX.
 SEM_ATOS = "Nenhum registro encontrado"
@@ -413,6 +428,74 @@ def pagina_do_ato(cod):
     return st, bruto, ctype
 
 
+def anexos_da_pagina(trecho):
+    """[(codArquivoAnexado, rótulo, observação, nome do arquivo)] da tabela "ANEXOS:" da página do ato, ou None quando
+    a tabela não é a que se espera (uma linha por chamada a exibirAnexo, cada código uma vez)."""
+    tabela = TABELA_DE_ANEXOS.search(trecho)
+    if not tabela:
+        return None
+    linhas = [(cod, limpar(rotulo), limpar(obs), limpar(nome)) for cod, rotulo, obs, nome in LINHA_DE_ANEXO.findall(trecho[tabela.start():])]
+    chamadas = re.findall(r"exibirAnexo\((\d+)\)", trecho)
+    if not linhas or [l[0] for l in linhas] != chamadas or len(set(chamadas)) != len(chamadas):
+        return None
+    return linhas
+
+
+def arquivo_anexo(cod):
+    """(HTTP, bytes) do arquivo anexo, do cache de anexos ou da fonte; None quando a fonte recusa o acesso (e então
+    liga RECUSADO). Toda resposta 200 fica no cache."""
+    cache = os.path.join(RAIZ_ESTADUAIS, UF, "_indice", "anexos", cod + ".gz")
+    if os.path.exists(cache):
+        with open(cache, "rb") as f:
+            return 200, gzip.decompress(f.read())
+    if RECUSADO.is_set():
+        return None
+    try:
+        st, bruto, _ = rede.get(f"{B}/exibirAto.do?action=abrirAnexo&codArquivoAnexado={cod}", timeout=120, tentativas=1)
+    except RuntimeError as e:
+        if "HTTP Error 429" in str(e):
+            RECUSADO.set()
+            return None
+        raise
+    if st in RECUSA_HTTP:
+        RECUSADO.set()
+        return None
+    if st == 200:
+        os.makedirs(os.path.dirname(cache), exist_ok=True)
+        with open(cache, "wb") as f:
+            f.write(gzip.compress(bruto))
+    return st, bruto
+
+
+def transcrever_anexos(anexos):
+    """(seções em Markdown, descrição para o cabeçalho, None) com a camada textual de cada PDF anexo; ou
+    (None, None, motivo) quando um deles não dá transcrição fiel; ou None quando a fonte recusa o acesso."""
+    secoes, nomes = [], []
+    for cod, rotulo, obs, nome in anexos:
+        resposta = arquivo_anexo(cod)
+        if resposta is None:
+            return None
+        st, bruto = resposta
+        if st != 200:
+            return None, None, {"motivo": "anexo em PDF não entregue pela fonte", "codArquivoAnexado": cod, "http": st}
+        try:
+            conferir_visuais_pdf(bruto)  # qualquer imagem no PDF (quadro escaneado, mapa, brasão) pede conferência visual
+            transcricao, _ = extrair_camada_textual(bruto)
+        except (ValueError, OSError, subprocess.SubprocessError) as e:
+            # o motivo vai sem o detalhe variável (a linha do inventário de imagens), para os casos se agruparem
+            return None, None, {"motivo": "anexo em PDF sem transcrição fiel: " + str(e).split(":")[0][:120],
+                                "detalhe": re.sub(r"\s+", " ", str(e))[:200], "codArquivoAnexado": cod}
+        if "\x00" in transcricao:
+            return None, None, {"motivo": "anexo em PDF sem transcrição fiel: camada textual com NUL", "codArquivoAnexado": cod}
+        sha = hashlib.sha256(bruto).hexdigest()
+        titulo = rotulo if rotulo and rotulo != nome else "arquivo anexo"
+        secoes.append(f"## Anexo da fonte: {titulo}\n\n" + (f"{obs}\n\n" if obs else "")
+                      + f"Arquivo `{nome}` do sistema da Casa Civil (codArquivoAnexado {cod}, SHA-256 `{sha}`).\n\n" + transcricao.rstrip("\n"))
+        nomes.append(f"{nome} (sha256 {sha})")
+    n = len(nomes)
+    return secoes, f"{n} {'arquivo' if n == 1 else 'arquivos'} em PDF, pela camada textual: " + "; ".join(nomes), None
+
+
 def itens_avulsos(cods):
     """Itens de índice montados da página de cada ato, para os que nenhuma listagem entrega (junho de 1954).
     Devolve (itens, codAto sem ato): a fonte responde 200 com a página em branco para o codAto que não existe."""
@@ -473,11 +556,25 @@ def processar(it):
             return "pulado", None
         if glob.glob(os.path.join(os.path.dirname(os.path.dirname(md)), "*", f"*-id{it['codAto']}.md")):
             return "pulado", None
+    secoes, anexos_transcritos = [], ""
     if "exibirAnexo(" in trecho:  # a lei remete a anexos em PDF (tabelas, mapas), que não estão no HTML do ato
-        return "sem_texto", {"codAto": it["codAto"], "motivo": "anexos em PDF não coletados: o texto do ato ficaria incompleto"}
+        if not COM_ANEXOS:
+            return "sem_texto", {"codAto": it["codAto"], "motivo": ANEXOS_NAO_COLETADOS}
+        anexos = anexos_da_pagina(trecho)
+        if anexos is None:
+            return "sem_texto", {"codAto": it["codAto"], "motivo": "tabela de anexos da página não reconhecida"}
+        transcritos = transcrever_anexos(anexos)
+        if transcritos is None:
+            return "bloqueado", None
+        secoes, anexos_transcritos, falha = transcritos
+        if falha:
+            return "sem_texto", {"codAto": it["codAto"], **falha}
+        trecho = trecho[: TABELA_DE_ANEXOS.search(trecho).start()]  # a tabela é da interface: o anexo entra transcrito
     corpo = html_para_md(trecho)
     if len(re.sub(r"\W", "", corpo)) < 40:
         return "sem_texto", {"codAto": it["codAto"], "motivo": "texto vazio"}
+    if secoes:
+        corpo = corpo.rstrip("\n") + "\n\n" + "\n\n".join(secoes) + "\n"
     data = data_da_epigrafe(titulo, trecho)
     meta = [
         ("titulo", titulo),
@@ -489,6 +586,8 @@ def processar(it):
         ("versao_texto", "compilada (Casa Civil do Paraná)"),
         ("fonte", url),
     ]
+    if anexos_transcritos:
+        meta.insert(-1, ("anexos_transcritos", anexos_transcritos))
     gravar(md, fonte, trecho, meta, f"# {titulo}\n\n{corpo}")
     return "ok", None
 
@@ -548,10 +647,14 @@ def main(argv=None):
     parser.add_argument("--so-indice", action="store_true", help="Só monta o índice do recorte, sem baixar os textos")
     parser.add_argument("--atos", type=str, help="codAto separados por vírgula, no lugar do índice: atos que a listagem não entrega")
     parser.add_argument("--conferir", action="store_true", help="Não coleta: confere o recorte contra markdown e _falhas.jsonl")
+    parser.add_argument("--anexos", action="store_true",
+                        help="Pede os arquivos anexos dos atos e transcreve a camada textual dos PDF, em vez de reter o ato")
     parser.add_argument("limite", nargs="?", type=int, default=None, help="Máximo de itens a processar")
     args = parser.parse_args(argv)
     if args.rps != 1.0:
         rede.limite = Limitador(args.rps)
+    global COM_ANEXOS
+    COM_ANEXOS = args.anexos
     try:
         tipos = codigos_de_tipo(args.tipo) if args.tipo else None
         anos = faixa_de_anos(args.anos) if args.anos else None
