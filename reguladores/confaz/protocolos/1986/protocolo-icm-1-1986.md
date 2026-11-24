@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICM nº 1, de 5 de fevereiro de 1986"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICM"
+numero: "1"
+data: 1986-02-05
+ementa: "Acrescenta parágrafo à Cláusula primeira do Protocolo ICM 16/84 de 26 de novembro de 1984."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 14.03.86."
+data_publicacao: "1986-03-14"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1986/pt001_86"
+sha256_html_fonte: "999d830b0d308863e570bcf6107813bdb97e49ed3ecdb9ce899b82c6f7b265c8"
+baixado_em: 2026-11-23
+---
+# Protocolo ICM nº 1, de 5 de fevereiro de 1986
+
+**PROTOCOLO ICM 01/86**
+
+**Publicado no DOU de 14.03.86.**
+
+**Acrescenta parágrafo à Cláusula primeira do Protocolo ICM 16/84 de 26 de novembro de 1984.**
+
+Os Estados da Bahia, Espírito Santo, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Rio de Janeiro, Santa Catarina e São Paulo, neste ato representados pelos seus respectivos Secretários de Fazenda ou Finanças, tendo em vista o disposto no parágrafo 4º do artigo 6º do Decreto-lei nº 406, de 31 de dezembro de 1968, acrescentado pela Lei Complementar nº 44, de 7 de dezembro de 1983, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira**
+
+Fica acrescentado à Cláusula primeira do Protocolo ICM 16/84 de 26 de novembro de 1984, que trata da substituição tributária nas operações interestaduais com refrigerantes e cerveja, o seguinte parágrafo:
+
+"§ 4º No caso de operação interestadual realizada por distribuidor, depósito ou estabelecimento atacadista com mercadoria a que se refere este Protocolo, a substituição tributária caberá ao remetente, mesmo que o imposto já tenha sido retido anteriormente, observado o seguinte:
+
+I - o distribuidor, o depósito ou o estabelecimento atacadista emitirá nota fiscal para efeito de ressarcimento, junto ao estabelecimento que efetuou a primeira retenção, do valor do imposto retido em favor do Estado de destino, acompanhada de cópia do respectivo documento de arrecadação;
+
+II - o estabelecimento que efetuou a primeira retenção poderá deduzir, do próximo recolhimento ao Estado de origem, a importância do imposto retido a que se refere o inciso anterior, desde que disponha dos documentos ali mencionados."
+
+**Cláusula segunda**
+
+Este Protocolo entrará em vigor na data de sua publicação no Diário Oficial da União.
+
+Brasília, DF, 5 de fevereiro de 1986.

@@ -1,0 +1,74 @@
+---
+titulo: "Protocolo nº 2, de 9 de março de 1971"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo"
+numero: "2"
+data: 1971-03-09
+revogada: null
+situacao_fonte: "Sem eficácia em virtude de legislação posterior."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1971/pt002_71"
+sha256_html_fonte: "4e990782b0edaae6ad2665c2d47eaa5da9e6ae31231cfb3a5d7a97c5e81d844d"
+baixado_em: 2026-11-23
+---
+# Protocolo nº 2, de 9 de março de 1971
+
+**PROTOCOLO 02/71**
+
+**Sem eficácia em virtude de legislação posterior.**
+
+**Dispõe sobre a fixação de base de cálculo, por pauta fiscal, para as operações com café cru.**
+
+(A ementa não consta do texto original)
+
+Aos nove dias do mês de março de 1971, no Instituto Brasileiro do Café, na cidade do Rio de Janeiro, presentes os senhores: Carlos Viacava, pelo IBC, Dr. Francisco de Paula Schettini, pelo Ministério da Fazenda, Dr. César Machado Scartezini, pelo Estado de São Paulo, Dr. Ericksen Madsen, pelo Estado de Minas Gerais, Dr. Julice de Almeida, pelo Estado do Espírito Santo e Dr. Antônio de Pádua Bittencourt, pelo Estado da Guanabara, foi celebrado o presente protocolo, com a finalidade de uniformização dos critérios a serem adotados, pelos Estados signatários, na fixação de pautas para base de cálculo do ICM nas operações que tenham como objeto o café cru, tendo sido convencionado o seguinte:
+
+Cláusula primeira
+
+Nas exportações para o Exterior, a base de cálculo do ICM será a diferença entre o preço mínimo de registro e o valor da quota de contribuição, convertidos em cruzeiros à taxa de compra de câmbio vigente na data da resolução do IBC.
+
+**Parágrafo único.** Sempre que modificados o preço mínimo de registro ou o valor da quota de contribuição a que se refere esta cláusula, as operações já registradas no IBC anteriormente à modificação reger-se-ão pelos critérios vigentes à data dos respectivos registros, desde que os embarques se realizem nas épocas declaradas.
+
+Cláusula segunda
+
+Nas operações interestaduais, o ICM incidirá, sobre 85% (oitenta e cinco por cento) da base de cálculo estabelecida na cláusula anterior, vigorante nos portos do Estado remetente.
+
+**Parágrafo único.** Em relação aos Estados de Minas Gerais e Espírito Santo, os 85% (oitenta e cinco por cento) serão calculados sobre o valor da base de cálculo vigorante nos portos do Estado de destino, obedecida, sempre, a diferenciação entre cafés do Grupo I e do Grupo II.
+
+Cláusula terceira
+
+Nas vendas ao IBC, a base de cálculo do ICM será igual ao preço pago pela Autarquia.
+
+Cláusula quarta
+
+Nas operações que destinem o café cru diretamente às indústrias de café solúvel, quer localizadas no mesmo, que em outro Estado, a base de cálculo será o valor da operação, na forma estabelecida no Decreto-lei federal nº 406/68.
+
+**Parágrafo único** . Relativamente às operações previstas nesta cláusula, os Estados signatários exigirão de seus contribuintes que mencionem, nos documentos fiscais, que o café se destina à industrialização.
+
+Cláusula quinta
+
+Os valores mencionados nas cláusulas anteriores se entendem exatos e líquidos, vedado qualquer acréscimo, desconto ou redução.
+
+Cláusula sexta
+
+Os Estados signatários se obrigam a expedir os atos competentes, fixando os respectivos valores de pauta, em consonância com o disposto no presente protocolo.
+
+Cláusula sétima
+
+Os critérios estabelecidos no presente protocolo poderão ser revistos, em reunião conjunta dos signatários, sempre que ocorram oscilações no mercado de café que indiquem a necessidade dessa revisão.
+
+**Parágrafo único** . A denúncia do presente protocolo somente poderá ser feita por qualquer dos Estados signatários mediante aviso aos demais, com prazo de trinta (30) dias.
+
+Cláusula oitava
+
+Os critérios aprovados no presente protocolo serão aplicáveis às operações realizadas a partir de 10 de março de 1971.
+
+**Parágrafo único.** As operações de exportação já registradas no IBC sob os critérios em vigor anteriormente a 10 de março de 1971, submeter-se-ão às normas estabelecidas neste protocolo, se os respectivos embarques não se realizarem nas épocas declaradas.
+
+Cláusula nona
+
+O Estado da Guanabara reserva-se o direito de manter o regime atual de opção entre o pagamento do ICM devido ou da taxa de exportação.
+
+Estando assim convencionados, assinam o presente em vias de igual teor, para os devidos fins de direito, ficando esclarecido que o Secretário da Fazenda do Estado do Paraná foi consultado, havendo manifestado sua concordância com os termos do presente protocolo.
+
+Rio de Janeiro, 9 de março de 1971.

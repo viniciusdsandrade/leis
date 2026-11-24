@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICMS nº 63, de 14 de dezembro de 2021"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "63"
+data: 2021-12-14
+ementa: "Dispõe sobre a adesão do Estado do Pará e altera o Protocolo ICMS nº 26/10, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.2021, pelo Despacho 88/21."
+data_publicacao: "2021-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt063_21"
+sha256_html_fonte: "e69745b1426d375cfa68ada1cdf4f6d8ab9023d163b9f4d6663f340d6b2c1349"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 63, de 14 de dezembro de 2021
+
+PROTOCOLO ICMS Nº 63, DE 14 DEZEMBRO DE 2021
+
+Publicado no DOU de 20.12.2021, pelo Despacho 88/21.
+
+Dispõe sobre a adesão do Estado do Pará e altera o Protocolo ICMS nº 26/10, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+
+**Os Estados do Amapá, Bahia, Espírito Santo, Minas Gerais, Pará e Rio de Janeiro** neste ato representados pelos seus respectivos Secretários de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O Estado do Pará fica incluído nas disposições do Protocolo ICMS nº 26, de 20 de janeiro de 2010.
+
+**Cláusula segunda** Os dispositivos a seguir indicados do Protocolo ICMS nº 26/10 passam a vigorar com as seguintes redações:
+
+I - o “caput” da cláusula primeira:
+
+“Cláusula primeira Nas operações interestaduais com as mercadorias listadas no Anexo Único, com a respectiva classificação na Nomenclatura Comum do Mercosul / Sistema Harmonizado - NCM/SH, destinadas aos Estados do Amapá, Bahia, Espírito Santo, Minas Gerais, Pará e Rio de Janeiro, fica atribuída ao estabelecimento remetente, na qualidade de sujeito passivo por substituição tributária, a responsabilidade pela retenção e recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS relativo às operações subsequentes.”;
+
+II - o inciso II da cláusula oitava:
+
+“II – ao Estado de Minas Gerais e Pará, a partir da data prevista em decreto do Poder Executivo.”.
+
+**Cláusula terceira** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União.
+
+Amapá - Josenildo Santos Abrantes, Bahia - Manoel Vitório da Silva Filho, Espírito Santo - Marcelo Martins Altoé, Minas Gerais - Gustavo de Oliveira Barbosa, Pará - René de Oliveira e Sousa Júnior, Rio de Janeiro - Nelson Monteiro da Rocha.

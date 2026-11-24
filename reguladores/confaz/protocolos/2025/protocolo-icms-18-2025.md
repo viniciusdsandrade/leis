@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICMS nº 18, de 11 de junho de 2025"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "18"
+data: 2025-06-11
+ementa: "Altera o Protocolo ICMS nº 53, de 29 de dezembro de 2017, que dispõe sobre a substituição tributária nas operações com produtos alimentícios relacionados no Anexo XVII do Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.06.25, pelo Despacho 16/25."
+data_publicacao: "2025-06-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2025/pt018_25"
+sha256_html_fonte: "c1bb132233ebde46bf8c8444db8cabada3a54443df5eb4a068adda19f0cf142d"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 18, de 11 de junho de 2025
+
+PROTOCOLO ICMS Nº 18, DE 11 DE JUNHO DE 2025
+
+Publicado no DOU de 12.06.25, pelo Despacho 16/25.
+
+Alterado pelo Prot. ICMS 29/25, efeitos a partir de 28.07.25.
+
+Altera o Protocolo ICMS nº 53, de 29 de dezembro de 2017, que dispõe sobre a substituição tributária nas operações com produtos alimentícios relacionados no Anexo XVII do Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.
+
+**Os Estados de Alagoas, Bahia, Ceará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe**, neste ato representados pelos seus respectivos Secretários de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, e no Convênio ICMS nº 142, de 14 de dezembro de 2018, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira** O inciso III fica acrescido ao parágrafo único da cláusula primeira do Protocolo ICMS nº 53, de 29 de dezembro de 2017, publicado no Diário Oficial da União de 2 de janeiro de 2018, com a seguinte redação:
+
+“III - Alagoas.”.
+
+Nova redação dada à Cláusula segunda pelo Prot. ICMS 29/25, efeitos a partir de 28.07.25.
+
+**Cláusula segunda** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de setembro de 2025.
+
+Redação original, efeitos até 27.07.25.
+
+**Cláusula segunda** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de agosto de 2025.
+
+Alagoas – Renata dos Santos, Bahia - Manoel Vitório da Silva Filho, Ceará - Fabrízio Gomes Santos, Paraíba - Marialvo Laureano dos Santos Filho, Pernambuco - Wilson José de Paula, Piauí - Emílio Joaquim de Oliveira Júnior, Rio Grande do Norte - Carlos Eduardo Xavier, Sergipe - Sarah Tarsila Araujo Andreozzi.

@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICMS nº 41, de 12 de dezembro de 2024"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "41"
+data: 2024-12-12
+ementa: "Altera o Protocolo ICMS nº 22, de 14 de março de 2008, que dispõe sobre a substituição tributária nas operações com peças, componentes e acessórios, para autopropulsados e outros fins."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 13.12.24, pelo Despacho 55/24."
+data_publicacao: "2024-12-13"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2024/PT041_24"
+sha256_html_fonte: "80bd40c9721ae4b14b919071d3e18c251d403b99a17df74bbd56ec6e6615a702"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 41, de 12 de dezembro de 2024
+
+PROTOCOLO ICMS Nº 41, DE 12 DE DEZEMBRO DE 2024
+
+Publicado no DOU de 13.12.24, pelo Despacho 55/24.
+
+Altera o Protocolo ICMS nº 22, de 14 de março de 2008, que dispõe sobre a substituição tributária nas operações com peças, componentes e acessórios, para autopropulsados e outros fins.
+
+**Os Estados do Ceará e São Paulo,** neste ato representados pelos seus Secretários de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966) e no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** Os dispositivos a seguir indicados da cláusula primeira do Protocolo ICMS nº 22, de 14 de março de 2008, publicado no Diário Oficial da União de 24 de março de 2008, passam a vigorar com as seguintes redações:
+
+I - o “caput”:
+
+“**Cláusula primeira** Os Estados do Ceará e São Paulo, nos termos deste protocolo e do Convênio ICMS nº 142, de 14 de dezembro de 2018, acordam em adotar o regime de substituição tributária nas operações interestaduais com autopeças, componentes, acessórios e demais produtos, relacionados no Anexo II do referido convênio, com exceção aos Códigos Especificadores da Substituição Tributária - CEST - 01.019.00, 01.112.00, 01.127.00, 01.128.00 e 01.999.00, para utilização em autopropulsados e outros fins.”;
+
+II - o § 1º:
+
+“§ 1º O disposto no “caput” aplica-se, também, às partes, componentes e acessórios destinados à aplicação na renovação, recondicionamento ou beneficiamento de autopeças, componentes, acessórios e demais produtos listados no “caput” .”.
+
+**Cláusula segunda** O Anexo Único do Protocolo ICMS nº 22/08 fica revogado.
+
+**Cláusula terceira** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do segundo dia do primeiro mês subsequente ao da publicação.
+
+Ceará – Fabrízio Gomes Santos, São Paulo - Samuel Yoshiaki Oliveira Kinoshita.

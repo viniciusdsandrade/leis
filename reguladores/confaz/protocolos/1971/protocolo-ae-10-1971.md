@@ -1,0 +1,58 @@
+---
+titulo: "Protocolo AE nº 10, de 15 de dezembro de 1971"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo AE"
+numero: "10"
+data: 1971-12-15
+revogada: true
+situacao_fonte: "Revogado, a partir de 12.05.72, pelo Prot. AE 03/72."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 31.12.71."
+data_publicacao: "1971-12-31"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1971/pt010_71"
+sha256_html_fonte: "f0f228759e88160260397a1a59f8e9357c2075dfc459f0be45caf2faf3b4ae67"
+baixado_em: 2026-11-23
+---
+# Protocolo AE nº 10, de 15 de dezembro de 1971
+
+**PROTOCOLO AE 10/71**
+
+**Publicado no DOU de 31.12.71.**
+
+**Revogado, a partir de 12.05.72, pelo Prot. AE**
+
+**03/72** .
+
+**Dispõe sobre a concessão de crédito fiscal presumido pelas operações com leite cru, atribuição de responsabilidade ao entreposto ou estabelecimento equivalente pelo recolhimento do imposto incidente nas saídas de leite pasteurizado de estabelecimento varejista.**
+
+(A ementa não consta do texto original)
+
+Os Secretários de Fazenda dos Estados de Goiás, Distrito Federal, Minas Gerais, Espirito Santo, Rio de Janeiro e São Paulo, reunidos na cidade de Brasília, no dia 15 de dezembro de 1971, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira**
+
+Os Estados signatários acordam em conceder, para a primeira saída de leite cru do estabelecimento do produtor, um crédito presumido do imposto de circulação de mercadorias, calculado à alíquota vigente, sobre 70% do valor da operação.
+
+Cláusula segunda
+
+O imposto devido pelo produtor, com a dedução prevista na cláusula anterior, será recolhido:
+
+I - pelo destinatário quando situado na mesma unidade da Federação;
+
+II - pelo produtor nos demais casos.
+
+Cláusula terceira
+
+Quando a saída a que se refere a cláusula primeira tiver por destinatário estabelecimento situado em outra unidade da Federação, este estabelecimento fará jus também a um crédito presumido do imposto de circulação de mercadorias, calculado mediante a aplicação da diferença entre as alíquotas internas e interestadual, sobre 70% do valor da saída referida na cláusula primeira.
+
+Cláusula quarta
+
+O imposto de circulação de mercadorias devido pelo varejista, nas saídas de leite pasteurizado, será recolhido antecipadamente pelo entreposto ou estabelecimento equivalente.
+
+Cláusula quinta
+
+O disposto no presente protocolo aplicar-se-á às operações realizadas a partir do dia 15 de janeiro de 1972.
+
+Brasília, 15 de dezembro de 1971.

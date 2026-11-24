@@ -1,0 +1,34 @@
+---
+titulo: "Protocolo ICMS nº 23, de 10 de julho de 2024"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "23"
+data: 2024-07-10
+ementa: "Altera o Protocolo ICMS nº 197, de 11 de dezembro de 2009, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 11.07.24, pelo Despacho 33/24."
+data_publicacao: "2024-07-11"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2024/pt023_24"
+sha256_html_fonte: "1a4c03afdca799ffff6a0cdc0be660bbf5c065a09ce3447bdc2f19c22a70b58f"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 23, de 10 de julho de 2024
+
+PROTOCOLO ICMS Nº 23, DE 10 DE JULHO DE 2024
+
+Publicado no DOU de 11.07.24, pelo Despacho 33/24.
+
+Altera o Protocolo ICMS nº 197, de 11 de dezembro de 2009, que dispõe sobre a substituição tributária nas operações com materiais de limpeza relacionados no Anexo XII do Convênio ICMS 142/18, que dispõe sobre os regimes de substituição tributária e de antecipação de recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviço de Transporte Interestadual e de Comunicação (ICMS) com encerramento de tributação, relativos ao imposto devido pelas operações subsequentes.
+
+**Os Estados do Amapá, Espírito Santo, Minas Gerais, Paraná, Rio de Janeiro e Santa Catarina**, neste ato representados por seus Secretários de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, e no Convênio ICMS nº 142, de 14 de dezembro de 2018, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O inciso V fica acrescido à cláusula segunda do Protocolo ICMS nº 197, de 11 de dezembro de 2009, publicado no Diário Oficial da União no dia 21 de dezembro de 2009, com a seguinte redação:
+
+"V - às operações com bens e mercadorias quando tiverem como destino o Estado do Paraná.".
+
+**Cláusula segunda** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de agosto de 2024.
+
+Amapá - Jesus de Nazaré Almeida Vidal, Espírito Santo – Benicio Suzana Costa, , Minas Gerais - Luiz Claudio Fernandes Lourenço Gomes, Paraná - Norberto Anacleto Ortigara, Rio de Janeiro – Leonardo Lobo Pires, Santa Catarina - Cleverson Siewert.

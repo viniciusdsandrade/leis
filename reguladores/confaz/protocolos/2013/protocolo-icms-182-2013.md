@@ -1,0 +1,52 @@
+---
+titulo: "Protocolo ICMS nº 182, de 20 de dezembro de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "182"
+data: 2013-12-20
+ementa: "Dispõe sobre a cessão, sem ônus, pelo Estado de São Paulo, de cópia do Sistema de Domicílio Eletrônico do Contribuinte - DEC, de sua propriedade, para ser exclusivamente utilizado, aperfeiçoado, reproduzido e distribuído no âmbito do Governo do Estado do Tocantins."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 23.12.13, pelo Despacho 265/13 ."
+data_publicacao: "2013-12-23"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2013/pt182_13"
+sha256_html_fonte: "0c18f75da8e0ca6e8fec6c2933582258f2a9e1f8a4d4381943128b33527cead4"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 182, de 20 de dezembro de 2013
+
+PROTOCOLO ICMS 182, DE 20 DE DEZEMBRO DE 2013
+
+· Publicado no DOU de 23.12.13, pelo Despacho 265/13 .
+
+Dispõe sobre a cessão, sem ônus, pelo Estado de São Paulo, de cópia do Sistema de Domicílio Eletrônico do Contribuinte - DEC, de sua propriedade, para ser exclusivamente utilizado, aperfeiçoado, reproduzido e distribuído no âmbito do Governo do Estado do Tocantins.
+
+**Os Estados de São Paulo e do Tocantins** , neste ato representados pelos seus Secretários de Fazenda, tendo em vista o disposto nos artigos 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966),
+
+**Considerando** o ambiente nacional de discussão normativa e operacional para integração das administrações tributárias nas esferas de competência federal, estadual e municipal;
+
+**Considerando** a adoção, pelos órgãos signatários, de soluções com abordagens convergentes quanto ao escopo dos projetos e abrangência do universo de contribuintes envolvidos;
+
+**Considerando** a comprovada eficiência e resultados obtidos pela Secretaria da Fazenda do Estado de São Paulo no desenvolvimento do Sistema de Domicílio Eletrônico do Contribuinte - DEC, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O Estado de São Paulo compromete-se a ceder ao Estado do Tocantins, sem ônus, o Sistema de Domicílio Eletrônico do Contribuinte - DEC, de sua propriedade, para ser exclusivamente utilizado, reproduzido e distribuído no âmbito da Secretaria de Fazenda do Estado do Tocantins.
+
+**§ 1º** O disposto nesta Cláusula inclui o fornecimento dos arquivos fonte do sistema, diagramas e documentação respectiva, e não abrange os demais aplicativos comerciais (compiladores e demais utilitários) utilizados para a geração do código executável do software.
+
+**§ 2º** A cessão do sistema não implica transferência de propriedade e nem alteração do nome do aplicativo, assim como não impede o Estado cedente de fazer quaisquer modificações no programa original que será comunicado, posteriormente, ao Estado cessionário.
+
+**§ 3º** Fica vedado ao Estado cessionário divulgar os arquivos fonte do programa cedido ou revelar informações que possam vulnerabilizá-lo, bem como exercer qualquer forma de comercialização ou distribuição do mesmo.
+
+**§ 4º** Os arquivos fonte cedidos sem restrições serão de livre distribuição, vedado à unidade federada cessionária qualquer forma de comercialização.
+
+**§ 5°** A cessão de que trata esta cláusula será efetivada pela efetiva entrega do sistema solicitado.
+
+**Cláusula segunda** O cessionário se compromete a dar conhecimento e disponibilizar ao cedente, novas funcionalidades ou melhorias que eventualmente sejam incorporadas ao programa de que trata a cláusula anterior, desde que sejam pertinentes ao uso ou funcionalidade do aplicativo.
+
+**Cláusula terceira** O presente Protocolo poderá ser denunciado unilateralmente por qualquer das partes, mediante comunicação efetuada com antecedência mínima de 30 (trinta) dias.
+
+**Cláusula quarta** A denúncia ou revogação deste Protocolo não desobriga o cessionário quanto ao cumprimento das vedações nele previstas.
+
+**Cláusula quinta** Este protocolo entrará em vigor na data de sua publicação no Diário Oficial da União.

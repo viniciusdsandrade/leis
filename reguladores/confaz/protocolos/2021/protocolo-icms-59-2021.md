@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICMS nº 59, de 14 de dezembro de 2021"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "59"
+data: 2021-12-14
+ementa: "Dispõe sobre a adesão do Estado do Pará e altera o Protocolo ICMS nº 60/11, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.2021, pelo Despacho 88/21."
+data_publicacao: "2021-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt059_21"
+sha256_html_fonte: "219dd1a02f0def66850dca1d6be5955b721ab1da00a9199967882d2038f3c744"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 59, de 14 de dezembro de 2021
+
+PROTOCOLO ICMS Nº 59, DE 14 DEZEMBRO DE 2021
+
+Publicado no DOU de 20.12.2021, pelo Despacho 88/21.
+
+Dispõe sobre a adesão do Estado do Pará e altera o Protocolo ICMS nº 60/11, que dispõe sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+
+**Os Estados do Amapá, Pará e São Paulo**, neste ato representado pelos seus respectivos Secretários de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei n. 5.172, de 25 de outubro de 1966), no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, e no Convênio ICMS nº 142, de 14 de dezembro de 2018, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O Estado do Pará fica incluído nas disposições do Protocolo ICMS nº 60, de 11 de agosto de 2011.
+
+**Cláusula segunda** O “caput” da cláusula primeira do Protocolo ICMS nº 60/11, passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Nas operações interestaduais com as mercadorias listadas no Anexo Único, com a respectiva classificação na Nomenclatura Comum do Mercosul/Sistema Harmonizado - NCM/SH, destinadas aos Estados do Amapá e Pará, fica atribuída ao estabelecimento remetente, na qualidade de sujeito passivo por substituição tributária, a responsabilidade pela retenção e recolhimento do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS - relativo às operações subsequentes.”.
+
+**Cláusula terceira** Os §§ 4º e 5º ficam acrescidos à cláusula terceira do Protocolo ICMS nº 60/11, com as seguintes redações:
+
+“§ 4º O estabelecimento remetente utilizará o preço a consumidor ou a “MVA-ST original” que se encontram disponibilizados na data da operação, pela unidade federada de destino, no Portal Nacional da Substituição Tributária no sítio eletrônico do CONFAZ (www.confaz.fazenda.gov.br).
+
+**§ 5º** Compete a unidade federada de destino manter atualizadas, no sítio eletrônico do CONFAZ, as informações de que trata o § 4º.”.
+
+**Cláusula quarta** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2022.
+
+Amapá - Josenildo Santos Abrantes, Pará - René de Oliveira e Sousa Júnior, São Paulo - Henrique de Campos Meirelles.

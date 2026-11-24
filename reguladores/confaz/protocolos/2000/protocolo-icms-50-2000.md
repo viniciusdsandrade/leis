@@ -1,0 +1,40 @@
+---
+titulo: "Protocolo ICMS nº 50, de 15 de dezembro de 2000"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "50"
+data: 2000-12-15
+ementa: "Protocolo ICM 19/85 , de 25.07.85, que instituiu o regime de substituição tributária nas operações com disco fonográfico, fita virgem ou gravada."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 27.12.00."
+data_publicacao: "2000-12-27"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2000/pt050_00"
+sha256_html_fonte: "8c138198194b82262f34b0d3283d13e78c72ac91bd0725f2c99e435882bc518c"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 50, de 15 de dezembro de 2000
+
+**PROTOCOLO ICMS 50/00**
+
+**Publicado no DOU de 27.12.00.**
+
+**Retificação no DOU de 22.01.01.**
+
+**Dispõe sobre a adesão do Estado do Maranhão ao**
+
+**Protocolo ICM 19/85 , de 25.07.85, que instituiu o regime de substituição tributária nas operações com disco fonográfico, fita virgem ou gravada.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação e o Gerente de Receita dos Estados e do Distrito Federal, na 100ª reunião ordinária do Conselho Nacional de Política Fazendária, realizada em Teresina, PI, no dia 15 de dezembro de 2000, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira**
+
+Fica o Estado do Maranhão incluído nas disposições do Protocolo ICM 19/85 , de 25.07.85.
+
+Cláusula segunda
+
+Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de março de 2001.
+
+Teresina, PI, 15 de dezembro de 2000.

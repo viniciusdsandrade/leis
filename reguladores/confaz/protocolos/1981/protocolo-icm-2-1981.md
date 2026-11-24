@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICM nº 2, de 31 de março de 1981"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICM"
+numero: "2"
+data: 1981-03-31
+ementa: "Dispõe sobre o recolhimento e o estorno de que trata o § 1º da Cláusula primeira do Convênio ICM 12/80."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 10.04.81."
+data_publicacao: "1981-04-10"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1981/pt002_81"
+sha256_html_fonte: "ebfa7d53ddef4b3fb8ece41fcc88898d44d9d49862cca18445eb1e642f04343d"
+baixado_em: 2026-11-23
+---
+# Protocolo ICM nº 2, de 31 de março de 1981
+
+**PROTOCOLO ICM 02/81**
+
+**Publicado no DOU de 10.04.81.**
+
+**Protocolo sem aplicação, a partir de 07.01.88, em função do Conv. ICM 12/80 ter sido revogado pelo Conv. ICM**
+
+**73/87** .
+
+**Dispõe sobre o recolhimento e o estorno de que trata o § 1º da Cláusula primeira do Convênio ICM 12/80.**
+
+Os Estados de Santa Catarina e de São Paulo, neste ato representados pelos seus respectivos Secretários de Fazenda, reunidos no dia 31 de março de 1981, na cidade de Brasília, DF, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira**
+
+Acordam os signatários em adotar, para efeito do recolhimento e do estorno de que trata o § 1º da Cláusula primeira do Convênio ICM 12/80 , de 15 de outubro de 1980, o valor do ICM relativo às entradas de cana-de-açúcar, de acordo com a formulação de preços e os rendimentos padrões estabelecidos pelo Instituto do Açúcar e do Álcool.
+
+**Parágrafo único.** O critério previsto nesta cláusula aplica-se também às saídas de álcool para fins carburante, produzido a partir de aguardente.
+
+Cláusula segunda
+
+Este protocolo entrará em vigor na data de sua publicação no Diário Oficial da União retroagindo seus efeitos à data de vigência do Convênio ICM 12/80, de 15 de outubro de 1980, podendo ser denunciado a qualquer tempo, por iniciativa de qualquer das partes acordantes.
+
+Brasília, DF, em 31 de março de 1981.

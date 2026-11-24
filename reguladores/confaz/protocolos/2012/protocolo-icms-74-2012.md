@@ -1,0 +1,30 @@
+---
+titulo: "Protocolo ICMS nº 74, de 22 de junho de 2012"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "74"
+data: 2012-06-22
+ementa: "Exclui o Estado de Mato Grosso das disposições do Protocolo ICMS 168/2010, que institui a obrigatoriedade de utilização do documento Capa de Lote Eletrônica - CL-e para as unidades federadas que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 28.06.12, pelo Despacho 111/12 ."
+data_publicacao: "2012-06-28"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2012/pt074_12"
+sha256_html_fonte: "99ff62a6544bfe578ef769d86de849ebd623a2153df1424ee3437df52fa62050"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 74, de 22 de junho de 2012
+
+PROTOCOLO ICMS 74, DE 22 DE JUNHO DE 2012
+
+· Publicado no DOU de 28.06.12, pelo Despacho 111/12 .
+
+Exclui o Estado de Mato Grosso das disposições do Protocolo ICMS 168/2010, que institui a obrigatoriedade de utilização do documento Capa de Lote Eletrônica - CL-e para as unidades federadas que especifica.
+
+**Os Estados do Amapá, Amazonas, Bahia, Ceará, Mato Grosso, Pará e Roraima** neste ato representados pelos respectivos Secretários de Fazenda, tendo em vista o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), e o disposto no Protocolo ICMS 16/05, de 1º de julho de 2005, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** Fica o Estado de Mato Grosso excluído das disposições do Protocolo ICMS 168/2010 , de 4 de outubro de 2010.
+
+**Cláusula segunda** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União.

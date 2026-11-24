@@ -1,0 +1,50 @@
+---
+titulo: "Protocolo ICMS nº 70, de 20 de outubro de 2016"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "70"
+data: 2016-10-20
+ementa: "Altera o Protocolo ICMS 49/16, que dispõe sobre a cessão, sem ônus, pelo Estado de São Paulo, de cópia do Aplicativo Emissor da Nota Fiscal Eletrônica e do Conhecimento de Transporte Eletrônico, de sua propriedade, para ser exclusivamente utilizado, aperfeiçoado no âmbito dos Governos dos Estados do Ceará, do Maranhão e do Piauí"
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 21.10.16, pelo Despacho 184/16."
+data_publicacao: "2016-10-21"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2016/pt070_16"
+sha256_html_fonte: "9c2f7088919385963818563484756e99b6ff5971b35bbc5f3f0b0cab2e7e35ec"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 70, de 20 de outubro de 2016
+
+**PROTOCOLO ICMS 70, DE 20 DE OUTUBRO DE 2016**
+
+Publicado no DOU de 21.10.16, pelo Despacho 184/16.
+
+Retificado no DOU de 26.10.16.
+
+**Altera o Protocolo ICMS 49/16, que dispõe sobre a cessão, sem ônus, pelo Estado de São Paulo, de cópia do Aplicativo Emissor da Nota Fiscal Eletrônica e do Conhecimento de Transporte Eletrônico, de sua propriedade, para ser exclusivamente utilizado, aperfeiçoado no âmbito dos Governos dos Estados do Ceará, do Maranhão e do Piauí**
+
+**Os Estados do Ceará, Maranhão, Pernambuco, Piauí e São Paulo,** neste ato representados pelos seus Secretários de Fazenda, tendo em vista o disposto nos artigos 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** Os seguintes dispositivos do Protocolo ICMS 49/16, de 24 de agosto de 2016, passam a vigorar com a seguinte redação:
+
+I - a ementa:
+
+“Dispõe sobre a cessão, sem ônus, pelo Estado de São Paulo, de cópia do Aplicativo Emissor da Nota Fiscal Eletrônica e do Conhecimento de Transporte Eletrônico, de sua propriedade, para ser exclusivamente utilizado e aperfeiçoado no âmbito dos Governos dos Estados do Ceará, do Maranhão, de Pernambuco e do Piauí.”;
+
+II - o caput da cláusula primeira:
+
+“Cláusula primeira O Estado de São Paulo compromete-se a ceder aos Estados do Ceará, do Maranhão, de Pernambuco e do Piauí, sem ônus, o Aplicativo Emissor da Nota Fiscal Eletrônica - NF-e, modelo 55, e do Conhecimento de Transporte Eletrônico - CT-e, modelo 57, de sua propriedade, para ser exclusivamente analisado quanto à viabilidade de ser futuramente utilizado e aperfeiçoado no âmbito das Secretarias de Fazenda dos Estados do Ceará, do Maranhão, de Pernambuco e do Piauí.”.
+
+**Cláusula segunda** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.
+
+RETIFICAÇÃO
+
+Publicado no DOU de 26.10.16.
+
+No inciso I da cláusula primeira do Protocolo ICMS 70/16, de 20 de outubro de 2016, publicado no DOU de 21 de outubro de 2016, Seção 1, página 21,
+
+Onde se lê: “Altera o Protocolo ICMS 49/16, que dispõe sobre a cessão, sem ônus, pelo Estado de São Paulo, de cópia do Aplicativo Emissor da Nota Fiscal Eletrônica e do Conhecimento de Transporte Eletrônico, de sua propriedade, para ser exclusivamente utilizado e aperfeiçoado no âmbito dos Governos dos Estados do Ceará, do Maranhão, de Pernambuco e do Piauí.”;
+
+Leia-se: “Dispõe sobre a cessão, sem ônus, pelo Estado de São Paulo, de cópia do Aplicativo Emissor da Nota Fiscal Eletrônica e do Conhecimento de Transporte Eletrônico, de sua propriedade, para ser exclusivamente utilizado e aperfeiçoado no âmbito dos Governos dos Estados do Ceará, do Maranhão, de Pernambuco e do Piauí.”.

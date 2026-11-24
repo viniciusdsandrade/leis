@@ -1,0 +1,36 @@
+---
+titulo: "Protocolo ICMS nº 6, de 1º de abril de 2005"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "6"
+data: 2005-04-01
+ementa: "Dispõe sobre a adesão dos Estados do Acre, Amapá, Amazonas, Pará e Roraima ao Protocolo ICMS 17/04, que estabelece procedimentos nas operações com álcool etílico hidratado combustível - AEHC e álcool para fins não-combustíveis que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.04.05."
+data_publicacao: "2005-04-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2005/pt006_05"
+sha256_html_fonte: "19521f62343020bf227e83fe5e64f570c1832b441948b5a4ca2612288d8d6715"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 6, de 1º de abril de 2005
+
+**PROTOCOLO ICMS 06/05**
+
+**Publicado no DOU de 12.04.05.**
+
+**Dispõe sobre a adesão dos Estados do Acre, Amapá, Amazonas, Pará e Roraima ao Protocolo ICMS 17/04, que estabelece procedimentos nas operações com álcool etílico hidratado combustível - AEHC e álcool para fins não-combustíveis que especifica.**
+
+Os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Maranhão, Mato Grosso, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rondônia, Roraima e Sergipe, neste ato representados pelo respectivo Secretário de Fazenda, Finanças ou Tributação ou Gerente da Receita, tendo em vista o interesse e necessidade de estabelecer procedimentos uniformes para recolhimento do ICMS nas operações com álcool etílico hidratado combustível - AEHC e álcool para fins não-combustíveis, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira**
+
+Ficam estendidas aos Estados do Acre, Amapá, Amazonas, Pará e Roraima as disposições do Protocolo ICMS 17/04 , de 2 de abril de 2004.
+
+Cláusula segunda
+
+Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de maio de 2005.
+
+Maceió, AL, 1º de abril de 2005.

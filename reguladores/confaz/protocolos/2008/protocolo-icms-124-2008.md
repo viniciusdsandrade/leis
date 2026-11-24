@@ -1,0 +1,36 @@
+---
+titulo: "Protocolo ICMS nº 124, de 5 de dezembro de 2008"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "124"
+data: 2008-12-05
+ementa: "Altera o Protocolo ICMS 11/08, que dispõe sobre a substituição tributária nas operações com materiais de construção que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.12.08, pelo Despacho 102/08 ."
+data_publicacao: "2008-12-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2008/pt124_08"
+sha256_html_fonte: "3fdbcf388dd213ce1efae321a75d6ba1f9283f6d721812cede1ef0b0ad766882"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 124, de 5 de dezembro de 2008
+
+PROTOCOLO ICMS 124, DE 5 DE DEZEMBRO DE 2008
+
+**Publicado no DOU de 12.12.08, pelo Despacho 102/08 .**
+
+**Altera o Protocolo ICMS 11/08, que dispõe sobre a substituição tributária nas operações com materiais de construção que especifica.**
+
+**Os Estados de Mato Grosso e São Paulo** , neste ato representados pelos seus respectivos Secretários de Estado de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), e no art. 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+**P R O T O C O L O**
+
+**Cláusula primeira** A cláusula primeira do Protocolo ICMS 11/08 , de 05 de março de 2008, passa a vigorar com a seguinte redação:
+
+“ **Cláusula primeira** Nas operações interestaduais com os produtos relacionados no Anexo Único com a respectiva classificação na Nomenclatura Comum do Mercosul – NCM, destinadas ao Estado do Mato Grosso ou ao Estado de São Paulo, fica atribuída ao estabelecimento remetente, na qualidade de sujeito passivo por substituição tributária, a responsabilidade pela retenção e recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) relativo às operações subseqüentes.”.
+
+**Cláusula segunda** A cláusula oitava do Protocolo ICMS 11/08, de 05 de março de 2008, passa a vigorar com a seguinte redação:
+
+“ **Cláusula oitava** O imposto retido pelo sujeito passivo por substituição regularmente inscrito no cadastro de contribuintes do Estado destinatário será recolhido até o dia 9 (nove) do mês subseqüente ao da remessa da mercadoria, mediante Guia Nacional de Recolhimento de Tributos Estaduais – GNRE, na forma do Convênio ICMS 81/93 , de 10 de setembro de 1993, ou através de documento de arrecadação previsto na legislação do Estado destinatário.”.
+
+**Cláusula terceira** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do 1º dia do segundo mês subseqüente ao da publicação.

@@ -1,0 +1,29 @@
+---
+titulo: "Protocolo ICMS nº 24, de 25 de junho de 2019"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "24"
+data: 2019-06-25
+ementa: "Prorroga as disposições do Protocolo ICMS 48/16, que dispõe sobre as operações com ração para engorda de frangos, insumos e aves, promovidas entre estabelecimentos abatedores e produtores que entre si mantêm contrato de integração e parceria, estabelecidos nos Estados de Minas Gerais e de São Paulo."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU dia 26.06.2019, pelo Despacho 39/19."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2019/pt024_19"
+sha256_html_fonte: "2a30fa21fde19034bb8ba7d6a628b33a7c05c58167960839d529874f5faaab35"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 24, de 25 de junho de 2019
+
+PROTOCOLO ICMS 24/19, DE 25 DE JUNHO DE 2019
+
+Publicado no DOU dia 26.06.2019, pelo Despacho 39/19.
+
+Prorroga as disposições do Protocolo ICMS 48/16, que dispõe sobre as operações com ração para engorda de frangos, insumos e aves, promovidas entre estabelecimentos abatedores e produtores que entre si mantêm contrato de integração e parceria, estabelecidos nos Estados de Minas Gerais e de São Paulo.
+
+**Os Estados de Minas Gerais e de São Paulo**, neste ato representados pelos seus respectivos Secretários de Estado de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), e no artigo 9º da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** Acordam os Estados signatários em prorrogar, até 30 de junho de 2020, as disposições contidas no Protocolo ICMS 48/16, de 19 de agosto de 2016.
+
+**Cláusula segunda** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União.

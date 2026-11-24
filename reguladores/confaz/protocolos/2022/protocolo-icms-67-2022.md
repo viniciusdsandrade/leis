@@ -1,0 +1,34 @@
+---
+titulo: "Protocolo ICMS nº 67, de 19 de setembro de 2022"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "67"
+data: 2022-09-19
+ementa: "Altera o Protocolo ICMS nº 28/09, que dispõe sobre a substituição tributária nas operações com produtos alimentícios."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.09.2022, pelo Despacho 57/22."
+data_publicacao: "2022-09-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2022/pt067_22"
+sha256_html_fonte: "0dd819c63b034c174b060cdd98a805771ae3bf57a3c7f091ff06cfb0f4f01443"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 67, de 19 de setembro de 2022
+
+PROTOCOLO ICMS Nº 67, DE 19 DE SETEMBRO DE 2022
+
+Publicado no DOU de 20.09.2022, pelo Despacho 57/22.
+
+Altera o Protocolo ICMS nº 28/09, que dispõe sobre a substituição tributária nas operações com produtos alimentícios.
+
+**Os Estados de Minas Gerais e São Paulo**, neste ato representados pelos seus respectivos Secretários de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, e no Convênio ICMS nº 142, de 14 de dezembro de 2018, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O “caput” da cláusula primeira do Protocolo ICMS nº 28, de 5 de junho de 2009, passa a vigorar com a seguinte redação:
+
+“**Cláusula primeira** Nas operações interestaduais com bens e mercadorias relacionadas no Anexo XVII do Convênio ICMS nº 142, de 14 de dezembro de 2018, com exceção aos Códigos Especificadores da Substituição Tributária - CEST - 17.005.00, 17.005.01, 17.006.01, 17.016.01 a 17.018.01, 17.019.01, 17.019.03, 17.020.01, 17.021.01, 17.022.00, 17.023.01 a 17.024.05, 17.025.01, 17.025.02, 17.027.01, 17.028.00 a 17.029.00, 17.033.01, 17.044.00 a 17.046.16, 17.053.01, 17.053.02, 17.054.01, 17.054.02, 17.062.02, 17.062.03, 17.067.01, 17.067.02, 17.075.00, 17.083.00 a 17.087.02, 17.088.01, 17.089.01, 17.090.01, 17.091.01, 17.092.01, 17.093.01, 17.094.01, 17.096.00 a 17.096.05, 17.117.00, destinadas ao Estado de Minas Gerais ou ao Estado de São Paulo, fica atribuída ao estabelecimento remetente, na qualidade de sujeito passivo por substituição tributária, a responsabilidade pela retenção e recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - relativo às operações subsequentes.”.
+
+**Cláusula segunda** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Minas Gerais - Gustavo de Oliveira Barbosa, São Paulo - Felipe Scudeler Salto.

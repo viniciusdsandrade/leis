@@ -1,0 +1,38 @@
+---
+titulo: "Protocolo ICMS nº 37, de 7 de dezembro de 2001"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "37"
+data: 2001-12-07
+ementa: "Acrescenta dispositivo ao Protocolo ICM 17/85, de 25.07.85, que trata do regime de substituição tributária nas operações com lâmpada elétrica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 14.12.01."
+data_publicacao: "2001-12-14"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt037_01"
+sha256_html_fonte: "9199cc02d49278761a1d00e0b3bf23912cc942ea65ee760fbf1ce15fbdde8309"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 37, de 7 de dezembro de 2001
+
+**PROTOCOLO ICMS 37/01**
+
+**Publicado no DOU de 14.12.01.**
+
+**Acrescenta dispositivo ao Protocolo ICM 17/85, de 25.07.85, que trata do regime de substituição tributária nas operações com lâmpada elétrica.**
+
+Os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, São Paulo, Sergipe e Tocantins, neste ato representados pelos seus respectivos Secretários de Fazenda, Finanças ou Tributação e/ou Gerentes de Receita, reunidos em Brasília, DF, em 7 de dezembro de 2001, considerando o disposto nos artigos 102 e 109 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966) e no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira**
+
+Fica acrescentado o § 3º à cláusula primeira do Protocolo ICM 17/85 , de 25 de julho de 1985, com a seguinte redação:
+
+"§ 3º Fica o Estado do Rio Grande do Sul excluído da substituição tributária nas operações com reator, classificado na posição 8504.10.00 da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM - SH."
+
+**Cláusula segunda**
+
+Este protocolo entra em vigor na data da publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de fevereiro de 2002.
+
+Brasília, DF, 7 de dezembro de 2001.

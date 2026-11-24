@@ -1,0 +1,36 @@
+---
+titulo: "Protocolo ICMS nº 26, de 12 de dezembro de 1990"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "26"
+data: 1990-12-12
+ementa: "Aditivo ao Protocolo ICM 12/84, que trata da transferência de créditos acumulados do ICM entre estabelecimentos situados nos Estados de Minas Gerais e São Paulo."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 19.12.90."
+data_publicacao: "1990-12-19"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1990/pt026_90"
+sha256_html_fonte: "166fadf97abf2b125f253fa8464d667274ed7233cc2b2d1188c2e4f5e91eb348"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 26, de 12 de dezembro de 1990
+
+**PROTOCOLO ICMS 26/90**
+
+**Publicado no DOU de 19.12.90.**
+
+**Aditivo ao Protocolo ICM 12/84, que trata da transferência de créditos acumulados do ICM entre estabelecimentos situados nos Estados de Minas Gerais e São Paulo.**
+
+Os Estados de Minas Gerais e de São Paulo, neste ato representados pelos seus respectivos Secretários da Fazenda, reunidos em Brasília, DF, no dia 12 de dezembro de 1990, considerando a nova indexação da economia trazida pelas Leis Federais nº 7.777, de 19/06/89, 7.799, de 10/07/89, e 7.801, de 11.07.89, resolvem celebrar o seguinte Protocolo, aditivo ao Protocolo ICM 12/84.
+
+PROTOCOLO
+
+**Cláusula primeira**
+
+A partir do mês de fevereiro de 1989, para efeito de acerto entre os signatários, os valores dos créditos transferidos, bem como o saldo dos créditos recebidos e remetidos até o mês de janeiro de 1989, em razão dos Protocolo ICM 12/84 , serão transformados em Bônus do Tesouro Nacional - BTN, instituído pela Lei Federal nº 7.777, de 19 de junho de 1989.
+
+Cláusula segunda
+
+Este Protocolo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Brasília, DF, 12 de dezembro de 1990.

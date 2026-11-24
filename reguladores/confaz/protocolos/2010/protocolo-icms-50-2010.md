@@ -1,0 +1,52 @@
+---
+titulo: "Protocolo ICMS nº 50, de 4 de fevereiro de 2010"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "50"
+data: 2010-02-04
+ementa: "Altera o Protocolo ICMS 203/09, que dispõe sobre a substituição tributária nas operações com bicicletas."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.02.10, pelo Despacho 124/10 ."
+data_publicacao: "2010-02-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2010/pt050_10"
+sha256_html_fonte: "03c737518caaf6b8d109547f07dcb0a1fbdda9c16fa3a7fad3c0ac196cd7a9ba"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 50, de 4 de fevereiro de 2010
+
+PROTOCOLO ICMS 50, DE 4 DE FEVEREIRO DE 2010
+
+· Publicado no DOU de 12.02.10, pelo Despacho 124/10 .
+
+· Retificado no DOU de 25.02.10.
+
+Altera o Protocolo ICMS 203/09, que dispõe sobre a substituição tributária nas operações com bicicletas.
+
+**Os Estados de Minas Gerais, Rio de Janeiro e Santa Catarina** , neste ato representados pelos seus respectivos Secretários de Fazenda, no dia 4 de fevereiro de 2010, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), e no art. 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, e o disposto nos Convênios ICMS 81/93, de 10 de setembro de 1993, e 70/97, de 25 de julho de 1997, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O *caput* da cláusula primeira do Protocolo ICMS 203/09 , de 11 de dezembro de 2009, passa a vigorar com a seguinte redação:
+
+**“Cláusula primeira** Nas operações interestaduais com as mercadorias listadas no Anexo Único, com a respectiva classificação na **Nomenclatura Comum** do Mercosul / Sistema Harmonizado - **NCM** / **SH** , destinadas aos Estados de Minas Gerais, Rio de Janeiro ou Santa Catarina, fica atribuída ao estabelecimento remetente, na qualidade de sujeito passivo por substituição tributária, a responsabilidade pela retenção e recolhimento do Imposto sobre **Operações** Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS relativo às operações subseqüentes.”
+
+**Cláusula segunda** A cláusula oitava do Protocolo ICMS 203/09 passa a vigorar com a seguinte redação:
+
+“Cláusula oitava Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos, em relação às operações destinadas:
+
+I - ao Estado do Rio de Janeiro, a partir de 1º de março de 2010;
+
+II - ao Estado de Santa Catarina, a partir de 1º de maio de 2010;
+
+III - ao Estado de Minas Gerais, a partir da data prevista em decreto do Poder Executivo.“.
+
+**Cláusula terceira** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+RETIFICAÇÃO
+
+(Publicada no DOU de 25.02.10)
+
+No Protocolo ICMS **50** /10, de 04 de fevereiro de 2010, publicado no DOU de 12 de fevereiro de 2010, Seção 1, página 34, na cláusula segunda, **onde se lê** : “... A cláusula oitava do Protocolo ICMS 199/09 passa a vigorar com a seguinte redação: ...”, **leia-se** : “... A cláusula oitava do Protocolo ICMS 203/09 passa a vigorar com a seguinte redação: ...”.
+
+MANUEL DOS ANJOS MARQUES TEIXEIRA

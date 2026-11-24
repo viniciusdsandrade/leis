@@ -1,0 +1,34 @@
+---
+titulo: "Protocolo ICMS nº 38, de 13 de outubro de 2025"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "38"
+data: 2025-10-13
+ementa: "Altera o Protocolo ICMS nº 31, de 16 de agosto de 2024, dispõe sobre a suspensão do ICMS nas operações com gado bovino em pé, originadas do Estado de Alagoas com destino a industrialização no Estado de Sergipe, promovidas entre os estabelecimentos industriais que especifica, estabelecidos nos Estados de Alagoas e Sergipe."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 14.10.25, pelo Despacho 35/25."
+data_publicacao: "2025-10-14"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2025/pt038_25"
+sha256_html_fonte: "85705c4ee3b4c4009b1fde689d9c6979f7056189992d1cf56594b58bcd672e33"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 38, de 13 de outubro de 2025
+
+PROTOCOLO ICMS Nº 38, DE 13 DE OUTUBRO DE 2025
+
+Publicado no DOU de 14.10.25, pelo Despacho 35/25.
+
+Altera o Protocolo ICMS nº 31, de 16 de agosto de 2024, dispõe sobre a suspensão do ICMS nas operações com gado bovino em pé, originadas do Estado de Alagoas com destino a industrialização no Estado de Sergipe, promovidas entre os estabelecimentos industriais que especifica, estabelecidos nos Estados de Alagoas e Sergipe.
+
+**Os Estados de Alagoas e Sergipe**, neste ato representados pelos seus respectivos Secretários de Estado de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira** O “caput” da cláusula primeira do Protocolo ICMS nº 31, de 16 de agosto de 2024, publicado no Diário Oficial da União de 19 de agosto de 2024, passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Os Estados de Alagoas e Sergipe acordam em estabelecer que a suspensão do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – prevista no Convênio AE 15, de 11 de dezembro de 1974, reconfirmado pelo Convênio ICMS nº 34, de 13 de setembro de 1990, será aplicada à saída de gado bovino em pé, promovida pelo estabelecimento FMR ALIMENTOS LTDA, pessoa jurídica de direito privado, com sede na Av. João Soriano Bonfim nº 280, Quadra D Lote 08, bairro Rui Palmeira, São Miguel dos Campos/AL, CEP 57245-306, inscrita no CNPJ n° 35.551.587/0001-01, CACEAL (IE) nº 24327256-1, para fins de industrialização na empresa E A AGROINDUSTRIA LTDA, inscrita no CNPJ 62.082.217/0001-45, IE 27.237.095-9 (SE), estabelecida na Avenida Murilo Dantas, Distrito Industrial, CEP 49.900.000, na Cidade de Propriá, Estado de Sergipe, os quais doravante passam a ser denominados, respectivamente, ENCOMENDANTE e INDUSTRIALIZADOR.”.
+
+**Cláusula segunda** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União.
+
+Alagoas – Renata dos Santos, Sergipe - Sarah Tarsila Araujo Andreozzi.

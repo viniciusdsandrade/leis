@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICMS nº 78, de 26 de julho de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "78"
+data: 2013-07-26
+ementa: "Altera o Protocolo ICMS 85, de 26 de setembro de 2008, que dispõe sobre as operações realizadas por estabelecimentos industriais localizados na Zona Franca de Manaus por meio de armazém geral localizado no Município de Uberlândia – MG."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 01.08.13, pelo Despacho 157/13 ."
+data_publicacao: "2013-08-01"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2013/pt078_13"
+sha256_html_fonte: "dc1f0908a8d54680098b8c6c6c40851cde1bbc8693943bb7463f132cae33305f"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 78, de 26 de julho de 2013
+
+PROTOCOLO ICMS 78, DE 26 DE JULHO DE 2013
+
+· Publicado no DOU de 01.08.13, pelo Despacho 157/13 .
+
+Altera o Protocolo ICMS 85, de 26 de setembro de 2008, que dispõe sobre as operações realizadas por estabelecimentos industriais localizados na Zona Franca de Manaus por meio de armazém geral localizado no Município de Uberlândia – MG.
+
+**Os Estados do Amazonas e de Minas Gerais** , neste ato representados por seus Secretários de Fazenda, tendo em vista o disposto nos arts. 102 e 199 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O § 2º da cláusula segunda do Protocolo ICMS 85 , de 26 de setembro de 2008, passa a vigorar com a seguinte redação:
+
+“§ 2º Se no prazo de 180 (cento e oitenta) dias, contados da data da remessa da mercadoria ao armazém geral de Uberlândia - MG, não ocorrer a venda da mercadoria ou o seu retorno físico, caso o depositante opte por continuar operando com armazém geral, deverá adotar os seguintes procedimentos:
+
+I - efetuar a devolução simbólica da mercadoria para o seu estabelecimento;
+
+II - efetuar nova remessa para armazém geral, simbólica, acobertada por Nota Fiscal contendo destaque do ICMS.”.
+
+**Cláusula segunda** Ficam acrescentados os §§ 3º e 4º à cláusula segunda do Protocolo ICMS 85/08 , com a seguinte redação:
+
+“§ 3º Na segunda operação de remessa, de que trata o inciso II do § 2º desta cláusula, aplicam-se as disposições previstas nos art. 30 a 39 do Convênio S/Nº, de 15 de dezembro de 1970.
+
+**§ 4º** Na operação de transmissão, a qualquer título, da propriedade da mercadoria depositada nos termos do § 3º desta cláusula a outro estabelecimento que não o industrial depositante, havendo diferença de preço a maior entre o valor da mercadoria remetida para depósito em armazém geral e o valor da transmissão, deverá ser emitida Nota Fiscal complementar.”.
+
+**Cláusula terceira** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União.

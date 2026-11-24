@@ -1,0 +1,44 @@
+---
+titulo: "Protocolo ICMS nº 10, de 28 de março de 1989"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "10"
+data: 1989-03-28
+ementa: "Dispõe sobre critérios de cobrança do ICMS incidente nas operações com energia elétrica e prestação de serviço de comunicação, nos casos que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 04.04.89."
+data_publicacao: "1989-04-04"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1989/pt010_89"
+sha256_html_fonte: "c0f944737b08da5f8c861736587332ccbe0fa9096b3b86686c3abd04143b9433"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 10, de 28 de março de 1989
+
+PROTOCOLO ICMS 10/89
+
+· Publicado no DOU de 04.04.89.
+
+· Alterado pelo Prot. ICMS 20/94 .
+
+· Adesão do CE, GO, MG, MS, MT, PB, PE e RN pelo Prot. ICMS 15/89 , efeitos a partir de 01.03.89.
+
+· Exclui o Estado do PR pelo Protocolo ICMS 32/ 0 4 , efeitos a partir de 01.01.05.
+
+Dispõe sobre critérios de cobrança do ICMS incidente nas operações com energia elétrica e prestação de serviço de comunicação, nos casos que especifica.
+
+Os Estados do Paraná, Santa Catarina e São Paulo, neste ato representados pelos seus respectivos Secretários de Fazenda ou Finanças, considerando o disposto no artigo 37 do Regimento do Conselho de Política Fazendária, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+Nova redação dada a cláusula primeira pelo Prot. ICMS 20/94, efeitos a partir de 01.10.94.
+
+**Cláusula primeira** As distribuidoras de energia elétrica e as concessionárias de serviços públicos de comunicação com sede nos Estados signatários, que promovam o fornecimento de energia elétrica e a prestação dos serviços no território de outro dos signatários, deverão pagar, a esses Estados, o ICMS devido nas operações e prestações que realizarem nessas condições, tendo como base de cálculo o preço praticado e como alíquota a estabelecida para as operações internas do Estado da localização do consumidor de energia ou do usuário do serviço, por meio de Guia Nacional de Recolhimento do ICMS, até o dia 10 do mês subseqüente ao do respectivo faturamento.
+
+**Redação original** , efeitos até 30.09.94.
+
+Cláusula primeira As distribuidoras de energia elétrica e as concessionárias de serviços públicos de comunicação com sede nos Estados signatários, que promovam o fornecimento de energia elétrica e a prestação dos serviços no território de outro dos signatários, deverão pagar, a esses Estados, o ICMS devido nas operações e prestações que realizarem nessas condições, tendo como base de cálculo o preço praticado e como alíquota a estabelecida para as operações internas do Estado da localização do consumidor de energia ou do usuário do serviço, através de Guia Nacional de Recolhimento do ICMS, até o dia 20 do mês subseqüente ao do respectivo faturamento.
+
+**Cláusula segunda** Este Protocolo entra em vigor na data de sua publicação no Diário Oficial da União, retroagindo seus efeitos a partir de 1º de março de 1989.
+
+Brasília, DF, 28 de março de 1989.

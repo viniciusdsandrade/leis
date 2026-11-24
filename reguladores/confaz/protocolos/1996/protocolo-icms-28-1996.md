@@ -1,0 +1,82 @@
+---
+titulo: "Protocolo ICMS nº 28, de 13 de dezembro de 1996"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "28"
+data: 1996-12-13
+ementa: "Dá nova redação aos itens 1 e 2 da cláusula primeira do Protocolo ICMS 05/91, de 1º de março de 1991, que trata da suspensão do pagamento do ICMS na remessa de extrato ou óleo de café para armazenagem e posterior exportação."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.96."
+data_publicacao: "1996-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1996/pt028_96"
+sha256_html_fonte: "b42bda90b505be14e52f50609b70c72bf0b43a2de6d98f86661a195e63d751ef"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 28, de 13 de dezembro de 1996
+
+**PROTOCOLO ICMS**
+
+**28/96**
+
+**Publicado no DOU de 20.12.96.**
+
+**Dá nova redação aos itens 1 e 2 da cláusula primeira do Protocolo ICMS 05/91, de 1º de março de 1991, que trata da suspensão do pagamento do ICMS na remessa de extrato ou óleo de café para armazenagem e posterior exportação.**
+
+Os Estados do Paraná e de São Paulo, neste ato representados respectivamente, pelo Secretário da Fazenda e Secretário de Estado dos Negócios da Fazenda reunidos em Belém, PA, no dia 13 de dezembro de 1996, visando a adequação do regime tributário constante do Protocolo ICMS 05/91 , resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira**
+
+Os itens 1 e 2 da cláusula primeira do Protocolo ICMS 05/91, de 1º de março de 1991, passa a vigorar com a seguinte redação:
+
+"1. CIA. IGUAÇU DE CAFÉ SOLÚVEL, estabelecida na BR-369, Km 88, Rodovia Melo Peixoto, Município de Cornélio Procópio, inscrição estadual nº 53.400.815-54 e no CGC nº 76.255.926/0001-90, com destino a:
+
+CEFRI ARMAZENAGEM FRIGORIFICADA E AGROINDÚSTRIA LTDA.
+
+Av. Alberto Cocozza, nº 4300, Câmaras 2 e 4
+
+Município: Mairinque (SP)
+
+Inscrição Estadual nº 432.003.124.118
+
+CGC nº 57.046.955/0003-69
+
+2\. CIA. CACIQUE DE CAFÉ SOLÚVEL, estabelecida na Av. Tiradentes nº 5000, Município de Londrina, inscrição estadual nº 60.102.504-37 e no CGC nº 78.588.415/0001-15, com destino a:
+
+REFRIO ARMAZÉNS GERAIS FRIGORÍFICOS LTDA.
+
+Rod. Regis Bittencourt, Km 293,5,
+
+Município: Itapecerica da Serra (SP)
+
+Inscrição Estadual nº 370.015.278.117
+
+CGC nº 49.363.468/0002-10
+
+ARFRIO S/A - ARMAZÉNS GERAIS FRIGORÍFICOS
+
+Av. dos Bandeirantes, nº 612
+
+Município: Santos (SP)
+
+Inscrição Estadual nº 633.260.860.115
+
+CGC nº 61.024.295/0002-01
+
+AVANTE S/A ARMAZÉNS GERAIS FRIGORÍFICOS
+
+Av. Vereador Alfredo Neves, nº 295, Bairro Alemão
+
+Município: Santos (SP)
+
+Inscrição Estadual nº 633.131.689.112
+
+CGC nº 16.822.157/0004-85".
+
+**Cláusula segunda**
+
+Este Protocolo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Belém, PA, 13 de dezembro de 1996.

@@ -1,0 +1,63 @@
+---
+titulo: "Protocolo AE nº 7, de 27 de junho de 1973"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo AE"
+numero: "7"
+data: 1973-06-27
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 23.07.73."
+data_publicacao: "1973-07-23"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1973/pt007_73"
+sha256_html_fonte: "1b3bcd09915e229733d32dbdb17c1b50bb053c3718fa4e15e1d8ee25eb638653"
+baixado_em: 2026-11-23
+---
+# Protocolo AE nº 7, de 27 de junho de 1973
+
+**PROTOCOLO AE 07/73**
+
+**Publicado no DOU de 23.07.73.**
+
+**Alterado pelo Aditivo, de 23.07.73, DOU de 13.08.73.**
+
+**Adesão de SP pelo Aditivo, de 23.07.73, efeitos a partir de 13.08.73.**
+
+**Protocolo sem aplicação, a partir de 27.02.75, em função da sua não reconfirmação pelo Conv. ICM**
+
+**01/75** .
+
+**Dispõe sobre a concessão de isenção do ICM nas importações de peixe em estado natural.**
+
+(A ementa não consta do texto original)
+
+Os Secretários de Fazenda dos Estados do Paraná, Santa Catarina e Rio Grande do Sul, reunidos na cidade do Rio de Janeiro no dia 27 de junho de 1973, resolvem celebrar o seguinte:
+
+PROTOCOLO
+
+**Cláusula única.**
+
+Os signatários acordam em conceder isenção do imposto sobre circulação de mercadorias, até o dia 31 de dezembro de 1973, nas operações de entrada de peixe em estado natural, eviscerado, descabeçado, simplesmente resfriado ou gelado, importados com alíquota zero do imposto de importação.
+
+Acrescido os § 1º pelo Aditivo, de 23.07.73, efeitos a partir de 13.08.73.
+
+**§ 1º** - O disposto neste protocolo aplica-se exclusivamente às entradas, como matéria-prima, em estabelecimentos industriais
+
+Acrescido os § 2º pelo Aditivo, de 23.07.73, efeitos a partir de 13.08.73.
+
+**§ 2º** - Igual tratamento será dispensado em relação às importações efetivadas a partir do ano de 1972.
+
+Rio de Janeiro, 27 de junho de 1973.
+
+**ADITIVO AO PROTOCOLO AE 07/73**
+
+**Publicado no DOU de 13.08.73.**
+
+**Acresce parágrafo à cláusula única do Protocolo AE 07/73.**
+
+O Secretário de Fazenda do Estado de São Paulo, reunido com os Secretários de Fazenda dos Estados do Paraná, Santa Catarina e Rio Grande do Sul, na cidade de Porto Alegre, em 23 de julho de 1973, resolve aderir ao Protocolo AE 07/73, sendo que todos os Estados signatários resolvem aditar os seguintes parágrafos à cláusula única do referido Protocolo AE 07/73, firmado em 27 de junho de 1973, no Rio de Janeiro:
+
+"§ 1º - O disposto neste protocolo aplica-se exclusivamente às entradas, como matéria-prima, em estabelecimentos industriais."
+
+"§ 2º - Igual tratamento será dispensado em relação às importações efetivadas a partir do ano de 1972."
+
+Porto Alegre (RS), em 23 de julho de 1973.

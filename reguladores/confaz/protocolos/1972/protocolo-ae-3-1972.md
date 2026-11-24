@@ -1,0 +1,86 @@
+---
+titulo: "Protocolo AE nº 3, de 4 de maio de 1972"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo AE"
+numero: "3"
+data: 1972-05-04
+revogada: true
+situacao_fonte: "Revogado, a partir de 19.06.73, pelo Prot. AE 04/73."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.05.72."
+data_publicacao: "1972-05-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1972/pt003_72"
+sha256_html_fonte: "3b8200f7b9b499fa5091e9433e35d4c380142f5a6b05198ebd4f274aac460c98"
+baixado_em: 2026-11-23
+---
+# Protocolo AE nº 3, de 4 de maio de 1972
+
+**PROTOCOLO AE 03/72**
+
+·
+
+**Publicado no DOU de 12.05.72.**
+
+·
+
+**Revogado, a partir de 19.06.73, pelo Prot. AE 04/73** .
+
+**Dispõe sobre a concessão de crédito fiscal presumido por operações com leite cru, atribuição de responsabilidade do entreposto ou estabelecimento equivalente pelo recolhimento do imposto incidente nas saídas de leite pasteurizado de estabelecimento varejista.**
+
+(A ementa não consta do texto original)
+
+Os Secretários de Fazenda dos Estados de Goiás, Distrito Federal, Minas Gerais, Espírito Santo, Rio de Janeiro, Guanabara e São Paulo, reunidos na cidade do Rio de Janeiro no dia 4 de maio de 1972, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+Cláusula primeira
+
+Os signatários acordam em conceder crédito presumido do ICM às saídas de leite "in natura" nos termos deste protocolo.
+
+Cláusula segunda
+
+nas saídas de leite cru realizadas pelo estabelecimento produtor com destino a outra Unidade da Federação o Imposto de Circulação de Mercadorias em devido será calculado da seguinte forma:
+
+Débito : Alíquota interestadual X valor do leite posto na plataforma da Usina, fixado pela SUNAB.
+
+Crédito
+
+presumido: 70% da alíquota interestadual X preço do leite posto na plataforma da Usina, fixado pela SUNAB.
+
+**Parágrafo único** . Na hipótese prevista nesta cláusula, o imposto devido será recolhido pelo produtor e indenizado pelo destinatário.
+
+Cláusula terceira
+
+O imposto devido pelo produtor de leite cru será recolhido pelo destinatário, quando situado na mesma Unidade da Federação, juntamente com o imposto por ele devido nas saídas que efetuar.
+
+Cláusula quarta
+
+Por ocasião do recolhimento a que se refere a cláusula anterior, o imposto será calculado da seguinte forma:
+
+Débito
+
+: Valor da operação de saída X alíquota aplicável.
+
+Crédito
+
+: Preço do leite posto na plataforma da Usina, fixado pela SUNAB X 70% da alíquota aplicável à operação de saída da Usina ou estabelecimento equivalente.
+
+Cláusula quinta
+
+Nas operações interestaduais, o estabelecimento destinatário fará jus, também, a um crédito presumido do imposto de circulação de mercadorias, calculado mediante a aplicação da diferença entre as alíquotas, interna e interestadual, sobre 70% do preço do,leite posto na plataforma da Usina fixado pela SUNAB.
+
+**Parágrafo único.** O disposto nesta cláusula não se aplica às Unidades da Federação que concedam isenção nas operações de saída de leite cru ou pasteurizado, será retido antecipadamente pelo entreposto ou estabelecimento equivalente.
+
+Cláusula sexta
+
+O imposto de circulação de mercadorias devido pelo varejista, nas saídas de leite pasteurizado, será retido antecipadamente pelo entreposto ou estabelecimento equivalente.
+
+Cláusula sétima
+
+Fica revogado o Protocolo AE 10/71 , de 15.12.71.
+
+Cláusula oitava
+
+Os signatários providenciarão para que suas legislações incorporem as disposições do presente protocolo até o dia 1º de junho de 1972.
+
+Rio de Janeiro, 4 de maio de 1972.

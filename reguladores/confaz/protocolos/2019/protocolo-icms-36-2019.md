@@ -1,0 +1,32 @@
+---
+titulo: "Protocolo ICMS nº 36, de 1º de julho de 2019"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "36"
+data: 2019-07-01
+ementa: "Altera o Protocolo ICMS 196/09, que dispõe sobre a sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 04.07.2019, pelo Despacho 42/19."
+data_publicacao: "2019-07-04"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2019/pt036_19"
+sha256_html_fonte: "743ba2d53ab3b39dc93fcfd1ca433f2b3ae915fb403a54eb2da87850a06c9e06"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 36, de 1º de julho de 2019
+
+PROTOCOLO ICMS 36/19, DE 1º DE JULHO DE 2019
+
+Publicado no DOU de 04.07.2019, pelo Despacho 42/19.
+
+Altera o Protocolo ICMS 196/09, que dispõe sobre a sobre a substituição tributária nas operações com materiais de construção, acabamento, bricolagem ou adorno.
+
+**Os Estados do Amapá, Espírito Santo, Minas Gerais, Paraná, Rio de Janeiro e Rio Grande do Sul**, neste ato representados pelos seus respectivos Secretários de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei n. 5.172, de 25 de outubro de 1966), e no art. 9º da Lei Complementar n. 87/96, de 13 de setembro de 1996, e o disposto nos Convênio ICMS 81/93, de 10 de setembro de 1993, e 70/97, de 25 de julho de 1997, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** Fica alterado o inciso I do § 1º da cláusula terceira do Protocolo ICMS 196/09, de 11 de dezembro de 2009, que passa a vigorar com a seguinte redação:
+
+“I - “MVA ST original” é a margem de valor agregado prevista na legislação do Estado do destinatário para suas operações internas com produto mencionado no Anexo Único deste protocolo;”.
+
+**Cláusula segunda** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União.

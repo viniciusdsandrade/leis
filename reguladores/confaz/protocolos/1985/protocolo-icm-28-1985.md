@@ -1,0 +1,62 @@
+---
+titulo: "Protocolo ICM nº 28, de 21 de outubro de 1985"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICM"
+numero: "28"
+data: 1985-10-21
+ementa: "Dispõe sobre substituição tributária nas operações de saída das mercadorias que especifica, do Estado do Paraná com destino ao Estado do Rio de Janeiro."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 22.10.85."
+data_publicacao: "1985-10-22"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1985/pt028_85"
+sha256_html_fonte: "425213b2e4376a77a5d56236a2c8f78d494cb7b88912f808ea4ed7c810e9b31b"
+baixado_em: 2026-11-23
+---
+# Protocolo ICM nº 28, de 21 de outubro de 1985
+
+PROTOCOLO ICM 28/85
+
+Publicado no DOU de 22.10.85.
+
+As disposições deixam de aplicar-se às operações com farinha de trigo pelo Prot. ICMS 13/96, efeitos a partir de 20.09.96.
+
+Vide adesão do PR, no ano de 2008, aos Prots. ICMS 16/85, 17/85 e 18/85, em que o RJ consta também como signatário.
+
+Vide adesão do PR, no ano de 1998, aos Prots. ICMS 15/85 e 19/85, em que o RJ consta também como signatário.
+
+Vide revogação do Prot. ICMS 14/85 pelo Conv. ICMS 76/94, efeitos a partir de 01.10.1994.
+
+Vide revogação do Prot. ICMS 22/85 pelo Prot. ICMS 42/11, efeitos a partir de 01.07.2011.
+
+Dispõe sobre substituição tributária nas operações de saída das mercadorias que especifica, do Estado do Paraná com destino ao Estado do Rio de Janeiro.
+
+Os Estados do Paraná e Rio de Janeiro, neste ato representados pelos seus Secretários de Fazenda ou Finanças, tendo em vista o disposto no § 4º do artigo 6º do Decreto-Lei nº 406, de 31 de dezembro de 1968, acrescentado pela Lei Complementar nº 44, de 7 de dezembro de 1983, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira** Nas operações de saída das mercadorias listadas em anexo, do Estado do Paraná com destino ao Estado do Rio de Janeiro, fica atribuída ao estabelecimento remetente, na qualidade de contribuinte substituto, a responsabilidade pela retenção e recolhimento do Imposto sobre Circulação de Mercadorias, devido ao Estado do Rio de Janeiro, relativo às operações subseqüentes, realizadas por estabelecimento atacadista ou varejista.
+
+**Cláusula segunda** O imposto retido pelo contribuinte substituto será recolhido em agência do Banco oficial do Estado de origem ou de destino, no prazo indicado no anexo, mediante o formulário denominado Documento de Arrecadação do Estado do Rio de Janeiro, DARJ-ICM, sob o código 003-5.
+
+**Cláusula terceira** O contribuinte substituto receberá número de inscrição e código de atividade econômica no Cadastro de Contribuintes do Estado do Rio de Janeiro, devendo remeter para a Superintendência de Planejamento Fiscal, Rua Buenos Aires, 29 - 5º andar, CEP 20.070 - Rio de Janeiro-RJ, a seguinte documentação:
+
+I - cópia do instrumento constitutivo da empresa; e
+
+II - cópia do documento de inscrição no Cadastro Geral de Contribuintes do Ministério da Fazenda - CGC.
+
+**Parágrafo único.** O número de inscrição a que se refere esta cláusula deve ser aposto em todo documento dirigido do Estado do Rio de Janeiro, inclusive no documento de arrecadação.
+
+**Cláusula quarta** Ao regime de substituição instituído neste Protocolo aplica-se, no que couber, o disposto nos Protocolos ICM 14/85, publicado no Diário Oficial da União de 10.07.85, 15/85, 16/85, 17/85, 18/85 e 19/85, publicados no D.O.U. de 29.07.85, e, ainda, 22/85, publicado no D.O.U. de 22.08.85, conforme a espécie de mercadoria indicada no quadro anexo.
+
+**Cláusula quinta** Fica facultado aos Estados signatários revogar o presente Protocolo, mediante prévia comunicação de, no mínimo, 180 (cento e oitenta) dias.
+
+**Cláusula sexta** Este Protocolo entrará em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de novembro de 1985, revogadas as disposições em contrário.
+
+Brasília, DF, 21 de outubro de 1985.
+
+ANEXO AO PROTOCOLO ICM 28/85, DE 21 DE OUTUBRO DE 1985
+
+MERCADORIAS SUJEITAS À SUBSTITUIÇÃO TRIBUTÁRIA, SAÍDAS DO ESTADO DO PARANÁ COM DESTINO AO ESTADO DO RIO DE JANEIRO
+
+<table><tbody><tr><td> <p>MERCADORIAS</p> </td> <td> <p>MARGEM DE LUCRO DAS OPERAÇÕES SUBSEQUENTES</p> </td> <td> <p>PRAZO DE PAGAMENTO DO IMPOSTO RETIDO</p> <p>Dias após o mês da saída</p> </td> <td> <p>PROTOCOLO ICMS</p> </td> </tr><tr><td> <p>Medicamento, esparadrapo, algodão farmacêutico, gaze, absorvente e mamadeira</p> <p>Filme fotográfico e cinematográfico e “slide”</p> <p>Lâmina de barbear e aparelho de barbear descartável e isqueiro</p> <p>Lâmpada elétrica</p> <p>Pilha e bateria elétricas</p> <p>Disco fonográfico, fita virgem ou gravada</p> <p>Farinha de trigo para transformação ou em embalagem para uso doméstico</p> </td> <td> <p> </p> <p> </p> <p> </p> <p> </p> <p>35%</p> <p> </p> <p> </p> <p>40%</p> <p> </p> <p> </p> <p>30%</p> <p>40%</p> <p> </p> <p>40%</p> <p> </p> <p>25%</p> <p> </p> <p> </p> <p> </p> <p>60%</p> </td> <td> <p> </p> <p> </p> <p> </p> <p> </p> <p>90 dia</p> <p> </p> <p> </p> <p>60 dias</p> <p> </p> <p> </p> <p>90 dias</p> <p>60 dias</p> <p> </p> <p>60 dias</p> <p> </p> <p>75 dias</p> <p> </p> <p> </p> <p> </p> <p>30 dias</p> </td> <td> <p> </p> <p> </p> <p> </p> <p> </p> <p>14/85</p> <p> </p> <p> </p> <p>15/85</p> <p> </p> <p> </p> <p>16/85</p> <p>17/85</p> <p> </p> <p>18/85</p> <p> </p> <p>19/85</p> <p> </p> <p> </p> <p> </p> <p>22/85</p> </td> </tr></tbody></table>

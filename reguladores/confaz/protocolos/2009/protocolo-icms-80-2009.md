@@ -1,0 +1,46 @@
+---
+titulo: "Protocolo ICMS nº 80, de 22 de julho de 2009"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "80"
+data: 2009-07-22
+ementa: "Altera o Protocolo ICMS 05/09, que altera o Protocolo ICM 16/85, que dispõe sobre a substituição tributária nas operações com lâmina de barbear, aparelho de barbear descartável e isqueiro."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 24.07.09, pelo Despacho 219/09 ."
+data_publicacao: "2009-07-24"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt080_09"
+sha256_html_fonte: "dca7c73bf3800b09b3002f5686e295cad38d0b1f1e397efc643e6687815874b7"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 80, de 22 de julho de 2009
+
+**Protocolo ICMS 80, DE 22 DE JULHO DE 2009**
+
+· **Publicado no DOU de 24.07.09, pelo Despacho 219/09 .**
+
+· **Retificação no DOU de 05.10.09.**
+
+**Altera o Protocolo ICMS 05/09, que altera o Protocolo ICM 16/85, que dispõe sobre a substituição tributária nas operações com lâmina de barbear, aparelho de barbear descartável e isqueiro.**
+
+**Os Secretários de Fazenda dos Estados e do Distrito Federal** , tendo em vista o disposto no artigo 9º da Lei Complementar 87/96, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei 5.172, de 25 de outubro de 1966) resolvem celebrar o seguinte:
+
+**P R O T O C O L O**
+
+**Cláusula primeira** Fica alterado o inciso I da cláusula primeira do Protocolo ICMS 05/09 , de 3 de abril de 2009, publicado no Diário Oficial da União de 16 de abril de 2009, Seção 1, páginas 13 e 14, com a seguinte redação:
+
+“I – ***caput*** da cláusula primeira: ...”.
+
+**Cláusula segunda** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+**RETIFICAÇÃO**
+
+**(Publicada no DOU de 05.10.09)**
+
+No Protocolo ICMS **80** /09, de 22 de julho de 2009, publicado no DOU de 24 de julho de 2009, Seção 1, página 15:
+
+a) na ementa, **onde se lê** : “... que altera o Protocolo ICMS 16/85, ...”, **leia-se** : “... que altera o Protocolo ICM 16/85, ...”;
+
+b) no preâmbulo, **onde se lê** : “...no artigo 9 da Lei Complementar n 87/96...”, **leia-se** : “...no art. 9º da Lei Complementar 87/96, ...”, e, **onde se lê** : “...(Lei 5.172, de 25 de outubro de 1996) ...”, **leia-se** : “... (Lei 5.172, de 25 de outubro de 1966) ...”.
+
+M ANUEL DOS ANJOS MARQUES TEIXEIRA
