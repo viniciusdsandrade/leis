@@ -224,10 +224,23 @@ class Montagem(unittest.TestCase):
     def test_fecho_com_a_uf_entre_parenteses_ou_sem_o_de_antes_do_ano(self):
         sem_preambulo = CV_1976.replace("no dia 15 de junho de 1976", "nesta data")
         for fecho, esperado in [("Rio de Janeiro (GB), 23 de junho de 1976.", "1976-06-23"), ("Teresina, PI, 15 de junho 1976.", "1976-06-15"),
-                                ("Brasília, 1º de junho de 1976", "1976-06-01")]:
+                                ("Brasília, 1º de junho de 1976", "1976-06-01"), ("Brasília, (DF) em 14 de junho de 1976.", "1976-06-14"),
+                                ("Cidade do Salvador, Estado da Bahia, em 4 de junho de 1976.", "1976-06-04"),
+                                ("Rio de janeiro aos 5 de junho de 1976.", "1976-06-05"), ("Em 30 de junho de 1976.", "1976-06-30")]:
             with self.subTest(fecho):
                 html = sem_preambulo.replace("Brasília, DF, 15 de junho de 1976.", fecho)
                 self.assertEqual(self.meta(item("convenios", 1976, 16, "CV016_76"), html)[0]["data"], esperado)
+        # frase que só termina numa data não é fecho
+        for frase in ("Produz efeitos a partir de 1º de junho de 1976.", "Vigora até 30 de junho de 1976.", "Brasília, DF, em de junho. de 1976."):
+            with self.subTest(frase):
+                html = sem_preambulo.replace("Brasília, DF, 15 de junho de 1976.", frase)
+                self.assertEqual(c.montar(item("convenios", 1976, 16, "CV016_76"), html)[1]["motivo"],
+                                 "data do ato não encontrada na epígrafe, no fecho nem no preâmbulo")
+
+    def test_aspa_solta_antes_da_epigrafe_e_o_verbo_decidem_no_ato_de_dispositivo_unico(self):
+        self.assertEqual(c.ler_epigrafe(["‘PROTOCOLO ICM 48/76"])["numero"], 48)
+        unico = CV_1976.replace("<p>Cláusula primeira</p>", "").replace("Fica concedido crédito presumido.", "DECIDEM prorrogar a vigência do referido Convênio.")
+        self.assertEqual(self.meta(item("convenios", 1976, 16, "CV016_76"), unico)[0]["data"], "1976-06-15")
 
     def test_citacao_de_outro_ato_no_alto_nao_e_epigrafe(self):
         html = CV_2004.replace("<p><strong>CONVÊNIO ICMS 106/04</strong></p>", "<p>Convênio ICMS 106/04, que autoriza o Piauí</p>")

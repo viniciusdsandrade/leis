@@ -167,8 +167,9 @@ def ler_epigrafe(blocos):
     O portal às vezes quebra a epígrafe em dois blocos ("PROTOCOLO ICMS" e "21/97") ou põe antes dela a marca
     "REVOGADO": vale o primeiro bloco, ou par de blocos vizinhos, que casa inteiro com a forma da epígrafe.
     """
-    # "C ONVÊNIO AE 10/72" e "CON VÊNIO ICMS 51": o começo da palavra solto; "04 D E AGOSTO": o "de" partido. Da fonte.
-    planos = [re.sub(r"\bd e\b", "de", re.sub(r"^(c|con) (?=[a-z]{4})", r"\1", plano(b).lower())) for b in blocos[:6]]
+    # "C ONVÊNIO AE 10/72" e "CON VÊNIO ICMS 51": o começo da palavra solto; "04 D E AGOSTO": o "de" partido;
+    # "‘PROTOCOLO ICM 48/76": uma aspa solta antes da epígrafe. Da fonte.
+    planos = [re.sub(r"\bd e\b", "de", re.sub(r"^(c|con) (?=[a-z]{4})", r"\1", plano(b).lower().lstrip("‘’'\"“” "))) for b in blocos[:6]]
     for i, bloco in enumerate(planos):
         for candidato in (bloco, bloco + " " + planos[i + 1] if i + 1 < len(planos) else ""):
             m = EPIGRAFE.match(candidato)
@@ -191,9 +192,12 @@ def ler_epigrafe(blocos):
 
 
 # "Aracaju, SE, 24 de setembro de 2004.", "Brasília, 31 de março de 1970.", "Rio de Janeiro (GB), 23 de novembro de
-# 1972." e "Teresina, PI, 15 de dezembro 2000." (sem o "de" antes do ano, da fonte).
-FECHO = re.compile(r"^[a-z][a-z .'()-]{2,40},(?: ?[a-z]{2} ?,)?(?: em)? ?(\d{1,2})[º°o]? (?:de )?(" + MESES_RE
-                   + r") (?:de )?(\d{4}) ?\.?$")
+# 1972.", "Teresina, PI, 15 de dezembro 2000." (sem o "de" antes do ano, da fonte), "Brasília, (DF) em 14 de julho de
+# 1971.", "Cidade do Salvador, Estado da Bahia, em 4 de junho de 1976.", "Rio de Janeiro aos 5 de julho de 1974." e
+# "Em 30 de abril de 1979.". Sem a vírgula depois do lugar só vale com "aos": "a partir de 1º de janeiro de 1979." no fim
+# de uma cláusula não é fecho.
+FECHO = re.compile(r"^(?:[a-z][a-z .'()-]{2,40},(?: ?\(?[a-z]{2}\)? ?,?| ?estado d[aeo] [a-z ]{3,25},)?(?: em| aos)? ?"
+                   r"|[a-z][a-z .'()-]{2,40} aos |em )(\d{1,2})[º°o]? (?:de )?(" + MESES_RE + r") (?:de )?(\d{4}) ?\.?$")
 PREAMBULO = re.compile(r"\b(?:no|em|do) dia (\d{1,2})[º°o]? de (" + MESES_RE + r") de (\d{4})\b")
 
 
@@ -324,7 +328,7 @@ def montar(item, html):
     # O ato antigo de dispositivo único não tem cláusula ("Os Estados signatários acordam em conceder suspensão de
     # ICM..."): vale quando o preâmbulo traz o verbo de quem celebra e o fecho repete a data do ato.
     limpo = re.sub(r"[*_\\]", "", corpo)
-    unico = data in fechos and re.search(r"(?i)\b(?:resolvem?|acordam|convencionam|celebram)\b", limpo)
+    unico = data in fechos and re.search(r"(?i)\b(?:resolvem?|acordam|convencionam|celebram|decidem)\b", limpo)
     if not re.search(r"(?im)^\W*(?:cl[áa]usula|art(?:igo)?\.?)\s", limpo) and not unico:
         return "retido", {"motivo": "texto sem cláusula nem artigo"}
     tipo = nome_do_tipo(epigrafe, item)
