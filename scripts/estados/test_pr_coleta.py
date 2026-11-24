@@ -212,6 +212,16 @@ class Recusa(unittest.TestCase):
         self.assertIn('numero: "972"', texto)
         self.assertIn("data: 2019-04-02", texto)
 
+    def test_dia_colado_ao_de_mantem_numero_e_data(self):
+        # codAto 57230 (24/11/2026): "29de Novembro", sem o espaço depois do dia
+        epigrafe = "Decreto 8884 - 29de Novembro de 2010"
+        self.assertEqual(pr.NUMERO_EPIGRAFE.search(epigrafe).group(1), "8884")
+        self.assertEqual(pr.data_da_epigrafe(epigrafe), "2010-11-29")
+        self.assertEqual(pr.data_da_epigrafe("Decreto 7381 - 19de Abril de 201",
+                                             "<p>Publicado no Diário Oficial nº. 1 de 19 de Abril de 2021</p>"), "2021-04-19")
+        # o "de" continua sendo palavra inteira: "29dezembro" não vira dia 29 de "zembro"
+        self.assertIsNone(pr.NUMERO_EPIGRAFE.search("Decreto 8884 - 29dezembro de 2010"))
+
     def test_numero_de_epigrafe_fora_do_padrao(self):
         # Formas reais da Casa Civil (21/11/2026), lidas só quando "Número - dia de mês de ano" não casa
         casos = {
