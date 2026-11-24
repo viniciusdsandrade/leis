@@ -1,0 +1,34 @@
+---
+titulo: "Protocolo ICMS nº 9, de 27 de fevereiro de 2025"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "9"
+data: 2025-02-27
+ementa: "Altera o Protocolo ICMS nº 44, de 12 de dezembro de 2024, que dispõe sobre a suspensão do ICMS nas remessas de suínos do Estado de Santa Catarina para industrialização no Estado do Rio Grande do Sul e respectivo retorno dos produtos industrializados."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 28.02.25, pelo Despacho 5/25."
+data_publicacao: "2025-02-28"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2025/pt009_25"
+sha256_html_fonte: "48d36ac7674224e58f2b3a7fbea938600755c594b9c2235c095108689582f683"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 9, de 27 de fevereiro de 2025
+
+PROTOCOLO ICMS Nº 9, DE 27 DE FEVEREIRO DE 2025
+
+Publicado no DOU de 28.02.25, pelo Despacho 5/25.
+
+Altera o Protocolo ICMS nº 44, de 12 de dezembro de 2024, que dispõe sobre a suspensão do ICMS nas remessas de suínos do Estado de Santa Catarina para industrialização no Estado do Rio Grande do Sul e respectivo retorno dos produtos industrializados.
+
+**Os Estados do Rio Grande do Sul e Santa Catarina,** neste ato representados pelos seus respectivos Secretários de Estado de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** A cláusula quarta-A fica acrescida ao Protocolo ICMS nº 44, de 12 de dezembro de 2024, publicado no Diário Oficial de União de 13 de dezembro de 2024, com a seguinte redação:
+
+“**Cláusula quarta-A** O disposto neste protocolo também se aplica às remessas de suínos realizadas pelo estabelecimento filial da empresa Bugio Agropecuária Ltda., situado no município de Sananduva/RS, CNPJ nº 82.996.521/0005-39, inscrição estadual nº 105/0041108, que nesta hipótese será denominado ENCOMENDANTE, para fins de industrialização no estabelecimento matriz, situado no município de Chapecó/SC, CNPJ nº 82.996.521/0001-05, inscrição estadual nº 252215176, que nesta hipótese será considerado INDUSTRIALIZADOR, bem como à remessa, real ou simbólica, dos produtos industrializados em retorno ao ENCOMENDANTE.”.
+
+**Cláusula segunda** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de março de 2025.
+
+Rio Grande do Sul – Pricilla Maria Santana, Santa Catarina – Cleverson Siewert.

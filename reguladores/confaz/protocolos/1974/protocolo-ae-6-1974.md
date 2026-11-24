@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo AE nº 6, de 2 de agosto de 1974"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo AE"
+numero: "6"
+data: 1974-08-02
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de //."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/1974/pt006_74"
+sha256_html_fonte: "1cfe312cd7689102f3ffd825c6f4595109a21424a1df772b524482129f8ef036"
+baixado_em: 2026-11-23
+---
+# Protocolo AE nº 6, de 2 de agosto de 1974
+
+**PROTOCOLO AE 06/74**
+
+**Publicado no DOU de \_\_\_\_/\_\_\_/\_\_\_.**
+
+**Protocolo sem aplicação, a partir de 27.02.75, em função da sua não reconfirmação pelo Conv. ICM**
+
+**01/75** .
+
+**Restabelecido pelo Conv. ICM**
+
+**03/75 em relação aos Estados do RJ e SP, efeitos de 19.05.75 a 30.04.75.**
+
+**Dispõe sobre a concessão de crédito presumido nas saídas de carne bovina importada do exterior em consonância com a Política de Abastecimento do Governo Federal.**
+
+(A ementa não consta do texto original)
+
+Os Secretários de Fazenda dos Estados do Rio Grande do Sul, São Paulo, Minas Gerais e Guanabara resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula única.**
+
+Os signatários acordam em conceder às operações de saída para o mercado interno de carne bovina, verde, resfriada ou congelada, proveniente do exterior, cuja importação estiver vinculada à Política de Abastecimento do Governo Federal e isenta do Imposto de Importação, um crédito presumido do Imposto de Circulação de Mercadorias em igual valor ao imposto que seria devido nos termos do Convênio AE 01/73 , de 11.01.73.
+
+**Parágrafo único.** O disposto nesta cláusula aplica-se às saídas realizadas no período de 31/03/74 a 31/12/74.
+
+Rio de Janeiro, 2 de agosto de 1974.

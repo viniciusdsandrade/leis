@@ -99,6 +99,9 @@ class Montagem(unittest.TestCase):
         antigo = html.replace("DE 2004", "DE 1984").replace("de 2004", "de 1984")
         meta, r = self.meta(item("convenios", 1984, 106, "CV106_84"), antigo)
         self.assertEqual((meta["tipo"], r["slug"]), ("Convênio", "convenio-106-1984"))
+        protocolo = PT_2012.replace("PROTOCOLO ICMS 146, DE 28", "PROTOCOLO 146, DE 28")
+        meta, r = self.meta(item("protocolos", 2012, 146, "pt146_12"), protocolo)
+        self.assertEqual((meta["tipo"], r["slug"]), ("Protocolo ICMS", "protocolo-icms-146-2012"))
 
     def test_ato_que_ja_esta_no_acervo_pelo_diario_oficial_nao_ganha_segundo_arquivo(self):
         import tempfile
@@ -174,7 +177,10 @@ class Montagem(unittest.TestCase):
                 ("<p>PROTOCOLO ICMS 74, DE 04 D E AGOSTO DE 1992</p>", 74, 1992, "pt074_92", "1992-08-04"),
                 ("<p>PROTOCOLO ICMS 90, DE 28 DE SETEMBRO D E 2010</p>", 90, 2010, "pt090_10", "2010-09-28"),
                 ("<p>PROTOCOLO ICMS 29, DE 3 DE ABRIL 2009</p>", 29, 2009, "pt029_09", "2009-04-03"),
-                ("<p>PROTOCOLO ICMS 89, DE 12 DE SETEMBRO DE DE 2016</p>", 89, 2016, "pt089_16", "2016-09-12")]:
+                ("<p>PROTOCOLO ICMS 89, DE 12 DE SETEMBRO DE DE 2016</p>", 89, 2016, "pt089_16", "2016-09-12"),
+                ("<p>PROTOCOLOICMS 117, DE 26 DE DEZEMBRO DE 2011</p>", 117, 2011, "pt117_11", "2011-12-26"),
+                ("<p>PROTOCOLO ICMS 91, DE 16 DE DEZEMBRODE 2011</p>", 91, 2011, "pt091_11", "2011-12-16"),
+                ("<p>PROTOCOLO ICMS 100, DE 5 DE AGOSTO DE 2009 ()</p>", 100, 2009, "pt100_09", "2009-08-05")]:
             with self.subTest(nome):
                 html = PT_2012.replace("<p>PROTOCOLO ICMS 146, DE 28 DE SETEMBRO DE 2012</p>", epigrafe)
                 if "/97</strong>" in epigrafe:
@@ -224,10 +230,32 @@ class Montagem(unittest.TestCase):
     def test_fecho_com_a_uf_entre_parenteses_ou_sem_o_de_antes_do_ano(self):
         sem_preambulo = CV_1976.replace("no dia 15 de junho de 1976", "nesta data")
         for fecho, esperado in [("Rio de Janeiro (GB), 23 de junho de 1976.", "1976-06-23"), ("Teresina, PI, 15 de junho 1976.", "1976-06-15"),
-                                ("Brasília, 1º de junho de 1976", "1976-06-01")]:
+                                ("Brasília, 1º de junho de 1976", "1976-06-01"), ("Brasília, (DF) em 14 de junho de 1976.", "1976-06-14"),
+                                ("Cidade do Salvador, Estado da Bahia, em 4 de junho de 1976.", "1976-06-04"),
+                                ("Rio de janeiro aos 5 de junho de 1976.", "1976-06-05"), ("Em 30 de junho de 1976.", "1976-06-30"),
+                                ("Em, 21 de junho de 1976.", "1976-06-21"), ("Brasília, DF 12 de junho de 1976.", "1976-06-12"), ("Brasília, DF, no dia 26 junho de 1976.", "1976-06-26"),
+                                ("Brasília, DF, de 21 de junho de 1976.", "1976-06-21"),
+                                ("Goiânia (GO)/Miracema do Norte (TO), 2 de junho de 1976.", "1976-06-02"),
+                                ("Curitiba, Pr/Goiânia, GO, 12 de junho de 1976.", "1976-06-12"),
+                                ("Brasília ( DF)/Cuiabá(MT), 25 de junho de 1976.", "1976-06-25"),
+                                ("Cuiabá, Florianópolis, 30 de junho de 1976.", "1976-06-30")]:
             with self.subTest(fecho):
                 html = sem_preambulo.replace("Brasília, DF, 15 de junho de 1976.", fecho)
                 self.assertEqual(self.meta(item("convenios", 1976, 16, "CV016_76"), html)[0]["data"], esperado)
+        # frase que só termina numa data não é fecho
+        for frase in ("Produz efeitos a partir de 1º de junho de 1976.", "Vigora até 30 de junho de 1976.", "Brasília, DF, em de junho. de 1976.",
+                      "Alterado pelo Prot. ICM 61/76, de 30 de junho de 1976.", "Prorrogado, até 30 de junho de 1976.", "Assinado em 14 de junho de 1976.",
+                      "Este protocolo entra em vigor na data de sua publicação, em 30 de junho de 1976.",
+                      "Este protocolo entra em vigor na data de sua publicação, produzindo efeitos desde 17 de junho de 1976."):
+            with self.subTest(frase):
+                html = sem_preambulo.replace("Brasília, DF, 15 de junho de 1976.", frase)
+                self.assertEqual(c.montar(item("convenios", 1976, 16, "CV016_76"), html)[1]["motivo"],
+                                 "data do ato não encontrada na epígrafe, no fecho nem no preâmbulo")
+
+    def test_aspa_solta_antes_da_epigrafe_e_o_verbo_decidem_no_ato_de_dispositivo_unico(self):
+        self.assertEqual(c.ler_epigrafe(["‘PROTOCOLO ICM 48/76"])["numero"], 48)
+        unico = CV_1976.replace("<p>Cláusula primeira</p>", "").replace("Fica concedido crédito presumido.", "DECIDEM prorrogar a vigência do referido Convênio.")
+        self.assertEqual(self.meta(item("convenios", 1976, 16, "CV016_76"), unico)[0]["data"], "1976-06-15")
 
     def test_citacao_de_outro_ato_no_alto_nao_e_epigrafe(self):
         html = CV_2004.replace("<p><strong>CONVÊNIO ICMS 106/04</strong></p>", "<p>Convênio ICMS 106/04, que autoriza o Piauí</p>")

@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICMS nº 61, de 14 de junho de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "61"
+data: 2013-06-14
+ementa: "Altera o Protocolo ICMS 18/85, que dispõe sobre a substituição tributária nas operações com pilhas e baterias."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 17.06.13, pelo Despacho 120/13 ."
+data_publicacao: "2013-06-17"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2013/pt061_13"
+sha256_html_fonte: "ce89d808aa185d793287a49a4f179b5b00ee2cf12a422fa9f70c0f71fb808e4f"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 61, de 14 de junho de 2013
+
+**PROTOCOLO ICMS 61,** DE 14 DE JUNHO DE 2013
+
+· Publicado no DOU de 17.06.13, pelo Despacho 120/13 .
+
+Altera o Protocolo ICMS 18/85, que dispõe sobre a substituição tributária nas operações com pilhas e baterias.
+
+**Os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraná, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe e o Tocantins,** neste ato representados pelos seus respectivos Secretários de Fazenda, Finanças e Tributação, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei n. 5.172, de 25 de outubro de 1966), e no art. 9º da Lei Complementar n. 87/96, de 13 de setembro de 1996, resolvem celebrar o seguinte:
+
+P R O T O C O L O
+
+**Cláusula primeira** O §4º da cláusula terceira do Protocolo ICMS 18/85 , de 29 de julho de 1985, passa a vigorar com a seguinte redação:
+
+“§4º Na impossibilidade de inclusão do valor do frete na composição da base de cálculo, o recolhimento do imposto correspondente será efetuado pelo estabelecimento destinatário, acrescido dos percentuais de margem de valor agregado de que tratam os §§1º, 2º e 6º.”.
+
+**Cláusula segunda** Fica acrescido o §6º à cláusula terceira do Protocolo ICMS 18/85 , com a seguinte redação:
+
+“§6º Na hipótese de a “ALQ intra” ser inferior à “ALQ inter”, deverá ser aplicada a “MVA – ST original”.”.
+
+**Cláusula terceira** Fica revogado o §3º da cláusula terceira do Protocolo ICMS 18/85 .
+
+**Cláusula quarta O inciso III do §1º da cláusula terceira do** Protocolo ICMS 18/85 **, de 29 de julho de 1985, passa a vigorar com a seguitne redação:**
+
+III - “ALQ intra” é o coeficiente correspondente à alíquota interna ou percentual de carga tributária efetiva, quando este for inferior à alíquota interna, praticada pelo contribuinte substituto da unidade federada de destino, nas operações com as mesmas mercadorias.
+
+**Cláusula quinta** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.

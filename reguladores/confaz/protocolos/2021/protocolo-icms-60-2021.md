@@ -1,0 +1,32 @@
+---
+titulo: "Protocolo ICMS nº 60, de 14 de dezembro de 2021"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "60"
+data: 2021-12-14
+ementa: "Dispõe sobre a adesão dos Estados do Espírito Santo e Santa Catarina e altera o Protocolo ICMS nº 82/12, que dispõe sobre a instituição da Central de Operações Estaduais - COE e o monitoramento, controle e compartilhamento de informações entre as Secretarias de Fazenda, Finanças, Receita ou Tributação dos Estados, do Distrito Federal e a Secretaria da Receita Federal do Brasil."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.2021, pelo Despacho 88/21."
+data_publicacao: "2021-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2021/pt060_21"
+sha256_html_fonte: "925d567d3f184666ee8aa2c90224d1c81b9e55ad5d3d62a900b27bd570e2ff26"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 60, de 14 de dezembro de 2021
+
+PROTOCOLO ICMS Nº 60, DE 14 DEZEMBRO DE 2021
+
+Publicado no DOU de 20.12.2021, pelo Despacho 88/21.
+
+Dispõe sobre a adesão dos Estados do Espírito Santo e Santa Catarina e altera o Protocolo ICMS nº 82/12, que dispõe sobre a instituição da Central de Operações Estaduais - COE e o monitoramento, controle e compartilhamento de informações entre as Secretarias de Fazenda, Finanças, Receita ou Tributação dos Estados, do Distrito Federal e a Secretaria da Receita Federal do Brasil.
+
+**Os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Minas Gerais, Pará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina Sergipe e Tocantins, o Distrito Federal e a Secretaria Especial da Receita Federal do Brasil - RFB**, neste ato representados por seus Secretários de Fazenda, Economia, Finanças ou Tributação, tendo em vista o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** Os Estados dos Espírito Santo e Santa Catarina ficam incluído nas disposições do Protocolo ICMS nº 82, de 22 de junho de 2012.
+
+**Cláusula segunda** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União.
+
+Acre - José Amarísio Freitas de Souza, Alagoas - George André Palermo Santoro, Amapá - Josenildo Santos Abrantes, Amazonas- Alex Del Giglio, Bahia - Manoel Vitório Da Silva Filho, Ceará - Fernanda Mara de Oliveira Macedo Carneiro Pacobahyba, Distrito Federal - André Clemente Lara de Oliveira, Espírito Santo - Marcelo Martins Altoé, Goiás - Cristiane Alkmin Junqueira Schmidt, Maranhão - Marcellus Ribeiro Alves, Minas Gerais - Gustavo de Oliveira Barbosa, Pará - René de Oliveira e Sousa Júnior, Paraíba - Marialvo Laureano dos Santos Filho, Pernambuco - Décio José Padilha da Cruz, Piauí - Rafael Tajra Fonteles, Rio Grande do Norte - Carlos Eduardo Xavier, Rio Grande do Sul - Marco Aurelio Santos Cardoso, Rondônia - Luis Fernando Pereira da Silva, Roraima - Marcos Jorge de Lima, Santa Catarina - Paulo Eli, Sergipe - Marco Antônio Queiroz, Tocantins - Paulo Antenor de Oliveira, Secretaria Especial da Receita Federal do Brasil – RFB - Julio Cesar Vieira Gomes.

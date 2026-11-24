@@ -1,0 +1,38 @@
+---
+titulo: "Protocolo ICMS nº 38, de 18 de maio de 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "38"
+data: 2026-05-18
+ementa: "Revigora e prorroga o Protocolo ICMS nº 86, de 14 de dezembro de 2022, que dispõe sobre a suspensão do recolhimento do ICMS na remessa interestadual de mercadorias para armazém geral não alfandegado, nos termos que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 19.05.26, pelo Despacho 24/26."
+data_publicacao: "2026-05-19"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt038_26"
+sha256_html_fonte: "c1bf02b6963e6e8f999ee1011ac1de557a7eb46dc471be4cc7e4b2221e826089"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 38, de 18 de maio de 2026
+
+PROTOCOLO ICMS Nº 38, DE 18 DE MAIO DE 2026
+
+Publicado no DOU de 19.05.26, pelo Despacho 24/26.
+
+Revigora e prorroga o Protocolo ICMS nº 86, de 14 de dezembro de 2022, que dispõe sobre a suspensão do recolhimento do ICMS na remessa interestadual de mercadorias para armazém geral não alfandegado, nos termos que especifica.
+
+**Os Estados do Espírito Santo e Minas Gerais**, neste ato representados pelos seus respectivos Secretários de Estado de Fazenda, considerando o disposto nos artigos 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira** As disposições contidas no Protocolo ICMS nº 86, de 14 de dezembro de 2022, publicado no Diário Oficial da União de 15 de dezembro de 2022, ficam revigoradas e prorrogadas até 30 de dezembro de 2027.
+
+**Cláusula segunda** O “caput” da cláusula quinta do Protocolo ICMS nº 86/22 passa a vigorar com a seguinte alteração:
+
+“Cláusula quinta Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do mês subsequente ao da publicação e terá vigência até a data de 31 de dezembro de 2027, podendo ser renovado, desde que requerido pelas partes interessadas antes de seu vencimento, ou denunciado a qualquer momento, em conjunto ou isoladamente, pelos estados signatários.”.
+
+**Cláusula terceira** Os procedimentos relativos às operações abrangidas pelo Protocolo ICMS nº 86/22, praticados no período de 1º de janeiro de 2026 até data do início da vigência deste protocolo ficam convalidados, desde que observadas as suas disposições.
+
+**Cláusula quarta** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União.
+
+Espírito Santo - Benicio Suzana Costa, Minas Gerais - Luciana Mundim de Mattos Paixão.

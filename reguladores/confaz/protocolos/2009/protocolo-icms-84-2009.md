@@ -1,0 +1,42 @@
+---
+titulo: "Protocolo ICMS nº 84, de 24 de julho de 2009"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "84"
+data: 2009-07-24
+ementa: "Altera o Protocolo ICMS 25/06, que dispõe sobre a remessa de milho em grão e farelo de soja por contribuinte estabelecido no Estado do Rio Grande do Sul para industrialização por encomenda no Estado de Santa Catarina, com suspensão do imposto."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.07.09, pelo Despacho 234/09 ."
+data_publicacao: "2009-07-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2009/pt084_09"
+sha256_html_fonte: "f9821bd302854205a39fd57557b9ac1bc0bce9c45f949bfe9a321f860ac7e3f3"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 84, de 24 de julho de 2009
+
+PROTOCOLO ICMS 84, DE 24 DE JULHO DE 2009
+
+· Publicado no DOU de 30.07.09, pelo Despacho 234/09 .
+
+Altera o Protocolo ICMS 25/06, que dispõe sobre a remessa de milho em grão e farelo de soja por contribuinte estabelecido no Estado do Rio Grande do Sul para industrialização por encomenda no Estado de Santa Catarina, com suspensão do imposto.
+
+**Os Estados do Rio Grande do Sul e de Santa Catarina,** neste ato representados pelos seus respectivos Secretários de Estado de Fazenda, reunidos em São Paulo, SP, no dia 24 de julho de 2009, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), e tendo em vista o disposto no parágrafo único da cláusula primeira do Convênio AE 15/74, de 11 de dezembro de 1974, com a redação dada pela cláusula segunda do Convênio ICMS 3 4/90, de 13 de setembro de 1990, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O inciso II da cláusula sétima do Protocolo ICMS 25/06 , de 7 de julho de 2006, passa a vigorar com a seguinte redação:
+
+“II – produzirá efeitos no período compreendido entre 1° de agosto de 2006 e 31 de outubro de 2009, podendo ser prorrogado.”.
+
+**Cláusula segunda** O Anexo Único do Protocolo ICMS 25/06, de 7 de julho de 2006 fica acrescido do item 5, com a seguinte redação:
+
+“5 - FILIAL – Capo–Erê
+
+Endereço completo: Rua Principal, s/n, interior, Distrito de Capo- Erê, Erechim, RS
+
+Inscrição Estadual n° 039/0136816
+
+CNPJ 83.573.212/0063-98”.
+
+**Cláusula terceira** Este Protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de agosto de 2009.

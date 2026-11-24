@@ -154,11 +154,12 @@ def _data(dia, mes, ano):
 # 2009" e "AJUSTE SINIEF 23/17, DE 15 DE DEZEMBRO DE2017" (sem o "de" ou sem o espaço), "CONVÊNIO ICMS 14 , DE 1º DEABRIL
 # DE 2011", "CONVÊNIO ICMS 80/18, DE05DE JULHO DE 2018", "CONVÊNIO ICMS 29, DE 3 DE ABRIL 2009", "CONVÊNIO ICMS 89, DE 12
 # DE SETEMBRO DE DE 2016" e "CONVÊNIO/ICMS Nº 2, DE 24 DE JANEIRO DE 2023". O número e a data inteira continuam tendo de
-# sair da epígrafe, e a data ainda é confrontada com a do preâmbulo.
+# sair da epígrafe, e a data ainda é confrontada com a do preâmbulo. Também "PROTOCOLOICMS 117, DE 26 DE DEZEMBRO DE
+# 2011", "PROTOCOLO ICMS 91, DE 16 DE DEZEMBRODE 2011" e "PROTOCOLO ICMS 100, DE 5 DE AGOSTO DE 2009 ()".
 EPIGRAFE = re.compile(
-    r"^(?P<especie>convenio|protocolo|ajuste sinief)(?:[ /](?P<imposto>icms?|ae))?[ -]?(?:n[º°o.]* ?)?0*(?P<numero>\d{1,4}) ?"
+    r"^(?P<especie>convenio|protocolo|ajuste sinief)(?:[ /]?(?P<imposto>icms?|ae))?[ -]?(?:n[º°o.]* ?)?0*(?P<numero>\d{1,4}) ?"
     r"(?:/ ?(?P<aa>\d{2}|\d{4}))? ?"
-    r"(?:,? ?(?:de ?)?(?P<dia>\d{1,2})[º°o]? ?(?:de ?)?(?P<mes>" + MESES_RE + r") (?:de ?)*(?P<ano>\d ?\d ?\d ?\d))?\b")
+    r"(?:,? ?(?:de ?)?(?P<dia>\d{1,2})[º°o]? ?(?:de ?)?(?P<mes>" + MESES_RE + r") ?(?:de ?)*(?P<ano>\d ?\d ?\d ?\d))?\b")
 
 
 def ler_epigrafe(blocos):
@@ -167,14 +168,15 @@ def ler_epigrafe(blocos):
     O portal às vezes quebra a epígrafe em dois blocos ("PROTOCOLO ICMS" e "21/97") ou põe antes dela a marca
     "REVOGADO": vale o primeiro bloco, ou par de blocos vizinhos, que casa inteiro com a forma da epígrafe.
     """
-    # "C ONVÊNIO AE 10/72" e "CON VÊNIO ICMS 51": o começo da palavra solto; "04 D E AGOSTO": o "de" partido. Da fonte.
-    planos = [re.sub(r"\bd e\b", "de", re.sub(r"^(c|con) (?=[a-z]{4})", r"\1", plano(b).lower())) for b in blocos[:6]]
+    # "C ONVÊNIO AE 10/72" e "CON VÊNIO ICMS 51": o começo da palavra solto; "04 D E AGOSTO": o "de" partido;
+    # "‘PROTOCOLO ICM 48/76": uma aspa solta antes da epígrafe. Da fonte.
+    planos = [re.sub(r"\bd e\b", "de", re.sub(r"^(c|con) (?=[a-z]{4})", r"\1", plano(b).lower().lstrip("‘’'\"“” "))) for b in blocos[:6]]
     for i, bloco in enumerate(planos):
         for candidato in (bloco, bloco + " " + planos[i + 1] if i + 1 < len(planos) else ""):
             m = EPIGRAFE.match(candidato)
             if not m or not (m["aa"] or m["ano"]):
                 continue
-            resto = candidato[m.end():].strip(" .")
+            resto = re.sub(r"\(\s*\)", "", candidato[m.end():]).strip(" .")  # "()": a chamada de nota vazia
             if resto:  # "Convênio ICMS 12/90, que dispõe sobre..." é citação, não epígrafe
                 continue
             ano = int(re.sub(r"\s", "", m["ano"])) if m["ano"] else None
@@ -191,9 +193,19 @@ def ler_epigrafe(blocos):
 
 
 # "Aracaju, SE, 24 de setembro de 2004.", "Brasília, 31 de março de 1970.", "Rio de Janeiro (GB), 23 de novembro de
-# 1972." e "Teresina, PI, 15 de dezembro 2000." (sem o "de" antes do ano, da fonte).
-FECHO = re.compile(r"^[a-z][a-z .'()-]{2,40},(?: ?[a-z]{2} ?,)?(?: em)? ?(\d{1,2})[º°o]? (?:de )?(" + MESES_RE
-                   + r") (?:de )?(\d{4}) ?\.?$")
+# 1972.", "Teresina, PI, 15 de dezembro 2000." (sem o "de" antes do ano, da fonte), "Brasília, (DF) em 14 de julho de
+# 1971.", "Cidade do Salvador, Estado da Bahia, em 4 de junho de 1976.", "Brasília, DF, no dia 26 janeiro de 2006.",
+# "Brasília, DF, de 21 de fevereiro de 1989.", o protocolo assinado em duas capitais ("Goiânia (GO)/Miracema do Norte
+# (TO), 2 de janeiro de 1989.", "Curitiba, Pr/Goiânia, GO, 12 de fevereiro de 1982.", "Cuiabá, Florianópolis, 31 de
+# agosto de 2004."), "Brasília, DF 12 de junho de 1982." (sem a vírgula depois da UF), "Rio de Janeiro aos 5 de julho
+# de 1974.", "Em 30 de abril de 1979." e "Em, 21 de maio de 1982.".
+# O lugar não tem algarismo, e sem a vírgula depois dele o fecho só vale com "aos": a frase de cláusula que termina
+# numa data ("a partir de 1º de janeiro de 1979.") e a nota que cita outro ato não são fecho.
+_LUGAR = r"[a-z(][a-z .'()/-]{1,40}"
+FECHO = re.compile(r"^(?!clausula\b|art\b|artigo\b|paragrafo\b|est[ea]\b)"
+                   r"(?:" + _LUGAR + r"(?:, ?" + _LUGAR + r"){0,2},(?: em| aos| no dia| de)? ?"
+                   r"|" + _LUGAR + r"(?:, ?" + _LUGAR + r"){1,2} em |" + _LUGAR + r", ?\(?[a-z]{2}\)? |" + _LUGAR + r" aos |em,? )"
+                   r"(\d{1,2})[º°o]? (?:de )?(" + MESES_RE + r") (?:de )?(\d{4}) ?\.?$")
 PREAMBULO = re.compile(r"\b(?:no|em|do) dia (\d{1,2})[º°o]? de (" + MESES_RE + r") de (\d{4})\b")
 
 
@@ -277,7 +289,8 @@ def nome_do_tipo(epigrafe, item):
     imposto = epigrafe["imposto"].upper()
     # "CONVÊNIO Nº 59, DE 8 DE MAIO DE 2026", sem o imposto na epígrafe, é o Convênio ICMS 59/26: o endereço é o da
     # série (CV059_26) e, de 1990 em diante, ela só tem convênios ICMS. O corpo guarda a epígrafe como a fonte a traz.
-    if not imposto and item["secao"] == "convenios" and item["ano"] >= 1990:
+    # O mesmo no "PROTOCOLO 39/00" (pt039_00), entre os Protocolos ICMS 38/00 e 40/00.
+    if not imposto and item["secao"] in ("convenios", "protocolos") and item["ano"] >= 1990:
         imposto = "ICMS"
     return (epigrafe["especie"].replace("convenio", "Convênio").replace("protocolo", "Protocolo")
             + (" " + imposto if imposto else ""))
@@ -324,7 +337,7 @@ def montar(item, html):
     # O ato antigo de dispositivo único não tem cláusula ("Os Estados signatários acordam em conceder suspensão de
     # ICM..."): vale quando o preâmbulo traz o verbo de quem celebra e o fecho repete a data do ato.
     limpo = re.sub(r"[*_\\]", "", corpo)
-    unico = data in fechos and re.search(r"(?i)\b(?:resolvem?|acordam|convencionam|celebram)\b", limpo)
+    unico = data in fechos and re.search(r"(?i)\b(?:resolvem?|acordam|convencionam|celebram|decidem)\b", limpo)
     if not re.search(r"(?im)^\W*(?:cl[áa]usula|art(?:igo)?\.?)\s", limpo) and not unico:
         return "retido", {"motivo": "texto sem cláusula nem artigo"}
     tipo = nome_do_tipo(epigrafe, item)
@@ -359,7 +372,7 @@ def caminho_md(item, slug):
 def slugs_possiveis(item):
     """Os nomes de arquivo que o ato pode ter, para pular o que já está no acervo sem ir à rede."""
     base = {"convenios": ["convenio-icm"] if item["icm"] else ["convenio-icms", "convenio-icm", "convenio-ae", "convenio"],
-            "protocolos": ["protocolo-icms", "protocolo-icm", "protocolo"], "ajustes": ["ajuste-sinief"]}[item["secao"]]
+            "protocolos": ["protocolo-icms", "protocolo-icm", "protocolo-ae", "protocolo"], "ajustes": ["ajuste-sinief"]}[item["secao"]]
     return [f"{b}-{item['numero']}-{item['ano']}" for b in base]
 
 

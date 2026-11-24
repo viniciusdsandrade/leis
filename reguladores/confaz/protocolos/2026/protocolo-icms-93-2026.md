@@ -1,0 +1,48 @@
+---
+titulo: "Protocolo ICMS nº 93, de 14 de setembro de 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "93"
+data: 2026-09-14
+ementa: "Exclui o Estado de São Paulo e altera o Protocolo ICMS nº 41, de 4 de abril de 2008, que dispõe sobre a substituição tributária nas operações interestaduais com autopeças."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 15.09.26, pelo Despacho 43/26."
+data_publicacao: "2026-09-15"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2026/pt093_26"
+sha256_html_fonte: "7e8f8d16c043f7758f74823197aad11cab2caa642dc67d728c33efdf18cf6084"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 93, de 14 de setembro de 2026
+
+PROTOCOLO ICMS Nº 93, DE 14 DE SETEMBRO DE 2026
+
+Publicado no DOU de 15.09.26, pelo Despacho 43/26.
+
+Exclui o Estado de São Paulo e altera o Protocolo ICMS nº 41, de 4 de abril de 2008, que dispõe sobre a substituição tributária nas operações interestaduais com autopeças.
+
+**O Estado do Acre, Alagoas, Amapá, Amazonas, Bahia, Maranhão, Mato Grosso, Minas Gerais, Pará, Paraíba, Paraná, Piauí, Rio de Janeiro, Roraima, São Paulo e o Distrito Federal**, neste ato representados por seus respectivos Secretários de Fazenda, Finanças, Economia ou Tributação, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, e no § 2º da cláusula segunda do Convênio ICMS nº 142, de 14 de dezembro de 2018, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** O Estado de São Paulo fica excluído das disposições do Protocolo ICMS nº 41, de 4 de abril de 2008, publicado no Diário Oficial da União de 14 de abril de 2008.
+
+**Cláusula segunda** Os dispositivos a seguir indicados do Protocolo ICMS nº 41/08 passam a vigorar com as seguintes redações:
+
+I – o “caput” da cláusula primeira:
+
+“Cláusula primeira Nas operações interestaduais com bens e mercadorias relacionadas no Anexo II do Convênio ICMS nº 142, de 14 de dezembro de 2018, com exceção aos Códigos Especificadores da Substituição Tributária – CEST - 01.019.00, 01.062.01, 01.112.00, 01.127.00, 01.128.00 e 01.999.00, destinadas aos Estados do Acre, Alagoas, Amazonas, Amapá, Bahia, Maranhão, Mato Grosso, Minas Gerais, Pará, Paraíba, Piauí, Paraná, Rio de Janeiro, Roraima e o Distrito Federal, fica atribuída ao estabelecimento remetente, na qualidade de sujeito passivo por substituição tributária, a responsabilidade pela retenção e recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - relativo às operações subsequentes.”;
+
+II - o § 6º da cláusula segunda:
+
+“§ 6º Nas operações destinadas aos Estados de Alagoas, Bahia, Mato Grosso, Paraná e Piauí a MVA-ST original a ser aplicada é a prevista na legislação interna destes Estados para os produtos mencionados no “caput” da cláusula primeira.”.
+
+**Cláusula terceira** Os dispositivos a seguir indicados da cláusula primeira do Protocolo ICMS nº 41/08 ficam revogados:
+
+I - o inciso III do §2º;
+
+II - o § 2º-A.
+
+**Cláusula quarta** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de outubro de 2026.
+
+Acre – José Amarísio Freitas de Souza, Alagoas – Renata dos Santos, Amapá – Jesus de Nazaré Almeida Vidal, Amazonas – Dario José Braga Paim, Bahia – Manoel Vitório da Silva Filho, Distrito Federal – Valdivino José de Oliveira, Maranhão – Marcellus Ribeiro Alves, Mato Grosso – Fábio Fernandes Pimenta, Minas Gerais – Luciana Mundim de Mattos Paixão, Pará – René de Oliveira e Sousa Júnior, Paraíba – Marialvo Laureano dos Santos Filho, Paraná – Norberto Anacleto Ortigara, Piauí – Emílio Joaquim de Oliveira Junior, Rio de Janeiro – Guilherme Macedo Reis Mercês, Roraima – Francisco Flamarion Portela, São Paulo – Samuel Yoshiaki Oliveira Kinoshita.

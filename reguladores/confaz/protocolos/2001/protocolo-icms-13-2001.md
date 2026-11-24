@@ -1,0 +1,64 @@
+---
+titulo: "Protocolo ICMS nº 13, de 6 de abril de 2001"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "13"
+data: 2001-04-06
+ementa: "Altera dispositivos do Protocolo ICMS 46/00, que dispõe sobre a harmonização da substituição tributária do ICMS nas operações com trigo em grão e farinha de trigo, pelos Estados signatários integrantes das regiões Norte e Nordeste e do Espírito Santo."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.04.01."
+data_publicacao: "2001-04-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2001/pt013_01"
+sha256_html_fonte: "4c060ff9ddf75f513308347b57086511dfeeba8524c84f8f8cc06eaa60851b24"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 13, de 6 de abril de 2001
+
+**PROTOCOLO ICMS 13/01**
+
+**Publicado no DOU de 20.04.01.**
+
+**Republicado no DOU de 30.04.01.**
+
+**Altera dispositivos do Protocolo ICMS 46/00, que dispõe sobre a harmonização da substituição tributária do ICMS nas operações com trigo em grão e farinha de trigo, pelos Estados signatários integrantes das regiões Norte e Nordeste e do Espírito Santo.**
+
+Os Estados signatários do Protocolo ICMS 46/00, neste ato representados pelos respectivos Secretários de Fazenda, Finanças ou Tributação e o Gerente da Receita, reunidos na cidade de Belém, PA, no dia 06 de abril de 2001, fundamentados no disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966) e no art. 9º da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+PROTOCOLO
+
+**Cláusula primeira**
+
+Passam a vigorar com as seguintes redações os dispositivos abaixo indicados do Protocolo ICMS 46/00 :
+
+"Cláusula segunda
+
+....................................
+
+**§ 3º** Nas operações com farinha de trigo ou mistura de farinha de trigo a outros produtos, oriundas do exterior ou de unidade federada não signatária do presente Protocolo, aplicar-se-á, para efeito do cálculo da carga tributária, o percentual de 30% (trinta por cento) sobre o valor da respectiva importação ou aquisição, o qual não poderá ser inferior ou indicado na pauta fiscal, estabelecida com fundamento no Protocolo ICMS 26/92, deduzindo-se, quando houver, o crédito constante do documento fiscal de origem." (NR)
+
+"Cláusula terceira
+
+....................................
+
+**§ 1º** O cálculo do imposto para efeito do partilhamento entre as unidade federadas de origem e destino será feito com base na média ponderada dos valores das importações ou aquisições ocorridas no mês mais recente em relação à respectiva operação interestadual.
+
+**§ 2º** O recolhimento do ICMS em favor do estado destinatário da mercadoria será feito através de Guia Nacional de Recolhimento de Tributos Estaduais - GNRE, até o 10º (décimo) dia do mês subsequente à remessa, no banco oficial do Estado destinatário, ou na sua falta, na agência do banco indicada pelo Estado credor." (NR)
+
+....................................
+
+"Cláusula sexta Nas operações interestaduais, o estabelecimento moageiro remetente de trigo em grão, farinha de trigo ou mistura de farinha de trigo a outros produtos enviará relatório em meio magnético, com base no anexo único deste Protocolo, para as Secretarias de Fazendas, Finanças, Tributação ou Gerencia de Receita das unidades federadas de destino." (NR)
+
+**Cláusula segunda**
+
+Este Protocolo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Belém, PA, 6 de abril de 2001.
+
+<table><tr><td colspan="15">                      <p>     ANEXO ÚNICO DO PROTOCOLO ICMS 46/00, ALTERADO PELO PROTOCOLO ICMS 13/01    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td colspan="15">                      <p>     OPERAÇÕES INTERESTADUAIS COM TRIGO EM GRÃOS, FARINHA DE TRIGO E MISTURAS    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td colspan="12">                      <p>     RELATÓRIO DE REPASSE DE ICMS - SUBSTITUIÇÃO TRIBUTÁRIA    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td colspan="2">                      <p>     PERÍODO:    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td colspan="11">                      <p>     RAZÃO SOCIAL DO ESTABELECIMENTO MOAGEIRO REMETENTE:    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td>                      <p>     ENDEREÇO:    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="3">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">                      <p>     UF:    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td>                      <p>     CNPJ:    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="6">                      <p>     INSCRIÇÃO ESTADUAL:    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="5">                      <p>     INSCRIÇÃO SUBSTITUTO:    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr><tr><td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr></table>
+
+<table><tr><td>                      <p>          </p>    <p>     CNPJ    </p>    <p>    </p>    <p>     REMETENTE    </p>   </td>   <td>                      <p>    </p>            <p>     UF    </p>                      <p>    </p>    <p>     REMETENTE    </p>   </td>   <td>                      <p>    </p>    <p>     CNPJ    </p>    <p>    </p>    <p>     DESTINATÁRIO    </p>   </td>   <td>                      <p>    </p>    <p>     RAZÃO    </p>    <p>    </p>    <p>     SOCIAL    </p>   </td>   <td>                      <p>    </p>    <p>     INSCRIÇÃO    </p>    <p>    </p>    <p>     ESTADUAL    </p>   </td>   <td>                      <p>    </p>    <p>     NOTA FISCAL    </p>    <p>     NÚMERO    </p>   </td>   <td>                      <p>    </p>    <p>     EMISSÃO    </p>    <p>    </p>    <p>     DATA    </p>   </td>   <td>                      <p>    </p>    <p>     DESC. DO    </p>    <p>    </p>    <p>     PRODUTO    </p>   </td>   <td>                      <p>    </p>    <p>     EMBALAGEM    </p>   </td>   <td>                      <p>    </p>    <p>     QUANTIDADE    </p>    <p>    </p>    <p>     EM KG    </p>   </td>   <td>                      <p>    </p>    <p>     VALOR     <br>     TOTAL DO    </p>    <p>     PRODUTO    </p>   </td>   <td>                      <p>    </p>    <p>     VALOR DO ICMS POR    </p>    <p>     KG DO PRODUTO (1)    </p>   </td>   <td>                      <p>    </p>    <p>     TOTAL DO ICMS DO PRODUTO    </p>   </td>   <td>                      <p>    </p>    <p>     PARCELA ICMS ST    </p>    <p>    </p>    <p>     UF DESTINO    </p>   </td>  </tr></table>
+
+<table><tr><td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>  </tr><tr><td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>  </tr><tr><td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>   <td colspan="2">    <p>    </p>   </td>  </tr><tr><td colspan="12">                      <p>     TOTAL (R$)    </p>   </td>   <td>    <p>    </p>   </td>   <td>    <p>    </p>   </td>  </tr></table>
+
+<table><tr><td>            <p>     (1) Este valor será calculado com base na média ponderada do preço das importações ou aquisições ocorridas no mês mais recente em relação às saídas. No caso de farinha de trigo e mistura, deve ser considerada a proporção de trigo para a produção destes produtos.    </p>   </td>  </tr><tr><td>            <p>     Ou seja, deverá ser considerada a proporção de 1.000 Kgs. de trigo para a produção de 750 Kgs. de farinha.    </p>   </td>  </tr></table>

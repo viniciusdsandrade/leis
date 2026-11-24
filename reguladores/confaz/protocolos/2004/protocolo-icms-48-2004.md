@@ -1,0 +1,58 @@
+---
+titulo: "Protocolo ICMS nº 48, de 10 de dezembro de 2004"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "48"
+data: 2004-12-10
+ementa: "Altera dispositivos do Protocolo ICMS 40/02, que dispõe sobre a remessa de soja em grão, do Estado de Mato Grosso para industrialização por encomenda no Estado do Amazonas, com suspensão do imposto, e dá outras providências."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 22.12.04."
+data_publicacao: "2004-12-22"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2004/pt048_04"
+sha256_html_fonte: "37300a4faabeb7480df4aec1befcc7ad05e893db87d45545ea0a76f39cdb2caa"
+baixado_em: 2026-11-23
+---
+# Protocolo ICMS nº 48, de 10 de dezembro de 2004
+
+**PROTOCOLO ICMS 48/04**
+
+**Publicado no DOU de 22.12.04.**
+
+**Alterado pelo Prot. ICMS 34/05**
+
+Altera dispositivos do Protocolo ICMS 40/02, que dispõe sobre a remessa de soja em grão, do Estado de Mato Grosso para industrialização por encomenda no Estado do Amazonas, com suspensão do imposto, e dá outras providências.
+
+Os Estados do Mato Grosso e do Amazonas, neste ato representados pelos seus respectivos Secretários de Estado de Fazenda, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei n° 5.172, de 25 de outubro de 1966), e no artigo 9º da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+Cláusula primeira
+
+Os seguintes dispositivos do Protocolo ICMS 40/02 , de 20 de setembro de 2002, passam a vigorar com a seguinte redação:
+
+I - o "caput" da cláusula primeira e seu § 1o, inciso I:
+
+"Cláusula primeira Acordam os Estados signatários em estabelecer que a suspensão do imposto prevista no Convênio AE 15/74, de 11 de dezembro de 1974, reconfirmado pelo Convênio 34/90, de 13 de setembro de 1990, será aplicada à saída de soja em grão promovida pelos estabelecimentos da AMAGGI EXPORTAÇÃO E IMPORTAÇÃO LTDA, especificados no Anexo Único, para fins de industrialização em estabelecimento da própria empresa, situado no Município de Itacoatiara, no Estado do Amazonas, inscrito no CNPJ sob o n° 77.294.254/0021-48 e Inscrição Estadual nº 06.200.305-4, destinados à produção de óleo bruto de soja, código 1507.10.00 da NBM/SH e farelo de soja, código 2304.00.90 da NBM/SH, os quais doravante, passam a ser denominados, respectivamente, ENCOMENDANTE e INDUSTRIALIZADOR.
+
+§ 1o ...................................................................................................................
+
+I – abrange a remessa de até 1.200.000 (um milhão e duzentas mil) toneladas por ano de soja em grão para industrialização no Estado do Amazonas"
+
+...........................................................................................................................
+
+II – a cláusula décima:
+
+"Cláusula décima Este Protocolo entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 10 de julho de 2002 até 31 de dezembro de 2019".
+
+Cláusula segunda Permanecem inalteradas as demais cláusulas e condições previstas no Protocolo ICMS 40/02.
+
+Cláusula terceira
+
+Ficam convalidados os procedimentos adotados nos termos deste protocolo pelo estabelecimento com inscrição estadual 06.200.305-4 no período de 1o de abril de 2004 até a data de vigência deste protocolo.
+
+Cláusula quarta
+
+Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Foz do Iguaçu, PR, 10 de dezembro de 2004.

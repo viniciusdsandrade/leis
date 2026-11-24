@@ -1,0 +1,44 @@
+---
+titulo: "Protocolo ICMS nº 1, de 26 de janeiro de 2006"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "1"
+data: 2006-01-26
+ementa: "Altera o Protocolo ICMS 50/05 que dispõe sobre substituição tributária nas operações interestaduais com massas alimentícias, biscoitos, bolachas, bolos, pães, e outros derivados da farinha de trigo."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 01.02.06."
+data_publicacao: "2006-02-01"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2006/pt001_06"
+sha256_html_fonte: "1d7e180496a40a00db2438cf6d9cca8f5d5d032bf1bc0af6d7d3f1a94d17822d"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 1, de 26 de janeiro de 2006
+
+**PROTOCOLO ICMS 01/06**
+
+**Publicado no DOU de 01.02.06.**
+
+**Altera o Protocolo ICMS 50/05 que dispõe sobre substituição tributária nas operações interestaduais com massas alimentícias, biscoitos, bolachas, bolos, pães, e outros derivados da farinha de trigo.**
+
+**Os Estados de Alagoas, Amapá, Bahia, Ceará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe,**
+
+neste ato representados pelos respectivos Secretários de Fazenda, Finanças ou Tributação, reunidos na cidade de Brasília, DF, no dia 26 janeiro de 2006, tendo em vista o disposto nos artigos 102 e 199 do Código Tributário Nacional, Lei nº 5.172, de 25 de outubro de 1966, e no art. 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira**
+
+Fica acrescida a cláusula sexta-A, ao Protocolo ICMS 50/05 , de 16 de dezembro de 2005, com a seguinte redação:
+
+"Cláusula sexta-A O disposto neste protocolo aplica-se:
+
+I - a partir de 1º de março de 2006 aos Estados de Alagoas, Bahia, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe;
+
+II - a partir de 1º de julho de 2006 ao Estado do Amapá.".
+
+Cláusula segunda
+
+Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Brasília, DF, no dia 26 janeiro de 2006.

@@ -1,0 +1,74 @@
+---
+titulo: "Protocolo ICMS nº 15, de 31 de maio de 2023"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "15"
+data: 2023-05-31
+ementa: "Estabelece procedimentos para operacionalização do benefício previsto no Convênio ICMS nº 27/23, que autoriza os Estados e o Distrito Federal a conceder crédito presumido ICMS na saída de óleo diesel para embarcação pesqueira, nas condições que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 01.06.2023, pelo Despacho 34/23."
+data_publicacao: "2023-06-01"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2023/pt015_23"
+sha256_html_fonte: "a0c41e7e5c077fa5591ba8cfa1501791d4e497693aadee7ef34a1dc85e843602"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 15, de 31 de maio de 2023
+
+PROTOCOLO ICMS Nº 15, DE 31 DE MAIO DE 2023
+
+Publicado no DOU de 01.06.2023, pelo Despacho 34/23.
+
+Estabelece procedimentos para operacionalização do benefício previsto no Convênio ICMS nº 27/23, que autoriza os Estados e o Distrito Federal a conceder crédito presumido ICMS na saída de óleo diesel para embarcação pesqueira, nas condições que especifica.
+
+**Os Estados e o Distrito Federal**, neste ato representados por seus respectivos Secretários de Fazenda, Economia, Finanças ou Tributação, tendo em vista o disposto no Convênio ICMS nº 27, de 14 de abril de 2023, e considerando a necessidade de regulamentação uniforme da concessão do benefício fiscal constante do convênio em referência, resolvem celebrar o seguinte
+
+P R O T O C O L O
+
+**Cláusula primeira** A concessão do benefício de crédito presumido previsto no Convênio ICMS nº 27, de 14 de abril de 2023, relativo às operações com óleo diesel a ser consumido por embarcações pesqueiras nacionais, será efetivada pelas unidades federadas signatárias, desde que obedecidas as seguintes condições:
+
+I - a empresa fornecedora do óleo diesel deverá:
+
+a) possuir autorização para exercício da atividade outorgada pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis-ANP;
+
+b) estar devidamente credenciada na repartição fazendária da respectiva unidade federada;
+
+II - a embarcação pesqueira deverá possuir Provisão de Registro ou Título de Inscrição da Capitania dos Portos;
+
+III – o beneficiário deverá estar em situação regular perante à administração tributária, assim como todos os estabelecimentos pertencentes ao mesmo titular.
+
+**Parágrafo único.** Nos termos da legislação da unidade federada poderão ser:
+
+I – estabelecidas outras condições, além das previstas nos incisos do “caput”;
+
+II – dispensadas quaisquer das condições previstas nos incisos do “caput”.
+
+**Cláusula segunda** A empresa fornecedora do óleo diesel deverá, conforme condições e periodicidade estabelecidas na legislação da unidade federada, elaborar relatório contendo no mínimo as seguintes informações:
+
+I - identificação do beneficiário e da embarcação;
+
+II - número e data de emissão das notas fiscais de fornecimento do combustível.
+
+**Cláusula terceira** Até o dia 30 de novembro de cada ano, a Comissão Técnica Permanente do ICMS - COTEPE/ICMS - remeterá às unidades federadas o resultado do levantamento da previsão de consumo para o exercício seguinte, relativamente a cada uma delas, efetuado pela Secretaria de Aquicultura e Pesca do Ministério da Agricultura, Pecuária e Abastecimento, contendo, no mínimo, as seguintes indicações:
+
+I - identificação da embarcação, detalhando:
+
+a) nome do beneficiário e número de inscrição no CPF ou CNPJ;
+
+b) nome da embarcação e número de registro na Capitania dos Portos;
+
+c) inscrição no Registro Geral de Atividade Pesqueira;
+
+II – o quantitativo anual do óleo diesel a ser contemplado com o benefício fiscal.
+
+**§ 1º** Alternativamente ao disposto no “caput”, ficam as unidades federadas autorizadas a utilizar informações constantes de Portaria do Secretário de Aquicultura e Pesca do Ministério da Agricultura, Pecuária e Abastecimento, que estabeleça a cota anual de óleo diesel atribuída a cada embarcação pesqueira habilitada no programa de subvenção econômica ao preço do óleo diesel.
+
+**§ 2º** Para o exercício de 2023, a exigência prevista nesta cláusula fica suprida pelas informações constantes nos normativos publicados com base na cláusula terceira do Protocolo ICMS nº 8, de 23 de julho de 1996.
+
+**Cláusula quarta** A eficácia do benefício fiscal previsto no Convênio ICMS nº 27/23 fica condicionada ao recebimento pelas unidades federadas das informações requeridas na cláusula terceira, nos termos da legislação estadual.
+
+**Cláusula quinta** O benefício previsto na cláusula primeira será operacionalizado mediante ressarcimento, pela refinaria de petróleo ou suas bases, ao fornecedor do óleo diesel, do valor correspondente ao crédito presumido, nos termos da legislação de cada unidade federada.
+
+**Cláusula sexta** Este protocolo entra em vigor na data da sua publicação no Diário Oficial da União, retroagindo seus efeitos a 1º de maio de 2023.
+
+Acre – José Amarísio Freitas de Souza, Alagoas – Renata dos Santos, Amapá – Jesus de Nazaré Almeida Vidal, Amazonas – Alex Del Giglio, Bahia - Manoel Vitório da Silva Filho, Ceará – Fabrízio Gomes Santos, Distrito Federal – José Itamar Feitosa, Espírito Santo – Marcelo Martins Altoé, Goiás – Selene Peres Peres Nunes, Maranhão – Marcellus Ribeiro Alves, Mato Grosso – Rogério Luis Gallo, Mato Grosso do Sul – Flávio César Mendes de Oliveira, Minas Gerais – Gustavo de Oliveira Barbosa, Pará – René de Oliveira e Sousa Júnior, Paraíba – Marialvo Laureano dos Santos Filho, Paraná – Renê de Oliveira Garcia Junior, Pernambuco – Wilson José de Paula, Piauí – Emilio Joaquim de Oliveira Junior, Rio de Janeiro – Leonardo Lobo Pires, Rio Grande do Norte – Carlos Eduardo Xavier , Rio Grande do Sul – Pricilla Maria Santana, Rondônia – Luis Fernando Pereira da Silva, Roraima – Manoel Sueide Freitas, Santa Catarina – Cleverson Siewert, São Paulo – Samuel Yoshiaki Oliveira Kinoshita, Sergipe – Sarah Tarsila Araujo Andreozzi, Tocantins – Júlio Edstron Secundino Santos.

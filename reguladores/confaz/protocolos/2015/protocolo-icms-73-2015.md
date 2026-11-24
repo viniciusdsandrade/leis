@@ -1,0 +1,44 @@
+---
+titulo: "Protocolo ICMS nº 73, de 7 de outubro de 2015"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Protocolo ICMS"
+numero: "73"
+data: 2015-10-07
+ementa: "Altera o Protocolo ICMS 15/06, que dispõe sobre a substituição tributária nas operações com aguardente."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU em 08.10.15, pelo Despacho 194/15."
+data_publicacao: "2015-10-08"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/protocolos/2015/PT073_15"
+sha256_html_fonte: "265ffd61dec39283ffe0b99c0e205fb6c676bcc3f5259b48ac9f1bc9cd1d74f3"
+baixado_em: 2026-11-24
+---
+# Protocolo ICMS nº 73, de 7 de outubro de 2015
+
+**PROTOCOLO ICMS 73, DE 7 DE OUTUBRO DE 2015**
+
+Publicado no DOU em 08.10.15, pelo Despacho 194/15.
+
+Altera o Protocolo ICMS 15/06, que dispõe sobre a substituição tributária nas operações com aguardente.
+
+**Os Estados de Alagoas, Amapá, Bahia, Ceará, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio Grande do Norte, Sergipe e Tocantins e o Distrito Federal ,** neste ato representados pelos seus respectivos Secretários de Estado da Fazenda, de Receita e Controle e Gerente de Receita, considerando o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), e no art. 9º da Lei Complementar nº 87/96, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+**P r o t o c o l o**
+
+**Cláusula primeira** Os §§ 1º e 2º da cláusula quarta do Protocolo ICMS 15/06, de 07 de julho de 2006, passam a vigorar com as seguintes redações:
+
+“§ 1º Inexistindo os valores de que trata o caput, a base de cálculo corresponderá ao montante formado pelo preço praticado pelo remetente, acrescido dos valores correspondentes a frete, seguro, impostos e outros encargos transferíveis ou cobrados do destinatário, adicionado da parcela resultante da aplicação, sobre o referido montante, do percentual de margem de valor agregado ajustada (“MVA ajustada”), calculada segundo a fórmula “MVA ajustada = [(1+ MVA-ST original) x (1 - ALQ inter) / (1- ALQ intra)] -1”, onde:
+
+I - “MVA-ST original” é a margem de valor agregado prevista no § 2º;
+
+II - “ALQ inter” é o coeficiente correspondente à alíquota interestadual aplicável à operação;
+
+III - “ALQ intra” é o coeficiente correspondente à alíquota interna ou percentual de carga tributária efetiva, quando este for inferior à alíquota interna, praticada pelo contribuinte substituto da unidade federada de destino, nas operações com as mesmas mercadorias.
+
+**§ 2º** A MVA-ST original é de 29,04%;
+
+**Cláusula segunda** Fica acrescentado o § 3º à cláusula quarta do Protocolo ICMS 15/06 com a seguinte redação:
+
+“§ 3º Na hipótese de a "ALQ intra" ser inferior à "ALQ inter", deverá ser aplicada a "MVA - ST original", sem o ajuste previsto no § 1º.”.
+
+**Cláusula terceira** Este protocolo entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.
