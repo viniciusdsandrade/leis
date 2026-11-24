@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 85, de 10 de dezembro de 1999"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "85"
+data: 1999-12-10
+ementa: "Prorroga a eficácia do Convênio ICMS 72/99, de 22.10.99, que altera o Convênio ICMS 03/99, de 16.04.99, que dispõe sobre o regime de substituição tributária nas operações com combustíveis e lubrificantes, derivados ou não de petróleo."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.99."
+data_publicacao: "1999-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV085_99"
+sha256_html_fonte: "1678c1416de65e4805d439bfe28e7861d34107387432db4836f0cee73e6a02f6"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 85, de 10 de dezembro de 1999
+
+**CONVÊNIO ICMS 85/99**
+
+**Publicado no DOU de 20.12.99.**
+
+**O termo "prorroga", na ementa deste convênio, foi usado incorretamente e deve ser entendido como "posterga", pois alterou a entrada em vigor do Conv. ICMS**
+
+**72/99 que tem prazo indeterminado.**
+
+**Prorroga a eficácia do Convênio ICMS 72/99, de 22.10.99, que altera o Convênio ICMS 03/99, de 16.04.99, que dispõe sobre o regime de substituição tributária nas operações com combustíveis e lubrificantes, derivados ou não de petróleo.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação e o Gerente de Receita dos Estados e do Distrito Federal, na 96ª reunião ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 10 de dezembro de 1999, tendo em vista o disposto nos arts. 102 e 199 do Código Tributário Nacional (Lei 5.172, de 25 de outubro de 1966) e os arts. 6º ao 10 da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Passa a vigorar com a seguinte redação a cláusula segunda do Convênio ICMS 72/99 , de 22 de outubro de 1999:
+
+"Cláusula segunda Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir de 1º de abril de 2000."
+
+**Cláusula segunda**
+
+Ficam convalidados os procedimentos adotados até a data da entrada em vigor deste convênio, relacionados com as disposições do Convênio ICMS 03/99 , de 16 de abril de 1999, decorrente de alteração introduzida pelo Convênio ICMS 72/99 , de 22 de outubro de 1999.
+
+Cláusula terceira
+
+Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
+
+Brasília, DF, 10 de dezembro de 1999.

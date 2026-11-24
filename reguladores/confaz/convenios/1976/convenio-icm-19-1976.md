@@ -1,0 +1,47 @@
+---
+titulo: "Convênio ICM nº 19, de 15 de junho de 1976"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "19"
+data: 1976-06-15
+ementa: "Dispõe sobre aplicação do Convênio ICM 12/76, ao incentivo previsto nos Convênios AE-5/73 e ICM 09/75."
+revogada: true
+situacao_fonte: "Revogado a partir de 22.01.79 pelo Conv. ICM 01/79."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.06.76."
+data_publicacao: "1976-06-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1976/CV019_76"
+sha256_html_fonte: "10901e471a0e97cebd3c3cf51d5b770c7b37ef0ce13eb96ea0987ff068e21dfc"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 19, de 15 de junho de 1976
+
+**CONVÊNIO ICM 19/76**
+
+**Publicado no DOU de 30.06.76.**
+
+**Ratificação Nacional DOU de 23.07.76 pelo Ato do Presidente AP**
+
+**14/76** .
+
+**Revogado a partir de 22.01.79 pelo Conv. ICM**
+
+**01/79** .
+
+**Dispõe sobre aplicação do Convênio ICM 12/76, ao incentivo previsto nos Convênios AE-5/73 e ICM 09/75.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 4ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 15 de junho de 1976, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Aplica-se ao incentivo previsto na **cláusula primeira** do Convênio AE-5/73 , de 26 de novembro de 1973, e na **cláusula segunda** do Convênio ICM 09/75 , de 15 de abril de 1975, o disposto no Convênio ICM 12/76 , de 27 de abril de 1976.
+
+Cláusula segunda
+
+Este Convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 15 de junho de 1976.
+
+Signatários: Ministério da Fazenda, AC, AL, AM, BA, CE, DF, ES, GO, MA, MG, MT, PA, PB, PE, PI, PR, RJ, RN, RS, SC, SE e SP.

@@ -1,0 +1,32 @@
+---
+titulo: "Convênio ICMS nº 115, de 11 de outubro de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "115"
+data: 2013-10-11
+ementa: "Altera o Convênio ICMS 96/09, que dispõe sobre fabricação, distribuição e aquisição de papéis com dispositivos de segurança para a impressão de documentos fiscais."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18.10.13, pelo Despacho 213/13 ."
+data_publicacao: "2013-10-18"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV115_13"
+sha256_html_fonte: "c698503ebd25e6fc1ec2bf17699fb3dba59d995592c2f0997761463abe274c37"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 115, de 11 de outubro de 2013
+
+CONVÊNIO ICMS 115, DE 11 DE OUTUBRO DE 2013
+
+Publicado no DOU de 18.10.13, pelo Despacho 213/13 .
+
+Altera o Convênio ICMS 96/09, que dispõe sobre fabricação, distribuição e aquisição de papéis com dispositivos de segurança para a impressão de documentos fiscais.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 151ª reunião ordinária, realizada em Fortaleza, CE, no dia 11 de outubro de 2013, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte:
+
+CONVÊNIO
+
+**Cláusula primeira** Fica acrescentado o inciso VIII à cláusula quinta do Convênio ICMS 96/09 , de 11 de dezembro de 2009, com a seguinte redação:
+
+“VIII - laudo atestando a conformidade com a Norma ABNT NBR 15540, de 10 de dezembro de 2007, emitido por instituição pública que possua, a critério da Comissão Técnica Permanente do ICMS (COTEPE/ICMS), notória especialização, decorrente de seu desempenho institucional, científico ou tecnológico anterior e detenha inquestionável reputação ético-profissional.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.

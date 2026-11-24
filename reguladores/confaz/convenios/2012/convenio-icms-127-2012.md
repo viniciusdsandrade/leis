@@ -1,0 +1,56 @@
+---
+titulo: "Convênio ICMS nº 127, de 17 de dezembro de 2012"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "127"
+data: 2012-12-17
+ementa: "Autoriza o Estado de Pernambuco e o Distrito Federal a conceder isenção do ICMS nas operações internas de remessa de suínos para abate."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 20.12.12, pelo Despacho 276/12."
+data_publicacao: "2012-12-20"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV127_12"
+sha256_html_fonte: "9408ab2c45590962f9e623b75e13d1109d4604fdba2e2abaac4a2292c99f54e0"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 127, de 17 de dezembro de 2012
+
+CONVÊNIO ICMS 127, DE 17 DE DEZEMBRO DE 2012
+
+Publicado no DOU de 20.12.12, pelo Despacho 276/12.
+
+Ratificação no DOU de 08.01.13, pelo Ato Declaratório 01/13.
+
+Prorrogado, até 31.12.15, pelo Conv. ICMS 116/13.
+
+Prorrogado, até 30.04.17, pelo Conv. ICMS 107/15.
+
+Prorrogado, até 30.09.19, pelo Conv. ICMS 49/17.
+
+Vide cláusula terceira do Conv. ICMS 49/17, quanto a observância das disposições do Conv. ICMS 42/16, no que couber.
+
+Prorrogado, até 31.10.20, pelo Conv. ICMS 133/19.
+
+Prorrogado, até 31.12.20, pelo Conv. ICMS 101/20.
+
+Prorrogado, até 31.03.21, pelo Conv. ICMS 133/20.
+
+Prorrogado, até 31.12.21, pelo Conv. ICMS 29/21.
+
+Prorrogado, até 30.04.24, pelo Conv. ICMS 178/21.
+
+Prorrogado, até 30.04.26, pelo Conv. ICMS 226/23.
+
+Prorrogado, até 31.12.26, pelo Conv. ICMS 21/26.
+
+Autoriza o Estado de Pernambuco e o Distrito Federal a conceder isenção do ICMS nas operações internas de remessa de suínos para abate.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 148ª reunião ordinária, realizada em São Luis, MA, no dia 17 de dezembro de 2012, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte,
+
+CONVÊNIO
+
+**Cláusula primeira** Ficam o Estado de Pernambuco e o Distrito Federal autorizados a conceder isenção do ICMS nas operações internas de remessas de suínos para abate.
+
+**Parágrafo único.** O Estado de Pernambuco e o Distrito Federal poderão estabelecer condições e restrições à fruição do beneficio previsto no *caput*.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2013.

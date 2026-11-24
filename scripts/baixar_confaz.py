@@ -22,7 +22,8 @@ O texto é o que o portal publica: o ato com as notas de alteração, prorrogaç
 - a data do ato sai da epígrafe ou, nos antigos, do fecho ("Aracaju, SE, 24 de setembro de 2004.") ou do preâmbulo
   ("realizada em Brasília, DF, no dia 15 de julho de 1975"), no ano do endereço; a data do preâmbulo, quando existe,
   tem de ser a mesma, e a da publicação no DOU não pode ser anterior;
-- o corpo tem cláusula ou artigo e não traz imagem (a tabela ou o modelo em imagem não vira texto).
+- o corpo tem cláusula ou artigo (ou, no ato antigo de dispositivo único, o verbo de quem celebra e o fecho com a
+  data do ato) e não traz imagem (a tabela ou o modelo em imagem não vira texto).
 
 O que não passa fica em reguladores/confaz/_falhas.jsonl, com o motivo.
 
@@ -145,15 +146,19 @@ def _data(dia, mes, ano):
         return ""
 
 
-# "CONVÊNIO ICM 13/75", "CONVÊNIO ICMS 106/04", "PROTOCOLO 02/68", "AJUSTE SINIEF 07/71", "PROTOCOLO ICMS 146, DE 28 DE
+# "CONVÊNIO AE 01/70" e "CONVÊNIO AE-1/73" (a série de 1970 a 1974, antes do CONFAZ), "CONVÊNIO ICM 13/75", "CONVÊNIO ICMS 106/04",
+# "PROTOCOLO 02/68", "AJUSTE SINIEF 07/71", "PROTOCOLO ICMS 146, DE 28 DE
 # SETEMBRO DE 2012", "CONVÊNIO ICMS Nº 122, DE 23 DE OUTUBRO DE 2026", "AJUSTE SINIEF 23/19, DE 10 DE OUTUBRO DE 2019",
 # "AJUSTE SINIEF Nº 48, 09 DE DEZEMBRO DE 2021" (sem o "DE"), "CONVÊNIO ICMS 07, DE27 DE MARÇO DE 1997" e
 # "PROTOCOLO ICMS 99, DE 30 DE SETEMBRO DE 200 8" (espaço no meio do ano, da fonte), "AJUSTE SINIEF 3, DE 3 ABRIL DE
-# 2009" e "AJUSTE SINIEF 23/17, DE 15 DE DEZEMBRO DE2017" (sem o "de" ou sem o espaço).
+# 2009" e "AJUSTE SINIEF 23/17, DE 15 DE DEZEMBRO DE2017" (sem o "de" ou sem o espaço), "CONVÊNIO ICMS 14 , DE 1º DEABRIL
+# DE 2011", "CONVÊNIO ICMS 80/18, DE05DE JULHO DE 2018", "CONVÊNIO ICMS 29, DE 3 DE ABRIL 2009", "CONVÊNIO ICMS 89, DE 12
+# DE SETEMBRO DE DE 2016" e "CONVÊNIO/ICMS Nº 2, DE 24 DE JANEIRO DE 2023". O número e a data inteira continuam tendo de
+# sair da epígrafe, e a data ainda é confrontada com a do preâmbulo.
 EPIGRAFE = re.compile(
-    r"^(?P<especie>convenio|protocolo|ajuste sinief)(?: (?P<imposto>icms?))? ?(?:n[º°o.]* ?)?0*(?P<numero>\d{1,4}) ?"
+    r"^(?P<especie>convenio|protocolo|ajuste sinief)(?:[ /](?P<imposto>icms?|ae))?[ -]?(?:n[º°o.]* ?)?0*(?P<numero>\d{1,4}) ?"
     r"(?:/ ?(?P<aa>\d{2}|\d{4}))? ?"
-    r"(?:,? ?(?:de ?)?(?P<dia>\d{1,2})[º°o]? (?:de )?(?P<mes>" + MESES_RE + r") de ?(?P<ano>\d ?\d ?\d ?\d))?\b")
+    r"(?:,? ?(?:de ?)?(?P<dia>\d{1,2})[º°o]? ?(?:de ?)?(?P<mes>" + MESES_RE + r") (?:de ?)*(?P<ano>\d ?\d ?\d ?\d))?\b")
 
 
 def ler_epigrafe(blocos):
@@ -162,7 +167,8 @@ def ler_epigrafe(blocos):
     O portal às vezes quebra a epígrafe em dois blocos ("PROTOCOLO ICMS" e "21/97") ou põe antes dela a marca
     "REVOGADO": vale o primeiro bloco, ou par de blocos vizinhos, que casa inteiro com a forma da epígrafe.
     """
-    planos = [plano(b).lower() for b in blocos[:6]]
+    # "C ONVÊNIO AE 10/72" e "CON VÊNIO ICMS 51": o começo da palavra solto; "04 D E AGOSTO": o "de" partido. Da fonte.
+    planos = [re.sub(r"\bd e\b", "de", re.sub(r"^(c|con) (?=[a-z]{4})", r"\1", plano(b).lower())) for b in blocos[:6]]
     for i, bloco in enumerate(planos):
         for candidato in (bloco, bloco + " " + planos[i + 1] if i + 1 < len(planos) else ""):
             m = EPIGRAFE.match(candidato)
@@ -269,6 +275,10 @@ def nome_do_tipo(epigrafe, item):
     if epigrafe["especie"] == "ajuste sinief":
         return "Ajuste SINIEF"
     imposto = epigrafe["imposto"].upper()
+    # "CONVÊNIO Nº 59, DE 8 DE MAIO DE 2026", sem o imposto na epígrafe, é o Convênio ICMS 59/26: o endereço é o da
+    # série (CV059_26) e, de 1990 em diante, ela só tem convênios ICMS. O corpo guarda a epígrafe como a fonte a traz.
+    if not imposto and item["secao"] == "convenios" and item["ano"] >= 1990:
+        imposto = "ICMS"
     return (epigrafe["especie"].replace("convenio", "Convênio").replace("protocolo", "Protocolo")
             + (" " + imposto if imposto else ""))
 
@@ -311,14 +321,20 @@ def montar(item, html):
         return "retido", {"motivo": "publicação no DOU anterior à data do ato", "data": data, "publicacao": publicacao}
     if data_publicacao and (dt.date.fromisoformat(data_publicacao) - dt.date.fromisoformat(data)).days > 180:
         data_publicacao = ""  # "Publicado no DOU 17.12.04" num ajuste de 12.12.03: fica só o texto da nota
-    if not re.search(r"(?im)^\W*(?:cl[áa]usula|art(?:igo)?\.?)\s", re.sub(r"[*_\\]", "", corpo)):
+    # O ato antigo de dispositivo único não tem cláusula ("Os Estados signatários acordam em conceder suspensão de
+    # ICM..."): vale quando o preâmbulo traz o verbo de quem celebra e o fecho repete a data do ato.
+    limpo = re.sub(r"[*_\\]", "", corpo)
+    unico = data in fechos and re.search(r"(?i)\b(?:resolvem?|acordam|convencionam|celebram)\b", limpo)
+    if not re.search(r"(?im)^\W*(?:cl[áa]usula|art(?:igo)?\.?)\s", limpo) and not unico:
         return "retido", {"motivo": "texto sem cláusula nem artigo"}
     tipo = nome_do_tipo(epigrafe, item)
     a, m, d = (int(p) for p in data.split("-"))
     titulo = f"{tipo} nº {item['numero']}, de {'1º' if d == 1 else d} de {NOMES_MES[m - 1]} de {a}"
     ementa, situacao = ler_cabecalho(blocos, epigrafe["bloco"])
     marca = any(plano(b).upper() in ("REVOGADO", "REVOGADA") for b in blocos[:epigrafe["bloco"]])
-    revogada = True if marca or any(re.match(r"(?i)^[·•\s]*revogad[oa](?:[\s,.]|$)(?! *(?:a|o|as|os) )", s)
+    # "Revogado pelo Conv. ICMS 60/90" e "Revogado a partir de 02.01.78 pelo Conv. ICM 01/78" são do ato inteiro;
+    # "Revogada a cláusula segunda pelo..." é parcial
+    revogada = True if marca or any(re.match(r"(?i)^revogad[oa](?:[\s,.]|$)(?! *(?:a|o|as|os) (?!partir\b))", s)
                                     for s in situacao) else None
     meta = [("titulo", titulo), ("orgao", ORGAO), ("tipo", tipo), ("numero", str(item["numero"])), ("data", data)]
     if ementa:
@@ -342,9 +358,15 @@ def caminho_md(item, slug):
 
 def slugs_possiveis(item):
     """Os nomes de arquivo que o ato pode ter, para pular o que já está no acervo sem ir à rede."""
-    base = {"convenios": ["convenio-icm"] if item["icm"] else ["convenio-icms", "convenio-icm", "convenio"],
+    base = {"convenios": ["convenio-icm"] if item["icm"] else ["convenio-icms", "convenio-icm", "convenio-ae", "convenio"],
             "protocolos": ["protocolo-icms", "protocolo-icm", "protocolo"], "ajustes": ["ajuste-sinief"]}[item["secao"]]
     return [f"{b}-{item['numero']}-{item['ano']}" for b in base]
+
+
+def ja_no_acervo_pelo_diario(item):
+    """O ato já está no acervo pela publicação original no Diário Oficial, no arquivo com o nome que o DOU lhe dá
+    ("convenio-icms-n-84-de-31-de-maio-de-2021-323170484.md"): o texto do portal não entra como um segundo arquivo."""
+    return any((PASTA / item["secao"] / str(item["ano"])).glob(f"*-n-{item['numero']}-de-*.md"))
 
 
 def obter(rede, url):
@@ -364,6 +386,8 @@ def processar(rede, item):
             cabecalho = md.read_text(encoding="utf-8").split("\n---\n", 1)[0].lower()
             if item["url"].lower().rstrip("/") in cabecalho or item["secao"] != "convenios" or item["ano"] != 1989:
                 return "pulado", None
+    if ja_no_acervo_pelo_diario(item):
+        return "pulado", None
     cache = FONTE / item["secao"] / str(item["ano"]) / (item["url"].rsplit("/", 1)[1].lower() + ".html.gz")
     if cache.exists():
         html = gzip.open(cache).read().decode("utf-8", "replace")

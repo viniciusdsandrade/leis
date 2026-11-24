@@ -1,0 +1,57 @@
+---
+titulo: "Convênio ICM nº 17, de 15 de junho de 1978"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "17"
+data: 1978-06-15
+ementa: "Autoriza a isenção do ICM nas exportações de pintos e perus de um dia, reprodutores, e ovos férteis para reprodução."
+revogada: true
+situacao_fonte: "Revogado a partir de 05.10.90 pelo Conv. ICMS 60/90."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 22.06.78."
+data_publicacao: "1978-06-22"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1978/CV017_78"
+sha256_html_fonte: "ebac85e86a7f69046a64d008e12c907f35bfbff69ed71a259505abebf65fe774"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 17, de 15 de junho de 1978
+
+**CONVÊNIO ICM 17/78**
+
+**Publicado no DOU de 22.06.78.**
+
+**Ratificação Nacional DOU de 12.07.78 pelo Ato COTEPE-ICM**
+
+**04/78** .
+
+**Ver Conv. ICMS**
+
+**67/90** .
+
+**Revogado a partir de 05.10.90 pelo Conv. ICMS**
+
+**60/90** .
+
+**Autoriza a isenção do ICM nas exportações de pintos e perus de um dia, reprodutores, e ovos férteis para reprodução.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 12ª Reunião Ordinária do CONSELHO DE POLÍTICA FAZENDÁRIA, realizada em Brasília, DF, no dia 15 de junho de 1978, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam os Estados e o Distrito Federal autorizados a isentar do Imposto sobre Circulação de Mercadorias as exportações, para o exterior, dos seguintes produtos, desde que destinados à reprodução:
+
+I - ovos férteis de galinha ou de perua;
+
+II - pintos de um dia;
+
+III - perus de um dia.
+
+Cláusula segunda
+
+Este Convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 15 de junho de 1978.
+
+Signatários: Ministério da Fazenda, AC, AL, AM, BA, CE, DF, ES, GO, MA, MG, MT, PA, PB, PE, PI, PR, RJ, RN, RS, SC, SE e SP.

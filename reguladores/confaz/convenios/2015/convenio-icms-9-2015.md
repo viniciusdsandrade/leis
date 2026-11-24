@@ -1,0 +1,40 @@
+---
+titulo: "Convênio ICMS nº 9, de 18 de março de 2015"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "9"
+data: 2015-03-18
+ementa: "Dispõe sobre a adesão do Estado de Pernambuco ao Convênio ICMS 67/13, que autoriza a prorrogação da validade dos Laudos de Análise Funcional de PAF-ECF para efeito de revalidação de cadastramento de programas PAF-ECF."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 19.03.15, pelo Despacho 50/15."
+data_publicacao: "2015-03-19"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV009_15"
+sha256_html_fonte: "9a2b2b48b7c8b2a7f32720e8bb1b72231486d021f68511d4813b27d7cd9813f3"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 9, de 18 de março de 2015
+
+CONVÊNIO ICMS 9, DE 18 DE MARÇO DE 2015
+
+Publicado no DOU de 19.03.15, pelo Despacho 50/15.
+
+Retificação no DOU de 24.03.15.
+
+Dispõe sobre a adesão do Estado de Pernambuco ao Convênio ICMS 67/13, que autoriza a prorrogação da validade dos Laudos de Análise Funcional de PAF-ECF para efeito de revalidação de cadastramento de programas PAF-ECF.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 236ª reunião extraordinária, realizada em Brasília, DF, no dia 18 de março de 2015, tendo em vista o disposto nos artigos 102 e 199 do Código Tributário Nacional (Lei nº 5172/66, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** A cláusula primeira do Convênio ICMS 67/13, de 26 de julho de 2013, passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Ficam os Estados do Amapá, Bahia, Pernambuco e Piauí autorizados a prorrogar a validade dos Laudos de Análise Funcional de PAF-ECF emitidos com base no Convênio ICMS 15/08, de 4 de abril de 2008, e cadastrados nas respectivas Secretarias de Fazenda para o período 2 (dois) anos, contados a partir das datas de suas respectivas emissões.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data de sua publicação, retroagindo seus efeitos a 30 de julho de 2013.
+
+RETIFICAÇÃO
+
+**Publicada no DOU de 24.03.15.**
+
+Na cláusula primeira do Convênio ICMS nº 9/15, de 18 de março de 2015, publicado no DOU de 19 de março de 2015, Seção 1, página 22, **onde se lê:** “Cláusula primeira O *caput* da cláusula primeira...”, **leia-se:** “Cláusula primeira A cláusula primeira...”.

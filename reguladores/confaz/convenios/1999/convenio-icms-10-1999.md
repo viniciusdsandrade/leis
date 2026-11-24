@@ -1,0 +1,38 @@
+---
+titulo: "Convênio ICMS nº 10, de 16 de abril de 1999"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "10"
+data: 1999-04-16
+ementa: "Altera o \"caput\" da cláusula segunda do Convênio ICMS 133/98, de 11.12.98, que autoriza os Estados e o Distrito Federal a conceder autorização de uso fiscal para equipamento Emissor de Cupom Fiscal - ECF que não atende a dispositivos dos Convênios ICMS 132/97, de 12.12.97, 02/98, de 19.02.98 e 65/98, de 19.06.98."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 26.04.99."
+data_publicacao: "1999-04-26"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV010_99"
+sha256_html_fonte: "a9d655b58f6f0cb152daa1933aae5659d562c81db6aba526c9e535b4c9dfe27f"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 10, de 16 de abril de 1999
+
+**CONVÊNIO ICMS 10/99**
+
+**Publicado no DOU de 26.04.99.**
+
+**Altera o "caput" da cláusula segunda do Convênio ICMS 133/98, de 11.12.98, que autoriza os Estados e o Distrito Federal a conceder autorização de uso fiscal para equipamento Emissor de Cupom Fiscal - ECF que não atende a dispositivos dos Convênios ICMS 132/97, de 12.12.97, 02/98, de 19.02.98 e 65/98, de 19.06.98.**
+
+O Ministro de Estado da Fazenda, os Secretários de Fazenda, Finanças ou Tributação e o Gerente de Receita dos Estados e do Distrito Federal, na 93ª reunião ordinária do Conselho Nacional de Política Fazendária, realizada em Fortaleza, CE, no dia 16 de abril de 1999, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Passa a vigorar com a redação a seguir o "caput" da cláusula segunda do Convênio ICMS 133/98 , de 11 de dezembro de 1998:
+
+"Cláusula segunda Os equipamentos a serem autorizados serão tão somente aqueles informados como tendo sido produzidos e não comercializados até 31 de dezembro de 1998, facultado ao fisco da unidade federada, incluir os equipamentos já autorizados para uso fiscal que forem objeto de novo pedido de uso."
+
+**Cláusula segunda**
+
+Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Fortaleza, CE, 16 de abril de 1999.

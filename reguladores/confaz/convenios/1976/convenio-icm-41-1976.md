@@ -1,0 +1,47 @@
+---
+titulo: "Convênio ICM nº 41, de 22 de setembro de 1976"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "41"
+data: 1976-09-22
+ementa: "Autoriza o Estado do Rio de Janeiro a conceder anistia ou remissão dos juros de mora e multas devidos pelas Cooperativas e Usinas produtoras de álcool e açúcar destinados à exportação."
+revogada: null
+situacao_fonte: "Sem eficácia em virtude de legislação posterior."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.09.76."
+data_publicacao: "1976-09-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1976/CV041_76"
+sha256_html_fonte: "0489ba8442b2550c34ca6d6d2ce4d2ab2fc5bc4b9f5ad166ddd4398c40980f78"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 41, de 22 de setembro de 1976
+
+**CONVÊNIO ICM 41/76**
+
+**Publicado no DOU de 30.09.76.**
+
+**Ratificação Nacional DOU de 26.10.76 pelo Ato do Presidente AP**
+
+**17/76** .
+
+**Sem eficácia em virtude de legislação posterior.**
+
+**Autoriza o Estado do Rio de Janeiro a conceder anistia ou remissão dos juros de mora e multas devidos pelas Cooperativas e Usinas produtoras de álcool e açúcar destinados à exportação.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 5ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 22 de setembro de 1976, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado do Rio de Janeiro autorizado a conceder anistia ou remissão dos acréscimos moratórios e multas, devidos pelo não pagamento do Imposto sobre Circulação de Mercadorias, nas saídas de cana-de-açúcar e de seus subprodutos, empregados na fabricação de açúcar e álcool, exportados para o exterior.
+
+**Parágrafo único.** O disposto nesta cláusula aplica-se somente às saídas de cana-de-açúcar e de seus subprodutos, cujas respectivas entradas nos estabelecimentos das Cooperativas de Produtores e Usinas, responsáveis pelo recolhimento do imposto, tenham ocorrido até 31 de dezembro de 1975.
+
+Cláusula segunda
+
+Este Convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 22 de setembro de 1976.
+
+Signatários: Ministério da Fazenda, AC, AL, AM, BA, CE, DF, ES, GO, MA, MG, MT, PA, PB, PE, PI, PR, RJ, RN, RS, SC, SE e SP.

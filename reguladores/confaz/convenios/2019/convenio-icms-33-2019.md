@@ -1,0 +1,36 @@
+---
+titulo: "Convênio ICMS nº 33, de 5 de abril de 2019"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "33"
+data: 2019-04-05
+ementa: "Dispõe sobre a adesão dos Estados do Maranhão, Mato Grosso, Paraná e Rio de Janeiro e altera o Convênio ICMS 96/18, que autoriza os Estados que menciona a conceder isenção do ICMS nas operações com medicamento destinado a tratamento da Atrofia Muscular Espinal - AME."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.04.19, pelo Despacho 17/19."
+data_publicacao: "2019-04-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV033_19"
+sha256_html_fonte: "a5dc40944190518c1d231f4afbbcb0ca7e7efb66ac9ad23b13f5038a636d6ba0"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 33, de 5 de abril de 2019
+
+CONVÊNIO ICMS 33/19, DE 5 DE ABRIL DE 2019
+
+Publicado no DOU de 09.04.19, pelo Despacho 17/19.
+
+Ratificação Nacional no DOU de 24.04.19, pelo Ato Declaratório 5/19.
+
+Dispõe sobre a adesão dos Estados do Maranhão, Mato Grosso, Paraná e Rio de Janeiro e altera o Convênio ICMS 96/18, que autoriza os Estados que menciona a conceder isenção do ICMS nas operações com medicamento destinado a tratamento da Atrofia Muscular Espinal - AME.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 172ª Reunião Ordinária, realizada em Brasília, DF, no dia 5 de abril de 2019, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Ficam os Estados do Maranhão, Mato Grosso, Paraná e Rio de Janeiro incluídos nas disposições do Convênio ICMS 96/18, de 28 de setembro de 2018.
+
+**Cláusula segunda** Fica alterado o caput da cláusula primeira do Convênio ICMS 96/18, que passa a vigorar com a seguinte redação:
+
+“Cláusula primeira Ficam os Estados do Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraná, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina, São Paulo, Sergipe e Tocantins autorizados a conceder isenção do ICMS incidente nas operações com o medicamento Spinraza (Nusinersena) injection 12mg/5ml, classificado no código 3004.90.79 da Nomenclatura Comum do Mercosul, destinado a tratamento da Atrofia Muscular Espinal - AME.”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional.

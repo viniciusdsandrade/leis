@@ -1,0 +1,54 @@
+---
+titulo: "Convênio ICM nº 28, de 6 de dezembro de 1978"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "28"
+data: 1978-12-06
+ementa: "Autoriza o Estado do Maranhão a conceder remissão de juros e multas para os casos que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.12.78."
+data_publicacao: "1978-12-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1978/CV028_78"
+sha256_html_fonte: "8cfdb9456a7602ae80c45be3d53e7ba89326be813e4af73dc5a9e7be2a80a45f"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 28, de 6 de dezembro de 1978
+
+**CONVÊNIO ICM 28/78**
+
+**Publicado no DOU de 12.12.78.**
+
+**Ratificação Nacional DOU de 29.12.78 pelo Ato COTEPE-ICM**
+
+**08/78** .
+
+**Autoriza o Estado do Maranhão a conceder remissão de juros e multas para os casos que especifica.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 14ª Reunião Ordinária do CONSELHO DE POLÍTICA FAZENDÁRIA, realizada em Brasília, DF, no dia 6 de dezembro de 1978, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado do Maranhão autorizado a conceder remissão de juros e multas decorrentes de créditos tributários de responsabilidade das empresas a seguir enumeradas:
+
+I - A SILVA INDÚSTRIA E COMÉRCIO DE ÓLEOS VEGETAIS S/A;
+
+II - INDÚSTRIA QUÍMICA NORTE S/A;
+
+III - RINORTE S/A VEÍCULOS E PEÇAS; e
+
+IV - SILISA IMPORTADORA LTDA.
+
+Cláusula segunda
+
+O disposto neste Convênio não implicará em restituição ou compensação de importâncias já pagas.
+
+Cláusula terceira
+
+Este Convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 6 de dezembro de 1978.
+
+Signatários: Ministério da Fazenda, AC, AL, AM, BA, CE, DF, ES, GO, MA, MG, MT, PA, PB, PE, PI, PR, RJ, RN, RS, SC, SE e SP.

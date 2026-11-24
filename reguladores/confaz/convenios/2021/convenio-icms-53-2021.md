@@ -1,0 +1,56 @@
+---
+titulo: "Convênio ICMS nº 53, de 8 de abril de 2021"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "53"
+data: 2021-04-08
+ementa: "Autoriza as unidades federadas que menciona a conceder redução da base de cálculo do ICMS incidente nas prestações de serviço de transporte intermunicipal de pessoas, no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2)."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.04.21 pelo Despacho 22/21."
+data_publicacao: "2021-04-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV053_21"
+sha256_html_fonte: "535806d1f77e4cb18bdf710297cc63cc3d7b842d849cc9b90288cd267b7ce15a"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 53, de 8 de abril de 2021
+
+CONVÊNIO ICMS 53/21, DE 08 DE ABRIL DE 2021
+
+Publicado no DOU de 12.04.21 pelo Despacho 22/21.
+
+Ratificação Nacional no DOU de 28.04.21, pelo Ato Declaratório 11/21.
+
+Adesão da BA, a partir de 13.08.21 pelo Conv. ICMS 123/21.
+
+Alterado pelo Conv. ICMS 123/21, 231/21, 60/22.
+
+Prorrogado, até 30.04.24, pelo Conv. ICMS 178/21 .
+
+Adesão da CE, pelo Convênio ICMS 231/21, a partir de 24.12.21.
+
+Adesão da PB, pelo Convênio ICMS 60/22. a partir de 20.04.22.
+
+Autoriza as unidades federadas que menciona a conceder redução da base de cálculo do ICMS incidente nas prestações de serviço de transporte intermunicipal de pessoas, no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2).
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 180ª Reunião Ordinária, realizada em Brasília, DF, no dia 08 de abril de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Nova redação dada à cláusula primeira pelo Conv. ICMS 60/22, efeitos a partir de 20.04.22.
+
+**Cláusula primeira** Ficam os Estados da Bahia, Ceará, Paraíba, Paraná, Rio Grande do Norte e Rio Grande do Sul autorizados a reduzir a base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – incidente nas prestações de serviço de transporte intermunicipal de pessoas, passageiros ou não, em até 100% (cem por cento), no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2).
+
+**Redação anterior dada à cláusula primeira pelo Conv. ICMS 231/21, efeitos de 24.12.21 a 19.04.22.**
+
+Cláusula primeira Ficam os Estados da Bahia, Ceará, Paraná, Rio Grande do Norte e Rio Grande do Sul autorizados a reduzir a base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS - incidente nas prestações de serviço de transporte intermunicipal de pessoas, passageiros ou não, em até 100% (cem por cento), no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2).
+
+**Redação anterior dada à cláusula primeira pelo Conv. ICMS 123/21, efeitos de 13.08.21 a 23.12.21.**
+
+Cláusula primeira Ficam os Estados da Bahia, Paraná, Rio Grande do Norte e Rio Grande do Sul autorizados a reduzir a base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS incidente nas prestações de serviço de transporte intermunicipal de pessoas, passageiros ou não, em até 100% (cem por cento), no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2), conforme os Decretos Estaduais de calamidade pública em decorrência da Covid-19.
+
+Redação original, efeitos até 12.08.21.
+
+Cláusula primeira Ficam os Estados do Paraná, Rio Grande do Norte e Rio Grande do Sul autorizado a reduzir a base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS incidente nas prestações de serviço de transporte intermunicipal de pessoas, passageiros ou não, em até 100% (cem por cento), no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2), conforme os Decretos Estaduais de calamidade pública em decorrência da Covid-19.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2021.

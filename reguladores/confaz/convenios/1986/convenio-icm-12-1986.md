@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICM nº 12, de 29 de abril de 1986"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "12"
+data: 1986-04-29
+ementa: "Autoriza o Estado do Paraná a conceder remissão de créditos tributários das empresas que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado DOU de 02.05.86."
+data_publicacao: "1986-05-02"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1986/CV012_86"
+sha256_html_fonte: "0385bba51b3770a09de946e9ff9c61aacc7b8d9ddae52bbdc333652390523df4"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 12, de 29 de abril de 1986
+
+**CONVÊNIO ICM 12/86**
+
+**Publicado DOU de 02.05.86.**
+
+**Ratificação Nacional DOU de 21.05.86 pelo Ato COTEPE-ICM**
+
+**02/86** .
+
+**Alterado pelo Conv. ICM**
+
+**34/86 , que reabriu o prazo de pagamento por 30 dias a partir da vigência deste Convênio.**
+
+**Autoriza o Estado do Paraná a conceder remissão de créditos tributários das empresas que especifica.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 41ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 29 de abril de 1986, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado do Paraná autorizado a conceder remissão parcial de créditos tributários do Imposto sobre Operações Relativas à Circulação de Mercadorias, de responsabilidade das empresas Indústria de Móveis Guelmann do Paraná S/A, decorrentes de obrigações tributárias anteriores a junho de 1985, INCOPAST - Indústria e Comércio de Pasta Mecânica Ltda., decorrentes de obrigações tributárias anteriores a agosto de 1984, e SUPERESPUMA - Indústria Paranaense de Polímeros Ltda. decorrentes de obrigações tributárias ocorridas entre abril de 1983 a julho de 1984, desde que o imposto seja pago no prazo de 30 dias da data da ratificação nacional deste Convênio.
+
+Cláusula segunda
+
+Este Convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 29 de abril de 1986.

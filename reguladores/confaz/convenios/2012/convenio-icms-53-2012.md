@@ -1,0 +1,42 @@
+---
+titulo: "Convênio ICMS nº 53, de 15 de maio de 2012"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "53"
+data: 2012-05-15
+ementa: "Altera o Convênio ICMS que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas operações de importação de mercadorias pelas delegações estrangeiras participantes da Conferência das Nações Unidas sobre Desenvolvimento Sustentável (Rio + 20)."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 17.05.12, pelo Despacho 78/12 ."
+data_publicacao: "2012-05-17"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV053_12"
+sha256_html_fonte: "2270d0a1bd71a066ec7305f3ce5ed68b978d55516a6030c0be07378eb508b6f9"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 53, de 15 de maio de 2012
+
+CONVÊNIO ICMS 53, DE 15 DE MAIO DE 2012
+
+Publicado no DOU de 17.05.12, pelo Despacho 78/12 .
+
+Ratificação Nacional no DOU de 05.06.12, pelo Ato Declaratório 08/12 .
+
+Altera o Convênio ICMS que autoriza o Estado do Rio de Janeiro a conceder isenção do ICMS nas operações de importação de mercadorias pelas delegações estrangeiras participantes da Conferência das Nações Unidas sobre Desenvolvimento Sustentável (Rio + 20).
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 175ª reunião extraordinária, realizada em Brasília, DF, no dia 15 de maio de 2012, tendo em vista o disposto na Lei Complementar nº 24/75, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Passam a vigorar com a redação que se segue os dispositivos a seguir indicados do Convênio ICMS 51/12 , de 4 de maio de 2012:
+
+I – o caput da cláusula primeira:
+
+“Cláusula primeira Fica o Estado do Rio de Janeiro autorizado a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS incidente nas importações das mercadorias, equipamentos e materiais de uso ou consumo promovidas pela União, pela Organização das Nações Unidas (ONU) e demais organizações internacionais acreditadas para a Conferência, por meio de seus representantes, bem assim por delegações dos países participantes, e ainda pelas entidades com status de observador na ONU ou assemelhadas a Estados e assim reconhecidas pelo Ministério das Relações Exteriores, ou por pessoa jurídica por elas contratada como responsável pela logística e desembaraço aduaneiro, destinadas aos participantes da Conferência das Nações Unidas sobre Desenvolvimento Sustentável (Rio + 20), a ser realizada no período de 13 a 22 de junho de 2012 no Estado do Rio de Janeiro.”.
+
+II – a cláusula quinta:
+
+“Cláusula quinta Ficam dispensadas da exigência da Guia para a Liberação de Mercadoria Estrangeira sem Comprovação do Recolhimento do ICMS (GLME) as importações de bens de que trata a Instrução Normativa da Receita Federal do Brasil específica para a Conferência das Nações Unidas sobre Desenvolvimento Sustentável (Rio + 20).
+
+**Parágrafo único.** O Estado do Rio de Janeiro poderá firmar com a Secretaria da Receita Federal do Brasil (RFB) protocolo para o controle das operações das importações realizadas com base na normativa específica da Receita Federal do Brasil de que trata o “caput”.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

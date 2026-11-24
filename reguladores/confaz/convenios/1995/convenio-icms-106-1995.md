@@ -1,0 +1,54 @@
+---
+titulo: "Convênio ICMS nº 106, de 11 de dezembro de 1995"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "106"
+data: 1995-12-11
+ementa: "Altera dispositivos do Convênio ICMS 18/95, de 04.04.95, que concede isenção do ICMS em importações do exterior, e do Convênio ICMS 59/95, de 28.06.95, que estabelece procedimentos para o transporte de mercadorias ou bens contidos em encomendas aéreas internacionais."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 13.12.95."
+data_publicacao: "1995-12-13"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV106_95"
+sha256_html_fonte: "e14df4247f34a1187a050b3179ad7cb13ed8f31681b7e48c35c8402cb1b956fe"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 106, de 11 de dezembro de 1995
+
+**CONVÊNIO ICMS 106/95**
+
+**Publicado no DOU de 13.12.95.**
+
+**Ratificação Nacional DOU de 02.01.96 pelo Ato COTEPE-ICMS**
+
+**08/95** .
+
+**Altera dispositivos do Convênio ICMS 18/95, de 04.04.95, que concede isenção do ICMS em importações do exterior, e do Convênio ICMS 59/95, de 28.06.95, que estabelece procedimentos para o transporte de mercadorias ou bens contidos em encomendas aéreas internacionais.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 80ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Salvador, BA, no dia 11 de dezembro de 1995, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, e no artigo 199 do Código Tributário Nacional (Lei nº 5.172, de 26 de outubro de 1966), resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica acrescentado o inciso IX à cláusula primeira do Convênio ICMS 18/95 , de 4 de abril de 1995, com a seguinte redação:
+
+"IX - recebimento de mercadorias ou bens importados do exterior, que estejam isentos do Imposto de Importação e também sujeitos ao Regime de Tributação Simplificada."
+
+**Cláusula segunda**
+
+Passa a vigorar com a seguinte redação o § 3º da cláusula primeira do Convênio ICMS 18/95 , de 4 de abril de 1995:
+
+"§ 3º Nas hipóteses dos incisos IV e IX, fica dispensada a apresentação da Declaração de Exoneração do ICMS na Entrada de Mercadoria Estrangeira."
+
+**Cláusula terceira**
+
+Fica acrescentado o § 3º à cláusula terceira do Convênio ICMS 59/95 , de 28 de junho de 1995, com a seguinte redação:
+
+"§ 3º No campo "Outras Informações" da GNR a empresa de "courier" fará constar, entre outras indicações, sua razão social e seu número de inscrição no CGC do Ministério da Fazenda."
+
+**Cláusula quarta**
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Salvador, BA, 11 de dezembro de 1995.

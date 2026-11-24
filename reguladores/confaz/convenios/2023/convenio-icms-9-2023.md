@@ -1,0 +1,42 @@
+---
+titulo: "Convênio ICMS nº 9, de 9 de março de 2023"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "9"
+data: 2023-03-09
+ementa: "Dispõe sobre a adesão do Estado do Acre e altera o Convênio ICMS nº 57/16, que autoriza a concessão de isenção do ICMS no fornecimento de refeições realizado pelo Serviço Social do Comércio – SESC e pelo Serviço Nacional de Aprendizagem Comercial – SENAC."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 10.03.23, pelo Despacho 09/23."
+data_publicacao: "2023-03-10"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV009_23"
+sha256_html_fonte: "07c353e20e8de9528f60b4e3784251a92870565c9201bd6576969030288bf3fc"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 9, de 9 de março de 2023
+
+CONVÊNIO ICMS Nº 9, DE 9 DE MARÇO DE 2023
+
+Publicado no DOU de 10.03.23, pelo Despacho 09/23.
+
+Ratificação Nacional no DOU de 29.03.23, pelo Ato Declaratório 07/23.
+
+Dispõe sobre a adesão do Estado do Acre e altera o Convênio ICMS nº 57/16, que autoriza a concessão de isenção do ICMS no fornecimento de refeições realizado pelo Serviço Social do Comércio – SESC e pelo Serviço Nacional de Aprendizagem Comercial – SENAC.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 368ª Reunião Extraordinária, realizada em Brasília, DF, no dia 9 de março de 2022, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** O Estado do Acre fica incluído nas disposições do Convênio ICMS nº 57, de 8 de julho de 2016.
+
+**Cláusula segunda** Os dispositivos a seguir indicados do Convênio ICMS nº 57/16 passam a vigorar com as seguintes redações:
+
+I - a cláusula primeira:
+
+“Cláusula primeira Os Estados do Acre e Roraima ficam autorizados a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – no fornecimento de refeições realizado pelo Serviço Social do Comércio – SESC – e pelo Serviço Nacional de Aprendizagem Comercial – SENAC.”;
+
+II - a cláusula terceira:
+
+“Cláusula terceira Os Estados do Acre e Roraima ficam incluídos nas disposições contidas no Convênio ICMS nº 5, de 30 de abril de 1993.”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

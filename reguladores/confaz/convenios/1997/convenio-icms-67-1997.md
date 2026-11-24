@@ -1,0 +1,106 @@
+---
+titulo: "Convênio ICMS nº 67, de 25 de julho de 1997"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "67"
+data: 1997-07-25
+ementa: "Prorroga as disposições de convênios que concedem benefícios fiscais e dá outra providência."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 05.08.97."
+data_publicacao: "1997-08-05"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV067_97"
+sha256_html_fonte: "9083bfbbdb315c3730779657950ebf0aa38aba966f42608b1d97c9f6dd698272"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 67, de 25 de julho de 1997
+
+**CONVÊNIO ICMS 67/97**
+
+**Publicado no DOU de 05.08.97.**
+
+**Retificação no DOU de 11.08.97.**
+
+**Ratificação Nacional DOU de 21.08.97 pelo Ato COTEPE-ICMS**
+
+**10/97** .
+
+**Prorroga as disposições de convênios que concedem benefícios fiscais e dá outra providência.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 34ª Reunião Extraordinária do Conselho Nacional de Política Fazendária, realizada em Manaus, AM, no dia 25 de julho de 1997, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam prorrogadas como seguem as disposições contidas:
+
+I - até 30 de setembro de 1997:
+
+a) no Convênio ICMS 23/90 , de 13 de setembro de 1990;
+
+b) no Convênio ICMS 36/92 , de 3 de abril de 1992;
+
+II - até 31 de dezembro de 1997:
+
+a) no Convênio ICMS 16/91 , de 25 de junho de 1991;
+
+b) no Convênio ICMS 97/92 , de 25 de setembro de 1992;
+
+c) no Convênio ICMS 142/92 , de 15 de dezembro de 1992;
+
+d) no Convênio ICMS 155/92 , de 15 de dezembro de 1992;
+
+e) no Convênio ICMS 09/93 , de 30 de abril de 1993;
+
+f) no Convênio ICMS 31/93 , de 30 de abril de 1993;
+
+g) no Convênio ICMS 37/93 , de 30 de abril de 1993;
+
+h) no Convênio ICMS 38/93 , de 30 de abril de 1993;
+
+i) no Convênio ICMS 115/93 , de 9 de dezembro de 1993;
+
+j) no Convênio ICMS 14/94 , de 29 de março de 1994;
+
+k) no Convênio ICMS 59/94 , de 30 de junho de 1994;
+
+l) no Convênio ICMS 11/95 , de 4 de abril de 1995;
+
+m) no Convênio ICMS 52/95 , de 28 de junho de 1995;
+
+n) no Convênio ICMS 20/96 , de 22 de março de 1996;
+
+o) no Convênio ICMS 33/96 , de 31 de maio de 1996;
+
+p) no Convênio ICMS 94/96 , de 13 de dezembro de 1996.
+
+q) no Convênio ICMS 74/90 , de 12 de dezembro de 1990;
+
+r) no Convênio ICMS 39/91 , de 7 de agosto de 1991;
+
+s) no Convênio ICMS 02/92 , de 26 de março de 1992
+
+t)no Convênio ICMS 123/92 , de 25 de setembro de 1992;
+
+u) no Convênio ICMS 108/93 , de 10 de setembro de 1993;
+
+v)no Convênio ICMS 43/94 , de 29 de março de 1994;
+
+x) no Convênio ICMS 32/95 , de 4 de abril de 1995;
+
+y) no Convênio ICMS 62/96 , de 13 de setembro de 1996;
+
+w) no Convênio ICMS 118/96 , de 13 de dezembro de 1996.
+
+z) o Convênio ICMS 78/92 , de 30 de julho de 1992;
+
+Cláusula segunda
+
+Ficam estendidas ao Estado da Paraíba as disposições do Convênio ICMS 09/93 , de 30 de abril de 1993.
+
+Cláusula terceira
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Manaus, AM, 25 de julho de 1997.

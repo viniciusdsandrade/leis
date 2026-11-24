@@ -1,0 +1,54 @@
+---
+titulo: "Convênio ICMS nº 2, de 5 de fevereiro de 2020"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "2"
+data: 2020-02-05
+ementa: "Autoriza as unidades federadas que menciona a conceder benefícios fiscais destinados aos estabelecimentos localizados nos municípios abrangidos por estado de emergência ou de calamidade pública, decorrente das chuvas."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 06.02.20, pelo Despacho 05/20."
+data_publicacao: "2020-02-06"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV002_20"
+sha256_html_fonte: "b81e993fb1edd99266f75cfc6a0e60eed62fa8b4588cae1bcc690d7612c58680"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 2, de 5 de fevereiro de 2020
+
+CONVÊNIO ICMS 02/20, DE 5 DE FEVEREIRO DE 2020
+
+Publicado no DOU de 06.02.20, pelo Despacho 05/20.
+
+Ratificação Nacional no DOU de 11.02.20, pelo Ato Declaratório 01/20.
+
+Autoriza as unidades federadas que menciona a conceder benefícios fiscais destinados aos estabelecimentos localizados nos municípios abrangidos por estado de emergência ou de calamidade pública, decorrente das chuvas.
+
+**O Conselho Nacional de Política Fazendária** - CONFAZ, na sua 321ª Reunião Extraordinária, realizada em Brasília, DF, no dia 5 de fevereiro de 2020, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam os Estados do Espírito Santo e Rio de Janeiro autorizados a conceder os seguintes benefícios fiscais relativos ao Imposto sobre Operações relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, destinados aos estabelecimentos localizados nos municípios abrangidos por estado de emergência ou de calamidade pública declarado por ato da autoridade competente, motivado pelas chuvas ocorridas nestes Estados:
+
+I - isenção do ICMS incidente nas operações:
+
+a) internas com bens destinados ao ativo imobilizado;
+
+b) interestaduais, relativamente à aplicação do diferencial de alíquotas; e
+
+c) de importação de bens destinados ao ativo imobilizado, desde que sem similar produzido no país.
+
+II - dilação de prazo para pagamento do ICMS incidente sobre às operações ou prestações realizadas nos meses de dezembro de 2019 e janeiro de 2020 em até 180 (cento e oitenta) dias do prazo estabelecido para o pagamento; e
+
+III - parcelamento dos créditos tributários referentes às operações ou prestações de que trata o inciso II do *caput* desta cláusula, que poderá ser recolhido em até 6 (seis) parcelas mensais, sem quaisquer acréscimos de juros, multas ou demais acréscimos legais.
+
+**§ 1º** Para os fins de que trata a alínea “a” do inciso I desta cláusula:
+
+I - o estabelecimento alienante deverá deduzir do preço dos respectivos produtos o valor imposto referente ao benefício, devendo demonstrar a respectiva dedução, expressamente, nos documentos fiscais; e
+
+II - Ficam as unidades federadas autorizadas a não exigir o estorno do crédito fiscal, nos termos do art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, nas operações de que trata este convênio.
+
+**§ 2º** A inexistência de similar produzido no país será atestada por órgão federal competente ou entidade representativa do setor produtivo de máquinas, aparelhos e equipamentos com abrangência em todo o território nacional.
+
+**Cláusula segunda** Para fruição dos benefícios de que trata este convênio, o estabelecimento destinatário do benefício deverá comprovar que se encontra localizado nos municípios afetados, indicando o Decreto do Poder Executivo que declarou estado de calamidade pública ou de emergência devendo, ainda, possuir laudo pericial fornecido pela Polícia Civil, Corpo de Bombeiros ou órgão da Defesa Civil.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional, produzindo efeitos por 180 (cento e oitenta) dias após a ratificação nacional.

@@ -1,0 +1,57 @@
+---
+titulo: "Convênio ICMS nº 92, de 5 de dezembro de 1991"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "92"
+data: 1991-12-05
+ementa: "Concede redução da base de cálculo do ICMS na prestação de serviços de transporte aéreo."
+revogada: true
+situacao_fonte: "Revogado, a partir de 01.01.97, pelo Conv. ICMS 120/96."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 09.12.91."
+data_publicacao: "1991-12-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV092_91"
+sha256_html_fonte: "4b4cfbde4d38b33c562c37e8b27edc5c294032a8e721d03acf6c4172ac951543"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 92, de 5 de dezembro de 1991
+
+CONVÊNIO ICMS 92/91
+
+Publicação DOU de 09.12.91.
+
+Ratificação Nacional DOU 27.12.91, pelo Ato COTEPE/ICMS 13/91.
+
+Revogado, a partir de 01.01.97, pelo Conv. ICMS 120/96.
+
+Concede redução da base de cálculo do ICMS na prestação de serviços de transporte aéreo.
+
+O Ministro da Economia, Fazenda e Planejamento e os Secretários de Fazenda, Economia ou Finança s dos Estados e do Distrito Federal, na 65ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 05 de dezembro de 1991, tendo em vista o disposto na Lei Complementar n° 24, de 07 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Acordam os Estados e o Distrito Federal em conceder redução da base de cálculo do ICMS aos estabelecimentos prestadores de serviço de transporte aéreo, de forma que a carga tributária seja equivalente aos percentuais a seguir:
+
+I - nas prestações internas:
+
+a) nos Estados do Paraná, Rio Grande do Sul e de São Paulo:.....8,0%;
+
+b) nos demais Estados:.....9,0%.
+
+II - nas prestações interestaduais:
+
+a) com alíquota de 12%:.....6,3%;
+
+b) com alíquota de 7%:.......3,7%.
+
+**§ 1º** Na prestação de serviço de transporte de pessoa ou de carga, destinado a não contribuinte do ICMS, a carga tributária será a prevista no inciso I, desta Cláusula.
+
+**§ 2º** Para efeito de complementação de alíquotas do ICMS, o Estado onde se localiza o destinatário do serviço de transporte exigirá a diferença de modo a que a carga tributária corresponda aos percentuais indicados no inciso I.
+
+**Cláusula segunda** A redução da base de cálculo será aplicada opcionalmente pelo contribuinte em substituição ao sistema de tributação previsto na legislação estadual.
+
+**Parágrafo único.** O contribuinte que optar pelo benefício previsto na Cláusula anterior não poderá utilizar quaisquer créditos.
+
+**Cláusula terceira** Este Convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de janeiro de 1992.
+
+Brasília, DF, 05 de dezembro de 1991.

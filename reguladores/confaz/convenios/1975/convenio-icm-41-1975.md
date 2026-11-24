@@ -1,0 +1,57 @@
+---
+titulo: "Convênio ICM nº 41, de 10 de dezembro de 1975"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "41"
+data: 1975-12-10
+ementa: "Dispõe sobre a isenção da banana e da erva-mate nas saídas para o exterior."
+revogada: true
+situacao_fonte: "Revogado pelo Conv. ICMS 60/90, efeitos a partir de 05.10.90."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 15.12.75."
+data_publicacao: "1975-12-15"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1975/CV041_75"
+sha256_html_fonte: "725077542042add41bdb3479ddbfdc792598737c48b1ea70d4d8f220af7a06e7"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 41, de 10 de dezembro de 1975
+
+**CONVÊNIO ICM 41/75**
+
+**Publicado no DOU de 15.12.75.**
+
+**Ratificação Nacional DOU de 31.12.75 pelo Ato Declaratório AP**
+
+**10/75** .
+
+**Ver Conv. ICMS**
+
+**67/90** .
+
+**Revogado pelo Conv. ICMS**
+
+**60/90 , efeitos a partir de 05.10.90.**
+
+**Dispõe sobre a isenção da banana e da erva-mate nas saídas para o exterior.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 1ª Reunião Extraordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 10 de dezembro de 1975, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam os Estados e o Distrito Federal autorizados a:
+
+I - conceder isenção do Imposto sobre Circulação de Mercadorias às saídas de banana e erva-mate para o exterior;
+
+II - permitir a manutenção dos créditos do imposto relativo ao material de embalagem utilizado no acondicionamento de banana exportada para o exterior;
+
+III - dispensar o pagamento do imposto diferido, relativo à erva-mate exportada para o exterior.
+
+Cláusula segunda
+
+Este Convênio entrará em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de janeiro de 1976.
+
+Brasília, DF, 10 de dezembro de 1975.
+
+Signatários: Ministério da Fazenda, AC, AL, AM, BA, CE, DF, ES, GO, MA, MG, MT, PA, PB, PE, PI, PR, RJ, RN, RS, SC, SE e SP.

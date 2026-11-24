@@ -1,0 +1,54 @@
+---
+titulo: "Convênio ICMS nº 1, de 21 de janeiro de 2021"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "1"
+data: 2021-01-21
+ementa: "Revigora, dispõe sobre a adesão dos Estados do Amazonas, Mato Grosso do Sul, Pará, Rio de Janeiro e do Distrito Federal e altera o Convênio ICMS 63/20, que autoriza as unidades federadas que menciona a conceder isenção do ICMS incidente nas operações e correspondentes prestações de serviço de transporte realizadas no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2)."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 22.01.21 pelo Despacho 02/21."
+data_publicacao: "2021-01-22"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV001_21"
+sha256_html_fonte: "410ac5558d720a9b68da930788ac2e7800300335cabbb2a01b501a5c3a0ae9f0"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 1, de 21 de janeiro de 2021
+
+CONVÊNIO ICMS 01/21, DE 21 DE JANEIRO DE 2021
+
+Publicado no DOU de 22.01.21 pelo Despacho 02/21.
+
+Ratificação Nacional no DOU de 27.01.21, pelo Ato Declaratório 01/21.
+
+Revigora, dispõe sobre a adesão dos Estados do Amazonas, Mato Grosso do Sul, Pará, Rio de Janeiro e do Distrito Federal e altera o Convênio ICMS 63/20, que autoriza as unidades federadas que menciona a conceder isenção do ICMS incidente nas operações e correspondentes prestações de serviço de transporte realizadas no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2).
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 330ª Reunião Extraordinária, realizada em Brasília, DF, no dia 21 de janeiro de 2021, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Fica revigorado o Convênio ICMS 63/20, de 30 de julho de 2020.
+
+**Cláusula segunda** Ficam os Estados do Amazonas, Mato Grosso do Sul, Pará, Rio de Janeiro e o Distrito Federal incluídos nas disposições do Convênio ICMS 63/20.
+
+**Cláusula terceira** Ficam alterados os dispositivos a seguir indicados do Convênio ICMS 63/20, que passam a vigorar com as seguintes redações:
+
+I - o caput da cláusula primeira:
+
+“Cláusula primeira Ficam os Estados do Amapá, Amazonas, Espírito Santo, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Rio de Janeiro, Rio Grande do Sul, Rondônia, Roraima, Santa Catarina e o Distrito Federal autorizados a conceder isenção do Imposto sobre Operações relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, no âmbito das medidas de prevenção ao contágio e de enfrentamento à pandemia causada pelo novo agente do Coronavírus (SARS-CoV-2), em relação às mercadorias constantes no anexo único deste convênio, nas seguintes operações:”;
+
+II - da cláusula segunda:
+
+a) o caput:
+
+“Cláusula segunda Ficam os Estados do Amapá, Amazonas, Espírito Santo, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Rio de Janeiro, Rio Grande do Sul, Roraima, Santa Catarina e o Distrito Federal autorizados também:”;
+
+b) o inciso II do caput:
+
+“II - a remitir e anistiar os créditos tributários de ICMS, constituídos ou não, relativos às operações e prestações realizadas nos termos deste convênio, cujos fatos geradores tenham ocorrido no período de 1º de janeiro de 2021 até a data da ratificação nacional do convênio alterador deste convênio.”;
+
+II - a cláusula quarta:
+
+“Cláusula quarta Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional, produzindo efeitos até 31 de julho de 2021.”.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional.

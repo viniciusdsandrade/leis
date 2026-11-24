@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 87, de 28 de setembro de 2001"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "87"
+data: 2001-09-28
+ementa: "Prorroga as disposições de convênios que concedem benefícios fiscais."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 04.10.01."
+data_publicacao: "2001-10-04"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV087_01"
+sha256_html_fonte: "b749bd83645374299187b294a9b489cb7cec33ff22a33e982a3a4b348729316c"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 87, de 28 de setembro de 2001
+
+**CONVÊNIO ICMS 87/01**
+
+**Publicação DOU de 04.10.01.**
+
+**Ratificação Nacional DOU de 22.10.01, pelo Ato Declaratório**
+
+**8/01** .
+
+**Efeitos a partir de 01.11.01.**
+
+**Prorroga as disposições de convênios que concedem benefícios fiscais.**
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 103ª reunião ordinária, realizada em Recife, PE, no dia 28 de setembro de 2001, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam prorrogadas, até 31 de dezembro de 2001, as disposições contidas nos seguintes Convênios ICMS:
+
+I - 28/99 , de 9 de junho de 1999, que dispõe sobre redução da base de cálculo do ICMS e regime de substituição tributária, nas operações com veículos novos de duas rodas motorizados de que trata o Convênio ICMS 52/93 , de 30.04.93;
+
+II - 50/99 , de 23 de julho de 1999, que dispõe sobre redução de base de cálculo do ICMS e regime de substituição tributária, nas operações com veículos automotores de que tratam os Convênios ICMS 37/92 , de 03.04.92 e 132/92 , de 25.09.92.
+
+Cláusula segunda
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1° de novembro de 2001.
+
+Recife, PE, 28 de setembro de 2001.

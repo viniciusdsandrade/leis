@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 52, de 18 de junho de 2004"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "52"
+data: 2004-06-18
+ementa: "Altera a redação dos Convênios ICMS 103/03, que autoriza os Estados de Alagoas, Amapá, Amazonas, Paraíba, Piauí, Rio Grande do Norte, Roraima e o Distrito Federal a dispensar ou reduzir juros e multas e a conceder parcelamento de débitos fiscais relacionados com o ICM e o ICMS e 127/03, que autoriza o Estado de Alagoas a instituir crédito presumido de ICMS e a celebrar transação."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 24.06.04."
+data_publicacao: "2004-06-24"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV052_04"
+sha256_html_fonte: "4813d2a64ac908cea3134b0c0dac2a1f90c73e19e5eef03327db6234389c1a77"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 52, de 18 de junho de 2004
+
+**CONVÊNIO ICMS 52/04**
+
+**Publicado no DOU de 24.06.04.**
+
+**Ratificação Nacional DOU de 13.07.04, pelo Ato Declaratório**
+
+**04/04** .
+
+**Altera a redação dos Convênios ICMS 103/03, que autoriza os Estados de Alagoas, Amapá, Amazonas, Paraíba, Piauí, Rio Grande do Norte, Roraima e o Distrito Federal a dispensar ou reduzir juros e multas e a conceder parcelamento de débitos fiscais relacionados com o ICM e o ICMS e 127/03, que autoriza o Estado de Alagoas a instituir crédito presumido de ICMS e a celebrar transação.**
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 114ª reunião ordinária, realizada em João Pessoa, PB, no dia 18 de junho de 2004, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam acrescentados os §§ 4º e 5º à cláusula segunda do Convênio ICMS 103/03 , de 17 de outubro de 2003, com a seguinte redação:
+
+"§ 4º Fica o Estado de Alagoas autorizado a inserir no parcelamento concedido e celebrado nos termos desta cláusula os débitos fiscais decorrentes de fatos geradores ocorridos até 31 de dezembro de 2003.
+
+**§ 5º** Eventual diferença apurada em razão do disposto no § 4º a partir de 30 de dezembro de 2003 e o valor definitivo das parcelas devidas no âmbito do parcelamento concedido nos termos deste convênio deverá ser recolhida ou compensada em até 120 (cento e vinte) dias contados da data da celebração do instrumento de transação de que trata a cláusula segunda do
+
+Convênio ICMS 127/03 , de 12 de dezembro de 2003.".
+
+**Cláusula segunda**
+
+A cláusula primeira do Convênio ICMS 127/03 , de 12 de dezembro de 2003, passa a vigorar acrescida do § 3º, com a seguinte redação:
+
+"§ 3º Se o estabelecimento optante pelo regime de crédito presumido previsto neste Convênio for afiliado a cooperativa de comercialização de produtos, lei estadual poderá autorizar a transferência do crédito presumido a que tem direito para essa cooperativa.".
+
+**Cláusula terceira**
+
+O "caput" da cláusula segunda do Convênio ICMS 127/03 , de 12 de dezembro de 2003, passa a vigorar com a seguinte redação:
+
+"Cláusula segunda Fica o Estado de Alagoas autorizado a celebrar transação com os estabelecimentos industriais fabricantes de açúcar de cana e álcool, para fins de terminação de todas as formas de litígio atualmente pendentes com relação à apuração, ao recolhimento e ao ressarcimento de créditos do ICMS, e conseqüente extinção dos créditos tributários deles decorrentes.".
+
+**Cláusula quarta**
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+João Pessoa, PB, 18 de junho de 2004.

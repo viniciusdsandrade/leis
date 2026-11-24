@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 48, de 10 de maio de 2002"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "48"
+data: 2002-05-10
+ementa: "Autoriza o Estado de Santa Catarina a conceder isenção do ICMS no recebimento de mercadorias importadas do exterior pelo Instituto Euvaldo Lodi de Santa Catarina - IEL/SC."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 14.05.02."
+data_publicacao: "2002-05-14"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV048_02"
+sha256_html_fonte: "d07a6a5999508cf901cc13cd71e2fb7a3ef52c34b7cad3248ed4e6fada95643a"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 48, de 10 de maio de 2002
+
+CONVÊNIO ICMS 48/02
+
+· Publicado no DOU de 14.05.02.
+
+· Ratificação Nacional DOU de 03.06.02, pelo Ato Declaratório 06/ 0 2 .
+
+· Prorrogado até 31.07.05, pelo Conv. ICMS 123/04 .
+
+Autoriza o Estado de Santa Catarina a conceder isenção do ICMS no recebimento de mercadorias importadas do exterior pelo Instituto Euvaldo Lodi de Santa Catarina - IEL/SC.
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 59ª reunião extraordinária, realizada em Brasília, DF, no dia 10 de maio de 2002, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Fica o Estado de Santa Catarina autorizado a conceder isenção do ICMS devido na importação de equipamentos e materiais, recebidos por doação ou sob o regime de admissão temporária, pelo Instituto Euvaldo Lodi de Santa Catarina - IEL/SC, destinados à pesquisa científica e tecnológica no “Projeto Couro: Curtumes Integrados ao Meio Ambiente”, incluído pelo CNPq no programa de cooperação científica oficial entre Brasil e Alemanha, conforme processo CNPq 690002/99-8.
+
+**Parágrafo único.** A isenção prevista nesta cláusula somente será aplicada se a Efeitos até 31.12.04.importação estiver amparada por suspensão, isenção ou alíquota zero dos Impostos de Importação ou sobre Produtos Industrializados.
+
+**Cláusula segunda** Fica suspensa a exigência do imposto na remessa dos equipamentos e materiais de que trata a cláusula anterior até o local onde serão desenvolvidas as pesquisas, assim como no seu respectivo retorno.
+
+**Parágrafo único.** As remessas em retorno em operações interestaduais dos equipamentos e materiais de que trata o “caput” far-se-ão com suspensão do pagamento do ICMS, desde que o retorno, exceto do material que for consumido na pesquisa, ocorra no prazo de 180 (cento e oitenta) dias, prorrogável, a critério do fisco, por igual período.
+
+**Cláusula terceira** Fica o Estado de Santa Catarina autorizado a convalidar os procedimentos adotados em relação ao imposto devido nas operações a que se refere a cláusula primeira, ocorridas até a data da vigência deste convênio.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos até 31 de dezembro de 2004.
+
+Brasília, DF, 10 de maio de 2002.

@@ -1,0 +1,89 @@
+---
+titulo: "Convênio ICMS nº 181, de 6 de dezembro de 2024"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "181"
+data: 2024-12-06
+ementa: "Dispõe sobre a substituição tributária nas operações com nafta não petroquímica relativos ao ICMS devido pelas operações subsequentes."
+revogada: true
+situacao_fonte: "Revogado pelo Conv. ICMS 129/26, efeitos a partir de 01.03.27."
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU 12.12.24. pelo despacho 52/24."
+data_publicacao: "2024-12-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV181_24"
+sha256_html_fonte: "2e693ade967511c4c672b2c50e29daf93676e291e09958d468853404c61b6d54"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 181, de 6 de dezembro de 2024
+
+**REVOGADO**
+
+CONVÊNIO ICMS Nº 181, DE 6 DE DEZEMBRO DE 2024
+
+Publicado no DOU 12.12.24. pelo despacho 52/24.
+
+Alterado pelo Conv. ICMS 7/25.
+
+Revogado pelo Conv. ICMS 129/26, efeitos a partir de 01.03.27.
+
+Dispõe sobre a substituição tributária nas operações com nafta não petroquímica relativos ao ICMS devido pelas operações subsequentes.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 195ª Reunião Ordinária, realizada em Foz do Iguaçu, PR, no dia 6 de dezembro de 2024, considerando o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º, nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006 e no Convênio ICMS 142/18, de 14 de dezembro de 2018, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Na operação interestadual e de importação com nafta não petroquímica classificada na Nomenclatura Comum do Mercosul baseada no Sistema Harmonizado - NCM/SH - 2710.12.49 e no Código Especificador da Substituição Tributária – CEST – 06.019.00, fica atribuída ao estabelecimento remetente e ao importador, a responsabilidade pela retenção e recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - devido nas subsequentes saídas.
+
+**Parágrafo único.** Na importação com nafta não petroquímica, a retenção e recolhimento do ICMS devido nas subsequentes saídas deverá ocorrer no momento do desembaraço aduaneiro.
+
+**Cláusula segunda** A base de cálculo será obtida tomando-se por base o valor da mercadoria importada, conforme o documento de importação, ou o preço praticado pelo remetente, acrescido dos valores correspondentes a frete, seguro, impostos, contribuições, e outros encargos transferíveis ou cobrados do destinatário, ainda que por terceiros, adicionado da parcela resultante da aplicação, sobre o referido montante, do percentual de margem de valor agregado - MVA - que resulte em carga tributária final equivalente à aplicação da alíquota “ad rem” sobre a gasolina prevista na cláusula sétima do Convênio ICMS nº 15, de 31 de março de 2023.
+
+Renumerado e nova redação do parágrafo único para §1º da cláusula segunda pelo Conv. ICMS 7/25, efeitos a partir de 01.02.25.
+
+**§ 1º** A margem de valor agregado a ser utilizada para obtenção da base de cálculo, corresponderá:
+
+I – Nas operações com NAFTA não petroquímica, comercializadas em unidade de massa, ao resultado da fórmula **MVA = {[(ALIQADREM / ALIQ) – (PNAFTA (kg) / DENS)] / (PNAFTA (kg) / DENS)} X 100**, considerando-se:
+
+a) MVA - margem de valor agregado, expressa em percentual, arredondada para duas casas decimais;
+
+b) ALIQADREM - alíquota específica aplicável à gasolina prevista na cláusula sétima do Convênio ICMS nº 15, de 31 de março de 2023;
+
+c) ALIQ - alíquota correspondente à carga tributária efetiva aplicada à Operação Própria com a NAFTA não petroquímica;
+
+d) PNAFTA (kg) – preço praticado para a NAFTA não petroquímica comercializada em unidade de massa, considerado o preço praticado pelo remetente, acrescido dos valores correspondentes a frete, seguro, impostos, contribuições, e outros encargos transferíveis ou cobrados do destinatário, ainda que por terceiros, incluindo o montante do próprio ICMS, convertida para 1 Kg do produto;
+
+e) DENS – densidade da NAFTA não petroquímica comercializada.
+
+II – Nas operações com NAFTA não petroquímica, comercializadas em unidade de volume, ao resultado da fórmula **MVA = {[(ALIQADREM / ALIQ) – PNAFTA (L)] / PNAFTA (L)} X 100**, considerando-se:
+
+a) MVA - margem de valor agregado, expressa em percentual, arredondada para duas casas decimais;
+
+b) ALIQADREM - alíquota específica aplicável à gasolina prevista na cláusula sétima do Convênio ICMS nº 15, de 31 de março de 2023;
+
+c) ALIQ - alíquota correspondente à carga tributária efetiva aplicada à Operação Própria com a NAFTA não petroquímica;
+
+d) PNAFTA(L) – preço praticado para a NAFTA não petroquímica comercializada em unidade de volume, considerado o preço praticado pelo remetente, acrescido dos valores correspondentes a frete, seguro, impostos, contribuições, e outros encargos transferíveis ou cobrados do destinatário, ainda que por terceiros, incluindo o montante do próprio ICMS, convertida para 1 Litro do produto.
+
+Redação original, efeitos até 31.01.25.
+
+**Parágrafo único.** Ato Cotepe/ICMS divulgará o percentual de MVA nos termos previsto no “caput”.
+
+Acrescidos os §§ 2º e 3º à cláusula segunda pelo Conv. ICMS 7/25, efeitos a partir de 01.02.25.
+
+**§ 2º** A MVA fixada de acordo com a fórmula prevista no § 1º será zero caso o percentual calculado resulte em valor negativo.
+
+**§3º** Integra a base de cálculo do imposto da mercadoria importada, prevista nesta cláusula, o montante do próprio imposto, constituindo o respectivo destaque mera indicação para fins de controle.
+
+**Cláusula terceira** A alíquota a ser aplicada sobre a base de cálculo prevista na cláusula segunda será a vigente para as operações internas na unidade federada de destino físico da mercadoria.
+
+**Cláusula quarta** O imposto a recolher a título de substituição tributária será, em relação às operações subsequentes, o valor da diferença entre o imposto calculado mediante aplicação da alíquota estabelecida para as operações internas na unidade federada de destino sobre a base de cálculo definida para a substituição e o devido pela operação própria.
+
+**Cláusula quinta** Fica vedada a concessão de diferimento do imposto devido por substituição tributária no desembaraço aduaneiro de nafta não petroquímica de que trata este convênio.
+
+**Cláusula sexta** As disposições deste convênio aplicam-se inclusive nas operações relacionadas nos incisos I a IV da cláusula nona do Convênio ICMS nº 142, de 14 de dezembro de 2018.
+
+**Cláusula sétima** Na hipótese de recolhimento do ICMS-ST por operação, a unidade federada de destino poderá atribuir ao destinatário da nafta não petroquímica a responsabilidade pelo recolhimento do imposto e seus acréscimos legais quando, notificado, deixar de apresentar a comprovação de pagamento.
+
+**Cláusula oitava** Fica facultado o ressarcimento do imposto recolhido por substituição tributária ao estabelecimento industrial que empregue a nafta não petroquímica em processo produtivo que resulte nos combustíveis sujeitos à tributação prevista na Lei Complementar nº 192, de 11 de março de 2022, mediante autorização da administração tributária.
+
+**Cláusula nona** Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao da publicação.

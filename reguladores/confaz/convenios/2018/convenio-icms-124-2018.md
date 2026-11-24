@@ -1,0 +1,36 @@
+---
+titulo: "Convênio ICMS nº 124, de 6 de novembro de 2018"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "124"
+data: 2018-11-06
+ementa: "Prorroga disposições de convênios ICMS que dispõem sobre benefícios fiscais."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 07.11.18, pelo Despacho 136/18."
+data_publicacao: "2018-11-07"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV124_18"
+sha256_html_fonte: "bb212a9979b6ed82930c93e363d6450f8cb9322ea0deeec207da408a528dd18b"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 124, de 6 de novembro de 2018
+
+CONVÊNIO ICMS 124/18, DE 6 DE NOVEMBRO DE 2018
+
+Publicado no DOU de 07.11.18, pelo Despacho 136/18.
+
+Ratificação Nacional no DOU de 22.11.18, pelo Ato Declaratório 29/18.
+
+Prorroga disposições de convênios ICMS que dispõem sobre benefícios fiscais.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 310ª Reunião Extraordinária, realizada em Brasília, DF, no dia 6 de novembro de 2018, tendo em vista o disposto na Lei Complementar Federal nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Os convênios ICMS a seguir indicados passam a vigorar com prazo final de vigência em 30 de abril de 2019:
+
+I - Convênio ICMS 161/13, de 6 de dezembro de 2013, que autoriza o Estado do Paraná a conceder isenção do ICMS nas operações internas com bens e mercadorias destinados à implantação do Metrô Curitibano;
+
+II - Convênio ICMS 95/18, de 28 de setembro de 2018, que autoriza os Estados do Amazonas e do Paraná a conceder isenção do ICMS incidente no fornecimento de energia elétrica para pessoas físicas enquadradas em programa social.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional.

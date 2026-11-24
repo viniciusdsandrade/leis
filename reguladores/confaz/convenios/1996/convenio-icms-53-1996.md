@@ -1,0 +1,48 @@
+---
+titulo: "Convênio ICMS nº 53, de 31 de maio de 1996"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "53"
+data: 1996-05-31
+ementa: "Altera o Convênio ICMS 125/95, de 11.12.95, que autoriza os Estados que menciona a conceder crédito fiscal presumido na aquisição de Equipamento Emissor de Cupom Fiscal - ECF."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 07.06.96."
+data_publicacao: "1996-06-07"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV053_96"
+sha256_html_fonte: "ebd22cb2f2362dafcecdc66791e7857251a3db6ed6a94415654baaa23eecb932"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 53, de 31 de maio de 1996
+
+**CONVÊNIO ICMS 53/96**
+
+**Publicado no DOU de 07.06.96.**
+
+**Ratificação Nacional DOU de 26.06.96 pelo Ato COTEPE-ICMS**
+
+**05/96** .
+
+**Altera o Convênio ICMS 125/95, de 11.12.95, que autoriza os Estados que menciona a conceder crédito fiscal presumido na aquisição de Equipamento Emissor de Cupom Fiscal - ECF.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 82ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Fortaleza, CE, no dia 31 de maio de 1996, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+A cláusula primeira do Convênio ICMS 125/95 , de 11 de dezembro de 1995, passa a vigorar com a redação abaixo:
+
+"Cláusula primeira Ficam os Estados de Pernambuco, Rio Grande do Sul, Sergipe, Santa Catarina, Paraná, Maranhão, Goiás, Tocantins, Rondônia, Bahia, Mato Grosso, Rio de Janeiro, Minas Gerais, Espírito Santo, Acre, Amazonas, Mato Grosso do Sul, Pará, Rio Grande do Norte, Piauí, Alagoas, Ceará, Amapá e Distrito Federal autorizados a conceder crédito fiscal presumido do ICMS equivalente ao percentual de 50% (cinqüenta por cento) do valor de aquisição de Equipamento Emissor de Cupom Fiscal - ECF que atenda aos requisitos definidos no Convênio ICMS 156/94, de 7 de dezembro de 1994, bem como leitor ótico de código de barras e impressora de código de barras.
+
+**§ 1º** A apropriação do crédito fiscal de que trata esta cláusula poderá ser autorizada em até 18 (dezoito) parcelas iguais, mensais e sucessivas, a partir do período de apuração imediatamente posterior àquele em que houver ocorrido o início da efetiva utilização do equipamento na forma prevista no Convênio ICMS 156/94, de 7 de dezembro de 1994.
+
+**§ 2º** Na hipótese de venda do equipamento ou sua transferência para outro estado em prazo inferior a 2 (dois) anos, a contar do início da efetiva utilização do mesmo, o crédito fiscal de que trata esta cláusula deverá ser anulado, integralmente, no mesmo período de apuração em que houver sido efetuada a venda ou a transferência.
+
+**§ 3º** O disposto nesta cláusula somente se aplica às aquisições de ECF em que o início da efetiva utilização, nos termos do Convênio ICMS 156/94, de 7 de dezembro de 1994, ocorra até 31 de dezembro de 1996."
+
+**Cláusula segunda**
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Fortaleza, CE, 31 de maio de 1996.

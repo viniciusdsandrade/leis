@@ -1,0 +1,64 @@
+---
+titulo: "Convênio ICMS nº 92, de 28 de julho de 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "92"
+data: 2026-07-28
+ementa: "Autoriza a dispensa de juros e multas mediante pagamento à vista de débitos fiscais relacionados com o ICMS."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 29.07.26, pelo despacho 35/26."
+data_publicacao: "2026-07-29"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV092_26"
+sha256_html_fonte: "a5960b824698789fccab02302b8ffceeb38fc617528071841603ecb030fac6b1"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 92, de 28 de julho de 2026
+
+CONVÊNIO ICMS Nº 92, DE 28 DE JULHO DE 2026
+
+Publicado no DOU de 29.07.26, pelo despacho 35/26.
+
+Ratificação Nacional no DOU de 17.08.26, pelo Ato Declaratório 18/26.
+
+Alterado pelos Conv. ICMS 120/26.
+
+Autoriza a dispensa de juros e multas mediante pagamento à vista de débitos fiscais relacionados com o ICMS.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 428ª Reunião Extraordinária, realizada em Brasília, DF, no dia 28 de julho de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** O Estado da Paraíba fica autorizado a instituir programa de quitação incentivada de débitos fiscais relacionados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – Regularidade Fiscal vencidos até 30 de junho de 2026, inscritos ou não em dívida ativa, inclusive ajuizados, observadas as condições e limites estabelecidos neste convênio.
+
+**Parágrafo único.** O débito será consolidado, de forma individualizada, na data do pedido de ingresso no programa, com todos os acréscimos legais previstos na legislação vigente na data dos respectivos fatos geradores ou vencimento da obrigação tributária.
+
+Nova redação dada à cláusula segunda pelo Conv. ICMS 120/26, efeitos a partir de 19.10.26.
+
+**Cláusula segunda** O débito consolidado poderá ser pago, exclusivamente, à vista, em parcela única, com redução de até 100% (cem por cento) das multas punitivas e moratórias, das multas acessórias e dos juros de mora, desde que o saldo remanescente seja pago até 23 de dezembro de 2026.
+
+Redação original, efeitos até 18.10.26.
+
+Cláusula segunda O débito consolidado poderá ser pago, exclusivamente, à vista, em parcela única, com redução de 100% (cem por cento) das multas punitivas e moratórias, das multas acessórias e dos juros de mora, desde que o saldo remanescente seja pago até 23 de dezembro de 2026.
+
+**Cláusula terceira** A quitação incentivada de débitos fiscais de que trata este convênio fica condicionada a que o contribuinte:
+
+I - efetue o pagamento dos débitos tributários até a data estabelecida na legislação estadual que internalizar este convênio;
+
+II – esteja em dia com os demais pagamentos não incluídos nesse programa até a data da homologação (pagamento da cota única);
+
+III - cumpra outras condições expressamente previstas na legislação tributária estadual.
+
+**Parágrafo único.** A formalização de pedido de ingresso no programa implica o reconhecimento dos débitos tributários nele incluídos, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam, nos autos judiciais respectivos e da desistência de eventuais impugnações, defesas e recursos apresentados no âmbito administrativo.
+
+**Cláusula quarta** Legislação estadual poderá dispor sobre:
+
+I - a redução do valor dos honorários advocatícios;
+
+II - o percentual de redução de juros e multas, observados os limites e os prazos estabelecidos neste convênio;
+
+III - outras condições para a concessão dos benefícios tratados neste convênio.
+
+**Cláusula quinta** Legislação estadual fixará o prazo máximo de opção do contribuinte.
+
+**Cláusula sexta** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

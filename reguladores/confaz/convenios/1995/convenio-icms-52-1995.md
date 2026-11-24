@@ -1,0 +1,80 @@
+---
+titulo: "Convênio ICMS nº 52, de 28 de junho de 1995"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "52"
+data: 1995-06-28
+ementa: "Dispõe sobre redução da base de cálculo do ICMS e regime de substituição tributária, nas operações com veículos automotores de que tratam os Convênios ICMS 37/92, de 03.04.92 132/92, de 25.09.92 e 52/93, de 30.04.93."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.06.95."
+data_publicacao: "1995-06-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV052_95"
+sha256_html_fonte: "d4a755814d3477f2f99f2f4fb381790076fbf0512aff404346a696814656fd52"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 52, de 28 de junho de 1995
+
+**CONVÊNIO ICMS 52/95**
+
+**Publicado no DOU de 30.06.95.**
+
+**Ratificação Nacional DOU de 19.07.95 pelo Ato COTEPE-ICMS**
+
+**05/95** .
+
+**Alterado pelo Conv. ICMS**
+
+**39/96** .
+
+**Prorrogado até 30.06.96 pelo Conv. ICMS**
+
+**121/95** .
+
+**Prorrogado até 31.12.96 pelo Conv. ICMS**
+
+**45/96** .
+
+**Prorrogado até 30.04.97 pelo Conv. ICMS**
+
+**102/96** .
+
+**Prorrogado até 30.06.97 pelo Conv. ICMS**
+
+**20/97** .
+
+**Prorrogado até 31.08.97 pelo Conv. ICMS**
+
+**48/97** .
+
+**Prorrogado até 31.12.97 pelo Conv. ICMS**
+
+**67/97** .
+
+**Dispõe sobre redução da base de cálculo do ICMS e regime de substituição tributária, nas operações com veículos automotores de que tratam os Convênios ICMS 37/92, de 03.04.92 132/92, de 25.09.92 e 52/93, de 30.04.93.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 78ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 28 de junho de 1995, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam os Estados e o Distrito Federal autorizados a reduzir a base de cálculo do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS nas operações internas e de importação com veículos automotores de que tratam os Convênios ICMS 37/92 , de 3 de abril de 1992, 132/92 , de 25 de setembro de 1992, e 52/93 , de 30 de abril de 1993, de forma que sua aplicação resulte numa carga tributária nunca inferior a 12% (doze por cento).
+
+Acrescido o parágrafo único pelo Conv. ICMS 39/96, efeitos a partir de 26.06.96.
+
+**Parágrafo único.** Para efeito de exigência do ICMS devido em razão do diferencial de alíquota, o Estado onde se localiza o destinatário dos produtos de que trata este Convênio reduzirá a base de cálculo do imposto, de tal forma que a carga tributária total corresponda ao percentual nominado na cláusula primeira.
+
+Cláusula segunda
+
+O benefício contido na cláusula anterior fica condicionado à adoção do regime de substituição tributária, exceto com relação aos veículos elencados no Convênio ICMS 37/92 .
+
+Cláusula terceira
+
+Fica dispensado o estorno do crédito previsto no inciso II do art. 32 do Anexo único do Convênio ICM 66/88 , de 14 de dezembro de 1988.
+
+Cláusula quarta
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos de 1º de julho a 31 de dezembro de 1995.
+
+Brasília, DF, 28 de junho de 1995.

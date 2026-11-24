@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICM nº 29, de 11 de setembro de 1984"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "29"
+data: 1984-09-11
+ementa: "Autoriza o Estado de Sergipe a dispensar multas a estabelecimento que menciona."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 13.09.84."
+data_publicacao: "1984-09-13"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1984/CV029_84"
+sha256_html_fonte: "5e0866382b3842d0687dd93c4f09c472ad70a86b0a2d0b9b815072c6426a8f61"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 29, de 11 de setembro de 1984
+
+**CONVÊNIO ICM 29/84**
+
+**Publicado no DOU de 13.09.84.**
+
+**Ratificação Nacional DOU de 05.10.84 pelo Ato COTEPE-ICM**
+
+**04/84** .
+
+**Autoriza o Estado de Sergipe a dispensar multas a estabelecimento que menciona.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 35ª Reunião Ordinária do Conselho de Política Fazendária, realizada no dia 11 de setembro de 1984, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado de Sergipe autorizado a dispensar o pagamento de multas integrantes do crédito tributário, constituídos, até 31 de agosto de 1984, relativamente ao Imposto sobre Operações Relativas à Circulação de Mercadorias - ICM, decorrentes de operações realizadas pela empresa Agro-Industrial Grande Vale Ltda.
+
+Cláusula segunda
+
+O disposto neste convênio não autoriza a restituição ou compensação de importâncias já pagas.
+
+Cláusula terceira
+
+Este convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 11 de setembro de 1984.

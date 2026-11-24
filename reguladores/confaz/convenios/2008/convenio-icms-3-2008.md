@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 3, de 4 de abril de 2008"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "3"
+data: 2008-04-04
+ementa: "Autoriza os Estados de Mato Grosso e Pará a conceder remissão e anistia dos débitos do ICMS, constantes do Sistema de Conta Corrente Fiscal, mantido no âmbito da Secretaria de Estado de Fazenda de Mato Grosso."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.04.08, pelo Despacho 19/08 ."
+data_publicacao: "2008-04-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV003_08"
+sha256_html_fonte: "2957d4aa851462b98c6309f85a6a0df53ae5509bebfddd99f09cd929e3550380"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 3, de 4 de abril de 2008
+
+CONVÊNIO ICMS 3, DE 4 DE ABRIL DE 2008
+
+· Publicado no DOU de 09.04.08, pelo Despacho 19/08 .
+
+· Ratificação Nacional DOU de 30.04.08, pelo Ato Declaratório 03/08 .
+
+**Autoriza os Estados de Mato Grosso e Pará a conceder remissão e anistia dos débitos do ICMS, constantes do Sistema de Conta Corrente Fiscal, mantido no âmbito da Secretaria de Estado de Fazenda de Mato Grosso.**
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** , na sua 129ª reunião ordinária, realizada Rio de Janeiro, RJ, no dia 4 de abril de 2008 , tendo em vista o disposto na Lei Complementar n o 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam os Estados de Mato Grosso e Pará autorizados a conceder remissão e anistia dos débitos do ICMS, constantes do Sistema de Conta Corrente Fiscal, mantido no âmbito das Secretarias de Estado da Fazenda de Mato Grosso e Pará, relativos a fatos geradores ocorridos entre 1º de janeiro de 2002 e 31 de dezembro de 2003, cujos valores totais não sejam superiores a R$ 2.000,00 (dois mil reais) em 31 de julho de 2007.
+
+**Cláusula segunda** O disposto na cláusula primeira não se aplica aos débitos incluídos em Notificação/Auto de Infração, Aviso de Cobrança ou que foram objeto de acordo de parcelamento, bem como aqueles decorrentes de conduta que tipifique crime ou contravenção ou no caso de dolo, fraude ou simulação.
+
+**Cláusula terceira** A dispensa da exigência do crédito tributário de que trata a cláusula primeira:
+
+I - será efetivada na forma e condições que dispuser a legislação estadual;
+
+II - fica condicionada à desistência de qualquer processo administrativo ou judicial;
+
+III - não autoriza a restituição ou compensação de importâncias já pagas.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Rio de Janeiro, RJ, 4 de abril de 2008.

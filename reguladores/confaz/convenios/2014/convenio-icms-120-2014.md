@@ -1,0 +1,40 @@
+---
+titulo: "Convênio ICMS nº 120, de 5 de dezembro de 2014"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "120"
+data: 2014-12-05
+ementa: "Altera o Convênio ICMS 133/08, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas operações com produtos nacionais e estrangeiros destinados aos Jogos Olímpicos e Paraolímpicos de 2016."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 10.12.14, pelo Despacho 222/14."
+data_publicacao: "2014-12-10"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV120_14"
+sha256_html_fonte: "b044c1810a9d734a3370cf66cfd9e4469fac20324730835ef5222f5299529014"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 120, de 5 de dezembro de 2014
+
+CONVÊNIO ICMS 120, DE 5 DE DEZEMBRO DE 2014
+
+Publicado no DOU de 10.12.14, pelo Despacho 222/14.
+
+Ratificação Nacional no DOU de 30.12.14, pelo Ato Declaratório 19/14.
+
+Altera o Convênio ICMS 133/08, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS nas operações com produtos nacionais e estrangeiros destinados aos Jogos Olímpicos e Paraolímpicos de 2016.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 155ª reunião ordinária, realizada em São Paulo, SP, no dia 5 de dezembro de 2014, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Fica acrescida a cláusula quarta-C ao Convênio ICMS 133/08, de 5 de dezembro de 2008, com a seguinte redação:
+
+“Cláusula quarta-C A critério das unidades federadas, poderá ser dispensada a exigência da Guia para a Liberação de Mercadoria Estrangeira sem Comprovação do Recolhimento do ICMS (GLME) nas importações de mercadoria ou bem relacionados com os jogos Olímpicos e Paraolímpicos de 2016 despachados sob amparo do Regime Aduaneiro Especial de Admissão Temporária, nos termos da legislação federal específica.
+
+**§ 1º** O ICMS, quando devido, será recolhido por ocasião do despacho aduaneiro de nacionalização da mercadoria ou bem importados ou nas hipóteses de extinção do regime aduaneiro especial previstas na legislação federal, nos termos da legislação estadual.
+
+**§ 2º** O transporte das mercadorias ou bens de que trata o § 1º desta cláusula far-se-á com cópia da Declaração Simplificada de Importação - DSI, conforme disposto em legislação específica, ou por documento que venha a substituí-lo, que deverá ser apresentado ao Fisco Estadual sempre que exigido.
+
+**§ 3º** Os Estados poderão firmar com a Secretaria da Receita Federal do Brasil (RFB) protocolo para o controle das operações das importações realizadas com base em normativa específica da Receita Federal do Brasil.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

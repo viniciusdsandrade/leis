@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 77, de 29 de junho de 2012"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "77"
+data: 2012-06-29
+ementa: "Altera o Convênio ICMS 103/03, que autoriza os Estados de Alagoas, Amapá, Amazonas, Paraíba, Piauí, Rio Grande do Norte, Roraima e o Distrito Federal a dispensar ou reduzir juros e multas e a conceder parcelamento de débitos fiscais relacionados com o ICM e o ICMS."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 02.07.12 , pelo Despacho 118/12."
+data_publicacao: "2012-07-02"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV077_12"
+sha256_html_fonte: "3973b38f8574936b6d9b699fd4df1d4c3349274a6162cf67d0e22e00382819bb"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 77, de 29 de junho de 2012
+
+CONVÊNIO ICMS 77, DE 29 DE JUNHO DE 2012
+
+Publicado no DOU de 02.07.12 , pelo Despacho 118/12.
+
+Ratificação Nacional no DOU de 19 .07.12 , pelo Ato Declaratório 12/12
+
+Altera o Convênio ICMS 103/03, que autoriza os Estados de Alagoas, Amapá, Amazonas, Paraíba, Piauí, Rio Grande do Norte, Roraima e o Distrito Federal a dispensar ou reduzir juros e multas e a conceder parcelamento de débitos fiscais relacionados com o ICM e o ICMS.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ** , na sua 178ª reunião extraordinária, realizada em Brasília, DF, no dia 29 de junho de 2012, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Ficam acrescentados os seguintes dispositivos ao Convênio ICMS 103/03 , de 17 de outubro de 2003, com a seguinte redação:
+
+I – o § 4º à cláusula sexta:
+
+“§ 4° Fica facultada ao Estado de Alagoas reativar o parcelamento revogado na forma desta cláusula, que esteja na esfera administrativa ou judicial, feito em razão da transação prevista no convênio ICMS 127/03, desde que o contribuinte:
+
+I - regularize todas as pendências que ocasionaram a revogação, até 30 de novembro de 2012;
+
+II - cumpra as demais exigências estabelecida pela Secretaria de Estado da Fazenda.”.
+
+II – o § 5º à cláusula sexta:
+
+“§ 5º As parcelas a vencer não poderão ser estendidas em função da reativação prevista no § 4º, sendo permitida a inclusão no parcelamento das parcelas vencidas.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

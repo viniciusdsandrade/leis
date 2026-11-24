@@ -1,0 +1,38 @@
+---
+titulo: "Convênio ICM nº 25, de 10 de dezembro de 1981"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "25"
+data: 1981-12-10
+ementa: "Dá nova redação à Cláusula primeira do Convênio AE 15/74, de 11 de dezembro de 1974."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 14.12.81."
+data_publicacao: "1981-12-14"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1981/CV025_81"
+sha256_html_fonte: "3e88ad7ef41a33cf7969181f3cbb56286e9a7eaca285970f547785bca2d9977c"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 25, de 10 de dezembro de 1981
+
+CONVÊNIO ICM 25/81
+
+· Publicado no DOU de 14.12.81.
+
+· Ratificação Nacional DOU de 30.12.81 pelo Ato COTEPE-ICM 07/81 .
+
+Dá nova redação à Cláusula primeira do Convênio AE 15/74, de 11 de dezembro de 1974.
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 25ª reunião ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 10 de dezembro de 1981, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** A **cláusula primeira** do Convênio AE 15/74 , de 11 de dezembro de 1974, passa a vigorar com a seguinte redação:
+
+"Cláusula primeira Os signatários acordam em conceder suspensão do imposto sobre operações relativas à circulação de mercadorias nas remessas interestaduais de produtos destinados à conserto, reparo ou industrialização, desde que as mesmas retornem ao estabelecimento de origem no prazo de 180 (cento e oitenta) dias, contados da data das respectivas saídas, prorrogáveis por mais cento e oitenta dias.
+
+**Parágrafo único.** O disposto nesta cláusula não se aplica às saídas de sucatas e de produtos primários de origem animal ou vegetal, salvo se a remessa e o retorno se fizerem nos termos de protocolos celebrados entre os Estados interessados."
+
+**Cláusula segunda** Este convênio entrará em vigor na data da publicação de sua ratificação nacional,.
+
+Brasília, DF, 10 de dezembro de 1981.

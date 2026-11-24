@@ -1,0 +1,42 @@
+---
+titulo: "Convênio ICMS nº 114, de 7 de dezembro de 2001"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "114"
+data: 2001-12-07
+ementa: "Prorroga o prazo previsto na cláusula primeira do Convênio ICMS 93/00, de 15.12.00, prorrogado pelo Convênio ICMS 64/01, de 06.07.01, que estabelece prazo para uso de bobina de papel confeccionada em conformidade com as exigências e requisitos previstos no Convênio ICMS 156/94, de 07.12.94."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 14.12.01."
+data_publicacao: "2001-12-14"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV114_01"
+sha256_html_fonte: "1fba77dbea836c2d9c38f0c2b5b81fa939ea01612269116cf951d7d1bb042584"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 114, de 7 de dezembro de 2001
+
+**CONVÊNIO ICMS 114/01**
+
+**Publicação DOU de 14.12.01.**
+
+**Prorroga o prazo previsto na cláusula primeira do Convênio ICMS 93/00, de 15.12.00, prorrogado pelo Convênio ICMS 64/01, de 06.07.01, que estabelece prazo para uso de bobina de papel confeccionada em conformidade com as exigências e requisitos previstos no Convênio ICMS 156/94, de 07.12.94.**
+
+O Conselho Nacional de Política Fazendária - CONFAZ , na sua 104ª reunião ordinária, realizada em Brasília, DF, no dia 7 de dezembro de 2001, tendo em vista o disposto no art. 199 do Código Tributário Nacional (Lei 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica permitido, até 30 de junho de 2002, o uso de bobina de papel confeccionada de acordo com os requisitos definidos nos §§ 11 e 12, da cláusula décima terceira do Convênio ICMS 156/94 , de 7 de dezembro de 1994 e nas cláusulas octogésima quarta e octogésima quinta do Convênio ICMS 50/00 , de 15 de setembro de 2000, existente em estoque na data da vigência deste convênio.
+
+**Parágrafo único.** O contribuinte usuário da bobina lavrará termo no livro Registro de Utilização de Documentos Fiscais e Termos de Ocorrência, modelo 6, ou em outra forma estabelecida pela unidade federada a que estiver vinculado, indicando o estoque existente no estabelecimento, na data prevista no "caput".
+
+Cláusula segunda
+
+Fica prorrogado para 30 de junho de 2002 o prazo previsto na cláusula primeira do Convênio ICMS 93/00 , de 15 de dezembro de 2000.
+
+Cláusula terceira
+
+Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
+
+Brasília, DF, 7 de dezembro de 2001.

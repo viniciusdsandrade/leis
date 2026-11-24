@@ -1,0 +1,42 @@
+---
+titulo: "Convênio ICMS nº 37, de 5 de abril de 2019"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "37"
+data: 2019-04-05
+ementa: "Dispõe sobre a exclusão do Estado do Amazonas e altera o Convênio ICMS 24/18, que autoriza os Estados do Amazonas e Goiás a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.04.19, pelo Despacho 17/19."
+data_publicacao: "2019-04-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV037_19"
+sha256_html_fonte: "cb3a38fb16c2c0efc028f015ba7c759e69f6042f150dd8e384bb4d484083cb65"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 37, de 5 de abril de 2019
+
+CONVÊNIO ICMS 37/19, DE 5 DE ABRIL DE 2019
+
+Publicado no DOU de 09.04.19, pelo Despacho 17/19.
+
+Ratificação Nacional no DOU de 24.04.19, pelo Ato Declaratório 5/19.
+
+Dispõe sobre a exclusão do Estado do Amazonas e altera o Convênio ICMS 24/18, que autoriza os Estados do Amazonas e Goiás a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 172ª Reunião Ordinária, realizada em Brasília, DF, no dia 5 de abril de 2019, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Fica o Estado de Amazonas excluído do Convênio ICMS 24/18, de 3 de abril de 2018.
+
+**Cláusula segunda** Ficam alterados os dispositivos a seguir indicados do Convênio ICMS 24/18, que passam a vigorar com as seguintes redações:
+
+I – a ementa:
+
+“Autoriza o Estado de Goiás a conceder redução da base de cálculo do ICMS no fornecimento de refeição promovido por bares, restaurantes e estabelecimentos similares.”;
+
+II – o caput da cláusula primeira:
+
+“Cláusula primeira Fica o Estado de Goiás autorizado a conceder, na forma e condições estabelecidas em sua legislação, redução de base de cálculo de ICMS de forma que a carga tributária seja equivalente a aplicação do percentual de 7% (sete por cento) sobre o valor do fornecimento de refeições promovido por bares, restaurantes e estabelecimentos similares, assim como no fornecimento interno promovido por empresas preparadoras de refeições coletivas, excetuando, em qualquer das hipóteses, o fornecimento ou a saída de bebidas.”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação no Diário Oficial da União de sua ratificação nacional.

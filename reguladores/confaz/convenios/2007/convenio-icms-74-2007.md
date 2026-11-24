@@ -1,0 +1,80 @@
+---
+titulo: "Convênio ICMS nº 74, de 6 de julho de 2007"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "74"
+data: 2007-07-06
+ementa: "Autoriza os Estados de Goiás, Rio Grande do Sul e Santa Catarina a revogar benefício fiscal de ICMS previsto no Convênio ICMS 100/97, que dispõe sobre benefícios fiscais nas saídas de insumos agropecuários."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.07.07, pelo Despacho 51/07."
+data_publicacao: "2007-07-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV074_07"
+sha256_html_fonte: "e078f1ef70b7daf6d9f088e0e8d22eef0a8c5e00fb5b67bc5cfc8173b6359a92"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 74, de 6 de julho de 2007
+
+CONVÊNIO ICMS 74, DE 6 DE JULHO DE 2007
+
+Publicado no DOU de 12.07.07, pelo Despacho 51/07.
+
+Ratificação Nacional DOU de 31.07.07, pelo Ato Declaratório 11/07.
+
+Adesão da BA, SE e DF, a partir de 30.04.08, pelo Conv. ICMS 29/08.
+
+Adesão de RO, a partir de 03.08.11, pelo Conv. ICMS 53/11.
+
+Alterado pelos Convs. ICMS 15/12, 37/17, 59/17, 137/18, 17/19, 4/21.
+
+Adesão do PR, PI e SP, a partir de 03.05.17, pelo Conv. ICMS 37/17.
+
+Adesão do AC, a partir de 07.06.17, pelo Conv. ICMS 59/17.
+
+Adesão do MS, a partir de 14.12.18, pelo Conv. ICMS 137/18.
+
+Adesão de PE, RN e TO, a partir de 01.04.19, pelo Conv. ICMS 17/19.
+
+Adesão de MA, a partir de 01.01.21, pelo Conv. ICMS 4/21.
+
+Nova redação dada à ementa pelo Conv. ICMS 15/12, efeitos a partir de 01.06.12.
+
+Autoriza as unidades federadas que menciona a revogar benefício fiscal de ICMS previsto no Convênio ICMS 100/97, que dispõe sobre benefícios fiscais nas saídas de insumos agropecuários.
+
+Redação original, efeitos até 31.05.12.
+
+Autoriza os Estados de Goiás, Rio Grande do Sul e Santa Catarina a revogar benefício fiscal de ICMS previsto no Convênio ICMS 100/97, que dispõe sobre benefícios fiscais nas saídas de insumos agropecuários.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 126ª reunião ordinária, realizada em Domingos Martins, ES, no dia 6 de julho de 2007,tendo em vista o disposto na Lei Complementar nº. 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Nova redação dada à cláusula primeira pelo Conv. ICMS 04/21, efeitos a partir de 01.01.21.
+
+**Cláusula primeira** Ficam os Estados do Acre, Bahia, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Paraná, Pernambuco, Piauí, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e Tocantins e o Distrito Federal autorizados a revogar o benefício de manutenção do crédito do Imposto sobre Operações relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS - autorizados nos termos do inciso I do caput da cláusula quinta do Convênio ICMS 100/97, de 4 de novembro de 1997.
+
+Redação anterior dada à cláusula primeira pelo Conv. ICMS 17/19, efeitos de 01.04.19 a 31.12.20.
+
+Cláusula primeira Ficam os Estados do Acre, Bahia, Goiás, Mato Grosso, Mato Grosso do Sul, Paraná, Pernambuco, Piauí, Rio Grande do Norte, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e Tocantins e o Distrito Federal autorizados a revogar o benefício de manutenção do crédito do ICMS autorizado nos termos do inciso I do caput da cláusula quinta do Convênio ICMS 100/97, de 4 de novembro de 1997.
+
+Redação anterior dada à cláusula primeira pelo Conv. ICMS 137/18, efeitos de 14.12.18 a 31.03.19.
+
+Cláusula primeira Ficam os Estados do Acre, Bahia, Goiás, Mato Grosso, Mato Grosso do Sul, Paraná, Piauí, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e o Distrito Federal autorizados a revogar o benefício de manutenção do crédito do ICMS autorizado nos termos do inciso I do caput da cláusula quinta do Convênio ICMS 100/97, de 4 de novembro de 1997.
+
+Redação anterior dada à cláusula primeira pelo Conv. ICMS 59/17, efeitos de 07.06.17 até 13.12.18.
+
+Cláusula primeira Ficam os Estados do Acre, Bahia, Goiás, Mato Grosso, Paraná, Piauí, Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e o Distrito Federal autorizados a revogar o benefício de manutenção do crédito do ICMS autorizado nos termos do inciso I do *caput* da cláusula quinta do Convênio ICMS 100/97, de 4 de novembro de 1997.
+
+Redação anterior dada à cláusula primeira pelo Conv. ICMS 37/17, efeitos de 03.05.17 a 06.06.17.
+
+Cláusula primeira Ficam os Estados da Bahia, Goiás, Mato Grosso, Paraná, Piauí; Rio Grande do Sul, Rondônia, Santa Catarina, São Paulo, Sergipe e o Distrito Federal autorizados a revogar o benefício de manutenção do crédito do ICMS autorizado nos termos do inciso I do caput da cláusula quinta do Convênio ICMS 100/97, de 4 de novembro de 1997.
+
+Redação anterior dada à cláusula primeira pelo Conv. ICMS 15/12, efeitos de 01.06.12 a 02.05.17.
+
+Cláusula primeira Ficam os Estados da Bahia, Goiás, Mato Grosso, Rio Grande do Sul, Rondônia, Santa Catarina, Sergipe e o Distrito Federal autorizados a revogar o benefício de manutenção do crédito do ICMS autorizado nos termos do inciso I do *caput* da cláusula quinta do Convênio ICMS 100/97, de 4 de novembro de 1997.
+
+Redação original, efeitos até 31.05.12.
+
+Cláusula primeira Ficam os Estados de Goiás, Rio Grande do Sul e Santa Catarina autorizados a revogar o benefício de manutenção do crédito do ICMS autorizado nos termos do inciso I do “caput” da cláusula quinta do Convênio ICMS 100/97, de 4 de novembro de 1997.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

@@ -1,0 +1,42 @@
+---
+titulo: "Convênio ICMS nº 152, de 18 de outubro de 2013"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "152"
+data: 2013-10-18
+ementa: "Autoriza o Estado do Acre a não exigir o ICMS relativo à diferença entre a alíquota de 17% e a carga tributária adotada para as operações internas a que se refere o Convênio ICMS 91/12."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 21.10.13, pelo Despacho 218/13 ."
+data_publicacao: "2013-10-21"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV152_13"
+sha256_html_fonte: "5a6cb666576c0ddf1d24a936cc43a0d9a3df3ed9656af660b36ed03a3e57a1df"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 152, de 18 de outubro de 2013
+
+CONVÊNIO ICMS 152, DE 18 DE OUTUBRO DE 2013
+
+Publicado no DOU de 21.10.13, pelo Despacho 218/13 .
+
+Ratificação Nacional no DOU de 13.11.13, pelo Ato Declaratório 21/13 .
+
+Autoriza o Estado do Acre a não exigir o ICMS relativo à diferença entre a alíquota de 17% e a carga tributária adotada para as operações internas a que se refere o Convênio ICMS 91/12.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 207ª reunião extraordinária, realizada em Brasília, DF, no dia 18 de outubro de 2013, tendo em vista o disposto na Lei Complementar Federal nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte:
+
+CONVÊNIO
+
+**Cláusula primeira** Fica o Estado do Acre autorizado a não exigir o ICMS, lançado ou não, relativo à diferença entre a alíquota de 17% e a carga tributária adotada para as operações internas a que se refere o Convênio ICMS 91/12, de 28 de setembro de 2012, no período de 1º de janeiro de 2008 a 31 de outubro de 2012.
+
+**Parágrafo único.** O disposto nesta cláusula se aplica inclusive aos juros moratórios e multas.
+
+**Cláusula segunda** O disposto neste Convênio:
+
+I - não autoriza a restituição ou a compensação de importâncias já pagas;
+
+II - não se aplica a contribuintes com ICMS apurado na forma do Simples Nacional.
+
+**Cláusula terceira** Fica o Estado do Acre autorizado a estabelecer os limites e as condições para não exigência do imposto e da multa referenciados neste Convênio.
+
+**Cláusula quarta** Este convênio entra em vigor na data da publicação de sua ratificação nacional.

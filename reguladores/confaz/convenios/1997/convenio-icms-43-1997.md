@@ -1,0 +1,40 @@
+---
+titulo: "Convênio ICMS nº 43, de 23 de maio de 1997"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "43"
+data: 1997-05-23
+ementa: "Exclui o Estado do Rio de Janeiro do Convênio ICMS 37/89, de 24.04.89, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na prestação de serviços de transporte de passageiros com características de transporte urbano ou metropolitano."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 30.05.97."
+data_publicacao: "1997-05-30"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV043_97"
+sha256_html_fonte: "4f622d69c7df623a827266a49f6d03b0458647ffb3026f7784fc7bbb264bf94f"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 43, de 23 de maio de 1997
+
+**CONVÊNIO ICMS 43/97**
+
+**Publicado no DOU de 30.05.97.**
+
+**Ratificação Nacional DOU de 16.06.97 pelo Ato COTEPE-ICMS**
+
+**07/97** .
+
+**Exclui o Estado do Rio de Janeiro do Convênio ICMS 37/89, de 24.04.89, que autoriza os Estados e o Distrito Federal a conceder isenção do ICMS na prestação de serviços de transporte de passageiros com características de transporte urbano ou metropolitano.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 86ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Palmas, TO, no dia 23 de maio de 1997, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado do Rio de Janeiro excluído do Convênio ICMS 37/89 , de 24 de abril de 1989.
+
+Cláusula segunda
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de julho de 1997.
+
+Palmas, TO, 23 de maio de 1997.

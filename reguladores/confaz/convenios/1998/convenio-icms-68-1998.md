@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 68, de 19 de junho de 1998"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "68"
+data: 1998-06-19
+ementa: "Altera o Convênio ICMS 93/97, de 26.9.97, que estabelece atribuições do Grupo de Trabalho encarregado do Sistema de Informações sobre Substituto Tributário-SIST e critérios de fiscalização de contribuintes no regime de substituição tributária."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 29.06.98."
+data_publicacao: "1998-06-29"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv068_98"
+sha256_html_fonte: "d38964d1982fbb9a4ae77d6483fde8dd56ea649bb382f5e4d21d78c1e87ca970"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 68, de 19 de junho de 1998
+
+**CONVÊNIO ICMS 68/98**
+
+**Publicado no DOU de 29.06.98.**
+
+**Altera o Convênio ICMS 93/97, de 26.9.97, que estabelece atribuições do Grupo de Trabalho encarregado do Sistema de Informações sobre Substituto Tributário-SIST e critérios de fiscalização de contribuintes no regime de substituição tributária.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 90ª reunião ordinária do Conselho Nacional de Política Fazendária, realizada no Campos do Jordão, SP, no dia 19 de junho de 1998, tendo em vista o disposto nos art. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966) e nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Passa a vigorar com a seguinte redação o inciso V da cláusula segunda do Convênio ICMS 93/97 , de 26 de setembro de 1997:
+
+"V - serão adotadas as medidas saneadoras e punitivas decorrentes das verificações efetuadas, em relação ao descumprimento de obrigações tributárias de natureza principal ou acessória previstas em acordos celebrados entre as unidades federadas, relacionadas com o imposto devido por substituição tributária;";
+
+**Cláusula segunda**
+
+Ficam acrescidos os §§ 2º e 3º à cláusula segunda do Convênio ICMS 93/97 , de 26 de setembro de 1997, com as redações que se seguem, renumerando-se para § 1º o seu atual parágrafo único:
+
+"§ 2º Na falta do livro Registro de Utilização de Documentos Fiscais e Termos de Ocorrências mencionado nesta cláusula, seja qual for o motivo alegado pelo contribuinte, deverão os termos de fiscalização serem lavrados em outro livro fiscal do ICMS ou em folha avulsa, mediante recibo do sujeito passivo".
+
+"§ 3º O credenciamento referido na alínea "a" do inciso I desta cláusula disporá sobre permanência dos agentes fiscais no estabelecimento sob fiscalização, sendo observada a legislação interna do Estado fiscalizador no tocante aos prazos aplicáveis a intimações e demais procedimentos fiscais decorrentes."
+
+**Cláusula terceira**
+
+Este convênio entra em vigor na data da sua publicação no Diário Oficial da União.
+
+Campos de Jordão, SP, 19 de junho de 1998.

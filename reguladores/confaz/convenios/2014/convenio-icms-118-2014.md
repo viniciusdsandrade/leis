@@ -1,0 +1,40 @@
+---
+titulo: "Convênio ICMS nº 118, de 5 de dezembro de 2014"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "118"
+data: 2014-12-05
+ementa: "Autoriza o Estado do Rondônia a conceder isenção do ICMS referente ao diferencial de alíquotas e a não exigir os débitos relacionados a essas operações, das empresas que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 10.12.14, pelo Despacho 222/14."
+data_publicacao: "2014-12-10"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV118_14"
+sha256_html_fonte: "83a1de2a9837f98ff6e53cdabc8b2c1569b8ccd02a44ed09f2d1de01af43e06b"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 118, de 5 de dezembro de 2014
+
+CONVÊNIO ICMS 118, DE 5 DE DEZEMBRO DE 2014
+
+Publicado no DOU de 10.12.14, pelo Despacho 222/14.
+
+Ratificação Nacional no DOU de 30.12.14, pelo Ato Declaratório 19/14.
+
+Autoriza o Estado do Rondônia a conceder isenção do ICMS referente ao diferencial de alíquotas e a não exigir os débitos relacionados a essas operações, das empresas que especifica.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 155ª reunião ordinária, realizada em São Paulo, SP, no dia 5 de dezembro de 2014, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Fica o Estado do Rondônia autorizado a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transportes Interestadual e Intermunicipal e de Comunicação - ICMS, referente ao diferencial de alíquotas, na entrada de mercadorias oriundas de outras unidades da federação, destinadas a integrar o ativo imobilizado ou para uso e consumo, exceto energia elétrica, das empresas a seguir relacionadas:
+
+I - Companhia de Águas e Esgotos de Rondônia - CAERD, CNPJ nº 05.914.254/0001-61;
+
+II - Serviço Autônomo de Água e Esgoto de Cacoal - SAAEC, CNPJ nº 04.395.067/0001-23;
+
+II - Empresa Pública de Desenvolvimento Urbano - EMDUR, CNPJ nº 04.763.223/0001-61.
+
+**Cláusula segunda** Fica o Estado de Rondônia autorizado a não exigir das empresas relacionadas nos incisos I a III do *caput* da cláusula primeira, os débitos decorrentes das obrigações tributárias, constituídas ou não, relacionadas com o ICMS, relativas a fatos geradores correspondentes às situações nela previstas, ocorridos até a vigência deste convênio.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

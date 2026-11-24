@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 74, de 3 de maio de 2010"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "74"
+data: 2010-05-03
+ementa: "Autoriza o Estado do Piauí a conceder isenção do ICMS nas saídas internas de geladeiras realizadas no âmbito do Projeto Doação e Troca de Geladeira para comunidade de baixa renda."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 04.05.10, pelo Despacho 359/10."
+data_publicacao: "2010-05-04"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV074_10"
+sha256_html_fonte: "d7a1624f95e1ba31f9b313b588821f05d28e45ff010eb54809365ecf7f9d5a89"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 74, de 3 de maio de 2010
+
+CONVÊNIO ICMS 74, DE 3 DE MAIO DE 2010
+
+Publicado no DOU de 04.05.10, pelo Despacho 359/10.
+
+Ratificação Nacional no DOU de 21.05.10, pelo Ato Declaratório 05/10.
+
+Prorrogado, até 30.04.14, pelo Conv. ICMS 104/11.
+
+Prorrogado, até 30.04.16, pelo Conv. ICMS 163/13.
+
+Prorrogado, até 31.05.15, pelo Conv. ICMS 191/13.
+
+Prorrogado, até 30.04.16, pelo Conv. ICMS 83/14.
+
+Prorrogado, até 30.04.17, pelo Conv. ICMS 27/16.
+
+Autoriza o Estado do Piauí a conceder isenção do ICMS nas saídas internas de geladeiras realizadas no âmbito do Projeto Doação e Troca de Geladeira para comunidade de baixa renda.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 147ª reunião extraordinária realizada em Brasília, DF, no dia 3 de maio de 2010, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Fica o Estado do Piauí autorizado a conceder isenção do ICMS nas saídas internas de geladeiras realizadas em doação pela Companhia Energética do Piauí - CEPISA para consumidores localizados neste Estado no âmbito do Projeto Doação e Troca de Geladeira para comunidade de baixa renda.
+
+**Parágrafo único.** As normas complementares à efetivação do referido benefício serão estabelecidas em legislação estadual.
+
+**Cláusula segunda** A inobservância das condições previstas na legislação acarretará a obrigação do recolhimento do imposto com os acréscimos devidos.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de abril de 2010 até 31 de dezembro de 2011.

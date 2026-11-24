@@ -1,0 +1,54 @@
+---
+titulo: "Convênio ICMS nº 60, de 6 de julho de 2007"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "60"
+data: 2007-07-06
+ementa: "Autoriza os Estados da Bahia e de Rondônia a conceder isenção do ICMS relativo à parcela da subvenção da tarifa de energia elétrica estabelecida pela Lei nº 10.604/02."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 12.07.07, pelo Despacho nº 51/07."
+data_publicacao: "2007-07-12"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV060_07"
+sha256_html_fonte: "1713a1ce680c2088784120f5ddcd7d4250c9535215cf98827f55c3a0c113d528"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 60, de 6 de julho de 2007
+
+CONVÊNIO ICMS 60, DE 6 DE JULHO DE 2007
+
+Publicado no DOU de 12.07.07, pelo Despacho nº 51/07.
+
+Ratificação Nacional DOU de 31.07.07, pelo Ato Declaratório 11/07.
+
+Adesão de MG pelo Conv. ICMS 21/08 , efeitos a partir de 01.05.08.
+
+Adesão de SC pelo Conv. ICMS 112/09 , efeitos a partir de 01.01.10.
+
+Adesão do RS pelo Conv. ICMS 114/19, efeitos a partir de 26.07.19.
+
+Adesão de ES e MS pelo Conv ICMS 39/20, efeitos a partir de 04.05.20.
+
+Nova redação dada à ementa pelo Conv. ICMS 114/19, efeitos a partir de 26.07.19.
+
+Autoriza as unidades federadas que menciona a conceder isenção de ICMS relativo à parcela da subvenção da tarifa de energia elétrica nos termos das Leis nº 10.604, de 17 de dezembro de 2002, e nº 12.212, de 20 de janeiro de 2010.
+
+Redação original, efeitos até 25.07.19.
+
+Autoriza os Estados da Bahia e de Rondônia a conceder isenção do ICMS relativo à parcela da subvenção da tarifa de energia elétrica estabelecida pela Lei nº 10.604/02.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 126ª reunião ordinária, realizada em Domingos Martins, ES, no dia 6 de julho de 2007, tendo em vista o disposto na Lei Complementar nº. 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Nova redação dada à cláusula primeira pelo Conv. ICMS 114/19, efeitos a partir de 26.07.19.
+
+**Cláusula primeira** Ficam os Estados da Bahia, Minas Gerais, Rondônia, Rio Grande do Sul e Santa Catarina autorizados a conceder isenção do ICMS relativo à parcela da subvenção da tarifa de energia elétrica estabelecida pelas Leis nº 10.604, de 17 de dezembro de 2002, e nº 12.212, de 20 de janeiro de 2010, no respectivo fornecimento a consumidores enquadrados na "subclasse Residencial de Baixa Renda", de acordo com as condições fixadas nas Resoluções nº 246, de 30 de abril de 2002, nº 485, de 29 de agosto de 2002 e nº 431, de 29 de março de 2011, da Agência Nacional de Energia Elétrica - ANEEL.
+
+**Parágrafo único.** A partir de 20 de janeiro de 2010, a definição de Subclasse Residencial Baixa Renda, referida no caput desta cláusula, passa a ser feita com base na Lei nº 12.212, de 20 de janeiro de 2010.
+
+Redação original, efeitos até 25.07.19.
+
+Cláusula primeira Ficam os Estados da Bahia e de Rondônia autorizados a conceder isenção do ICMS relativo à parcela da subvenção da tarifa de energia elétrica estabelecida pela Lei nº 10.604, de 17 de dezembro de 2002, no respectivo fornecimento a consumidores enquadrados na “subclasse Residencial de Baixa Renda”, de acordo com as condições fixadas nas Resoluções nº 246, de 30 de abril de 2002, e nº 485, de 29 de agosto de 2002, da Agência Nacional de Energia Elétrica - ANEEL.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de maio de 2007.

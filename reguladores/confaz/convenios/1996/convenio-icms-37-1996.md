@@ -1,0 +1,48 @@
+---
+titulo: "Convênio ICMS nº 37, de 31 de maio de 1996"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "37"
+data: 1996-05-31
+ementa: "Altera dispositivos do Convênio ICMS 49/95, de 28.06.95, que dispõe sobre concessão de regime especial à Companhia Nacional de Abastecimento-CONAB."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 07.06.96."
+data_publicacao: "1996-06-07"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV037_96"
+sha256_html_fonte: "67c5f3d5fcfb9caf8095f2f0742b4f6eb82d8a7839aa8a3115ee2e15cff2ee8e"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 37, de 31 de maio de 1996
+
+**CONVÊNIO ICMS 37/96**
+
+**Publicado no DOU de 07.06.96.**
+
+**Ratificação Nacional DOU de 26.06.96 pelo Ato COTEPE-ICMS**
+
+**05/96** .
+
+**Altera dispositivos do Convênio ICMS 49/95, de 28.06.95, que dispõe sobre concessão de regime especial à Companhia Nacional de Abastecimento-CONAB.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 82ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Fortaleza, CE, no dia 31 de maio de 1996, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica acrescentado o § 7º à cláusula décima do Convênio ICMS 49/95 , de 28 de junho de 1995:
+
+"§ 7º Aplica-se o disposto nesta cláusula às operações de remessa, real ou simbólica, de mercadorias para depósito em fazendas ou sítios promovidas pela CONAB, bem como o seu respectivo retorno à mesma, desde que, em cada caso, seja previamente autorizada pelo Fisco."
+
+**Cláusula segunda**
+
+A cláusula décima primeira do Convênio ICMS 49/95 , de 28 de junho de 1995, passa a vigorar com a seguinte redação:
+
+"Cláusula décima primeira O imposto devido pela CONAB/PGPM será recolhido até o 20º dia do mês subseqüente ao da ocorrência do fato gerador ou das datas previstas no § 2º da cláusula anterior."
+
+**Cláusula terceira**
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Fortaleza, CE, 31 de maio de 1996.

@@ -1,0 +1,48 @@
+---
+titulo: "Convênio ICM nº 34, de 6 de dezembro de 1983"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "34"
+data: 1983-12-06
+ementa: "Autoriza dispensa de juros e multas de mora e parcelamento de crédito tributário de Cooperativas que menciona e permite outras providências."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.12.83."
+data_publicacao: "1983-12-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1983/CV034_83"
+sha256_html_fonte: "b0441817402e068fd2a440eea96ccfa5823c1d2df0164e65cc26d24a9d6fdace"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 34, de 6 de dezembro de 1983
+
+**CONVÊNIO ICM 34/83**
+
+**Publicado no DOU de 09.12.83.**
+
+**Ratificação Nacional DOU de 27.12.83 pelo Ato COTEPE-ICM**
+
+**08/83** .
+
+**Autoriza dispensa de juros e multas de mora e parcelamento de crédito tributário de Cooperativas que menciona e permite outras providências.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 33ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 6 de dezembro de 1983, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Fica o Estado de Mato Grosso, autorizado a dispensar juros e multas decorrentes de créditos tributários constituídos ou não, até 31 de março de 1983, de responsabilidade da COOBANC - Cooperativa de Consumo dos Bancários de Cuiabá Ltda.
+
+Cláusula segunda
+
+Fica o Estado do Paraná, autorizado a dispensar multas e juros de mora, decorrentes de operações realizadas até 31 de outubro de 1983, de responsabilidade da empresa Cooperativa de Consumo dos Servidores Municipais de Londrina Ltda.
+
+Cláusula terceira
+
+Ficam também autorizados os Estados de Mato Grosso e do Paraná a conceder, relativamente aos créditos tributários remanescentes, parcelamento em até 60 (sessenta) prestações mensais iguais e sucessivas.
+
+Cláusula quarta
+
+O disposto neste convênio entrará em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 6 de dezembro de 1983.

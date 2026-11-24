@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 130, de 15 de setembro de 2023"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "130"
+data: 2023-09-15
+ementa: "Dispõe sobre a adesão do Estado de Pernambuco e altera o Convênio ICMS nº 115/21, que autoriza as unidades federadas que menciona a conceder parcelamento de débitos, tributários e não tributários, de contribuintes em processo de recuperação judicial ou em liquidação nas condições que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18.09.23., pelo despacho 53/23."
+data_publicacao: "2023-09-18"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV130_23"
+sha256_html_fonte: "e2a5b7002373db5c54e00e85f914603b19583d159a3e1cb021da7c568d6fb92e"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 130, de 15 de setembro de 2023
+
+CONVÊNIO ICMS Nº 130, DE 15 DE SETEMBRO DE 2023
+
+Publicado no DOU de 18.09.23., pelo despacho 53/23.
+
+Ratificação Nacional no DOU de 05.10.23, pelo Ato Declaratório 37/23.
+
+Dispõe sobre a adesão do Estado de Pernambuco e altera o Convênio ICMS nº 115/21, que autoriza as unidades federadas que menciona a conceder parcelamento de débitos, tributários e não tributários, de contribuintes em processo de recuperação judicial ou em liquidação nas condições que especifica.
+
+**O Conselho Nacional de Política Fazendária – CONFAZ,** na sua 380ª Reunião Extraordinária, realizada em Brasília, DF, no dia 15 de setembro de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** O Estado de Pernambuco fica incluído nas disposições do Convênio ICMS nº 115, de 8 de julho de 2021.
+
+**Cláusula segunda** Os dispositivos a seguir indicados da cláusula primeira do Convênio ICMS nº 115/21 passam a vigorar com as seguintes redações:
+
+I – o “caput” da cláusula primeira:
+
+“Cláusula primeira Os Estados do Amapá, Ceará, Goiás, Maranhão, Mato Grosso, Pará, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Sul, Rondônia e Sergipe ficam autorizados a conceder parcelamento, em até 180 (cento e oitenta) meses, para regularizar débitos, tributários e não tributários, de empresário ou sociedade empresária, em processo de recuperação judicial, inclusive para contribuinte cuja falência tenha sido decretada judicialmente.”.
+
+II – o § 1º e o “caput” do § 2º:
+
+“§ 1º Os Estados de Pernambuco e Rio Grande do Sul ficam autorizados a estender o benefício previsto no "caput" às sociedades cooperativas em liquidação, nos termos da Lei nº 5.764, de 16 de dezembro de 1971.
+
+**§ 2°** Os Estados do Maranhão, Mato Grosso e Pernambuco ficam autorizados a conceder redução de até 95% (noventa e cinco por cento) das multas e juros, observadas as demais condições e limites estabelecidos neste convênio e na legislação estadual, cujos créditos tributários poderão ser pagos nas seguintes condições:”.
+
+**Cláusula terceira** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir do mês subsequente ao da ratificação.

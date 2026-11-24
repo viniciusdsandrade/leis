@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICMS nº 91, de 10 de setembro de 1993"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "91"
+data: 1993-09-10
+ementa: "Dispõe sobre a adesão do Estado do Espírito Santo ao Convênio ICMS 12/93, de 30.04.93, que concede isenção do ICMS nas operações internas com peças de argamassa, e a não exigir o imposto na situação que menciona."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 15.09.93."
+data_publicacao: "1993-09-15"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV091_93"
+sha256_html_fonte: "df4687c5c337d2135da6e61e010f8fb6893200c2733b0f8a641f121a9879ad35"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 91, de 10 de setembro de 1993
+
+**CONVÊNIO ICMS 91/93**
+
+**Publicado no DOU de 15.09.93.**
+
+**Ratificação Nacional DOU de 04.10.93 pelo Ato COTEPE-ICMS**
+
+**05/93** .
+
+**Dispõe sobre a adesão do Estado do Espírito Santo ao Convênio ICMS 12/93, de 30.04.93, que concede isenção do ICMS nas operações internas com peças de argamassa, e a não exigir o imposto na situação que menciona.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Economia ou Finanças dos Estados e do Distrito Federal, na 71ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Fortaleza, CE, no dia 10 de setembro de 1993, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam estendidas ao Estado do Espírito Santo as disposições do Convênio ICMS 12/93 , de 30 de abril de 1993.
+
+Cláusula segunda
+
+Fica o Estado do Espírito Santo autorizado a não exigir o ICMS incidente nas operações previstas no Convênio ICMS 12/93 , ocorridas no período de 25 de maio de 1993 até a data da ratificação deste Convênio.
+
+Cláusula terceira
+
+Este Convênio entre em vigor na data da publicação de sua ratificação nacional.
+
+Fortaleza, CE, 10 de setembro de 1993.

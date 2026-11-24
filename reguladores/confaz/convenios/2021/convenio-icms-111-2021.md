@@ -1,0 +1,34 @@
+---
+titulo: "Convênio ICMS nº 111, de 8 de julho de 2021"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "111"
+data: 2021-07-08
+ementa: "Altera o Convênio ICMS nº 134/16, que dispõe sobre o fornecimento de informações prestadas por instituições e intermediadores financeiros e de pagamento, integrantes ou não do Sistema de Pagamentos Brasileiro - SPB, relativas às transações com cartões de débito, crédito, de loja (private label), transferência de recursos, transações eletrônicas do Sistema de Pagamento Instantâneo e demais instrumentos de pagamento eletrônicos, bem como sobre o fornecimento de informações prestadas por intermediadores de serviços e de negócios referentes às transações comerciais ou de prestação de serviços intermediadas, realizadas por pessoas jurídicas inscritas no Cadastro Nacional de Pessoa Jurídica - CNPJ ou pessoas físicas inscritas no Cadastro de Pessoa Física - CPF, ainda que não inscritas no cadastro de contribuintes do ICMS."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 09.07.21, pelo Despacho 49/21."
+data_publicacao: "2021-07-09"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV111_21"
+sha256_html_fonte: "741074fcefd777559874f2d2c721f9dff5fec28fba0a86f5d9436f4e807116cd"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 111, de 8 de julho de 2021
+
+CONVÊNIO ICMS Nº 111, DE 08 DE JULHO DE 2021
+
+Publicado no DOU de 09.07.21, pelo Despacho 49/21.
+
+**Dispensada AIR, conforme Nota Técnica Ascif/Gab/RFB nº 1, de 07.07.21**
+
+Altera o Convênio ICMS nº 134/16, que dispõe sobre o fornecimento de informações prestadas por instituições e intermediadores financeiros e de pagamento, integrantes ou não do Sistema de Pagamentos Brasileiro - SPB, relativas às transações com cartões de débito, crédito, de loja (private label), transferência de recursos, transações eletrônicas do Sistema de Pagamento Instantâneo e demais instrumentos de pagamento eletrônicos, bem como sobre o fornecimento de informações prestadas por intermediadores de serviços e de negócios referentes às transações comerciais ou de prestação de serviços intermediadas, realizadas por pessoas jurídicas inscritas no Cadastro Nacional de Pessoa Jurídica - CNPJ ou pessoas físicas inscritas no Cadastro de Pessoa Física - CPF, ainda que não inscritas no cadastro de contribuintes do ICMS.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 181ª Reunião Ordinária, realizada em Brasília, DF, no dia 08 de julho de 2021, tendo em vista o disposto na Lei Complementar nº 105, de 10 de janeiro de 2001, e no art. 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** O § 4º da cláusula terceira do Convênio ICMS nº 134, de 09 de dezembro de 2016, passa a vigorar com a seguinte redação:
+
+“§ 4º Os bancos de qualquer espécie, referentes às operações não relacionadas aos serviços de adquirência, deverão enviar as informações de que trata este convênio a partir do movimento de janeiro de 2022, até o dia 28 de fevereiro de 2022. O envio dos arquivos dos meses subsequentes obedecerá ao disposto no caput desta cláusula.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do primeiro mês subsequente ao da publicação.

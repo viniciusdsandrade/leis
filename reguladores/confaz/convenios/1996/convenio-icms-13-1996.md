@@ -1,0 +1,66 @@
+---
+titulo: "Convênio ICMS nº 13, de 22 de março de 1996"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "13"
+data: 1996-03-22
+ementa: "Dá nova redação à cláusula segunda do Convênio ICMS 105/92, de 25.09.92, que dispõe sobre a substituição tributária nas operações com derivados de petróleo e dos demais combustíveis e lubrificantes."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 27.03.96."
+data_publicacao: "1996-03-27"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV013_96"
+sha256_html_fonte: "4268729d7034c6672f9c9001ffbe49fffdd097e80fdb66fdca8e0c7e2eccbbb6"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 13, de 22 de março de 1996
+
+**CONVÊNIO ICMS 13/96**
+
+**Publicado no DOU de 27.03.96.**
+
+**Dá nova redação à cláusula segunda do Convênio ICMS 105/92, de 25.09.92, que dispõe sobre a substituição tributária nas operações com derivados de petróleo e dos demais combustíveis e lubrificantes.**
+
+O Ministro de Estado da Fazenda e os Secretários de Fazenda, Finanças ou Tributação dos Estados e do Distrito Federal, na 81ª Reunião Ordinária do Conselho Nacional de Política Fazendária, realizada em Brasília, DF, no dia 22 de março de 1996, tendo em vista o disposto no parágrafo único do art. 25 do Anexo Único do Convênio ICM 66/88, de 14 de dezembro de 1988, e nos termos do art. 102 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966) na forma da Lei Complementar nº 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+A cláusula segunda do Convênio ICMS 105/92 , de 25 de setembro de 1992, passa a vigorar com a seguinte redação:
+
+"Cláusula segunda A base de cálculo é o preço máximo ou único de venda a consumidor fixado pela autoridade competente.
+
+**§ 1º** Na falta do preço a que se refere esta cláusula, a base de cálculo será o montante formado pelo preço estabelecido pela autoridade competente para o remetente, ou em caso de inexistência deste, ressalvado o disposto no parágrafo seguinte, o valor da operação, acrescido do valor de qualquer encargo transferível ou cobrado do destinatário, adicionado, ainda, do valor resultante da aplicação sobre ele dos seguintes percentuais de margem de lucro:
+
+I - álcool carburante 23%;
+
+II - óleo diesel 13%;
+
+III - gasolina automotiva 28%;
+
+IV - lubrificante 30%;
+
+V - demais produtos 30%.
+
+**§ 2º** No caso de inexistir o preço estabelecido pela autoridade competente de que trata o parágrafo interior, a base de cálculo será o valor da operação, FOB, acrescido, em substituição aos percentuais estabelecidos nos incisos anteriores do mencionado parágrafo, do valor resultante da aplicação dos seguintes percentuais de margem de lucro:
+
+I - quando se tratar de remetente, sujeito passivo por substituição tributária, industrial:
+
+a) em operações internas e interestaduais com álcool carburante .....29,12%;
+
+b) em operações internas com gasolina automotiva ...........................56,31%;
+
+c) em operações interestaduais com gasolina automotiva.................108,41%.
+
+II - quando se tratar de remetente, sujeito passivo por substituição tributária, distribuidora, como tal definida pelo Departamento Nacional de Combustíveis - DNC, em operações interestaduais, com gasolina automotiva.................................................73,68%.
+
+**§ 3º** Na hipótese de a mercadoria não se destinar à comercialização, a base de cálculo é o valor da operação, como tal entendido o preço de aquisição do destinatário.
+
+**§ 4º** Na impossibilidade de inclusão na base de cálculo do transportador revendedor retalhista (TRR) do valor equivalente ao custo do transporte por este cobrado na venda do produto em operações internas, será atribuída ao TRR a responsabilidade pelo pagamento do imposto devido sobre esta parcela."
+
+**Cláusula segunda**
+
+Este Convênio entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Brasília, DF, 22 de março de 1996.

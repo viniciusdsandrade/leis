@@ -1,0 +1,34 @@
+---
+titulo: "Convênio ICMS nº 38, de 14 de abril de 2023"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "38"
+data: 2023-04-14
+ementa: "Altera o Convênio ICMS nº 115/21, que autoriza as unidades federadas que menciona a conceder parcelamento de débitos, tributários e não tributários, de contribuintes em processo de recuperação judicial ou em liquidação nas condições que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 18.04.23, pelo Despacho 19/23."
+data_publicacao: "2023-04-18"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV038_23"
+sha256_html_fonte: "36940a9765f6ea7e2f2eed365195dc906230a53c574d333b0ae55ea69cdbcb27"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 38, de 14 de abril de 2023
+
+CONVÊNIO ICMS Nº 38, DE 14 DE ABRIL DE 2023
+
+Publicado no DOU de 18.04.23, pelo Despacho 19/23.
+
+Ratificação Nacional no DOU de 05.05.23, pelo Ato Declaratório 16/23.
+
+Altera o Convênio ICMS nº 115/21, que autoriza as unidades federadas que menciona a conceder parcelamento de débitos, tributários e não tributários, de contribuintes em processo de recuperação judicial ou em liquidação nas condições que especifica.
+
+**O Conselho Nacional de Política Fazendária – CONFAZ,** na sua 188ª Reunião Ordinária, realizada em Brasília, DF, nos dias 31 de março, 12, 13 e 14 de abril de 2023, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** O "caput" da cláusula segunda do Convênio ICMS nº 115, de 8 de julho de 2021, passa a vigorar com a seguinte redação:
+
+"Cláusula segunda O parcelamento, na forma estabelecida na cláusula primeira, somente poderá ser requerido após o deferimento, devidamente comprovado, do processamento da recuperação judicial e, na hipótese de sociedades cooperativas, mediante comprovação de que a sociedade está em processo de liquidação nos termos da Lei nº 5.764, de 16 de dezembro de 1971.".
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.

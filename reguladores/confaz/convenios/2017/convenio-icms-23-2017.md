@@ -1,0 +1,38 @@
+---
+titulo: "Convênio ICMS nº 23, de 7 de abril de 2017"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "23"
+data: 2017-04-07
+ementa: "Altera o Convênio ICMS 110/07, que dispõe sobre o regime de substituição tributária nas operações com combustíveis e lubrificantes, derivados ou não de petróleo e com outros produtos."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 13.04.17, pelo Despacho 48/17."
+data_publicacao: "2017-04-13"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV023_17"
+sha256_html_fonte: "0832266056406b47b0a07b96caebdb6683cf0c4060552d5ded7c6b0839047735"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 23, de 7 de abril de 2017
+
+CONVÊNIO ICMS 23, DE 7 DE ABRIL DE 2017
+
+Publicado no DOU de 13.04.17, pelo Despacho 48/17.
+
+Altera o Convênio ICMS 110/07, que dispõe sobre o regime de substituição tributária nas operações com combustíveis e lubrificantes, derivados ou não de petróleo e com outros produtos.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 164ª Reunião Ordinária, realizada em Cuiabá, MT, no dia 7 de abril de 2017, tendo em vista o disposto nos arts. 6º ao 10 da Lei Complementar nº. 87, de 13 de setembro de 1996, e nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** O § 6º da cláusula vigésima segunda do Convênio ICMS 110/07, de 28 de setembro de 2007, passa a vigorar com a seguinte redação:
+
+“§ 6° Se o imposto retido for insuficiente para comportar a dedução do valor a ser repassado à unidade federada de destino, a referida dedução poderá ser efetuada do:
+
+I - ICMS Substituição Tributária devido por outro estabelecimento da refinaria ou suas bases, ainda que localizado em outra unidade federada; e
+
+II - ICMS próprio devido à unidade federada de origem, na parte que exceder o disposto no inciso I.”.
+
+**Cláusula segunda** Ficam convalidados, para o estado de Pernambuco, os procedimentos realizados, no período de 1º de julho de 2016 até o início de vigência deste convênio, de acordo com o § 6º da cláusula vigésima segunda do Convênio ICMS 110/07.
+
+**Cláusula terceira** Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do primeiro dia do segundo mês subsequente ao de sua publicação.

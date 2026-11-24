@@ -1,0 +1,48 @@
+---
+titulo: "Convênio ICMS nº 75, de 3 de agosto de 2006"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "75"
+data: 2006-08-03
+ementa: "Autoriza os Estados de Alagoas, Amazonas, Bahia, Ceará, Goiás, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Sergipe e Tocantins e o Distrito Federal a isentar do ICMS a comercialização de sanduíches denominados \"Big Mac\" efetuada durante o evento \"Mc Dia Feliz\"."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 07.08.06."
+data_publicacao: "2006-08-07"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV075_06"
+sha256_html_fonte: "e1c63ffb5b5a66369f79a246b317b79ae76754e786de7a7924b436eee878b457"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 75, de 3 de agosto de 2006
+
+**CONVÊNIO ICMS 75/06**
+
+**Publicado no DOU de 07.08.06.**
+
+**Ratificação Nacional DOU de 24.08.06, pelo Ato Declaratório**
+
+**10/06** .
+
+**Autoriza os Estados de Alagoas, Amazonas, Bahia, Ceará, Goiás, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Sergipe e Tocantins e o Distrito Federal a isentar do ICMS a comercialização de sanduíches denominados "Big Mac" efetuada durante o evento "Mc Dia Feliz".**
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,**
+
+na sua 94ª reunião extraordinária, realizada em Brasília, DF, no dia 3 de agosto de 2006, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+Cláusula primeira
+
+Ficam os Estados de Alagoas, Amazonas, Bahia, Ceará, Goiás, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Sergipe e Tocantins e o Distrito Federal autorizados a conceder isenção do ICMS devido na comercialização do sanduíche "BIG MAC" para os integrantes da Rede McDonald's (lojas próprias e franqueadas) estabelecidos em seus territórios que participarem do evento "McDia Feliz" e que destinarem, integralmente a renda proveniente da venda do referido sanduíche, após dedução de outros tributos, à entidade assistência social, sem fins lucrativos, indicada pela Secretaria da Fazenda, Finanças, Receita ou Tributação da correspondente da unidade federada.
+
+**Parágrafo único.** O benefício da isenção de que trata este convênio aplica-se relativamente às vendas do sanduíche "Big MAC" ocorridas durante o dia 26 de agosto de 2006, dia do evento "McDia Feliz".
+
+Cláusula segunda
+
+O benefício de que trata a cláusula primeira fica condicionado à comprovação, junto à Secretaria da Fazenda, Finanças, Receita ou Tributação da unidade federada concedente, pelos participantes do evento, da doação do total da receita líquida auferida com a venda dos sanduíches "BIG MAC" isentos do ICMS, à entidade assistencial indicada nos termos da cláusula primeira.
+
+Cláusula terceira
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional.
+
+Brasília, DF, 3 de agosto de 2006.

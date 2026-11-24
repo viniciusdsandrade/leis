@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 118, de 12 de dezembro de 2003"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "118"
+data: 2003-12-12
+ementa: "Altera o Convênio ICMS 23/90, que dispõe sobre o aproveitamento dos valores pagos a título de direitos autorais, artísticos e conexos como crédito do ICMS."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 17.12.03."
+data_publicacao: "2003-12-17"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV118_03"
+sha256_html_fonte: "7616997473c1065de1455b5f3fbe3ae5542bedefcd840ea391786a1380fde792"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 118, de 12 de dezembro de 2003
+
+**CONVÊNIO ICMS 118/03**
+
+**Publicado no DOU de 17.12.03.**
+
+**Ratificação Nacional DOU de 06.01.04, pelo Ato Declaratório**
+
+**01/04** .
+
+**Altera o Convênio ICMS 23/90, que dispõe sobre o aproveitamento dos valores pagos a título de direitos autorais, artísticos e conexos como crédito do ICMS.**
+
+O Conselho Nacional de Política Fazendária - CONFAZ, na sua 112ª reunião ordinária, realizada em Joinville, SC, no dia 12 de dezembro de 2003, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Passa a vigorar com a seguinte redação o item 2 do § 1° da cláusula primeira do Convênio ICMS 23/90 , de 13 de setembro de 1990:
+
+"2. em até 40% (quarenta por cento), aplicável sobre o valor do imposto debitado no mês, correspondente às operações efetuadas com discos fonográficos e com outros suportes de sons gravados.".
+
+**Cláusula segunda**
+
+Ficam prorrogadas até 31 de julho de 2004, as disposições do Convênio ICMS 23/90 , de 13 de setembro de 1990.
+
+Cláusula terceira
+
+Este convênio entra em vigor na data da publicação de sua ratificação nacional , produzindo efeitos a partir de 1° de janeiro de 2004.
+
+Joinville, SC, 12 de dezembro de 2003.

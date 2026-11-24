@@ -1,0 +1,46 @@
+---
+titulo: "Convênio ICMS nº 70, de 29 de maio de 1989"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "70"
+data: 1989-05-29
+ementa: "Antecipa o recolhimento do ICMS devido pelos distribuidores autônomos de fumo e seus sucedâneos manufaturados."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicação DOU de 31.05.89."
+data_publicacao: "1989-05-31"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1989/CV070_89"
+sha256_html_fonte: "7ea6f070c5233ac2b32d4d28ec6c575b2a9f67cb8df254f15f105ef6448aa6dc"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 70, de 29 de maio de 1989
+
+**CONVÊNIO ICMS 70/89**
+
+**Publicação DOU de 31.05.89.**
+
+**Ratificação Nacional DOU de 19.06.89, pelo Ato COTEPE/ICMS**
+
+**07/89** .
+
+**Antecipa o recolhimento do ICMS devido pelos distribuidores autônomos de fumo e seus sucedâneos manufaturados.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 56ª Reunião Ordinária do Conselho de Política Fazendária, realizada em Brasília, DF, no dia 29 de maio de 1989, tendo em vista o disposto na Lei Complementar n° 24, de 07 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Acordam os Estados e o Distrito Federal em exigir antecipadamente o ICMS sobre os estoques de fumo e seus sucedâneos manufaturados em poder dos distribuidores autônomos em 31.05.89 e 30.06.89, utilizados os percentuais previstos para os meses de maio e junho, respectivamente, pelo Convênio ICMS 28/89 , de 24.04.89.
+
+**§ 1º** A exigência prevista nesta Cláusula deverá incluir o imposto devido pelos varejistas.
+
+**§ 2º** O prazo de recolhimento do imposto será fixado pelos Estados e pelo Distrito Federal.
+
+**§ 3º** Não será exigida qualquer diferença quanto aos produtos de que trata este Convênio, em relação aos quais tenha havido o pagamento antecipado do imposto.
+
+Cláusula segunda
+
+Este Convênio entra em vigor na data da publicação de sua ratificação nacional, retroagindo seus efeitos à data de sua celebração.
+
+Brasília, DF, 29 de maio de 1989.

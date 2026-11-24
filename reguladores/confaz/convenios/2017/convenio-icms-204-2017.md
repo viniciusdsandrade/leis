@@ -1,0 +1,64 @@
+---
+titulo: "Convênio ICMS nº 204, de 15 de dezembro de 2017"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "204"
+data: 2017-12-15
+ementa: "Altera o Convênio ICMS 52/17, que dispõe sobre as normas gerais a serem aplicadas aos regimes de substituição tributária e de antecipação do ICMS com encerramento de tributação, relativos às operações subsequentes, instituídos por convênios ou protocolos firmados entres os Estados e o Distrito Federal."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 19.12.17, pelo Despacho 175/17."
+data_publicacao: "2017-12-19"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV204_17"
+sha256_html_fonte: "f9bfd9e5ab56be2928dde6bf98832fea2557a49c9529a4f0a1091c3e9792e728"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 204, de 15 de dezembro de 2017
+
+CONVÊNIO ICMS 204/17, DE 15 DE DEZEMBRO DE 2017
+
+Publicado no DOU de 19.12.17, pelo Despacho 175/17.
+
+Altera o Convênio ICMS 52/17, que dispõe sobre as normas gerais a serem aplicadas aos regimes de substituição tributária e de antecipação do ICMS com encerramento de tributação, relativos às operações subsequentes, instituídos por convênios ou protocolos firmados entres os Estados e o Distrito Federal.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 167ª Reunião Ordinária, realizada em Vitória, ES, no dia 15 de dezembro de 2017, tendo em vista o disposto nos arts. 6º a 10 da Lei Complementar nº 87, de 13 de setembro de 1996, nos arts. 102 e 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na alínea “a” do inciso XIII do § 1º e nos §§ 7º e 8º do art. 13, no art. 21-B e nos §§ 12 a 14 do art. 26, todos da Lei Complementar nº 123, de 14 de dezembro de 2006, resolve celebrar o seguinte
+
+C O N V Ê N I O
+
+**Cláusula primeira** Os seguintes dispositivos do Convênio ICMS 52/17, de 7 de abril de 2017, passam a vigorar com as seguintes redações:
+
+I - os itens 2.0 e 6.0 do Anexo IV:
+
+"
+
+<table><tbody><tr><td> <p>2.0</p> </td> <td> <p>03.002.00</p> </td> <td> <p>2201.10.00</p> </td> <td> <p>Água mineral, gasosa ou não, ou potável, naturais, em embalagem com capacidade igual ou superior a 5.000 ml; exceto as classificadas no CEST 03.024.00 e 03.025.00</p> </td> </tr><tr><td> <p>6.0</p> </td> <td> <p>03.006.00</p> </td> <td> <p>2201.10.00</p> </td> <td> <p>Outras águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas; exceto as classificadas no CEST 03.024.00 e 03.025.00</p> </td> </tr></tbody></table>
+
+";
+
+II - os itens 2 e 6 do grupo de "Bebidas não Alcoólicas constantes dos Anexos IV e XVII" do Anexo XXVII:
+
+"
+
+<table><tbody><tr><td> <p>2</p> </td> <td> <p>03.002.00</p> </td> <td> <p>2201.10.00</p> </td> <td> <p>Água mineral, gasosa ou não, ou potável, naturais, em embalagem com capacidade igual ou superior a 5.000 ml; exceto as classificadas no CEST 03.024.00 e 03.025.00</p> </td> </tr><tr><td> <p>6</p> </td> <td> <p>03.006.00</p> </td> <td> <p>2201.10.00</p> </td> <td> <p>Outras águas minerais, potáveis ou naturais, gasosas ou não, inclusive gaseificadas; exceto as classificadas no CEST 03.024.00 e 03.025.00</p> </td> </tr></tbody></table>
+
+".
+
+**Cláusula segunda** Os seguintes dispositivos ficam incluídos no Convênio ICMS 52/17, com a seguinte redação:
+
+I - os itens 24.0 e 25.0 ao Anexo IV:
+
+"
+
+<table><tbody><tr><td> <p>24.0</p> </td> <td> <p>03.024.00</p> </td> <td> <p>2201.10.00</p> </td> <td> <p>Água mineral em embalagens retornáveis com capacidade igual ou superior a 10 (dez) e inferior a 20 (vinte) litros</p> </td> </tr><tr><td> <p>25.0</p> </td> <td> <p>03.025.00</p> </td> <td> <p>2201.10.00</p> </td> <td> <p>Água mineral em embalagens retornáveis com capacidade igual ou superior a 20 (vinte) litros</p> </td> </tr></tbody></table>
+
+";
+
+II - os itens 26 e 27 ao grupo de "Bebidas não Alcoólicas constantes dos Anexos IV e XVII" do Anexo XXVII:
+
+"
+
+<table><tbody><tr><td> <p>26</p> </td> <td> <p>03.024.00</p> </td> <td> <p>2201.10.00</p> </td> <td> <p>Água mineral em embalagens retornáveis com capacidade igual ou superior a 10 (dez) e inferior a 20 (vinte) litros</p> </td> </tr><tr><td> <p>27</p> </td> <td> <p>03.025.00</p> </td> <td> <p>2201.10.00</p> </td> <td> <p>Água mineral em embalagens retornáveis com capacidade igual ou superior a 20 (vinte) litros</p> </td> </tr></tbody></table>
+
+".
+
+**Cláusula terceira** Este convênio entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos a partir do 1º dia do quarto mês subsequente ao da sua publicação.

@@ -1,0 +1,48 @@
+---
+titulo: "Convênio ICMS nº 204, de 9 de dezembro de 2021"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "204"
+data: 2021-12-09
+ementa: "Altera o Convênio ICMS nº 38/12, que concede isenção do ICMS nas saídas de veículos destinados a pessoas portadoras de deficiência física, visual, mental ou autista."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 10.12.21, pelo despacho 83/21."
+data_publicacao: "2021-12-10"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV204_21"
+sha256_html_fonte: "9deef8fe1c2c849867686213404664b516f71ebd92e77b89484ade49b294c1c1"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 204, de 9 de dezembro de 2021
+
+CONVÊNIO ICMS Nº 204, DE 09 DE DEZEMBRO DE 2021
+
+Publicado no DOU de 10.12.21, pelo despacho 83/21.
+
+Retificação no DOU de 13.12.21.
+
+Ratificação Nacional no DOU de 28.12.21, pelo Ato Declaratório 37/21.
+
+Altera o Convênio ICMS nº 38/12, que concede isenção do ICMS nas saídas de veículos destinados a pessoas portadoras de deficiência física, visual, mental ou autista.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ**, na sua 183ª Reunião Ordinária, realizada em Brasília, DF, no dia 09 de dezembro de 2021, tendo em vista o disposto na Lei Complementar nº 24, de 07 de janeiro de 1975, resolve celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira** Os §§ 9º e 10 ficam acrescidos à cláusula primeira do Convênio ICMS nº 38, de 30 de março de 2012, com as seguintes redações:
+
+“§ 9º Ao veículo automotor novo, cujo preço de venda ao consumidor sugerido pelo fabricante for superior ao valor de que trata o § 2º desta cláusula, desde que este preço sugerido não ultrapasse a R$ 100.000,00 (cem mil reais), incluídos os tributos incidentes, poderá ser aplicada a isenção parcial do ICMS, limitada à parcela da operação no valor de R$ 70.000,00 (setenta mil reais).
+
+**§ 10** Para efeitos do § 2º desta cláusula, o veículo automotor ofertado deve ser passível de aquisição por qualquer pessoa, ainda que não portadora de deficiência, nem autista.”.
+
+**Cláusula segunda** Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2022
+
+**RETIFICAÇÃO**
+
+Publicado no DOU de 13.12.21
+
+Na cláusula segunda do Convênio ICMS nº 204, de 09 de dezembro de 2021, publicado no DOU de 10 de dezembro de 2021, Seção 1, página 39, **onde se lê:** “...entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.”; **leia-se:** “...entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir de 1º de janeiro de 2022.”.
+
+CARLOS HENRIQUE DE AZEVEDO OLIVEIRA
+
+Diretor da Secretaria-Executiva do CONFAZ

@@ -1,0 +1,44 @@
+---
+titulo: "Convênio ICM nº 18, de 23 de outubro de 1981"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICM"
+numero: "18"
+data: 1981-10-23
+ementa: "Revoga disposições de convênios que especifica."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 29.10.81."
+data_publicacao: "1981-10-29"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/1981/CV018_81"
+sha256_html_fonte: "5b63bfe43e0b33853828485aea3ff2414f47dcc51fc2a6d0d56258ba1d09f65c"
+baixado_em: 2026-11-23
+---
+# Convênio ICM nº 18, de 23 de outubro de 1981
+
+**CONVÊNIO ICM 18/81**
+
+**Publicado no DOU de 29.10.81.**
+
+**Ratificação Nacional DOU de 16.11.81 pelo Ato COTEPE-ICM**
+
+**05/81** .
+
+**Revoga disposições de convênios que especifica.**
+
+O Ministro da Fazenda e os Secretários de Fazenda ou Finanças dos Estados e do Distrito Federal, na 24ª reunião ordinária do Conselho de Política Fazendária, realizada em Foz do Iguaçu, PR, no dia 23 de outubro de 1981, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolvem celebrar o seguinte
+
+CONVÊNIO
+
+**Cláusula primeira**
+
+Ficam revogados:
+
+I - os convênios AE 03/71 , de 30 de março de 1971; AE 08/73 , de 26 de novembro de 1973 e ICM 18/76 , de 15 de junho de 1976.
+
+II - os itens 2 e 3 da **cláusula primeira** do I Convênio do Rio de Janeiro , de 27 de fevereiro de 1967, a letra "d" da cláusula XII, do Convênio da Amazônia , de 16 de maio de 1968 e letra "b" do item I e o item III da **cláusula primeira** do Convênio ICM 57/75 , de 10 de dezembro de 1975.
+
+Cláusula segunda
+
+Este convênio entrará em vigor na data da publicação de sua ratificação nacional, produzindo efeitos a partir de 1º de janeiro de 1982.
+
+Foz do Iguaçu, PR, 23 de outubro de 1981.

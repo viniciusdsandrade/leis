@@ -90,6 +90,31 @@ class Montagem(unittest.TestCase):
         self.assertTrue(r["corpo"].startswith("# Convênio ICMS nº 106, de 24 de setembro de 2004\n\n**CONVÊNIO ICMS 106/04**"))
         self.assertNotIn("rodapé", r["corpo"])
 
+    def test_convenio_sem_o_imposto_na_epigrafe_e_icms_de_1990_em_diante(self):
+        html = CV_2004.replace("CONVÊNIO ICMS 106/04", "CONVÊNIO Nº 106, DE 24 DE SETEMBRO DE 2004")
+        meta, r = self.meta(item("convenios", 2004, 106, "CV106_04"), html)
+        self.assertEqual((meta["tipo"], r["slug"]), ("Convênio ICMS", "convenio-icms-106-2004"))
+        self.assertIn("CONVÊNIO Nº 106, DE 24 DE SETEMBRO DE 2004", r["corpo"])
+        # antes de 1990 a série tem ICM e AE: sem o imposto na epígrafe, o tipo fica como a fonte o traz
+        antigo = html.replace("DE 2004", "DE 1984").replace("de 2004", "de 1984")
+        meta, r = self.meta(item("convenios", 1984, 106, "CV106_84"), antigo)
+        self.assertEqual((meta["tipo"], r["slug"]), ("Convênio", "convenio-106-1984"))
+
+    def test_ato_que_ja_esta_no_acervo_pelo_diario_oficial_nao_ganha_segundo_arquivo(self):
+        import tempfile
+        with tempfile.TemporaryDirectory() as tmp:
+            pasta, c.PASTA = c.PASTA, Path(tmp)
+            try:
+                it = item("convenios", 2021, 84, "CV084_21")
+                self.assertFalse(c.ja_no_acervo_pelo_diario(it))
+                (Path(tmp) / "convenios" / "2021").mkdir(parents=True)
+                (Path(tmp) / "convenios" / "2021" / "convenio-icms-n-84-de-31-de-maio-de-2021-323170484.md").write_text("x")
+                self.assertTrue(c.ja_no_acervo_pelo_diario(it))
+                self.assertEqual(c.processar(None, it), ("pulado", None))
+                self.assertFalse(c.ja_no_acervo_pelo_diario(item("convenios", 2021, 8, "CV008_21")))
+            finally:
+                c.PASTA = pasta
+
     def test_protocolo_com_a_data_na_epigrafe(self):
         meta, r = self.meta(item("protocolos", 2012, 146, "pt146_12"), PT_2012)
         self.assertEqual((meta["titulo"], meta["data"], meta["data_publicacao"]),
@@ -109,6 +134,23 @@ class Montagem(unittest.TestCase):
         self.assertEqual(meta["situacao_fonte"], "Revogado pelo Conv. ICMS 60/90, efeitos a partir de 05.10.90.")
         self.assertEqual(r["slug"], "convenio-icm-16-1976")
 
+    def test_convenio_ae_da_serie_anterior_ao_confaz(self):
+        for epigrafe in ("CONVÊNIO AE 16/76", "CONVÊNIO AE-16/76", "C ONVÊNIO AE 16/76"):
+            with self.subTest(epigrafe):
+                meta, r = self.meta(item("convenios", 1976, 16, "CV016_76"), CV_1976.replace("CONVÊNIO ICM 16/76", epigrafe))
+                self.assertEqual((meta["tipo"], meta["titulo"], r["slug"]),
+                                 ("Convênio AE", "Convênio AE nº 16, de 15 de junho de 1976", "convenio-ae-16-1976"))
+
+    def test_revogado_a_partir_de_uma_data_e_do_ato_inteiro(self):
+        html = CV_1976.replace("Revogado pelo Conv. ICMS", "Revogado a partir de 02.01.78 pelo Conv. ICM")
+        self.assertIs(self.meta(item("convenios", 1976, 16, "CV016_76"), html)[0]["revogada"], True)
+
+    def test_dispositivo_unico_sem_clausula_vale_com_o_verbo_e_o_fecho(self):
+        unico = CV_1976.replace("<p>Cláusula primeira</p>", "").replace("Fica concedido crédito presumido.", "Os Estados signatários acordam em conceder crédito presumido.")
+        self.assertEqual(self.meta(item("convenios", 1976, 16, "CV016_76"), unico)[0]["data"], "1976-06-15")
+        sem_fecho = unico.replace("<p>Brasília, DF, 15 de junho de 1976.</p>", "")
+        self.assertEqual(c.montar(item("convenios", 1976, 16, "CV016_76"), sem_fecho)[1]["motivo"], "texto sem cláusula nem artigo")
+
     def test_revogacao_parcial_e_sem_eficacia_nao_marcam_revogada(self):
         parcial = CV_1976.replace("Revogado pelo Conv. ICMS", "Revogada a cláusula segunda pelo Conv. ICMS")
         self.assertIsNone(self.meta(item("convenios", 1976, 16, "CV016_76"), parcial)[0]["revogada"])
@@ -125,12 +167,32 @@ class Montagem(unittest.TestCase):
                 ("<p>PROTOCOLO ICMS 23/19, DE 10 DE OUTUBRO DE 2019</p>", 23, 2019, "pt023_19", "2019-10-10"),
                 ("<p>PROTOCOLO ICMS Nº 48, 09 DE DEZEMBRO DE 2021</p>", 48, 2021, "protocolo-icms-48-21", "2021-12-09"),
                 ("<p>PROTOCOLO ICMS 3, DE 3 ABRIL DE 2009</p>", 3, 2009, "pt003_09", "2009-04-03"),
-                ("<p>PROTOCOLO ICMS 23/17, DE 15 DE DEZEMBRO DE2017</p>", 23, 2017, "pt023_17", "2017-12-15")]:
+                ("<p>PROTOCOLO ICMS 23/17, DE 15 DE DEZEMBRO DE2017</p>", 23, 2017, "pt023_17", "2017-12-15"),
+                ("<p>PROTOCOLO ICMS 14 , DE 1º DEABRIL DE 2011</p>", 14, 2011, "pt014_11", "2011-04-01"),
+                ("<p>PROTOCOLO ICMS 77/18, DE 05DE JULHO DE 2018</p>", 77, 2018, "pt077_18", "2018-07-05"),
+                ("<p>PROTOCOLO ICMS 80/18, DE05DE JULHO DE 2018</p>", 80, 2018, "pt080_18", "2018-07-05"),
+                ("<p>PROTOCOLO ICMS 74, DE 04 D E AGOSTO DE 1992</p>", 74, 1992, "pt074_92", "1992-08-04"),
+                ("<p>PROTOCOLO ICMS 90, DE 28 DE SETEMBRO D E 2010</p>", 90, 2010, "pt090_10", "2010-09-28"),
+                ("<p>PROTOCOLO ICMS 29, DE 3 DE ABRIL 2009</p>", 29, 2009, "pt029_09", "2009-04-03"),
+                ("<p>PROTOCOLO ICMS 89, DE 12 DE SETEMBRO DE DE 2016</p>", 89, 2016, "pt089_16", "2016-09-12")]:
             with self.subTest(nome):
                 html = PT_2012.replace("<p>PROTOCOLO ICMS 146, DE 28 DE SETEMBRO DE 2012</p>", epigrafe)
                 if "/97</strong>" in epigrafe:
                     html = html.replace("</div><div>rodapé", "<p>Salvador, BA, 16 de julho de 1997</p></div><div>rodapé")
                 self.assertEqual(self.meta(item("protocolos", ano, numero, nome), html)[0]["data"], esperado)
+
+    def test_epigrafe_de_convenio_com_a_palavra_partida_ou_com_barra(self):
+        for bloco, numero in [("CON VÊNIO ICMS 51, DE 26 DE MARÇO DE 2010", 51), ("C ONVÊNIO ICMS 51, DE 26 DE MARÇO DE 2010", 51),
+                              ("CONVÊNIO/ICMS Nº 2, DE 26 DE MARÇO DE 2010", 2)]:
+            with self.subTest(bloco):
+                lida = c.ler_epigrafe([bloco])
+                self.assertEqual((lida["especie"], lida["imposto"], lida["numero"], lida["data"]),
+                                 ("convenio", "icms", numero, "2010-03-26"))
+        # o mês truncado, o ano truncado e a epígrafe sem a espécie continuam sem leitura
+        for bloco in ("CONVÊNIO ICMS 183/19, DE 10 DE OUTUBR DE 2019", "ICMS 50/18, DE 05 DE JULHO DE 2018",
+                      "CONVÊNIO ICMS 50/20, DE 30 DE JULHO DE 202"):
+            with self.subTest(bloco):
+                self.assertIsNone(c.ler_epigrafe([bloco]))
 
     def test_retencoes(self):
         casos = {
@@ -145,7 +207,8 @@ class Montagem(unittest.TestCase):
             "publicação no DOU anterior à data do ato": (item("protocolos", 2012, 146, "pt146_12"), PT_2012.replace("23.10.12", "23.09.12")),
             "data do ato não encontrada": (item("convenios", 2004, 106, "CV106_04"),
                                            CV_2004.replace("no dia 24 de setembro de 2004", "nesta data").replace("<p>Aracaju, SE, 24 de setembro de 2004.</p>", "")),
-            "texto sem cláusula nem artigo": (item("convenios", 2004, 106, "CV106_04"), CV_2004.replace("Cláusula", "Item")),
+            "texto sem cláusula nem artigo": (item("convenios", 2004, 106, "CV106_04"),
+                                              CV_2004.replace("Cláusula", "Item").replace("resolve celebrar", "aprova")),
             "página sem o bloco de texto": (item("convenios", 2004, 106, "CV106_04"), "<html><body>Página não encontrada</body></html>"),
         }
         for motivo, (it, html) in casos.items():

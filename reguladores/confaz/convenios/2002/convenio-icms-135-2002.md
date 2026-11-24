@@ -1,0 +1,58 @@
+---
+titulo: "Convênio ICMS nº 135, de 13 de dezembro de 2002"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "135"
+data: 2002-12-13
+ementa: "Harmoniza entendimento sobre cumprimento de obrigações tributárias na importação de bens ou mercadorias por pessoa jurídica importadora."
+revogada: null
+versao_texto: "texto do portal do CONFAZ (www.confaz.fazenda.gov.br), com as notas de alteração, prorrogação e revogação que o portal acrescenta ao ato; não substitui a publicação no Diário Oficial da União"
+publicacao: "Publicado no DOU de 19.12.02."
+data_publicacao: "2002-12-19"
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV135_02"
+sha256_html_fonte: "6d923057017dad57cbb4ca97b207b2d51befed73aeda679ac0db06fa5a1e3bfd"
+baixado_em: 2026-11-23
+---
+# Convênio ICMS nº 135, de 13 de dezembro de 2002
+
+CONVÊNIO ICMS 135/02
+
+Publicado no DOU de 19.12.02.
+
+Alterado pelos Convs. ICMS 61/07 , 49/09 .
+
+Harmoniza entendimento sobre cumprimento de obrigações tributárias na importação de bens ou mercadorias por pessoa jurídica importadora.
+
+**O Conselho Nacional de Política Fazendária - CONFAZ,** na sua 108ª reunião ordinária, realizada em Natal, RN, no dia 13 de dezembro de 2002, tendo em vista o disposto no artigo 199 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), e
+
+considerando o que dispõe a Lei Complementar nº 87, de 13 de setembro de 1996, especialmente no que se refere a base de cálculo do ICMS;
+
+considerando o que dispõe o Convênio s/n de 15 de dezembro de 1970, que instituiu o Sistema Nacional Integrado de Informações Econômico Fiscais, especialmente no tocante à emissão de Nota Fiscal relacionada com operações relativas à circulação de mercadorias;
+
+considerando o que dispõem as Instruções Normativas SRF nº 75, de 13 de setembro de 2001, e SRF nº 98, de 5 de dezembro de 2001, e o Ato Declaratório Interpretativo SRF nº 7 de 13 de junho de 2002;
+
+considerando a necessidade de harmonizar procedimentos relacionados com o cumprimento de obrigações tributárias em importações efetuadas por pessoa jurídica importadora, resolve celebrar o seguinte
+
+CONVÊNIO
+
+Nova redação dada a cláusula primeira pelo Conv. ICMS 61/07, efeitos a partir de 12.07.07.
+
+**Cláusula primeira** Para efeito de cumprimento das obrigações tributárias relativas ao ICMS, na saída promovida, a qualquer título, por estabelecimento importador de mercadoria ou bem por ele importado do exterior, ainda que tida como efetuada por conta e ordem de terceiros, não tem aplicação o disposto nas Instruções Normativas SRF nº 247, de 21 de novembro de 2002, nos artigos 12 e 86 a 88, e SRF nº 225, de 18 de outubro de 2002, e no Ato Declaratório Interpretativo SRF nº 7 de 13 de junho de 2002, ou outros instrumentos normativos que venham a substituí-los.
+
+Redação original, efeitos até 11.07.07.
+
+Cláusula primeira Para efeito de cumprimento das obrigações tributárias relativas ao ICMS, na saída promovida, a qualquer título, por estabelecimento importador de mercadoria ou bem por ele importado do exterior não tem aplicação o disposto nas Instruções Normativas SRF nº 75, de 13 de setembro de 2001, e SRF nº 98, de 5 de dezembro de 2001, e no Ato Declaratório Interpretativo SRF nº 7 de 13 de junho de 2002, ainda que tida como efetuada por conta e ordem de terceiros.
+
+Revigorada a cláusula segunda pelo Conv. ICMS 49/09, efeitos a partir de 09.07.09.
+
+**Cláusula segunda** Este convênio não se aplica aos Estados do Espírito Santo e Goiás.
+
+Revogada a cláusula segunda pelo Conv. ICMS 03/03, efeitos a partir de 12.07.07.
+
+Redação original, efeitos até 11.07.07.
+
+Cláusula segunda Este convênio não se aplica às operações e prestações realizadas no Estado do Espírito Santo.
+
+**Cláusula terceira** Este convênio entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Natal, RN, 13 de dezembro de 2002.
